@@ -1462,7 +1462,7 @@ const AITravelEngine = {
     const query = encodeURIComponent(`${cleanPlace} ${cleanCity}`);
     const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${query}`;
     const ratingTag = rating ? ` (${rating})` : '';
-    return `<a href="${mapsUrl}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();" style="display:inline-flex; align-items:center; gap:0.25rem; background:#EFF6FF; color:#1D4ED8; border:1px solid #93C5FD; padding:0.15rem 0.55rem; border-radius:6px; font-weight:700; text-decoration:none; font-size:0.85rem;" title="View Live Google Maps Hours, Reviews & Photos">📍 ${escapeHtml(placeName)}${ratingTag} <span style="font-size:0.75rem;">↗</span></a>`;
+    return `<a href="${mapsUrl}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();" style="display:inline-flex; align-items:center; justify-content:center; gap:0.2rem; background:#EFF6FF; color:#1D4ED8; border:1.5px solid #93C5FD; padding:0.25rem 0.55rem; border-radius:6px; font-weight:700; text-decoration:none; font-size:0.8rem; white-space:nowrap; max-width:100%;" title="View Live Google Maps Hours, Reviews & Photos">📍 Maps ↗</a>`;
   },
 
   // MASTER DUAL ROUTE GENERATOR: Route A (Must-Visit Selected Spots) & Route B (Full 1-Day AI Recommended Course)
@@ -1617,8 +1617,12 @@ const AITravelEngine = {
 
   lastCity: '',
   selectedMustVisitIds: new Set(),
-  routeA_spots: [],
-  routeB_spots: [],
+  viewMode: (typeof window !== 'undefined' && window.innerWidth < 768) ? 'compact' : 'grid',
+
+  setViewMode(mode) {
+    this.viewMode = mode;
+    this.renderCandidateSpots();
+  },
 
   // Step 2: Render Interactive Candidate Spots (Max Cap: 8)
   renderCandidateSpots() {
@@ -1671,43 +1675,96 @@ const AITravelEngine = {
         counterBadge.style.color = selectedCount >= 8 ? '#C2410C' : '#047857';
       }
 
-      container.innerHTML = filteredSpots.map(s => {
-        const isChecked = this.selectedMustVisitIds.has(s.id);
-        const imgUrl = s.image || SVG_FALLBACK_IMAGE;
-
-        return `
-          <div class="card spot-candidate-card" style="border:2.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; transition:all 0.2s ease; display:flex; flex-direction:column; justify-content:space-between; position:relative; box-shadow:${isChecked ? '0 0 0 3px #FDE68A' : 'none'};" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
-            ${isChecked ? `
-              <div style="position:absolute; top:-10px; left:-10px; background:#047857; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.25rem 0.65rem; border-radius:999px; border:2px solid #FFF; box-shadow:0 2px 5px rgba(0,0,0,0.2); z-index:10;">
-                ✓ SELECTED
-              </div>
-            ` : ''}
-
-            <div>
-              <div style="width:100%; height:150px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
-                <img src="${imgUrl}" alt="${escapeHtml(s.name)}" loading="lazy" decoding="async" style="width:100%; height:100%; object-fit:cover; display:block;" onerror="this.onerror=null; this.src='${SVG_FALLBACK_IMAGE}';">
-                <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
-              </div>
-
-              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.4rem;">
-                <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${s.category}</span>
-              </div>
-
-              <h4 style="font-size:1.05rem; margin-bottom:0.35rem; font-family:var(--font-sans); color:var(--text-primary); display:flex; align-items:center; gap:0.5rem;">
-                <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:20px; height:20px; cursor:pointer; accent-color:#047857;">
-                <span>${escapeHtml(s.name)}</span>
-              </h4>
-
-              <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.75rem;">${escapeHtml(s.desc)}</p>
-            </div>
-
-            <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.8rem; border-top:1px dashed #EADEC9; padding-top:0.5rem; margin-top:auto;">
-              <span style="font-weight:700; color:var(--primary-wood);">${escapeHtml(s.price)}</span>
-              ${this.createMapsLink(s.name.split(' (')[0], city.split(',')[0])}
-            </div>
+      const viewModeBarHtml = `
+        <div class="view-mode-bar" style="grid-column:1 / -1; width:100%;">
+          <div style="display:flex; align-items:center; gap:0.4rem;">
+            <span style="font-size:0.88rem; font-weight:800; color:var(--text-primary);">📱 表示モード:</span>
+            <span style="font-size:0.8rem; color:var(--text-secondary);">(全${filteredSpots.length}件)</span>
           </div>
-        `;
-      }).join('');
+          <div style="display:flex; gap:0.4rem; flex-wrap:wrap;">
+            <button type="button" class="view-mode-btn ${this.viewMode === 'compact' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('compact')">
+              ⚡ コンパクト (写真なし/高速)
+            </button>
+            <button type="button" class="view-mode-btn ${this.viewMode === 'grid' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('grid')">
+              🖼️ 写真あり (カード)
+            </button>
+          </div>
+        </div>
+      `;
+
+      if (this.viewMode === 'compact') {
+        container.style.display = 'flex';
+        container.style.flexDirection = 'column';
+        container.style.gap = '0.55rem';
+        container.style.width = '100%';
+
+        container.innerHTML = viewModeBarHtml + filteredSpots.map(s => {
+          const isChecked = this.selectedMustVisitIds.has(s.id);
+          return `
+            <div class="card spot-candidate-card" style="border:2px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; padding:0.75rem 0.85rem; display:flex; align-items:center; justify-content:space-between; gap:0.65rem; border-radius:12px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 0 2px #FDE68A' : '2px 2px 0px var(--border-ink)'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
+              <div style="display:flex; align-items:center; gap:0.65rem; flex:1; min-width:0;">
+                <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:22px; height:22px; cursor:pointer; accent-color:#047857; flex-shrink:0;">
+                
+                <div style="overflow:hidden; flex:1; min-width:0;">
+                  <div style="display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap;">
+                    <span style="font-weight:800; font-size:0.92rem; color:var(--text-primary); word-break:break-word;">${escapeHtml(s.name)}</span>
+                    <span style="font-size:0.7rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.1rem 0.4rem; border-radius:4px; flex-shrink:0;">${s.category}</span>
+                    <span style="font-size:0.7rem; font-weight:800; color:#047857; background:#D1FAE5; padding:0.1rem 0.4rem; border-radius:4px; flex-shrink:0;">★${s.rating}</span>
+                  </div>
+                  <p style="font-size:0.78rem; color:var(--text-secondary); margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${escapeHtml(s.desc)}</p>
+                </div>
+              </div>
+
+              <div style="flex-shrink:0; display:flex; align-items:center; gap:0.4rem;">
+                ${this.createMapsLink(s.name.split(' (')[0], city.split(',')[0])}
+              </div>
+            </div>
+          `;
+        }).join('');
+      } else {
+        container.style.display = 'grid';
+        container.style.flexDirection = 'initial';
+        container.style.gap = '1.25rem';
+        container.style.width = '100%';
+
+        container.innerHTML = viewModeBarHtml + filteredSpots.map(s => {
+          const isChecked = this.selectedMustVisitIds.has(s.id);
+          const imgUrl = s.image || SVG_FALLBACK_IMAGE;
+
+          return `
+            <div class="card spot-candidate-card" style="border:2.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; transition:all 0.2s ease; display:flex; flex-direction:column; justify-content:space-between; position:relative; box-shadow:${isChecked ? '0 0 0 3px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
+              ${isChecked ? `
+                <div style="position:absolute; top:-10px; left:-10px; background:#047857; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.25rem 0.65rem; border-radius:999px; border:2px solid #FFF; box-shadow:0 2px 5px rgba(0,0,0,0.2); z-index:10;">
+                  ✓ SELECTED
+                </div>
+              ` : ''}
+
+              <div>
+                <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
+                  <img src="${imgUrl}" alt="${escapeHtml(s.name)}" loading="lazy" decoding="async" style="width:100%; height:100%; object-fit:cover; display:block;" onerror="this.onerror=null; this.src='${SVG_FALLBACK_IMAGE}';">
+                  <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
+                </div>
+
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.4rem;">
+                  <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${s.category}</span>
+                </div>
+
+                <h4 style="font-size:1.05rem; margin-bottom:0.35rem; font-family:var(--font-sans); color:var(--text-primary); display:flex; align-items:center; gap:0.5rem; word-break:break-word;">
+                  <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:20px; height:20px; cursor:pointer; accent-color:#047857; flex-shrink:0;">
+                  <span>${escapeHtml(s.name)}</span>
+                </h4>
+
+                <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.75rem; word-break:break-word;">${escapeHtml(s.desc)}</p>
+              </div>
+
+              <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.8rem; border-top:1px dashed #EADEC9; padding-top:0.5rem; margin-top:auto; gap:0.5rem; flex-wrap:wrap;">
+                <span style="font-weight:700; color:var(--primary-wood);">${escapeHtml(s.price)}</span>
+                ${this.createMapsLink(s.name.split(' (')[0], city.split(',')[0])}
+              </div>
+            </div>
+          `;
+        }).join('');
+      }
     } catch (err) {
       console.error('Error in renderCandidateSpots:', err);
     }
