@@ -4,6 +4,18 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.5] - 2026-08-14 (Stacked Right Column & Interactive Photo Card Popup Release)
+
+### 🌟 Summary
+- **Stacked Right Column Layout**: Rearranged the right side of Compact mode candidate cards into a clean 3-part vertical column:
+  1. **Top**: Star Rating Badge (`★4.8`)
+  2. **Middle**: Google Maps Pin Link (`📍↗`)
+  3. **Bottom**: `More` Detail Popup Button
+- **Interactive Photo Card Popup Modal**: Tapping or holding the `More` button instantly pops up a rich modal card showing high-res photo, Wikipedia badge, full un-truncated description, price, category/zone/kids tags, and direct Google Maps navigation!
+- **100% Full Width Title Line**: Title on Line 1 has maximum horizontal space to wrap cleanly up to 2 lines without truncation.
+
+---
+
 ## 🏷️ [v1.2.4] - 2026-08-14 (No Inner Tags & Clamped 2-Line Description Release)
 
 ### 🌟 Summary
