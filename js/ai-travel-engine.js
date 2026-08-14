@@ -2912,9 +2912,11 @@ const AITravelEngine = {
   generateItinerary(event) {
     if (event) event.preventDefault();
 
-    const destination = document.getElementById('aiPlanDestination').value.trim() || 'Paris, France';
-    const transportMode = document.getElementById('aiPlanTransport').value || 'transit';
-    const audience = document.getElementById('aiPlanAudience').value || 'none';
+    const destElem = document.getElementById('aiPlanDestination');
+    const destination = destElem ? destElem.value.trim() : 'Paris, France';
+    const areaElem = document.getElementById('aiPlanAreaZone');
+    const areaZone = areaElem ? areaElem.value : 'ALL';
+    const transportMode = 'transit';
 
     const resultContainer = document.getElementById('aiPlanResult');
     if (!resultContainer) return;
@@ -3123,7 +3125,7 @@ const AITravelEngine = {
 
   refreshRouteCard(routeType) {
     const destination = document.getElementById('aiPlanDestination')?.value || 'Paris, France';
-    const transportMode = document.getElementById('aiPlanTransport')?.value || 'transit';
+    const transportMode = 'transit';
     const cityClean = destination.split(',')[0].trim();
 
     const listContainer = document.getElementById(routeType === 'A' ? 'routeA_itemList' : 'routeB_itemList');
