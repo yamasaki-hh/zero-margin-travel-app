@@ -15,11 +15,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
       "price": "Tickets: €18–€28",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/330px-Tour_Eiffel_Wikimedia_Commons.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_2",
@@ -28,7 +28,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
       "price": "Rooftop: €13",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/330px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gorka_Klasztorna_kosciol.jpg/330px-Gorka_Klasztorna_kosciol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/330px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -41,7 +41,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
       "price": "Entry: €11.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sainte-Chapelle_de_Paris_vue_du_Palais_de_justice.JPG/330px-Sainte-Chapelle_de_Paris_vue_du_Palais_de_justice.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -54,7 +54,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
       "price": "Free entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sacr%C3%A9_Coeur_Fa%C3%A7ade_1.jpg/330px-Sacr%C3%A9_Coeur_Fa%C3%A7ade_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2022_Views_from_Diamond_Head_02.jpg/330px-2022_Views_from_Diamond_Head_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -67,7 +67,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Masterpiece of French Gothic architecture on Île de la Cité.",
       "price": "Free parvis access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/330px-Notre-Dame_de_Paris_2013-07-24.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/330px-Notre-Dame_de_Paris_2013-07-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -93,7 +93,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
       "price": "Entry: €11.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pantheon_of_Paris_007.JPG/330px-Pantheon_of_Paris_007.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ruud_brink-1500829246.jpg/330px-Ruud_brink-1500829246.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -119,11 +119,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
       "price": "Self-tour: €14",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Paris_Palais_Garnier_2010-04-06_16.55.07.jpg/330px-Paris_Palais_Garnier_2010-04-06_16.55.07.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/330px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "p_10",
@@ -145,7 +145,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
       "price": "Entry: €14",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Invalides_aerial_view.jpg/330px-Invalides_aerial_view.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Impression_from_Tachov_%284%29.jpg/330px-Impression_from_Tachov_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/330px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -158,11 +158,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
       "price": "Free access",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%97%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2._%D0%A5%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0..jpg/330px-%D0%97%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2._%D0%A5%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_13",
@@ -184,7 +184,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
       "price": "Entry: €17–€22",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/330px-Louvre_Museum_Wikimedia_Commons.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg/330px-Cour_Napol%C3%A9on_at_night_-_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -197,11 +197,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
       "price": "Entry: €16",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MuseeDOrsay.jpg/330px-MuseeDOrsay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_16",
@@ -210,7 +210,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
       "price": "Entry: €15",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2021-09-19_10-45-09_ILCE-7C_DSC05538_DxO_1_%2851529047303%29.jpg/330px-2021-09-19_10-45-09_ILCE-7C_DSC05538_DxO_1_%2851529047303%29.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ray_Johnson%2C_Feb_1984.jpg/330px-Ray_Johnson%2C_Feb_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/330px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -223,11 +223,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
       "price": "Entry: €12.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/M_A_Numminen_2011.jpg/330px-M_A_Numminen_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_18",
@@ -236,7 +236,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
       "price": "Entry: €13",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Le_mus%C3%A9e_Rodin.jpg/330px-Le_mus%C3%A9e_Rodin.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg/330px-Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -249,11 +249,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
       "price": "Entry: €14",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lethrinops_micrentodon_makokola_reef_sauvage.jpg/330px-Lethrinops_micrentodon_makokola_reef_sauvage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_20",
@@ -262,7 +262,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
       "price": "Free permanent access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cour_Louis_XIV_au_Mus%C3%A9e_Carnavalet_%C3%A0_Paris_le_30_septembre_2016_-_17.jpg/330px-Cour_Louis_XIV_au_Mus%C3%A9e_Carnavalet_%C3%A0_Paris_le_30_septembre_2016_-_17.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cesny-Bois-Halbout_%C3%A9glise_de_l%27Assomption-de-Notre-Dame.JPG/330px-Cesny-Bois-Halbout_%C3%A9glise_de_l%27Assomption-de-Notre-Dame.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -288,11 +288,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
       "price": "Mains: €34–€52",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Histioteuthis_bonellii1.jpg/330px-Histioteuthis_bonellii1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Le_Train_Bleu.jpg/330px-Le_Train_Bleu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_23",
@@ -444,10 +444,10 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
       "price": "Entry: €12",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg/330px-Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "p_35",
@@ -504,7 +504,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
       "price": "Palace: €19.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg/330px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg/330px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "hasWiki": true
@@ -528,10 +528,10 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Medieval royal palace and former prison where Marie Antoinette was held.",
       "price": "Entry: €11.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heinrich_Boell%2C_Die_verlorene_Ehre_der_Katharina_Blum_1974.jpg/330px-Heinrich_Boell%2C_Die_verlorene_Ehre_der_Katharina_Blum_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_30",
@@ -552,7 +552,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
       "price": "Entry: €14",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mus%C3%A9e_Marmottan_Monet%2C_Paris%2C_March_2013.JPG/330px-Mus%C3%A9e_Marmottan_Monet%2C_Paris%2C_March_2013.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/330px-Golden_Gate_Kiev_2018_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "hasWiki": true
@@ -603,7 +603,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
       "price": "Free (booking required)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/330px-Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/InstitutfuerSozialforschung.jpg/330px-InstitutfuerSozialforschung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/330px-Berlin_reichstag_west_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -655,7 +655,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_1_%D1%80._2000_%D0%B3.jpg/330px-%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_1_%D1%80._2000_%D0%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -681,7 +681,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
       "price": "Climb: €4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin_-_Siegess%C3%A4ule1.jpg/330px-Berlin_-_Siegess%C3%A4ule1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Victory_Column.jpg/330px-Berlin_Victory_Column.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Siegess%C3%A4ule_8245.jpg/330px-Berlin_Siegess%C3%A4ule_8245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -694,11 +694,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "368m television tower offering 360-degree panorama of Berlin.",
       "price": "Observation: €22.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tv-turm_-_panoramio.jpg/330px-Tv-turm_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "b_b10",
@@ -720,11 +720,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "War-damaged spire memorial standing alongside modern blue glass chapel.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "b_b12",
@@ -733,11 +733,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Sprawling 520-acre urban forest park in the heart of Berlin.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_Tiergarten_Siegess%C3%A4ule_Luftansicht.jpg/330px-Berlin_Tiergarten_Siegess%C3%A4ule_Luftansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "b_b13",
@@ -746,11 +746,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hackesche_h%C3%B6fe_berlin.jpg/330px-Hackesche_h%C3%B6fe_berlin.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hackesche_h%C3%B6fe_berlin.jpg/330px-Hackesche_h%C3%B6fe_berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "b_b14",
@@ -759,7 +759,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "UNESCO World Heritage island housing 5 world-class museum complexes.",
       "price": "Day Pass: €19",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/781_Kartvelia_01.03.2015_flat_view.png/330px-781_Kartvelia_01.03.2015_flat_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -785,11 +785,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
       "price": "Entry: €14",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "b_b17",
@@ -798,7 +798,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
       "price": "Free permanent display",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jewish_Museum_Berlin_-_panoramio_%282%29.jpg/330px-Jewish_Museum_Berlin_-_panoramio_%282%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Market_Square_in_Piotrkow_01.jpg/330px-Market_Square_in_Piotrkow_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jewish_Museum_Berlin_logo.svg/330px-Jewish_Museum_Berlin_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -811,11 +811,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Former train station converted into Berlin's premier contemporary art museum.",
       "price": "Entry: €14",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_Hamburger_Bahnhof_%E2%80%93_Museum_f%C3%BCr_Gegenwart.jpg/330px-Berlin_Hamburger_Bahnhof_%E2%80%93_Museum_f%C3%BCr_Gegenwart.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "b_b19",
@@ -1021,7 +1021,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
       "price": "Entry: €22.00",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Van_Gogh_Museum.jpg/330px-Van_Gogh_Museum.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Van_Gogh_Museum.jpg/330px-Van_Gogh_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1099,7 +1099,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
       "price": "Entry: €12",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam-508-Oude_Kerk-2010-gje.jpg/330px-Amsterdam-508-Oude_Kerk-2010-gje.jpg?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Evgeny_Kurbatov.jpg/330px-Evgeny_Kurbatov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam-508-Oude_Kerk-2010-gje.jpg/330px-Amsterdam-508-Oude_Kerk-2010-gje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1112,11 +1112,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Begijnhof_Amsterdam_April_2014.jpg/330px-Begijnhof_Amsterdam_April_2014.jpg?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BegijnhofAmsterdamPanorama.jpg/330px-BegijnhofAmsterdamPanorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "a_10",
@@ -1138,11 +1138,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
       "price": "Entry: €22.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yosemite_20_bg_090404.jpg/330px-Yosemite_20_bg_090404.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "a_12",
@@ -1151,11 +1151,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
       "price": "Entry: €17.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aleksander_Walerianczyk.JPG/330px-Aleksander_Walerianczyk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/330px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "a_13",
@@ -1164,11 +1164,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Green copper ship building featuring 5 floors of interactive science exhibits.",
       "price": "Entry: €17.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Amsterdam_vue_Nemo.JPG/330px-Amsterdam_vue_Nemo.JPG?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": false,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "a_14",
@@ -1255,11 +1255,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
       "price": "Tasting Flight: €12",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brouwerijhetij.jpg/330px-Brouwerijhetij.jpg?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": false,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brouwerijhetij.jpg/330px-Brouwerijhetij.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     }
   ],
   "Brussels, Belgium": [
@@ -1309,7 +1309,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Gothic cathedral towering over Brussels with stained glass windows.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg/330px-Saints-Michel-et-Gudule_Luc_Viatour.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Semyon_Antonov_11_PBC_CSKA_Moscow_20171027_%284%29_%28cropped%29.jpg/330px-Semyon_Antonov_11_PBC_CSKA_Moscow_20171027_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg/330px-Saints-Michel-et-Gudule_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1361,11 +1361,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "World's largest surrealist collection of René Magritte paintings.",
       "price": "Entry: €10",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "br_9",
@@ -1467,7 +1467,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alzette_River_%282274937510%29.jpg/330px-Alzette_River_%282274937510%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Grubinger_Friedhof_Westwand.JPG/330px-Grubinger_Friedhof_Westwand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -1493,7 +1493,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg/330px-Luxembourg_City_Eurotrip_%28133169443%29.jpeg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sukhoi_SSBJ_project_model.jpg/330px-Sukhoi_SSBJ_project_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg/330px-Luxembourg_City_Eurotrip_%28133169443%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1506,7 +1506,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
       "price": "Entry: €8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Drei_Eicheln_mit_Mudammuseum.jpg/330px-Drei_Eicheln_mit_Mudammuseum.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berkenlatten_Kirchenruine.JPG/330px-Berkenlatten_Kirchenruine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Kirchberg_MUDAM.jpg/330px-Kirchberg_MUDAM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1519,7 +1519,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "National Museum of History and Art displaying Gallo-Roman mosaics.",
       "price": "Free permanent display",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Luxembourg%2C_MNAHA_2023_%28101%29.jpg/330px-Luxembourg%2C_MNAHA_2023_%28101%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Luxembourg_city_MNHA.jpg/330px-Luxembourg_city_MNHA.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -1573,7 +1573,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/330px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/K%C3%B6lner_Dom_von_Osten.jpg/330px-K%C3%B6lner_Dom_von_Osten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1599,11 +1599,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fischmarkt.jpg/330px-Fischmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "c_4",
@@ -1692,7 +1692,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neues_Rathaus_M%C3%BCnchen_2018_%28cropped%29.jpg/330px-Neues_Rathaus_M%C3%BCnchen_2018_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20240418-ArielLin.jpg/330px-20240418-ArielLin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg/330px-Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1705,7 +1705,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "500-acre park featuring river surfers riding perpetual standing wave.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Br%C4%9Bzynka_%E2%80%93_Wojerski_pomnik_1.jpg/330px-Br%C4%9Bzynka_%E2%80%93_Wojerski_pomnik_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1731,11 +1731,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
       "price": "Residenz: €10",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_image_of_Munich_Residenz.jpg/330px-Aerial_image_of_Munich_Residenz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Residenz_W%C3%BCrzburg_im_Bau_1731.jpg/330px-Residenz_W%C3%BCrzburg_im_Bau_1731.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": false
     },
     {
       "id": "m_5",
@@ -1744,7 +1744,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/330px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/330px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg/330px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1843,6 +1843,7 @@ const candidateSpotsDatabase = {
     }
   ]
 };
+
 
 
 
