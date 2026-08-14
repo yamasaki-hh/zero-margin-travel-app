@@ -4,6 +4,16 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.5.0] - 2026-08-14 (Return Hotel Routing & Landmark Hotel Spot Cards Release)
+
+### 🌟 Summary
+- **Iconic Landmark Hotel Cards**: Added legendary 5-star landmark hotels (e.g., Ritz Paris, Hotel Adlon Kempinski Berlin, Amstel Hotel Amsterdam, Hotel Metropole Brussels, Bayerischer Hof Munich, etc.) to all 7 city modules in Step 2 (`Hotel & Stay` category).
+- **Custom Return Hotel Input Field**: Added a sleek hotel input field (`aiPlanHotelInput`) in Step 3 where users can enter their specific accommodation/hotel address.
+- **Automatic Fallback to Landmark Hotel**: If the input field is left empty, the engine automatically selects the city's #1 landmark hotel as the default return destination.
+- **Route B Final Return Stop**: Appends the Hotel as the **final destination (Stop 10)** in Route B with a distinct purple `🏨 帰着ホテル` badge, ensuring turn-by-turn navigation concludes straight back at the user's hotel!
+
+---
+
 ## 🏷️ [v1.4.0] - 2026-08-14 (Smart Time-of-Day & Operating Hours Itinerary Optimization Release)
 
 ### 🌟 Summary

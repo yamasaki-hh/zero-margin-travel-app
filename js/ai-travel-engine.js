@@ -9,6 +9,22 @@ const SVG_FALLBACK_IMAGE = `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.or
 const candidateSpotsDatabase = {
   "Amsterdam, Netherlands": [
     {
+      "id": "ams_hotel_1",
+      "name": "InterContinental Amstel Amsterdam (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.7",
+      "desc": "Grand historic 5-star hotel along the Amstel River with classic Dutch elegance.",
+      "price": "€550+",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Amstel_Hotel_2034.jpg/330px-Amstel_Hotel_2034.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 52.3601,
+      "lng": 4.9004
+    },
+    {
       "id": "a_1",
       "name": "Rijksmuseum",
       "category": "Museum & Art",
@@ -350,6 +366,22 @@ const candidateSpotsDatabase = {
     }
   ],
   "Berlin, Germany": [
+    {
+      "id": "ber_hotel_1",
+      "name": "Hotel Adlon Kempinski Berlin (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.8",
+      "desc": "Iconic luxury hotel adjacent to Brandenburg Gate with rich diplomatic history.",
+      "price": "€450+",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 52.5161,
+      "lng": 13.3802
+    },
     {
       "id": "b_b1",
       "name": "Brandenburg Gate",
@@ -897,6 +929,22 @@ const candidateSpotsDatabase = {
   ],
   "Brussels, Belgium": [
     {
+      "id": "bru_hotel_1",
+      "name": "Hotel Metropole Brussels (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.6",
+      "desc": "Historic 19th-century luxury hotel in the heart of Brussels near Grand-Place.",
+      "price": "€300+",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 50.8515,
+      "lng": 4.3533
+    },
+    {
       "id": "br_1",
       "name": "Grand-Place",
       "category": "Landmark",
@@ -1120,6 +1168,22 @@ const candidateSpotsDatabase = {
   ],
   "Cologne, Germany": [
     {
+      "id": "cgn_hotel_1",
+      "name": "Excelsior Hotel Ernst Köln (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.8",
+      "desc": "5-star luxury hotel opposite Cologne Cathedral serving guests since 1863.",
+      "price": "€380+",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 50.9412,
+      "lng": 6.9575
+    },
+    {
       "id": "c_1",
       "name": "Cologne Cathedral (Kölner Dom)",
       "category": "Landmark",
@@ -1177,11 +1241,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
       "price": "Entry: €14.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true,
+      "hasWiki": false,
       "locationZone": "city",
       "kids": true,
       "lat": 50.9322,
@@ -1274,6 +1338,22 @@ const candidateSpotsDatabase = {
     }
   ],
   "Luxembourg City, Luxembourg": [
+    {
+      "id": "lux_hotel_1",
+      "name": "Hôtel Le Royal Luxembourg (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.7",
+      "desc": "Premier 5-star hotel in Luxembourg City center close to the Old Quarter.",
+      "price": "€320+",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 49.6133,
+      "lng": 6.1267
+    },
     {
       "id": "l_1",
       "name": "Bock Casemates",
@@ -1617,6 +1697,22 @@ const candidateSpotsDatabase = {
   ],
   "Munich, Germany": [
     {
+      "id": "muc_hotel_1",
+      "name": "Hotel Bayerischer Hof München (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.7",
+      "desc": "World-famous 5-star hotel near Marienplatz featuring rooftop spa & fine dining.",
+      "price": "€480+",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 48.1402,
+      "lng": 11.5732
+    },
+    {
       "id": "m_1",
       "name": "Marienplatz & New Town Hall",
       "category": "Landmark",
@@ -1822,6 +1918,22 @@ const candidateSpotsDatabase = {
     }
   ],
   "Paris, France": [
+    {
+      "id": "p_hotel_1",
+      "name": "Ritz Paris (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.8",
+      "desc": "Legendary 5-star luxury hotel on Place Vendôme, iconic Parisian palace stay.",
+      "price": "€1,200+",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Ritz_Paris_Logo.svg/330px-Ritz_Paris_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 48.8681,
+      "lng": 2.3294
+    },
     {
       "id": "p_1",
       "name": "Eiffel Tower",
@@ -3481,16 +3593,16 @@ const AITravelEngine = {
       isMustVisit: true
     }));
 
-    // 2. ROUTE B: Interleaved 10-spot full course (導線最適化)
-    const unselectedSpots = allSpots.filter(s => !selectedIds.has(s.id));
-    const targetBCount = 10;
+    // 2. ROUTE B: Interleaved 10-spot full course (導線 ＋ 営業時間ソート)
+    const unselectedSpots = allSpots.filter(s => !selectedIds.has(s.id) && s.category !== 'Hotel & Stay');
+    const targetBCount = 9; // 9 sightseeing/dining spots + 1 final hotel stop = 10 spots total
     const neededExtras = Math.max(0, targetBCount - checkedSpots.length);
     const chosenExtras = unselectedSpots.slice(0, neededExtras);
 
     // Combine checked spots + AI recommended spots
     const combinedSpotsB = [...checkedSpots, ...chosenExtras];
 
-    // Geographically optimize ALL 10 spots together into a single continuous, seamless travel flow (導線)
+    // Geographically & Time-of-Day optimize ALL spots together into a single continuous, seamless travel flow (導線)
     const optimizedSpotsB = this.optimizeRouteOrder(combinedSpotsB);
     this.routeB_spots = optimizedSpotsB.map(s => ({
       id: s.id,
@@ -3500,8 +3612,56 @@ const AITravelEngine = {
       price: s.price,
       lat: s.lat,
       lng: s.lng,
+      timeSlot: s.timeSlot,
       isMustVisit: selectedIds.has(s.id)
     }));
+
+    // 3. Hotel Return Destination: Check Custom Hotel Input or City Landmark Hotel
+    const hotelInputElem = document.getElementById('aiPlanHotelInput');
+    const customHotelName = hotelInputElem ? hotelInputElem.value.trim() : '';
+
+    let finalHotelObj = null;
+    const landmarkHotel = allSpots.find(s => s.category === 'Hotel & Stay' || s.name.includes('(Hotel)'));
+
+    if (customHotelName) {
+      finalHotelObj = {
+        id: 'user_hotel_custom',
+        name: customHotelName.endsWith('(Hotel)') ? customHotelName : `${customHotelName} (Hotel)`,
+        category: 'Hotel & Stay',
+        rating: '★Stay',
+        price: 'Return Hotel',
+        lat: landmarkHotel ? landmarkHotel.lat : (allSpots[0] ? allSpots[0].lat : 48.8566),
+        lng: landmarkHotel ? landmarkHotel.lng : (allSpots[0] ? allSpots[0].lng : 2.3522),
+        isHotel: true
+      };
+    } else if (landmarkHotel) {
+      finalHotelObj = {
+        id: landmarkHotel.id,
+        name: landmarkHotel.name.split(' (')[0].trim(),
+        category: 'Hotel & Stay',
+        rating: landmarkHotel.rating,
+        price: landmarkHotel.price,
+        lat: landmarkHotel.lat,
+        lng: landmarkHotel.lng,
+        isHotel: true
+      };
+    }
+
+    // Append Hotel as final return destination in Route B
+    if (finalHotelObj) {
+      const nonHotelSpotsB = this.routeB_spots.filter(s => s.category !== 'Hotel & Stay' && !s.isHotel);
+      this.routeB_spots = [...nonHotelSpotsB, {
+        id: finalHotelObj.id,
+        name: finalHotelObj.name.split(' (')[0].trim(),
+        category: 'Hotel & Stay',
+        rating: finalHotelObj.rating,
+        price: finalHotelObj.price,
+        lat: finalHotelObj.lat,
+        lng: finalHotelObj.lng,
+        isMustVisit: false,
+        isHotel: true
+      }];
+    }
 
     this.renderDualRouteManager(destination, transportMode);
   },
@@ -3639,7 +3799,9 @@ const AITravelEngine = {
 
             <span style="font-weight:700; color:#1E293B; word-break:break-word; flex:1; display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap;">
               <span>${escapeHtml(spot.name)}</span>
-              ${spot.isMustVisit ? `
+              ${spot.isHotel || spot.category === 'Hotel & Stay' ? `
+                <span style="font-size:0.62rem; font-weight:800; background:#F3E8FF; color:#7E22CE; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #D8B4FE; white-space:nowrap;">🏨 帰着ホテル</span>
+              ` : spot.isMustVisit ? `
                 <span style="font-size:0.62rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #A7F3D0; white-space:nowrap;">📍 選択</span>
               ` : `
                 <span style="font-size:0.62rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">✨ AI推し</span>

@@ -1,7 +1,23 @@
 {
   "cityName": "Paris, France",
-  "spotCount": 55,
+  "spotCount": 56,
   "spots": [
+    {
+      "id": "p_hotel_1",
+      "name": "Ritz Paris (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.8",
+      "desc": "Legendary 5-star luxury hotel on Place Vendôme, iconic Parisian palace stay.",
+      "price": "€1,200+",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Ritz_Paris_Logo.svg/330px-Ritz_Paris_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 48.8681,
+      "lng": 2.3294
+    },
     {
       "id": "p_1",
       "name": "Eiffel Tower",

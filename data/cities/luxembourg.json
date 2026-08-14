@@ -1,7 +1,23 @@
 {
   "cityName": "Luxembourg City, Luxembourg",
-  "spotCount": 20,
+  "spotCount": 21,
   "spots": [
+    {
+      "id": "lux_hotel_1",
+      "name": "Hôtel Le Royal Luxembourg (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.7",
+      "desc": "Premier 5-star hotel in Luxembourg City center close to the Old Quarter.",
+      "price": "€320+",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 49.6133,
+      "lng": 6.1267
+    },
     {
       "id": "l_1",
       "name": "Bock Casemates",

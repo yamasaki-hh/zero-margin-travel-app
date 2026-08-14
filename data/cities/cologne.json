@@ -1,7 +1,23 @@
 {
   "cityName": "Cologne, Germany",
-  "spotCount": 9,
+  "spotCount": 10,
   "spots": [
+    {
+      "id": "cgn_hotel_1",
+      "name": "Excelsior Hotel Ernst Köln (Hotel)",
+      "category": "Hotel & Stay",
+      "rating": "★4.8",
+      "desc": "5-star luxury hotel opposite Cologne Cathedral serving guests since 1863.",
+      "price": "€380+",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true,
+      "lat": 50.9412,
+      "lng": 6.9575
+    },
     {
       "id": "c_1",
       "name": "Cologne Cathedral (Kölner Dom)",
@@ -60,11 +76,11 @@
       "rating": "★4.6",
       "desc": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
       "price": "Entry: €14.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true,
+      "hasWiki": false,
       "locationZone": "city",
       "kids": true,
       "lat": 50.9322,
