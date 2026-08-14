@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Caveat:wght@600&display=swap" rel="stylesheet">
 
   <!-- Correct CSS Path to Warm Organic Atelier Design System (Responsive) -->
-  <link rel="stylesheet" href="css/styles.css?v=44.0">
+  <link rel="stylesheet" href="css/styles.css?v=45.0">
 </head>
 <body>
 
@@ -77,7 +77,7 @@
   <div class="container" style="padding-top:1rem;">
 
     <section id="tab-planner" class="tab-content active" style="display:block !important; opacity:1 !important;">
-      <div style="background:var(--bg-card); border:2.5px solid var(--border-ink); border-radius:255px 15px 225px 15px/15px 225px 15px 255px; padding:2.5rem; box-shadow:var(--shadow-sketch);">
+      <div class="planner-outer-box" style="background:var(--bg-card); border:2.5px solid var(--border-ink); border-radius:255px 15px 225px 15px/15px 225px 15px 255px; padding:2.5rem; box-shadow:var(--shadow-sketch);">
         
         <div style="text-align:center; max-width:700px; margin:0 auto 2rem;">
           <span class="paper-tape">Interactive Route Planner</span>
@@ -92,7 +92,7 @@
         <form id="aiPlannerForm" onsubmit="AITravelEngine.generateItinerary(event)">
           
           <!-- STEP 1: TRIP PARAMETERS -->
-          <div style="background:#FFFDF9; border:2px solid var(--border-ink); border-radius:18px; padding:1.75rem; margin-bottom:2rem;">
+          <div class="step1-container" style="background:#FFFDF9; border:2px solid var(--border-ink); border-radius:18px; padding:1.75rem; margin-bottom:2rem;">
             <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:1.25rem; display:flex; align-items:center; gap:0.5rem;" class="font-serif">
               <span>1️⃣</span> <span>Step 1: Destination, Transit & Duration</span>
             </div>
@@ -1024,8 +1024,8 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/ai-travel-engine.js?v=44.0"></script>
-  <script src="js/travel-app.js?v=44.0"></script>
+  <script src="js/ai-travel-engine.js?v=45.0"></script>
+  <script src="js/travel-app.js?v=45.0"></script>
   <script>
     // Inline execution fallback to guarantee candidate spots grid renders instantly on DOM load
     window.addEventListener('load', function() {

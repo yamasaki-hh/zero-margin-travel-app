@@ -826,13 +826,22 @@ footer {
   border-color: #0369A1;
 }
 
-.step2-container {
+.step1-container, .step2-container {
   padding: 1.75rem;
 }
 
 @media (max-width: 640px) {
-  .step2-container {
-    padding: 0.75rem 0.4rem !important;
+  .container {
+    padding: 0.4rem 0.2rem !important;
+  }
+  .planner-outer-box {
+    padding: 0.65rem 0.25rem !important;
+    border-radius: 14px !important;
+  }
+  .step1-container, .step2-container {
+    padding: 0.55rem 0.25rem !important;
+    border-radius: 12px !important;
+    margin-bottom: 1rem !important;
   }
 }
 

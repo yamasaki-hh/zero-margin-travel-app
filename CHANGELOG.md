@@ -4,6 +4,14 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.6] - 2026-08-14 (Zero Mobile Outer Margin Release)
+
+### 🌟 Summary
+- **Zero Mobile Outer Side Margins**: Reduced side padding across `.container` (4px), `.planner-outer-box` (5px), `.step1-container` (5px), and `.step2-container` (5px) on mobile screens.
+- **Maximum Screen Width Utilization**: Eliminates 160px+ of wasted side padding, expanding Step 1 & Step 2 form boxes and candidate cards to span 98%+ of the full mobile screen width edge-to-edge.
+
+---
+
 ## 🏷️ [v1.2.5] - 2026-08-14 (Stacked Right Column & Interactive Photo Card Popup Release)
 
 ### 🌟 Summary
