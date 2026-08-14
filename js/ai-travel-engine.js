@@ -436,6 +436,150 @@ const candidateSpotsDatabase = {
       "adult": true,
       "wikiImage": "",
       "hasWiki": false
+    },
+    {
+      "id": "p_34",
+      "name": "Musée du Quai Branly",
+      "category": "Museum",
+      "rating": "★4.6",
+      "desc": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "price": "Entry: €12",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Musee_du_quai_Branly_exterieur.jpg/330px-Musee_du_quai_Branly_exterieur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_35",
+      "name": "Covered Passages (Galerie Vivienne)",
+      "category": "Scenery",
+      "rating": "★4.6",
+      "desc": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "price": "Free walk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/GalerieVivienne1.jpg/330px-GalerieVivienne1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_36",
+      "name": "Galeries Lafayette Haussmann",
+      "category": "Scenery",
+      "rating": "★4.7",
+      "desc": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "price": "Free rooftop access",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false
+    },
+    {
+      "id": "p_37",
+      "name": "Seine River Cruise (Bateaux-Mouches)",
+      "category": "Scenery",
+      "rating": "★4.7",
+      "desc": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "price": "Cruise: €15",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bateau_mouche_jnl_4.jpg/330px-Bateau_mouche_jnl_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_38",
+      "name": "Canal Saint-Martin",
+      "category": "Scenery",
+      "rating": "★4.6",
+      "desc": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "price": "Free walk",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "hasWiki": false
+    },
+    {
+      "id": "p_27",
+      "name": "Palace of Versailles (Château de Versailles)",
+      "category": "Landmark",
+      "rating": "★4.8",
+      "desc": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "price": "Palace: €19.50",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_juillet_2013_par_Toucanere.jpg/330px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_juillet_2013_par_Toucanere.jpg",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_28",
+      "name": "Place de la Concorde & Champs-Élysées",
+      "category": "Landmark",
+      "rating": "★4.7",
+      "desc": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Place_de_la_Concorde_Paris_May_2014_n02.jpg/330px-Place_de_la_Concorde_Paris_May_2014_n02.jpg",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_29",
+      "name": "Conciergerie",
+      "category": "Landmark",
+      "rating": "★4.6",
+      "desc": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "price": "Entry: €11.50",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Paris_Conciergerie_NW_view_01a.jpg/330px-Paris_Conciergerie_NW_view_01a.jpg",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_30",
+      "name": "Place des Vosges",
+      "category": "Landmark",
+      "rating": "★4.7",
+      "desc": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "price": "Free entry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Place_des_Vosges_Paris.jpg/330px-Place_des_Vosges_Paris.jpg",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_31",
+      "name": "Musée Marmottan Monet",
+      "category": "Museum",
+      "rating": "★4.7",
+      "desc": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "price": "Entry: €14",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mus%C3%A9e_Marmottan_Monet_Paris.jpg/330px-Mus%C3%A9e_Marmottan_Monet_Paris.jpg",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_32",
+      "name": "Fondation Louis Vuitton",
+      "category": "Museum",
+      "rating": "★4.7",
+      "desc": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "price": "Entry: €16",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Fondation_Louis_Vuitton.jpg/330px-Fondation_Louis_Vuitton.jpg",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
+    },
+    {
+      "id": "p_33",
+      "name": "Musée de Cluny (Middle Ages)",
+      "category": "Museum",
+      "rating": "★4.6",
+      "desc": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "price": "Entry: €12",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paris_2011_IMG_2731.jpg/330px-Paris_2011_IMG_2731.jpg",
+      "family": true,
+      "adult": true,
+      "hasWiki": true
     }
   ],
   "Berlin, Germany": [
@@ -1709,6 +1853,8 @@ const candidateSpotsDatabase = {
 
 
 
+
+
 function getCategoryIcon(cat) {
   if (!cat) return '📍';
   const c = String(cat).toLowerCase();
@@ -1896,9 +2042,15 @@ const AITravelEngine = {
   lastCity: '',
   selectedMustVisitIds: new Set(),
   viewMode: (typeof window !== 'undefined' && window.innerWidth < 768) ? 'compact' : 'grid',
+  categoryFilter: 'ALL',
 
   setViewMode(mode) {
     this.viewMode = mode;
+    this.renderCandidateSpots();
+  },
+
+  setCategoryFilter(category) {
+    this.categoryFilter = category;
     this.renderCandidateSpots();
   },
 
@@ -1943,7 +2095,19 @@ const AITravelEngine = {
         filteredSpots = spots.filter(s => s.adult);
       }
 
-      if (!filteredSpots || filteredSpots.length === 0) {
+      if (this.categoryFilter && this.categoryFilter !== 'ALL') {
+        if (this.categoryFilter === 'Landmark') {
+          filteredSpots = filteredSpots.filter(s => s.category === 'Landmark');
+        } else if (this.categoryFilter === 'Museum') {
+          filteredSpots = filteredSpots.filter(s => s.category === 'Museum');
+        } else if (this.categoryFilter === 'Café') {
+          filteredSpots = filteredSpots.filter(s => s.category === 'Café' || s.category === 'Dining' || s.category === 'Bistro' || s.category === 'Bakery');
+        } else if (this.categoryFilter === 'Scenery') {
+          filteredSpots = filteredSpots.filter(s => s.category === 'Scenery' || s.category === 'Park' || s.category === 'Shopping' || s.category === 'Market');
+        }
+      }
+
+      if (!filteredSpots) {
         filteredSpots = spots;
       }
 
@@ -1953,11 +2117,36 @@ const AITravelEngine = {
         counterBadge.style.color = selectedCount >= 8 ? '#C2410C' : '#047857';
       }
 
-      const viewModeBarHtml = `
-        <div class="view-mode-bar" style="grid-column:1 / -1; width:100%;">
+      const countLandmarks = spots.filter(s => s.category === 'Landmark').length;
+      const countMuseums = spots.filter(s => s.category === 'Museum').length;
+      const countCafes = spots.filter(s => s.category === 'Café' || s.category === 'Dining' || s.category === 'Bistro' || s.category === 'Bakery').length;
+      const countScenery = spots.filter(s => s.category === 'Scenery' || s.category === 'Park' || s.category === 'Shopping' || s.category === 'Market').length;
+
+      const categoryFilterBarHtml = `
+        <div class="category-filter-bar" style="grid-column:1 / -1; width:100%;">
+          <button type="button" class="filter-chip ${this.categoryFilter === 'ALL' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('ALL')">
+            ✨ ALL (${spots.length})
+          </button>
+          <button type="button" class="filter-chip ${this.categoryFilter === 'Landmark' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Landmark')">
+            🏛️ 名所 (${countLandmarks})
+          </button>
+          <button type="button" class="filter-chip ${this.categoryFilter === 'Museum' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Museum')">
+            🎨 美術館 (${countMuseums})
+          </button>
+          <button type="button" class="filter-chip ${this.categoryFilter === 'Café' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Café')">
+            ☕ カフェ・グルメ (${countCafes})
+          </button>
+          <button type="button" class="filter-chip ${this.categoryFilter === 'Scenery' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Scenery')">
+            🌆 景観・街歩き (${countScenery})
+          </button>
+        </div>
+      `;
+
+      const viewModeBarHtml = categoryFilterBarHtml + `
+        <div class="view-mode-bar" style="grid-column:1 / -1; width:100%; margin-bottom:0.5rem;">
           <div style="display:flex; align-items:center; gap:0.4rem;">
             <span style="font-size:0.88rem; font-weight:800; color:var(--text-primary);">📱 表示モード:</span>
-            <span style="font-size:0.8rem; color:var(--text-secondary);">(全${filteredSpots.length}件)</span>
+            <span style="font-size:0.8rem; color:var(--text-secondary);">(該当${filteredSpots.length}件)</span>
           </div>
           <div style="display:flex; gap:0.4rem; flex-wrap:wrap;">
             <button type="button" class="view-mode-btn ${this.viewMode === 'compact' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('compact')">
