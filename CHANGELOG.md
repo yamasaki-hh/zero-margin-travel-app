@@ -4,6 +4,20 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.5.0] - 2026-08-14 (Added 6 Nice Suburban Riviera Landmarks Release)
+
+### 🌟 Features Added
+- **Added 6 Requested Riviera & Suburban Spots to Nice Module** (`data/cities/nice.json`):
+  1. **Musée Picasso (Antibes)** (`suburban`, `Museum & Gallery`, `★4.6`, Entry: €8) - Picasso's former seaside atelier in Château Grimaldi.
+  2. **Casino de Monte-Carlo** (`suburban`, `Landmark`, `★4.7`, Tour: €18) - Charles Garnier's famed Belle Époque gambling hall in Monaco.
+  3. **Basilique Saint-Michel Archange & Menton Old Town** (`suburban`, `Landmark`, `★4.7`, Free) - Menton's iconic 17th-century Baroque bell tower & pastel old town.
+  4. **Le Sentier du Littoral (Cap d'Antibes)** (`suburban`, `Scenery & Walk`, `★4.8`, Free) - 5km coastal cliffside trail around Cap d'Antibes.
+  5. **Abbaye de Lérins (Saint-Honorat Island)** (`suburban`, `Landmark`, `★4.7`, Ferry: €16) - 5th-century Cistercian island monastery off Cannes.
+  6. **Fort du Mont Alban** (`suburban`, `Landmark`, `★4.6`, Free) - 1560 hilltop military fortress offering views over Nice & Villefranche.
+- **Wikipedia Resolver Pipeline**: Resolved Wikipedia thumbnail images and exact Haversine coordinates for all 36 Nice spots.
+
+---
+
 ## 🏷️ [v2.4.1] - 2026-08-14 (Fix City Dropdown Initial Population & HTML Fallback Option Release)
 
 ### 🌟 Fixes
