@@ -1,0 +1,123 @@
+{
+  "cityName": "Cologne, Germany",
+  "spotCount": 9,
+  "spots": [
+    {
+      "id": "c_1",
+      "name": "Cologne Cathedral (Kölner Dom)",
+      "category": "Landmark",
+      "rating": "★4.8",
+      "desc": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
+    },
+    {
+      "id": "c_2",
+      "name": "Hohenzollern Bridge (Love Locks)",
+      "category": "Landmark",
+      "rating": "★4.7",
+      "desc": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
+    },
+    {
+      "id": "c_3",
+      "name": "Great St. Martin Church",
+      "category": "Landmark",
+      "rating": "★4.6",
+      "desc": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
+    },
+    {
+      "id": "c_4",
+      "name": "Cologne Chocolate Museum",
+      "category": "Museum & Art",
+      "rating": "★4.6",
+      "desc": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
+      "price": "Entry: €14.50",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
+    },
+    {
+      "id": "c_5",
+      "name": "Museum Ludwig",
+      "category": "Museum & Art",
+      "rating": "★4.7",
+      "desc": "World-leading modern art museum featuring third-largest Picasso collection.",
+      "price": "Entry: €13",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_Ludwig_002.jpg/330px-Museum_Ludwig_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_Ludwig_002.jpg/330px-Museum_Ludwig_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
+    },
+    {
+      "id": "c_6",
+      "name": "Brauhaus Sion",
+      "category": "Restaurant",
+      "rating": "★4.4",
+      "desc": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
+      "price": "Kölsch: €2.20",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
+    },
+    {
+      "id": "c_7",
+      "name": "Früh am Dom",
+      "category": "Restaurant",
+      "rating": "★4.4",
+      "desc": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
+      "price": "Mains: €14–€24",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
+    },
+    {
+      "id": "c_8",
+      "name": "Bei Oma Kleinmann",
+      "category": "Restaurant",
+      "rating": "★4.7",
+      "desc": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
+      "price": "Schnitzel: €16–€24",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
+    },
+    {
+      "id": "c_9",
+      "name": "Café Reichard",
+      "category": "Café & Bakery",
+      "rating": "★4.4",
+      "desc": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
+      "price": "Cakes: €6.00",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
+    }
+  ]
+}
