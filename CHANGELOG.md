@@ -4,7 +4,17 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
-## 🏷️ [v1.0.0-stable] - 2026-08-14 (Current Baseline Checkpoint)
+## 🏷️ [v1.2.0] - 2026-08-14 (Area Zone & Kids Filter Release)
+
+### 🌟 Summary
+- **Step 1 Form Simplification**: Removed `Traveler Type` and `Transportation Mode` dropdowns. Added clean `エリア選択 (Area Zone)` dropdown (`✨ すべて (市内＋郊外)`, `🏙️ 市内スポット`, `🏞️ 郊外・日帰りスポット`).
+- **Step 2 Kids Filter Chips & Multi-Tagting**: Added `🧸 Kids (子供向け)` filter chip to Step 2. Supports multi-category matching (e.g. NEMO Science Museum or Pompidou Center appear under BOTH `🎨 美術館・博物館` and `🧸 Kids`).
+- **Cascading Filter Logic**: Selecting "Paris" + "郊外" in Step 1 automatically filters Step 2 to Paris suburban spots (e.g. Versailles, Disneyland Paris). Clicking `🧸 Kids` in Step 2 further narrows down to Paris suburban kid-friendly attractions!
+- **Visual Badge System**: Every spot candidate card displays `🏙️ 市内` or `🏞️ 郊外` and `🧸 Kids` badges.
+
+---
+
+## 🏷️ [v1.0.0-stable] - 2026-08-14 (Baseline Checkpoint)
 
 ### 🌟 Summary
 - **7 European Cities Fully Active**: Paris (45), Berlin (32), Amsterdam (20), Brussels (13), Luxembourg City (20), Cologne (9), Munich (12). Total 151 Candidate Spots.

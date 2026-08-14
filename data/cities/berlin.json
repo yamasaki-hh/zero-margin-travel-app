@@ -13,7 +13,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b2",
@@ -26,7 +28,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/330px-Berlin_reichstag_west_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b3",
@@ -39,7 +43,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg/330px-Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b4",
@@ -52,7 +58,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/330px-141227_Berliner_Dom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b5",
@@ -65,7 +73,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/330px-Charlottenburg_Hohenzollern_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b6",
@@ -78,7 +88,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b7",
@@ -91,7 +103,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gendarmenmarkt_Panorama.jpg/330px-Gendarmenmarkt_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b8",
@@ -104,7 +118,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Siegess%C3%A4ule_8245.jpg/330px-Berlin_Siegess%C3%A4ule_8245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b9",
@@ -117,7 +133,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b10",
@@ -130,7 +148,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Berlin_-_Checkpoint_Charlie_1963.jpg/330px-Berlin_-_Checkpoint_Charlie_1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b11",
@@ -143,7 +163,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b12",
@@ -156,7 +178,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b13",
@@ -169,7 +193,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hackesche_h%C3%B6fe_berlin.jpg/330px-Hackesche_h%C3%B6fe_berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b14",
@@ -182,7 +208,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b15",
@@ -195,7 +223,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b16",
@@ -208,7 +238,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b17",
@@ -221,7 +253,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jewish_Museum_Berlin_logo.svg/330px-Jewish_Museum_Berlin_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b18",
@@ -234,7 +268,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b19",
@@ -247,7 +283,9 @@
       "family": false,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Topographie_des_Terrors_Neubau.jpg/330px-Topographie_des_Terrors_Neubau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": false
     },
     {
       "id": "b_b20",
@@ -260,7 +298,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b21",
@@ -273,7 +313,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b22",
@@ -286,7 +328,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b23",
@@ -299,7 +343,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b24",
@@ -312,7 +358,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b25",
@@ -325,7 +373,9 @@
       "family": false,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": false
     },
     {
       "id": "b_b26",
@@ -338,7 +388,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b27",
@@ -351,7 +403,9 @@
       "family": false,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": false
     },
     {
       "id": "b_b28",
@@ -364,7 +418,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b29",
@@ -377,7 +433,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b30",
@@ -390,7 +448,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b31",
@@ -403,7 +463,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "b_b32",
@@ -416,7 +478,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     }
   ]
 }

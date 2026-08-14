@@ -13,7 +13,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_2",
@@ -26,7 +28,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/330px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_3",
@@ -39,7 +43,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_4",
@@ -52,7 +58,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_5",
@@ -65,7 +73,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_6",
@@ -78,7 +88,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Conseil_d%27Etat_Paris_WA.jpg/330px-Conseil_d%27Etat_Paris_WA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_7",
@@ -91,7 +103,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_8",
@@ -104,7 +118,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/330px-LuxembourgMontparnasse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_9",
@@ -117,7 +133,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/330px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_10",
@@ -130,7 +148,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg/330px-Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_11",
@@ -143,7 +163,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/330px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_12",
@@ -156,7 +178,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_13",
@@ -169,7 +193,9 @@
       "family": false,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg/330px-Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": false
     },
     {
       "id": "p_14",
@@ -182,7 +208,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_15",
@@ -195,7 +223,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_16",
@@ -208,7 +238,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/330px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_17",
@@ -221,7 +253,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_18",
@@ -234,7 +268,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_19",
@@ -247,7 +283,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_20",
@@ -260,7 +298,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_21",
@@ -273,7 +313,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_22",
@@ -286,7 +328,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Le_Train_Bleu.jpg/330px-Le_Train_Bleu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_23",
@@ -299,7 +343,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_24",
@@ -312,7 +358,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chez_Chartier_1.JPG/330px-Chez_Chartier_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_25",
@@ -325,7 +373,9 @@
       "family": false,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": false
     },
     {
       "id": "p_26",
@@ -338,7 +388,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/330px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_27",
@@ -351,7 +403,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_28",
@@ -364,7 +418,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_29",
@@ -377,7 +433,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_30",
@@ -390,7 +448,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_31",
@@ -403,7 +463,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_32",
@@ -416,7 +478,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_33",
@@ -429,7 +493,9 @@
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_34",
@@ -441,7 +507,9 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Musee_du_quai_Branly_exterieur.jpg/330px-Musee_du_quai_Branly_exterieur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_35",
@@ -453,7 +521,9 @@
       "image": "",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_36",
@@ -465,7 +535,9 @@
       "image": "",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_37",
@@ -477,7 +549,9 @@
       "image": "",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_38",
@@ -489,7 +563,9 @@
       "image": "",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_27",
@@ -501,7 +577,9 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/330px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "suburban",
+      "kids": true
     },
     {
       "id": "p_28",
@@ -513,7 +591,9 @@
       "image": "",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": false,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_29",
@@ -525,7 +605,9 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Paris_Conciergerie_265.jpg/330px-Paris_Conciergerie_265.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_30",
@@ -537,7 +619,9 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Place_des_Vosges_vue_a%C3%A9rienne.png/330px-Place_des_Vosges_vue_a%C3%A9rienne.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_31",
@@ -549,7 +633,9 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mus%C3%A9e_Marmottan_Monet%2C_Paris%2C_March_2013.JPG/330px-Mus%C3%A9e_Marmottan_Monet%2C_Paris%2C_March_2013.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_32",
@@ -561,7 +647,9 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Fondation_Louis_Vuitton_-_Paris_%2850569906682%29.jpg/330px-Fondation_Louis_Vuitton_-_Paris_%2850569906682%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     },
     {
       "id": "p_33",
@@ -573,7 +661,9 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paris_2012-aout-0006-2-Hotel-de-Cluny.jpg/330px-Paris_2012-aout-0006-2-Hotel-de-Cluny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": true
+      "hasWiki": true,
+      "locationZone": "city",
+      "kids": true
     }
   ]
 }
