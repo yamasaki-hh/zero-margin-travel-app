@@ -54,7 +54,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
       "price": "Free entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_at_night%2C_July_2014.jpg/330px-Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_at_night%2C_July_2014.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Le_sacr%C3%A9_coeur.jpg/330px-Le_sacr%C3%A9_coeur.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -80,7 +80,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Domaine_national_du_Palais-Royal_2.jpg/330px-Domaine_national_du_Palais-Royal_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_Royal%2C_Paris_8_September_2019.jpg/330px-Palais_Royal%2C_Paris_8_September_2019.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Conseil_d%27Etat_Paris_WA.jpg/330px-Conseil_d%27Etat_Paris_WA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -106,7 +106,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
       "price": "Free access",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jardin_du_Luxembourg_Paris_May_2014_n01.jpg/330px-Jardin_du_Luxembourg_Paris_May_2014_n01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2017_-_Le_palais_du_Luxembourg%2C_dans_le_jardin_du_Luxembourg%2C_Paris_-_3.jpg/330px-2017_-_Le_palais_du_Luxembourg%2C_dans_le_jardin_du_Luxembourg%2C_Paris_-_3.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/330px-LuxembourgMontparnasse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -223,7 +223,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
       "price": "Entry: €12.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mus%C3%A9e_de_l%27Orangerie_September_2015.jpg/330px-Mus%C3%A9e_de_l%27Orangerie_September_2015.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2011-12-Musee_de_lorangerie.jpg/330px-2011-12-Musee_de_lorangerie.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -236,7 +236,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
       "price": "Entry: €13",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Le_mus%C3%A9e_Rodin_Paris.jpg/330px-Le_mus%C3%A9e_Rodin_Paris.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Le_mus%C3%A9e_Rodin.jpg/330px-Le_mus%C3%A9e_Rodin.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -249,7 +249,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
       "price": "Entry: €14",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/H%C3%B4tel_Sal%C3%A9_Paris.jpg/330px-H%C3%B4tel_Sal%C3%A9_Paris.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mus%C3%A9e_Picasso_%28Paris%29_PA00086157_%281%29.jpg/330px-Mus%C3%A9e_Picasso_%28Paris%29_PA00086157_%281%29.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -1866,6 +1866,7 @@ const candidateSpotsDatabase = {
 
 
 
+
 function getCategoryIcon(cat) {
   if (!cat) return '📍';
   const c = String(cat).toLowerCase();
@@ -2222,7 +2223,7 @@ const AITravelEngine = {
               <div>
                 ${hasPhoto ? `
                   <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
-                    <img src="${s.image}" alt="${escapeHtml(s.name)}" loading="lazy" decoding="async" style="width:100%; height:100%; object-fit:cover; display:block;">
+                    <img src="${s.image}" alt="${escapeHtml(s.name)}" loading="lazy" decoding="async" onerror="this.onerror=null; this.parentElement.style.display='none';" style="width:100%; height:100%; object-fit:cover; display:block;">
                     <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7; box-shadow:0 2px 4px rgba(0,0,0,0.1);">🌐 Wikipedia</span>
                     <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
                   </div>
