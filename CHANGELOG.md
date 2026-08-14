@@ -4,6 +4,14 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.7] - 2026-08-14 (Borderless Atelier Layout & 3-Line Description Clamp Release)
+
+### 🌟 Summary
+- **Seamless Borderless Layout**: Completely removed heavy outer planner box borders, sketch shadows, and middle section box borders! Candidate spot cards are now the only clean, elegant card elements.
+- **3-Line Description Expansion**: Increased compact mode description clamp from 2 lines to **3 lines** (`-webkit-line-clamp: 3`), providing richer venue detail while keeping the layout clean and high-density!
+
+---
+
 ## 🏷️ [v1.2.6] - 2026-08-14 (Zero Mobile Outer Margin Release)
 
 ### 🌟 Summary

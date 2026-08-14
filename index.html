@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Caveat:wght@600&display=swap" rel="stylesheet">
 
   <!-- Correct CSS Path to Warm Organic Atelier Design System (Responsive) -->
-  <link rel="stylesheet" href="css/styles.css?v=45.0">
+  <link rel="stylesheet" href="css/styles.css?v=46.0">
 </head>
 <body>
 
@@ -77,9 +77,9 @@
   <div class="container" style="padding-top:1rem;">
 
     <section id="tab-planner" class="tab-content active" style="display:block !important; opacity:1 !important;">
-      <div class="planner-outer-box" style="background:var(--bg-card); border:2.5px solid var(--border-ink); border-radius:255px 15px 225px 15px/15px 225px 15px 255px; padding:2.5rem; box-shadow:var(--shadow-sketch);">
+      <div class="planner-outer-box" style="padding:0.5rem 0;">
         
-        <div style="text-align:center; max-width:700px; margin:0 auto 2rem;">
+        <div style="text-align:center; max-width:700px; margin:0 auto 1.5rem;">
           <span class="paper-tape">Interactive Route Planner</span>
           <h2 style="font-size:2.2rem; margin-top:0.4rem; margin-bottom:0.5rem;" class="font-serif">
             Build Your Custom Travel Route
@@ -92,8 +92,8 @@
         <form id="aiPlannerForm" onsubmit="AITravelEngine.generateItinerary(event)">
           
           <!-- STEP 1: TRIP PARAMETERS -->
-          <div class="step1-container" style="background:#FFFDF9; border:2px solid var(--border-ink); border-radius:18px; padding:1.75rem; margin-bottom:2rem;">
-            <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:1.25rem; display:flex; align-items:center; gap:0.5rem;" class="font-serif">
+          <div class="step1-container" style="margin-bottom:1.5rem;">
+            <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:1rem; display:flex; align-items:center; gap:0.5rem;" class="font-serif">
               <span>1️⃣</span> <span>Step 1: Destination, Transit & Duration</span>
             </div>
 
@@ -128,7 +128,7 @@
           </div>
 
           <!-- STEP 2: INTERACTIVE CANDIDATE SPOTS SELECTION -->
-          <div class="step2-container" style="background:#FFFDF9; border:2px solid var(--border-ink); border-radius:18px; margin-bottom:2rem;">
+          <div class="step2-container" style="margin-bottom:1.5rem;">
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.25rem;">
               <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); display:flex; align-items:center; gap:0.5rem;" class="font-serif">
                 <span>2️⃣</span> <span>Step 2: Select Must-Visit Candidate Spots</span>
@@ -1024,8 +1024,8 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/ai-travel-engine.js?v=45.0"></script>
-  <script src="js/travel-app.js?v=45.0"></script>
+  <script src="js/ai-travel-engine.js?v=46.0"></script>
+  <script src="js/travel-app.js?v=46.0"></script>
   <script>
     // Inline execution fallback to guarantee candidate spots grid renders instantly on DOM load
     window.addEventListener('load', function() {

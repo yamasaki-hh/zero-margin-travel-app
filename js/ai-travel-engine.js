@@ -2893,8 +2893,8 @@ const AITravelEngine = {
                     ${escapeHtml(s.name)}
                   </div>
 
-                  <!-- Line 2: Description (Max 2 lines clamped) -->
-                  <p style="font-size:0.77rem; color:var(--text-secondary); line-height:1.35; margin-top:2px; margin-bottom:0; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; text-overflow:ellipsis;">
+                  <!-- Line 2: Description (Up to 3 lines clamped) -->
+                  <p style="font-size:0.77rem; color:var(--text-secondary); line-height:1.35; margin-top:2px; margin-bottom:0; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; text-overflow:ellipsis;">
                     ${escapeHtml(s.desc)}
                   </p>
                 </div>
