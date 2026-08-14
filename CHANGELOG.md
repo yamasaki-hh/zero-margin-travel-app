@@ -4,6 +4,21 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.4.0] - 2026-08-14 (Nice & Côte d'Azur 30 Curated Spots Release)
+
+### 🌟 Summary
+- **Added Nice & Côte d'Azur (ニース & コート・ダジュール) Module**:
+  - Created `data/cities/nice.json` with 30 curated attractions across all 5 core categories:
+    - **Landmark**: Castle Hill (Colline du Château), Place Masséna, St. Nicholas Russian Cathedral, Cathédrale Sainte-Réparate, Éze Village, Villa Ephrussi de Rothschild, Prince's Palace of Monaco.
+    - **Museum & Gallery**: Musée Marc Chagall, Musée Matisse, MAMAC, Villa Masséna, Musée des Beaux-Arts, Villa Kérylos, Fondation Maeght.
+    - **Café & Bistro**: Cours Saleya Market, Glacier Fenocchio, Chez René Socca, Le Plongeoir, Grand Café de Turin.
+    - **Scenery & Walk**: Promenade des Anglais, Vieux Nice (Old Town), Port Lympia, Mont Boron Forest Park, Cap de Nice Coastal Path, Villefranche-sur-Mer, Saint-Paul-de-Vence.
+    - **Kids & Family**: Promenade du Paillon, Parc Phœnix, Oceanographic Museum of Monaco.
+- **Location Zone Filtering**: Categorized into `city` (inside Nice) and `suburban` (Éze, Saint-Jean-Cap-Ferrat, Villefranche, Saint-Paul-de-Vence, Monaco).
+- **Wikipedia Resolver Pipeline**: Resolved Wikipedia thumbnail images and exact Haversine lat/lng coordinates for all 30 spots.
+
+---
+
 ## 🏷️ [v2.3.0] - 2026-08-14 (Purge Redundant Transit Badges & Alternative Maps Link Release)
 
 ### 🌟 Summary
