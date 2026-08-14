@@ -4,6 +4,15 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.2] - 2026-08-14 (Ultra-Compact Mobile Layout & Rating Cleanup Release)
+
+### 🌟 Summary
+- **High-Density Compact Mode**: Reduced vertical card padding from 0.75rem to 0.4rem, reduced list item gap to 0.35rem, allowing **6 to 8 candidate spots** to fit on a single mobile screen without scrolling!
+- **Ultra-Compact Google Maps Icon Button**: Reduced Maps button from wide text (`📍 Maps ↗`) to ultra-compact icon (`📍↗`), freeing up 90%+ of horizontal row width for spot names and badges!
+- **Rating Duplicate Star Fix**: Fixed duplicate star formatting (e.g. `★★4.8` -> clean single star `★4.8`).
+
+---
+
 ## 🏷️ [v1.2.1] - 2026-08-14 (Country-City Cascading Select & Strict Kids Tag Release)
 
 ### 🌟 Summary
