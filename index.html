@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Caveat:wght@600&display=swap" rel="stylesheet">
 
   <!-- Correct CSS Path to Warm Organic Atelier Design System (Responsive) -->
-  <link rel="stylesheet" href="css/styles.css?v=61.0">
+  <link rel="stylesheet" href="css/styles.css?v=62.0">
 </head>
 <body>
 
@@ -91,30 +91,30 @@
 
             <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:1rem;">
               <div>
-                <label class="form-label">国 (Country):</label>
+                <label class="form-label">Country:</label>
                 <select id="aiPlanCountry" class="form-control" onchange="AITravelEngine.onCountryChange()">
-                  <option value="France" selected>🇫🇷 フランス (France)</option>
-                  <option value="Germany">🇩🇪 ドイツ (Germany)</option>
-                  <option value="Netherlands">🇳🇱 オランダ (Netherlands)</option>
-                  <option value="Belgium">🇧🇪 ベルギー (Belgium)</option>
-                  <option value="Luxembourg">🇱🇺 ルクセンブルク (Luxembourg)</option>
+                  <option value="France" selected>🇫🇷 France</option>
+                  <option value="Germany">🇩🇪 Germany</option>
+                  <option value="Netherlands">🇳🇱 Netherlands</option>
+                  <option value="Belgium">🇧🇪 Belgium</option>
+                  <option value="Luxembourg">🇱🇺 Luxembourg</option>
                 </select>
               </div>
 
               <div>
-                <label class="form-label">都市 (City):</label>
+                <label class="form-label">City:</label>
                 <select id="aiPlanDestination" class="form-control" onchange="AITravelEngine.renderCandidateSpots()">
-                  <option value="Paris, France" selected>🇫🇷 パリ (Paris)</option>
-                  <option value="Nice, France">🇫🇷 ニース (Nice & Côte d'Azur)</option>
+                  <option value="Paris, France" selected>🇫🇷 Paris</option>
+                  <option value="Nice, France">🇫🇷 Nice & Côte d'Azur</option>
                 </select>
               </div>
 
               <div>
-                <label class="form-label">エリア選択 (Area Zone):</label>
+                <label class="form-label">Area Zone:</label>
                 <select id="aiPlanAreaZone" class="form-control" onchange="AITravelEngine.renderCandidateSpots()">
-                  <option value="ALL" selected>✨ すべて (市内 ＋ 郊外)</option>
-                  <option value="city">🏙️ 市内スポット (City Center)</option>
-                  <option value="suburban">🏞️ 郊外・日帰りスポット (Suburban & Day Trip)</option>
+                  <option value="ALL" selected>✨ All Spots (City + Suburban)</option>
+                  <option value="city">🏙️ City Center Spots</option>
+                  <option value="suburban">🏞️ Suburban & Day Trips</option>
                 </select>
               </div>
             </div>
@@ -968,10 +968,10 @@
           <!-- Optional Custom Return Hotel Field -->
           <div style="max-width:560px; margin:0 auto 1.5rem auto; background:#FAF7F2; border:1.5px solid #E2E8F0; padding:0.85rem 1.1rem; border-radius:14px; text-align:left;">
             <label for="aiPlanHotelInput" style="font-size:0.85rem; font-weight:800; color:var(--primary-wood); display:flex; align-items:center; gap:0.4rem; margin-bottom:0.35rem;">
-              <span>🏨 Return Hotel / Stay (帰着ホテル・宿泊先)</span>
-              <span style="font-size:0.72rem; font-weight:600; color:#64748B;">(Optional / 入力時のみルートA・B両方の最後に追加)</span>
+              <span>🏨 Return Hotel / Stay</span>
+              <span style="font-size:0.72rem; font-weight:600; color:#64748B;">(Optional — Appended as final destination to Route A & B)</span>
             </label>
-            <input type="text" id="aiPlanHotelInput" placeholder="例: Ritz Paris またはご自身の宿泊先住所 (未入力時は反映なし)" style="width:100%; padding:0.6rem 0.85rem; border-radius:10px; border:1.5px solid #CBD5E1; font-size:0.9rem; background:#FFF; font-family:var(--font-sans);">
+            <input type="text" id="aiPlanHotelInput" placeholder="e.g. Ritz Paris or your hotel address (leave blank to skip)" style="width:100%; padding:0.6rem 0.85rem; border-radius:10px; border:1.5px solid #CBD5E1; font-size:0.9rem; background:#FFF; font-family:var(--font-sans);">
           </div>
 
           <!-- STEP 3: LAUNCH IN MAPS -->
@@ -1025,8 +1025,8 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/ai-travel-engine.js?v=61.0"></script>
-  <script src="js/travel-app.js?v=61.0"></script>
+  <script src="js/ai-travel-engine.js?v=62.0"></script>
+  <script src="js/travel-app.js?v=62.0"></script>
   <script>
     // Inline execution fallback to guarantee candidate spots grid renders instantly on DOM load
     window.addEventListener('load', function() {

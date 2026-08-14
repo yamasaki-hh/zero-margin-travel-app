@@ -4,6 +4,25 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.6.0] - 2026-08-14 (100% Global English UI Unification Release)
+
+### 🌟 UI/UX & Localization Unification
+- **100% English UI Translation**: Converted all remaining Japanese UI labels, tags, dropdown options, section headers, badges, button texts, inputs, filter chips, and modal overlays into clean, professional, high-converting English across the entire platform.
+- **Form Controls & Dropdowns**:
+  - `Country:` (`France`, `Germany`, `Netherlands`, `Belgium`, `Luxembourg`)
+  - `City:` (`Paris`, `Nice & Côte d'Azur`, `Berlin`, `Cologne`, `Munich`, `Amsterdam`, `Brussels`, `Luxembourg`)
+  - `Area Zone:` (`✨ All Spots (City + Suburban)`, `🏙️ City Center Spots`, `🏞️ Suburban & Day Trips`)
+  - `Return Hotel / Stay:` (`Optional — Appended as final destination to Route A & B`)
+- **Category Filter Chips & View Mode**:
+  - Filter Chips: `🏛️ Landmarks`, `🎨 Museums`, `☕ Cafés & Dining`, `🌆 Scenery & Walks`, `🧸 Kids & Family`
+  - View Mode Bar: `📱 View Mode:` | `⚡ Compact List (Fast)` | `🖼️ Visual Cards (Photos)`
+- **Dynamic Route Badges & Items**:
+  - Route A/B Badges: `📍 Selected`, `✨ AI Pick`, `🏞️ Suburban`, `🏙️ City Center`, `🏨 Return Hotel`
+  - Time-of-Day Slots: `🌅 Sightseeing`, `☕ Café Break`, `🍷 Dinner`, `🌙 Night Scenery`
+- **Cache Busters**: Bumped version parameters in `index.html` to `v=62.0`.
+
+---
+
 ## 🏷️ [v2.5.0] - 2026-08-14 (Added 6 Nice Suburban Riviera Landmarks Release)
 
 ### 🌟 Features Added

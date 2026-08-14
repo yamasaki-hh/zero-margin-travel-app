@@ -3447,10 +3447,10 @@ const AITravelEngine = {
                 ROUTE A — MUST-VISIT SPOTS ONLY
               </div>
               <h4 style="font-size:1.15rem; color:#047857; font-family:var(--font-serif); margin-bottom:0.35rem;" class="font-serif">
-                📍 選択スポットのみのルート (${cleanMust.length}箇所)
+                📍 Selected Spots Only (${cleanMust.length} Stops)
               </h4>
               <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.85rem;">
-                Step 2であなたが選択した<strong>「絶対行きたいスポットのみ」</strong>をGoogleマップで順番にナビゲートします。
+                Directly navigates through your handpicked <strong>Must-Visit places</strong> in optimal sequential order.
               </p>
               
               <div style="margin-bottom:1.25rem; line-height:1.8;">
@@ -3466,7 +3466,7 @@ const AITravelEngine = {
               ${cleanMust.length > 1 ? `
                 <details style="margin-top:0.75rem; text-align:left; background:#F0FDF4; border-radius:8px; padding:0.4rem 0.65rem; border:1px solid #A7F3D0;">
                   <summary style="font-weight:700; color:#047857; cursor:pointer; font-size:0.82rem;">
-                    🚆 Route A 区間別ナビ (${cleanMust.length - 1} Segment)
+                    🚆 Route A Segment Details (${cleanMust.length - 1} Segments)
                   </summary>
                   <div style="margin-top:0.4rem;">
                     ${legItemsAHtml}
@@ -3483,10 +3483,10 @@ const AITravelEngine = {
                 ROUTE B — FULL 1-DAY AI RECOMMENDED COURSE
               </div>
               <h4 style="font-size:1.15rem; color:#B45309; font-family:var(--font-serif); margin-bottom:0.35rem;" class="font-serif">
-                ✨ 1日フルコースAIルート (${cleanFull.length}箇所)
+                ✨ Full 1-Day AI Course (${cleanFull.length} Stops)
               </h4>
               <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.85rem;">
-                選択スポットに加え、<strong>AIが提案する朝の名所・ランチ・カフェ・夕方散策</strong>を含めた1日の完璧なルートをGoogleマップでナビゲートします。
+                Combines your selected spots with <strong>AI-curated morning landmarks, lunch bistros, cafés, and evening walks</strong>.
               </p>
 
               <div style="margin-bottom:1.25rem; line-height:1.8;">
@@ -3502,7 +3502,7 @@ const AITravelEngine = {
               ${cleanFull.length > 1 ? `
                 <details style="margin-top:0.75rem; text-align:left; background:#FFFBEB; border-radius:8px; padding:0.4rem 0.65rem; border:1px solid #FDE68A;">
                   <summary style="font-weight:700; color:#B45309; cursor:pointer; font-size:0.82rem;">
-                    🚆 Route B 区間別ナビ (${cleanFull.length - 1} Segments)
+                    🚆 Route B Segment Details (${cleanFull.length - 1} Segments)
                   </summary>
                   <div style="margin-top:0.4rem;">
                     ${legItemsBHtml}
@@ -3530,22 +3530,22 @@ const AITravelEngine = {
 
   countryCityMap: {
     'France': [
-      { value: 'Paris, France', label: '🇫🇷 パリ (Paris)' },
-      { value: 'Nice, France', label: '🇫🇷 ニース (Nice & Côte d\'Azur)' }
+      { value: 'Paris, France', label: '🇫🇷 Paris' },
+      { value: 'Nice, France', label: '🇫🇷 Nice & Côte d\'Azur' }
     ],
     'Germany': [
-      { value: 'Berlin, Germany', label: '🇩🇪 ベルリン (Berlin)' },
-      { value: 'Cologne, Germany', label: '🇩🇪 ケルン (Cologne)' },
-      { value: 'Munich, Germany', label: '🇩🇪 ミュンヘン (Munich)' }
+      { value: 'Berlin, Germany', label: '🇩🇪 Berlin' },
+      { value: 'Cologne, Germany', label: '🇩🇪 Cologne' },
+      { value: 'Munich, Germany', label: '🇩🇪 Munich' }
     ],
     'Netherlands': [
-      { value: 'Amsterdam, Netherlands', label: '🇳🇱 アムステルダム (Amsterdam)' }
+      { value: 'Amsterdam, Netherlands', label: '🇳🇱 Amsterdam' }
     ],
     'Belgium': [
-      { value: 'Brussels, Belgium', label: '🇧🇪 ブリュッセル (Brussels)' }
+      { value: 'Brussels, Belgium', label: '🇧🇪 Brussels' }
     ],
     'Luxembourg': [
-      { value: 'Luxembourg City, Luxembourg', label: '🇱🇺 ルクセンブルク市 (Luxembourg)' }
+      { value: 'Luxembourg City, Luxembourg', label: '🇱🇺 Luxembourg' }
     ]
   },
 
@@ -3627,7 +3627,7 @@ const AITravelEngine = {
           <div style="display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap; margin-bottom:0.5rem;">
             <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${spot.category}</span>
             <span style="font-size:0.72rem; font-weight:700; background:${spot.locationZone === 'suburban' ? '#FEF3C7' : '#F1F5F9'}; color:${spot.locationZone === 'suburban' ? '#B45309' : '#475569'}; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid ${spot.locationZone === 'suburban' ? '#FDE68A' : '#CBD5E1'};">
-              ${spot.locationZone === 'suburban' ? '🏞️ 郊外' : '🏙️ 市内'}
+              ${spot.locationZone === 'suburban' ? '🏞️ Suburban' : '🏙️ City Center'}
             </span>
             ${spot.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
           </div>
@@ -3742,19 +3742,19 @@ const AITravelEngine = {
             ✨ ALL (${spots.length})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Landmark' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Landmark')">
-            🏛️ 名所 (${countLandmarks})
+            🏛️ Landmarks (${countLandmarks})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Museum' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Museum')">
-            🎨 美術館・博物館 (${countMuseums})
+            🎨 Museums (${countMuseums})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Café' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Café')">
-            ☕ カフェ・グルメ (${countCafes})
+            ☕ Cafés & Dining (${countCafes})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Scenery' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Scenery')">
-            🌆 景観・街歩き (${countScenery})
+            🌆 Scenery & Walks (${countScenery})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Kids' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Kids')">
-            🧸 Kids (${countKids})
+            🧸 Kids & Family (${countKids})
           </button>
         </div>
       `;
@@ -3762,15 +3762,15 @@ const AITravelEngine = {
       const viewModeBarHtml = categoryFilterBarHtml + `
         <div class="view-mode-bar" style="grid-column:1 / -1; width:100%; margin-bottom:0.5rem;">
           <div style="display:flex; align-items:center; gap:0.4rem;">
-            <span style="font-size:0.88rem; font-weight:800; color:var(--text-primary);">📱 表示モード:</span>
-            <span style="font-size:0.8rem; color:var(--text-secondary);">(該当${filteredSpots.length}件)</span>
+            <span style="font-size:0.88rem; font-weight:800; color:var(--text-primary);">📱 View Mode:</span>
+            <span style="font-size:0.8rem; color:var(--text-secondary);">(${filteredSpots.length} matching)</span>
           </div>
           <div style="display:flex; gap:0.4rem; flex-wrap:wrap;">
             <button type="button" class="view-mode-btn ${this.viewMode === 'compact' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('compact')">
-              ⚡ コンパクト (写真なし/高速)
+              ⚡ Compact List (Fast)
             </button>
             <button type="button" class="view-mode-btn ${this.viewMode === 'grid' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('grid')">
-              🖼️ 写真あり (カード)
+              🖼️ Visual Cards (Photos)
             </button>
           </div>
         </div>
@@ -3870,7 +3870,7 @@ const AITravelEngine = {
                   <div style="display:flex; align-items:center; gap:0.3rem; flex-wrap:wrap;">
                     <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${s.category}</span>
                     <span style="font-size:0.72rem; font-weight:700; background:${s.locationZone === 'suburban' ? '#FEF3C7' : '#F1F5F9'}; color:${s.locationZone === 'suburban' ? '#B45309' : '#475569'}; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid ${s.locationZone === 'suburban' ? '#FDE68A' : '#CBD5E1'};">
-                      ${s.locationZone === 'suburban' ? '🏞️ 郊外' : '🏙️ 市内'}
+                      ${s.locationZone === 'suburban' ? '🏞️ Suburban' : '🏙️ City Center'}
                     </span>
                     ${s.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
                   </div>
@@ -4286,16 +4286,16 @@ const AITravelEngine = {
             <span style="font-weight:700; color:#1E293B; word-break:break-word; flex:1; display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap;">
               <span>${escapeHtml(spot.name)}</span>
               ${spot.isHotel || spot.category === 'Hotel & Stay' ? `
-                <span style="font-size:0.62rem; font-weight:800; background:#F3E8FF; color:#7E22CE; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #D8B4FE; white-space:nowrap;">🏨 帰着ホテル</span>
+                <span style="font-size:0.62rem; font-weight:800; background:#F3E8FF; color:#7E22CE; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #D8B4FE; white-space:nowrap;">🏨 Return Hotel</span>
               ` : spot.isMustVisit ? `
-                <span style="font-size:0.62rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #A7F3D0; white-space:nowrap;">📍 選択</span>
+                <span style="font-size:0.62rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #A7F3D0; white-space:nowrap;">📍 Selected</span>
               ` : `
-                <span style="font-size:0.62rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">✨ AI推し</span>
+                <span style="font-size:0.62rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">✨ AI Pick</span>
               `}
-              ${spot.timeSlot === 1 ? `<span style="font-size:0.62rem; font-weight:800; background:#E0F2FE; color:#0369A1; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #BAE6FD; white-space:nowrap;">🌅 観光</span>` : ''}
-              ${spot.timeSlot === 2 ? `<span style="font-size:0.62rem; font-weight:800; background:#FEF3C7; color:#92400E; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">☕ カフェ</span>` : ''}
-              ${spot.timeSlot === 3 ? `<span style="font-size:0.62rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FBCFE8; white-space:nowrap;">🍷 ディナー</span>` : ''}
-              ${spot.timeSlot === 4 ? `<span style="font-size:0.62rem; font-weight:800; background:#F1F5F9; color:#334155; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #CBD5E1; white-space:nowrap;">🌙 夜景・散策</span>` : ''}
+              ${spot.timeSlot === 1 ? `<span style="font-size:0.62rem; font-weight:800; background:#E0F2FE; color:#0369A1; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #BAE6FD; white-space:nowrap;">🌅 Sightseeing</span>` : ''}
+              ${spot.timeSlot === 2 ? `<span style="font-size:0.62rem; font-weight:800; background:#FEF3C7; color:#92400E; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">☕ Café Break</span>` : ''}
+              ${spot.timeSlot === 3 ? `<span style="font-size:0.62rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FBCFE8; white-space:nowrap;">🍷 Dinner</span>` : ''}
+              ${spot.timeSlot === 4 ? `<span style="font-size:0.62rem; font-weight:800; background:#F1F5F9; color:#334155; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #CBD5E1; white-space:nowrap;">🌙 Night Scenery</span>` : ''}
             </span>
           </div>
 
