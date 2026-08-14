@@ -2887,17 +2887,7 @@ function getCategoryIcon(cat) {
 }
 
 const AITravelEngine = {
-  config: {
-    apiKey: localStorage.getItem('zmt_gemini_api_key') || '',
-    modelName: 'Gemini 1.5 Flash'
-  },
-
   selectedMustVisitIds: new Set(),
-
-  setApiKey(key) {
-    this.config.apiKey = key.trim();
-    localStorage.setItem('zmt_gemini_api_key', key.trim());
-  },
 
   // Helper to create single venue Google Maps live search link button
   createMapsLink(placeName, city, compact = false) {
@@ -3984,14 +3974,6 @@ const AITravelEngine = {
     return `https://www.google.com/maps/dir/${pathString}/?api=1${modeParam}`;
   }
 };
-
-function configureGeminiKey() {
-  const key = prompt('Optional: Enter your Gemini 1.5 Flash API Key to enable live Gemini API calls:\n(Leave empty for built-in 0 Margin Travel Engine)', AITravelEngine.config.apiKey);
-  if (key !== null) {
-    AITravelEngine.setApiKey(key);
-    alert(key.trim() ? 'Gemini 1.5 Flash API Key saved! Live API responses enabled.' : 'Switched to Built-in 0 Margin Travel Engine.');
-  }
-}
 
 function escapeHtml(str) {
   if (str === null || str === undefined) return '';

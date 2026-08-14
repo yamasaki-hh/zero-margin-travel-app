@@ -4,6 +4,15 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.9.0] - 2026-08-14 (Complete Gemini API Key UI Removal & 100% Standalone Free Architecture Release)
+
+### 🌟 Summary
+- **Gemini API Key UI Removal**: Removed `🔑 Config Gemini API Key` button from top Navbar and sticky mobile bottom bar.
+- **100% Standalone Client Engine**: Cleaned up `configureGeminiKey` and legacy API key prompt code.
+- **Instant 0ms Instant Load**: App relies 100% on pre-baked, verified, ★4.5+ curated spots across all 7 city modules (168 candidate spots). Zero setup friction for end users!
+
+---
+
 ## 🏷️ [v1.8.0] - 2026-08-14 (Human Daily Travel Rhythm Sorter & Non-Consecutive Dining Release)
 
 ### 🌟 Summary
