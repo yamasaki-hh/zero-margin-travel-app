@@ -124,6 +124,16 @@ SPOT_WIKI_SLUGS = {
     'Notre-Dame Cathedral Luxembourg': [('fr', 'Cath%C3%A9drale_Notre-Dame_de_Luxembourg'), ('en', 'Notre-Dame_Cathedral%2C_Luxembourg')],
     'Mudam Luxembourg': [('fr', 'Mus%C3%A9e_d%27art_moderne_Grand-Duc_Jean'), ('en', 'Mudam')],
     'MNHA Museum': [('fr', 'Mus%C3%A9e_national_d%27histoire_et_d%27art'), ('en', 'National_Museum_of_History_and_Art')],
+    'Pfaffenthal Panoramic Elevator': [('fr', 'Ascenseur_panoramique_Pfaffenthal_-_Ville_haute'), ('en', 'Pfaffenthal_Panoramic_Elevator')],
+    'Vianden Castle': [('fr', 'Ch%C3%A2teau_de_Vianden'), ('en', 'Vianden_Castle')],
+    'Pont Adolphe': [('fr', 'Pont_Adolphe'), ('en', 'Adolphe_Bridge')],
+    'Monument of Remembrance (Gëlle Fra)': [('fr', 'G%C3%ABlle_Fra'), ('en', 'G%C3%ABlle_Fra')],
+    'Place d\'Armes': [('fr', 'Place_d%27Armes_%28Luxembourg%29'), ('en', 'Place_d%27Armes_%28Luxembourg%29')],
+    'Place Guillaume II': [('fr', 'Place_Guillaume_II'), ('en', 'Place_Guillaume_II')],
+    'Neimënster Abbey': [('fr', 'Abbaye_de_Neum%C3%BCnster'), ('en', 'Neim%C3%BCnster_Abbey')],
+    'Fort Thüngen (Musée Dräi Echelen)': [('fr', 'Fort_Th%C3%BCngen'), ('en', 'Fort_Th%C3%BCngen')],
+    'Lëtzebuerg City Museum': [('fr', 'L%C3%ABtzebuerg_City_Museum'), ('en', 'L%C3%ABtzebuerg_City_Museum')],
+    'Müllerthal Schiessentümpel Waterfall': [('fr', 'Schiessent%C3%BCmpel'), ('de', 'Schiessent%C3%BCmpel')],
 
     # Cologne
     'Cologne Cathedral (Kölner Dom)': [('de', 'K%C3%B6lner_Dom'), ('en', 'Cologne_Cathedral')],

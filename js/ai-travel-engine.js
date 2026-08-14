@@ -1563,6 +1563,136 @@ const candidateSpotsDatabase = {
       "adult": true,
       "wikiImage": "",
       "hasWiki": false
+    },
+    {
+      "id": "l_11",
+      "name": "Pfaffenthal Panoramic Elevator",
+      "category": "Scenery",
+      "rating": "★4.8",
+      "desc": "71m glass elevator providing sweeping views over Alzette valley & Pfaffenthal quarter.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lift_Pafendall-Uewerstad_3017-04.jpg/330px-Lift_Pafendall-Uewerstad_3017-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_12",
+      "name": "Vianden Castle",
+      "category": "Landmark",
+      "rating": "★4.8",
+      "desc": "Breathtaking 11th-century feudal castle perched atop rocky promontory in Vianden valley.",
+      "price": "Entry: €10",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vianden_castle.jpg/330px-Vianden_castle.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_13",
+      "name": "Pont Adolphe",
+      "category": "Landmark",
+      "rating": "★4.7",
+      "desc": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adolphe_Bridge_post_2017_renovation_works_-_7_August_2018.jpg/330px-Adolphe_Bridge_post_2017_renovation_works_-_7_August_2018.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_14",
+      "name": "Monument of Remembrance (Gëlle Fra)",
+      "category": "Landmark",
+      "rating": "★4.6",
+      "desc": "Golden Lady statue on Place de la Constitution overlooking Petrusse Valley & Adolphe Bridge.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/G%C3%ABlle_Fra_War_Memorial_Luxembourg_01_-_Illustration_with_lacking_Freedom_of_Panorama.jpg/330px-G%C3%ABlle_Fra_War_Memorial_Luxembourg_01_-_Illustration_with_lacking_Freedom_of_Panorama.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_15",
+      "name": "Place d'Armes",
+      "category": "Scenery",
+      "rating": "★4.6",
+      "desc": "Tree-lined 'City Living Room' square packed with lively outdoor cafe terraces & bandstands.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Place_d%27Armes_Luxembourg.jpg/330px-Place_d%27Armes_Luxembourg.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_16",
+      "name": "Place Guillaume II",
+      "category": "Scenery",
+      "rating": "★4.5",
+      "desc": "Historic equestrian square hosting open-air farmers markets & Luxembourg City Hall.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Luxembourg_pl_Guillaume_Knuedler_vers_rue_Reine_01.jpg/330px-Luxembourg_pl_Guillaume_Knuedler_vers_rue_Reine_01.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_17",
+      "name": "Neimënster Abbey",
+      "category": "Landmark",
+      "rating": "★4.6",
+      "desc": "17th-century Benedictine abbey along Alzette River, now a vibrant cultural center.",
+      "price": "Free access",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Abad%C3%ADa_Neum%C3%BCnster%2C_ciudad_de_Luxemburgo%2C_Luxemburgo%2C_2023-12-16%2C_DD_66-68_HDR.jpg/330px-Abad%C3%ADa_Neum%C3%BCnster%2C_ciudad_de_Luxemburgo%2C_Luxemburgo%2C_2023-12-16%2C_DD_66-68_HDR.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_18",
+      "name": "Fort Thüngen (Musée Dräi Echelen)",
+      "category": "Museum & Art",
+      "rating": "★4.6",
+      "desc": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
+      "price": "Free permanent display",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fuerte_Th%C3%BCngen%2C_ciudad_de_Luxemburgo%2C_Luxemburgo%2C_2023-12-16%2C_DD_148.jpg/330px-Fuerte_Th%C3%BCngen%2C_ciudad_de_Luxemburgo%2C_Luxemburgo%2C_2023-12-16%2C_DD_148.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_19",
+      "name": "Lëtzebuerg City Museum",
+      "category": "Museum & Art",
+      "rating": "★4.6",
+      "desc": "Innovative urban history museum featuring a massive glass elevator cutting through rock strata.",
+      "price": "Entry: €5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Historisches_Museum_der_Stadt_Luxemburg_8325-026.jpg/330px-Historisches_Museum_der_Stadt_Luxemburg_8325-026.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": true
+    },
+    {
+      "id": "l_20",
+      "name": "Müllerthal Schiessentümpel Waterfall",
+      "category": "Scenery",
+      "rating": "★4.8",
+      "desc": "Romantic stone bridge & triple waterfall in 'Luxembourg's Little Switzerland'.",
+      "price": "Free access",
+      "image": "",
+      "family": true,
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     }
   ],
   "Cologne, Germany": [
@@ -1843,6 +1973,7 @@ const candidateSpotsDatabase = {
     }
   ]
 };
+
 
 
 
