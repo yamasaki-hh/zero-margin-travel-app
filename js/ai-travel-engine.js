@@ -3460,8 +3460,12 @@ const AITravelEngine = {
 
     const country = countryElem.value || 'France';
     const cities = this.countryCityMap[country] || this.countryCityMap['France'];
+    const currentVal = destElem.value;
+    const hasCurrent = cities.some(c => c.value === currentVal);
+    const targetVal = hasCurrent ? currentVal : (cities[0] ? cities[0].value : '');
 
-    destElem.innerHTML = cities.map(c => `<option value="${c.value}">${c.label}</option>`).join('');
+    destElem.innerHTML = cities.map(c => `<option value="${c.value}" ${c.value === targetVal ? 'selected' : ''}>${c.label}</option>`).join('');
+    destElem.value = targetVal;
     this.renderCandidateSpots();
   },
 

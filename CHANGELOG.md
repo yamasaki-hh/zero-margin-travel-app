@@ -4,6 +4,15 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.4.1] - 2026-08-14 (Fix City Dropdown Initial Population & HTML Fallback Option Release)
+
+### 🌟 Fixes
+- **HTML Select Initial Option**: Added `<option value="Nice, France">🇫🇷 ニース (Nice & Côte d'Azur)</option>` directly inside `<select id="aiPlanDestination">` in `index.html`.
+- **Automatic Load Synchronization**: Updated `window.addEventListener('load')` in `index.html` to trigger `window.AITravelEngine.onCountryChange()`, ensuring the city dropdown is dynamically populated on page boot without requiring the user to switch country selections.
+- **Selection Preservation**: Updated `onCountryChange()` logic to preserve selected city values when populating options.
+
+---
+
 ## 🏷️ [v2.4.0] - 2026-08-14 (Nice & Côte d'Azur 30 Curated Spots Release)
 
 ### 🌟 Summary
