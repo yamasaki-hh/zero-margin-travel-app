@@ -18,9 +18,7 @@ HEADERS = {
 }
 
 def is_valid_thumbnail(url):
-    if not url: return False
-    l = url.lower()
-    return not ('.svg' in l or 'logo' in l or 'flag' in l or 'blason' in l or 'map' in l or 'carte' in l or 'coat_of_arms' in l)
+    return bool(url)
 
 def fetch_wiki_summary(lang, slug):
     url = f'https://{lang}.wikipedia.org/api/rest_v1/page/summary/{slug}'

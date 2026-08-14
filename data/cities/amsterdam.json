@@ -24,11 +24,11 @@
       "rating": "★4.8",
       "desc": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
       "price": "Entry: €22.00",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false
     },
