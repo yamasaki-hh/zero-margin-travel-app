@@ -1868,12 +1868,12 @@ const AITravelEngine = {
       <div style="background:var(--bg-card-warm); border:2.5px solid var(--border-ink); border-radius:22px; padding:2rem; margin-top:1.5rem; box-shadow:var(--shadow-sketch); animation:fadeIn 0.3s ease;">
         
         <div style="text-align:center; max-width:700px; margin:0 auto 1.5rem;">
-          <span class="paper-tape">Pre-loaded Multi-Stop Google Maps Navigation</span>
+          <span class="paper-tape">Multi-Stop Google Maps Navigation</span>
           <h3 style="font-size:1.8rem; margin-top:0.4rem; font-family:var(--font-serif);">
             ${escapeHtml(destination)} — Custom AI Dual Routes
           </h3>
           <p style="font-size:0.9rem; color:var(--text-secondary);">
-            Reorder items (▲/▼) or remove items (✕). The master <strong>Open Route in Google Maps</strong> button updates in real-time with 100% pre-loaded destinations!
+            Reorder items (▲/▼) or remove items (✕). The master <strong>Open Route in Google Maps</strong> button updates in real-time!
           </p>
         </div>
 
