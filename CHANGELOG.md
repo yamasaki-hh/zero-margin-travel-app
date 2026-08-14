@@ -4,6 +4,21 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.7.0] - 2026-08-14 (Hero Header & Top Branding Simplification Release)
+
+### 🌟 Summary
+- **Title Update**: Changed top title & navbar brand from `0 Margin EU Travel` to `0 Margin Travel(EU)`.
+- **Subtitle Update**: Simplified subtitle to `AI Route Planner & Multi-Stop Google Maps Navigation.`
+- **Removed Redundant Tagline**: Completely deleted `"0 Margin EU Travel: Custom AI Itineraries & Multi-Stop Google Maps Routes."` hero tagline box.
+- **Ultra-Clean Step Flow**:
+  - `Select Must-Visit Spots.`
+  - `1. Pick your destination Country`
+  - `2. Pick your destination city`
+  - `3. Select your "Must-Visit Spots"`
+  - `4. Get TWO type of Google Maps navigation Link!`
+
+---
+
 ## 🏷️ [v1.6.0] - 2026-08-14 (Time Window Alignment & Route B AI Cafe/Dinner Recommendation Guarantee Release)
 
 ### 🌟 Summary
