@@ -2047,6 +2047,8 @@ const AITravelEngine = {
   setViewMode(mode) {
     this.viewMode = mode;
     this.renderCandidateSpots();
+  },
+
   isCategoryMatch(cat, filterGroup) {
     if (!cat || !filterGroup || filterGroup === 'ALL') return true;
     const c = String(cat).toLowerCase();
