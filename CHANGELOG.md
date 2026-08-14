@@ -4,6 +4,15 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.3] - 2026-08-14 (Spot Title Visibility & Responsive 2-Line Layout Fix)
+
+### 🌟 Summary
+- **Prominent Spot Title Display**: Fixed flexbox truncation issue where spot titles disappeared on mobile screens. Spot names (e.g. `Disneyland Paris`, `Eiffel Tower`) now sit prominently on Line 1 with bold text and zero truncation.
+- **Clean 2-Line High-Density Cards**: Badges (`Category`, `Area Zone`, `Kids`, `Rating`) are neatly aligned on Line 2 right below the title.
+- **Ultra-Compact Height Retained**: Card height remains super slim (~45px), fitting 6-7 spots on a single smartphone screen without scrolling!
+
+---
+
 ## 🏷️ [v1.2.2] - 2026-08-14 (Ultra-Compact Mobile Layout & Rating Cleanup Release)
 
 ### 🌟 Summary
