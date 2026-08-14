@@ -1,23 +1,7 @@
 {
   "cityName": "Munich, Germany",
-  "spotCount": 13,
+  "spotCount": 12,
   "spots": [
-    {
-      "id": "muc_hotel_1",
-      "name": "Hotel Bayerischer Hof München (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.7",
-      "desc": "World-famous 5-star hotel near Marienplatz featuring rooftop spa & fine dining.",
-      "price": "€480+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.1402,
-      "lng": 11.5732
-    },
     {
       "id": "m_1",
       "name": "Marienplatz & New Town Hall",

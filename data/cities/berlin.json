@@ -1,23 +1,7 @@
 {
   "cityName": "Berlin, Germany",
-  "spotCount": 33,
+  "spotCount": 32,
   "spots": [
-    {
-      "id": "ber_hotel_1",
-      "name": "Hotel Adlon Kempinski Berlin (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Iconic luxury hotel adjacent to Brandenburg Gate with rich diplomatic history.",
-      "price": "€450+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 52.5161,
-      "lng": 13.3802
-    },
     {
       "id": "b_b1",
       "name": "Brandenburg Gate",

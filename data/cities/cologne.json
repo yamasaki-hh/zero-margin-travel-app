@@ -1,23 +1,7 @@
 {
   "cityName": "Cologne, Germany",
-  "spotCount": 10,
+  "spotCount": 9,
   "spots": [
-    {
-      "id": "cgn_hotel_1",
-      "name": "Excelsior Hotel Ernst Köln (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "5-star luxury hotel opposite Cologne Cathedral serving guests since 1863.",
-      "price": "€380+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 50.9412,
-      "lng": 6.9575
-    },
     {
       "id": "c_1",
       "name": "Cologne Cathedral (Kölner Dom)",

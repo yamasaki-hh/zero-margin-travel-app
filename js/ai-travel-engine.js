@@ -9,22 +9,6 @@ const SVG_FALLBACK_IMAGE = `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.or
 const candidateSpotsDatabase = {
   "Amsterdam, Netherlands": [
     {
-      "id": "ams_hotel_1",
-      "name": "InterContinental Amstel Amsterdam (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.7",
-      "desc": "Grand historic 5-star hotel along the Amstel River with classic Dutch elegance.",
-      "price": "€550+",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Amstel_Hotel_2034.jpg/330px-Amstel_Hotel_2034.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 52.3601,
-      "lng": 4.9004
-    },
-    {
       "id": "a_1",
       "name": "Rijksmuseum",
       "category": "Museum & Art",
@@ -366,22 +350,6 @@ const candidateSpotsDatabase = {
     }
   ],
   "Berlin, Germany": [
-    {
-      "id": "ber_hotel_1",
-      "name": "Hotel Adlon Kempinski Berlin (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Iconic luxury hotel adjacent to Brandenburg Gate with rich diplomatic history.",
-      "price": "€450+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 52.5161,
-      "lng": 13.3802
-    },
     {
       "id": "b_b1",
       "name": "Brandenburg Gate",
@@ -929,22 +897,6 @@ const candidateSpotsDatabase = {
   ],
   "Brussels, Belgium": [
     {
-      "id": "bru_hotel_1",
-      "name": "Hotel Metropole Brussels (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.6",
-      "desc": "Historic 19th-century luxury hotel in the heart of Brussels near Grand-Place.",
-      "price": "€300+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 50.8515,
-      "lng": 4.3533
-    },
-    {
       "id": "br_1",
       "name": "Grand-Place",
       "category": "Landmark",
@@ -1168,22 +1120,6 @@ const candidateSpotsDatabase = {
   ],
   "Cologne, Germany": [
     {
-      "id": "cgn_hotel_1",
-      "name": "Excelsior Hotel Ernst Köln (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "5-star luxury hotel opposite Cologne Cathedral serving guests since 1863.",
-      "price": "€380+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 50.9412,
-      "lng": 6.9575
-    },
-    {
       "id": "c_1",
       "name": "Cologne Cathedral (Kölner Dom)",
       "category": "Landmark",
@@ -1338,22 +1274,6 @@ const candidateSpotsDatabase = {
     }
   ],
   "Luxembourg City, Luxembourg": [
-    {
-      "id": "lux_hotel_1",
-      "name": "Hôtel Le Royal Luxembourg (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.7",
-      "desc": "Premier 5-star hotel in Luxembourg City center close to the Old Quarter.",
-      "price": "€320+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 49.6133,
-      "lng": 6.1267
-    },
     {
       "id": "l_1",
       "name": "Bock Casemates",
@@ -1697,22 +1617,6 @@ const candidateSpotsDatabase = {
   ],
   "Munich, Germany": [
     {
-      "id": "muc_hotel_1",
-      "name": "Hotel Bayerischer Hof München (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.7",
-      "desc": "World-famous 5-star hotel near Marienplatz featuring rooftop spa & fine dining.",
-      "price": "€480+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.1402,
-      "lng": 11.5732
-    },
-    {
       "id": "m_1",
       "name": "Marienplatz & New Town Hall",
       "category": "Landmark",
@@ -1918,182 +1822,6 @@ const candidateSpotsDatabase = {
     }
   ],
   "Paris, France": [
-    {
-      "id": "p_hotel_1",
-      "name": "Ritz Paris (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Legendary 5-star palace hotel on Place Vendôme, iconic pinnacle of historic Parisian elegance.",
-      "price": "€1,200+ / night",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Ritz_Paris_Logo.svg/330px-Ritz_Paris_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8681,
-      "lng": 2.3294
-    },
-    {
-      "id": "p_hotel_2",
-      "name": "Le Meurice (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Historic palace hotel founded in 1835 on Rue de Rivoli, facing the Tuileries Garden.",
-      "price": "€1,100+ / night",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/H%C3%B4tel_Meurice_-_Paris.jpg/330px-H%C3%B4tel_Meurice_-_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8651,
-      "lng": 2.3283
-    },
-    {
-      "id": "p_hotel_3",
-      "name": "Hôtel Plaza Athénée (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Haute couture luxury hotel on Avenue Montaigne with iconic red awnings & Dior Spa.",
-      "price": "€1,400+ / night",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8659,
-      "lng": 2.3045
-    },
-    {
-      "id": "p_hotel_4",
-      "name": "Four Seasons Hotel George V (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.9",
-      "desc": "Palatial landmark off the Champs-Élysées featuring 3 Michelin-starred dining & extravagant florals.",
-      "price": "€1,500+ / night",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/H%C3%B4tel_George-V%2C_31_avenue_George-V%2C_Paris_8e_1.jpg/330px-H%C3%B4tel_George-V%2C_31_avenue_George-V%2C_Paris_8e_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8687,
-      "lng": 2.3009
-    },
-    {
-      "id": "p_hotel_5",
-      "name": "Le Bristol Paris (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.9",
-      "desc": "Prestige French palace hotel on Rue du Faubourg Saint-Honoré with a rooftop pool & courtyard.",
-      "price": "€1,300+ / night",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8715,
-      "lng": 2.3146
-    },
-    {
-      "id": "p_hotel_6",
-      "name": "Hôtel de Crillon (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Historic 18th-century aristocratic palace hotel directly overlooking Place de la Concorde.",
-      "price": "€1,400+ / night",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/H%C3%B4tels_Crillon_Cartier_Plessis_Belli%C3%A8re_Coislin_Paris_2.jpg/330px-H%C3%B4tels_Crillon_Cartier_Plessis_Belli%C3%A8re_Coislin_Paris_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8672,
-      "lng": 2.3216
-    },
-    {
-      "id": "p_hotel_7",
-      "name": "Shangri-La Paris (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Former private residence of Prince Roland Bonaparte offering breathtaking Eiffel Tower views.",
-      "price": "€1,200+ / night",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8634,
-      "lng": 2.2936
-    },
-    {
-      "id": "p_hotel_8",
-      "name": "The Peninsula Paris (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.8",
-      "desc": "Contemporary 5-star palace hotel on Avenue Kléber featuring a rooftop restaurant with Eiffel views.",
-      "price": "€1,300+ / night",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Peninsula_Paris%2C_23_June_2014.jpg/330px-The_Peninsula_Paris%2C_23_June_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8708,
-      "lng": 2.2934
-    },
-    {
-      "id": "p_hotel_9",
-      "name": "La Réserve Paris (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.9",
-      "desc": "Ultra-exclusive, intimate 19th-century Haussmannian private mansion hotel near Champs-Élysées.",
-      "price": "€1,250+ / night",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/La_R%C3%A9serve_Paris.jpg/330px-La_R%C3%A9serve_Paris.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8698,
-      "lng": 2.3106
-    },
-    {
-      "id": "p_hotel_10",
-      "name": "Mandarin Oriental, Paris (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.7",
-      "desc": "Modern chic luxury hotel on Rue Saint-Honoré featuring a lush inner garden courtyard.",
-      "price": "€1,150+ / night",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mandarin_Oriental_Paris_Courtyard.jpg/330px-Mandarin_Oriental_Paris_Courtyard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8675,
-      "lng": 2.3276
-    },
-    {
-      "id": "p_hotel_11",
-      "name": "Prince de Galles (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.7",
-      "desc": "Glamorous 1928 Art Deco luxury hotel situated on Avenue George V near Champs-Élysées.",
-      "price": "€850+ / night",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 48.8683,
-      "lng": 2.3005
-    },
     {
       "id": "p_1",
       "name": "Eiffel Tower",
@@ -3827,51 +3555,26 @@ const AITravelEngine = {
       isMustVisit: selectedIds.has(s.id)
     }));
 
-    // 3. Hotel Return Destination: Check Custom Hotel Input or City Landmark Hotel
+    // 3. Hotel Return Destination: Append ONLY if custom hotel input is provided by the user (Applicable to BOTH Route A and Route B)
     const hotelInputElem = document.getElementById('aiPlanHotelInput');
     const customHotelName = hotelInputElem ? hotelInputElem.value.trim() : '';
 
-    let finalHotelObj = null;
-    const landmarkHotel = allSpots.find(s => s.category === 'Hotel & Stay' || s.name.includes('(Hotel)'));
-
     if (customHotelName) {
-      finalHotelObj = {
+      const returnHotelObj = {
         id: 'user_hotel_custom',
         name: customHotelName.endsWith('(Hotel)') ? customHotelName : `${customHotelName} (Hotel)`,
         category: 'Hotel & Stay',
         rating: '★Stay',
         price: 'Return Hotel',
-        lat: landmarkHotel ? landmarkHotel.lat : (allSpots[0] ? allSpots[0].lat : 48.8566),
-        lng: landmarkHotel ? landmarkHotel.lng : (allSpots[0] ? allSpots[0].lng : 2.3522),
-        isHotel: true
+        lat: allSpots[0] ? allSpots[0].lat : 48.8566,
+        lng: allSpots[0] ? allSpots[0].lng : 2.3522,
+        isHotel: true,
+        isMustVisit: false
       };
-    } else if (landmarkHotel) {
-      finalHotelObj = {
-        id: landmarkHotel.id,
-        name: landmarkHotel.name.split(' (')[0].trim(),
-        category: 'Hotel & Stay',
-        rating: landmarkHotel.rating,
-        price: landmarkHotel.price,
-        lat: landmarkHotel.lat,
-        lng: landmarkHotel.lng,
-        isHotel: true
-      };
-    }
 
-    // Append Hotel as final return destination in Route B
-    if (finalHotelObj) {
-      const nonHotelSpotsB = this.routeB_spots.filter(s => s.category !== 'Hotel & Stay' && !s.isHotel);
-      this.routeB_spots = [...nonHotelSpotsB, {
-        id: finalHotelObj.id,
-        name: finalHotelObj.name.split(' (')[0].trim(),
-        category: 'Hotel & Stay',
-        rating: finalHotelObj.rating,
-        price: finalHotelObj.price,
-        lat: finalHotelObj.lat,
-        lng: finalHotelObj.lng,
-        isMustVisit: false,
-        isHotel: true
-      }];
+      // Append custom Return Hotel as final destination for BOTH Route A and Route B
+      this.routeA_spots.push(returnHotelObj);
+      this.routeB_spots.push(returnHotelObj);
     }
 
     this.renderDualRouteManager(destination, transportMode);

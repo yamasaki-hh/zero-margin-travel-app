@@ -1,23 +1,7 @@
 {
   "cityName": "Brussels, Belgium",
-  "spotCount": 14,
+  "spotCount": 13,
   "spots": [
-    {
-      "id": "bru_hotel_1",
-      "name": "Hotel Metropole Brussels (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.6",
-      "desc": "Historic 19th-century luxury hotel in the heart of Brussels near Grand-Place.",
-      "price": "€300+",
-      "image": "",
-      "family": true,
-      "adult": true,
-      "hasWiki": false,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 50.8515,
-      "lng": 4.3533
-    },
     {
       "id": "br_1",
       "name": "Grand-Place",

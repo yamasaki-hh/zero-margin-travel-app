@@ -1,23 +1,7 @@
 {
   "cityName": "Amsterdam, Netherlands",
-  "spotCount": 21,
+  "spotCount": 20,
   "spots": [
-    {
-      "id": "ams_hotel_1",
-      "name": "InterContinental Amstel Amsterdam (Hotel)",
-      "category": "Hotel & Stay",
-      "rating": "★4.7",
-      "desc": "Grand historic 5-star hotel along the Amstel River with classic Dutch elegance.",
-      "price": "€550+",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Amstel_Hotel_2034.jpg/330px-Amstel_Hotel_2034.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "family": true,
-      "adult": true,
-      "hasWiki": true,
-      "locationZone": "city",
-      "kids": true,
-      "lat": 52.3601,
-      "lng": 4.9004
-    },
     {
       "id": "a_1",
       "name": "Rijksmuseum",

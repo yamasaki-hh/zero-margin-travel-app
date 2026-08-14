@@ -4,6 +4,16 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.2.0] - 2026-08-14 (Complete Removal of Hotel Cards & Unified Custom Return Hotel for Route A & B Release)
+
+### 🌟 Summary
+- **Removed All Hotel Candidate Cards**: Cleaned out all 17 hotel cards across all city JSON modules (`data/cities/*.json`), restoring Step 2 grid to 100% pure Sightseeing Landmarks, Cafes, Bistros, and Night Scenery (161 spots).
+- **Unified Custom Return Hotel Logic**:
+  - **If User Inputs Hotel (e.g. "Ritz Paris" or "My Airbnb")**: Appended as the final destination stop for **BOTH Route A and Route B**.
+  - **If Left Blank**: No hotel is appended to either route; routes terminate naturally at their last sightseeing/dining spot.
+
+---
+
 ## 🏷️ [v2.1.0] - 2026-08-14 (Iconic Paris 5-Star Palace Hotels & Hotel Tag Release)
 
 ### 🌟 Summary
