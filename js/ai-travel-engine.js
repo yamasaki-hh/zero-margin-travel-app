@@ -3349,44 +3349,101 @@ const AITravelEngine = {
     return R * c;
   },
 
-  // Optimize spot sequence for continuous geographical travel flow (導線最適化)
+  // Assign time-of-day category slots (1: Morning/Museum, 2: Afternoon Tea, 3: Evening Dinner, 4: Night Walk)
+  getCategoryTimeSlot(spot) {
+    const cat = String(spot.category || '').toLowerCase();
+    const name = String(spot.name || '').toLowerCase();
+
+    // Slot 4: Nightfall & Open Air Walk (River cruises, bridges, illuminated plazas, 24/7 night scenery)
+    if (cat.includes('scenery') || cat.includes('walk') || name.includes('cruise') || name.includes('seine') || name.includes('river') || name.includes('bridge') || name.includes('night') || name.includes('plaza')) {
+      return 4;
+    }
+
+    // Slot 3: Evening Dining (Restaurants, Bistros, Bars, Dinner)
+    if (cat.includes('bistro') || cat.includes('restaurant') || cat.includes('dining')) {
+      return 3;
+    }
+
+    // Slot 2: Afternoon Break & Tea Time (Cafés, Bakeries, Tea Rooms, Parks, Gardens)
+    if (cat.includes('café') || cat.includes('cafe') || cat.includes('bakery') || cat.includes('park') || cat.includes('garden')) {
+      return 2;
+    }
+
+    // Slot 1: Morning & Early Afternoon (Museums, Palaces, Cathedrals, Indoor Landmarks - close around 17:00-18:00)
+    return 1;
+  },
+
+  // Optimize spot sequence combining Time-of-Day Category Slots & Geographical Proximity (導線 ＋ 営業時間・食事時間最適化)
   optimizeRouteOrder(spots) {
     if (!spots || spots.length <= 1) return spots;
 
-    const list = spots.map(s => ({ ...s }));
-    
-    // Pick westernmost spot as initial starting anchor for smooth directional travel
-    let startIdx = 0;
-    let minLng = Infinity;
-    list.forEach((s, idx) => {
-      const lng = Number(s.lng || 0);
-      if (lng && lng < minLng) {
-        minLng = lng;
-        startIdx = idx;
+    const list = spots.map(s => ({
+      ...s,
+      timeSlot: this.getCategoryTimeSlot(s)
+    }));
+
+    // Group spots into time-of-day buckets (1: Morning, 2: Afternoon Break, 3: Dinner, 4: Night Walk)
+    const slot1 = list.filter(s => s.timeSlot === 1);
+    const slot2 = list.filter(s => s.timeSlot === 2);
+    const slot3 = list.filter(s => s.timeSlot === 3);
+    const slot4 = list.filter(s => s.timeSlot === 4);
+
+    // Sub-sort each time bucket by nearest-neighbor geographical distance
+    const sortBucketByProximity = (bucket, lastSpot = null) => {
+      if (bucket.length <= 1) return bucket;
+      
+      const unvisited = [...bucket];
+      const sorted = [];
+
+      let current = lastSpot;
+      if (!current) {
+        // Find westernmost spot in bucket as initial anchor
+        let minLng = Infinity;
+        let startIdx = 0;
+        unvisited.forEach((s, idx) => {
+          const lng = Number(s.lng || 0);
+          if (lng && lng < minLng) {
+            minLng = lng;
+            startIdx = idx;
+          }
+        });
+        current = unvisited[startIdx];
+        sorted.push(current);
+        unvisited.splice(startIdx, 1);
       }
-    });
 
-    const result = [list[startIdx]];
-    const unvisited = list.filter((_, idx) => idx !== startIdx);
+      while (unvisited.length > 0) {
+        let nearestIdx = 0;
+        let minDistance = Infinity;
 
-    while (unvisited.length > 0) {
-      const current = result[result.length - 1];
-      let nearestIdx = 0;
-      let minDistance = Infinity;
+        unvisited.forEach((spot, idx) => {
+          const dist = this.calculateDistance(current.lat, current.lng, spot.lat, spot.lng);
+          if (dist < minDistance) {
+            minDistance = dist;
+            nearestIdx = idx;
+          }
+        });
 
-      unvisited.forEach((spot, idx) => {
-        const dist = this.calculateDistance(current.lat, current.lng, spot.lat, spot.lng);
-        if (dist < minDistance) {
-          minDistance = dist;
-          nearestIdx = idx;
-        }
-      });
+        current = unvisited[nearestIdx];
+        sorted.push(current);
+        unvisited.splice(nearestIdx, 1);
+      }
 
-      result.push(unvisited[nearestIdx]);
-      unvisited.splice(nearestIdx, 1);
-    }
+      return sorted;
+    };
 
-    return result;
+    const sorted1 = sortBucketByProximity(slot1);
+    const last1 = sorted1.length > 0 ? sorted1[sorted1.length - 1] : null;
+
+    const sorted2 = sortBucketByProximity(slot2, last1);
+    const last2 = sorted2.length > 0 ? sorted2[sorted2.length - 1] : (last1 || null);
+
+    const sorted3 = sortBucketByProximity(slot3, last2);
+    const last3 = sorted3.length > 0 ? sorted3[sorted3.length - 1] : (last2 || null);
+
+    const sorted4 = sortBucketByProximity(slot4, last3);
+
+    return [...sorted1, ...sorted2, ...sorted3, ...sorted4];
   },
 
   // Step 3: Generate Custom Dual Routes with Geographical Flow Optimization (導線最適化)
@@ -3583,10 +3640,14 @@ const AITravelEngine = {
             <span style="font-weight:700; color:#1E293B; word-break:break-word; flex:1; display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap;">
               <span>${escapeHtml(spot.name)}</span>
               ${spot.isMustVisit ? `
-                <span style="font-size:0.65rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.1rem 0.35rem; border-radius:4px; border:1px solid #A7F3D0; white-space:nowrap;">📍 選択</span>
+                <span style="font-size:0.62rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #A7F3D0; white-space:nowrap;">📍 選択</span>
               ` : `
-                <span style="font-size:0.65rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.1rem 0.35rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">✨ AI推し</span>
+                <span style="font-size:0.62rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">✨ AI推し</span>
               `}
+              ${spot.timeSlot === 1 ? `<span style="font-size:0.62rem; font-weight:800; background:#E0F2FE; color:#0369A1; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #BAE6FD; white-space:nowrap;">🌅 観光</span>` : ''}
+              ${spot.timeSlot === 2 ? `<span style="font-size:0.62rem; font-weight:800; background:#FEF3C7; color:#92400E; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">☕ カフェ</span>` : ''}
+              ${spot.timeSlot === 3 ? `<span style="font-size:0.62rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #FBCFE8; white-space:nowrap;">🍷 ディナー</span>` : ''}
+              ${spot.timeSlot === 4 ? `<span style="font-size:0.62rem; font-weight:800; background:#F1F5F9; color:#334155; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #CBD5E1; white-space:nowrap;">🌙 夜景・散策</span>` : ''}
             </span>
           </div>
 

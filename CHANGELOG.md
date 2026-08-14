@@ -4,6 +4,19 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.4.0] - 2026-08-14 (Smart Time-of-Day & Operating Hours Itinerary Optimization Release)
+
+### 🌟 Summary
+- **Category Time-of-Day Sequencing (`getCategoryTimeSlot`)**:
+  1. **Slot 1 (Morning & Early Afternoon)**: Museums, Palaces, Cathedrals, Indoor Landmarks (close early around 17:00–18:00).
+  2. **Slot 2 (Mid-Afternoon Tea Break)**: Cafés, Bakeries, Tea Rooms, Parks, Gardens (14:30–16:30 break).
+  3. **Slot 3 (Evening Dinner)**: Bistros, Restaurants, Gourmet Dining (18:30–20:30 dinner).
+  4. **Slot 4 (Night & Open Air Walk)**: River Cruises, Bridges, Plazas, Night Scenery (no closing times / illuminated).
+- **Proximity Sorter Within Time Slots**: Sub-sorts venues within each time-of-day bucket using Nearest Neighbor Haversine Spatial Distance, guaranteeing zero backtracking!
+- **Time Slot Badges**: Route manager items display `🌅 観光`, `☕ カフェ`, `🍷 ディナー`, and `🌙 夜景・散策` badges for instant itinerary awareness.
+
+---
+
 ## 🏷️ [v1.3.0] - 2026-08-14 (Intelligent Geographical Travel Flow Optimization Release)
 
 ### 🌟 Summary
