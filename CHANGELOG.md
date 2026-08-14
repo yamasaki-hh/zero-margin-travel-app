@@ -4,6 +4,26 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.1.0] - 2026-08-14 (Iconic Paris 5-Star Palace Hotels & Hotel Tag Release)
+
+### 🌟 Summary
+- **11 Legendary Paris Palace Hotels**: Added iconic 5-star palace hotels in Paris as candidate spot cards in Step 2:
+  1. `Ritz Paris (Hotel)` — Place Vendôme
+  2. `Le Meurice (Hotel)` — Rue de Rivoli / Tuileries
+  3. `Hôtel Plaza Athénée (Hotel)` — Avenue Montaigne / Dior
+  4. `Four Seasons Hotel George V (Hotel)` — Avenue George V
+  5. `Le Bristol Paris (Hotel)` — Rue du Faubourg Saint-Honoré
+  6. `Hôtel de Crillon (Hotel)` — Place de la Concorde
+  7. `Shangri-La Paris (Hotel)` — Avenue d'Iéna / Eiffel View
+  8. `The Peninsula Paris (Hotel)` — Avenue Kléber
+  9. `La Réserve Paris (Hotel)` — Avenue Gabriel
+  10. `Mandarin Oriental, Paris (Hotel)` — Rue Saint-Honoré
+  11. `Prince de Galles (Hotel)` — Avenue George V / Art Deco
+- **Category Tag & Badge**: Added `Hotel & Stay` category with `🏨 Hotel` badge.
+- **100% English Language**: All names, descriptions, prices, and location details formatted strictly in English.
+
+---
+
 ## 🏷️ [v2.0.0] - 2026-08-14 (Premium Hero Copy & 3-Step Flow Marketing Copy Release)
 
 ### 🌟 Summary
