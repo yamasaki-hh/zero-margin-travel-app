@@ -837,11 +837,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Interactive museum depicting daily life under East German communist rule.",
       "price": "Entry: €12.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_Berlin.jpg/330px-DDR-Museum_Berlin.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "b_b21",
@@ -1843,6 +1843,7 @@ const candidateSpotsDatabase = {
     }
   ]
 };
+
 
 
 
