@@ -4,6 +4,20 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v3.0.0] - 2026-08-14 (Marseille City Database Release - 43 Curated Spots)
+
+### 🌟 Major Milestone Reached
+- **Created Marseille City Database Module** (`data/cities/marseille.json`): Added 43 curated, verified ★4.5+ attractions across 5 core categories (`Landmark`, `Museum & Gallery`, `Café & Bistro`, `Scenery & Walk`, `Kids & Family`).
+  - **Landmarks (11 spots)**: Basilique Notre-Dame de la Garde, Vieux-Port de Marseille & Ombrière, Cathédrale de la Major, Fort Saint-Jean, Fort Saint-Nicolas, Palais Longchamp, Cité Radieuse Le Corbusier, Abbaye Saint-Victor, Orange Vélodrome Stadium, Château d'If, Château de la Buzine.
+  - **Museums & Galleries (9 spots)**: MuCEM, Grotte Cosquer (Cosquer Méditerranée), Musée d'Histoire de Marseille, Musée des Beaux-Arts, Musée Cantini, MAC, Muséum d'Histoire Naturelle, Friche la Belle de Mai, Musée de la Faïence (Château Borély).
+  - **Cafés & Dining (8 spots)**: Chez Fonfon (Vallon des Auffes), Le Miramar, Marché aux Poissons du Vieux-Port, Marché de Noailles, Four des Navettes, La Samaritaine & Café de la Banque, Maison de la Boule & Savonneries, L'Épuisette.
+  - **Scenery & Walks (9 spots)**: Le Panier, Vallon des Auffes, Corniche du Président Kennedy, Cours Julien, Vieille Charité, Place aux Huiles & Cours Estienne-d'Orves, Parc National des Calanques, Îles du Frioul, Les Goudes & Cap Croisette.
+  - **Kids & Family (6 spots)**: Parc Borély & Jardin Botanique, Le Petit Train de Marseille, Croisières du Vieux-Port, Plage du Prado, Magic Park Land, Parc de Figuerolles.
+- **Wikipedia Resolver Pipeline**: Resolved 14 Wikipedia thumbnail images and exact Haversine coordinates for Marseille, expanding the global spots database to **371 total spots across 12 Western European cities**.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=66.0`.
+
+---
+
 ## 🏷️ [v2.9.0] - 2026-08-14 (Bordeaux City Database Release - 40 Curated Spots)
 
 ### 🌟 Features Added
