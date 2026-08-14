@@ -158,11 +158,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
       "price": "Free access",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pont_des_Arts%2C_6e_Arrondissement%2C_Paris_%28HDR%29_20140320_1.jpg/330px-Pont_des_Arts%2C_6e_Arrondissement%2C_Paris_%28HDR%29_20140320_1.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_13",
@@ -197,11 +197,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
       "price": "Entry: €16",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gare_d%27Orsay_%2849570190081%29.jpg/330px-Gare_d%27Orsay_%2849570190081%29.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_16",
@@ -210,11 +210,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
       "price": "Entry: €15",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2021-09-19_10-45-09_ILCE-7C_DSC05538_DxO_1_%2851529047303%29.jpg/330px-2021-09-19_10-45-09_ILCE-7C_DSC05538_DxO_1_%2851529047303%29.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/330px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_17",
@@ -468,10 +468,10 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
       "price": "Free rooftop access",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Paris%2C_Galeries_Lafayette_Haussmann.jpg/330px-Paris%2C_Galeries_Lafayette_Haussmann.jpg",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_37",
@@ -492,10 +492,10 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
       "price": "Free walk",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2022-04-14-Passerelle_de_la_Grange-aux-Belles-8583.jpg/330px-2022-04-14-Passerelle_de_la_Grange-aux-Belles-8583.jpg",
       "family": true,
       "adult": true,
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_27",
@@ -552,7 +552,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
       "price": "Entry: €14",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mus%C3%A9e_Marmottan_Monet_Paris.jpg/330px-Mus%C3%A9e_Marmottan_Monet_Paris.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mus%C3%A9e_Marmottan_Monet%2C_Paris%2C_March_2013.JPG/330px-Mus%C3%A9e_Marmottan_Monet%2C_Paris%2C_March_2013.JPG",
       "family": true,
       "adult": true,
       "hasWiki": true
@@ -694,7 +694,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "368m television tower offering 360-degree panorama of Berlin.",
       "price": "Observation: €22.50",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berliner_Fernsehturm_2017.jpg/330px-Berliner_Fernsehturm_2017.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1021,7 +1021,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
       "price": "Entry: €22.00",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Van_Gogh_Museum_Amsterdam.jpg/330px-Van_Gogh_Museum_Amsterdam.jpg",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1843,6 +1843,9 @@ const candidateSpotsDatabase = {
     }
   ]
 };
+
+
+
 
 
 
