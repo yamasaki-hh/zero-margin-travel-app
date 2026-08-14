@@ -4,6 +4,20 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.9.0] - 2026-08-14 (Bordeaux City Database Release - 40 Curated Spots)
+
+### 🌟 Features Added
+- **Created Bordeaux City Database Module** (`data/cities/bordeaux.json`): Added 40 curated, verified ★4.5+ attractions across 5 core categories (`Landmark`, `Museum & Gallery`, `Café & Bistro`, `Scenery & Walk`, `Kids & Family`).
+  - **Landmarks (11 spots)**: Place de la Bourse & Miroir d'eau, Grand Théâtre de Bordeaux, Cathédrale Saint-André & Tour Pey-Berland, Porte Cailhau, Grosse Cloche, Basilique Saint-Michel, Monument aux Girondins, Palais Gallien, Pont de Pierre, Château de Roquetaillade, Château de La Brède.
+  - **Museums & Galleries (8 spots)**: Cité du Vin, Bassins des Lumières, Musée d'Aquitaine, Musée des Beaux-Arts, CAPC Musée d'Art Contemporain, MADD, Musée Mer Marine, Musée National des Douanes.
+  - **Cafés & Dining (7 spots)**: Marché des Capucins, Brasserie Bordelaise, Canelé Baillardran & La Toque Cuivrée, Le Bar à Vin (CIVB), Café Français, L'Entrecôte Bordeaux, Grand Cru Wineries (Saint-Émilion, Médoc).
+  - **Scenery & Walks (8 spots)**: Quartier Saint-Pierre, Quartier des Chartrons, Les Quais de Bordeaux, Rue Sainte-Catherine, Place des Quinconces, Darwin Eco-Système, Saint-Émilion Medieval Village (UNESCO), Dune du Pilat & Arcachon Bay.
+  - **Kids & Family (6 spots)**: Jardin Public & Muséum de Bordeaux, Cap Sciences, Bordeaux River Cruise / Bat3, Parc Bordelais, Zoo de Bordeaux-Pessac, La Forêt des Accro-Batches.
+- **Wikipedia Resolver Pipeline**: Resolved 11 Wikipedia thumbnail images and exact Haversine coordinates for Bordeaux, expanding the global spots database to **328 total spots across 11 Western European cities**.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=65.0`.
+
+---
+
 ## 🏷️ [v2.8.0] - 2026-08-14 (Strasbourg City Database Release - 45 Curated Spots)
 
 ### 🌟 Features Added
