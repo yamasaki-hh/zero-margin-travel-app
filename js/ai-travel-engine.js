@@ -2765,6 +2765,15 @@ const AITravelEngine = {
     }
   },
 
+  formatCompactPrice(priceStr) {
+    if (!priceStr) return '';
+    const p = String(priceStr).trim();
+    if (p.toLowerCase().includes('free')) return 'Free';
+    const match = p.match(/€\s*\d+([.,]\d+)?/);
+    if (match) return match[0].replace(/\s+/, '');
+    return p.length > 8 ? p.substring(0, 8) : p;
+  },
+
   setCategoryFilter(category) {
     this.categoryFilter = category;
     this.renderCandidateSpots();
@@ -2881,6 +2890,7 @@ const AITravelEngine = {
           const isChecked = this.selectedMustVisitIds.has(s.id);
           const rawRating = String(s.rating || '');
           const cleanRating = rawRating.startsWith('★') ? rawRating : `★${rawRating}`;
+          const cleanPrice = this.formatCompactPrice(s.price);
 
           return `
             <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; padding:0.45rem 0.55rem; display:flex; align-items:center; justify-content:space-between; gap:0.4rem; border-radius:10px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 0 2px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
@@ -2900,15 +2910,22 @@ const AITravelEngine = {
                 </div>
               </div>
 
-              <!-- Right Column: Stacked Rating (Top), Maps Link (Middle), More Button (Bottom) -->
-              <div style="flex-shrink:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:0.2rem; margin-left:0.25rem; min-width:42px;">
-                <span style="font-size:0.65rem; font-weight:800; color:#047857; background:#D1FAE5; padding:0.05rem 0.35rem; border-radius:4px; white-space:nowrap;">
-                  ${cleanRating}
-                </span>
+              <!-- Right Column: Stacked Rating & Budget (Top), Maps Link (Middle), More Button (Bottom) -->
+              <div style="flex-shrink:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:0.2rem; margin-left:0.25rem; min-width:44px;">
+                <div style="display:flex; align-items:center; gap:0.18rem; flex-wrap:nowrap;">
+                  <span style="font-size:0.62rem; font-weight:800; color:#047857; background:#D1FAE5; padding:0.05rem 0.3rem; border-radius:4px; white-space:nowrap;">
+                    ${cleanRating}
+                  </span>
+                  ${cleanPrice ? `
+                    <span style="font-size:0.62rem; font-weight:800; color:#78350F; background:#FEF3C7; padding:0.05rem 0.3rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">
+                      ${cleanPrice}
+                    </span>
+                  ` : ''}
+                </div>
 
                 ${this.createMapsLink(s.name.split(' (')[0], city.split(',')[0], true)}
 
-                <button type="button" onclick="event.stopPropagation(); AITravelEngine.openSpotModal('${s.id}')" onpointerdown="event.stopPropagation(); AITravelEngine.openSpotModal('${s.id}')" style="display:inline-flex; align-items:center; justify-content:center; background:#FEF3C7; color:#B45309; border:1px solid #FDE68A; padding:0.12rem 0.35rem; border-radius:4px; font-weight:800; font-size:0.62rem; cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent;" title="View photo & details">
+                <button type="button" onclick="event.stopPropagation(); AITravelEngine.openSpotModal('${s.id}')" onpointerdown="event.stopPropagation(); AITravelEngine.openSpotModal('${s.id}')" style="display:inline-flex; align-items:center; justify-content:center; background:#EFF6FF; color:#0369A1; border:1px solid #BAE6FD; padding:0.12rem 0.35rem; border-radius:4px; font-weight:800; font-size:0.62rem; cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent;" title="View photo & details">
                   More
                 </button>
               </div>

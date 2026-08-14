@@ -4,6 +4,14 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.8] - 2026-08-14 (Compact Mode Zero-Height Budget Badge Release)
+
+### 🌟 Summary
+- **Zero-Height Budget Badge**: Added a clean, ultra-compact budget badge (e.g., `€13`, `Free`, `€10`) directly adjacent to the star rating (`★4.8`) in the right column top row of Compact Mode cards.
+- **Zero Height Increase**: Integrates estimated venue prices side-by-side with ratings, keeping card height 100% unchanged without adding extra vertical lines!
+
+---
+
 ## 🏷️ [v1.2.7] - 2026-08-14 (Borderless Atelier Layout & 3-Line Description Clamp Release)
 
 ### 🌟 Summary
