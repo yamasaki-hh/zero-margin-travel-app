@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Caveat:wght@600&display=swap" rel="stylesheet">
 
   <!-- Correct CSS Path to Warm Organic Atelier Design System (Responsive) -->
-  <link rel="stylesheet" href="css/styles.css?v=54.0">
+  <link rel="stylesheet" href="css/styles.css?v=55.0">
 </head>
 <body>
 
@@ -43,15 +43,16 @@
   <section class="hero-section">
     <div class="container">
       
-      <h1 class="hero-title">
-        Select Must-Visit Spots.
+      <h1 class="hero-title" style="font-size:2.8rem; margin-bottom:0.75rem;">
+        Explore Europe Smarter with Instant Google Maps Routes.
       </h1>
 
-      <p class="hero-subtitle">
-        1. Pick your destination Country<br>
-        2. Pick your destination city<br>
-        3. Select your "Must-Visit Spots"<br>
-        4. Get TWO type of Google Maps navigation Link!
+      <p style="font-size:1.3rem; font-weight:800; color:var(--primary-forest); margin-top:0.4rem; margin-bottom:0.85rem; font-family:var(--font-serif);">
+        Curated ★4.5+ spots. Zero planning fatigue.
+      </p>
+
+      <p class="hero-subtitle" style="max-width:720px; margin:0 auto 1.5rem; font-size:1.05rem;">
+        Pick your must-visit landmarks, bistros, and gems — get ready-to-use multi-stop Google Maps navigation in seconds.
       </p>
 
       <!-- Prominent Primary CTA Button -->
@@ -70,13 +71,13 @@
     <section id="tab-planner" class="tab-content active" style="display:block !important; opacity:1 !important;">
       <div class="planner-outer-box" style="padding:0.5rem 0;">
         
-        <div style="text-align:center; max-width:700px; margin:0 auto 1.5rem;">
+        <div style="text-align:center; max-width:750px; margin:0 auto 1.5rem;">
           <span class="paper-tape">Interactive Route Planner</span>
           <h2 style="font-size:2.2rem; margin-top:0.4rem; margin-bottom:0.5rem;" class="font-serif">
-            Build Your Custom Travel Route
+            Build Your Custom Day in 3 Simple Steps
           </h2>
           <p style="font-size:0.95rem; color:var(--text-secondary);">
-            Step 1: Set parameters. Step 2: Select candidate spots. Step 3: Launch Route A (Selected Spots) or Route B (Full 1-Day AI Course) in Google Maps!
+            Handpick your favorites from ★4.5+ verified places and launch ready-to-use multi-stop Google Maps navigation in 1 click!
           </p>
         </div>
 
@@ -85,7 +86,7 @@
           <!-- STEP 1: TRIP PARAMETERS -->
           <div class="step1-container" style="margin-bottom:1.5rem;">
             <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:1rem; display:flex; align-items:center; gap:0.5rem;" class="font-serif">
-              <span>1️⃣</span> <span>Step 1: Destination, Transit & Duration</span>
+              <span>1️⃣</span> <span>Step 1: Choose Destination — Select your country & city</span>
             </div>
 
             <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:1rem;">
@@ -122,7 +123,7 @@
           <div class="step2-container" style="margin-bottom:1.5rem;">
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.25rem;">
               <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); display:flex; align-items:center; gap:0.5rem;" class="font-serif">
-                <span>2️⃣</span> <span>Step 2: Select Must-Visit Candidate Spots</span>
+                <span>2️⃣</span> <span>Step 2: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places</span>
               </div>
               
               <span id="spotsCounterBadge" style="font-size:0.88rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.35rem 0.85rem; border-radius:9999px; border:1.5px solid #0284C7;">
@@ -972,10 +973,13 @@
             <input type="text" id="aiPlanHotelInput" placeholder="例: Ritz Paris (未入力の場合は都市の一番有名な代表ホテル)" style="width:100%; padding:0.6rem 0.85rem; border-radius:10px; border:1.5px solid #CBD5E1; font-size:0.9rem; background:#FFF; font-family:var(--font-sans);">
           </div>
 
-          <!-- STEP 3: GENERATE ROUTE BUTTON -->
-          <div style="text-align:center;">
+          <!-- STEP 3: LAUNCH IN MAPS -->
+          <div style="text-align:center; max-width:680px; margin:0 auto;">
+            <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:0.75rem;" class="font-serif">
+              <span>3️⃣</span> <span>Step 3: Launch in Maps — Choose Route A (Selected only) or Route B (Curated full-day loop)</span>
+            </div>
             <button type="submit" class="btn btn-emerald" style="padding:1.1rem 2.75rem; font-size:1.2rem; border-radius:16px;">
-              ⚡ Synthesize Custom AI Route & Pre-load Dual Google Maps Routes ↗
+              🗺️ Generate Ready-to-Use Dual Google Maps Routes ↗
             </button>
           </div>
 
@@ -1020,8 +1024,8 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/ai-travel-engine.js?v=54.0"></script>
-  <script src="js/travel-app.js?v=54.0"></script>
+  <script src="js/ai-travel-engine.js?v=55.0"></script>
+  <script src="js/travel-app.js?v=55.0"></script>
   <script>
     // Inline execution fallback to guarantee candidate spots grid renders instantly on DOM load
     window.addEventListener('load', function() {

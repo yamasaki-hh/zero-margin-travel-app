@@ -4,6 +4,22 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.0.0] - 2026-08-14 (Premium Hero Copy & 3-Step Flow Marketing Copy Release)
+
+### 🌟 Summary
+- **Hero Headline Update**:
+  - Main Title: `Explore Europe Smarter with Instant Google Maps Routes.`
+  - Highlight Subtitle: `Curated ★4.5+ spots. Zero planning fatigue.`
+  - Body Copy: `Pick your must-visit landmarks, bistros, and gems — get ready-to-use multi-stop Google Maps navigation in seconds.`
+- **Interactive Planner Header**:
+  - Title: `Build Your Custom Day in 3 Simple Steps`
+- **3-Step Flow Headlines**:
+  - **Step 1**: `Step 1: Choose Destination — Select your country & city`
+  - **Step 2**: `Step 2: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places`
+  - **Step 3**: `Step 3: Launch in Maps — Choose Route A (Selected only) or Route B (Curated full-day loop)`
+
+---
+
 ## 🏷️ [v1.9.0] - 2026-08-14 (Complete Gemini API Key UI Removal & 100% Standalone Free Architecture Release)
 
 ### 🌟 Summary
