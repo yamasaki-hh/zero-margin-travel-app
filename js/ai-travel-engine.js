@@ -1241,11 +1241,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
       "price": "Entry: €14.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": true,
       "lat": 50.9322,
@@ -3558,7 +3558,7 @@ const AITravelEngine = {
     return [...sorted1, ...sorted2, ...sorted3, ...sorted4];
   },
 
-  // Step 3: Generate Custom Dual Routes with Geographical Flow Optimization (導線最適化)
+  // Step 3: Generate Custom Dual Routes with Geographical & Time-of-Day Flow Optimization
   generateItinerary(event) {
     if (event) event.preventDefault();
 
@@ -3580,7 +3580,7 @@ const AITravelEngine = {
       checkedSpots = allSpots.slice(0, 3);
     }
 
-    // 1. ROUTE A: Geographically optimized order (導線最適化) for selected spots
+    // 1. ROUTE A: Geographically & Time-of-Day optimized order for selected spots
     const optimizedSpotsA = this.optimizeRouteOrder(checkedSpots);
     this.routeA_spots = optimizedSpotsA.map(s => ({
       id: s.id,
@@ -3593,11 +3593,49 @@ const AITravelEngine = {
       isMustVisit: true
     }));
 
-    // 2. ROUTE B: Interleaved 10-spot full course (導線 ＋ 営業時間ソート)
+    // 2. ROUTE B: Smart Interleaved 10-Spot AI Course (Guaranteeing Cafés, Bistros & Sights)
     const unselectedSpots = allSpots.filter(s => !selectedIds.has(s.id) && s.category !== 'Hotel & Stay');
-    const targetBCount = 9; // 9 sightseeing/dining spots + 1 final hotel stop = 10 spots total
-    const neededExtras = Math.max(0, targetBCount - checkedSpots.length);
-    const chosenExtras = unselectedSpots.slice(0, neededExtras);
+    const chosenExtras = [];
+
+    // Helper to check if a category slot is already present in a spots list
+    const hasTimeSlot = (spotsList, slotNum) => spotsList.some(s => this.getCategoryTimeSlot(s) === slotNum);
+
+    // AI Recommendation Guarantee 1: Afternoon Café / Bakery (Slot 2: 14:30〜16:30)
+    if (!hasTimeSlot(checkedSpots, 2)) {
+      const bestCafe = unselectedSpots.find(s => this.getCategoryTimeSlot(s) === 2);
+      if (bestCafe) {
+        chosenExtras.push(bestCafe);
+      }
+    }
+
+    // AI Recommendation Guarantee 2: Evening Bistro / Dinner (Slot 3: 17:30〜20:30)
+    if (!hasTimeSlot(checkedSpots, 3)) {
+      const chosenIds = new Set(chosenExtras.map(s => s.id));
+      const bestDinner = unselectedSpots.find(s => this.getCategoryTimeSlot(s) === 3 && !chosenIds.has(s.id));
+      if (bestDinner) {
+        chosenExtras.push(bestDinner);
+      }
+    }
+
+    // AI Recommendation Guarantee 3: Night Scenery / Walk (Slot 4: 20:00以降)
+    if (!hasTimeSlot(checkedSpots, 4)) {
+      const chosenIds = new Set(chosenExtras.map(s => s.id));
+      const bestNight = unselectedSpots.find(s => this.getCategoryTimeSlot(s) === 4 && !chosenIds.has(s.id));
+      if (bestNight) {
+        chosenExtras.push(bestNight);
+      }
+    }
+
+    // Fill remaining extra slots up to target (9 sightseeing/dining spots)
+    const targetBCount = 9;
+    const currentCount = checkedSpots.length + chosenExtras.length;
+    const neededRemaining = Math.max(0, targetBCount - currentCount);
+
+    if (neededRemaining > 0) {
+      const chosenIds = new Set(chosenExtras.map(s => s.id));
+      const remainingCandidates = unselectedSpots.filter(s => !chosenIds.has(s.id));
+      chosenExtras.push(...remainingCandidates.slice(0, neededRemaining));
+    }
 
     // Combine checked spots + AI recommended spots
     const combinedSpotsB = [...checkedSpots, ...chosenExtras];

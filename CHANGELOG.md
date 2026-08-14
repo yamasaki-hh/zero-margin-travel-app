@@ -4,6 +4,22 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.6.0] - 2026-08-14 (Time Window Alignment & Route B AI Cafe/Dinner Recommendation Guarantee Release)
+
+### 🌟 Summary
+- **Refined Time Window Definitions**:
+  1. **`🌅 観光`**: (午前〜午後早め: 10:00〜17:30) — Museums, Palaces, Cathedrals, Landmarks.
+  2. **`☕ カフェ`**: (午後お茶タイム: 14:30〜16:30) — Cafés, Bakeries, Tea Rooms, Parks.
+  3. **`🍷 ディナー`**: (夕食時間: 17:30〜20:30) — Bistros, Restaurants, Gourmet Dining.
+  4. **`🌙 夜景・散策`**: (夜間・締めくくり: 20:00以降) — River Cruises, Bridges, Plazas, Night Scenery.
+- **Route B Mandatory AI Recommendation Guarantees**:
+  - Automatically injects **1 top Café/Bakery spot** if no café was selected by the user.
+  - Automatically injects **1 top Bistro/Restaurant spot** if no dinner spot was selected by the user.
+  - Automatically injects **1 top Night Scenery/Walk spot** if no night walk was selected by the user.
+- **Guaranteed Balanced 1-Day Itinerary**: Route B now consistently offers a complete, turn-by-turn European experience with morning sights, afternoon tea break, evening dining, night walk, and return hotel!
+
+---
+
 ## 🏷️ [v1.5.0] - 2026-08-14 (Return Hotel Routing & Landmark Hotel Spot Cards Release)
 
 ### 🌟 Summary
