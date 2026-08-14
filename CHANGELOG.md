@@ -4,6 +4,20 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.8.0] - 2026-08-14 (Strasbourg City Database Release - 45 Curated Spots)
+
+### 🌟 Features Added
+- **Created Strasbourg City Database Module** (`data/cities/strasbourg.json`): Added 45 curated, verified ★4.5+ attractions across 5 core categories (`Landmark`, `Museum & Gallery`, `Café & Bistro`, `Scenery & Walk`, `Kids & Family`).
+  - **Landmarks (13 spots)**: Strasbourg Cathedral, Barrage Vauban, Ponts Couverts, Palais Rohan, Maison Kammerzell, Place Kléber, Place Gutenberg, European Parliament, Palais du Rhin, Église Saint-Thomas, Église Saint-Paul, Château du Haut-Kœnigsbourg, Mont Sainte-Odile Monastery.
+  - **Museums & Galleries (9 spots)**: Musée Alsacien, Musée de l'Œuvre Notre-Dame, Musée des Beaux-Arts, Musée des Arts Décoratifs, MAMCS, Musée Tomi Ungerer, Musée Historique, Château Musée Vodou, Musée Lalique.
+  - **Cafés & Dining (8 spots)**: Cave Historique des Hospices de Strasbourg, Maison des Tanneurs, Winstub Chez Yvonne, Winstub Le Tire-Bouchon, Pâtisserie Christian, Kugelhopf Bakeries, Brasserie Les Haras, Route des Vins d'Alsace Wineries.
+  - **Scenery & Walks (9 spots)**: La Petite France, La Grande Île (UNESCO), Quartier Neustadt, Quai des Bateliers, Lycée des Pontonniers, Krutenau District, Batorama Boat Tour, Obernai, Riquewihr & Kaysersberg.
+  - **Kids & Family (6 spots)**: Parc de l'Orangerie & Stork Sanctuary, Le Vaisseau Science Center, Parc de la Citadelle, Jardin des Deux Rives, Écomusée d'Alsace, Europa-Park.
+- **Wikipedia Resolver Pipeline**: Resolved 15 Wikipedia thumbnail images and exact Haversine coordinates for Strasbourg, expanding the global spots database to **288 total spots across 10 Western European cities**.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=64.0`.
+
+---
+
 ## 🏷️ [v2.7.0] - 2026-08-14 (Lyon City Database Release - 46 Curated Spots)
 
 ### 🌟 Features Added
