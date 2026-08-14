@@ -4,6 +4,21 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.8.0] - 2026-08-14 (Human Daily Travel Rhythm Sorter & Non-Consecutive Dining Release)
+
+### 🌟 Summary
+- **Eliminated Consecutive Food/Drink Stops**: Prevented back-to-back Café (#7) and Dinner (#8) stops in Route B.
+- **Human Daily Travel Rhythm Sorter**:
+  - **Morning Sightseeing Phase (Stops 1–3)**: Museums, Palaces, Cathedrals.
+  - **Mid-Day Lunch & Café Break (Stop 4)**: Placed right in the middle of the day (~13:30–15:30)!
+  - **Late Afternoon Sightseeing Phase (Stops 5–7)**: Landmarks, Parks, Shopping, Galleries.
+  - **Evening Dinner Phase (Stop 8)**: Fine Bistros & Gourmet Restaurants (~18:30–20:30).
+  - **Night Scenery & Evening Walk (Stop 9)**: River Walks & Illuminated Night Scenery.
+  - **Return Hotel (Stop 10)**: Final Hotel destination.
+- **Geographical Distance (導線) Optimization**: Each sub-phase remains strictly sorted by nearest-neighbor geographical distance!
+
+---
+
 ## 🏷️ [v1.7.0] - 2026-08-14 (Hero Header & Top Branding Simplification Release)
 
 ### 🌟 Summary

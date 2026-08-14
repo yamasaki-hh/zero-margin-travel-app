@@ -3485,7 +3485,7 @@ const AITravelEngine = {
     return 1;
   },
 
-  // Optimize spot sequence combining Time-of-Day Category Slots & Geographical Proximity (導線 ＋ 営業時間・食事時間最適化)
+  // Optimize spot sequence combining Daily Travel Rhythm, Time-of-Day Slots & Geographical Proximity
   optimizeRouteOrder(spots) {
     if (!spots || spots.length <= 1) return spots;
 
@@ -3494,7 +3494,7 @@ const AITravelEngine = {
       timeSlot: this.getCategoryTimeSlot(s)
     }));
 
-    // Group spots into time-of-day buckets (1: Morning, 2: Afternoon Break, 3: Dinner, 4: Night Walk)
+    // Group spots into time-of-day buckets (1: Morning/Afternoon Sightseeing, 2: Cafe/Lunch, 3: Dinner, 4: Night Walk)
     const slot1 = list.filter(s => s.timeSlot === 1);
     const slot2 = list.filter(s => s.timeSlot === 2);
     const slot3 = list.filter(s => s.timeSlot === 3);
@@ -3502,7 +3502,8 @@ const AITravelEngine = {
 
     // Sub-sort each time bucket by nearest-neighbor geographical distance
     const sortBucketByProximity = (bucket, lastSpot = null) => {
-      if (bucket.length <= 1) return bucket;
+      if (!bucket || bucket.length === 0) return [];
+      if (bucket.length === 1) return [...bucket];
       
       const unvisited = [...bucket];
       const sorted = [];
@@ -3544,18 +3545,39 @@ const AITravelEngine = {
       return sorted;
     };
 
-    const sorted1 = sortBucketByProximity(slot1);
-    const last1 = sorted1.length > 0 ? sorted1[sorted1.length - 1] : null;
+    // To prevent consecutive Cafe -> Dinner, split Sightseeing (slot1) into Morning and Afternoon groups!
+    let slot1_morning = [];
+    let slot1_afternoon = [];
 
-    const sorted2 = sortBucketByProximity(slot2, last1);
-    const last2 = sorted2.length > 0 ? sorted2[sorted2.length - 1] : (last1 || null);
+    if (slot1.length > 2 && slot2.length > 0) {
+      // Interleave Cafe in the middle of sightseeing (e.g. 2-3 morning sights, Cafe/Lunch, then 2-3 afternoon sights)
+      const midPoint = Math.ceil(slot1.length / 2);
+      slot1_morning = slot1.slice(0, midPoint);
+      slot1_afternoon = slot1.slice(midPoint);
+    } else {
+      slot1_morning = slot1;
+    }
 
-    const sorted3 = sortBucketByProximity(slot3, last2);
-    const last3 = sorted3.length > 0 ? sorted3[sorted3.length - 1] : (last2 || null);
+    // 1. Morning Sightseeing (10:00–13:30)
+    const sorted1_m = sortBucketByProximity(slot1_morning);
+    const last1_m = sorted1_m.length > 0 ? sorted1_m[sorted1_m.length - 1] : null;
 
+    // 2. Mid-Day Cafe & Lunch Break (13:30–15:30)
+    const sorted2 = sortBucketByProximity(slot2, last1_m);
+    const last2 = sorted2.length > 0 ? sorted2[sorted2.length - 1] : (last1_m || null);
+
+    // 3. Late-Afternoon Sightseeing (15:30–18:00)
+    const sorted1_a = sortBucketByProximity(slot1_afternoon, last2);
+    const last1_a = sorted1_a.length > 0 ? sorted1_a[sorted1_a.length - 1] : (last2 || null);
+
+    // 4. Evening Dinner (18:30–20:30)
+    const sorted3 = sortBucketByProximity(slot3, last1_a);
+    const last3 = sorted3.length > 0 ? sorted3[sorted3.length - 1] : (last1_a || null);
+
+    // 5. Night Scenery / Evening Walk (20:00 onwards)
     const sorted4 = sortBucketByProximity(slot4, last3);
 
-    return [...sorted1, ...sorted2, ...sorted3, ...sorted4];
+    return [...sorted1_m, ...sorted2, ...sorted1_a, ...sorted3, ...sorted4];
   },
 
   // Step 3: Generate Custom Dual Routes with Geographical & Time-of-Day Flow Optimization
