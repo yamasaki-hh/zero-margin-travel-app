@@ -353,11 +353,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
       "price": "Pita: €9.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/LAs_du_Fallafel.jpg/330px-LAs_du_Fallafel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_28",
@@ -379,11 +379,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
       "price": "Dishes: €8–€15",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/March%C3%A9_des_Enfants-Rouges%2C_Paris_July_2014.jpg/330px-March%C3%A9_des_Enfants-Rouges%2C_Paris_July_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "p_30",
@@ -733,11 +733,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Sprawling 520-acre urban forest park in the heart of Berlin.",
       "price": "Free access",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_Tiergarten_Siegess%C3%A4ule_Luftansicht.jpg/330px-Berlin_Tiergarten_Siegess%C3%A4ule_Luftansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "b_b13",
@@ -863,11 +863,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
       "price": "Currywurst: €4.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Berlin-Curry_36.jpg/330px-Berlin-Curry_36.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "b_b23",
@@ -1164,11 +1164,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Green copper ship building featuring 5 floors of interactive science exhibits.",
       "price": "Entry: €17.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Amsterdam_vue_Nemo.JPG/330px-Amsterdam_vue_Nemo.JPG?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": false,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "a_14",
@@ -1374,11 +1374,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.3",
       "desc": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
       "price": "Mussels: €24–€29",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chez_L%C3%A9on_Bruxelles.jpg/330px-Chez_L%C3%A9on_Bruxelles.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "br_10",
@@ -1387,11 +1387,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
       "price": "Stew: €16–€22",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bilan_fin_de_si%C3%A8cle.jpg/330px-Bilan_fin_de_si%C3%A8cle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "br_11",
@@ -1400,11 +1400,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
       "price": "Waffles: €5–€8",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MagasinDandoy.jpg/330px-MagasinDandoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "br_12",
@@ -1426,11 +1426,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
       "price": "Beers: €5–€10",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CafeDeliriumEx.JPG/330px-CafeDeliriumEx.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": false,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -1638,11 +1638,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
       "price": "Kölsch: €2.20",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/330px-Brauhaus_Sion_Front_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "c_7",
@@ -1664,11 +1664,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
       "price": "Schnitzel: €16–€24",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bei_Oma_Kleinmann.jpg/330px-Bei_Oma_Kleinmann.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "c_9",
@@ -1809,11 +1809,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
       "price": "Mass Beer: €10.80",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2013_Augustiner_beermat.JPG/330px-2013_Augustiner_beermat.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false
+      "hasWiki": true
     },
     {
       "id": "m_11",
@@ -1843,6 +1843,7 @@ const candidateSpotsDatabase = {
     }
   ]
 };
+
 
 
 
