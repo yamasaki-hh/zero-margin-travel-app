@@ -4,6 +4,20 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.7.0] - 2026-08-14 (Lyon City Database Release - 46 Curated Spots)
+
+### 🌟 Features Added
+- **Created Lyon City Database Module** (`data/cities/lyon.json`): Added 46 curated, verified ★4.5+ attractions across 5 core categories (`Landmark`, `Museum & Gallery`, `Café & Bistro`, `Scenery & Walk`, `Kids & Family`).
+  - **Landmarks (10 spots)**: Basilique Notre-Dame de Fourvière, Cathédrale Saint-Jean-Baptiste, Ancient Theatre of Fourvière, Place Bellecour, Place des Terreaux & Bartholdi Fountain, Grand Hôtel-Dieu, Amphitheatre of the Three Gauls, Église Saint-Nizier, La Tourette Monastery, Château de Rochetaillée.
+  - **Museums & Galleries (12 spots)**: Musée des Beaux-Arts, Musée des Confluences, Cinema and Miniature Museum, Institut Lumière, Gadagne Museum, Musée des Tissus, Museum of Printing, Lugdunum Museum, CHRD, macLYON, Tony Garnier Urban Museum, Clément Ader Aviation Museum.
+  - **Cafés & Dining (8 spots)**: Les Halles de Lyon Paul Bocuse, Historic Bouchons (Café des Fédérations), Cité Internationale de la Gastronomie, La Maison Sève, Maison Bernachon, Café Comptoir Abel, Brasserie Georges, Restaurant Paul Bocuse.
+  - **Scenery & Walks (11 spots)**: Vieux Lyon & Secret Traboules, Croix-Rousse Hill, Cour des Voraces, Fresque des Lyonnais, Mur des Canuts, Passerelle Saint-Georges, Saône & Rhône Promenade, Jardin des Curiosités, Confluence Waterfront, Île Barbe, Medieval Village of Pérouges.
+  - **Kids & Family (5 spots)**: Parc de la Tête d'Or, Théâtre Guignol de Lyon, Aquarium de Lyon, Mini World Lyon, Planétarium de Vaulx-en-Velin.
+- **Wikipedia Resolver Pipeline**: Resolved 18 Wikipedia thumbnail images and exact Haversine coordinates for Lyon, expanding the global spots database to 243 total spots across 9 Western European cities.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=63.0`.
+
+---
+
 ## 🏷️ [v2.6.0] - 2026-08-14 (100% Global English UI Unification Release)
 
 ### 🌟 UI/UX & Localization Unification
