@@ -2789,7 +2789,7 @@ const AITravelEngine = {
       if (this.viewMode === 'compact') {
         container.style.display = 'flex';
         container.style.flexDirection = 'column';
-        container.style.gap = '0.4rem';
+        container.style.gap = '0.45rem';
         container.style.width = '100%';
 
         container.innerHTML = viewModeBarHtml + filteredSpots.map(s => {
@@ -2798,24 +2798,29 @@ const AITravelEngine = {
           const cleanRating = rawRating.startsWith('★') ? rawRating : `★${rawRating}`;
 
           return `
-            <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; padding:0.5rem 0.65rem; display:flex; align-items:center; justify-content:space-between; gap:0.4rem; border-radius:10px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 0 2px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
-              <div style="display:flex; align-items:center; gap:0.5rem; flex:1; min-width:0;">
-                <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:20px; height:20px; cursor:pointer; accent-color:#047857; flex-shrink:0;">
+            <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; padding:0.45rem 0.55rem; display:flex; align-items:center; justify-content:space-between; gap:0.4rem; border-radius:10px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 0 2px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
+              <div style="display:flex; align-items:flex-start; gap:0.45rem; flex:1; min-width:0;">
+                <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:20px; height:20px; cursor:pointer; accent-color:#047857; flex-shrink:0; margin-top:2px;">
                 
                 <div style="display:flex; flex-direction:column; justify-content:center; min-width:0; flex:1;">
-                  <div style="font-weight:800; font-size:0.9rem; color:var(--text-primary); line-height:1.25; word-break:break-word;">
-                    ${escapeHtml(s.name)}
+                  <!-- Line 1: Spot Name (Up to 2 lines wrap) + Rating Star directly to the right -->
+                  <div style="display:flex; align-items:baseline; gap:0.35rem; flex-wrap:wrap;">
+                    <span style="font-weight:800; font-size:0.9rem; color:var(--text-primary); line-height:1.25; word-break:break-word; flex-shrink:1;">
+                      ${escapeHtml(s.name)}
+                    </span>
+                    <span style="font-size:0.68rem; font-weight:800; color:#047857; background:#D1FAE5; padding:0.05rem 0.35rem; border-radius:4px; flex-shrink:0; white-space:nowrap;">
+                      ${cleanRating}
+                    </span>
                   </div>
-                  <div style="display:flex; align-items:center; gap:0.3rem; margin-top:0.2rem; flex-wrap:wrap;">
-                    <span style="font-size:0.65rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.05rem 0.35rem; border-radius:4px;">${s.category}</span>
-                    <span style="font-size:0.65rem; font-weight:700; background:${s.locationZone === 'suburban' ? '#FEF3C7' : '#F1F5F9'}; color:${s.locationZone === 'suburban' ? '#B45309' : '#475569'}; padding:0.05rem 0.35rem; border-radius:4px;">${s.locationZone === 'suburban' ? '🏞️郊外' : '🏙️市内'}</span>
-                    ${s.kids ? `<span style="font-size:0.65rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.05rem 0.35rem; border-radius:4px;">🧸Kids</span>` : ''}
-                    <span style="font-size:0.65rem; font-weight:800; color:#047857; background:#D1FAE5; padding:0.05rem 0.35rem; border-radius:4px;">${cleanRating}</span>
-                  </div>
+
+                  <!-- Line 2: Description (Max 2 lines clamped, no tag badges!) -->
+                  <p style="font-size:0.77rem; color:var(--text-secondary); line-height:1.35; margin-top:2px; margin-bottom:0; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; text-overflow:ellipsis;">
+                    ${escapeHtml(s.desc)}
+                  </p>
                 </div>
               </div>
 
-              <div style="flex-shrink:0; display:flex; align-items:center; margin-left:0.25rem;">
+              <div style="flex-shrink:0; display:flex; align-items:center; margin-left:0.2rem;">
                 ${this.createMapsLink(s.name.split(' (')[0], city.split(',')[0], true)}
               </div>
             </div>

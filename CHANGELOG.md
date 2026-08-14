@@ -4,6 +4,16 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.4] - 2026-08-14 (No Inner Tags & Clamped 2-Line Description Release)
+
+### 🌟 Summary
+- **No Inner Tag Badges**: Completely removed inner tag badges (`Landmark`, `🏙️市内`, `🧸Kids`) from inside individual candidate cards in Compact Mode to eliminate visual clutter.
+- **Rating Placed Directly Next to Title**: Single star rating (`★4.8`) placed immediately adjacent to the spot title on Line 1.
+- **Full Width Edge-to-Edge Container**: Step 2 container outer padding on mobile reduced to `0.75rem 0.4rem` so cards span maximum available mobile width.
+- **2-Line Title Wrap & 2-Line Description Clamp**: Spot titles wrap cleanly up to 2 lines, and descriptions show up to 2 lines (clamped cleanly with ellipsis).
+
+---
+
 ## 🏷️ [v1.2.3] - 2026-08-14 (Spot Title Visibility & Responsive 2-Line Layout Fix)
 
 ### 🌟 Summary
