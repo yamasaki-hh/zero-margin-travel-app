@@ -2047,6 +2047,14 @@ const AITravelEngine = {
   setViewMode(mode) {
     this.viewMode = mode;
     this.renderCandidateSpots();
+  isCategoryMatch(cat, filterGroup) {
+    if (!cat || !filterGroup || filterGroup === 'ALL') return true;
+    const c = String(cat).toLowerCase();
+    if (filterGroup === 'Landmark') return c.includes('landmark');
+    if (filterGroup === 'Museum') return c.includes('museum') || c.includes('art');
+    if (filterGroup === 'Café') return c.includes('café') || c.includes('cafe') || c.includes('bakery') || c.includes('restaurant') || c.includes('bistro') || c.includes('dining');
+    if (filterGroup === 'Scenery') return c.includes('scenery') || c.includes('park') || c.includes('market') || c.includes('shopping');
+    return true;
   },
 
   setCategoryFilter(category) {
@@ -2096,15 +2104,7 @@ const AITravelEngine = {
       }
 
       if (this.categoryFilter && this.categoryFilter !== 'ALL') {
-        if (this.categoryFilter === 'Landmark') {
-          filteredSpots = filteredSpots.filter(s => s.category === 'Landmark');
-        } else if (this.categoryFilter === 'Museum') {
-          filteredSpots = filteredSpots.filter(s => s.category === 'Museum');
-        } else if (this.categoryFilter === 'Café') {
-          filteredSpots = filteredSpots.filter(s => s.category === 'Café' || s.category === 'Dining' || s.category === 'Bistro' || s.category === 'Bakery');
-        } else if (this.categoryFilter === 'Scenery') {
-          filteredSpots = filteredSpots.filter(s => s.category === 'Scenery' || s.category === 'Park' || s.category === 'Shopping' || s.category === 'Market');
-        }
+        filteredSpots = filteredSpots.filter(s => this.isCategoryMatch(s.category, this.categoryFilter));
       }
 
       if (!filteredSpots) {
@@ -2117,10 +2117,10 @@ const AITravelEngine = {
         counterBadge.style.color = selectedCount >= 8 ? '#C2410C' : '#047857';
       }
 
-      const countLandmarks = spots.filter(s => s.category === 'Landmark').length;
-      const countMuseums = spots.filter(s => s.category === 'Museum').length;
-      const countCafes = spots.filter(s => s.category === 'Café' || s.category === 'Dining' || s.category === 'Bistro' || s.category === 'Bakery').length;
-      const countScenery = spots.filter(s => s.category === 'Scenery' || s.category === 'Park' || s.category === 'Shopping' || s.category === 'Market').length;
+      const countLandmarks = spots.filter(s => this.isCategoryMatch(s.category, 'Landmark')).length;
+      const countMuseums = spots.filter(s => this.isCategoryMatch(s.category, 'Museum')).length;
+      const countCafes = spots.filter(s => this.isCategoryMatch(s.category, 'Café')).length;
+      const countScenery = spots.filter(s => this.isCategoryMatch(s.category, 'Scenery')).length;
 
       const categoryFilterBarHtml = `
         <div class="category-filter-bar" style="grid-column:1 / -1; width:100%;">
