@@ -3577,27 +3577,24 @@ const AITravelEngine = {
       this.routeB_spots.push(returnHotelObj);
     }
 
-    this.renderDualRouteManager(destination, transportMode);
+    this.renderDualRouteManager(destination);
   },
 
-  renderDualRouteManager(destination, transportMode) {
+  renderDualRouteManager(destination) {
     const resultContainer = document.getElementById('aiPlanResult');
     if (!resultContainer) return;
 
     resultContainer.style.display = 'block';
 
-    const isCar = transportMode === 'car';
     const cityClean = destination.split(',')[0].trim();
 
-    // Generate Route A Google Maps URLs
+    // Generate Route A Google Maps URL
     const namesA = this.routeA_spots.map(s => s.name);
-    const mapsUrlA = this.buildMasterGoogleMapsPath(namesA, destination, transportMode);
-    const mapsPathUrlA = this.buildClassicPathMapsUrl(namesA, destination, transportMode);
+    const mapsUrlA = this.buildMasterGoogleMapsPath(namesA, destination);
 
-    // Generate Route B Google Maps URLs
+    // Generate Route B Google Maps URL
     const namesB = this.routeB_spots.map(s => s.name);
-    const mapsUrlB = this.buildMasterGoogleMapsPath(namesB, destination, transportMode);
-    const mapsPathUrlB = this.buildClassicPathMapsUrl(namesB, destination, transportMode);
+    const mapsUrlB = this.buildMasterGoogleMapsPath(namesB, destination);
 
     resultContainer.innerHTML = `
       <div style="background:var(--bg-card-warm); border:2.5px solid var(--border-ink); border-radius:22px; padding:2rem; margin-top:1.5rem; box-shadow:var(--shadow-sketch); animation:fadeIn 0.3s ease;">
@@ -3621,7 +3618,6 @@ const AITravelEngine = {
                 <span style="font-size:0.8rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.25rem 0.65rem; border-radius:999px; border:1px solid #059669;">
                   📍 ROUTE A: SELECTED SPOTS ONLY (${this.routeA_spots.length} SPOTS)
                 </span>
-                <span style="font-size:0.8rem; font-weight:700; color:#047857;">${isCar ? '🚗 Driving Mode' : '🚆 Transit Mode'}</span>
               </div>
 
               <h4 style="font-size:1.15rem; color:var(--text-primary); margin-bottom:0.35rem;" class="font-serif">
@@ -3637,12 +3633,9 @@ const AITravelEngine = {
               </div>
             </div>
 
-            <div style="display:flex; flex-direction:column; gap:0.5rem;">
+            <div>
               <a href="${mapsUrlA}" target="_blank" rel="noopener noreferrer" id="btn_maps_RouteA" class="btn btn-emerald" style="width:100%; text-align:center; padding:0.85rem; font-size:0.95rem; border-radius:12px; display:inline-block; text-decoration:none;">
                 🗺️ Open Route A in Google Maps (${this.routeA_spots.length} Destinations) ↗
-              </a>
-              <a href="${mapsPathUrlA}" target="_blank" rel="noopener noreferrer" id="btn_maps_path_RouteA" style="width:100%; text-align:center; padding:0.45rem; font-size:0.78rem; font-weight:700; color:#047857; background:#E6F4EA; border:1px solid #A7F3D0; border-radius:8px; display:inline-block; text-decoration:none;">
-                🔗 Alternative Google Maps App Path Link (${this.routeA_spots.length} Stops) ↗
               </a>
             </div>
           </div>
@@ -3652,9 +3645,8 @@ const AITravelEngine = {
             <div>
               <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;">
                 <span style="font-size:0.8rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.25rem 0.65rem; border-radius:999px; border:1px solid #D97706;">
-                  ✨ ROUTE B: FULL AI 10-SPOT COURSE (${this.routeB_spots.length} SPOTS)
+                  ✨ ROUTE B: FULL AI CURATED COURSE (${this.routeB_spots.length} SPOTS)
                 </span>
-                <span style="font-size:0.8rem; font-weight:700; color:#B45309;">${isCar ? '🚗 Driving Mode' : '🚆 Transit Mode'}</span>
               </div>
 
               <h4 style="font-size:1.15rem; color:var(--text-primary); margin-bottom:0.35rem;" class="font-serif">
@@ -3670,12 +3662,9 @@ const AITravelEngine = {
               </div>
             </div>
 
-            <div style="display:flex; flex-direction:column; gap:0.5rem;">
+            <div>
               <a href="${mapsUrlB}" target="_blank" rel="noopener noreferrer" id="btn_maps_RouteB" class="btn btn-primary" style="width:100%; text-align:center; padding:0.85rem; font-size:0.95rem; border-radius:12px; display:inline-block; text-decoration:none;">
                 🗺️ Open Route B in Google Maps (${this.routeB_spots.length} Destinations) ↗
-              </a>
-              <a href="${mapsPathUrlB}" target="_blank" rel="noopener noreferrer" id="btn_maps_path_RouteB" style="width:100%; text-align:center; padding:0.45rem; font-size:0.78rem; font-weight:700; color:#B45309; background:#FEF3C7; border:1px solid #FDE68A; border-radius:8px; display:inline-block; text-decoration:none;">
-                🔗 Alternative Google Maps App Path Link (${this.routeB_spots.length} Stops) ↗
               </a>
             </div>
           </div>
@@ -3759,13 +3748,10 @@ const AITravelEngine = {
 
   refreshRouteCard(routeType) {
     const destination = document.getElementById('aiPlanDestination')?.value || 'Paris, France';
-    const transportMode = 'transit';
     const cityClean = destination.split(',')[0].trim();
 
     const listContainer = document.getElementById(routeType === 'A' ? 'routeA_itemList' : 'routeB_itemList');
     const mapsBtn = document.getElementById(routeType === 'A' ? 'btn_maps_RouteA' : 'btn_maps_RouteB');
-    const mapsPathBtn = document.getElementById(routeType === 'A' ? 'btn_maps_path_RouteA' : 'btn_maps_path_RouteB');
-
     const spotsList = routeType === 'A' ? this.routeA_spots : this.routeB_spots;
 
     if (listContainer) {
@@ -3774,20 +3760,13 @@ const AITravelEngine = {
 
     if (mapsBtn) {
       const names = spotsList.map(s => s.name);
-      const mapsUrl = this.buildMasterGoogleMapsPath(names, destination, transportMode);
+      const mapsUrl = this.buildMasterGoogleMapsPath(names, destination);
       mapsBtn.href = mapsUrl;
       mapsBtn.innerText = `🗺️ Open Route ${routeType} in Google Maps (${spotsList.length} Destinations) ↗`;
     }
-
-    if (mapsPathBtn) {
-      const names = spotsList.map(s => s.name);
-      const mapsPathUrl = this.buildClassicPathMapsUrl(names, destination, transportMode);
-      mapsPathBtn.href = mapsPathUrl;
-      mapsPathBtn.innerText = `🔗 Alternative Google Maps App Path Link (${spotsList.length} Stops) ↗`;
-    }
   },
 
-  buildMasterGoogleMapsPath(venueNames, destination, transportMode) {
+  buildMasterGoogleMapsPath(venueNames, destination) {
     if (!venueNames || venueNames.length === 0) {
       const cityClean = destination.split(',')[0].trim();
       return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(cityClean)}`;
@@ -3803,39 +3782,17 @@ const AITravelEngine = {
       return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(cleanStops[0])}`;
     }
 
-    const isCar = transportMode === 'car';
-    const travelmode = isCar ? 'driving' : 'transit';
-
     const origin = encodeURIComponent(cleanStops[0]);
     const dest = encodeURIComponent(cleanStops[cleanStops.length - 1]);
 
     if (cleanStops.length === 2) {
-      return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&travelmode=${travelmode}`;
+      return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&travelmode=transit`;
     }
 
     const intermediateStops = cleanStops.slice(1, -1);
     const waypoints = intermediateStops.map(s => encodeURIComponent(s)).join('|');
 
-    return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&waypoints=${waypoints}&travelmode=${travelmode}`;
-  },
-
-  buildClassicPathMapsUrl(venueNames, destination, transportMode) {
-    if (!venueNames || venueNames.length === 0) {
-      const cityClean = destination.split(',')[0].trim();
-      return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(cityClean)}`;
-    }
-
-    const cityClean = destination.split(',')[0].trim();
-    const pathStops = venueNames.map(name => {
-      const cleanName = name.replace(/\([^\)]*\)/g, '').trim();
-      return `${cleanName}, ${cityClean}`.replace(/ /g, '+');
-    });
-
-    const isCar = transportMode === 'car';
-    const modeParam = isCar ? '&dirflg=d' : '&dirflg=r';
-    const pathString = pathStops.join('/');
-
-    return `https://www.google.com/maps/dir/${pathString}/?api=1${modeParam}`;
+    return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&waypoints=${waypoints}&travelmode=transit`;
   }
 };
 

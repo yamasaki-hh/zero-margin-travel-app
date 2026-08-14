@@ -4,6 +4,15 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v2.3.0] - 2026-08-14 (Purge Redundant Transit Badges & Alternative Maps Link Release)
+
+### 🌟 Summary
+- **Purged Alternative Maps App Links**: Removed redundant `🔗 Alternative Google Maps App Path Link` buttons from Route A and Route B cards.
+- **Purged Transit / Driving Mode Badges**: Deleted unnecessary `🚆 Transit Mode` / `🚗 Driving Mode` badge labels in Route A and Route B card headers.
+- **Ultra-Clean Single CTA Result Card**: Each route card now presents exactly ONE primary, high-visibility button: `🗺️ Open Route in Google Maps (N Destinations) ↗`.
+
+---
+
 ## 🏷️ [v2.2.0] - 2026-08-14 (Complete Removal of Hotel Cards & Unified Custom Return Hotel for Route A & B Release)
 
 ### 🌟 Summary
