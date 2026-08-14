@@ -15,9 +15,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
       "price": "Tickets: €18–€28",
-      "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_2",
@@ -26,9 +28,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
       "price": "Rooftop: €13",
-      "image": "https://images.unsplash.com/photo-1509299349698-dd22323b5963?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/330px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/330px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_3",
@@ -37,9 +41,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
       "price": "Entry: €11.50",
-      "image": "https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_4",
@@ -48,9 +54,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
       "price": "Free entry",
-      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_5",
@@ -59,9 +67,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Masterpiece of French Gothic architecture on Île de la Cité.",
       "price": "Free parvis access",
-      "image": "https://images.unsplash.com/photo-1478358161113-b0e11994a36b?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_6",
@@ -70,9 +80,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Conseil_d%27Etat_Paris_WA.jpg/330px-Conseil_d%27Etat_Paris_WA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Conseil_d%27Etat_Paris_WA.jpg/330px-Conseil_d%27Etat_Paris_WA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_7",
@@ -81,9 +93,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
       "price": "Entry: €11.50",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_8",
@@ -92,9 +106,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1508873696983-2df515122519?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/330px-LuxembourgMontparnasse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/330px-LuxembourgMontparnasse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_9",
@@ -103,9 +119,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
       "price": "Self-tour: €14",
-      "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/330px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/330px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_10",
@@ -114,9 +132,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg/330px-Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg/330px-Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_11",
@@ -125,9 +145,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
       "price": "Entry: €14",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/330px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/330px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_12",
@@ -136,9 +158,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_13",
@@ -147,9 +171,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Underground ossuary holding the remains of over six million Parisians.",
       "price": "Entry: €29",
-      "image": "https://images.unsplash.com/photo-1509299349698-dd22323b5963?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg/330px-Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg/330px-Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_14",
@@ -158,9 +184,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
       "price": "Entry: €17–€22",
-      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_15",
@@ -169,9 +197,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
       "price": "Entry: €16",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_16",
@@ -180,9 +210,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
       "price": "Entry: €15",
-      "image": "https://images.unsplash.com/photo-1522093007474-d86e9bf7ba6f?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/330px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/330px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_17",
@@ -191,9 +223,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
       "price": "Entry: €12.50",
-      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_18",
@@ -202,9 +236,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
       "price": "Entry: €13",
-      "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_19",
@@ -213,9 +249,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
       "price": "Entry: €14",
-      "image": "https://images.unsplash.com/photo-1561055657-b9e0bf0fa360?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_20",
@@ -224,9 +262,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
       "price": "Free permanent access",
-      "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_21",
@@ -235,9 +275,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
       "price": "Mains: €18–€26",
-      "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_22",
@@ -246,9 +288,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
       "price": "Mains: €34–€52",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Le_Train_Bleu.jpg/330px-Le_Train_Bleu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Le_Train_Bleu.jpg/330px-Le_Train_Bleu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_23",
@@ -257,9 +301,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
       "price": "Mains: €18–€24",
-      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_24",
@@ -268,9 +314,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
       "price": "Mains: €9–€14",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chez_Chartier_1.JPG/330px-Chez_Chartier_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chez_Chartier_1.JPG/330px-Chez_Chartier_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_25",
@@ -279,9 +327,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
       "price": "Plates: €14–€24",
-      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_26",
@@ -290,9 +340,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
       "price": "Coffee: €6–€10",
-      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/330px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/330px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "p_27",
@@ -301,9 +353,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
       "price": "Pita: €9.50",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_28",
@@ -312,9 +366,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
       "price": "Mains: €16–€28",
-      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_29",
@@ -323,9 +379,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
       "price": "Dishes: €8–€15",
-      "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_30",
@@ -334,9 +392,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
       "price": "Pastries: €14–€18",
-      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_31",
@@ -345,9 +405,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
       "price": "Hot Choc: €9.50",
-      "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_32",
@@ -356,9 +418,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
       "price": "Pastries: €3.50–€6",
-      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "p_33",
@@ -367,9 +431,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
       "price": "Hot Choc: €10",
-      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     }
   ],
   "Berlin, Germany": [
@@ -380,9 +446,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "18th-century neoclassical monument and universal symbol of German unity.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b2",
@@ -391,9 +459,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
       "price": "Free (booking required)",
-      "image": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/330px-Berlin_reichstag_west_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/330px-Berlin_reichstag_west_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b3",
@@ -402,9 +472,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "1.3km open-air gallery painted directly on the remaining Berlin Wall.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg/330px-Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg/330px-Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b4",
@@ -413,9 +485,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Monumental Italian Renaissance-style Protestant cathedral with dome climb.",
       "price": "Entry: €10",
-      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/330px-141227_Berliner_Dom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/330px-141227_Berliner_Dom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b5",
@@ -424,9 +498,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Largest Baroque royal palace in Berlin surrounded by formal gardens.",
       "price": "Palace: €12",
-      "image": "https://images.unsplash.com/photo-1589708940348-18e388f8d672?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/330px-Charlottenburg_Hohenzollern_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/330px-Charlottenburg_Hohenzollern_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b6",
@@ -435,9 +511,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b7",
@@ -446,9 +524,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Historic plaza flanked by French and German Cathedrals & Konzerthaus.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1588733103629-b77afe0425ce?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gendarmenmarkt_Panorama.jpg/330px-Gendarmenmarkt_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gendarmenmarkt_Panorama.jpg/330px-Gendarmenmarkt_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b8",
@@ -457,9 +537,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
       "price": "Climb: €4",
-      "image": "https://images.unsplash.com/photo-1584003564911-a7a321c84e1c?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Siegess%C3%A4ule_8245.jpg/330px-Berlin_Siegess%C3%A4ule_8245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Siegess%C3%A4ule_8245.jpg/330px-Berlin_Siegess%C3%A4ule_8245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b9",
@@ -468,9 +550,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "368m television tower offering 360-degree panorama of Berlin.",
       "price": "Observation: €22.50",
-      "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b10",
@@ -479,9 +563,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.2",
       "desc": "Famous Cold War border crossing checkpoint between American & Soviet sectors.",
       "price": "Free outdoor viewing",
-      "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Berlin_-_Checkpoint_Charlie_1963.jpg/330px-Berlin_-_Checkpoint_Charlie_1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Berlin_-_Checkpoint_Charlie_1963.jpg/330px-Berlin_-_Checkpoint_Charlie_1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b11",
@@ -490,9 +576,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "War-damaged spire memorial standing alongside modern blue glass chapel.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b12",
@@ -501,9 +589,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Sprawling 520-acre urban forest park in the heart of Berlin.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1584003564911-a7a321c84e1c?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b13",
@@ -512,9 +602,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hackesche_h%C3%B6fe_berlin.jpg/330px-Hackesche_h%C3%B6fe_berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hackesche_h%C3%B6fe_berlin.jpg/330px-Hackesche_h%C3%B6fe_berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b14",
@@ -523,9 +615,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "UNESCO World Heritage island housing 5 world-class museum complexes.",
       "price": "Day Pass: €19",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b15",
@@ -534,9 +628,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Famed for Ishtar Gate of Babylon and Market Gate of Miletus.",
       "price": "Entry: €12",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b16",
@@ -545,9 +641,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
       "price": "Entry: €14",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b17",
@@ -556,9 +654,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
       "price": "Free permanent display",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jewish_Museum_Berlin_logo.svg/330px-Jewish_Museum_Berlin_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jewish_Museum_Berlin_logo.svg/330px-Jewish_Museum_Berlin_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b18",
@@ -567,9 +667,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Former train station converted into Berlin's premier contemporary art museum.",
       "price": "Entry: €14",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b19",
@@ -578,9 +680,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "History museum located on the site of Gestapo and SS headquarters.",
       "price": "Free entry",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Topographie_des_Terrors_Neubau.jpg/330px-Topographie_des_Terrors_Neubau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Topographie_des_Terrors_Neubau.jpg/330px-Topographie_des_Terrors_Neubau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b20",
@@ -589,9 +693,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Interactive museum depicting daily life under East German communist rule.",
       "price": "Entry: €12.50",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_b21",
@@ -600,9 +706,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Berlin's most famous street food stand for roasted vegetable & chicken döner.",
       "price": "Kebab: €7.00",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b22",
@@ -611,9 +719,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
       "price": "Currywurst: €4.50",
-      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b23",
@@ -622,9 +732,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Berlin's oldest beer garden shaded by giant chestnut trees in Prenzlauer Berg.",
       "price": "Beer & Bratwurst: €12",
-      "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b24",
@@ -633,9 +745,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Berlin's oldest tavern (1621) serving pork knuckle & traditional German lager.",
       "price": "Mains: €18–€28",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b25",
@@ -644,9 +758,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Farm-to-table organic dining inside a 19th-century brick courtyard in Mitte.",
       "price": "Mains: €24–€38",
-      "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b26",
@@ -655,9 +771,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Grand high-society French-German brasserie famous for golden Wiener Schnitzel.",
       "price": "Schnitzel: €32",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b27",
@@ -666,9 +784,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Riverside steakhouse overlooking the Spree frequented by international artists.",
       "price": "Steaks: €38–€75",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b28",
@@ -677,9 +797,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Vibrant Vietnamese pho & spring roll spot in stylish Mitte neighborhood.",
       "price": "Dishes: €10–€16",
-      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b29",
@@ -688,9 +810,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Organic bakery crafting giant warm cinnamon rolls (Schnecken) in glass kitchen.",
       "price": "Rolls: €3.80–€5",
-      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b30",
@@ -699,9 +823,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Pioneer of Europe's specialty coffee scene roasting single-origin beans.",
       "price": "Coffee: €4.50–€7",
-      "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b31",
@@ -710,9 +836,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Japanese-influenced greenhouse cafe featuring spiral wooden staircase brunch spot.",
       "price": "Brunch: €14–€20",
-      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "b_b32",
@@ -721,9 +849,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Historic 1891 market hall host to Thursday Street Food Thursday fairs.",
       "price": "Dishes: €6–€14",
-      "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     }
   ],
   "Amsterdam, Netherlands": [
@@ -734,9 +864,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
       "price": "Entry: €22.50",
-      "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/330px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/330px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_2",
@@ -745,9 +877,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
       "price": "Entry: €22.00",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_3",
@@ -756,9 +890,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Biographical museum at the secret annex where Anne Frank wrote her diary.",
       "price": "Entry: €16",
-      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/330px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/330px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_4",
@@ -767,9 +903,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Picturesque canal belt quarters packed with vintage shops, design stores & cafes.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "a_5",
@@ -778,9 +916,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Historic windmill village showcasing wooden clogs, cheese making & green houses.",
       "price": "Free village access",
-      "image": "https://images.unsplash.com/photo-1513581166391-887a96ddeafd?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zaanstad_Zaanse_Schans_22.jpg/330px-Zaanstad_Zaanse_Schans_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zaanstad_Zaanse_Schans_22.jpg/330px-Zaanstad_Zaanse_Schans_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_6",
@@ -789,9 +929,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1509299349698-dd22323b5963?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg/330px-Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg/330px-Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_7",
@@ -800,9 +942,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "17th-century Golden Age palace on Dam Square used for official royal events.",
       "price": "Entry: €12.50",
-      "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg/330px-Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg/330px-Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_8",
@@ -811,9 +955,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
       "price": "Entry: €12",
-      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam-508-Oude_Kerk-2010-gje.jpg/330px-Amsterdam-508-Oude_Kerk-2010-gje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam-508-Oude_Kerk-2010-gje.jpg/330px-Amsterdam-508-Oude_Kerk-2010-gje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_9",
@@ -822,9 +968,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BegijnhofAmsterdamPanorama.jpg/330px-BegijnhofAmsterdamPanorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BegijnhofAmsterdamPanorama.jpg/330px-BegijnhofAmsterdamPanorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_10",
@@ -833,9 +981,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.3",
       "desc": "World's only floating flower market selling tulip bulbs along Singel canal.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1513581166391-887a96ddeafd?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SingelBloemenmarkt.jpg/330px-SingelBloemenmarkt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SingelBloemenmarkt.jpg/330px-SingelBloemenmarkt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_11",
@@ -844,9 +994,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
       "price": "Entry: €22.50",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_12",
@@ -855,9 +1007,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
       "price": "Entry: €17.50",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/330px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/330px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_13",
@@ -866,9 +1020,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Green copper ship building featuring 5 floors of interactive science exhibits.",
       "price": "Entry: €17.50",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": false
+      "adult": false,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "a_14",
@@ -877,9 +1033,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Independent museum displaying modern street art by Banksy, KAWS & Basquiat.",
       "price": "Entry: €21.95",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MocoMuseumAmsterdamTHEONE.jpg/330px-MocoMuseumAmsterdamTHEONE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MocoMuseumAmsterdamTHEONE.jpg/330px-MocoMuseumAmsterdamTHEONE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "a_15",
@@ -888,9 +1046,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Legendary Dutch rib house serving flame-grilled smoked spare ribs & lamb chops.",
       "price": "Ribs: €22–€28",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "a_16",
@@ -899,9 +1059,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Indoor food hall inside converted tram depot featuring 20 gourmet food stalls.",
       "price": "Stalls: €8–€18",
-      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "a_17",
@@ -910,9 +1072,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Cozy Dutch eatery serving authentic stampot, hotchpotch & traditional stews.",
       "price": "Mains: €17–€24",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "a_18",
@@ -921,9 +1085,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
       "price": "Cookie: €3.00",
-      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "a_19",
@@ -932,9 +1098,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Jordaan district cafe famous across Europe for warm deep-dish Dutch apple pie.",
       "price": "Pie: €5.00",
-      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "a_20",
@@ -943,9 +1111,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
       "price": "Tasting Flight: €12",
-      "image": "https://images.unsplash.com/photo-1513581166391-887a96ddeafd?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brouwerijhetij.jpg/330px-Brouwerijhetij.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brouwerijhetij.jpg/330px-Brouwerijhetij.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     }
   ],
   "Brussels, Belgium": [
@@ -956,9 +1126,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "br_2",
@@ -967,9 +1139,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "br_3",
@@ -978,9 +1152,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
       "price": "Entry: €16",
-      "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/330px-Brussels_-_Atomium_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/330px-Brussels_-_Atomium_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "br_4",
@@ -989,9 +1165,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Gothic cathedral towering over Brussels with stained glass windows.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg/330px-Saints-Michel-et-Gudule_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg/330px-Saints-Michel-et-Gudule_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "br_5",
@@ -1000,9 +1178,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Elevated urban garden promenade offering iconic views of Brussels spire.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/330px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/330px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "br_6",
@@ -1011,9 +1191,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg/330px-Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg/330px-Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "br_7",
@@ -1022,9 +1204,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.1",
       "desc": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "br_8",
@@ -1033,9 +1217,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "World's largest surrealist collection of René Magritte paintings.",
       "price": "Entry: €10",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "br_9",
@@ -1044,9 +1230,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.3",
       "desc": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
       "price": "Mussels: €24–€29",
-      "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "br_10",
@@ -1055,9 +1243,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
       "price": "Stew: €16–€22",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "br_11",
@@ -1066,9 +1256,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
       "price": "Waffles: €5–€8",
-      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "br_12",
@@ -1077,9 +1269,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
       "price": "Truffles: €12–€25",
-      "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "br_13",
@@ -1088,9 +1282,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
       "price": "Beers: €5–€10",
-      "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -1101,9 +1297,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Subterranean cliffside defense tunnels carved into solid rock overlooking the Alzette.",
       "price": "Entry: €8",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Selig_Luxembourg_from_Paffendall.jpg/330px-Selig_Luxembourg_from_Paffendall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Selig_Luxembourg_from_Paffendall.jpg/330px-Selig_Luxembourg_from_Paffendall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "l_2",
@@ -1112,9 +1310,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "l_3",
@@ -1123,9 +1323,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "l_4",
@@ -1134,9 +1336,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Official Renaissance residence of the Grand Duke of Luxembourg in city center.",
       "price": "Tour: €15",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg/330px-Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg/330px-Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "l_5",
@@ -1145,9 +1349,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg/330px-Luxembourg_City_Eurotrip_%28133169443%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg/330px-Luxembourg_City_Eurotrip_%28133169443%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "l_6",
@@ -1156,9 +1362,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
       "price": "Entry: €8",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Kirchberg_MUDAM.jpg/330px-Kirchberg_MUDAM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Kirchberg_MUDAM.jpg/330px-Kirchberg_MUDAM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "l_7",
@@ -1167,9 +1375,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "National Museum of History and Art displaying Gallo-Roman mosaics.",
       "price": "Free permanent display",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "l_8",
@@ -1178,9 +1388,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
       "price": "Spoon: €5.50",
-      "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "l_9",
@@ -1189,9 +1401,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Official royal court supplier of Luxembourgish pastries & pralines.",
       "price": "Pastries: €4–€8",
-      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "l_10",
@@ -1200,9 +1414,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Sophisticated dining room serving modern European sharing plates & cocktails.",
       "price": "Plates: €18–€32",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": false,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     }
   ],
   "Cologne, Germany": [
@@ -1213,9 +1429,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_2",
@@ -1224,9 +1442,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_3",
@@ -1235,9 +1455,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_4",
@@ -1246,9 +1468,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
       "price": "Entry: €14.50",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_5",
@@ -1257,9 +1481,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "World-leading modern art museum featuring third-largest Picasso collection.",
       "price": "Entry: €13",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_Ludwig_002.jpg/330px-Museum_Ludwig_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_Ludwig_002.jpg/330px-Museum_Ludwig_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_6",
@@ -1268,9 +1494,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
       "price": "Kölsch: €2.20",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "c_7",
@@ -1279,9 +1507,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
       "price": "Mains: €14–€24",
-      "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "c_8",
@@ -1290,9 +1520,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
       "price": "Schnitzel: €16–€24",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "c_9",
@@ -1301,9 +1533,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
       "price": "Cakes: €6.00",
-      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     }
   ],
   "Munich, Germany": [
@@ -1314,9 +1548,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1595867818082-083862f3d630?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg/330px-Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg/330px-Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_2",
@@ -1325,9 +1561,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "500-acre park featuring river surfers riding perpetual standing wave.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1584003564911-a7a321c84e1c?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_3",
@@ -1336,9 +1574,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Grand Baroque summer palace of Bavarian monarchs with canal swan gardens.",
       "price": "Palace: €10",
-      "image": "https://images.unsplash.com/photo-1589708940348-18e388f8d672?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/330px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/330px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_4",
@@ -1347,9 +1587,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
       "price": "Residenz: €10",
-      "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Residenz_W%C3%BCrzburg_im_Bau_1731.jpg/330px-Residenz_W%C3%BCrzburg_im_Bau_1731.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Residenz_W%C3%BCrzburg_im_Bau_1731.jpg/330px-Residenz_W%C3%BCrzburg_im_Bau_1731.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_5",
@@ -1358,9 +1600,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg/330px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg/330px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_6",
@@ -1369,9 +1613,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Futuristic exhibition hall showcasing automotive innovation & classic cars.",
       "price": "Museum: €10",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg/330px-BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg/330px-BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_7",
@@ -1380,9 +1626,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "World's largest museum of science and technology located on an island in the Isar.",
       "price": "Entry: €15",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/330px-Deutsches_Museum_Portrait_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/330px-Deutsches_Museum_Portrait_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_8",
@@ -1391,9 +1639,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Renowned art complex featuring European masters from Dürer to Van Gogh.",
       "price": "Entry: €7–€10",
-      "image": "https://images.unsplash.com/photo-1584024419139-34e3ead8f78a?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alte_Pinakothek_2009.jpg/330px-Alte_Pinakothek_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alte_Pinakothek_2009.jpg/330px-Alte_Pinakothek_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_9",
@@ -1402,9 +1652,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Bustling 200-year-old gourmet open-air food market with chestnut beer garden.",
       "price": "Free access",
-      "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=600&q=80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Karte_Viktualienmarkt_M%C3%BCnchen.png/330px-Karte_Viktualienmarkt_M%C3%BCnchen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Karte_Viktualienmarkt_M%C3%BCnchen.png/330px-Karte_Viktualienmarkt_M%C3%BCnchen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "m_10",
@@ -1413,9 +1665,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
       "price": "Mass Beer: €10.80",
-      "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "m_11",
@@ -1424,9 +1678,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "World-famous 3-story Bavarian beer hall with brass oompah bands & steins.",
       "price": "Mains: €14–€22",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     },
     {
       "id": "m_12",
@@ -1435,12 +1691,25 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Traditional bakery near Viktualienmarkt frying hot Bavarian donuts in lard.",
       "price": "Donuts: €2.80",
-      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=600&q=80",
+      "image": "",
       "family": true,
-      "adult": true
+      "adult": true,
+      "wikiImage": "",
+      "hasWiki": false
     }
   ]
 };
+
+function getCategoryIcon(cat) {
+  if (!cat) return '📍';
+  const c = String(cat).toLowerCase();
+  if (c.includes('café') || c.includes('cafe') || c.includes('bakery')) return '☕';
+  if (c.includes('bistro') || c.includes('restaurant') || c.includes('dining')) return '🍷';
+  if (c.includes('park') || c.includes('garden')) return '🌳';
+  if (c.includes('museum') || c.includes('gallery')) return '🎨';
+  if (c.includes('palace') || c.includes('castle') || c.includes('church') || c.includes('cathedral') || c.includes('landmark')) return '🏛️';
+  return '📍';
+}
 
 const AITravelEngine = {
   config: {
@@ -1729,7 +1998,7 @@ const AITravelEngine = {
 
         container.innerHTML = viewModeBarHtml + filteredSpots.map(s => {
           const isChecked = this.selectedMustVisitIds.has(s.id);
-          const imgUrl = s.image || SVG_FALLBACK_IMAGE;
+          const hasPhoto = Boolean(s.image);
 
           return `
             <div class="card spot-candidate-card" style="border:2.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; transition:all 0.2s ease; display:flex; flex-direction:column; justify-content:space-between; position:relative; box-shadow:${isChecked ? '0 0 0 3px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
@@ -1740,10 +2009,24 @@ const AITravelEngine = {
               ` : ''}
 
               <div>
-                <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
-                  <img src="${imgUrl}" alt="${escapeHtml(s.name)}" loading="lazy" decoding="async" style="width:100%; height:100%; object-fit:cover; display:block;" onerror="this.onerror=null; this.src='${SVG_FALLBACK_IMAGE}';">
-                  <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
-                </div>
+                ${hasPhoto ? `
+                  <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
+                    <img src="${s.image}" alt="${escapeHtml(s.name)}" loading="lazy" decoding="async" style="width:100%; height:100%; object-fit:cover; display:block;">
+                    <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7; box-shadow:0 2px 4px rgba(0,0,0,0.1);">🌐 Wikipedia</span>
+                    <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
+                  </div>
+                ` : `
+                  <div style="width:100%; height:76px; border-radius:12px; margin-bottom:0.75rem; background:linear-gradient(135deg, #FEF3C7, #E0E7FF); border:1.5px solid var(--border-ink); display:flex; align-items:center; justify-content:space-between; padding:0.75rem 1rem; position:relative;">
+                    <div style="display:flex; align-items:center; gap:0.5rem;">
+                      <span style="font-size:1.5rem;">${getCategoryIcon(s.category)}</span>
+                      <div>
+                        <div style="font-weight:800; font-size:0.85rem; color:var(--primary-wood);">${escapeHtml(s.category)}</div>
+                        <div style="font-size:0.72rem; color:var(--text-secondary);">Verified Google Maps Venue</div>
+                      </div>
+                    </div>
+                    <span style="font-size:0.75rem; font-weight:800; background:#FFF; color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857;">${s.rating}</span>
+                  </div>
+                `}
 
                 <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.4rem;">
                   <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${s.category}</span>
