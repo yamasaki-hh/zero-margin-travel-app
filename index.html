@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Caveat:wght@600&display=swap" rel="stylesheet">
 
   <!-- Correct CSS Path to Warm Organic Atelier Design System (Responsive) -->
-  <link rel="stylesheet" href="css/styles.css?v=37.0">
+  <link rel="stylesheet" href="css/styles.css?v=38.0">
 </head>
 <body>
 
@@ -97,17 +97,22 @@
               <span>1️⃣</span> <span>Step 1: Destination, Transit & Duration</span>
             </div>
 
-            <div class="grid-2">
+            <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:1rem;">
               <div>
-                <label class="form-label">Destination City:</label>
+                <label class="form-label">国 (Country):</label>
+                <select id="aiPlanCountry" class="form-control" onchange="AITravelEngine.onCountryChange()">
+                  <option value="France" selected>🇫🇷 フランス (France)</option>
+                  <option value="Germany">🇩🇪 ドイツ (Germany)</option>
+                  <option value="Netherlands">🇳🇱 オランダ (Netherlands)</option>
+                  <option value="Belgium">🇧🇪 ベルギー (Belgium)</option>
+                  <option value="Luxembourg">🇱🇺 ルクセンブルク (Luxembourg)</option>
+                </select>
+              </div>
+
+              <div>
+                <label class="form-label">都市 (City):</label>
                 <select id="aiPlanDestination" class="form-control" onchange="AITravelEngine.renderCandidateSpots()">
-                  <option value="Paris, France" selected>🇫🇷 Paris, France</option>
-                  <option value="Berlin, Germany">🇩🇪 Berlin, Germany</option>
-                  <option value="Amsterdam, Netherlands">🇳🇱 Amsterdam, Netherlands</option>
-                  <option value="Brussels, Belgium">🇧🇪 Brussels, Belgium</option>
-                  <option value="Luxembourg City, Luxembourg">🇱🇺 Luxembourg City, Luxembourg</option>
-                  <option value="Cologne, Germany">🇩🇪 Cologne, Germany</option>
-                  <option value="Munich, Germany">🇩🇪 Munich, Germany</option>
+                  <option value="Paris, France" selected>🇫🇷 パリ (Paris)</option>
                 </select>
               </div>
 
@@ -1019,8 +1024,8 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/ai-travel-engine.js?v=37.0"></script>
-  <script src="js/travel-app.js?v=37.0"></script>
+  <script src="js/ai-travel-engine.js?v=38.0"></script>
+  <script src="js/travel-app.js?v=38.0"></script>
   <script>
     // Inline execution fallback to guarantee candidate spots grid renders instantly on DOM load
     window.addEventListener('load', function() {

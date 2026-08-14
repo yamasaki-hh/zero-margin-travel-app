@@ -15,7 +15,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Selig_Luxembourg_from_Paffendall.jpg/330px-Selig_Luxembourg_from_Paffendall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_2",
@@ -30,7 +30,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_3",
@@ -45,7 +45,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_4",
@@ -60,7 +60,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg/330px-Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_5",
@@ -75,7 +75,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg/330px-Luxembourg_City_Eurotrip_%28133169443%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_6",
@@ -90,7 +90,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Kirchberg_MUDAM.jpg/330px-Kirchberg_MUDAM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_7",
@@ -105,7 +105,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_8",
@@ -120,7 +120,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_9",
@@ -135,7 +135,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_10",
@@ -180,7 +180,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_13",
@@ -195,7 +195,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_14",
@@ -210,7 +210,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_15",
@@ -225,7 +225,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_16",
@@ -240,7 +240,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_17",
@@ -255,7 +255,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_18",
@@ -270,7 +270,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_19",
@@ -285,7 +285,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "l_20",

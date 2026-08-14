@@ -15,7 +15,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg/330px-Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_2",
@@ -45,7 +45,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/330px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_4",
@@ -60,7 +60,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Residenz_W%C3%BCrzburg_im_Bau_1731.jpg/330px-Residenz_W%C3%BCrzburg_im_Bau_1731.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_5",
@@ -75,7 +75,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg/330px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_6",
@@ -120,7 +120,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alte_Pinakothek_2009.jpg/330px-Alte_Pinakothek_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_9",
@@ -135,7 +135,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Karte_Viktualienmarkt_M%C3%BCnchen.png/330px-Karte_Viktualienmarkt_M%C3%BCnchen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_10",
@@ -150,7 +150,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_11",
@@ -165,7 +165,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "m_12",
@@ -180,7 +180,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     }
   ]
 }

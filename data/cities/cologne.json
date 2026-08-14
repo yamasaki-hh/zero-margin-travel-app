@@ -15,7 +15,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "c_2",
@@ -45,7 +45,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "c_4",
@@ -75,7 +75,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_Ludwig_002.jpg/330px-Museum_Ludwig_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "c_6",
@@ -90,7 +90,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "c_7",
@@ -105,7 +105,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "c_8",
@@ -120,7 +120,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "c_9",
@@ -135,7 +135,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     }
   ]
 }

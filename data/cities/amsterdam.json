@@ -15,7 +15,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/330px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_2",
@@ -30,7 +30,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_3",
@@ -45,7 +45,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/330px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_4",
@@ -60,7 +60,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_5",
@@ -105,7 +105,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg/330px-Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_8",
@@ -120,7 +120,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam-508-Oude_Kerk-2010-gje.jpg/330px-Amsterdam-508-Oude_Kerk-2010-gje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_9",
@@ -135,7 +135,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BegijnhofAmsterdamPanorama.jpg/330px-BegijnhofAmsterdamPanorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_10",
@@ -150,7 +150,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SingelBloemenmarkt.jpg/330px-SingelBloemenmarkt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_11",
@@ -165,7 +165,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_12",
@@ -180,7 +180,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/330px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_13",
@@ -225,7 +225,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_16",
@@ -240,7 +240,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_17",
@@ -255,7 +255,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_18",
@@ -270,7 +270,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_19",
@@ -285,7 +285,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": false
     },
     {
       "id": "a_20",

@@ -4,6 +4,25 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.2.1] - 2026-08-14 (Country-City Cascading Select & Strict Kids Tag Release)
+
+### 🌟 Summary
+- **Step 1 Cascading Form**: Added `国 (Country)` dropdown (`フランス`, `ドイツ`, `オランダ`, `ベルギー`, `ルクセンブルク`). `都市 (City)` dropdown automatically updates based on selected country (e.g. Germany -> Berlin, Cologne, Munich).
+- **Strict Kids Tag Sanitization**: Removed `kids` tag from cafes, bakeries, bars, and generic venues. Applied `kids` tag ONLY to genuine kid-friendly attractions (theme parks, zoos, aquariums, science/toy museums, parks with playgrounds/carousels, wax museums, boat cruises).
+- **10 New Paris Kid-Friendly Spots Added**:
+  1. Disneyland Paris (郊外)
+  2. Grande Galerie de l'Évolution / Jardin des Plantes (市内)
+  3. Cité des Sciences et de l'Industrie / Cité des Enfants (市内)
+  4. Jardin d'Acclimatation (市内)
+  5. Parc Zoologique de Paris (市内)
+  6. Aquarium de Paris (市内)
+  7. Musée Grévin (市内)
+  8. Jardin des Tuileries (市内)
+  9. Musée de l'Air et de l'Espace (郊外)
+  10. Choco-Story Paris (市内)
+
+---
+
 ## 🏷️ [v1.2.0] - 2026-08-14 (Area Zone & Kids Filter Release)
 
 ### 🌟 Summary
