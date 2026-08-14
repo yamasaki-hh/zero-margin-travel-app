@@ -15,7 +15,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Selig_Luxembourg_from_Paffendall.jpg/330px-Selig_Luxembourg_from_Paffendall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.5816,
+      "lng": 6.1019
     },
     {
       "id": "l_2",
@@ -30,7 +32,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.63503,
+      "lng": -2.02751
     },
     {
       "id": "l_3",
@@ -45,7 +49,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6116,
+      "lng": 6.1019
     },
     {
       "id": "l_4",
@@ -60,7 +66,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg/330px-Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61089,
+      "lng": 6.13283
     },
     {
       "id": "l_5",
@@ -75,7 +83,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg/330px-Luxembourg_City_Eurotrip_%28133169443%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6416,
+      "lng": 6.1019
     },
     {
       "id": "l_6",
@@ -90,7 +100,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Kirchberg_MUDAM.jpg/330px-Kirchberg_MUDAM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.5816,
+      "lng": 6.1169
     },
     {
       "id": "l_7",
@@ -105,7 +117,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.5966,
+      "lng": 6.1169
     },
     {
       "id": "l_8",
@@ -120,7 +134,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6116,
+      "lng": 6.1169
     },
     {
       "id": "l_9",
@@ -135,7 +151,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6266,
+      "lng": 6.1169
     },
     {
       "id": "l_10",
@@ -150,7 +168,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6416,
+      "lng": 6.1169
     },
     {
       "id": "l_11",
@@ -165,7 +185,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 49.61552,
+      "lng": 6.13065
     },
     {
       "id": "l_12",
@@ -180,7 +202,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": false
+      "kids": false,
+      "lat": 49.935,
+      "lng": 6.20222
     },
     {
       "id": "l_13",
@@ -195,7 +219,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6083,
+      "lng": 6.127
     },
     {
       "id": "l_14",
@@ -210,7 +236,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 18.46611,
+      "lng": -66.10589
     },
     {
       "id": "l_15",
@@ -225,7 +253,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 45.50472,
+      "lng": -73.55722
     },
     {
       "id": "l_16",
@@ -240,7 +270,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61083,
+      "lng": 6.13028
     },
     {
       "id": "l_17",
@@ -255,7 +287,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61028,
+      "lng": 6.13639
     },
     {
       "id": "l_18",
@@ -270,7 +304,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61639,
+      "lng": 6.13889
     },
     {
       "id": "l_19",
@@ -285,7 +321,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6099,
+      "lng": 6.1335
     },
     {
       "id": "l_20",
@@ -300,7 +338,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true
+      "kids": true,
+      "lat": 49.6416,
+      "lng": 6.1469
     }
   ]
 }

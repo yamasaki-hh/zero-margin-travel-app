@@ -21,7 +21,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/330px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.36,
+      "lng": 4.8853
     },
     {
       "id": "a_2",
@@ -36,7 +38,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3583,
+      "lng": 4.8811
     },
     {
       "id": "a_3",
@@ -51,7 +55,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/330px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.37525,
+      "lng": 4.88432
     },
     {
       "id": "a_4",
@@ -66,7 +72,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3826,
+      "lng": 4.8741
     },
     {
       "id": "a_5",
@@ -81,7 +89,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zaanstad_Zaanse_Schans_22.jpg/330px-Zaanstad_Zaanse_Schans_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true
+      "kids": true,
+      "lat": 52.3976,
+      "lng": 4.8741
     },
     {
       "id": "a_6",
@@ -96,7 +106,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg/330px-Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 52.358,
+      "lng": 4.868
     },
     {
       "id": "a_7",
@@ -111,7 +123,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg/330px-Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.37317,
+      "lng": 4.89136
     },
     {
       "id": "a_8",
@@ -126,7 +140,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam-508-Oude_Kerk-2010-gje.jpg/330px-Amsterdam-508-Oude_Kerk-2010-gje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3676,
+      "lng": 4.8891
     },
     {
       "id": "a_9",
@@ -141,7 +157,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BegijnhofAmsterdamPanorama.jpg/330px-BegijnhofAmsterdamPanorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3826,
+      "lng": 4.8891
     },
     {
       "id": "a_10",
@@ -156,7 +174,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SingelBloemenmarkt.jpg/330px-SingelBloemenmarkt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.36667,
+      "lng": 4.89194
     },
     {
       "id": "a_11",
@@ -171,7 +191,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.35806,
+      "lng": 4.87972
     },
     {
       "id": "a_12",
@@ -186,7 +208,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/330px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3694,
+      "lng": 4.90129
     },
     {
       "id": "a_13",
@@ -201,7 +225,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 52.3676,
+      "lng": 4.9041
     },
     {
       "id": "a_14",
@@ -216,7 +242,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MocoMuseumAmsterdamTHEONE.jpg/330px-MocoMuseumAmsterdamTHEONE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 52.3826,
+      "lng": 4.9041
     },
     {
       "id": "a_15",
@@ -231,7 +259,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3976,
+      "lng": 4.9041
     },
     {
       "id": "a_16",
@@ -246,7 +276,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3376,
+      "lng": 4.9191
     },
     {
       "id": "a_17",
@@ -261,7 +293,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3526,
+      "lng": 4.9191
     },
     {
       "id": "a_18",
@@ -276,7 +310,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3676,
+      "lng": 4.9191
     },
     {
       "id": "a_19",
@@ -291,7 +327,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.3826,
+      "lng": 4.9191
     },
     {
       "id": "a_20",
@@ -306,7 +344,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brouwerijhetij.jpg/330px-Brouwerijhetij.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.36667,
+      "lng": 4.92639
     }
   ],
   "Berlin, Germany": [
@@ -323,7 +363,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.5163,
+      "lng": 13.3777
     },
     {
       "id": "b_b2",
@@ -338,7 +380,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/330px-Berlin_reichstag_west_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.505,
+      "lng": 13.375
     },
     {
       "id": "b_b3",
@@ -353,7 +397,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg/330px-Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 52.52,
+      "lng": 13.375
     },
     {
       "id": "b_b4",
@@ -368,7 +414,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/330px-141227_Berliner_Dom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.51917,
+      "lng": 13.40111
     },
     {
       "id": "b_b5",
@@ -383,7 +431,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/330px-Charlottenburg_Hohenzollern_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.5209,
+      "lng": 13.2957
     },
     {
       "id": "b_b6",
@@ -398,7 +448,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.49,
+      "lng": 13.39
     },
     {
       "id": "b_b7",
@@ -413,7 +465,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gendarmenmarkt_Panorama.jpg/330px-Gendarmenmarkt_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.505,
+      "lng": 13.39
     },
     {
       "id": "b_b8",
@@ -428,7 +482,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Berlin_Siegess%C3%A4ule_8245.jpg/330px-Berlin_Siegess%C3%A4ule_8245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.52,
+      "lng": 13.39
     },
     {
       "id": "b_b9",
@@ -443,7 +499,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 52.52083,
+      "lng": 13.40944
     },
     {
       "id": "b_b10",
@@ -458,7 +516,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Berlin_-_Checkpoint_Charlie_1963.jpg/330px-Berlin_-_Checkpoint_Charlie_1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.5075,
+      "lng": 13.39028
     },
     {
       "id": "b_b11",
@@ -473,7 +533,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.505,
+      "lng": 13.335
     },
     {
       "id": "b_b12",
@@ -488,7 +550,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 52.51389,
+      "lng": 13.35694
     },
     {
       "id": "b_b13",
@@ -503,7 +567,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hackesche_h%C3%B6fe_berlin.jpg/330px-Hackesche_h%C3%B6fe_berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.52417,
+      "lng": 13.40222
     },
     {
       "id": "b_b14",
@@ -518,7 +584,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.535,
+      "lng": 13.405
     },
     {
       "id": "b_b15",
@@ -533,7 +601,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.521,
+      "lng": 13.396
     },
     {
       "id": "b_b16",
@@ -548,7 +618,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.52056,
+      "lng": 13.39778
     },
     {
       "id": "b_b17",
@@ -563,7 +635,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jewish_Museum_Berlin_logo.svg/330px-Jewish_Museum_Berlin_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.502,
+      "lng": 13.395
     },
     {
       "id": "b_b18",
@@ -578,7 +652,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.52833,
+      "lng": 13.37222
     },
     {
       "id": "b_b19",
@@ -593,7 +669,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Topographie_des_Terrors_Neubau.jpg/330px-Topographie_des_Terrors_Neubau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.50694,
+      "lng": 13.38278
     },
     {
       "id": "b_b20",
@@ -608,7 +686,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 52.51903,
+      "lng": 13.40222
     },
     {
       "id": "b_b21",
@@ -623,7 +703,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.49,
+      "lng": 13.435
     },
     {
       "id": "b_b22",
@@ -638,7 +720,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.49349,
+      "lng": 13.38772
     },
     {
       "id": "b_b23",
@@ -653,7 +737,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.52,
+      "lng": 13.435
     },
     {
       "id": "b_b24",
@@ -668,7 +754,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.535,
+      "lng": 13.435
     },
     {
       "id": "b_b25",
@@ -683,7 +771,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.55,
+      "lng": 13.435
     },
     {
       "id": "b_b26",
@@ -698,7 +788,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.49,
+      "lng": 13.45
     },
     {
       "id": "b_b27",
@@ -713,7 +805,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.505,
+      "lng": 13.45
     },
     {
       "id": "b_b28",
@@ -728,7 +822,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.52,
+      "lng": 13.45
     },
     {
       "id": "b_b29",
@@ -743,7 +839,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.535,
+      "lng": 13.45
     },
     {
       "id": "b_b30",
@@ -758,7 +856,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.55,
+      "lng": 13.45
     },
     {
       "id": "b_b31",
@@ -773,7 +873,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.49,
+      "lng": 13.465
     },
     {
       "id": "b_b32",
@@ -788,7 +890,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 52.505,
+      "lng": 13.465
     }
   ],
   "Brussels, Belgium": [
@@ -805,7 +909,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84667,
+      "lng": 4.3525
     },
     {
       "id": "br_2",
@@ -820,7 +926,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8353,
+      "lng": 4.3217
     },
     {
       "id": "br_3",
@@ -835,7 +943,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/330px-Brussels_-_Atomium_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.89472,
+      "lng": 4.34111
     },
     {
       "id": "br_4",
@@ -850,7 +960,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg/330px-Saints-Michel-et-Gudule_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8653,
+      "lng": 4.3217
     },
     {
       "id": "br_5",
@@ -865,7 +977,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/330px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84389,
+      "lng": 4.35667
     },
     {
       "id": "br_6",
@@ -880,7 +994,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg/330px-Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8203,
+      "lng": 4.3367
     },
     {
       "id": "br_7",
@@ -895,7 +1011,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.84499,
+      "lng": 4.34999
     },
     {
       "id": "br_8",
@@ -910,7 +1028,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84194,
+      "lng": 4.35861
     },
     {
       "id": "br_9",
@@ -925,7 +1045,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8653,
+      "lng": 4.3367
     },
     {
       "id": "br_10",
@@ -940,7 +1062,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8803,
+      "lng": 4.3367
     },
     {
       "id": "br_11",
@@ -955,7 +1079,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8203,
+      "lng": 4.3517
     },
     {
       "id": "br_12",
@@ -970,7 +1096,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8353,
+      "lng": 4.3517
     },
     {
       "id": "br_13",
@@ -985,7 +1113,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84841,
+      "lng": 4.35393
     }
   ],
   "Cologne, Germany": [
@@ -1002,7 +1132,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.94139,
+      "lng": 6.95833
     },
     {
       "id": "c_2",
@@ -1017,7 +1149,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.94139,
+      "lng": 6.96556
     },
     {
       "id": "c_3",
@@ -1032,7 +1166,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9386,
+      "lng": 6.9618
     },
     {
       "id": "c_4",
@@ -1047,7 +1183,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.9322,
+      "lng": 6.96427
     },
     {
       "id": "c_5",
@@ -1062,7 +1200,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_Ludwig_002.jpg/330px-Museum_Ludwig_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.94083,
+      "lng": 6.96028
     },
     {
       "id": "c_6",
@@ -1077,7 +1217,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.93942,
+      "lng": 6.95942
     },
     {
       "id": "c_7",
@@ -1092,7 +1234,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9225,
+      "lng": 6.9453
     },
     {
       "id": "c_8",
@@ -1107,7 +1251,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9375,
+      "lng": 6.9453
     },
     {
       "id": "c_9",
@@ -1122,7 +1268,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9525,
+      "lng": 6.9453
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -1139,7 +1287,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Selig_Luxembourg_from_Paffendall.jpg/330px-Selig_Luxembourg_from_Paffendall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.5816,
+      "lng": 6.1019
     },
     {
       "id": "l_2",
@@ -1154,7 +1304,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.63503,
+      "lng": -2.02751
     },
     {
       "id": "l_3",
@@ -1169,7 +1321,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6116,
+      "lng": 6.1019
     },
     {
       "id": "l_4",
@@ -1184,7 +1338,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg/330px-Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61089,
+      "lng": 6.13283
     },
     {
       "id": "l_5",
@@ -1199,7 +1355,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg/330px-Luxembourg_City_Eurotrip_%28133169443%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6416,
+      "lng": 6.1019
     },
     {
       "id": "l_6",
@@ -1214,7 +1372,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Kirchberg_MUDAM.jpg/330px-Kirchberg_MUDAM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.5816,
+      "lng": 6.1169
     },
     {
       "id": "l_7",
@@ -1229,7 +1389,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.5966,
+      "lng": 6.1169
     },
     {
       "id": "l_8",
@@ -1244,7 +1406,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6116,
+      "lng": 6.1169
     },
     {
       "id": "l_9",
@@ -1259,7 +1423,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6266,
+      "lng": 6.1169
     },
     {
       "id": "l_10",
@@ -1274,7 +1440,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6416,
+      "lng": 6.1169
     },
     {
       "id": "l_11",
@@ -1289,7 +1457,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 49.61552,
+      "lng": 6.13065
     },
     {
       "id": "l_12",
@@ -1304,7 +1474,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": false
+      "kids": false,
+      "lat": 49.935,
+      "lng": 6.20222
     },
     {
       "id": "l_13",
@@ -1319,7 +1491,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6083,
+      "lng": 6.127
     },
     {
       "id": "l_14",
@@ -1334,7 +1508,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 18.46611,
+      "lng": -66.10589
     },
     {
       "id": "l_15",
@@ -1349,7 +1525,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 45.50472,
+      "lng": -73.55722
     },
     {
       "id": "l_16",
@@ -1364,7 +1542,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61083,
+      "lng": 6.13028
     },
     {
       "id": "l_17",
@@ -1379,7 +1559,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61028,
+      "lng": 6.13639
     },
     {
       "id": "l_18",
@@ -1394,7 +1576,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.61639,
+      "lng": 6.13889
     },
     {
       "id": "l_19",
@@ -1409,7 +1593,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 49.6099,
+      "lng": 6.1335
     },
     {
       "id": "l_20",
@@ -1424,7 +1610,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true
+      "kids": true,
+      "lat": 49.6416,
+      "lng": 6.1469
     }
   ],
   "Munich, Germany": [
@@ -1441,7 +1629,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg/330px-Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.1051,
+      "lng": 11.552
     },
     {
       "id": "m_2",
@@ -1456,7 +1646,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.1201,
+      "lng": 11.552
     },
     {
       "id": "m_3",
@@ -1471,7 +1663,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/330px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.15806,
+      "lng": 11.50361
     },
     {
       "id": "m_4",
@@ -1486,7 +1680,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Residenz_W%C3%BCrzburg_im_Bau_1731.jpg/330px-Residenz_W%C3%BCrzburg_im_Bau_1731.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.14111,
+      "lng": 11.57806
     },
     {
       "id": "m_5",
@@ -1501,7 +1697,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg/330px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.1651,
+      "lng": 11.552
     },
     {
       "id": "m_6",
@@ -1516,7 +1714,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg/330px-BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.1051,
+      "lng": 11.567
     },
     {
       "id": "m_7",
@@ -1531,7 +1731,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/330px-Deutsches_Museum_Portrait_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.13,
+      "lng": 11.5833
     },
     {
       "id": "m_8",
@@ -1546,7 +1748,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alte_Pinakothek_2009.jpg/330px-Alte_Pinakothek_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.1351,
+      "lng": 11.567
     },
     {
       "id": "m_9",
@@ -1561,7 +1765,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Karte_Viktualienmarkt_M%C3%BCnchen.png/330px-Karte_Viktualienmarkt_M%C3%BCnchen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.13528,
+      "lng": 11.57611
     },
     {
       "id": "m_10",
@@ -1576,7 +1782,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.14353,
+      "lng": 11.55147
     },
     {
       "id": "m_11",
@@ -1591,7 +1799,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.1051,
+      "lng": 11.582
     },
     {
       "id": "m_12",
@@ -1606,7 +1816,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.1201,
+      "lng": 11.582
     }
   ],
   "Paris, France": [
@@ -1623,7 +1835,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.85822,
+      "lng": 2.2945
     },
     {
       "id": "p_2",
@@ -1638,7 +1852,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/330px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87378,
+      "lng": 2.29503
     },
     {
       "id": "p_3",
@@ -1653,7 +1869,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85528,
+      "lng": 2.345
     },
     {
       "id": "p_4",
@@ -1668,7 +1886,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8716,
+      "lng": 2.3222
     },
     {
       "id": "p_5",
@@ -1683,7 +1903,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85306,
+      "lng": 2.35
     },
     {
       "id": "p_6",
@@ -1698,7 +1920,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Conseil_d%27Etat_Paris_WA.jpg/330px-Conseil_d%27Etat_Paris_WA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.3372
     },
     {
       "id": "p_7",
@@ -1713,7 +1937,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8416,
+      "lng": 2.3372
     },
     {
       "id": "p_8",
@@ -1728,7 +1954,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/330px-LuxembourgMontparnasse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.84694,
+      "lng": 2.33722
     },
     {
       "id": "p_9",
@@ -1743,7 +1971,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/330px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87194,
+      "lng": 2.33167
     },
     {
       "id": "p_10",
@@ -1758,7 +1988,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg/330px-Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86361,
+      "lng": 2.31361
     },
     {
       "id": "p_11",
@@ -1773,7 +2005,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/330px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.3522
     },
     {
       "id": "p_12",
@@ -1788,7 +2022,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85833,
+      "lng": 2.3375
     },
     {
       "id": "p_13",
@@ -1803,7 +2039,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg/330px-Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.83389,
+      "lng": 2.33222
     },
     {
       "id": "p_14",
@@ -1818,7 +2056,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8716,
+      "lng": 2.3522
     },
     {
       "id": "p_15",
@@ -1833,7 +2073,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85997,
+      "lng": 2.32653
     },
     {
       "id": "p_16",
@@ -1848,7 +2090,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/330px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86064,
+      "lng": 2.35224
     },
     {
       "id": "p_17",
@@ -1863,7 +2107,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86385,
+      "lng": 2.32254
     },
     {
       "id": "p_18",
@@ -1878,7 +2124,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85528,
+      "lng": 2.31583
     },
     {
       "id": "p_19",
@@ -1893,7 +2141,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85973,
+      "lng": 2.36244
     },
     {
       "id": "p_20",
@@ -1908,7 +2158,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8575,
+      "lng": 2.36222
     },
     {
       "id": "p_21",
@@ -1923,7 +2175,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.3822
     },
     {
       "id": "p_22",
@@ -1938,7 +2192,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Le_Train_Bleu.jpg/330px-Le_Train_Bleu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8416,
+      "lng": 2.3822
     },
     {
       "id": "p_23",
@@ -1953,7 +2209,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8566,
+      "lng": 2.3822
     },
     {
       "id": "p_24",
@@ -1968,7 +2226,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chez_Chartier_1.JPG/330px-Chez_Chartier_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87333,
+      "lng": 2.34361
     },
     {
       "id": "p_25",
@@ -1983,7 +2243,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.3822
     },
     {
       "id": "p_26",
@@ -1998,7 +2260,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/330px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.854,
+      "lng": 2.3332
     },
     {
       "id": "p_27",
@@ -2013,7 +2277,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85742,
+      "lng": 2.35907
     },
     {
       "id": "p_28",
@@ -2028,7 +2294,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86938,
+      "lng": 2.34596
     },
     {
       "id": "p_29",
@@ -2043,7 +2311,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8628,
+      "lng": 2.362
     },
     {
       "id": "p_30",
@@ -2058,7 +2328,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.3972
     },
     {
       "id": "p_31",
@@ -2073,7 +2345,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.4122
     },
     {
       "id": "p_32",
@@ -2088,7 +2362,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8416,
+      "lng": 2.4122
     },
     {
       "id": "p_33",
@@ -2103,7 +2379,9 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8566,
+      "lng": 2.4122
     },
     {
       "id": "p_34",
@@ -2117,7 +2395,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8608,
+      "lng": 2.2975
     },
     {
       "id": "p_35",
@@ -2131,7 +2411,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.4122
     },
     {
       "id": "p_36",
@@ -2145,7 +2427,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8733,
+      "lng": 2.33222
     },
     {
       "id": "p_37",
@@ -2159,7 +2443,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8416,
+      "lng": 2.4272
     },
     {
       "id": "p_38",
@@ -2173,7 +2459,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.84722,
+      "lng": 2.36667
     },
     {
       "id": "p_27",
@@ -2187,7 +2475,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": false
+      "kids": false,
+      "lat": 48.8047,
+      "lng": 2.1203
     },
     {
       "id": "p_28",
@@ -2201,7 +2491,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.4272
     },
     {
       "id": "p_29",
@@ -2215,7 +2507,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8564,
+      "lng": 2.3456
     },
     {
       "id": "p_30",
@@ -2229,7 +2523,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85556,
+      "lng": 2.36556
     },
     {
       "id": "p_31",
@@ -2243,7 +2539,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8593,
+      "lng": 2.2673
     },
     {
       "id": "p_32",
@@ -2257,7 +2555,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87667,
+      "lng": 2.26333
     },
     {
       "id": "p_33",
@@ -2271,7 +2571,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85056,
+      "lng": 2.34333
     },
     {
       "id": "p_46",
@@ -2285,7 +2587,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true
+      "kids": true,
+      "lat": 48.86861,
+      "lng": 2.78167
     },
     {
       "id": "p_47",
@@ -2299,7 +2603,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8416,
+      "lng": 2.4572
     },
     {
       "id": "p_48",
@@ -2313,7 +2619,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8956,
+      "lng": 2.3881
     },
     {
       "id": "p_49",
@@ -2327,7 +2635,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8775,
+      "lng": 2.26306
     },
     {
       "id": "p_50",
@@ -2341,7 +2651,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8322,
+      "lng": 2.4186
     },
     {
       "id": "p_51",
@@ -2355,7 +2667,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.86222,
+      "lng": 2.29083
     },
     {
       "id": "p_52",
@@ -2369,7 +2683,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.87183,
+      "lng": 2.3421
     },
     {
       "id": "p_53",
@@ -2383,7 +2699,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8639,
+      "lng": 2.3261
     },
     {
       "id": "p_54",
@@ -2397,7 +2715,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true
+      "kids": true,
+      "lat": 48.9471,
+      "lng": 2.4349
     },
     {
       "id": "p_55",
@@ -2411,7 +2731,9 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8866,
+      "lng": 2.4722
     }
   ]
 };
@@ -3005,21 +3327,8 @@ const AITravelEngine = {
     if (this.selectedMustVisitIds.has(spotId)) {
       this.selectedMustVisitIds.delete(spotId);
     } else {
-      if (this.selectedMustVisitIds.size >= 8) {
-        alert('Selection Limit Reached! You can select up to 8 Must-Visit spots.');
-        return;
-      }
-      this.selectedMustVisitIds.add(spotId);
-    }
-    this.renderCandidateSpots();
-  },
-
-  toggleSpotSelection(spotId, maxCap) {
-    if (this.selectedMustVisitIds.has(spotId)) {
-      this.selectedMustVisitIds.delete(spotId);
-    } else {
       if (this.selectedMustVisitIds.size >= maxCap) {
-        alert(`Selection Limit Reached! You can select up to ${maxCap} spots for this duration. Change duration to 2 Days to select up to 7 spots.`);
+        alert(`Selection Limit Reached! You can select up to ${maxCap} Must-Visit spots.`);
         return;
       }
       this.selectedMustVisitIds.add(spotId);
@@ -3027,7 +3336,60 @@ const AITravelEngine = {
     this.renderCandidateSpots();
   },
 
-  // Step 3: Generate Custom Route embedding Must-Visit spots + Multi-Stop Maps Link
+  // Calculate Haversine distance in km between two lat/lng coordinates
+  calculateDistance(lat1, lng1, lat2, lng2) {
+    if (!lat1 || !lng1 || !lat2 || !lng2) return 0;
+    const R = 6371; // Earth radius in km
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLng = (lng2 - lng1) * Math.PI / 180;
+    const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+              Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+              Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c;
+  },
+
+  // Optimize spot sequence for continuous geographical travel flow (導線最適化)
+  optimizeRouteOrder(spots) {
+    if (!spots || spots.length <= 1) return spots;
+
+    const list = spots.map(s => ({ ...s }));
+    
+    // Pick westernmost spot as initial starting anchor for smooth directional travel
+    let startIdx = 0;
+    let minLng = Infinity;
+    list.forEach((s, idx) => {
+      const lng = Number(s.lng || 0);
+      if (lng && lng < minLng) {
+        minLng = lng;
+        startIdx = idx;
+      }
+    });
+
+    const result = [list[startIdx]];
+    const unvisited = list.filter((_, idx) => idx !== startIdx);
+
+    while (unvisited.length > 0) {
+      const current = result[result.length - 1];
+      let nearestIdx = 0;
+      let minDistance = Infinity;
+
+      unvisited.forEach((spot, idx) => {
+        const dist = this.calculateDistance(current.lat, current.lng, spot.lat, spot.lng);
+        if (dist < minDistance) {
+          minDistance = dist;
+          nearestIdx = idx;
+        }
+      });
+
+      result.push(unvisited[nearestIdx]);
+      unvisited.splice(nearestIdx, 1);
+    }
+
+    return result;
+  },
+
+  // Step 3: Generate Custom Dual Routes with Geographical Flow Optimization (導線最適化)
   generateItinerary(event) {
     if (event) event.preventDefault();
 
@@ -3041,39 +3403,48 @@ const AITravelEngine = {
     if (!resultContainer) return;
 
     const allSpots = candidateSpotsDatabase[destination] || candidateSpotsDatabase['Paris, France'];
+    const selectedIds = new Set(this.selectedMustVisitIds);
     
-    // Extract selected spots for Route A
-    let selectedSpots = allSpots.filter(s => this.selectedMustVisitIds.has(s.id));
-    if (selectedSpots.length === 0) {
-      // Fallback top 3 spots if none selected
-      selectedSpots = allSpots.slice(0, 3);
+    // Extract checked must-visit spots
+    let checkedSpots = allSpots.filter(s => selectedIds.has(s.id));
+    if (checkedSpots.length === 0) {
+      checkedSpots = allSpots.slice(0, 3);
     }
 
-    // Build Route A (Selected Spots Only)
-    this.routeA_spots = selectedSpots.map(s => ({
+    // 1. ROUTE A: Geographically optimized order (導線最適化) for selected spots
+    const optimizedSpotsA = this.optimizeRouteOrder(checkedSpots);
+    this.routeA_spots = optimizedSpotsA.map(s => ({
+      id: s.id,
       name: s.name.split(' (')[0].trim(),
       category: s.category,
       rating: s.rating,
-      price: s.price
+      price: s.price,
+      lat: s.lat,
+      lng: s.lng,
+      isMustVisit: true
     }));
 
-    // Build Route B (Full 10-Spot Course: Selected + Top AI Curated Spots)
-    const selectedNames = new Set(this.routeA_spots.map(s => s.name));
-    const extraSpots = allSpots.filter(s => !selectedNames.has(s.name.split(' (')[0].trim()));
-
+    // 2. ROUTE B: Interleaved 10-spot full course (導線最適化)
+    const unselectedSpots = allSpots.filter(s => !selectedIds.has(s.id));
     const targetBCount = 10;
-    const needed = targetBCount - this.routeA_spots.length;
+    const neededExtras = Math.max(0, targetBCount - checkedSpots.length);
+    const chosenExtras = unselectedSpots.slice(0, neededExtras);
 
-    this.routeB_spots = [...this.routeA_spots];
-    if (needed > 0) {
-      const addedExtras = extraSpots.slice(0, needed).map(s => ({
-        name: s.name.split(' (')[0].trim(),
-        category: s.category,
-        rating: s.rating,
-        price: s.price
-      }));
-      this.routeB_spots.push(...addedExtras);
-    }
+    // Combine checked spots + AI recommended spots
+    const combinedSpotsB = [...checkedSpots, ...chosenExtras];
+
+    // Geographically optimize ALL 10 spots together into a single continuous, seamless travel flow (導線)
+    const optimizedSpotsB = this.optimizeRouteOrder(combinedSpotsB);
+    this.routeB_spots = optimizedSpotsB.map(s => ({
+      id: s.id,
+      name: s.name.split(' (')[0].trim(),
+      category: s.category,
+      rating: s.rating,
+      price: s.price,
+      lat: s.lat,
+      lng: s.lng,
+      isMustVisit: selectedIds.has(s.id)
+    }));
 
     this.renderDualRouteManager(destination, transportMode);
   },
@@ -3209,7 +3580,14 @@ const AITravelEngine = {
 
             <span style="font-weight:800; background:#E2E8F0; color:#334155; width:26px; height:26px; display:inline-flex; align-items:center; justify-content:center; border-radius:50%; font-size:0.78rem; flex-shrink:0;">${idx + 1}</span>
 
-            <span style="font-weight:700; color:#1E293B; word-break:break-word; flex:1;">${escapeHtml(spot.name)}</span>
+            <span style="font-weight:700; color:#1E293B; word-break:break-word; flex:1; display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap;">
+              <span>${escapeHtml(spot.name)}</span>
+              ${spot.isMustVisit ? `
+                <span style="font-size:0.65rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.1rem 0.35rem; border-radius:4px; border:1px solid #A7F3D0; white-space:nowrap;">📍 選択</span>
+              ` : `
+                <span style="font-size:0.65rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.1rem 0.35rem; border-radius:4px; border:1px solid #FDE68A; white-space:nowrap;">✨ AI推し</span>
+              `}
+            </span>
           </div>
 
           <div style="display:flex; align-items:center; gap:0.4rem; flex-shrink:0;">

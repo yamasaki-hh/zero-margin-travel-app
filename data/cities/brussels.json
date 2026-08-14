@@ -15,7 +15,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84667,
+      "lng": 4.3525
     },
     {
       "id": "br_2",
@@ -30,7 +32,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8353,
+      "lng": 4.3217
     },
     {
       "id": "br_3",
@@ -45,7 +49,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/330px-Brussels_-_Atomium_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.89472,
+      "lng": 4.34111
     },
     {
       "id": "br_4",
@@ -60,7 +66,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg/330px-Saints-Michel-et-Gudule_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8653,
+      "lng": 4.3217
     },
     {
       "id": "br_5",
@@ -75,7 +83,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/330px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84389,
+      "lng": 4.35667
     },
     {
       "id": "br_6",
@@ -90,7 +100,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg/330px-Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8203,
+      "lng": 4.3367
     },
     {
       "id": "br_7",
@@ -105,7 +117,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.84499,
+      "lng": 4.34999
     },
     {
       "id": "br_8",
@@ -120,7 +134,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84194,
+      "lng": 4.35861
     },
     {
       "id": "br_9",
@@ -135,7 +151,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8653,
+      "lng": 4.3367
     },
     {
       "id": "br_10",
@@ -150,7 +168,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8803,
+      "lng": 4.3367
     },
     {
       "id": "br_11",
@@ -165,7 +185,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8203,
+      "lng": 4.3517
     },
     {
       "id": "br_12",
@@ -180,7 +202,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.8353,
+      "lng": 4.3517
     },
     {
       "id": "br_13",
@@ -195,7 +219,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.84841,
+      "lng": 4.35393
     }
   ]
 }

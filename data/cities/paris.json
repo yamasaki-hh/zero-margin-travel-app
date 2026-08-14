@@ -15,7 +15,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.85822,
+      "lng": 2.2945
     },
     {
       "id": "p_2",
@@ -30,7 +32,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/330px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87378,
+      "lng": 2.29503
     },
     {
       "id": "p_3",
@@ -45,7 +49,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85528,
+      "lng": 2.345
     },
     {
       "id": "p_4",
@@ -60,7 +66,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8716,
+      "lng": 2.3222
     },
     {
       "id": "p_5",
@@ -75,7 +83,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85306,
+      "lng": 2.35
     },
     {
       "id": "p_6",
@@ -90,7 +100,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Conseil_d%27Etat_Paris_WA.jpg/330px-Conseil_d%27Etat_Paris_WA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.3372
     },
     {
       "id": "p_7",
@@ -105,7 +117,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8416,
+      "lng": 2.3372
     },
     {
       "id": "p_8",
@@ -120,7 +134,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/330px-LuxembourgMontparnasse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.84694,
+      "lng": 2.33722
     },
     {
       "id": "p_9",
@@ -135,7 +151,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/330px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87194,
+      "lng": 2.33167
     },
     {
       "id": "p_10",
@@ -150,7 +168,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg/330px-Pont_Alexandre_III_depuis_pont_de_la_Concorde_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86361,
+      "lng": 2.31361
     },
     {
       "id": "p_11",
@@ -165,7 +185,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/330px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.3522
     },
     {
       "id": "p_12",
@@ -180,7 +202,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85833,
+      "lng": 2.3375
     },
     {
       "id": "p_13",
@@ -195,7 +219,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg/330px-Catacumbas%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_105-107_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.83389,
+      "lng": 2.33222
     },
     {
       "id": "p_14",
@@ -210,7 +236,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8716,
+      "lng": 2.3522
     },
     {
       "id": "p_15",
@@ -225,7 +253,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85997,
+      "lng": 2.32653
     },
     {
       "id": "p_16",
@@ -240,7 +270,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg/330px-Le_logo_du_Centre_Pompidou_redessin%C3%A9_en_2019_%285_bandes%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86064,
+      "lng": 2.35224
     },
     {
       "id": "p_17",
@@ -255,7 +287,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86385,
+      "lng": 2.32254
     },
     {
       "id": "p_18",
@@ -270,7 +304,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85528,
+      "lng": 2.31583
     },
     {
       "id": "p_19",
@@ -285,7 +321,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85973,
+      "lng": 2.36244
     },
     {
       "id": "p_20",
@@ -300,7 +338,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8575,
+      "lng": 2.36222
     },
     {
       "id": "p_21",
@@ -315,7 +355,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.3822
     },
     {
       "id": "p_22",
@@ -330,7 +372,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Le_Train_Bleu.jpg/330px-Le_Train_Bleu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8416,
+      "lng": 2.3822
     },
     {
       "id": "p_23",
@@ -345,7 +389,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8566,
+      "lng": 2.3822
     },
     {
       "id": "p_24",
@@ -360,7 +406,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chez_Chartier_1.JPG/330px-Chez_Chartier_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87333,
+      "lng": 2.34361
     },
     {
       "id": "p_25",
@@ -375,7 +423,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.3822
     },
     {
       "id": "p_26",
@@ -390,7 +440,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/330px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.854,
+      "lng": 2.3332
     },
     {
       "id": "p_27",
@@ -405,7 +457,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85742,
+      "lng": 2.35907
     },
     {
       "id": "p_28",
@@ -420,7 +474,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.86938,
+      "lng": 2.34596
     },
     {
       "id": "p_29",
@@ -435,7 +491,9 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8628,
+      "lng": 2.362
     },
     {
       "id": "p_30",
@@ -450,7 +508,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.3972
     },
     {
       "id": "p_31",
@@ -465,7 +525,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8266,
+      "lng": 2.4122
     },
     {
       "id": "p_32",
@@ -480,7 +542,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8416,
+      "lng": 2.4122
     },
     {
       "id": "p_33",
@@ -495,7 +559,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8566,
+      "lng": 2.4122
     },
     {
       "id": "p_34",
@@ -509,7 +575,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8608,
+      "lng": 2.2975
     },
     {
       "id": "p_35",
@@ -523,7 +591,9 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.4122
     },
     {
       "id": "p_36",
@@ -537,7 +607,9 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8733,
+      "lng": 2.33222
     },
     {
       "id": "p_37",
@@ -551,7 +623,9 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8416,
+      "lng": 2.4272
     },
     {
       "id": "p_38",
@@ -565,7 +639,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.84722,
+      "lng": 2.36667
     },
     {
       "id": "p_27",
@@ -579,7 +655,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": false
+      "kids": false,
+      "lat": 48.8047,
+      "lng": 2.1203
     },
     {
       "id": "p_28",
@@ -593,7 +671,9 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8866,
+      "lng": 2.4272
     },
     {
       "id": "p_29",
@@ -607,7 +687,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8564,
+      "lng": 2.3456
     },
     {
       "id": "p_30",
@@ -621,7 +703,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85556,
+      "lng": 2.36556
     },
     {
       "id": "p_31",
@@ -635,7 +719,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.8593,
+      "lng": 2.2673
     },
     {
       "id": "p_32",
@@ -649,7 +735,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.87667,
+      "lng": 2.26333
     },
     {
       "id": "p_33",
@@ -663,7 +751,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 48.85056,
+      "lng": 2.34333
     },
     {
       "id": "p_46",
@@ -677,7 +767,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true
+      "kids": true,
+      "lat": 48.86861,
+      "lng": 2.78167
     },
     {
       "id": "p_47",
@@ -691,7 +783,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8416,
+      "lng": 2.4572
     },
     {
       "id": "p_48",
@@ -705,7 +799,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8956,
+      "lng": 2.3881
     },
     {
       "id": "p_49",
@@ -719,7 +815,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8775,
+      "lng": 2.26306
     },
     {
       "id": "p_50",
@@ -733,7 +831,9 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8322,
+      "lng": 2.4186
     },
     {
       "id": "p_51",
@@ -747,7 +847,9 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.86222,
+      "lng": 2.29083
     },
     {
       "id": "p_52",
@@ -761,7 +863,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.87183,
+      "lng": 2.3421
     },
     {
       "id": "p_53",
@@ -775,7 +879,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8639,
+      "lng": 2.3261
     },
     {
       "id": "p_54",
@@ -789,7 +895,9 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true
+      "kids": true,
+      "lat": 48.9471,
+      "lng": 2.4349
     },
     {
       "id": "p_55",
@@ -803,7 +911,9 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 48.8866,
+      "lng": 2.4722
     }
   ]
 }

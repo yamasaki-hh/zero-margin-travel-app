@@ -15,7 +15,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.94139,
+      "lng": 6.95833
     },
     {
       "id": "c_2",
@@ -30,7 +32,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.94139,
+      "lng": 6.96556
     },
     {
       "id": "c_3",
@@ -45,7 +49,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Koeln_gross_st_martin.jpg/330px-Koeln_gross_st_martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9386,
+      "lng": 6.9618
     },
     {
       "id": "c_4",
@@ -60,7 +66,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true
+      "kids": true,
+      "lat": 50.9322,
+      "lng": 6.96427
     },
     {
       "id": "c_5",
@@ -75,7 +83,9 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_Ludwig_002.jpg/330px-Museum_Ludwig_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.94083,
+      "lng": 6.96028
     },
     {
       "id": "c_6",
@@ -90,7 +100,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.93942,
+      "lng": 6.95942
     },
     {
       "id": "c_7",
@@ -105,7 +117,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9225,
+      "lng": 6.9453
     },
     {
       "id": "c_8",
@@ -120,7 +134,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9375,
+      "lng": 6.9453
     },
     {
       "id": "c_9",
@@ -135,7 +151,9 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false
+      "kids": false,
+      "lat": 50.9525,
+      "lng": 6.9453
     }
   ]
 }

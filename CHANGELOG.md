@@ -4,6 +4,16 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v1.3.0] - 2026-08-14 (Intelligent Geographical Travel Flow Optimization Release)
+
+### 🌟 Summary
+- **Intelligent Spatial Flow Routing (`optimizeRouteOrder`)**: Implemented a Nearest-Neighbor Traveling Salesperson Algorithm using exact Haversine geographical coordinates (`lat`, `lng`) across all 161 candidate spots.
+- **Route A Flow Optimization**: Selected must-visit spots are sequenced in a continuous, smooth geographical travel flow (導線) instead of arbitrary checkbox click order.
+- **Route B Seamless Interleaving**: All 10 spots in Route B (selected must-visits + top AI recommended spots) are geographically interleaved into ONE single continuous 1-day travel course without backtracking.
+- **Clear Item Badging**: Items in Route B clearly display `📍 選択` (emerald badge for user-selected spots) and `✨ AI推し` (gold badge for AI recommended spots) while following the optimal spatial sequence.
+
+---
+
 ## 🏷️ [v1.2.8] - 2026-08-14 (Compact Mode Zero-Height Budget Badge Release)
 
 ### 🌟 Summary
