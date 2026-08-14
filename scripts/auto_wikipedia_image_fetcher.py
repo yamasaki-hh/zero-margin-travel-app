@@ -14,7 +14,7 @@ import os
 
 ctx = ssl._create_unverified_context()
 HEADERS = {
-    'User-Agent': 'ZeroMarginTravelApp/8.0 (https://github.com/yamasaki-hh/zero-margin-travel-app; contact@yamasaki-travel.org)'
+    'User-Agent': 'ZeroMarginTravelApp/8.0 (https://github.com/zeromargin-travel/zero-margin-travel-app; contact@zeromargin-travel.org)'
 }
 
 def is_valid_thumbnail(url):
