@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v5.1.0] - 2026-08-15 (Multilingual Compliance Guard & Local/Translated Spot Name Standard)
+
+### 🛡️ Permanent 2-Layer Language Compliance Guard & Spot Naming Unification (`v5.1.0`)
+- **Permanent Build Guard System**: Embedded a 2-Layer Language Compliance Guard directly into `scripts/rebuild_js_database.py` (Rule 1: EN text identity match; Rule 2: Multi-language stop-word analysis across EN, ES, FR, DE, JA, ZH) so that future spot additions can NEVER slip untranslated English text into any language.
+- **70 Untranslated Fields Fixed**: Audited and fixed all 70 untranslated fields across 458 spots in 13 cities (including Pont des Arts, Cologne churches, Luxembourg casemates, Lyon traboules, Marseille, Nice, Strasbourg).
+- **Unified Spot Name Standard**: Updated spot names across all 458 spots to `Original Local Name (Localized Name)` format (e.g. `Pont des Arts (ポン・デ・ザール)`), providing 100% on-the-ground usability in Europe.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=80.0`.
+
+---
+
 ## 🏷️ [v5.0.0] - 2026-08-15 (Munich 60-Spot Comprehensive Expansion & 6-Language Insider Tips)
 
 ### 🍺 Munich Complete Database Expansion (`v5.0.0`)

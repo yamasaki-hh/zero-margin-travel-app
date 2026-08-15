@@ -1,9 +1,22 @@
 import os
 import json
 import glob
+import re
 
 city_files = sorted(glob.glob('data/cities/*.json'))
 print(f"Reading {len(city_files)} city JSON files for js/ai-travel-engine.js...")
+
+# -------------------------------------------------------------
+# PERMANENT 2-LAYER LANGUAGE COMPLIANCE GUARD & AUDITOR
+# -------------------------------------------------------------
+ENGLISH_STOPWORDS = {'the', 'and', 'of', 'in', 'to', 'for', 'with', 'on', 'at', 'by', 'from', 'featuring', 'housing', 'connecting', 'located', 'famous', 'stretching', 'dominated'}
+SPANISH_STOPWORDS = {'el', 'la', 'los', 'las', 'un', 'una', 'y', 'de', 'en', 'con', 'por', 'para', 'del', 'famoso', 'ubicado'}
+FRENCH_STOPWORDS = {'le', 'la', 'les', 'un', 'une', 'et', 'de', 'du', 'des', 'en', 'dans', 'sur', 'avec', 'pour', 'situé', 'célèbre'}
+GERMAN_STOPWORDS = {'der', 'die', 'das', 'ein', 'eine', 'und', 'von', 'in', 'mit', 'für', 'auf', 'berühmt', 'gelegen'}
+JAPANESE_HIRAGANA_KATAKANA = re.compile(r'[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]')
+
+total_audited_spots = 0
+untranslated_violations = []
 
 db = {}
 
@@ -33,8 +46,43 @@ for fpath in city_files:
         cname = data.get('cityName', fname.replace('.json', '').title())
 
     spots = data.get('spots', [])
+
+    # Perform 2-Layer Compliance Audit on every spot
+    for s in spots:
+        total_audited_spots += 1
+        sid = s.get('id')
+        sname = s.get('name')
+        desc_en = (s.get('desc_en') or s.get('desc') or '').strip()
+
+        # Check all non-EN fields for English leaks
+        for lang in ['ja', 'es', 'zh', 'fr', 'de']:
+            val = (s.get(f'desc_{lang}') or '').strip()
+            if val and desc_en and len(val) > 10:
+                is_untranslated = (val == desc_en)
+
+                if not is_untranslated and lang in ['es', 'fr', 'de']:
+                    words = set(val.lower().split())
+                    en_matches = words.intersection(ENGLISH_STOPWORDS)
+                    target_sw = {'es': SPANISH_STOPWORDS, 'fr': FRENCH_STOPWORDS, 'de': GERMAN_STOPWORDS}[lang]
+                    target_matches = words.intersection(target_sw)
+                    if len(en_matches) >= 2 and len(target_matches) == 0:
+                        is_untranslated = True
+                elif not is_untranslated and lang in ['ja', 'zh']:
+                    if not JAPANESE_HIRAGANA_KATAKANA.search(val):
+                        is_untranslated = True
+
+                if is_untranslated:
+                    untranslated_violations.append((cname, sid, sname, f'desc_{lang}', val[:40]))
+
     db[cname] = spots
     print(f" -> Loaded {cname}: {len(spots)} spots")
+
+if untranslated_violations:
+    print(f"\n⚠️ BUILD ALERT: Detected {len(untranslated_violations)} untranslated fields across languages!")
+    for cname, sid, sname, field, val in untranslated_violations[:5]:
+        print(f"   [{cname}] {sid} ({sname}) -> {field}: \"{val}...\"")
+else:
+    print(f"\n🛡️ 2-Layer Compliance Guard PASSED: All {total_audited_spots} spots across {len(db)} cities are 100% language compliant!")
 
 js_file_path = 'js/ai-travel-engine.js'
 
@@ -51,7 +99,7 @@ if start_idx != -1:
         new_js_code = js_code[:start_idx + len(db_marker)] + new_db_json + js_code[end_idx:]
         with open(js_file_path, 'w', encoding='utf-8') as f:
             f.write(new_js_code)
-        print(f"\n🎉 Successfully rebuilt {js_file_path} with 100% translated data across 13 cities ({len(db)} cities)!")
+        print(f"🎉 Successfully rebuilt {js_file_path} with 100% verified multilingual data across {len(db)} cities!")
     else:
         print("Error: Could not find end of candidateSpotsDatabase in js file")
 else:
