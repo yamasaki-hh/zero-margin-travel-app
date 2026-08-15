@@ -92,6 +92,17 @@ for fpath in city_files:
         elif category in ["Scenery & Walk"]:
             s['rain'] = False
 
+        # -------------------------------------------------------------
+        # CROSS-CONTAMINATION & LEAK DETECTOR GUARD
+        # -------------------------------------------------------------
+        tip_ja = s.get('tip_ja', '') or s.get('tip', '')
+        for s_other in spots:
+            if s['id'] != s_other['id']:
+                other_pure_name = s_other['name'].split(' (')[0].split('（')[0].strip()
+                if len(other_pure_name) > 6 and other_pure_name in tip_ja and not any(k in s['name'] for k in [other_pure_name, 'Louvre', 'Eiffel', 'Seine']):
+                    if not any(valid_ctx in tip_ja for valid_ctx in ['の景色', 'を望む', 'が見える', '近隣の', '隣接する', '向かい', '内部', '敷地内']):
+                        print(f"⚠️ CROSS-CONTAMINATION GUARD NOTICE: [{s['id']}] {s['name']} mentions {other_pure_name}")
+
         total_spots_modified += 1
 
     data['spots'] = spots

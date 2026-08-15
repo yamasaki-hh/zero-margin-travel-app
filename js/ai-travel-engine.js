@@ -2870,7 +2870,7 @@ const candidateSpotsDatabase = {
       "name_de": "Gärten der Welt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/330px-Erholungspark_Marzahn_2009.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Gardens of the World in City district."
+      "desc_de": "Weitläufiger Landschaftspark in Berlin-Marzahn mit traditionellen Gartenkünsten aus Asien, dem Orient und Europa sowie Seilbahn."
     },
     {
       "id": "b_50",
@@ -11510,7 +11510,7 @@ const candidateSpotsDatabase = {
       "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg/330px-Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Museum of Arts and Crafts Hamburg in City district."
+      "desc_de": "Renommiertes Museum für angewandte Kunst, Design, Fotografie und Mode nahe dem Hamburger Hauptbahnhof."
     },
     {
       "id": "h_14",
@@ -12310,7 +12310,7 @@ const candidateSpotsDatabase = {
       "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Dialog in the Dark in City district."
+      "desc_de": "Einzigartige Erlebnisausstellung in der Speicherstadt, bei der blinde Guides Besucher durch völlig abgedunkelte Räume führen."
     },
     {
       "id": "h_34",

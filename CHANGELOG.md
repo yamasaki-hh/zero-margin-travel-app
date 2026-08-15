@@ -2,6 +2,18 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v23.0.0] - 2026-08-15 (Fundamental Disambiguation Architecture & ID-Keyed Guard System)
+
+### 🛡️ Systemic Fundamental Architecture Upgrade (`v23.0.0`)
+- **City-Qualified Disambiguation (`scripts/auto_wikipedia_image_fetcher.py` v7.0.0)**: Upgraded Wikipedia resolution engine to query city-qualified titles first (e.g. `Sachsenhausen (Frankfurt am Main)`), preventing homonym collisions.
+- **Sensitive Keyword Blacklist Filter**: Implemented an automated rejection filter for high-risk terms (`konzentrationslager`, `concentration_camp`, `kz_`, `cemetery`) when resolving non-memorial venues.
+- **ID-Bound Keying Principle**: Strictly banned numeric array index assignments (`spots[i]`) across all scripts, enforcing keying exclusively by explicit `spot['id']`.
+- **Automated Cross-Contamination Guard (`scripts/audit_and_fix_translations.py`)**: Added automated context leak detection to the 3-Layer Compliance Guard to fail builds if spot A mentions spot B.
+- **Master Rulebook Upgrade (`v5.0.0`)**: Promoted `docs/SPOT_DATABASE_RULES.md` and `.agents/rules/spot_database_rules.md` to Master Rulebook `v5.0.0`.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=99.0`.
+
+---
+
 ## 🏷️ [v22.0.0] - 2026-08-15 (Critical Fact-Check Refinement & Image Misassignment Corrections)
 
 ### 🛡️ Critical Historical & Image Misassignment Corrections (`v22.0.0`)
