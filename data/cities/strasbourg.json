@@ -159,12 +159,12 @@
       "desc_zh": "宏伟的 18 世纪巴洛克风格王子主教宫殿，现设有斯特拉斯堡的三座顶级博物馆。",
       "desc_fr": "Magnifique palais baroque des princes-évêques du XVIIIe siècle, abritant aujourd'hui trois des plus grands musées de Strasbourg.",
       "desc_de": "Prächtiger Barockpalast der Fürstbischöfe aus dem 18. Jahrhundert, der heute drei der bedeutendsten Museen Straßburgs beherbergt.",
-      "tip_en": "Walk past the 1572 timber-framed tanners' houses during magic hour when canal reflections and floral window boxes light up.",
-      "tip_ja": "1572年建築の皮なめし職人の木造家屋（Maison des Tanneurs）前。夕暮れ時に運河の水面と窓辺の赤いゼラニウムがライトアップされる景色は必見。",
-      "tip_es": "Contempla las casas de entramado de madera de 1572 al atardecer, cuando las flores de las ventanas se reflejan en el agua.",
-      "tip_zh": "漫步在1572年建成的制皮匠木构木屋旁。黄昏时刻运河水倒映着窗前鲜艳的天竺葵花海，梦幻唯美。",
-      "tip_fr": "Admirez les maisons à colombages du XVIe siècle au bord de l'eau aux dernières lumières du jour.",
-      "tip_de": "Die malerischen Fachwerkhäuser von 1572spiegeln sich am späten Nachmittag wunderschön im Wasser der Ill.",
+      "tip_en": "🎟️ A combined ticket gives access to all 3 museums inside (Archaeology, Decorative Arts, Fine Arts). The best exterior photos are taken from a Batorama boat tour on the Ill River.",
+      "tip_ja": "🎟️ パレ・ロアン内部の考古学・応用美術・絵画の3美術館セット券がお得！イル川を運河船（Batorama）で巡る際、水上からのバロック様式ファサード撮影が最高のフォトロケーションです。",
+      "tip_es": "🎟️ La entrada combinada incluye el acceso a los 3 museos interiores (Arqueología, Artes Decorativas y Bellas Artes). La mejor foto exterior se toma desde el barco Batorama.",
+      "tip_zh": "🎟️ 通票可同时参观宫内三大博物馆（考古、装饰艺术、美术）。拍摄水上巴洛克立面的最佳视角在 Batorama 游船上。",
+      "tip_fr": "🎟️ Le billet combiné donne accès aux 3 musées du palais (Archéologie, Arts décoratifs, Beaux-Arts). La meilleure vue s'admire depuis les bateaux Batorama.",
+      "tip_de": "🎟️ Das Kombiticket gilt für alle 3 Museen im Schloss (Archäologie, Kunstgewerbe, Bildende Kunst). Der beste Blick bietet sich von den Batorama-Booten.",
       "name_en": "Palais Rohan",
       "name_ja": "Palais Rohan（パレ ロアン）",
       "name_es": "Palais Rohan (Palacio Rohan)",
@@ -180,7 +180,7 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Walk past the 1572 timber-framed tanners' houses during magic hour when canal reflections and floral window boxes light up."
+      "tip": "🎟️ A combined ticket gives access to all 3 museums inside (Archaeology, Decorative Arts, Fine Arts). The best exterior photos are taken from a Batorama boat tour on the Ill River."
     },
     {
       "id": "st_5",

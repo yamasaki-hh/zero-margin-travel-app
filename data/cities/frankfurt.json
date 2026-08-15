@@ -38,7 +38,8 @@
       "name_fr": "Römerberg & Rathaus Römer (Römerberg & City Hall)",
       "name_de": "Römerberg & Rathaus Römer",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Römerberg & City Hall in City district."
     },
     {
       "id": "f_2",
@@ -77,7 +78,8 @@
       "name_fr": "Kaiserdom St. Bartholomäus (Frankfurt Cathedral)",
       "name_de": "Kaiserdom St. Bartholomäus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg/330px-Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt Cathedral in City district."
     },
     {
       "id": "f_3",
@@ -116,7 +118,8 @@
       "name_fr": "Goethe-Haus (Goethe House & Museum)",
       "name_de": "Goethe-Haus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/330px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Goethe House & Museum in City district."
     },
     {
       "id": "f_4",
@@ -155,7 +158,8 @@
       "name_fr": "Städel Museum",
       "name_de": "Städel Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg/330px-St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Städel Museum in City district."
     },
     {
       "id": "f_5",
@@ -194,7 +198,8 @@
       "name_fr": "Main Tower (Main Tower Observatory)",
       "name_de": "Main Tower",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Maintower_Frankfurt.jpg/330px-Maintower_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Main Tower Observatory in City district."
     },
     {
       "id": "f_6",
@@ -233,7 +238,8 @@
       "name_fr": "Eiserner Steg (Iron Footbridge)",
       "name_de": "Eiserner Steg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg/330px-Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Iron Footbridge in City district."
     },
     {
       "id": "f_7",
@@ -272,7 +278,8 @@
       "name_fr": "Paulskirche (St. Paul's Church)",
       "name_de": "Paulskirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg/330px-Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "St. Paul's Church in City district."
     },
     {
       "id": "f_8",
@@ -311,7 +318,8 @@
       "name_fr": "Alte Oper (Old Opera House)",
       "name_de": "Alte Oper",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/330px-Alte_Oper_Frankfurt_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Old Opera House in City district."
     },
     {
       "id": "f_9",
@@ -350,7 +358,8 @@
       "name_fr": "Palmengarten (Palmengarten Botanical Garden)",
       "name_de": "Palmengarten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NOI_Techpark_S%C3%BCdtirol_3.jpg/330px-NOI_Techpark_S%C3%BCdtirol_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Palmengarten Botanical Garden in City district."
     },
     {
       "id": "f_10",
@@ -389,7 +398,8 @@
       "name_fr": "Historisches Museum Frankfurt (Frankfurt History Museum)",
       "name_de": "Historisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg/330px-Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt History Museum in City district."
     },
     {
       "id": "f_11",
@@ -428,7 +438,8 @@
       "name_fr": "Liebieghaus Skulpturensammlung (Liebieghaus Sculpture Museum)",
       "name_de": "Liebieghaus Skulpturensammlung",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Liebieghaus.jpg/330px-Liebieghaus.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Liebieghaus Sculpture Museum in City district."
     },
     {
       "id": "f_12",
@@ -467,7 +478,8 @@
       "name_fr": "Museum Angewandte Kunst (Museum of Applied Arts)",
       "name_de": "Museum Angewandte Kunst",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg/330px-Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum of Applied Arts in City district."
     },
     {
       "id": "f_13",
@@ -506,7 +518,8 @@
       "name_fr": "Deutsches Filminstitut & Filmmuseum (DFF - German Film Institute & Film Museum)",
       "name_de": "Deutsches Filminstitut & Filmmuseum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "DFF - German Film Institute & Film Museum in City district."
     },
     {
       "id": "f_14",
@@ -545,7 +558,8 @@
       "name_fr": "Museum für Moderne Kunst (Museum of Modern Art)",
       "name_de": "Museum für Moderne Kunst (MMK)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/330px-Museum_fuer_Moderne_Kunst_Portalseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum of Modern Art in City district."
     },
     {
       "id": "f_15",
@@ -584,7 +598,8 @@
       "name_fr": "Schirn Kunsthalle Frankfurt",
       "name_de": "Schirn Kunsthalle Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Schirn-ffm001.jpg/330px-Schirn-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Schirn Kunsthalle Frankfurt in City district."
     },
     {
       "id": "f_16",
@@ -623,7 +638,8 @@
       "name_fr": "Museumsufer (Museumsufer River Bank)",
       "name_de": "Museumsufer",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Museumsufer-teil1-ffm001.jpg/330px-Museumsufer-teil1-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museumsufer River Bank in City district."
     },
     {
       "id": "f_17",
@@ -662,7 +678,8 @@
       "name_fr": "Kleinmarkthalle (Kleinmarkthalle Market)",
       "name_de": "Kleinmarkthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg/330px-Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Kleinmarkthalle Market in City district."
     },
     {
       "id": "f_18",
@@ -701,7 +718,8 @@
       "name_fr": "Neue Altstadt (New Old Town)",
       "name_de": "Neue Altstadt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "New Old Town in City district."
     },
     {
       "id": "f_19",
@@ -740,7 +758,8 @@
       "name_fr": "Sachsenhausen (Sachsenhausen Cider District)",
       "name_de": "Sachsenhausen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg/330px-Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Sachsenhausen Cider District in City district."
     },
     {
       "id": "f_20",
@@ -779,7 +798,8 @@
       "name_fr": "Zur Sonne / Zum Gemalten Haus / Atschel (Historic Apple Wine Taverns)",
       "name_de": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Historic Apple Wine Taverns in City district."
     },
     {
       "id": "f_21",
@@ -818,7 +838,8 @@
       "name_fr": "Zeil & MyZeil (Zeil Shopping Street & MyZeil)",
       "name_de": "Zeil & MyZeil",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Zeil Shopping Street & MyZeil in City district."
     },
     {
       "id": "f_22",
@@ -857,7 +878,8 @@
       "name_fr": "Goethestraße (Goethestraße Luxury Street)",
       "name_de": "Goethestraße",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goethestrasse_Rothofstrasse_Ffm.jpg/330px-Goethestrasse_Rothofstrasse_Ffm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Goethestraße Luxury Street in City district."
     },
     {
       "id": "f_23",
@@ -896,7 +918,8 @@
       "name_fr": "Große Bockenheimer Straße (Fressgass Culinary Street)",
       "name_de": "Große Bockenheimer Straße (Fressgass)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Fressgass Culinary Street in City district."
     },
     {
       "id": "f_24",
@@ -935,7 +958,8 @@
       "name_fr": "Hauptwache & Katharinenkirche (Hauptwache Square & St. Catherine's)",
       "name_de": "Hauptwache & Katharinenkirche",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hauptwache Square & St. Catherine's in City district."
     },
     {
       "id": "f_25",
@@ -974,7 +998,8 @@
       "name_fr": "Mainufer-Promenade (Main River Promenade)",
       "name_de": "Mainufer-Promenade",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Main River Promenade in City district."
     },
     {
       "id": "f_26",
@@ -1013,7 +1038,8 @@
       "name_fr": "Zoo Frankfurt (Frankfurt Zoo)",
       "name_de": "Zoo Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Zoo-Frankfurt-Gesellschaftshaus-a.jpg/330px-Zoo-Frankfurt-Gesellschaftshaus-a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt Zoo in City district."
     },
     {
       "id": "f_27",
@@ -1052,7 +1078,8 @@
       "name_fr": "Senckenberg Naturmuseum (Senckenberg Natural History Museum)",
       "name_de": "Senckenberg Naturmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg/330px-Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Senckenberg Natural History Museum in City district."
     },
     {
       "id": "f_28",
@@ -1091,7 +1118,8 @@
       "name_fr": "Frankfurter Wertpapierbörse (Frankfurt Stock Exchange)",
       "name_de": "Frankfurter Wertpapierbörse (Börse)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg/330px-Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt Stock Exchange in City district."
     },
     {
       "id": "f_29",
@@ -1130,7 +1158,8 @@
       "name_fr": "Euro-Skulptur (Euro Sculpture)",
       "name_de": "Euro-Skulptur (Willy-Brandt-Platz)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg/330px-Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Euro Sculpture in City district."
     },
     {
       "id": "f_30",
@@ -1169,7 +1198,8 @@
       "name_fr": "Europaviertel & Skyline Plaza",
       "name_de": "Europaviertel & Skyline Plaza",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Europaviertel & Skyline Plaza in City district."
     },
     {
       "id": "f_31",
@@ -1208,7 +1238,8 @@
       "name_fr": "Grüneburgpark (Grüneburgpark & Botanical Garden)",
       "name_de": "Grüneburgpark",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/FFM_Grueneburg_1864_Delkeskamp.jpg/330px-FFM_Grueneburg_1864_Delkeskamp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Grüneburgpark & Botanical Garden in City district."
     },
     {
       "id": "f_32",
@@ -1247,7 +1278,8 @@
       "name_fr": "Hafenpark & Ostpark",
       "name_de": "Hafenpark & Ostpark",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hafenpark & Ostpark in City district."
     },
     {
       "id": "f_33",
@@ -1286,7 +1318,8 @@
       "name_fr": "Europäische Zentralbank (European Central Bank Headquarters)",
       "name_de": "Europäische Zentralbank (ECB / EZB)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/330px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "European Central Bank Headquarters in City district."
     },
     {
       "id": "f_34",
@@ -1325,7 +1358,8 @@
       "name_fr": "Jüdisches Museum Frankfurt (Jewish Museum Frankfurt)",
       "name_de": "Jüdisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Jewish Museum Frankfurt in City district."
     },
     {
       "id": "f_35",
@@ -1364,7 +1398,8 @@
       "name_fr": "Museum Judengasse",
       "name_de": "Museum Judengasse",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum Judengasse in City district."
     },
     {
       "id": "f_36",
@@ -1403,7 +1438,8 @@
       "name_fr": "Eschenheimer Turm (Eschenheim Tower)",
       "name_de": "Eschenheimer Turm",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Frankfurt_Nextower.20130514.jpg/330px-Frankfurt_Nextower.20130514.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Eschenheim Tower in City district."
     },
     {
       "id": "f_37",
@@ -1442,7 +1478,8 @@
       "name_fr": "Café Hauptwache",
       "name_de": "Café Hauptwache",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Café Hauptwache in City district."
     },
     {
       "id": "f_38",
@@ -1481,7 +1518,8 @@
       "name_fr": "Wacker's Kaffee",
       "name_de": "Wacker's Kaffee",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Wacker's Kaffee in City district."
     },
     {
       "id": "f_39",
@@ -1520,7 +1558,8 @@
       "name_fr": "Lohrberg (Lohrberg Park)",
       "name_de": "Lohrberg (Lohrpark)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Lohrberg Park in City district."
     },
     {
       "id": "f_40",
@@ -1559,7 +1598,8 @@
       "name_fr": "Nizza Gärten (Nizza Gardens)",
       "name_de": "Nizza Gärten",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Nizza Gardens in City district."
     },
     {
       "id": "f_41",
@@ -1598,7 +1638,8 @@
       "name_fr": "Rebstockbad (Rebstockbad Water Park)",
       "name_de": "Rebstockbad",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rebstockbad_Innenansicht.jpg/330px-Rebstockbad_Innenansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Rebstockbad Water Park in City district."
     },
     {
       "id": "f_42",
@@ -1637,7 +1678,8 @@
       "name_fr": "Experiminta ScienceCenter",
       "name_de": "Experiminta ScienceCenter",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Experiminta ScienceCenter in City district."
     },
     {
       "id": "f_43",
@@ -1676,7 +1718,8 @@
       "name_fr": "Bibelhaus Erlebnis Museum (Bibelhaus Experience Museum)",
       "name_de": "Bibelhaus Erlebnis Museum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bibelhaus Experience Museum in City district."
     },
     {
       "id": "f_44",
@@ -1715,7 +1758,8 @@
       "name_fr": "DialogMuseum",
       "name_de": "DialogMuseum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "DialogMuseum in City district."
     },
     {
       "id": "f_45",
@@ -1754,7 +1798,8 @@
       "name_fr": "Historische Straßenbahn Frankfurt (Ebbelwei-Express Tram)",
       "name_de": "Historische Straßenbahn Frankfurt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Ebbelwei-Express Tram in City district."
     },
     {
       "id": "f_46",
@@ -1793,7 +1838,8 @@
       "name_fr": "Rüdesheim am Rhein & Drosselgasse (Rüdesheim Rhine Valley)",
       "name_de": "Rüdesheim am Rhein & Drosselgasse",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Rüdesheim Rhine Valley in Suburban district."
     },
     {
       "id": "f_47",
@@ -1832,7 +1878,8 @@
       "name_fr": "Burg Eltz (Eltz Castle)",
       "name_de": "Burg Eltz",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg/330px-Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Eltz Castle in Suburban district."
     },
     {
       "id": "f_48",
@@ -1871,7 +1918,8 @@
       "name_fr": "Mainz: Dom St. Martin & Gutenberg-Museum (Mainz Cathedral & Museum)",
       "name_de": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Mainz Cathedral & Museum in Suburban district."
     },
     {
       "id": "f_49",
@@ -1910,7 +1958,8 @@
       "name_fr": "Wiesbaden: Kurhaus & Nerobergbahn (Wiesbaden Kurhaus & Nerobergbahn)",
       "name_de": "Wiesbaden: Kurhaus & Nerobergbahn",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Wiesbaden Kurhaus & Nerobergbahn in Suburban district."
     },
     {
       "id": "f_50",
@@ -1949,7 +1998,8 @@
       "name_fr": "Kaiserpfalz Ingelheim (Ingelheim Imperial Palace)",
       "name_de": "Kaiserpfalz Ingelheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/330px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Ingelheim Imperial Palace in Suburban district."
     },
     {
       "id": "f_51",
@@ -1988,7 +2038,8 @@
       "name_fr": "Burg Kronberg & Kronberg im Taunus (Kronberg Castle & Old Town)",
       "name_de": "Burg Kronberg & Kronberg im Taunus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Kronberg Castle & Old Town in Suburban district."
     },
     {
       "id": "f_52",
@@ -2027,7 +2078,8 @@
       "name_fr": "Großer Feldberg (Großer Feldberg Summit)",
       "name_de": "Großer Feldberg (Taunus)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg/330px-Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Großer Feldberg Summit in Suburban district."
     },
     {
       "id": "f_53",
@@ -2066,7 +2118,8 @@
       "name_fr": "Freilichtmuseum Hessenpark (Hessenpark Open-Air Museum)",
       "name_de": "Freilichtmuseum Hessenpark",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hessenpark%2C_Marktplatz.jpg/330px-Hessenpark%2C_Marktplatz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hessenpark Open-Air Museum in Suburban district."
     },
     {
       "id": "f_54",
@@ -2105,7 +2158,8 @@
       "name_fr": "Römerkastell Saalburg (Saalburg Roman Fort)",
       "name_de": "Römerkastell Saalburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg/330px-The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Saalburg Roman Fort in Suburban district."
     },
     {
       "id": "f_55",
@@ -2144,7 +2198,8 @@
       "name_fr": "Bad Homburg: Kurpark & Schloss (Bad Homburg Kurpark & Palace)",
       "name_de": "Bad Homburg: Kurpark & Schloss",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bad Homburg Kurpark & Palace in Suburban district."
     },
     {
       "id": "f_56",
@@ -2183,7 +2238,8 @@
       "name_fr": "Taunus Wunderland (Taunus Wunderland Amusement Park)",
       "name_de": "Taunus Wunderland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Eingang_Taunus_Wunderland_2019.jpg/330px-Eingang_Taunus_Wunderland_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Taunus Wunderland Amusement Park in Suburban district."
     },
     {
       "id": "f_57",
@@ -2222,7 +2278,8 @@
       "name_fr": "Opel-Zoo (Opel-Zoo Kronberg)",
       "name_de": "Opel-Zoo (Kronberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg/330px-Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Opel-Zoo Kronberg in Suburban district."
     },
     {
       "id": "f_58",
@@ -2261,7 +2318,8 @@
       "name_fr": "Kloster Eberbach (Eberbach Abbey)",
       "name_de": "Kloster Eberbach",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/330px-Kloster_Eberbach_fg01.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Eberbach Abbey in Suburban district."
     },
     {
       "id": "f_59",
@@ -2300,7 +2358,8 @@
       "name_fr": "Darmstadt: Mathildenhöhe (Darmstadt Mathildenhöhe)",
       "name_de": "Darmstadt: Mathildenhöhe (UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Darmstadt Mathildenhöhe in Suburban district."
     },
     {
       "id": "f_60",
@@ -2339,7 +2398,8 @@
       "name_fr": "Burg Frankenstein (Frankenstein Castle)",
       "name_de": "Burg Frankenstein",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/330px-InnerCastle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankenstein Castle in Suburban district."
     },
     {
       "id": "f_61",
@@ -2378,7 +2438,8 @@
       "name_fr": "Wertheim Village (Wertheim Village Outlet)",
       "name_de": "Wertheim Village",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg/330px-Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Wertheim Village Outlet in Suburban district."
     }
   ],
   "spotCount": 61

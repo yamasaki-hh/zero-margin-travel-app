@@ -38,7 +38,8 @@
       "name_fr": "Miniatur Wunderland",
       "name_de": "Miniatur Wunderland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Miniatur Wunderland in City district."
     },
     {
       "id": "h_2",
@@ -77,7 +78,8 @@
       "name_fr": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
       "name_de": "Elbphilharmonie Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elbphilharmonie%2C_Hamburg.jpg/330px-Elbphilharmonie%2C_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Elbphilharmonie Concert Hall in City district."
     },
     {
       "id": "h_3",
@@ -116,7 +118,8 @@
       "name_fr": "Speicherstadt (Speicherstadt Warehouse District)",
       "name_de": "Speicherstadt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Wasserschloss_at_sunset.jpg/330px-The_Wasserschloss_at_sunset.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Speicherstadt Warehouse District in City district."
     },
     {
       "id": "h_4",
@@ -155,7 +158,8 @@
       "name_fr": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
       "name_de": "Kontorhausviertel & Chilehaus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Chilehaus & Kontorhaus District in City district."
     },
     {
       "id": "h_5",
@@ -194,7 +198,8 @@
       "name_fr": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
       "name_de": "Hamburger Rathaus & Rathausmarkt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hamburg City Hall in City district."
     },
     {
       "id": "h_6",
@@ -233,7 +238,8 @@
       "name_fr": "Hauptkirche St. Michaelis (St. Michael's Church)",
       "name_de": "Hauptkirche St. Michaelis (Michel)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "St. Michael's Church in City district."
     },
     {
       "id": "h_7",
@@ -272,7 +278,8 @@
       "name_fr": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
       "name_de": "Hamburger Hafen & Landungsbrücken",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hamburg Harbor & St. Pauli Piers in City district."
     },
     {
       "id": "h_8",
@@ -311,7 +318,8 @@
       "name_fr": "Alter Elbtunnel (Old Elbe Tunnel)",
       "name_de": "Alter Elbtunnel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg/330px-Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Old Elbe Tunnel in City district."
     },
     {
       "id": "h_9",
@@ -350,7 +358,8 @@
       "name_fr": "HafenCity (HafenCity District)",
       "name_de": "HafenCity",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HafenCity_in_HH.svg/langde-330px-HafenCity_in_HH.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "HafenCity District in City district."
     },
     {
       "id": "h_10",
@@ -389,7 +398,8 @@
       "name_fr": "Binnenalster & Außenalster (Alster Lakes)",
       "name_de": "Binnenalster & Außenalster",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Alster Lakes in City district."
     },
     {
       "id": "h_11",
@@ -428,7 +438,8 @@
       "name_fr": "Hamburger Kunsthalle (Hamburg Art Museum)",
       "name_de": "Hamburger Kunsthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/330px-Hamburger_Kunsthalle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hamburg Art Museum in City district."
     },
     {
       "id": "h_12",
@@ -467,7 +478,8 @@
       "name_fr": "Internationales Maritimes Museum Hamburg (International Maritime Museum)",
       "name_de": "Internationales Maritimes Museum Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hamburg-090613-0286-DSC_8383.jpg/330px-Hamburg-090613-0286-DSC_8383.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "International Maritime Museum in City district."
     },
     {
       "id": "h_13",
@@ -506,7 +518,8 @@
       "name_fr": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
       "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg/330px-Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum of Arts and Crafts Hamburg in City district."
     },
     {
       "id": "h_14",
@@ -545,7 +558,8 @@
       "name_fr": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
       "name_de": "Deichtorhallen Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_der_Deichtorhallen.png/330px-Logo_der_Deichtorhallen.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Deichtorhallen Contemporary Art in City district."
     },
     {
       "id": "h_15",
@@ -584,7 +598,8 @@
       "name_fr": "Cap San Diego (Cap San Diego Museum Ship)",
       "name_de": "Cap San Diego",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cap_San_Diego_07.jpg/330px-Cap_San_Diego_07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Cap San Diego Museum Ship in City district."
     },
     {
       "id": "h_16",
@@ -623,7 +638,8 @@
       "name_fr": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
       "name_de": "Rickmer Rickmers",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg/330px-Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Rickmer Rickmers Sailing Ship in City district."
     },
     {
       "id": "h_17",
@@ -662,7 +678,8 @@
       "name_fr": "Submarine Museum U-434",
       "name_de": "Submarine Museum U-434",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Submarine Museum U-434 in City district."
     },
     {
       "id": "h_18",
@@ -701,7 +718,8 @@
       "name_fr": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
       "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "St. Nikolai Memorial Spire in City district."
     },
     {
       "id": "h_19",
@@ -740,7 +758,8 @@
       "name_fr": "Planten un Blomen (Planten un Blomen Park)",
       "name_de": "Planten un Blomen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hh-dammtordamm_fig.jpg/330px-Hh-dammtordamm_fig.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Planten un Blomen Park in City district."
     },
     {
       "id": "h_20",
@@ -779,7 +798,8 @@
       "name_fr": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
       "name_de": "Tierpark Hagenbeck & Tropen-Aquarium",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Tierpark Hagenbeck in City district."
     },
     {
       "id": "h_21",
@@ -818,7 +838,8 @@
       "name_fr": "Fischmarkt (Altona Fish Market)",
       "name_de": "Fischmarkt (Altona)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Altona Fish Market in City district."
     },
     {
       "id": "h_22",
@@ -857,7 +878,8 @@
       "name_fr": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
       "name_de": "Reeperbahn & St. Pauli",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Reeperbahn Nightlife District in City district."
     },
     {
       "id": "h_23",
@@ -896,7 +918,8 @@
       "name_fr": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
       "name_de": "Beatles-Platz & Indra Club / Kaiserkeller",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Beatles-Platz & Indra / Kaiserkeller in City district."
     },
     {
       "id": "h_24",
@@ -935,7 +958,8 @@
       "name_fr": "Jungfernstieg (Jungfernstieg Boulevard)",
       "name_de": "Jungfernstieg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jungfernstieg.wmt.jpg/330px-Jungfernstieg.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Jungfernstieg Boulevard in City district."
     },
     {
       "id": "h_25",
@@ -974,7 +998,8 @@
       "name_fr": "Alsterarkaden (Alster Arcades)",
       "name_de": "Alsterarkaden",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg/330px-The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Alster Arcades in City district."
     },
     {
       "id": "h_26",
@@ -1013,7 +1038,8 @@
       "name_fr": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
       "name_de": "Mönckebergstraße & Spitalerstraße",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Mönckebergstraße Shopping Street in City district."
     },
     {
       "id": "h_27",
@@ -1052,7 +1078,8 @@
       "name_fr": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
       "name_de": "Neuer Wall & Große Bleichen",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Neuer Wall Luxury Shopping in City district."
     },
     {
       "id": "h_28",
@@ -1091,7 +1118,8 @@
       "name_fr": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
       "name_de": "Hanse-Viertel & Europa Passage",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Europa Passage & Hanse-Viertel in City district."
     },
     {
       "id": "h_29",
@@ -1130,7 +1158,8 @@
       "name_fr": "Sternschanze (Sternschanze Quarter)",
       "name_de": "Sternschanze (Schanzenviertel)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/330px-Hh-schanze-susannen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Sternschanze Quarter in City district."
     },
     {
       "id": "h_30",
@@ -1169,7 +1198,8 @@
       "name_fr": "Karolinenviertel (Karolinenviertel District)",
       "name_de": "Karolinenviertel (Karoviertel)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Karolinenviertel District in City district."
     },
     {
       "id": "h_31",
@@ -1208,7 +1238,8 @@
       "name_fr": "Museum der Natur - Hamburg (Museum of Nature - Zoology)",
       "name_de": "Museum der Natur - Hamburg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Museum of Nature - Zoology in City district."
     },
     {
       "id": "h_32",
@@ -1247,7 +1278,8 @@
       "name_fr": "Hamburg Dungeon",
       "name_de": "Hamburg Dungeon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/330px-HamburgDungeon.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hamburg Dungeon in City district."
     },
     {
       "id": "h_33",
@@ -1286,7 +1318,8 @@
       "name_fr": "Dialog im Dunkeln (Dialog in the Dark)",
       "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Dialog in the Dark in City district."
     },
     {
       "id": "h_34",
@@ -1325,7 +1358,8 @@
       "name_fr": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
       "name_de": "Chocoversum by Hachez",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Chocoversum Chocolate Museum in City district."
     },
     {
       "id": "h_35",
@@ -1364,7 +1398,8 @@
       "name_fr": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
       "name_de": "Spicy's Gewürzmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gew%C3%BCrzmuseum_Hamburg_01.jpg/330px-Gew%C3%BCrzmuseum_Hamburg_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Spicy's Spice Museum in City district."
     },
     {
       "id": "h_36",
@@ -1403,7 +1438,8 @@
       "name_fr": "Zollmuseum (German Customs Museum)",
       "name_de": "Zollmuseum (Deutsches Zollmuseum)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "German Customs Museum in City district."
     },
     {
       "id": "h_37",
@@ -1442,7 +1478,8 @@
       "name_fr": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
       "name_de": "Krameramtsstuben",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/330px-Krameramtsstuben.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Krameramtsstuben Guild Houses in City district."
     },
     {
       "id": "h_38",
@@ -1481,7 +1518,8 @@
       "name_fr": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
       "name_de": "Fischbrötchen-Buden an den Landungsbrücken",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Landungsbrücken Fish Roll Stalls in City district."
     },
     {
       "id": "h_39",
@@ -1520,7 +1558,8 @@
       "name_fr": "Old Commercial Room (Old Commercial Room Restaurant)",
       "name_de": "Old Commercial Room",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_Commercial_Room_Hamburg.jpg/330px-Old_Commercial_Room_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Old Commercial Room Restaurant in City district."
     },
     {
       "id": "h_40",
@@ -1559,7 +1598,8 @@
       "name_fr": "Café Paris (Café Paris Hamburg)",
       "name_de": "Café Paris (Hamburg)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Café Paris Hamburg in City district."
     },
     {
       "id": "h_41",
@@ -1598,7 +1638,8 @@
       "name_fr": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
       "name_de": "Rive Fisch & Fischereihafen Restaurant",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Fischereihafen Restaurant in City district."
     },
     {
       "id": "h_42",
@@ -1637,7 +1678,8 @@
       "name_fr": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
       "name_de": "Gröninger Privatbrauerei",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Gröninger Private Brewery in City district."
     },
     {
       "id": "h_43",
@@ -1676,7 +1718,8 @@
       "name_fr": "Elbstrand (Elbstrand Beach Övelgönne)",
       "name_de": "Elbstrand (Övelgönne)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Elbstrand Beach Övelgönne in City district."
     },
     {
       "id": "h_44",
@@ -1715,7 +1758,8 @@
       "name_fr": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
       "name_de": "Museumshafen Övelgönne",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbe.Anleger_Neum%C3%BChlen.wmt.jpg/330px-Elbe.Anleger_Neum%C3%BChlen.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Övelgönne Museum Harbor in City district."
     },
     {
       "id": "h_45",
@@ -1754,7 +1798,8 @@
       "name_fr": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
       "name_de": "Stadtpark Hamburg & Planetarium Hamburg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Stadtpark & Planetarium in City district."
     },
     {
       "id": "h_46",
@@ -1793,7 +1838,8 @@
       "name_fr": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
       "name_de": "Jenischpark & Jenisch Haus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Jenisch Park & House in City district."
     },
     {
       "id": "h_47",
@@ -1832,7 +1878,8 @@
       "name_fr": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
       "name_de": "Energiebunker Wilhelmsburg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Wilhelmsburg Energy Bunker in City district."
     },
     {
       "id": "h_48",
@@ -1871,7 +1918,8 @@
       "name_fr": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
       "name_de": "HADAG-Hafenfähren (Linie 62)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "HADAG Harbor Ferry Line 62 in City district."
     },
     {
       "id": "h_49",
@@ -1910,7 +1958,8 @@
       "name_fr": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
       "name_de": "Bäderland Holthusenbad",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Holthusenbad Historic Spa in City district."
     },
     {
       "id": "h_50",
@@ -1949,7 +1998,8 @@
       "name_fr": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
       "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Lübeck Old Town & Holsten Gate in Suburban district."
     },
     {
       "id": "h_51",
@@ -1988,7 +2038,8 @@
       "name_fr": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
       "name_de": "Lüneburg: Historische Altstadt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Lüneburg Old Town & Salt Museum in Suburban district."
     },
     {
       "id": "h_52",
@@ -2027,7 +2078,8 @@
       "name_fr": "Schloss Schwerin (Schwerin Castle)",
       "name_de": "Schloss Schwerin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/330px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Schwerin Castle in Suburban district."
     },
     {
       "id": "h_53",
@@ -2066,7 +2118,8 @@
       "name_fr": "Stade & Altes Land (Stade & Altes Land Orchards)",
       "name_de": "Stade & Altes Land",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Stade & Altes Land Orchards in Suburban district."
     },
     {
       "id": "h_54",
@@ -2105,7 +2158,8 @@
       "name_fr": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
       "name_de": "Cuxhaven & Wattenmeer (UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Cuxhaven & Wadden Sea in Suburban district."
     },
     {
       "id": "h_55",
@@ -2144,7 +2198,8 @@
       "name_fr": "Helgoland (Heligoland Island)",
       "name_de": "Helgoland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DEU_Helgoland_COA.svg/langde-330px-DEU_Helgoland_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Heligoland Island in Suburban district."
     },
     {
       "id": "h_56",
@@ -2183,7 +2238,8 @@
       "name_fr": "Bremerhaven: Auswandererhaus & Klimahaus (Bremerhaven Emigration & Climate House)",
       "name_de": "Bremerhaven: Auswandererhaus & Klimahaus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bremerhaven Emigration & Climate House in Suburban district."
     },
     {
       "id": "h_57",
@@ -2222,7 +2278,8 @@
       "name_fr": "KZ-Gedenkstätte Neuengamme (Neuengamme Concentration Camp Memorial)",
       "name_de": "KZ-Gedenkstätte Neuengamme",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gestaltung_des_Haeftlingslagers.jpg/330px-Gestaltung_des_Haeftlingslagers.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Neuengamme Concentration Camp Memorial in Suburban district."
     },
     {
       "id": "h_58",
@@ -2261,7 +2318,8 @@
       "name_fr": "Schloss Ahrensburg (Ahrensburg Palace)",
       "name_de": "Schloss Ahrensburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg-msu-1507-.jpg/330px-Schloss_Ahrensburg-msu-1507-.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Ahrensburg Palace in Suburban district."
     },
     {
       "id": "h_59",
@@ -2300,7 +2358,8 @@
       "name_fr": "Wildpark Schwarze Berge (Black Mountains Wildlife Park)",
       "name_de": "Wildpark Schwarze Berge",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eingang_Wildpark_Schwarze_Berge.jpg/330px-Eingang_Wildpark_Schwarze_Berge.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Black Mountains Wildlife Park in Suburban district."
     },
     {
       "id": "h_60",
@@ -2339,7 +2398,8 @@
       "name_fr": "Heide Park Resort",
       "name_de": "Heide Park Resort",
       "image": "https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/Heide-Park%28fern%29.tif/lossy-page1-330px-Heide-Park%28fern%29.tif.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Heide Park Resort in Suburban district."
     },
     {
       "id": "h_61",
@@ -2378,7 +2438,8 @@
       "name_fr": "Designer Outlet Neumünster / Soltau (Neumünster Designer Outlet)",
       "name_de": "Designer Outlet Neumünster / Soltau",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Neumünster Designer Outlet in Suburban district."
     }
   ],
   "spotCount": 61

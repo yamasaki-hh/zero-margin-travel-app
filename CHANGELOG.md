@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v20.0.0] - 2026-08-15 (System-Wide Deep Text & Translation Quality Audit)
+
+### 🔍 100% Comprehensive Text Inspection (`v20.0.0`)
+- **System-Wide Deep Text Auditor (`scripts/deep_all_texts_checker.py`)**: Built an automated scanning tool that inspects all 670 spots across all 15 city JSON files for cross-contamination, English leaks, missing translation keys, and description/tip text overlaps.
+- **Strasbourg Palais Rohan (`st_4`) Tip Fix**: Fixed data shift on `Palais Rohan` (`st_4`) in Strasbourg, replacing the accidentally assigned `Maison des Tanneurs` tip with 6-language authentic Batorama boat & 3-museum pass secrets.
+- **Munich English Leaks Elimination**: Translated all 26 remaining English fragments in Munich (`m_6`, `m_9`, `m_10`, `m_12`, `m_16`, `m_19`, `m_23`, `m_24`, `m_38`, `m_42`, `m_45`, `m_52`, `m_60`) into natural French (`desc_fr`) and German (`desc_de`). Reached **0 English leaks** across all 15 cities.
+- **Full 6-Language Completeness**: Verified non-empty high-quality localized descriptions across all 6 supported languages (`desc_ja`, `desc_en`, `desc_es`, `desc_zh`, `desc_fr`, `desc_de`).
+- **Cache Busters**: Bumped version parameters in `index.html` to `v=95.0`.
+
+---
+
 ## 🏷️ [v19.0.0] - 2026-08-15 (System-Wide Insider Tip Mismatch Audit & Generic Placeholder Elimination)
 
 ### 🎯 System-Wide Tip Realignment & Quality Audit (`v19.0.0`)

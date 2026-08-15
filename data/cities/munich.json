@@ -181,7 +181,10 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "📸 Walk past the grand front canal to photograph swans gliding with the palace in the background. Don't miss King Ludwig I's Gallery of Beauties inside."
+      "tip": "📸 Walk past the grand front canal to photograph swans gliding with the palace in the background. Don't miss King Ludwig I's Gallery of Beauties inside.",
+      "desc_de": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain.",
+      "desc_fr": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain.",
+      "desc_zh": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain."
     },
     {
       "id": "m_5",
@@ -226,7 +229,10 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🏄 Watch urban surfers ride the permanent standing wave on the Eisbach river at the southern tip near Haus der Kunst day or night!"
+      "tip": "🏄 Watch urban surfers ride the permanent standing wave on the Eisbach river at the southern tip near Haus der Kunst day or night!",
+      "desc_de": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_fr": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_zh": "World's largest museum of science and technology located on an island in the Isar."
     },
     {
       "id": "m_6",
@@ -271,7 +277,10 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🍽️ Buy fresh pretzels, Obatzda (Bavarian spiced cheese spread), and Weisswurst sausages from stalls, then sit at the central beer garden under the Maypole!"
+      "tip": "🍽️ Buy fresh pretzels, Obatzda (Bavarian spiced cheese spread), and Weisswurst sausages from stalls, then sit at the central beer garden under the Maypole!",
+      "desc_fr": "Galerie de classe mondiale abritant des chefs-d'œuvre de la peinture européenne du XIVe au XVIIIe siècle.",
+      "desc_de": "Weltberühmte Gemäldegalerie mit Meisterwerken europäischer Malerei vom 14. bis zum 18. Jahrhundert.",
+      "desc_zh": "World-class gallery housing Old Master paintings from Da Vinci to Dürer & Rubens."
     },
     {
       "id": "m_7",
@@ -316,7 +325,10 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🍺 Grab an unreserved wooden table in the ground floor 'Schwammerl' hall; order a 1-liter Maß of Hofbräu Original beer and pork knuckle (Schweinshaxe)!"
+      "tip": "🍺 Grab an unreserved wooden table in the ground floor 'Schwammerl' hall; order a 1-liter Maß of Hofbräu Original beer and pork knuckle (Schweinshaxe)!",
+      "desc_de": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner).",
+      "desc_fr": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner).",
+      "desc_zh": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner)."
     },
     {
       "id": "m_8",
@@ -361,7 +373,10 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🎟️ Prioritize the Mining Exhibit (underground tunnels) and High Voltage Demonstration (lightning shows at 11:00 AM & 2:00 PM). Plan at least 4 hours!"
+      "tip": "🎟️ Prioritize the Mining Exhibit (underground tunnels) and High Voltage Demonstration (lightning shows at 11:00 AM & 2:00 PM). Plan at least 4 hours!",
+      "desc_de": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper.",
+      "desc_fr": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper.",
+      "desc_zh": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper."
     },
     {
       "id": "m_9",
@@ -405,7 +420,10 @@
       "price_de": "Eintritt: 7 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_fr": "Musée à la façade céramique colorée abritant des œuvres d'Andy Warhol et Cy Twombly.",
+      "desc_de": "Museum mit verkleideter Keramikfassade und Werken von Andy Warhol und Cy Twombly.",
+      "desc_zh": "Colorful ceramic facade museum housing Andy Warhol & Cy Twombly masterworks."
     },
     {
       "id": "m_10",
@@ -449,7 +467,10 @@
       "price_de": "Eintritt: 10 €",
       "rain": true,
       "shopping": true,
-      "free": false
+      "free": false,
+      "desc_fr": "Musée dans une villa florentine célèbre pour sa collection du mouvement Le Cavalier Bleu.",
+      "desc_de": "Museum in einer Florentiner Villa, weltweit bekannt für die Kunstsammlung des Blauen Reiters.",
+      "desc_zh": "Florentine villa museum world-famous for Blue Rider (Der Blaue Reiter) & Kandinsky art."
     },
     {
       "id": "m_11",
@@ -493,7 +514,10 @@
       "price_de": "Welt kostenlos (Museum: 10 €)",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles.",
+      "desc_fr": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles.",
+      "desc_zh": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles."
     },
     {
       "id": "m_12",
@@ -537,7 +561,10 @@
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Vaste parc urbain célèbre pour les surfeurs de la rivière Eisbach et sa tour chinoise.",
+      "desc_de": "Riesiger Stadtpark mit der berühmten Eisbach-Flusswelle und dem Biergarten am Chinesischen Turm.",
+      "desc_zh": "Vast urban park featuring Eisbach river surfers & Chinese Tower beer garden."
     },
     {
       "id": "m_13",
@@ -581,7 +608,10 @@
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_de": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden.",
+      "desc_fr": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden.",
+      "desc_zh": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden."
     },
     {
       "id": "m_14",
@@ -625,7 +655,10 @@
       "price_de": "Eintritt frei (Maß Bier: ca. 10 €)",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs.",
+      "desc_fr": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs.",
+      "desc_zh": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs."
     },
     {
       "id": "m_15",
@@ -670,7 +703,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "📸 Climb the 306 steep wooden steps of the tower for THE top photospot looking straight down over Marienplatz and the Glockenspiel."
+      "tip": "📸 Climb the 306 steep wooden steps of the tower for THE top photospot looking straight down over Marienplatz and the Glockenspiel.",
+      "desc_de": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden.",
+      "desc_fr": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden.",
+      "desc_zh": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden."
     },
     {
       "id": "m_16",
@@ -714,7 +750,10 @@
       "price_de": "Park kostenlos (Turm: 13 €)",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Parc olympique de 1972 à l'architecture emblématique avec toits en tôle tendue et tour panoramique.",
+      "desc_de": "Olympiapark von 1972 mit berühmter Zeltdacharchitektur und dem 291 m hohen Olympiaturm.",
+      "desc_zh": "1972 Olympic park with iconic tent roof architecture & 291m observation tower."
     },
     {
       "id": "m_17",
@@ -758,7 +797,10 @@
       "price_de": "Tour & Museum: 25 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Futuristic color-changing stadium home to FC Bayern Munich with club museum.",
+      "desc_fr": "Futuristic color-changing stadium home to FC Bayern Munich with club museum.",
+      "desc_zh": "Futuristic color-changing stadium home to FC Bayern Munich with club museum."
     },
     {
       "id": "m_18",
@@ -802,7 +844,10 @@
       "price_de": "Eintritt: 18 €",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve.",
+      "desc_fr": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve.",
+      "desc_zh": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve."
     },
     {
       "id": "m_19",
@@ -846,7 +891,10 @@
       "price_de": "Eintritt: 20 €",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Aquarium couvert dans le parc olympique présentant des créatures marines et un tunnel sous-marin.",
+      "desc_de": "Großaquarium im Olympiapark mit tropischen Meeresbewohnern und Unterwassertunnel.",
+      "desc_zh": "Indoor aquarium in Olympiapark featuring tropical sharks, rays & ocean tunnel."
     },
     {
       "id": "m_20",
@@ -890,7 +938,10 @@
       "price_de": "Kirche gratis (Turm: 5 €)",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views.",
+      "desc_fr": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views.",
+      "desc_zh": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views."
     },
     {
       "id": "m_21",
@@ -934,7 +985,10 @@
       "price_de": "Kostenlos",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses.",
+      "desc_fr": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses.",
+      "desc_zh": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses."
     },
     {
       "id": "m_22",
@@ -943,11 +997,11 @@
       "rating": "★4.6",
       "desc": "Striking yellow Italian High Baroque church facing Odeonsplatz.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2019-03-04-Kirche-am-Odeonsplatz.jpg/330px-2019-03-04-Kirche-am-Odeonsplatz.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Theatinerkirche_Munich_01.jpg/330px-Theatinerkirche_Munich_01.jpg",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 48.14194,
@@ -978,7 +1032,10 @@
       "price_de": "Kostenlos",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Striking yellow Italian High Baroque church facing Odeonsplatz.",
+      "desc_fr": "Striking yellow Italian High Baroque church facing Odeonsplatz.",
+      "desc_zh": "Striking yellow Italian High Baroque church facing Odeonsplatz."
     },
     {
       "id": "m_23",
@@ -1022,7 +1079,10 @@
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Place de style italien abritant le monument de la Feldherrnhalle et l'église des Théatins.",
+      "desc_de": "Italienisch geprägter Platz mit der Feldherrnhalle und der imposanten Theatinerkirche.",
+      "desc_zh": "Italianate plaza featuring Feldherrnhalle monument & Hofgarten palace gardens."
     },
     {
       "id": "m_24",
@@ -1066,7 +1126,10 @@
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_fr": "Principale rue commerçante piétonne de Munich s'étendant de Karlsplatz à Marienplatz.",
+      "desc_de": "Münchens zentrale Fußgängerzone und Einkaufsmeile vom Karlsplatz zum Marienplatz.",
+      "desc_zh": "Munich's primary pedestrian shopping boulevard stretching between Karlsplatz & Marienplatz."
     },
     {
       "id": "m_25",
@@ -1110,7 +1173,10 @@
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_de": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum.",
+      "desc_fr": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum.",
+      "desc_zh": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum."
     },
     {
       "id": "m_26",
@@ -1154,7 +1220,10 @@
       "price_de": "Kostenlos",
       "rain": true,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_de": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants.",
+      "desc_fr": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants.",
+      "desc_zh": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants."
     },
     {
       "id": "m_27",
@@ -1198,7 +1267,10 @@
       "price_de": "Eintritt: 5,50 €",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses.",
+      "desc_fr": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses.",
+      "desc_zh": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses."
     },
     {
       "id": "m_28",
@@ -1242,7 +1314,10 @@
       "price_de": "Eintritt frei",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Modern documentation center on site of Nazi party headquarters providing free historical education.",
+      "desc_fr": "Modern documentation center on site of Nazi party headquarters providing free historical education.",
+      "desc_zh": "Modern documentation center on site of Nazi party headquarters providing free historical education."
     },
     {
       "id": "m_29",
@@ -1286,7 +1361,10 @@
       "price_de": "Eintritt: 7 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes.",
+      "desc_fr": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes.",
+      "desc_zh": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes."
     },
     {
       "id": "m_30",
@@ -1330,7 +1408,10 @@
       "price_de": "Eintritt: 7 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri.",
+      "desc_fr": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri.",
+      "desc_zh": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri."
     },
     {
       "id": "m_31",
@@ -1374,7 +1455,10 @@
       "price_de": "Eintritt: 3,50 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain.",
+      "desc_fr": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain.",
+      "desc_zh": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain."
     },
     {
       "id": "m_32",
@@ -1418,7 +1502,10 @@
       "price_de": "Eintritt inkl. Probe: 7 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting.",
+      "desc_fr": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting.",
+      "desc_zh": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting."
     },
     {
       "id": "m_33",
@@ -1462,7 +1549,10 @@
       "price_de": "Eintritt: 6 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
+      "desc_fr": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
+      "desc_zh": "Charming toy museum inside the Gothic tower of the Old Town Hall."
     },
     {
       "id": "m_34",
@@ -1506,7 +1596,10 @@
       "price_de": "Wiese kostenlos (Statue: 5 €)",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
+      "desc_fr": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
+      "desc_zh": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue."
     },
     {
       "id": "m_35",
@@ -1551,7 +1644,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🛷 In summer, kids splash in the giant fountain jets; in winter (Nov–Jan), the entire square turns into an open-air ice skating rink!"
+      "tip": "🛷 In summer, kids splash in the giant fountain jets; in winter (Nov–Jan), the entire square turns into an open-air ice skating rink!",
+      "desc_de": "Historic 14th-century Gothic city gates bounding Munich's inner old town.",
+      "desc_fr": "Historic 14th-century Gothic city gates bounding Munich's inner old town.",
+      "desc_zh": "Historic 14th-century Gothic city gates bounding Munich's inner old town."
     },
     {
       "id": "m_36",
@@ -1596,7 +1692,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🧺 Pack a blanket, snacks, and cold beers to join locals relaxing on the natural gravel banks along the Isar river for a sunny afternoon."
+      "tip": "🧺 Pack a blanket, snacks, and cold beers to join locals relaxing on the natural gravel banks along the Isar river for a sunny afternoon.",
+      "desc_de": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs.",
+      "desc_fr": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs.",
+      "desc_zh": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs."
     },
     {
       "id": "m_37",
@@ -1641,7 +1740,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🛍️ Head to the ground floor coffee counter where baristas weigh freshly roasted coffee beans in antique porcelain scales for premium souvenirs."
+      "tip": "🛍️ Head to the ground floor coffee counter where baristas weigh freshly roasted coffee beans in antique porcelain scales for premium souvenirs.",
+      "desc_de": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen.",
+      "desc_fr": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen.",
+      "desc_zh": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen."
     },
     {
       "id": "m_38",
@@ -1686,7 +1788,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🍽️ Pair Schneider Weisse TAP7 beer with a traditional warm Weisswurst (white sausage) served in hot water with sweet Bavarian mustard and pretzels before 12 PM!"
+      "tip": "🍽️ Pair Schneider Weisse TAP7 beer with a traditional warm Weisswurst (white sausage) served in hot water with sweet Bavarian mustard and pretzels before 12 PM!",
+      "desc_de": "Historisches Brauhaus, weltweit bekannt für Schneider Weisse Weißbier und bayerische Spezialitäten.",
+      "desc_fr": "Taverne de brasserie historique mondialement connue pour sa bière Schneider Weisse et sa cuisine bavaroise.",
+      "desc_zh": "Historic brewery tavern world-renowned for Schneider Weisse wheat beer & traditional cuisine."
     },
     {
       "id": "m_39",
@@ -1731,7 +1836,10 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🍽️ Order hot piping-hot 'Schmalznudel' (traditional Bavarian lard-fried doughnut) straight out of the bubbling oil pan with a warm Milchkaffee!"
+      "tip": "🍽️ Order hot piping-hot 'Schmalznudel' (traditional Bavarian lard-fried doughnut) straight out of the bubbling oil pan with a warm Milchkaffee!",
+      "desc_de": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973.",
+      "desc_fr": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973.",
+      "desc_zh": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973."
     },
     {
       "id": "m_40",
@@ -1776,7 +1884,10 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🍽️ Sit under the glass palm atrium to sample their signature 'Luitpold-Torte' (layered dark chocolate & marzipan cake) with freshly brewed espresso."
+      "tip": "🍽️ Sit under the glass palm atrium to sample their signature 'Luitpold-Torte' (layered dark chocolate & marzipan cake) with freshly brewed espresso.",
+      "desc_de": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium.",
+      "desc_fr": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium.",
+      "desc_zh": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium."
     },
     {
       "id": "m_41",
@@ -1820,7 +1931,10 @@
       "price_de": "Eintritt: 8 €",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls.",
+      "desc_fr": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls.",
+      "desc_zh": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls."
     },
     {
       "id": "m_42",
@@ -1864,7 +1978,10 @@
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Weitläufiger Stadtpark mit authentischem Japanischem Garten, Ostasien-Ensemble und Biergarten.",
+      "desc_fr": "Vaste parc urbain comprenant des jardins asiatiques authentiques, un jardin japonais et un pavillon chinois.",
+      "desc_zh": "Sprawling park featuring authentic Japanese garden, Chinese garden & Thai Buddha Sala."
     },
     {
       "id": "m_43",
@@ -1908,7 +2025,10 @@
       "price_de": "Eintritt frei",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure.",
+      "desc_fr": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure.",
+      "desc_zh": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure."
     },
     {
       "id": "m_44",
@@ -1953,7 +2073,10 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "👙 Swim under soaring neo-baroque stucco ceilings in the 30°C main pool or relax in the Roman-Irish steam baths (swimming caps not required)."
+      "tip": "👙 Swim under soaring neo-baroque stucco ceilings in the 30°C main pool or relax in the Roman-Irish steam baths (swimming caps not required).",
+      "desc_de": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas.",
+      "desc_fr": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas.",
+      "desc_zh": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas."
     },
     {
       "id": "m_45",
@@ -1998,7 +2121,10 @@
       "shopping": false,
       "free": true,
       "tip": " Ride the 78-meter 'Umadum' giant Ferris wheel for clear views extending to the Bavarian Alps, then check out the rooftop urban sheep farm!",
-      "name_de": "Werksviertel-Mitte & Umadum Ferris Wheel"
+      "name_de": "Werksviertel-Mitte & Umadum Ferris Wheel",
+      "desc_de": "Trendiges Werksviertel mit Street-Art, Gastronomie, Eventlocations und dem Umadum-Riesenrad.",
+      "desc_fr": "Quartier industriel branché reconverti avec de l'art urbain, de la gastronomie et la grande roue Umadum.",
+      "desc_zh": "Trendy converted industrial district featuring street art, container bars & world's largest mobile Ferris wheel."
     },
     {
       "id": "m_46",
@@ -2043,7 +2169,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🎟️ Book interior castle tickets on the official website 3-4 weeks in advance! Walk 15 minutes beyond Marienbrücke bridge for uncrowded postcard views."
+      "tip": "🎟️ Book interior castle tickets on the official website 3-4 weeks in advance! Walk 15 minutes beyond Marienbrücke bridge for uncrowded postcard views.",
+      "desc_de": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
+      "desc_fr": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
+      "desc_zh": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps."
     },
     {
       "id": "m_47",
@@ -2088,7 +2217,10 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "⛪ Free entrance to admire the world-class Rococo ceiling frescos. Respectful quiet is required; avoid visiting during active Sunday mass services."
+      "tip": "⛪ Free entrance to admire the world-class Rococo ceiling frescos. Respectful quiet is required; avoid visiting during active Sunday mass services.",
+      "desc_de": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows.",
+      "desc_fr": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows.",
+      "desc_zh": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows."
     },
     {
       "id": "m_48",
@@ -2132,7 +2264,10 @@
       "price_de": "Eintritt frei",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933).",
+      "desc_fr": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933).",
+      "desc_zh": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933)."
     },
     {
       "id": "m_49",
@@ -2176,7 +2311,10 @@
       "price_de": "Park kostenlos (Schloss: 10 €)",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens.",
+      "desc_fr": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens.",
+      "desc_zh": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens."
     },
     {
       "id": "m_50",
@@ -2220,7 +2358,10 @@
       "price_de": "Eintritt: 8 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets.",
+      "desc_fr": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets.",
+      "desc_zh": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets."
     },
     {
       "id": "m_51",
@@ -2265,7 +2406,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🚆 Take the S6 train from Munich Central (30 min) directly to Starnberg station on the lake shore. Rent an electric boat or board the passenger cruise!"
+      "tip": "🚆 Take the S6 train from Munich Central (30 min) directly to Starnberg station on the lake shore. Rent an electric boat or board the passenger cruise!",
+      "desc_de": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island.",
+      "desc_fr": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island.",
+      "desc_zh": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island."
     },
     {
       "id": "m_52",
@@ -2309,7 +2453,10 @@
       "price_de": "Eintritt frei",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Malerischer See und Benediktinerkloster auf dem Heiligen Berg mit berühmter Klosterbrauerei.",
+      "desc_fr": "Lac pittoresque et abbaye bénédictine sacrée réputée pour sa brasserie monastique et sa vue panoramique.",
+      "desc_zh": "Scenic lake & sacred hilltop Benedictine monastery famous for dark Doppelbock beer."
     },
     {
       "id": "m_53",
@@ -2354,7 +2501,10 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "⛲ Watch the 25-meter golden Flora fountain shoot water into the air directly in front of the palace every hour on the hour!"
+      "tip": "⛲ Watch the 25-meter golden Flora fountain shoot water into the air directly in front of the palace every hour on the hour!",
+      "desc_de": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto.",
+      "desc_fr": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto.",
+      "desc_zh": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto."
     },
     {
       "id": "m_54",
@@ -2399,7 +2549,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🛍️ Visit the monastery shop to sample authentic 'Ettaler Klosterlikör' distilled by monks using 50 secret alpine herbs since medieval times."
+      "tip": "🛍️ Visit the monastery shop to sample authentic 'Ettaler Klosterlikör' distilled by monks using 50 secret alpine herbs since medieval times.",
+      "desc_de": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making.",
+      "desc_fr": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making.",
+      "desc_zh": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making."
     },
     {
       "id": "m_55",
@@ -2443,7 +2596,10 @@
       "price_de": "Eintritt: 7,50 €",
       "rain": false,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls.",
+      "desc_fr": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls.",
+      "desc_zh": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls."
     },
     {
       "id": "m_56",
@@ -2488,7 +2644,10 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🎟️ Take the Cable Car Zugspitze up to the 2,962m summit for 4-country views, then descend via the Cogwheel mountain train for a complete loop pass!"
+      "tip": "🎟️ Take the Cable Car Zugspitze up to the 2,962m summit for 4-country views, then descend via the Cogwheel mountain train for a complete loop pass!",
+      "desc_de": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee.",
+      "desc_fr": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee.",
+      "desc_zh": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee."
     },
     {
       "id": "m_57",
@@ -2533,7 +2692,10 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🍺 Head to Herzogliches Bräustüberl Tegernsee right next to the lake for unpasteurized Tegernseer Hell beer on the outdoor water-view terrace!"
+      "tip": "🍺 Head to Herzogliches Bräustüberl Tegernsee right next to the lake for unpasteurized Tegernseer Hell beer on the outdoor water-view terrace!",
+      "desc_de": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer.",
+      "desc_fr": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer.",
+      "desc_zh": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer."
     },
     {
       "id": "m_58",
@@ -2578,7 +2740,10 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "👙 Bring your swimsuit & flip-flops! Relax in 34°C thermal pools under real palm trees or try the virtual reality water slides at Galaxy Water Park."
+      "tip": "👙 Bring your swimsuit & flip-flops! Relax in 34°C thermal pools under real palm trees or try the virtual reality water slides at Galaxy Water Park.",
+      "desc_de": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world.",
+      "desc_fr": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world.",
+      "desc_zh": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world."
     },
     {
       "id": "m_59",
@@ -2623,7 +2788,10 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "🍺 Dine at the hilltop Bräustüberl Weihenstephan—the world's oldest active brewery (since AD 1040)—for fresh unfiltered Hefeweissbier and sausage platters!"
+      "tip": "🍺 Dine at the hilltop Bräustüberl Weihenstephan—the world's oldest active brewery (since AD 1040)—for fresh unfiltered Hefeweissbier and sausage platters!",
+      "desc_de": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040).",
+      "desc_fr": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040).",
+      "desc_zh": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040)."
     },
     {
       "id": "m_60",
@@ -2668,7 +2836,10 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🎬 Step inside the real 55-meter submarine film set used in 'Das Boot' or ride on the back of Falkor the Luckdragon from 'The NeverEnding Story'!"
+      "tip": "🎬 Step inside the real 55-meter submarine film set used in 'Das Boot' or ride on the back of Falkor the Luckdragon from 'The NeverEnding Story'!",
+      "desc_de": "Berühmte Filmstadt-Führung mit Original-Kulissen aus Das Boot und interaktiven Stunt-Shows.",
+      "desc_fr": "Visite guidée des studios de cinéma célèbres présentant les décors réels du film Das Boot.",
+      "desc_zh": "Famous film studio tour featuring real props from 'Das Boot', 'The Neverending Story' & 4D cinema."
     }
   ]
 }
