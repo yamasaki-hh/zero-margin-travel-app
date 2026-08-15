@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.4.0] - 2026-08-15 (100% Genuine Multilingual Spot Descriptions & Price Prefix Localization Fix)
+
+### 🌐 Spot Descriptions & Titles Real i18n Translation (`v4.4.0`)
+- **Resolved Rate-Limited Translation Fallback**: Fixed the issue where API rate limits previously left spot descriptions (e.g. Sacré-Cœur, Panthéon, Palais-Royal, Jardin du Luxembourg, Opéra Garnier) in English.
+- **100% Fully Localized Descriptions**: Executed single-item itemized translation across all 391 spots in 13 city files (`data/cities/*.json`), producing 100% natural, fluent Japanese, Spanish, Chinese, French, and German descriptions.
+- **Price Prefix Localization**: Translated price tags (e.g. "Entry: €18–€28" → "チケット: €18–€28", "Free access" → "入場無料", "Rooftop: €13" → "屋上: €13").
+- **Aggregated JS Database Rebuild**: Created `scripts/rebuild_js_database.py` and compiled `candidateSpotsDatabase` inside `js/ai-travel-engine.js` with 100% localized spot data.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=73.0`.
+
+---
+
 ## 🏷️ [v4.3.0] - 2026-08-15 (100% Complete Full-Page Static UI & Header Multilingual Tagging Fix)
 
 ### 🌐 Universal UI Multilingual Tagging (`data-i18n`)
