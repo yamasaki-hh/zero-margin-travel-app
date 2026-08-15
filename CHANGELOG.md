@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.7.0] - 2026-08-15 (Tag Quality Purification & Hybrid Free/Paid Price Text Localization)
+
+### 🧼 Tag Quality Refinement & Pricing Precision (`v4.7.0`)
+- **Shopping Tag Exclusions**: Excluded all pure Cafés, Bistros, Restaurants, and Bakeries from `🛍️ Shopping` (only department stores, covered arcades, verified markets, and specialty boutiques retained).
+- **Rain Tag Exclusions**: Strictly excluded bridges (e.g. Pont Alexandre III), open parks, river cruises, open-air plazas, and cemeteries from `☔ Rainy Day` (only true indoor/covered venues retained).
+- **Hybrid Free/Paid Pricing Localization**: Updated card price text for hybrid spots to explicitly state `庭園無料（館内: €12）`, `広場・外観無料（有料区域: €13）`, and `敷地無料（展望/館内: €18）` while removing confusing `🆓 Free` badges from strictly paid venues.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=76.0`.
+
+---
+
 ## 🏷️ [v4.6.0] - 2026-08-15 (Universal Multi-Tag Architecture: Rainy Day, Shopping & Free Entry Filters)
 
 ### 🏷️ Rainy Day (☔), Shopping (🛍️) & Free Entry (🆓) Tagging Engine (`v4.6.0`)
