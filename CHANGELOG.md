@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v11.0.0] - 2026-08-15 (Universal Multilingual Hybrid Names, Outer Close Button & System Rulebook)
+
+### 🌍 Universal Multilingual Hybrid Name Standard & 3-Layer Build Guard (`v11.0.0`)
+- **Outer Modal Close Button (`.modal-close`)**: Repositioned red close button to float strictly outside the top-right corner of the modal photo card (`top: -18px; right: -12px;` / mobile `-20px`), completely eliminating collision with rating badges (`★`) or Wikipedia links.
+- **Universal Multilingual Hybrid Name System**: Processed all 466 spots across 13 cities. All 6 language fields (`name_en`, `name_ja`, `name_es`, `name_zh`, `name_fr`, `name_de`) now preserve `Original Local Name (Localized Name)` for non-native languages (e.g. `Place des Terreaux & Bartholdi Fountain（テロー広場＆バルトルディの噴水）`).
+- **3-Layer Compliance Guard**: Upgraded `scripts/rebuild_js_database.py` with Layer 3 (Multilingual Hybrid Name Guard) to catch and block any missing local or hybrid names automatically during builds.
+- **Official System Rulebook Published**: Created `docs/SPOT_DATABASE_RULES.md` and automated rule `.agents/rules/spot_database_rules.md` to permanently enforce data quality standards for scaling to thousands of spots.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=86.0`.
+
+---
+
 ## 🏷️ [v10.0.0] - 2026-08-15 (Berlin Database Expansion & Zero-Overlap Insider Tips)
 
 ### 🐻 Berlin Database Expansion & Zero-Overlap Overhaul (`v10.0.0`)
