@@ -31196,6 +31196,7 @@ const AITravelEngine = {
     if (zone === 'suburban') {
       return lang === 'ja' ? '🏞️ 郊外' : lang === 'es' ? '🏞️ Suburbano' : lang === 'zh' ? '🏞️ 郊区日游' : lang === 'fr' ? '🏞️ Banlieue' : lang === 'de' ? '🏞️ Umgebung' : '🏞️ Suburban';
     }
+    return lang === 'ja' ? '📍 市内' : lang === 'es' ? '📍 Centro' : lang === 'zh' ? '📍 市中心' : lang === 'fr' ? '📍 Centre-ville' : lang === 'de' ? '📍 Innenstadt' : '📍 City Center';
   },
 
   handleImageError(imgElem, category, rating, cardCatText) {
