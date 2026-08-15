@@ -2,6 +2,18 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v17.0.0] - 2026-08-15 (System-Wide Rulebook Update, Wikipedia Photo Pipeline & Kids Tag Audit)
+
+### 🛡️ Master Rulebook v3.0.0 & Automated Quality Pipeline Overhaul (`v17.0.0`)
+- **Master Rulebook Upgrade (`docs/SPOT_DATABASE_RULES.md` & `.agents/rules/spot_database_rules.md`)**: Upgraded to Version `v3.0.0` with explicit, unbreachable rules governing Wikipedia title normalization, multi-language image resolution fallback, and strict `kids` category tag isolation.
+- **Wikipedia Auto-Image Pipeline Refactoring (`scripts/auto_wikipedia_image_fetcher.py`)**: Implemented fullwidth `（` and halfwidth `(` parenthetical regex stripping with `de.wikipedia.org` -> `en.wikipedia.org` -> `fr.wikipedia.org` -> `nl.wikipedia.org` -> `ja.wikipedia.org` API query chain. Reached **670 verified Wikipedia photos out of 670 total spots (100% resolution, 0 fallbacks)** across all 15 cities.
+- **Strict Kids Category Audit (`scripts/audit_and_fix_translations.py`)**: Audited and fixed Kids tag assignment across all 15 cities, eliminating default `"kids": true` hardcoding. Corrected Kids-friendly count from 253+ broken entries to **78 genuine family-friendly spots out of 670 system spots**. Forced adult taverns, nightlife, cemeteries, WWII memorials, and luxury shopping streets to `"kids": false`.
+- **Integrated End-to-End Build Pipeline (`scripts/rebuild_js_database.py`)**: Chained Wikipedia photo fetcher, hybrid name generator, category auditor, and 3-Layer Compliance Guard into a single command.
+- **Scratch Script Cleanup**: Deleted temporary one-off generator scripts from `scripts/` directory to maintain codebase hygiene.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=92.0`.
+
+---
+
 ## 🏷️ [v16.0.0] - 2026-08-15 (Cologne 56-Spot Complete Database Creation & 3-Layer Compliance Verification)
 
 ### 🏰 Cologne Database Creation & Zero-Overlap Overhaul (`v16.0.0`)

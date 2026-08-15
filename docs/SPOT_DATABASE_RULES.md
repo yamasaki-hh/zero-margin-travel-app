@@ -1,16 +1,16 @@
 # 📘 Spot Database Architecture & Complete Quality Control Rulebook
-**Document Version**: `v2.0.0` (Complete Master Edition - 2026-08-15)  
+**Document Version**: `v3.0.0` (Complete Master Systemic Edition - 2026-08-15)  
 **File Location**: `docs/SPOT_DATABASE_RULES.md`  
 **Automated Rule Location**: `.agents/rules/spot_database_rules.md`
 
 ---
 
 ## 🎯 目的（Purpose）
-今後、何千・何万件と新しい都市や観光スポットがアプリに追加されても、データの品質劣化、英語漏れ、翻訳表示のアンバランス、タグ誤設定、UIレイアウト要素の破綻が**二度と発生しないよう、すべてのデータベース構築・品質検証項目を完備したマスタールールブック**です。
+今後、何千・何万件と新しい都市や観光スポットがアプリに追加されても、データの品質劣化、英語漏れ、翻訳表示のアンバランス、タグ誤設定（Kids過剰流入等）、画像未反映（Wikipedia連携失敗）、UIレイアウト要素の破綻が**二度と発生しないよう、すべてのデータベース構築・自動検証・画像パイプライン項目を完備したマスタールールブック**です。
 
 ---
 
-## 📜 12大厳格品質管理チェックリスト（The 12 Master Principles）
+## 📜 14大厳格品質管理チェックリスト（The 14 Master Principles）
 
 ### 1. 🌐 全6言語対応「現地語＋翻訳名」ハイブリッド名称基準（Universal Hybrid Name Standard）
 旅行者が現地で「Google Maps」「Uber」「標識」「紙の地図」で場所を照合できるよう、全6言語（日・英・西・中・仏・独）において**現地オリジナル名**と**各言語の翻訳名**をセットで保持します。
@@ -27,7 +27,18 @@
 
 ---
 
-### 2. 🚫 概要欄（desc）とワンポイント解説（tip）の重複完全排除（0% Overlap Rule）
+### 2. 📸 Wikipedia自動画像取得・検証パイプライン（Universal Wikipedia Photo Pipeline）
+* **全角・半角カッコの完全正規化除去**:
+  - Wikipedia API検索用スラグ生成時、`re.sub(r'[\(\（].*?[\)\）]', '', name)` を使用し、全角 `（` および半角 `(` のカッコ内補足文字を100%除去します。
+  - スラグ生成には `name_de` / `name_en` / `name_fr` の純粋な現地語名称を優先使用します。
+* **多言語フォールバックチェーン**:
+  - `de.wikipedia.org` ➔ `en.wikipedia.org` ➔ `fr.wikipedia.org` ➔ `nl.wikipedia.org` ➔ `ja.wikipedia.org` の順でREST API（`api/rest_v1/page/summary/<slug>`）を検索し、有効なサムネイル画像URL（`image`）を自動バインドします。
+* **ビルドパイプライン直元化**:
+  - スポット追加・更新時、`rebuild_js_database.py` 実行時に `auto_wikipedia_image_fetcher.py` が自動で前処理として走り、画像未取得スポットをゼロにします。
+
+---
+
+### 3. 🚫 概要欄（desc）とワンポイント解説（tip）の重複完全排除（0% Overlap Rule）
 * **概要欄（`desc`）**: どのような場所か、歴史的・建築的価値（基本情報1〜2文）。
 * **ワンポイント解説（`tip`）**: **概要欄の内容・名称・基本説明を1文字も重複・再掲しない！** 現地での「具体的で実践的な裏技・コツ」のみ。
 
@@ -40,14 +51,22 @@
 
 ---
 
-### 3. 💡 Tipが無いスポットのスマート省略（Smart Empty Tip Handling）
+### 4. 💡 Tipが無いスポットのスマート省略（Smart Empty Tip Handling）
 * 特段の裏技や実用Tipsが存在しないスポットは、無理に一般的な説明を書かず `tip: ""`（空文字）とします。
 * UIレンダリングエンジンは、`tip` が空の場合、カードおよびモーダル内のワンポイント解説枠を**枠ごとスマートに完全非表示**にします。
 
 ---
 
-### 4. 🏷️ カテゴリ・属性タグの厳格除外チェック（Strict Category & Tag Auditing）
+### 5. 🏷️ カテゴリ・属性タグの厳格除外チェック（Strict Category & Tag Auditing）
 誤ったフィルタータグ設定によるユーザーの混乱を完全に防ぎます。
+
+* **👶 Kids (ファミリー向け)**:
+  - **原則**: スポット生成時にデフォルトで `"kids": true` をハードコード設定することを**固く禁止**します。
+  - **真判定条件**: `category == "Kids & Family"` であるスポット、または名称・概要欄に明確な子供/ファミリー向け要素（動物園、水族館、科学館、テーマパーク、恐竜・ミニチュア館、温水プール、遊具公園）を含む場合のみ `true` とします。
+  - **偽判定条件（強制除外）**: 大衆居酒屋（Brauhaus / Apfelwein-Kneipen）、歓楽街（Reeperbahn）、墓地（Melaten-Friedhof）、戦災・ホロコースト追悼施設（NS-Dokumentationszentrum, ゲシュタポ跡地, 壁の記念館）、高級ブティック街は**必ず `"kids": false`** とします。
+* **🛍️ Shopping (ショッピング)**: 居酒屋・レストランを完全除外。歴史的市場、パサージュ、デパート、アウトレットのみ。
+* **☔ Rainy Day (雨天対応)**: 屋外の橋、公園、オープン広場、船上クルーズを完全除外。100%屋根のある屋内施設のみ。
+* **🆓 Free (入場無料)**: 有料チケットが義務付けられている施設を完全除外。敷地・広場・聖堂無料のみ。
 
 * 🛍️ **Shopping タグ**: 純粋なカフェ・レストラン・飲食店を厳格除外。歴史的市場（Markthalle）、パサージュ、百貨店、セレクトショップのみ許可。
 * ☔ **Rainy Day (Rain) タグ**: 橋、公園、屋外広場、シュプレー川/セーヌ川クルーズ船等の屋外スポットを厳格除外。完全屋内施設（美術館・博物館・大聖堂内部等）のみ許可。

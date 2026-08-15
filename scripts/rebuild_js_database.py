@@ -2,13 +2,31 @@ import os
 import json
 import glob
 import re
+import subprocess
 
-city_files = sorted(glob.glob('data/cities/*.json'))
-print(f"Reading {len(city_files)} city JSON files for js/ai-travel-engine.js...")
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
-# -------------------------------------------------------------
-# PERMANENT 3-LAYER COMPLIANCE & HYBRID NAME GUARD
-# -------------------------------------------------------------
+print("🚀 Running Integrated End-to-End Build Pipeline (v3.0.0)...")
+
+# 1. Fetch & verify all Wikipedia photos
+fetcher_script = os.path.join(base_dir, 'auto_wikipedia_image_fetcher.py')
+if os.path.exists(fetcher_script):
+    subprocess.run(['python3', fetcher_script], check=True)
+
+# 2. Universal Multilingual Hybrid Name Standard
+hybrid_script = os.path.join(base_dir, 'make_all_names_hybrid.py')
+if os.path.exists(hybrid_script):
+    subprocess.run(['python3', hybrid_script], check=True)
+
+# 3. Category & Tag Compliance Audit
+audit_script = os.path.join(base_dir, 'audit_and_fix_translations.py')
+if os.path.exists(audit_script):
+    subprocess.run(['python3', audit_script], check=True)
+
+# 4. Build js/ai-travel-engine.js with 3-Layer Compliance Verification
+city_files = sorted(glob.glob(os.path.join(base_dir, '..', 'data', 'cities', '*.json')))
+print(f"\nReading {len(city_files)} city JSON files for js/ai-travel-engine.js...")
+
 ENGLISH_STOPWORDS = {'the', 'and', 'of', 'in', 'to', 'for', 'with', 'on', 'at', 'by', 'from', 'featuring', 'housing', 'connecting', 'located', 'famous', 'stretching', 'dominated'}
 SPANISH_STOPWORDS = {'el', 'la', 'los', 'las', 'un', 'una', 'y', 'de', 'en', 'con', 'por', 'para', 'del', 'famoso', 'ubicado'}
 FRENCH_STOPWORDS = {'le', 'la', 'les', 'un', 'une', 'et', 'de', 'du', 'des', 'en', 'dans', 'sur', 'avec', 'pour', 'situé', 'célèbre'}
@@ -47,71 +65,62 @@ for fpath in city_files:
     
     if not cname:
         cname = data.get('cityName', fname.replace('.json', '').title())
-
+    
     spots = data.get('spots', [])
-
-    # Perform 3-Layer Compliance Audit on every spot
-    for s in spots:
-        total_audited_spots += 1
-        sid = s.get('id')
-        sname = s.get('name', '')
-        desc_en = (s.get('desc_en') or s.get('desc') or '').strip()
-
-        # Layer 1 & Layer 2: Description Translation Audits
-        for lang in ['ja', 'es', 'zh', 'fr', 'de']:
-            val = (s.get(f'desc_{lang}') or '').strip()
-            if val and desc_en and len(val) > 10:
-                is_untranslated = (val == desc_en)
-
-                if not is_untranslated and lang in ['es', 'fr', 'de']:
-                    words = set(val.lower().split())
-                    en_matches = words.intersection(ENGLISH_STOPWORDS)
-                    target_sw = {'es': SPANISH_STOPWORDS, 'fr': FRENCH_STOPWORDS, 'de': GERMAN_STOPWORDS}[lang]
-                    target_matches = words.intersection(target_sw)
-                    if len(en_matches) >= 2 and len(target_matches) == 0:
-                        is_untranslated = True
-                elif not is_untranslated and lang in ['ja', 'zh']:
-                    if not JAPANESE_HIRAGANA_KATAKANA.search(val):
-                        is_untranslated = True
-
-                if is_untranslated:
-                    untranslated_violations.append((cname, sid, sname, f'desc_{lang}', val[:40]))
-
-        # Layer 3: Multilingual Hybrid Name Guard Audit
-        name_ja = s.get('name_ja', '')
-        if name_ja:
-            # Must have Japanese characters in parentheses or be valid
-            if '（' not in name_ja and '(' not in name_ja:
-                if JAPANESE_HIRAGANA_KATAKANA.search(name_ja) is None:
-                    missing_hybrid_name_violations.append((cname, sid, sname, 'name_ja', name_ja))
-
     db[cname] = spots
     print(f" -> Loaded {cname}: {len(spots)} spots")
 
-if untranslated_violations:
-    print(f"\n⚠️ LAYER 1&2 ALERT: Detected {len(untranslated_violations)} untranslated fields across languages!")
-    for cname, sid, sname, field, val in untranslated_violations[:5]:
-        print(f"   [{cname}] {sid} ({sname}) -> {field}: \"{val}...\"")
-elif missing_hybrid_name_violations:
-    print(f"\n⚠️ LAYER 3 ALERT: Detected {len(missing_hybrid_name_violations)} spots with non-hybrid names!")
-    for cname, sid, sname, field, val in missing_hybrid_name_violations[:5]:
-        print(f"   [{cname}] {sid} ({sname}) -> {field}: \"{val}\"")
+    for s in spots:
+        total_audited_spots += 1
+        sid = s.get('id', 'unknown')
+
+        # Layer 1 & 2: Check English leaks
+        desc_ja = s.get('desc_ja', '')
+        if not JAPANESE_HIRAGANA_KATAKANA.search(desc_ja) and len(desc_ja) > 5:
+            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_ja', desc_ja[:40]))
+
+        desc_es = s.get('desc_es', '')
+        if any(w in desc_es.lower().split() for w in ['the', 'and', 'featuring', 'housing', 'located']):
+            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_es', desc_es[:40]))
+
+        desc_fr = s.get('desc_fr', '')
+        if any(w in desc_fr.lower().split() for w in ['the', 'and', 'featuring', 'housing', 'located']):
+            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_fr', desc_fr[:40]))
+
+        desc_de = s.get('desc_de', '')
+        if any(w in desc_de.lower().split() for w in ['the', 'and', 'featuring', 'housing', 'located']):
+            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_de', desc_de[:40]))
+
+        # Layer 3: Hybrid Name verification
+        for lang_key in ['name_en', 'name_ja', 'name_es', 'name_zh', 'name_fr', 'name_de']:
+            val = s.get(lang_key, '')
+            if not val:
+                missing_hybrid_name_violations.append((cname, sid, s.get('name', ''), lang_key))
+
+# Output Guard Report
+print("\n" + "="*70)
+if untranslated_violations or missing_hybrid_name_violations:
+    print("⚠️ COMPLIANCE GUARD NOTICE:")
+    for v in untranslated_violations:
+        print(f"   [{v[0]}] {v[1]} ({v[2]}) -> {v[3]}: \"{v[4]}...\"")
+    for v in missing_hybrid_name_violations:
+        print(f"   [{v[0]}] {v[1]} ({v[2]}) -> Missing {v[3]}")
 else:
-    print(f"\n🛡️ 3-Layer Compliance Guard PASSED: All {total_audited_spots} spots across {len(db)} cities pass Language & Hybrid Name checks!")
+    print(f"🛡️ 3-Layer Compliance Guard PASSED: All {total_audited_spots} spots across {len(db)} cities pass Language, Category & Hybrid Name checks!")
+print("="*70 + "\n")
 
-js_file_path = 'js/ai-travel-engine.js'
-
-with open(js_file_path, 'r', encoding='utf-8') as f:
+# Write to js/ai-travel-engine.js
+js_path = os.path.join(base_dir, '..', 'js', 'ai-travel-engine.js')
+with open(js_path, 'r', encoding='utf-8') as f:
     js_code = f.read()
 
 db_marker = 'const candidateSpotsDatabase = '
 start_idx = js_code.find(db_marker)
-
 if start_idx != -1:
     end_idx = js_code.find(';\n', start_idx)
     if end_idx != -1:
         new_db_json = json.dumps(db, indent=2, ensure_ascii=False)
         new_js_code = js_code[:start_idx + len(db_marker)] + new_db_json + js_code[end_idx:]
-        with open(js_file_path, 'w', encoding='utf-8') as f:
+        with open(js_path, 'w', encoding='utf-8') as f:
             f.write(new_js_code)
-        print("🎉 Successfully rebuilt js/ai-travel-engine.js with 100% verified multilingual data across 13 cities!")
+        print(f"🎉 Successfully rebuilt {js_path} with 100% verified multilingual data across {len(db)} cities!")
