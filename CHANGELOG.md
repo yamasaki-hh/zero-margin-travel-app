@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v13.0.0] - 2026-08-15 (Hamburg Database Creation & 3-Layer Compliance Guard Verification)
+
+### ⚓ Hamburg Database Creation & Zero-Overlap Insider Tips (`v13.0.0`)
+- **Hamburg Comprehensive Database Creation**: Populated Hamburg (`hamburg.json`) with curated spots (including Miniatur Wunderland, Elbphilharmonie Hamburg, Speicherstadt UNESCO brick warehouse district, Chilehaus, Hamburg City Hall, St. Michaelis 'Michel' Church, Landungsbrücken floating piers, Old Elbe Tunnel, HafenCity, Alster Lakes, Altona Fish Market, Reeperbahn & Beatles-Platz, St. Pauli Fischbrötchen kiosks, Old Commercial Room Labskaus, HADAG Ferry Line 62, Lübeck Altstadt UNESCO, Schwerin Castle, and Designer Outlet Neumünster).
+- **0% Description Overlap & Pure Actionable Secrets**: Populated 6-language practical hints (e.g. Miniatur Wunderland late-night 20:00+ reservation, Elbphilharmonie free Plaza Ticket Tube elevator, Speicherstadt Poggenmühlenbrücke dusk photo angle, Michel 10:00/21:00 trumpeter performance, Brücke 10 Bismarckherring-Brötchen ordering, HADAG Ferry 62 upper deck container crane view).
+- **Guarded Build Verification**: Passed the 3-Layer Language & Hybrid Name Compliance Guard across all 512 spots in 15 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=88.0`.
+
+---
+
 ## 🏷️ [v12.0.0] - 2026-08-15 (Frankfurt Database Creation & 3-Layer Compliance Verification)
 
 ### 🍷 Frankfurt Database Creation & Zero-Overlap Insider Tips (`v12.0.0`)

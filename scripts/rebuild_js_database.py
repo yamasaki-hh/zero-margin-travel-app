@@ -27,6 +27,8 @@ city_name_map = {
     "bordeaux.json": "Bordeaux, France",
     "brussels.json": "Brussels, Belgium",
     "cologne.json": "Cologne, Germany",
+    "frankfurt.json": "Frankfurt, Germany",
+    "hamburg.json": "Hamburg, Germany",
     "luxembourg.json": "Luxembourg City, Luxembourg",
     "lyon.json": "Lyon, France",
     "marseille.json": "Marseille, France",
