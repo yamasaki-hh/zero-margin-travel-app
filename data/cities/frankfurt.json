@@ -739,8 +739,8 @@
       "desc_zh": "位于当地的知名景点 ザクセンハウゼン地区＆居酒屋街。",
       "desc_fr": "Sachsenhausen Cider District remarquable à visiter.",
       "de": "Sachsenhausen im Stadtgebiet.",
-      "tip_en": "💡 老舗Zum Gemalten Hausの長ベンチで炭酸水割りリンゴ酒と緑ソースカツを食す！",
-      "tip_ja": "💡 老舗Zum Gemalten Hausの長ベンチで炭酸水割りリンゴ酒と緑ソースカツを食す！",
+      "tip_en": "🎟️ Order traditional Apfelwein served from an earthenware jug (Bembel) paired with Grüne Soße (green sauce) and Handkäs mit Musik cheese.",
+      "tip_ja": "🎟️ 伝統の素焼き水差し（Bembel）で注がれるリンゴ酒（Apfelwein）と緑のソース（Grüne Soße）、ハントケース（Handkäs mit Musik）を味わうのが伝統の流儀。",
       "tip_es": "💡 老舗Zum Gemalten Hausの長ベンチで炭酸水割りリンゴ酒と緑ソースカツを食す！",
       "tip_zh": "💡 老舗Zum Gemalten Hausの長ベンチで炭酸水割りリンゴ酒と緑ソースカツを食す！",
       "tip_fr": "💡 老舗Zum Gemalten Hausの長ベンチで炭酸水割りリンゴ酒と緑ソースカツを食す！",
@@ -757,9 +757,11 @@
       "name_zh": "Sachsenhausen (ザクセンハウゼン地区＆居酒屋街)",
       "name_fr": "Sachsenhausen (Sachsenhausen Cider District)",
       "name_de": "Sachsenhausen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg/330px-Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Frankfurt_Am_Main-Sachsenhausen-Schweizer_Strasse-Grosse_Rittergasse-Klappergasse-Bembel-20110904.jpg/330px-Frankfurt_Am_Main-Sachsenhausen-Schweizer_Strasse-Grosse_Rittergasse-Klappergasse-Bembel-20110904.jpg",
       "hasWiki": true,
-      "desc_de": "Sachsenhausen Cider District in City district."
+      "desc_de": "Sachsenhausen Cider District in City district.",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Frankfurt_Am_Main-Sachsenhausen-Schweizer_Strasse-Grosse_Rittergasse-Klappergasse-Bembel-20110904.jpg/330px-Frankfurt_Am_Main-Sachsenhausen-Schweizer_Strasse-Grosse_Rittergasse-Klappergasse-Bembel-20110904.jpg",
+      "tip": "🎟️ Order traditional Apfelwein served from an earthenware jug (Bembel) paired with Grüne Soße (green sauce) and Handkäs mit Musik cheese."
     },
     {
       "id": "f_20",

@@ -114,8 +114,8 @@
       "desc_zh": "13 世纪的哥特式皇家教堂，以 1,113 扇高耸的彩色玻璃窗而闻名。",
       "desc_fr": "Chapelle royale gothique du XIIIe siècle, célèbre pour ses 1 113 imposants vitraux.",
       "desc_de": "Gotische Königskapelle aus dem 13. Jahrhundert, berühmt für ihre 1.113 hohen Buntglasfenster.",
-      "tip_en": "📸 Walk up to the 5th floor to take photos through the giant transparent station clock face overlooking Sacré-Cœur across the Seine.",
-      "tip_ja": "📸 5階の印象派ギャラリー奥にある巨大大時計の裏側へ！ガラス文字盤越しにセーヌ川とサクレ・クール寺院が映り込む絶好の写真スポットです。",
+      "tip_en": "🎟️ Visit between 11:00 AM and 2:00 PM on a sunny day when sunlight floods the 1,113 13th-century stained glass windows. Mandatory timed online security ticket.",
+      "tip_ja": "🎟️ 晴れた日の11:00〜14:00がベスト！13世紀のステンドグラス（1,113場面）に太陽光が差し込む光の聖堂。セキュリティ厳重のため事前Web日時指定予約が必須です。",
       "tip_es": "📸 Ve a la 5ª planta para tomar fotos tras la esfera del gran reloj transparente de la estación con vistas a Sacré-Cœur.",
       "tip_zh": "📸 直奔5楼印象派展厅尽头！透过巨大的透明古董车站大钟表盘反光，可拍到对岸圣心大教堂与塞纳河绝美剪影。",
       "tip_fr": "📸 Montez au 5e étage pour vous photographier derrière la grande horloge transparente face à la Seine et Sacré-Cœur.",
@@ -135,7 +135,7 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "📸 Walk up to the 5th floor to take photos through the giant transparent station clock face overlooking Sacré-Cœur across the Seine."
+      "tip": "🎟️ Visit between 11:00 AM and 2:00 PM on a sunny day when sunlight floods the 1,113 13th-century stained glass windows. Mandatory timed online security ticket."
     },
     {
       "id": "p_4",
@@ -159,8 +159,8 @@
       "desc_zh": "蒙马特山顶上的白色圆顶大教堂，俯瞰着波西米亚艺术家广场。",
       "desc_fr": "Basilique blanche au dôme situé au sommet de la butte Montmartre et surplombant des places d'artistes bohèmes.",
       "desc_de": "Weiße Kuppelbasilika auf dem Montmartre-Hügel mit Blick auf Künstlerplätze.",
-      "tip_en": "🚶 Do NOT attempt to cross the busy roundabout above ground! Use the subterranean pedestrian tunnel on the north side of Champs-Élysées.",
-      "tip_ja": "🚶 ラウンドアバウトの地上横断は極めて危険です！シャンゼリゼ通り北側（地下鉄入口付近）の地下歩道を使って安全に中央へ渡りましょう。夕暮れの屋上展望も最高です。",
+      "tip_en": "🎟️ Use the Montmartre Funicular (accepts standard Metro ticket) to skip the 222 steps. Beware of string scammers at the base; climb the dome for Paris's 2nd highest view.",
+      "tip_ja": "🎟️ 222段の階段昇降はモンマルトル・フニクリ（ケーブルカー／通常の地下鉄切符可）で短縮可能。足元のミサンガ詐欺に注意し、ドームへ登るとパリ第2位のパノラマ絶景。",
       "tip_es": "🚶 ¡NO intentes cruzar la rotonda por superficie! Usa el túnel peatonal subterráneo en el lado norte de los Campos Elíseos.",
       "tip_zh": "🚶 切勿尝试横穿地面环岛车流！请务必走香榭丽舍大街北侧地下通道进入中央要塞。傍晚登上屋顶可看凯旋大道落日。",
       "tip_fr": "🚶 NE traversez PAS el rond-point à pied ! Empruntez el passage souterrain piéton au début des Champs-Élysées.",
@@ -180,7 +180,7 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "🚶 Do NOT attempt to cross the busy roundabout above ground! Use the subterranean pedestrian tunnel on the north side of Champs-Élysées."
+      "tip": "🎟️ Use the Montmartre Funicular (accepts standard Metro ticket) to skip the 222 steps. Beware of string scammers at the base; climb the dome for Paris's 2nd highest view."
     },
     {
       "id": "p_5",
@@ -204,8 +204,8 @@
       "desc_zh": "西岱岛法国哥特式建筑的杰作。",
       "desc_fr": "Chef-d'œuvre de l'architecture gothique française sur l'Île de la Cité.",
       "desc_de": "Meisterwerk französischer Gotik auf der Île de la Cité.",
-      "tip_en": "🎟️ Funicular railway up the hill accepts standard Navigo/Metro tickets. Beware of souvenir string sellers at the base of the stairs.",
-      "tip_ja": "🎟️ 丘の上の聖堂へは地下鉄切符で乗れるケーブルカー（Funiculaire）が便利。階段下の押し売り（ミサンガ売り）には「Non」とはっきり断りスルーしましょう。",
+      "tip_en": "🎟️ Fully reopened in December 2024! Reserve free timed entry tickets via the official app. Best facade photography is from Pont Saint-Louis or Pont de l'Archevêché.",
+      "tip_ja": "🎟️ 2024年12月に一般公開が再開！内部見学は公式アプリでの無料事前日時指定予約がおすすめ。大聖堂ファサードの撮影はサン・ルイ橋やアルシュヴェシェ橋からがベスト。",
       "tip_es": "🎟️ El funicular acepta billetes de metro comunes. Mantén tus pertenencias seguras frente a los vendedores en las escaleras.",
       "tip_zh": "🎟️ 登山缆车可使用普通地铁票。台阶下若遇到缠绑手绳索要钱财的人，无需理会 directly 绕行。",
       "tip_fr": "🎟️ Le funiculaire s'emprunte avec un simple ticket de métro. Ignorez les vendeurs à la sauvette au bas des marches.",
@@ -225,7 +225,7 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "🎟️ Funicular railway up the hill accepts standard Navigo/Metro tickets. Beware of souvenir string sellers at the base of the stairs.",
+      "tip": "🎟️ Fully reopened in December 2024! Reserve free timed entry tickets via the official app. Best facade photography is from Pont Saint-Louis or Pont de l'Archevêché.",
       "de": "🎟️ Die Standseilbahn fährt mit normalen Metro-Tickets. Am Fuß der Treppe Verkäufer ignoriert weitergehen."
     },
     {
@@ -776,7 +776,7 @@
       "category": "Museum & Art",
       "rating": "★4.7",
       "desc": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
-      "price": "Entry: €13",
+      "price": "Tickets: €15 (Gardens only: €5)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mus%C3%A9e_Rodin14.jpg/330px-Mus%C3%A9e_Rodin14.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
@@ -804,15 +804,15 @@
       "name_zh": "Musée Rodin (罗丹博物馆)",
       "name_fr": "Musée Rodin",
       "name_de": "Musée Rodin",
-      "price_en": "Free Gardens (Interior: €13)",
-      "price_ja": "庭園無料（館内: €13）",
+      "price_en": "Tickets: €15 (Gardens only: €5)",
+      "price_ja": "入館料: €15（庭園のみ: €5）",
       "price_es": "Entrada: 13€",
       "price_zh": "入场费：13欧元",
       "price_fr": "Entrée : 13 €",
       "price_de": "Eintritt: 13 €",
       "rain": true,
       "shopping": false,
-      "free": true,
+      "free": false,
       "tip": "Rodin's iconic sculptures including 'The Thinker' and 'Gates of Hell' are placed throughout the lush rose gardens. Dedicated garden-only tickets are available."
     },
     {
@@ -1712,7 +1712,7 @@
       "tip": "Filming location from 'Amélie'. Stroll along the iron footbridges, watch lock gates open for boats, and visit independent coffee shops and vintage boutiques."
     },
     {
-      "id": "p_27",
+      "id": "p_39",
       "name": "Palace of Versailles（ベルサイユ宮殿 (ベルサイユ宮殿）",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1756,7 +1756,7 @@
       "tip": "The undisputed king of falafel pita sandwiches in Le Marais. The takeaway line (Emporter) moves very quickly even when long. Closed Saturdays."
     },
     {
-      "id": "p_28",
+      "id": "p_40",
       "name": "Place de la Concorde & Champs-Élysées（コンコルド広場とシャンゼリゼ）",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1800,7 +1800,7 @@
       "tip": "Stunning 4-story Italian trattoria in Pigalle. The top floor glass greenhouse room is the most sought-after dining spot. Book weeks ahead online!"
     },
     {
-      "id": "p_29",
+      "id": "p_41",
       "name": "Conciergerie（コンシェルジュリー）",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1845,7 +1845,7 @@
       "de": "Steuern Sie am Wochenende direkt Chez Alain Miam Miam für riesige Sandwiches oder den marokkanischen Stand an!"
     },
     {
-      "id": "p_30",
+      "id": "p_42",
       "name": "Place des Vosges（ヴォージュ広場）",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1889,7 +1889,7 @@
       "tip": "World-famous pastry chef Cédric Grolet's shop known for hyper-realistic fruit-shaped sculpted desserts. Pre-order online to skip hours of waiting."
     },
     {
-      "id": "p_31",
+      "id": "p_43",
       "name": "Musée Marmottan Monet（マルモッタン モネ美術館）",
       "category": "Museum",
       "rating": "★4.7",
@@ -1933,7 +1933,7 @@
       "tip": "Famous Belle Époque tearoom once frequented by Coco Chanel. Order their thick signature hot chocolate ('L'Africain') paired with a Mont-Blanc pastry."
     },
     {
-      "id": "p_32",
+      "id": "p_44",
       "name": "Fondation Louis Vuitton（フォンダシオン ルイ ヴィトン）",
       "category": "Museum",
       "rating": "★4.7",
@@ -1977,7 +1977,7 @@
       "tip": "Artisanal bakery near Canal Saint-Martin. Try their iconic 'Escargot Chocolat Pistache' (pistachio and chocolate spiral pastry) baked fresh daily."
     },
     {
-      "id": "p_33",
+      "id": "p_45",
       "name": "Musée de Cluny（クリュニー美術館 (中世）",
       "category": "Museum",
       "rating": "★4.6",
@@ -2026,7 +2026,7 @@
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
-      "price": "Entry: €56–€99",
+      "price": "1-Day Ticket: €56–€105",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sleeping_Beauty_Castle%2C_Disneyland%2C_Paris.jpg/330px-Sleeping_Beauty_Castle%2C_Disneyland%2C_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
@@ -2053,15 +2053,15 @@
       "name_zh": "Disneyland Paris (巴黎迪士尼乐园)",
       "name_fr": "Disneyland Paris",
       "name_de": "Disneyland Paris",
-      "price_en": "Free Gardens (Interior: €56)",
-      "price_ja": "庭園無料（館内: €56）",
+      "price_en": "1-Day Ticket: €56–€105",
+      "price_ja": "1日券: €56–€105",
       "price_es": "Entrada: 56€–99€",
       "price_zh": "门票：56 欧元 - 99 欧元",
       "price_fr": "Entrée : 56 € – 99 €",
       "price_de": "Eintritt: 56–99 €",
       "rain": false,
       "shopping": false,
-      "free": true,
+      "free": false,
       "tip": "Features two parks: Disneyland Park and Walt Disney Studios. The pink Sleeping Beauty Castle is considered the most romantic Disney castle worldwide. 40 min via RER A train."
     },
     {

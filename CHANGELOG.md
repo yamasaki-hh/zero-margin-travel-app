@@ -2,6 +2,20 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v22.0.0] - 2026-08-15 (Critical Fact-Check Refinement & Image Misassignment Corrections)
+
+### 🛡️ Critical Historical & Image Misassignment Corrections (`v22.0.0`)
+- **Frankfurt `f_19` (Sachsenhausen)**: Replaced concentration camp image misassignment with authentic Frankfurt Sachsenhausen cider tavern district imagery and Apfelwein Bembel tips.
+- **Berlin `b_13` (Checkpoint Charlie)**: Removed tip regarding fake soldier actors (banned by Berlin city authorities in Nov 2019) and updated to focus on Frank Thiel's portraits, border line, and Mauermuseum.
+- **Berlin `b_59` (SEA LIFE)**: Renamed from `AquaDom & SEA LIFE` to `SEA LIFE Berlin` and removed reference to the AquaDom cylinder (collapsed Dec 2022).
+- **Berlin `b_4` (Pergamonmuseum)**: Added main building renovation closure notice (closed until 2027+) and 360° panorama exhibition hall tip.
+- **Hamburg `h_2` (Elbphilharmonie)**: Updated Plaza admission fee to €3 (removed free ticket desk claim).
+- **Munich `m_52` & `m_46`**: Corrected S-Bahn line to S8 (Herrsching) and King Ludwig II in Chinese description.
+- **Munich & Cologne Tip Swaps**: Corrected swapped tips for Deutsches Museum (`m_5`), Alte Pinakothek (`m_6`), Neue Pinakothek (`m_7` - closed for renovation), Pinakothek der Moderne (`m_8`), Augustiner-Keller (`m_15`), Altstadt Köln (`c_3`), Groß St. Martin (`c_6`), Rheinauhafen (`c_7`), KölnTriangle (`c_8`), Schokoladenmuseum (`c_9`).
+- **Cache Busters**: Bumped version parameters in `index.html` to `v=97.0`.
+
+---
+
 ## 🏷️ [v21.0.0] - 2026-08-15 (System-Wide Parallel Multi-Agent Fact-Checking Mission)
 
 ### 🌐 100% Fact-Check Verification Across All 670 Spots (`v21.0.0`)
