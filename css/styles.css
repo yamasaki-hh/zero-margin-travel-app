@@ -845,5 +845,12 @@ footer {
     padding: 0.35rem 0.15rem !important;
     margin-bottom: 0.85rem !important;
   }
+@keyframes floatBounce {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-6px) rotate(3deg);
+  }
 }
 

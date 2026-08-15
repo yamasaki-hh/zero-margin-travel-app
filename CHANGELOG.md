@@ -4,6 +4,16 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v3.2.0] - 2026-08-15 (Original Strawberry Elephant Mascot Integration)
+
+### 🎨 Mascot Branding Integration
+- **Original Mascot Extraction**: Extracted and recreated the user's original hybrid mascot character (Strawberry Elephant head with green dragon/dinosaur body 🍓🐉) into high-resolution transparent vector/PNG web assets (`assets/mascot.png`).
+- **Navbar Integration**: Replaced text placeholder with interactive mascot icon in the main top header with micro-animations.
+- **Hero Section Companion Badge**: Added interactive mascot travel buddy welcome badge with floating bounce animation (`floatBounce`).
+- **Cache Busters**: Updated version parameters in `index.html` to `v=68.0`.
+
+---
+
 ## 🏷️ [v3.1.0] - 2026-08-15 (Global Kids & Family Category Strict Curation)
 
 ### 🧹 Quality & Categorization Enhancements
