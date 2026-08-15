@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v12.0.0] - 2026-08-15 (Frankfurt Database Creation & 3-Layer Compliance Verification)
+
+### 🍷 Frankfurt Database Creation & Zero-Overlap Insider Tips (`v12.0.0`)
+- **Frankfurt Comprehensive Database Creation**: Populated Frankfurt (`frankfurt.json`) with curated spots (including Römerberg, Frankfurt Cathedral, Goethe House, Städel Museum, Main Tower 200m observatory, Eiserner Steg footbridge, Kleinmarkthalle, Sachsenhausen Apfelwein taverns, Ebbelwei-Express, Rüdesheim Drosselgasse, Eltz Castle, Eberbach Abbey, and Darmstadt Mathildenhöhe UNESCO).
+- **0% Description Overlap & Pure Actionable Secrets**: Populated 6-language practical hints (e.g. Main Tower 30-min pre-sunset elevator, Kleinmarkthalle Schreiber Fleischwurst order, Sachsenhausen Bembel & Sauergespritzter pairing etiquette, Eltz Castle access road photo angle, Gutenberg Museum printed Bibles vault).
+- **Guarded Build Verification**: Passed the 3-Layer Language & Hybrid Name Compliance Guard across all 488 spots in 14 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=87.0`.
+
+---
+
 ## 🏷️ [v11.0.0] - 2026-08-15 (Universal Multilingual Hybrid Names, Outer Close Button & System Rulebook)
 
 ### 🌍 Universal Multilingual Hybrid Name Standard & 3-Layer Build Guard (`v11.0.0`)
