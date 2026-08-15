@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v19.0.0] - 2026-08-15 (System-Wide Insider Tip Mismatch Audit & Generic Placeholder Elimination)
+
+### 🎯 System-Wide Tip Realignment & Quality Audit (`v19.0.0`)
+- **Arc de Triomphe (`p_2`) Tip Mismatch Resolution**: Fixed `Arc de Triomphe` tip in Paris database, replacing the accidentally assigned Louvre Museum tip with 6-language authentic rooftop photography & underground access secrets (`🎟️ 地下通路からアプローチ...`).
+- **Generic Duplicate Tip Elimination**: Scanned all 670 spots across 15 cities and replaced 102 generic placeholder duplicate tips ("早朝またはゴールデンアワー...") with authentic spot-specific secrets or clean empty tip handling (`tip: ""`), ensuring smart component hiding on the UI.
+- **System-Wide Deep Audit Tool (`scripts/deep_audit_tips_and_descs.py`)**: Created an automated scanning tool to enforce zero mismatches and zero generic duplicates across all present and future city databases.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=94.0`.
+
+---
+
 ## 🏷️ [v18.0.0] - 2026-08-15 (Universal Category Fallback Component & Live Wikipedia Resolution Overhaul)
 
 ### 🎨 Master Rulebook v4.0.0 & UI Image Error Fallback Component (`v18.0.0`)
