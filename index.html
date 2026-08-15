@@ -20,7 +20,7 @@
   <!-- Top Slogan Banner -->
   <div class="slogan-banner">
     <span>✨</span>
-    <span>0 Margin Travel(EU): AI Route Planner & Multi-Stop Google Maps Navigation.</span>
+    <span data-i18n="banner.text">✨ 0 Margin Travel(EU): AI Route Planner & Multi-Stop Google Maps Navigation.</span>
   </div>
 
   <!-- Navbar -->
@@ -55,26 +55,18 @@
       <!-- Character Mascot Companion Badge -->
       <div class="mascot-hero-badge" style="display:inline-flex; align-items:center; gap:0.75rem; background:rgba(255,255,255,0.92); border:2px solid var(--border-ink); border-radius:50px; padding:0.4rem 1.2rem 0.4rem 0.6rem; box-shadow:var(--shadow-sketch); margin-bottom:1rem; cursor:pointer;" onclick="document.getElementById('aiPlanDestination').scrollIntoView({behavior:'smooth'})">
         <img src="assets/mascot.png" alt="Mascot Guide" style="width:48px; height:48px; object-fit:contain; animation:floatBounce 3s ease-in-out infinite;">
-        <span style="font-size:0.95rem; font-weight:800; color:var(--primary-forest);">Hi! I'm your Travel Buddy 🍓🐉 — Let's plan your route!</span>
+        <span data-i18n="hero.badge" style="font-size:0.95rem; font-weight:800; color:var(--primary-forest);">Hi! I'm your Travel Buddy 🍓🐉 — Let's plan your route!</span>
       </div>
 
-      <h1 class="hero-title" style="font-size:2.8rem; margin-bottom:0.75rem;">
-        Explore Europe Smarter with Instant Google Maps Routes.
-      </h1>
+      <h1 class="hero-title" data-i18n="hero.title" style="font-size:2.8rem; margin-bottom:0.75rem;">Explore Europe Smarter with Instant Google Maps Routes.</h1>
 
-      <p style="font-size:1.3rem; font-weight:800; color:var(--primary-forest); margin-top:0.4rem; margin-bottom:0.85rem; font-family:var(--font-serif);">
-        Curated ★4.5+ spots. Zero planning fatigue.
-      </p>
+      <p data-i18n="hero.tagline" style="font-size:1.3rem; font-weight:800; color:var(--primary-forest); margin-top:0.4rem; margin-bottom:0.85rem; font-family:var(--font-serif);">Curated ★4.5+ spots. Zero planning fatigue.</p>
 
-      <p class="hero-subtitle" style="max-width:720px; margin:0 auto 1.5rem; font-size:1.05rem;">
-        Pick your must-visit landmarks, bistros, and gems — get ready-to-use multi-stop Google Maps navigation in seconds.
-      </p>
+      <p class="hero-subtitle" data-i18n="hero.subtitle" style="max-width:720px; margin:0 auto 1.5rem; font-size:1.05rem;">Pick your must-visit landmarks, bistros, and gems — get ready-to-use multi-stop Google Maps navigation in seconds.</p>
 
       <!-- Prominent Primary CTA Button -->
       <div class="hero-buttons">
-        <button class="btn btn-primary" onclick="document.getElementById('aiPlanDestination').scrollIntoView({behavior:'smooth'})">
-          🗺️ Create Custom Travel Route
-        </button>
+        <button class="btn btn-primary" data-i18n="hero.cta" onclick="document.getElementById('aiPlanDestination').scrollIntoView({behavior:'smooth'})">🗺️ Create Custom Travel Route</button>
       </div>
 
     </div>
@@ -87,13 +79,9 @@
       <div class="planner-outer-box" style="padding:0.5rem 0;">
         
         <div style="text-align:center; max-width:750px; margin:0 auto 1.5rem;">
-          <span class="paper-tape">Interactive Route Planner</span>
-          <h2 style="font-size:2.2rem; margin-top:0.4rem; margin-bottom:0.5rem;" class="font-serif">
-            Build Your Custom Day in 3 Simple Steps
-          </h2>
-          <p style="font-size:0.95rem; color:var(--text-secondary);">
-            Handpick your favorites from ★4.5+ verified places and launch ready-to-use multi-stop Google Maps navigation in 1 click!
-          </p>
+          <span class="paper-tape" data-i18n="planner.tape">Interactive Route Planner</span>
+          <h2 data-i18n="planner.title" style="font-size:2.2rem; margin-top:0.4rem; margin-bottom:0.5rem;" class="font-serif">Build Your Custom Day in 3 Simple Steps</h2>
+          <p data-i18n="planner.subtitle" style="font-size:0.95rem; color:var(--text-secondary);">Handpick your favorites from ★4.5+ verified places and launch ready-to-use multi-stop Google Maps navigation in 1 click!</p>
         </div>
 
         <form id="aiPlannerForm" onsubmit="AITravelEngine.generateItinerary(event)">
@@ -101,12 +89,12 @@
           <!-- STEP 1: TRIP PARAMETERS -->
           <div class="step1-container" style="margin-bottom:1.5rem;">
             <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:1rem; display:flex; align-items:center; gap:0.5rem;" class="font-serif">
-              <span>1️⃣</span> <span>Step 1: Choose Destination — Select your country & city</span>
+              <span>1️⃣</span> <span data-i18n="step1.title">Step 1: Choose Destination — Select your country & city</span>
             </div>
 
             <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:1rem;">
               <div>
-                <label class="form-label">Country:</label>
+                <label class="form-label" data-i18n="label.country">Country:</label>
                 <select id="aiPlanCountry" class="form-control" onchange="AITravelEngine.onCountryChange()">
                   <option value="France" selected>🇫🇷 France</option>
                   <option value="Germany">🇩🇪 Germany</option>
@@ -117,7 +105,7 @@
               </div>
 
               <div>
-                <label class="form-label">City:</label>
+                <label class="form-label" data-i18n="label.city">City:</label>
                 <select id="aiPlanDestination" class="form-control" onchange="AITravelEngine.renderCandidateSpots()">
                   <option value="Paris, France" selected>🇫🇷 Paris</option>
                   <option value="Bordeaux, France">🇫🇷 Bordeaux</option>
@@ -130,11 +118,11 @@
               </div>
 
               <div>
-                <label class="form-label">Area Zone:</label>
+                <label class="form-label" data-i18n="label.areaZone">Area Zone:</label>
                 <select id="aiPlanAreaZone" class="form-control" onchange="AITravelEngine.renderCandidateSpots()">
-                  <option value="ALL" selected>✨ All Spots (City + Suburban)</option>
-                  <option value="city">🏙️ City Center Spots</option>
-                  <option value="suburban">🏞️ Suburban & Day Trips</option>
+                  <option value="ALL" selected data-i18n="area.all">✨ All Spots (City + Suburban)</option>
+                  <option value="city" data-i18n="area.city">🏙️ City Center Spots</option>
+                  <option value="suburban" data-i18n="area.suburban">🏞️ Suburban & Day Trips</option>
                 </select>
               </div>
             </div>
@@ -144,7 +132,7 @@
           <div class="step2-container" style="margin-bottom:1.5rem;">
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.25rem;">
               <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); display:flex; align-items:center; gap:0.5rem;" class="font-serif">
-                <span>2️⃣</span> <span>Step 2: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places</span>
+                <span>2️⃣</span> <span data-i18n="step2.title">Step 2: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places</span>
               </div>
               
               <span id="spotsCounterBadge" style="font-size:0.88rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.35rem 0.85rem; border-radius:9999px; border:1.5px solid #0284C7;">
@@ -152,29 +140,25 @@
               </span>
             </div>
 
-            <p style="font-size:0.9rem; color:var(--text-secondary); margin-bottom:1.25rem;">
-              Check the boxes for spots you definitely want to visit. The AI engine will generate both <strong>Route A (Selected Spots Only)</strong> and <strong>Route B (Full 1-Day AI Course)</strong> for Google Maps navigation!
-            </p>
+            <p data-i18n="step2.subtitle" style="font-size:0.9rem; color:var(--text-secondary); margin-bottom:1.25rem;">Check the boxes for spots you definitely want to visit. The AI engine will generate both Route A (Selected Spots Only) and Route B (Full 1-Day AI Course) for Google Maps navigation!</p>
             <div id="candidateSpotsGrid" class="grid-3" style="display:grid !important; visibility:visible !important;"></div>
           </div>
 
                     <!-- Optional Custom Return Hotel Field -->
           <div style="max-width:560px; margin:0 auto 1.5rem auto; background:#FAF7F2; border:1.5px solid #E2E8F0; padding:0.85rem 1.1rem; border-radius:14px; text-align:left;">
             <label for="aiPlanHotelInput" style="font-size:0.85rem; font-weight:800; color:var(--primary-wood); display:flex; align-items:center; gap:0.4rem; margin-bottom:0.35rem;">
-              <span>🏨 Return Hotel / Stay</span>
-              <span style="font-size:0.72rem; font-weight:600; color:#64748B;">(Optional — Appended as final destination to Route A & B)</span>
+              <span data-i18n="label.hotel">🏨 Return Hotel / Stay</span>
+              <span data-i18n="label.hotelSub" style="font-size:0.72rem; font-weight:600; color:#64748B;">(Optional — Appended as final destination to Route A & B)</span>
             </label>
-            <input type="text" id="aiPlanHotelInput" placeholder="e.g. Ritz Paris or your hotel address (leave blank to skip)" style="width:100%; padding:0.6rem 0.85rem; border-radius:10px; border:1.5px solid #CBD5E1; font-size:0.9rem; background:#FFF; font-family:var(--font-sans);">
+            <input type="text" id="aiPlanHotelInput" data-i18n-placeholder="placeholder.hotel" placeholder="e.g. Ritz Paris or your hotel address (leave blank to skip)" style="width:100%; padding:0.6rem 0.85rem; border-radius:10px; border:1.5px solid #CBD5E1; font-size:0.9rem; background:#FFF; font-family:var(--font-sans);">
           </div>
 
           <!-- STEP 3: LAUNCH IN MAPS -->
           <div style="text-align:center; max-width:680px; margin:0 auto;">
             <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:0.75rem;" class="font-serif">
-              <span>3️⃣</span> <span>Step 3: Launch in Maps — Choose Route A (Selected only) or Route B (Curated full-day loop)</span>
+              <span>3️⃣</span> <span data-i18n="step3.title">Step 3: Launch in Maps — Choose Route A (Selected only) or Route B (Curated full-day loop)</span>
             </div>
-            <button type="submit" class="btn btn-emerald" style="padding:1.1rem 2.75rem; font-size:1.2rem; border-radius:16px;">
-              🗺️ Generate Ready-to-Use Dual Google Maps Routes ↗
-            </button>
+            <button type="submit" class="btn btn-emerald" data-i18n="btn.generate" style="padding:1.1rem 2.75rem; font-size:1.2rem; border-radius:16px;">🗺️ Generate Ready-to-Use Dual Google Maps Routes ↗</button>
           </div>
 
         </form>
@@ -209,18 +193,18 @@
   <div class="mobile-bottom-bar">
     <button class="mobile-bottom-item" onclick="document.getElementById('aiPlanDestination').scrollIntoView({behavior:'smooth'})">
       <span style="font-size:1.25rem;">🗺️</span>
-      <span>Route Planner</span>
+      <span data-i18n="mobile.planner">Route Planner</span>
     </button>
     <button class="mobile-bottom-item" onclick="window.scrollTo({top:0, behavior:'smooth'})">
       <span style="font-size:1.25rem;">⬆️</span>
-      <span>Top</span>
+      <span data-i18n="mobile.top">Top</span>
     </button>
   </div>
 
   <!-- Scripts -->
-  <script src="js/i18n.js?v=71.0"></script>
-  <script src="js/ai-travel-engine.js?v=71.0"></script>
-  <script src="js/travel-app.js?v=71.0"></script>
+  <script src="js/i18n.js?v=72.0"></script>
+  <script src="js/ai-travel-engine.js?v=72.0"></script>
+  <script src="js/travel-app.js?v=72.0"></script>
   <script>
     // Inline execution fallback to guarantee candidate spots grid renders instantly on DOM load
     window.addEventListener('load', function() {

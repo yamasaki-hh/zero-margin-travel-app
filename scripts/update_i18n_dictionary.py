@@ -1,21 +1,6 @@
-/* ==========================================================================
-   0 Margin Travel — i18n Multilingual Dictionary & Engine (v4.3.0)
-   Supported Languages: EN (Default), JA, ES, ZH, FR, DE
-   ========================================================================== */
+import json
 
-const I18nEngine = {
-  currentLang: 'en',
-
-  supportedLanguages: [
-    { code: 'en', label: '🇬🇧 English' },
-    { code: 'ja', label: '🇯🇵 日本語' },
-    { code: 'es', label: '🇪🇸 Español' },
-    { code: 'zh', label: '🇨🇳 中文 (简体)' },
-    { code: 'fr', label: '🇫🇷 Français' },
-    { code: 'de', label: '🇩🇪 Deutsch' }
-  ],
-
-  translations: {
+translations = {
     "en": {
         "nav.title": "0 Margin Travel(EU)",
         "nav.badge": "Western Europe & Benelux",
@@ -352,67 +337,92 @@ const I18nEngine = {
         "mobile.planner": "Routenplaner",
         "mobile.top": "Nach oben"
     }
-},
+}
 
-  init() {
+i18n_code = f"""/* ==========================================================================
+   0 Margin Travel — i18n Multilingual Dictionary & Engine (v4.3.0)
+   Supported Languages: EN (Default), JA, ES, ZH, FR, DE
+   ========================================================================== */
+
+const I18nEngine = {{
+  currentLang: 'en',
+
+  supportedLanguages: [
+    {{ code: 'en', label: '🇬🇧 English' }},
+    {{ code: 'ja', label: '🇯🇵 日本語' }},
+    {{ code: 'es', label: '🇪🇸 Español' }},
+    {{ code: 'zh', label: '🇨🇳 中文 (简体)' }},
+    {{ code: 'fr', label: '🇫🇷 Français' }},
+    {{ code: 'de', label: '🇩🇪 Deutsch' }}
+  ],
+
+  translations: {json.dumps(translations, indent=4, ensure_ascii=False)},
+
+  init() {{
     const saved = localStorage.getItem('0mt_lang');
-    if (saved && this.translations[saved]) {
+    if (saved && this.translations[saved]) {{
       this.currentLang = saved;
-    } else {
+    }} else {{
       const browserLang = (navigator.language || 'en').slice(0, 2).toLowerCase();
-      if (this.translations[browserLang]) {
+      if (this.translations[browserLang]) {{
         this.currentLang = browserLang;
-      } else {
+      }} else {{
         this.currentLang = 'en';
-      }
-    }
+      }}
+    }}
     this.applyLanguage(this.currentLang);
-  },
+  }},
 
-  setLanguage(lang) {
+  setLanguage(lang) {{
     if (!this.translations[lang]) return;
     this.currentLang = lang;
     localStorage.setItem('0mt_lang', lang);
     this.applyLanguage(lang);
 
-    if (window.AITravelEngine) {
+    if (window.AITravelEngine) {{
       window.AITravelEngine.renderCandidateSpots();
-    }
-  },
+    }}
+  }},
 
-  getText(key) {
+  getText(key) {{
     const langDict = this.translations[this.currentLang] || this.translations.en;
     return langDict[key] || this.translations.en[key] || key;
-  },
+  }},
 
-  applyLanguage(lang) {
+  applyLanguage(lang) {{
     const langDict = this.translations[lang] || this.translations.en;
     
     // Update elements with data-i18n attribute
-    document.querySelectorAll('[data-i18n]').forEach(el => {
+    document.querySelectorAll('[data-i18n]').forEach(el => {{
       const key = el.getAttribute('data-i18n');
-      if (langDict[key]) {
+      if (langDict[key]) {{
         el.innerHTML = langDict[key];
-      }
-    });
+      }}
+    }});
 
     // Update input placeholders with data-i18n-placeholder
-    document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {{
       const key = el.getAttribute('data-i18n-placeholder');
-      if (langDict[key]) {
+      if (langDict[key]) {{
         el.setAttribute('placeholder', langDict[key]);
-      }
-    });
+      }}
+    }});
 
     // Update active state in language selector dropdown
     const langSelect = document.getElementById('globalLanguageSelect');
-    if (langSelect) {
+    if (langSelect) {{
       langSelect.value = lang;
-    }
-  }
-};
+    }}
+  }}
+}};
 
 window.I18nEngine = I18nEngine;
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {{
   I18nEngine.init();
-});
+}});
+"""
+
+with open('js/i18n.js', 'w', encoding='utf-8') as f:
+    f.write(i18n_code)
+
+print("Successfully updated js/i18n.js with 100% complete dictionaries!")

@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.3.0] - 2026-08-15 (100% Complete Full-Page Static UI & Header Multilingual Tagging Fix)
+
+### 🌐 Universal UI Multilingual Tagging (`data-i18n`)
+- **Full Static Page Tagging**: Added missing `data-i18n` attributes to ALL static text elements in `index.html` including hero title, hero tagline, subtitle, CTA buttons, step headers ("Step 1", "Step 2", "Step 3"), form labels ("Country:", "City:", "Area Zone:"), select options ("All Spots", "City Center", "Suburban"), return hotel labels, and mobile bottom bar links.
+- **Enriched 6-Language Dictionary (`js/i18n.js`)**: Expanded translation dictionaries for EN, JA, ES, ZH, FR, and DE to cover all 52 static and dynamic UI keys.
+- **Instant Language Refresh**: Selecting any language from the top selector (`#globalLanguageSelect`) now seamlessly translates 100% of the page elements (header, hero, steps, forms, spot cards, modals, and navigation buttons) without leaving any English text behind.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=72.0`.
+
+---
+
 ## 🏷️ [v4.2.0] - 2026-08-15 (Complete 6-Language Multilingual Spot Name & Card Translation Fix)
 
 ### 🌐 Multilingual Display Resolution & Spot Cards i18n
