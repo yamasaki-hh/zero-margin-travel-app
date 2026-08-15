@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v5.0.0] - 2026-08-15 (Munich 60-Spot Comprehensive Expansion & 6-Language Insider Tips)
+
+### 🍺 Munich Complete Database Expansion (`v5.0.0`)
+- **60-Spot Munich Coverage**: Expanded Munich from 12 spots to 60 comprehensive spots (45 City Center & 15 Alpine/Suburban day trips like Schloss Neuschwanstein, Wieskirche, Zugspitze, Tegernsee, and Dachau).
+- **100% 6-Language Multilingual & Insider Tips**: Built 6-language names, descriptions, prices, exact GPS lat/lng, and fresh insider tips (`tip_en`, `tip_ja`, `tip_es`, `tip_zh`, `tip_fr`, `tip_de`) for all 60 Munich spots.
+- **Tag Refinement**: Purified `rain`, `shopping`, and `free` flags across all 60 Munich spots.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=79.0`.
+
+---
+
 ## 🏷️ [v4.9.0] - 2026-08-15 (Paris Fresh Insider Tips & Visual Card Tip Button Integration)
 
 ### 💡 Paris Insider Tips & UI Enhancement (`v4.9.0`)
