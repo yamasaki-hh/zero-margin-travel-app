@@ -2,6 +2,19 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v26.0.0] - 2026-08-15 (Nuremberg 52 Spots City Module Release)
+
+### 🥨 Nuremberg City Module Integration (`v26.0.0`)
+- **New City Integration**: Added complete 52-spot static module for **Nuremberg / Nürnberg, Germany (ニュルンベルク)** (`data/cities/nuremberg.json`), expanding overall database coverage to **18 European cities and 824 verified spots**.
+- **City Spots (`nu_1`–`nu_40`)**: Kaiserburg Nürnberg, Hauptmarkt & Christkindlesmarkt, Schöner Brunnen, Frauenkirche, St. Lorenz Kirche, St. Sebaldus Kirche, Germanisches Nationalmuseum (GNM), Albrecht-Dürer-Haus, Weißgerbergasse, Henkersteg & Weinstadel, Heilig-Geist-Spital, Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld, Memorium Nürnberger Prozesse (Saal 600), Spielzeugmuseum Nürnberg, DB Museum (Verkehrsmuseum), Museum für Kommunikation, Historische Felsengänge, Historischer Kunstbunker, Mittelalterliche Lochgefängnisse, Deutsches Museum Nürnberg (Zukunftsmuseum), Neues Museum Nürnberg, Stadtmuseum im Fembo-Haus, Handwerkerhof Nürnberg, Straße der Menschenrechte, Ehekarussell (Das bittere Eheleben), Kettensteg & Maxbrücke, Stadtmauer Nürnberg & Tore, Johannisfriedhof, Tiergarten Nürnberg & Delphinlagune, Nicolaus-Copernicus-Planetarium, Museum Tucherschloss und Hirsvogelsaal, Bratwursthäusle bei St. Sebald, Historische Bratwurstküche "Zum Gulden Stern", Hausbrauerei Altstadthof (Nürnberger Rotbier), Nürnberger Lebkuchen (Haeberlein-Metzger & Wicklein), Königstraße & Karolinenstraße, Breite Gasse, Trödelmarkt, Wöhrder Wiese & Wöhrder See, Turm der Sinne.
+- **Suburban & Regional Franconian Day Trips (`nu_41`–`nu_52`)**: Rothenburg ob der Tauber (Plönlein, Rathausturm, St. Jakob, Kriminalmuseum, Käthe Wohlfahrt, Schneeballen), Playmobil FunPark (Zirndorf), Bamberg: Altstadt & Altes Rathaus (UNESCO / Klein Venedig, Schlenkerla Rauchbier), Würzburg: Residenz & Hofgarten (UNESCO / Tiepolo Fresco, Alte Mainbrücke Wine), Cadolzburg Castle, Fränkische Schweiz (Franconian Switzerland / Teufelshöhle, Pottenstein Castle, Breweries), Schloss Faber-Castell & Factory (Stein), Dinkelsbühl (Romantic Road Walled Medieval City / Night Watchman Walk), Erlangen: Schlossgarten & Hugenottenkirche, Schwabach: Goldstadt & Goldschläger-Werkstatt, Freizeit-Land Geiselwind, Thermen & Erlebnisbad Kristall Palm Beach (Stein).
+- **Master Rulebook v5.0.0 Compliance**: 100% 6-language hybrid naming (`Original Local Name (Localized Name)`), 0% content overlap between `desc` (history/architecture) and `tip` (actionable insider advice), verified precise coordinates, and 52/52 live Wikipedia REST API photo resolution.
+- **Tag Bug Resolution**: Fixed `getLocalizedZone(zone)` in `js/ai-travel-engine.js` so city-center spots display localized `📍 市内` / `📍 City Center` instead of `undefined`.
+- **Compliance Guard PASSED**: `🛡️ 3-Layer Compliance Guard PASSED: All 824 spots across 18 cities pass Language, Category & Hybrid Name checks!`
+- **Cache Busters**: Updated asset version string in `index.html` to `v=102.0`.
+
+---
+
 ## 🏷️ [v25.0.0] - 2026-08-15 (Dresden 52 Spots City Module Release)
 
 ### 🏛️ Dresden City Module Integration (`v25.0.0`)

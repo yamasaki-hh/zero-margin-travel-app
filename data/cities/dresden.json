@@ -40,7 +40,10 @@
       "name_es": "Frauenkirche Dresden (Iglesia de Nuestra Señora)",
       "name_zh": "Frauenkirche Dresden (德累斯顿圣母教堂)",
       "name_fr": "Frauenkirche Dresden (Église Notre-Dame de Dresde)",
-      "name_de": "Frauenkirche Dresden"
+      "name_de": "Frauenkirche Dresden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dresden_Germany_Exterior-of-Frauenkirche-04.jpg/330px-Dresden_Germany_Exterior-of-Frauenkirche-04.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dresden_Germany_Exterior-of-Frauenkirche-04.jpg/330px-Dresden_Germany_Exterior-of-Frauenkirche-04.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_2",
@@ -79,7 +82,10 @@
       "name_es": "Dresdner Zwinger (Palacio Zwinger)",
       "name_zh": "Dresdner Zwinger (茨温格宫)",
       "name_fr": "Dresdner Zwinger (Palais du Zwinger)",
-      "name_de": "Dresdner Zwinger"
+      "name_de": "Dresdner Zwinger",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dresden_Germany_Zwinger-01.jpg/330px-Dresden_Germany_Zwinger-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dresden_Germany_Zwinger-01.jpg/330px-Dresden_Germany_Zwinger-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_3",
@@ -118,7 +124,10 @@
       "name_es": "Gemäldegalerie Alte Meister (Galería de Maestros Antiguos)",
       "name_zh": "Gemäldegalerie Alte Meister (历代大师画廊)",
       "name_fr": "Gemäldegalerie Alte Meister (Galerie des Maîtres Anciens)",
-      "name_de": "Gemäldegalerie Alte Meister"
+      "name_de": "Gemäldegalerie Alte Meister",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/330px-Dresden-Zwinger-Courtyard.11.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/330px-Dresden-Zwinger-Courtyard.11.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_4",
@@ -128,7 +137,7 @@
       "locationZone": "city",
       "lat": 51.0528,
       "lng": 13.733,
-      "kids": false,
+      "kids": true,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -157,7 +166,10 @@
       "name_es": "Mathematisch-Physikalischer Salon (Salón Matemático-Físico)",
       "name_zh": "Mathematisch-Physikalischer Salon (数学物理沙龙)",
       "name_fr": "Mathematisch-Physikalischer Salon (Salon des Mathématiques et de la Physique)",
-      "name_de": "Mathematisch-Physikalischer Salon"
+      "name_de": "Mathematisch-Physikalischer Salon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Globusuhr_1586.jpg/330px-Globusuhr_1586.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Globusuhr_1586.jpg/330px-Globusuhr_1586.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_5",
@@ -196,7 +208,8 @@
       "name_es": "Dresdner Porzellansammlung (Colección de Porcelana de Dresde)",
       "name_zh": "Dresdner Porzellansammlung (德累斯顿瓷器收藏馆)",
       "name_fr": "Dresdner Porzellansammlung (Collection de Porcelaine de Dresde)",
-      "name_de": "Dresdner Porzellansammlung"
+      "name_de": "Dresdner Porzellansammlung",
+      "hasWiki": false
     },
     {
       "id": "dr_6",
@@ -235,7 +248,10 @@
       "name_es": "Residenzschloss Dresden (Palacio Real de Dresde)",
       "name_zh": "Residenzschloss Dresden (德累斯顿王宫)",
       "name_fr": "Residenzschloss Dresden (Château de la Résidence de Dresde)",
-      "name_de": "Residenzschloss Dresden"
+      "name_de": "Residenzschloss Dresden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/330px-DD-Schloss-gp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/330px-DD-Schloss-gp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_7",
@@ -274,7 +290,10 @@
       "name_es": "Grünes Gewölbe (Bóveda Verde)",
       "name_zh": "Grünes Gewölbe (绿穹珍宝馆)",
       "name_fr": "Grünes Gewölbe (Voûte Verte)",
-      "name_de": "Grünes Gewölbe"
+      "name_de": "Grünes Gewölbe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dresden_2012-05-22-6590.jpg/330px-Dresden_2012-05-22-6590.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dresden_2012-05-22-6590.jpg/330px-Dresden_2012-05-22-6590.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_8",
@@ -313,7 +332,8 @@
       "name_es": "Türckische Cammer & Rüstkammer (Cámara Turca y Armería Real)",
       "name_zh": "Türckische Cammer & Rüstkammer (土耳其厅与皇家军械馆)",
       "name_fr": "Türckische Cammer & Rüstkammer (Chambre Turque et Armurerie)",
-      "name_de": "Türckische Cammer & Rüstkammer"
+      "name_de": "Türckische Cammer & Rüstkammer",
+      "hasWiki": false
     },
     {
       "id": "dr_9",
@@ -352,7 +372,10 @@
       "name_es": "Fürstenzug (Desfile de los Príncipes)",
       "name_zh": "Fürstenzug (王侯行列图瓷砖壁画)",
       "name_fr": "Fürstenzug (Cortège des Princes)",
-      "name_de": "Fürstenzug"
+      "name_de": "Fürstenzug",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/F%C3%BCrstenzug_in_der_Augustusstra%C3%9Fe_in_Dresden...IMG_7478OB1.JPG/330px-F%C3%BCrstenzug_in_der_Augustusstra%C3%9Fe_in_Dresden...IMG_7478OB1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/F%C3%BCrstenzug_in_der_Augustusstra%C3%9Fe_in_Dresden...IMG_7478OB1.JPG/330px-F%C3%BCrstenzug_in_der_Augustusstra%C3%9Fe_in_Dresden...IMG_7478OB1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_10",
@@ -391,7 +414,10 @@
       "name_es": "Semperoper Dresden (Ópera Semper)",
       "name_zh": "Semperoper Dresden (森帕歌剧院)",
       "name_fr": "Semperoper Dresden (Opéra Semper de Dresde)",
-      "name_de": "Semperoper Dresden"
+      "name_de": "Semperoper Dresden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dresden_-_Semperoper_-_2013.jpg/330px-Dresden_-_Semperoper_-_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dresden_-_Semperoper_-_2013.jpg/330px-Dresden_-_Semperoper_-_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_11",
@@ -430,7 +456,10 @@
       "name_es": "Katholische Hofkirche (Catedral de la Santísima Trinidad)",
       "name_zh": "Katholische Hofkirche (德累斯顿宫廷主教座堂)",
       "name_fr": "Katholische Hofkirche (Cathédrale de la Sainte-Trinité de Dresde)",
-      "name_de": "Katholische Hofkirche"
+      "name_de": "Katholische Hofkirche",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dresden%2C_Katholische_Hofkirche_--_2023_--_9410.jpg/330px-Dresden%2C_Katholische_Hofkirche_--_2023_--_9410.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dresden%2C_Katholische_Hofkirche_--_2023_--_9410.jpg/330px-Dresden%2C_Katholische_Hofkirche_--_2023_--_9410.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_12",
@@ -469,7 +498,10 @@
       "name_es": "Brühlsche Terrasse (Terraza de Brühl)",
       "name_zh": "Brühlsche Terrasse (布吕尔平台)",
       "name_fr": "Brühlsche Terrasse (Terrasse de Brühl)",
-      "name_de": "Brühlsche Terrasse"
+      "name_de": "Brühlsche Terrasse",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DD-Br%C3%BChlscheTerrasse.JPG/330px-DD-Br%C3%BChlscheTerrasse.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DD-Br%C3%BChlscheTerrasse.JPG/330px-DD-Br%C3%BChlscheTerrasse.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_13",
@@ -508,7 +540,10 @@
       "name_es": "Dresdner Neumarkt (Plaza Neumarkt)",
       "name_zh": "Dresdner Neumarkt (德累斯顿新广场)",
       "name_fr": "Dresdner Neumarkt (Place Neumarkt)",
-      "name_de": "Dresdner Neumarkt"
+      "name_de": "Dresdner Neumarkt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Frauenkirche-dresden.jpg/330px-Frauenkirche-dresden.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Frauenkirche-dresden.jpg/330px-Frauenkirche-dresden.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_14",
@@ -518,8 +553,8 @@
       "locationZone": "city",
       "lat": 51.0495,
       "lng": 13.7383,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "family": true,
@@ -547,7 +582,8 @@
       "name_es": "Dresdner Altmarkt (Plaza Altmarkt)",
       "name_zh": "Dresdner Altmarkt (德累斯顿旧广场)",
       "name_fr": "Dresdner Altmarkt (Place Altmarkt)",
-      "name_de": "Dresdner Altmarkt"
+      "name_de": "Dresdner Altmarkt",
+      "hasWiki": false
     },
     {
       "id": "dr_15",
@@ -586,17 +622,18 @@
       "name_es": "Kreuzkirche Dresden (Iglesia de la Santa Cruz)",
       "name_zh": "Kreuzkirche Dresden (德累斯顿圣十字教堂)",
       "name_fr": "Kreuzkirche Dresden (Église de la Sainte-Croix)",
-      "name_de": "Kreuzkirche Dresden"
+      "name_de": "Kreuzkirche Dresden",
+      "hasWiki": false
     },
     {
       "id": "dr_16",
-      "name": "Dresdner Molkerei Gebrüder Pfund (Pfunds Molkerei)（プフント酪農場 / 世界で最も美しい乳製品店）",
+      "name": "Dresdner Molkerei Gebrüder Pfund（Pfunds Molkerei）",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
       "lat": 51.0636,
       "lng": 13.7585,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -620,22 +657,25 @@
       "price_zh": "免费入店（酪乳约 2 欧元 / 奶酪拼盘约 8 欧元）",
       "price_fr": "Entrée libre (Verre de Buttermilch env. 2 €)",
       "price_de": "Eintritt frei (Glas Buttermilch ca. 2 €)",
-      "name_en": "Pfunds Molkerei (The World's Most Beautiful Milk Shop)",
-      "name_ja": "Dresdner Molkerei Gebrüder Pfund (Pfunds Molkerei)（プフント酪農場 / 世界で最も美しい乳製品店）",
-      "name_es": "Pfunds Molkerei (La Lechería más Bonita del Mundo)",
-      "name_zh": "Pfunds Molkerei (普夫恩德牛奶店 / 世界上最美的牛奶店)",
-      "name_fr": "Pfunds Molkerei (La Plus Belle Laiterie du Monde)",
-      "name_de": "Dresdner Molkerei Gebrüder Pfund (Pfunds Molkerei)"
+      "name_en": "Dresdner Molkerei Gebrüder Pfund (The World's Most Beautiful Milk Shop)",
+      "name_ja": "Dresdner Molkerei Gebrüder Pfund（Pfunds Molkerei）",
+      "name_es": "Dresdner Molkerei Gebrüder Pfund (La Lechería más Bonita del Mundo)",
+      "name_zh": "Dresdner Molkerei Gebrüder Pfund (普夫恩德牛奶店 / 世界上最美的牛奶店)",
+      "name_fr": "Dresdner Molkerei Gebrüder Pfund (La Plus Belle Laiterie du Monde)",
+      "name_de": "Dresdner Molkerei Gebrüder Pfund (Pfunds Molkerei)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/PfundsMolkereiFotoThalerTamas2.jpg/330px-PfundsMolkereiFotoThalerTamas2.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/PfundsMolkereiFotoThalerTamas2.jpg/330px-PfundsMolkereiFotoThalerTamas2.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_17",
-      "name": "Kunsthofpassage (Dresden-Neustadt)（クンストホーフパサージュ / 芸術中庭小路）",
+      "name": "Kunsthofpassage（Dresden-Neustadt）",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
       "lat": 51.0668,
       "lng": 13.7558,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -660,11 +700,14 @@
       "price_fr": "Accès libre",
       "price_de": "Kostenlos",
       "name_en": "Kunsthofpassage (Art Courtyards Passage)",
-      "name_ja": "Kunsthofpassage (Dresden-Neustadt)（クンストホーフパサージュ / 芸術中庭小路）",
+      "name_ja": "Kunsthofpassage（Dresden-Neustadt）",
       "name_es": "Kunsthofpassage (Pasaje de los Patios del Arte)",
       "name_zh": "Kunsthofpassage (艺术庭院通廊)",
       "name_fr": "Kunsthofpassage (Passage des Cours de l'Art)",
-      "name_de": "Kunsthofpassage (Dresden-Neustadt)"
+      "name_de": "Kunsthofpassage (Dresden-Neustadt)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dresden-Kunsthof-Fabelwesen.jpg/330px-Dresden-Kunsthof-Fabelwesen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dresden-Kunsthof-Fabelwesen.jpg/330px-Dresden-Kunsthof-Fabelwesen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_18",
@@ -675,7 +718,7 @@
       "lat": 51.0662,
       "lng": 13.7532,
       "kids": false,
-      "rain": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "family": true,
@@ -703,7 +746,10 @@
       "name_es": "Äußere Neustadt (Barrio Bohemio de Neustadt)",
       "name_zh": "Äußere Neustadt (新城外围前卫街区)",
       "name_fr": "Äußere Neustadt (Quartier Bohème de Neustadt)",
-      "name_de": "Äußere Neustadt (Dresdner Szeneviertel)"
+      "name_de": "Äußere Neustadt (Dresdner Szeneviertel)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%C3%84u%C3%9Fere_Neustadt_in_Dresden.svg/langde-330px-%C3%84u%C3%9Fere_Neustadt_in_Dresden.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%C3%84u%C3%9Fere_Neustadt_in_Dresden.svg/langde-330px-%C3%84u%C3%9Fere_Neustadt_in_Dresden.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_19",
@@ -713,7 +759,7 @@
       "locationZone": "city",
       "lat": 51.0583,
       "lng": 13.7412,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -742,7 +788,10 @@
       "name_es": "Goldener Reiter (Jinete Dorado)",
       "name_zh": "Goldener Reiter (金色骑手雕像)",
       "name_fr": "Goldener Reiter (Le Cavalier d'Or)",
-      "name_de": "Goldener Reiter"
+      "name_de": "Goldener Reiter",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Silberblick_album.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/en/0/0b/Silberblick_album.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "hasWiki": true
     },
     {
       "id": "dr_20",
@@ -752,7 +801,7 @@
       "locationZone": "city",
       "lat": 51.0375,
       "lng": 13.7628,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -781,11 +830,12 @@
       "name_es": "Großer Garten & Dresdner Parkeisenbahn (Gran Jardín y Ferrocarril del Parque)",
       "name_zh": "Großer Garten & Dresdner Parkeisenbahn (大花园与德累斯顿公园迷你铁路)",
       "name_fr": "Großer Garten & Dresdner Parkeisenbahn (Grand Jardin et Train Miniature)",
-      "name_de": "Großer Garten & Dresdner Parkeisenbahn"
+      "name_de": "Großer Garten & Dresdner Parkeisenbahn",
+      "hasWiki": false
     },
     {
       "id": "dr_21",
-      "name": "Sommerpalais (Palais im Großen Garten)（グローサー・ガルテン宮殿 / 夏の館）",
+      "name": "Sommerpalais（Palais im Großen Garten）",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -815,12 +865,15 @@
       "price_zh": "外景免费（特展与音乐会票价另计）",
       "price_fr": "Extérieur libre (Expositions payantes)",
       "price_de": "Außenbereich frei (Ausstellungen/Konzerte separat)",
-      "name_en": "Sommerpalais im Großen Garten (Palais im Großen Garten)",
-      "name_ja": "Sommerpalais (Palais im Großen Garten)（グローサー・ガルテン宮殿 / 夏の館）",
+      "name_en": "Sommerpalais (Palais im Großen Garten)",
+      "name_ja": "Sommerpalais（Palais im Großen Garten）",
       "name_es": "Sommerpalais (Palacio del Gran Jardín)",
       "name_zh": "Sommerpalais (大花园宫殿)",
-      "name_fr": "Palais im Großen Garten (Palais du Grand Jardin)",
-      "name_de": "Palais im Großen Garten (Sommerpalais)"
+      "name_fr": "Sommerpalais (Palais du Grand Jardin)",
+      "name_de": "Sommerpalais",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sommerresidenz01.jpg/330px-Sommerresidenz01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sommerresidenz01.jpg/330px-Sommerresidenz01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_22",
@@ -859,7 +912,10 @@
       "name_es": "Zoo Dresden (Jardín Zoológico de Dresde)",
       "name_zh": "Zoo Dresden (德累斯顿动物园)",
       "name_fr": "Zoo Dresden (Jardin Zoologique de Dresde)",
-      "name_de": "Zoo Dresden"
+      "name_de": "Zoo Dresden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Dresden-Zoo-openstreetmap.png/330px-Dresden-Zoo-openstreetmap.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Dresden-Zoo-openstreetmap.png/330px-Dresden-Zoo-openstreetmap.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_23",
@@ -869,8 +925,8 @@
       "locationZone": "city",
       "lat": 51.0442,
       "lng": 13.7585,
-      "kids": true,
-      "rain": true,
+      "kids": false,
+      "rain": false,
       "shopping": false,
       "free": true,
       "family": true,
@@ -898,7 +954,8 @@
       "name_es": "Botanischer Garten der TU Dresden (Jardín Botánico de la TU Dresden)",
       "name_zh": "Botanischer Garten der TU Dresden (德累斯顿工业大学植物园)",
       "name_fr": "Botanischer Garten der TU Dresden (Jardin Botanique de l'Université de Dresde)",
-      "name_de": "Botanischer Garten der TU Dresden"
+      "name_de": "Botanischer Garten der TU Dresden",
+      "hasWiki": false
     },
     {
       "id": "dr_24",
@@ -937,11 +994,14 @@
       "name_es": "Deutsches Hygiene-Museum (Museo Alemán de la Higiene)",
       "name_zh": "Deutsches Hygiene-Museum (德国卫生博物馆)",
       "name_fr": "Deutsches Hygiene-Museum (Musée Allemand de l'Hygiène)",
-      "name_de": "Deutsches Hygiene-Museum (DHMD)"
+      "name_de": "Deutsches Hygiene-Museum (DHMD)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg/330px-Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg/330px-Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_25",
-      "name": "Militärhistorisches Museum der Bundeswehr (MHM)（連邦軍軍事史博物館）",
+      "name": "Militärhistorisches Museum der Bundeswehr（MHM）",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -972,11 +1032,14 @@
       "price_fr": "Adultes : 5 € / Réduit : 3 € / Gratuit le lundi de 18h à 21h",
       "price_de": "Erwachsene: 5 € / Ermäßigt: 3 € / Montags 18–21 Uhr frei",
       "name_en": "Militärhistorisches Museum der Bundeswehr (Bundeswehr Military History Museum)",
-      "name_ja": "Militärhistorisches Museum der Bundeswehr (MHM)（連邦軍軍事史博物館）",
+      "name_ja": "Militärhistorisches Museum der Bundeswehr（MHM）",
       "name_es": "Militärhistorisches Museum der Bundeswehr (Museo de Historia Militar de la Bundeswehr)",
       "name_zh": "Militärhistorisches Museum der Bundeswehr (德国联邦军军事史博物馆)",
       "name_fr": "Militärhistorisches Museum der Bundeswehr (Musée d'Histoire Militaire de la Bundeswehr)",
-      "name_de": "Militärhistorisches Museum der Bundeswehr (MHM)"
+      "name_de": "Militärhistorisches Museum der Bundeswehr (MHM)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_MHM_Dresden.svg/langde-330px-Logo_MHM_Dresden.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_MHM_Dresden.svg/langde-330px-Logo_MHM_Dresden.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_26",
@@ -986,7 +1049,7 @@
       "locationZone": "city",
       "lat": 51.0258,
       "lng": 13.7885,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1015,7 +1078,10 @@
       "name_es": "Panometer Dresden (Gasómetro del Panorama 360° de Asisi)",
       "name_zh": "Panometer Dresden (德累斯顿全景图储气罐艺术馆)",
       "name_fr": "Panometer Dresden (Gazomètre Panorama 360° Asisi)",
-      "name_de": "Panometer Dresden (360°-Panorama im Gasometer)"
+      "name_de": "Panometer Dresden (360°-Panorama im Gasometer)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/330px-Dresden-Panometer.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/330px-Dresden-Panometer.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_27",
@@ -1054,17 +1120,20 @@
       "name_es": "Albertinum (Galería de Nuevos Maestros y Colección de Escultura)",
       "name_zh": "Albertinum (阿尔伯蒂努姆博物馆 / 新大师画廊与雕塑馆)",
       "name_fr": "Albertinum (Galerie des Nouveaux Maîtres et Collection de Sculptures)",
-      "name_de": "Albertinum (Galerie Neue Meister & Skulpturensammlung)"
+      "name_de": "Albertinum (Galerie Neue Meister & Skulpturensammlung)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dresden_Germany_Albertinum-01.jpg/330px-Dresden_Germany_Albertinum-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dresden_Germany_Albertinum-01.jpg/330px-Dresden_Germany_Albertinum-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_28",
-      "name": "Verkehrsmuseum Dresden (Johanneum)（ドレスデン交通博物館）",
+      "name": "Verkehrsmuseum Dresden（Johanneum）",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
       "lat": 51.0515,
       "lng": 13.7392,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1089,21 +1158,24 @@
       "price_fr": "Adultes : 11 € / Réduit : 5 € / Famille : 22 €",
       "price_de": "Erwachsene: 11 € / Ermäßigt: 5 € / Familienkarte: 22 €",
       "name_en": "Verkehrsmuseum Dresden (Dresden Transport Museum)",
-      "name_ja": "Verkehrsmuseum Dresden (Johanneum)（ドレスデン交通博物館）",
+      "name_ja": "Verkehrsmuseum Dresden（Johanneum）",
       "name_es": "Verkehrsmuseum Dresden (Museo del Transporte de Dresde)",
       "name_zh": "Verkehrsmuseum Dresden (德累斯顿交通博物馆)",
       "name_fr": "Verkehrsmuseum Dresden (Musée des Transports de Dresde)",
-      "name_de": "Verkehrsmuseum Dresden (im Johanneum)"
+      "name_de": "Verkehrsmuseum Dresden (im Johanneum)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Verkehrsmuseum_Dresden.jpg/330px-Verkehrsmuseum_Dresden.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Verkehrsmuseum_Dresden.jpg/330px-Verkehrsmuseum_Dresden.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_29",
-      "name": "Gläserne Manufaktur (Volkswagen)（フォルクスワーゲンガラス張り透明工場）",
+      "name": "Gläserne Manufaktur（Volkswagen）",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
       "lat": 51.0442,
       "lng": 13.7645,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1128,11 +1200,14 @@
       "price_fr": "Visite guidée : 9 € / Réduit : 6 € / Famille : 20 €",
       "price_de": "Führung: 9 € / Ermäßigt: 6 € / Familienkarte: 20 €",
       "name_en": "Gläserne Manufaktur (Volkswagen Transparent Factory)",
-      "name_ja": "Gläserne Manufaktur (Volkswagen)（フォルクスワーゲンガラス張り透明工場）",
+      "name_ja": "Gläserne Manufaktur（Volkswagen）",
       "name_es": "Gläserne Manufaktur (Fábrica Cristalina de Volkswagen)",
       "name_zh": "Gläserne Manufaktur (大众汽车透明工厂)",
       "name_fr": "Gläserne Manufaktur (Usine Vitrée Volkswagen)",
-      "name_de": "Gläserne Manufaktur (Volkswagen Dresden)"
+      "name_de": "Gläserne Manufaktur (Volkswagen Dresden)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Gl%C3%A4serne_Manufaktur_Dresden_2024_Luftbild_Toni_Klemm_2500px.jpg/330px-Gl%C3%A4serne_Manufaktur_Dresden_2024_Luftbild_Toni_Klemm_2500px.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Gl%C3%A4serne_Manufaktur_Dresden_2024_Luftbild_Toni_Klemm_2500px.jpg/330px-Gl%C3%A4serne_Manufaktur_Dresden_2024_Luftbild_Toni_Klemm_2500px.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_30",
@@ -1142,7 +1217,7 @@
       "locationZone": "city",
       "lat": 51.0538,
       "lng": 13.7412,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1171,17 +1246,20 @@
       "name_es": "Sächsische Dampfschiffahrt (Vapores de Ruedas del Elba)",
       "name_zh": "Sächsische Dampfschiffahrt (萨克森易北河蒸汽轮船船队)",
       "name_fr": "Sächsische Dampfschiffahrt (Bateaux à Vapeur de l'Elbe)",
-      "name_de": "Sächsische Dampfschiffahrt (Sächsische Dampfschiffahrts-GmbH)"
+      "name_de": "Sächsische Dampfschiffahrt (Sächsische Dampfschiffahrts-GmbH)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Loschwitz_Blaues_Wunder_1900.jpg/330px-Loschwitz_Blaues_Wunder_1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Loschwitz_Blaues_Wunder_1900.jpg/330px-Loschwitz_Blaues_Wunder_1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_31",
-      "name": "Loschwitz & Blaues Wunder (Loschwitzer Brücke)（ロスヴィッツ地区＆青い奇跡橋）",
+      "name": "Loschwitz & Blaues Wunder（Loschwitzer Brücke）",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
       "lat": 51.0536,
       "lng": 13.8101,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": true,
       "free": true,
@@ -1205,12 +1283,13 @@
       "price_zh": "蓝色奇迹桥与街区漫步：免费",
       "price_fr": "Promenade pont et quartier : Gratuit",
       "price_de": "Brückenüberquerung & Areal frei",
-      "name_en": "Loschwitz District & Blue Wonder Bridge (Blaues Wunder)",
-      "name_ja": "Loschwitz & Blaues Wunder (Loschwitzer Brücke)（ロスヴィッツ地区＆青い奇跡橋）",
+      "name_en": "Loschwitz & Blaues Wunder (Blaues Wunder)",
+      "name_ja": "Loschwitz & Blaues Wunder（Loschwitzer Brücke）",
       "name_es": "Loschwitz & Blaues Wunder (Distrito de Loschwitz y Puente Milagro Azul)",
       "name_zh": "Loschwitz & Blaues Wunder (洛斯维茨街区与蓝色奇迹大桥)",
       "name_fr": "Loschwitz & Blaues Wunder (Quartier Loschwitz et Pont du Miracle Bleu)",
-      "name_de": "Loschwitz & Blaues Wunder (Loschwitzer Brücke)"
+      "name_de": "Loschwitz & Blaues Wunder (Loschwitzer Brücke)",
+      "hasWiki": false
     },
     {
       "id": "dr_32",
@@ -1220,7 +1299,7 @@
       "locationZone": "city",
       "lat": 51.0545,
       "lng": 13.8122,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1244,12 +1323,13 @@
       "price_zh": "单程票：5 欧元 / 往返票：6.50 欧元",
       "price_fr": "Aller simple : 5 € / Aller-retour : 6,50 €",
       "price_de": "Berg- oder Talversetzung: 5 € / Berg- und Talfahrt: 6,50 €",
-      "name_en": "Standseilbahn & Schwebebahn Dresden (Funicular & Oldest Suspended Monorail)",
+      "name_en": "Standseilbahn Dresden & Schwebebahn Dresden (Funicular & Oldest Suspended Monorail)",
       "name_ja": "Standseilbahn Dresden & Schwebebahn Dresden（ドレスデンケーブルカー＆懸垂式モノレール）",
-      "name_es": "Standseilbahn & Schwebebahn Dresden (Funicular y Monorraíl Suspendido)",
-      "name_zh": "Standseilbahn & Schwebebahn Dresden (德累斯顿缆车与悬挂式单轨电车)",
-      "name_fr": "Standseilbahn & Schwebebahn Dresden (Funiculaire et Monorail Suspendu)",
-      "name_de": "Standseilbahn Dresden & Schwebebahn Dresden (Dresdner Bergbahnen)"
+      "name_es": "Standseilbahn Dresden & Schwebebahn Dresden (Funicular y Monorraíl Suspendido)",
+      "name_zh": "Standseilbahn Dresden & Schwebebahn Dresden (德累斯顿缆车与悬挂式单轨电车)",
+      "name_fr": "Standseilbahn Dresden & Schwebebahn Dresden (Funiculaire et Monorail Suspendu)",
+      "name_de": "Standseilbahn Dresden & Schwebebahn Dresden (Dresdner Bergbahnen)",
+      "hasWiki": false
     },
     {
       "id": "dr_33",
@@ -1283,12 +1363,13 @@
       "price_zh": "宫殿园区与葡萄园步道：免费",
       "price_fr": "Parc et vignobles : Gratuit",
       "price_de": "Parkanlagen & Wege frei",
-      "name_en": "Elbe Palaces: Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg",
+      "name_en": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg (Elbe Palaces: Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg)",
       "name_ja": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg（エルベ高台の三宮殿）",
-      "name_es": "Tres Palacios del Elba (Schloss Albrechtsberg, Lingnerschloss y Schloss Eckberg)",
+      "name_es": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg (Schloss Albrechtsberg, Lingnerschloss y Schloss Eckberg)",
       "name_zh": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg (易北河三宫殿)",
-      "name_fr": "Trois Palais de l'Elbe (Schloss Albrechtsberg, Lingnerschloss et Schloss Eckberg)",
-      "name_de": "Die drei Elbschlößer (Albrechtsberg, Lingnerschloss, Eckberg)"
+      "name_fr": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg (Schloss Albrechtsberg, Lingnerschloss et Schloss Eckberg)",
+      "name_de": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg (Albrechtsberg, Lingnerschloss, Eckberg)",
+      "hasWiki": false
     },
     {
       "id": "dr_34",
@@ -1298,7 +1379,7 @@
       "locationZone": "city",
       "lat": 51.0435,
       "lng": 13.7368,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": true,
       "free": true,
@@ -1327,7 +1408,10 @@
       "name_es": "Prager Straße (Bulevar Peatonal Comercial)",
       "name_zh": "Prager Straße (普拉格商业步行街)",
       "name_fr": "Prager Straße (Boulevard Piéton Commerçant)",
-      "name_de": "Prager Straße (Fußgängerzone)"
+      "name_de": "Prager Straße (Fußgängerzone)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dresden_2012-05-24-6658.jpg/330px-Dresden_2012-05-24-6658.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dresden_2012-05-24-6658.jpg/330px-Dresden_2012-05-24-6658.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_35",
@@ -1337,7 +1421,7 @@
       "locationZone": "city",
       "lat": 51.0498,
       "lng": 13.7362,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -1366,7 +1450,8 @@
       "name_es": "Altmarkt-Galerie Dresden (Centro Comercial Altmarkt)",
       "name_zh": "Altmarkt-Galerie Dresden (老市场长廊购物中心)",
       "name_fr": "Altmarkt-Galerie Dresden (Centre Commercial Altmarkt)",
-      "name_de": "Altmarkt-Galerie Dresden"
+      "name_de": "Altmarkt-Galerie Dresden",
+      "hasWiki": false
     },
     {
       "id": "dr_36",
@@ -1376,7 +1461,7 @@
       "locationZone": "city",
       "lat": 51.0518,
       "lng": 13.7428,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1402,10 +1487,11 @@
       "price_de": "Hauptgerichte: 16 €–28 € / Pils (0,5l): 5,50 €",
       "name_en": "Kutscherschänke & Pulverturm an der Frauenkirche (Historic Saxon Taverns)",
       "name_ja": "Kutscherschänke & Pulverturm an der Frauenkirche（聖母教会横の伝統居酒屋＆火薬塔レストラン）",
-      "name_es": "Kutscherschänke & Pulverturm (Tabernas Históricas de la Frauenkirche)",
-      "name_zh": "Kutscherschänke & Pulverturm (圣母教堂御者酒馆与火药塔主题餐馆)",
-      "name_fr": "Kutscherschänke & Pulverturm (Tavernes Historiques de la Frauenkirche)",
-      "name_de": "Kutscherschänke & Pulverturm an der Frauenkirche"
+      "name_es": "Kutscherschänke & Pulverturm an der Frauenkirche (Tabernas Históricas de la Frauenkirche)",
+      "name_zh": "Kutscherschänke & Pulverturm an der Frauenkirche (圣母教堂御者酒馆与火药塔主题餐馆)",
+      "name_fr": "Kutscherschänke & Pulverturm an der Frauenkirche (Tavernes Historiques de la Frauenkirche)",
+      "name_de": "Kutscherschänke & Pulverturm an der Frauenkirche",
+      "hasWiki": false
     },
     {
       "id": "dr_37",
@@ -1415,7 +1501,7 @@
       "locationZone": "city",
       "lat": 51.0522,
       "lng": 13.7361,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1444,7 +1530,8 @@
       "name_es": "Sophienkeller im Taschenbergpalais (Restaurante Bóveda Barroca)",
       "name_zh": "Sophienkeller im Taschenbergpalais (塔什博格宫巴洛克地下酒廊)",
       "name_fr": "Sophienkeller im Taschenbergpalais (Restaurant Vôute Baroque)",
-      "name_de": "Sophienkeller im Taschenbergpalais"
+      "name_de": "Sophienkeller im Taschenbergpalais",
+      "hasWiki": false
     },
     {
       "id": "dr_38",
@@ -1454,7 +1541,7 @@
       "locationZone": "city",
       "lat": 51.0519,
       "lng": 13.7422,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": false,
@@ -1478,12 +1565,13 @@
       "price_zh": "鸡蛋雪克切片：4.50 欧元 / 咖啡：3.80 欧元 / 史多伦礼盒：18-35 欧元",
       "price_fr": "Part d'Eierschecke : 4,50 € / Café : 3,80 € / Boîte Stollen : 18 €–35 €",
       "price_de": "Stück Eierschecke: 4,50 € / Tasse Kaffee: 3,80 € / Christstollen (1kg): 22 €",
-      "name_en": "Dresdner Eierschecke & Stollen (Café Kreutzkamm & Coselpalais)",
+      "name_en": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais (Café Kreutzkamm & Coselpalais)",
       "name_ja": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais（ドレスデン名物アイアーシェッケ＆シュトレン）",
-      "name_es": "Café Kreutzkamm & Coselpalais (Especialidad Dresdner Eierschecke & Stollen)",
-      "name_zh": "Café Kreutzkamm & Coselpalais (德累斯顿三层糕点与圣诞史多伦名店)",
-      "name_fr": "Café Kreutzkamm & Coselpalais (Pâtisserie Dresdner Eierschecke & Stollen)",
-      "name_de": "Dresdner Eierschecke & Stollen (Café Kreutzkamm & Coselpalais)"
+      "name_es": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais (Especialidad Dresdner Eierschecke & Stollen)",
+      "name_zh": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais (德累斯顿三层糕点与圣诞史多伦名店)",
+      "name_fr": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais (Pâtisserie Dresdner Eierschecke & Stollen)",
+      "name_de": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais (Café Kreutzkamm & Coselpalais)",
+      "hasWiki": false
     },
     {
       "id": "dr_39",
@@ -1522,7 +1610,10 @@
       "name_es": "Yenidze (Antigua Fábrica de Tabacos de Estilo Oriental)",
       "name_zh": "Yenidze (耶尼采清真寺风旧卷烟厂建筑)",
       "name_fr": "Yenidze (Ancienne Manufacture de Tabac de Style Oriental)",
-      "name_de": "Yenidze (Tabakmoschee)"
+      "name_de": "Yenidze (Tabakmoschee)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/31032012_26_Yenidze.JPG/330px-31032012_26_Yenidze.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/31032012_26_Yenidze.JPG/330px-31032012_26_Yenidze.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_40",
@@ -1532,7 +1623,7 @@
       "locationZone": "city",
       "lat": 51.0438,
       "lng": 13.7485,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -1561,17 +1652,18 @@
       "name_es": "Lingnerstadt & Blüherpark (Parque Central Blüherpark)",
       "name_zh": "Lingnerstadt & Blüherpark (林格纳城与布吕尔公园)",
       "name_fr": "Lingnerstadt & Blüherpark (Parc Central Blüherpark)",
-      "name_de": "Lingnerstadt & Blüherpark"
+      "name_de": "Lingnerstadt & Blüherpark",
+      "hasWiki": false
     },
     {
       "id": "dr_41",
-      "name": "Nationalpark Sächsische Schweiz & Basteibrücke (Rathen)（ザクセン・スイス国立公園＆バスタイ橋）",
+      "name": "Nationalpark Sächsische Schweiz & Basteibrücke（Rathen）",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "locationZone": "suburban",
       "lat": 50.9618,
       "lng": 14.0725,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -1595,12 +1687,13 @@
       "price_zh": "国家公园与巴斯泰石桥：免费 / 过河渡轮单程：2.50 欧元",
       "price_fr": "Parc et pont : Gratuit / Traversée en bac : 2,50 €",
       "price_de": "Nationalpark & Basteibrücke frei / Fähre einfach: 2,50 €",
-      "name_en": "Saxon Switzerland National Park & Bastei Bridge (Sächsische Schweiz & Basteibrücke)",
-      "name_ja": "Nationalpark Sächsische Schweiz & Basteibrücke (Rathen)（ザクセン・スイス国立公園＆バスタイ橋）",
+      "name_en": "Nationalpark Sächsische Schweiz & Basteibrücke (Sächsische Schweiz & Basteibrücke)",
+      "name_ja": "Nationalpark Sächsische Schweiz & Basteibrücke（Rathen）",
       "name_es": "Nationalpark Sächsische Schweiz & Basteibrücke (Parque Nacional de la Suiza Sajona y Puente Bastei)",
       "name_zh": "Nationalpark Sächsische Schweiz & Basteibrücke (萨克森小瑞士国家公园与巴斯泰石桥)",
       "name_fr": "Nationalpark Sächsische Schweiz & Basteibrücke (Parc National de la Suisse Saxonne et Pont de Bastei)",
-      "name_de": "Nationalpark Sächsische Schweiz & Basteibrücke"
+      "name_de": "Nationalpark Sächsische Schweiz & Basteibrücke",
+      "hasWiki": false
     },
     {
       "id": "dr_42",
@@ -1610,7 +1703,7 @@
       "locationZone": "suburban",
       "lat": 50.9192,
       "lng": 14.0585,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1639,7 +1732,10 @@
       "name_es": "Festung Königstein (Fortaleza de Königstein)",
       "name_zh": "Festung Königstein (国王石要塞)",
       "name_fr": "Festung Königstein (Forteresse de Königstein)",
-      "name_de": "Festung Königstein"
+      "name_de": "Festung Königstein",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg/330px-Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg/330px-Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_43",
@@ -1649,7 +1745,7 @@
       "locationZone": "suburban",
       "lat": 51.1638,
       "lng": 13.6795,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -1673,22 +1769,25 @@
       "price_zh": "城堡公园与湖畔免费 / 城堡室内门票：12 欧元",
       "price_fr": "Parc et lac gratuits / Intérieur du château : 12 €",
       "price_de": "Schlosspark & Uferweg frei / Schloss Innenräume: 12 €",
-      "name_en": "Schloss Moritzburg (Moritzburg Palace & Little Pheasant Castle)",
+      "name_en": "Schloss Moritzburg & Fasanenschlösschen (Moritzburg Palace & Little Pheasant Castle)",
       "name_ja": "Schloss Moritzburg & Fasanenschlösschen（モーリッツブルク城＆キジ館）",
-      "name_es": "Schloss Moritzburg (Palacio de Moritzburg y Palacete de los Faisanes)",
-      "name_zh": "Schloss Moritzburg (莫里茨堡水上城堡与雉鸡馆)",
-      "name_fr": "Schloss Moritzburg (Château de Moritzburg et Pavillon des Faisans)",
-      "name_de": "Schloss Moritzburg & Fasanenschlösschen"
+      "name_es": "Schloss Moritzburg & Fasanenschlösschen (Palacio de Moritzburg y Palacete de los Faisanes)",
+      "name_zh": "Schloss Moritzburg & Fasanenschlösschen (莫里茨堡水上城堡与雉鸡馆)",
+      "name_fr": "Schloss Moritzburg & Fasanenschlösschen (Château de Moritzburg et Pavillon des Faisans)",
+      "name_de": "Schloss Moritzburg & Fasanenschlösschen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG/330px-Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG/330px-Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_44",
-      "name": "Porzellanmanufaktur Meissen & Erlebniswelt (Meißen)（マイセン磁器製作所・体験ワールド）",
+      "name": "Porzellanmanufaktur Meissen & Erlebniswelt（Meißen）",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "suburban",
       "lat": 51.1552,
       "lng": 13.4735,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": false,
@@ -1712,16 +1811,19 @@
       "price_zh": "体验世界门票：12 欧元 / 优惠票：10 欧元 / 家庭票：29 欧元",
       "price_fr": "Billet Erlebniswelt : 12 € / Réduit : 10 € / Famille : 29 €",
       "price_de": "Erlebniswelt Ticket: 12 € / Ermäßigt: 10 € / Familie: 29 €",
-      "name_en": "Meissen Porcelain Manufactory & Museum (Porzellanmanufaktur Meissen)",
-      "name_ja": "Porzellanmanufaktur Meissen & Erlebniswelt (Meißen)（マイセン磁器製作所・体験ワールド）",
-      "name_es": "Porzellanmanufaktur Meissen (Manufactura de Porcelana de Meissen)",
-      "name_zh": "Porzellanmanufaktur Meissen (迈森瓷器工坊与瓷器博物馆)",
-      "name_fr": "Porzellanmanufaktur Meissen (Manufacture de Porcelaine de Meissen)",
-      "name_de": "Porzellanmanufaktur Meissen (Erlebniswelt MEISSEN)"
+      "name_en": "Porzellanmanufaktur Meissen & Erlebniswelt (Porzellanmanufaktur Meissen)",
+      "name_ja": "Porzellanmanufaktur Meissen & Erlebniswelt（Meißen）",
+      "name_es": "Porzellanmanufaktur Meissen & Erlebniswelt (Manufactura de Porcelana de Meissen)",
+      "name_zh": "Porzellanmanufaktur Meissen & Erlebniswelt (迈森瓷器工坊与瓷器博物馆)",
+      "name_fr": "Porzellanmanufaktur Meissen & Erlebniswelt (Manufacture de Porcelaine de Meissen)",
+      "name_de": "Porzellanmanufaktur Meissen & Erlebniswelt (Erlebniswelt MEISSEN)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg/langde-330px-Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg/langde-330px-Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_45",
-      "name": "Albrechtsburg Meißen & Dom zu Meißen (Meißen)（アルブレヒト城＆マイセン大聖堂）",
+      "name": "Albrechtsburg Meißen & Dom zu Meißen（Meißen）",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -1751,12 +1853,13 @@
       "price_zh": "城堡：10 欧元 / 大教堂：6.50 欧元 / 联票：14.50 欧元",
       "price_fr": "Château : 10 € / Cathédrale : 6,50 € / Combiné : 14,50 €",
       "price_de": "Albrechtsburg: 10 € / Dom: 6,50 € / Kombiticket: 14,50 €",
-      "name_en": "Albrechtsburg Meißen & Meissen Cathedral (Albrechtsburg & Dom Meißen)",
-      "name_ja": "Albrechtsburg Meißen & Dom (Meißen)（アルブレヒト城＆マイセン大聖堂）",
-      "name_es": "Albrechtsburg Meißen & Catedral de Meissen",
-      "name_zh": "Albrechtsburg Meißen & Dom (阿尔布雷希特城与迈森大教堂)",
-      "name_fr": "Albrechtsburg Meißen & Cathédrale de Meissen",
-      "name_de": "Albrechtsburg Meißen & Dom zu Meißen"
+      "name_en": "Albrechtsburg Meißen & Dom zu Meißen (Albrechtsburg & Dom Meißen)",
+      "name_ja": "Albrechtsburg Meißen & Dom zu Meißen（Meißen）",
+      "name_es": "Albrechtsburg Meißen & Dom zu Meißen (Albrechtsburg Meißen & Catedral de Meissen)",
+      "name_zh": "Albrechtsburg Meißen & Dom zu Meißen (阿尔布雷希特城与迈森大教堂)",
+      "name_fr": "Albrechtsburg Meißen & Dom zu Meißen (Albrechtsburg Meißen & Cathédrale de Meissen)",
+      "name_de": "Albrechtsburg Meißen & Dom zu Meißen",
+      "hasWiki": false
     },
     {
       "id": "dr_46",
@@ -1766,7 +1869,7 @@
       "locationZone": "suburban",
       "lat": 51.0128,
       "lng": 13.8702,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1795,7 +1898,8 @@
       "name_es": "Schloss und Park Pillnitz (Palacio y Parque de Pillnitz)",
       "name_zh": "Schloss und Park Pillnitz (皮尔尼茨宫殿与皇家花园)",
       "name_fr": "Schloss und Park Pillnitz (Château et Parc de Pillnitz)",
-      "name_de": "Schloss und Park Pillnitz"
+      "name_de": "Schloss und Park Pillnitz",
+      "hasWiki": false
     },
     {
       "id": "dr_47",
@@ -1805,7 +1909,7 @@
       "locationZone": "suburban",
       "lat": 51.1142,
       "lng": 13.6185,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": true,
       "free": false,
@@ -1829,16 +1933,19 @@
       "price_zh": "酒庄园区：免费 / 卡尔·迈博物馆：10 欧元 / 品酒导览：15 欧元",
       "price_fr": "Domaine viticole : Gratuit / Musée Karl May : 10 € / Visite vin : 15 €",
       "price_de": "Weingut-Areal frei / Karl-May-Museum: 10 € / Weinbergführung & Probe: 15 €",
-      "name_en": "Radebeul (Karl May Museum & Schloss Wackerbarth Winery)",
+      "name_en": "Radebeul: Karl-May-Museum & Schloss Wackerbarth (Karl May Museum & Schloss Wackerbarth Winery)",
       "name_ja": "Radebeul: Karl-May-Museum & Schloss Wackerbarth（ラーデボイル：カール・マイ博物館＆ヴァッカーバルト城）",
-      "name_es": "Radebeul (Museo Karl May y Bodega Schloss Wackerbarth)",
-      "name_zh": "Radebeul (拉德博伊尔：卡尔·迈博物馆与瓦克巴特城堡酒庄)",
-      "name_fr": "Radebeul (Musée Karl May et Domaine Viticole Schloss Wackerbarth)",
-      "name_de": "Radebeul (Karl-May-Museum & Schloss Wackerbarth)"
+      "name_es": "Radebeul: Karl-May-Museum & Schloss Wackerbarth (Museo Karl May y Bodega Schloss Wackerbarth)",
+      "name_zh": "Radebeul: Karl-May-Museum & Schloss Wackerbarth (拉德博伊尔：卡尔·迈博物馆与瓦克巴特城堡酒庄)",
+      "name_fr": "Radebeul: Karl-May-Museum & Schloss Wackerbarth (Musée Karl May et Domaine Viticole Schloss Wackerbarth)",
+      "name_de": "Radebeul: Karl-May-Museum & Schloss Wackerbarth (Karl-May-Museum & Schloss Wackerbarth)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen_Radebeul.svg/langde-330px-Wappen_Radebeul.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen_Radebeul.svg/langde-330px-Wappen_Radebeul.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_48",
-      "name": "Dampfbahn Lößnitzgrundbahn (Lößnitzdackel)（レッスニッツグルント鉄道 / 狭軌蒸気機関車）",
+      "name": "Dampfbahn Lößnitzgrundbahn（Lößnitzdackel）",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -1868,12 +1975,15 @@
       "price_zh": "拉德博伊尔至莫里茨堡：单程 8.60 欧元 / 往返 15.40 欧元",
       "price_fr": "Radebeul à Moritzburg : Aller simple 8,60 € / Aller-retour 15,40 €",
       "price_de": "Radebeul Ost–Moritzburg: Einfach 8,60 € / Rückfahrt 15,40 €",
-      "name_en": "Lößnitzgrundbahn (Steam Narrow-Gauge Railway / Lößnitzdackel)",
-      "name_ja": "Dampfbahn Lößnitzgrundbahn (Lößnitzdackel)（レッスニッツグルント鉄道 / 狭軌蒸気機関車）",
-      "name_es": "Lößnitzgrundbahn (Tren de Vapor de Vía Estrecha)",
-      "name_zh": "Lößnitzgrundbahn (洛斯尼茨谷狭轨蒸汽火车)",
-      "name_fr": "Lößnitzgrundbahn (Train à Vapeur à Voie Étroite)",
-      "name_de": "Dampfbahn Lößnitzgrundbahn (Lößnitzdackel)"
+      "name_en": "Dampfbahn Lößnitzgrundbahn (Steam Narrow-Gauge Railway / Lößnitzdackel)",
+      "name_ja": "Dampfbahn Lößnitzgrundbahn（Lößnitzdackel）",
+      "name_es": "Dampfbahn Lößnitzgrundbahn (Tren de Vapor de Vía Estrecha)",
+      "name_zh": "Dampfbahn Lößnitzgrundbahn (洛斯尼茨谷狭轨蒸汽火车)",
+      "name_fr": "Dampfbahn Lößnitzgrundbahn (Train à Vapeur à Voie Étroite)",
+      "name_de": "Dampfbahn Lößnitzgrundbahn (Lößnitzdackel)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radebeul_Loessnitzdackel.jpg/330px-Radebeul_Loessnitzdackel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radebeul_Loessnitzdackel.jpg/330px-Radebeul_Loessnitzdackel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_49",
@@ -1883,7 +1993,7 @@
       "locationZone": "suburban",
       "lat": 50.9168,
       "lng": 14.1528,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1912,7 +2022,8 @@
       "name_es": "Kirnitzschtalbahn & Bad Schandau (Tranvía del Valle de Kirnitzsch)",
       "name_zh": "Kirnitzschtalbahn & Bad Schandau (吉尔尼茨谷森林电车与巴特尚道温泉镇)",
       "name_fr": "Kirnitzschtalbahn & Bad Schandau (Tramway de la Vallée de Kirnitzsch)",
-      "name_de": "Kirnitzschtalbahn & Bad Schandau (Traditionelle Kirnitzschtalbahn)"
+      "name_de": "Kirnitzschtalbahn & Bad Schandau (Traditionelle Kirnitzschtalbahn)",
+      "hasWiki": false
     },
     {
       "id": "dr_50",
@@ -1922,7 +2033,7 @@
       "locationZone": "suburban",
       "lat": 51.0489,
       "lng": 14.0835,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1951,17 +2062,20 @@
       "name_es": "Burg Stolpen (Castillo de Basalto de Stolpen)",
       "name_zh": "Burg Stolpen (斯托尔彭玄武岩城堡)",
       "name_fr": "Burg Stolpen (Château de Basalte de Stolpen)",
-      "name_de": "Burg Stolpen"
+      "name_de": "Burg Stolpen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stolpen_Burg.jpg/330px-Stolpen_Burg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stolpen_Burg.jpg/330px-Stolpen_Burg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_51",
-      "name": "Schloss Weesenstein (Müglitztal)（ヴェーゼンシュタイン城 / ミューグリッツ谷）",
+      "name": "Schloss Weesenstein（Müglitztal）",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
       "lat": 50.9328,
       "lng": 13.8585,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1986,11 +2100,14 @@
       "price_fr": "Adultes : 9 € / Réduit : 7,50 € / Enfants (6-16) : 4 €",
       "price_de": "Erwachsene: 9 € / Ermäßigt: 7,50 € / Kinder (6–16 J.): 4 €",
       "name_en": "Schloss Weesenstein (Weesenstein Rock Castle)",
-      "name_ja": "Schloss Weesenstein (Müglitztal)（ヴェーゼンシュタイン城 / ミューグリッツ谷）",
+      "name_ja": "Schloss Weesenstein（Müglitztal）",
       "name_es": "Schloss Weesenstein (Castillo de la Roca de Weesenstein)",
       "name_zh": "Schloss Weesenstein (维森斯坦崖壁城堡)",
       "name_fr": "Schloss Weesenstein (Château de Rocher de Weesenstein)",
-      "name_de": "Schloss Weesenstein (Müglitztal)"
+      "name_de": "Schloss Weesenstein (Müglitztal)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Weesenstein_-_panoramio_%283%29.jpg/330px-Schloss_Weesenstein_-_panoramio_%283%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Weesenstein_-_panoramio_%283%29.jpg/330px-Schloss_Weesenstein_-_panoramio_%283%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "dr_52",
@@ -2000,7 +2117,7 @@
       "locationZone": "suburban",
       "lat": 50.9158,
       "lng": 14.1558,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -2029,7 +2146,8 @@
       "name_es": "Toskana Therme Bad Schandau (Balneario Termal Toskana Therme)",
       "name_zh": "Toskana Therme Bad Schandau (托斯卡纳声光温泉水疗中心)",
       "name_fr": "Toskana Therme Bad Schandau (Thermes Toskana Therme)",
-      "name_de": "Toskana Therme Bad Schandau"
+      "name_de": "Toskana Therme Bad Schandau",
+      "hasWiki": false
     }
   ]
 }
