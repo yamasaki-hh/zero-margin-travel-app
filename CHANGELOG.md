@@ -2,6 +2,18 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v25.0.0] - 2026-08-15 (Dresden 52 Spots City Module Release)
+
+### 🏛️ Dresden City Module Integration (`v25.0.0`)
+- **New City Integration**: Added complete 52-spot static module for **Dresden, Germany (ドレスデン)** (`data/cities/dresden.json`), expanding overall database coverage to **17 European cities and 772 verified spots**.
+- **City Spots (`dr_1`–`dr_40`)**: Frauenkirche Dresden, Dresdner Zwinger, Gemäldegalerie Alte Meister, Mathematisch-Physikalischer Salon, Dresdner Porzellansammlung, Residenzschloss Dresden, Grünes Gewölbe, Türckische Cammer & Rüstkammer, Fürstenzug, Semperoper, Katholische Hofkirche, Brühlsche Terrasse, Neumarkt, Altmarkt & Striezelmarkt, Kreuzkirche, Dresdner Molkerei Pfund, Kunsthofpassage, Äußere Neustadt, Goldener Reiter, Großer Garten & Parkeisenbahn, Sommerpalais, Zoo Dresden, Botanischer Garten, Deutsches Hygiene-Museum, Militärhistorisches Museum (MHM), Panometer Dresden, Albertinum, Verkehrsmuseum (Johanneum), Gläserne Manufaktur (VW), Sächsische Dampfschiffahrt, Loschwitz & Blaues Wunder, Standseilbahn & Schwebebahn, Elbe Palaces (Albrechtsberg, Lingnerschloss, Eckberg), Prager Straße, Altmarkt-Galerie, Kutscherschänke & Pulverturm, Sophienkeller, Dresdner Eierschecke & Stollen (Kreutzkamm & Coselpalais), Yenidze, Lingnerstadt & Blüherpark.
+- **Suburban & Regional Saxon Day Trips (`dr_41`–`dr_52`)**: Saxon Switzerland National Park & Bastei Bridge (Rathen), Königstein Fortress, Moritzburg Palace & Pheasant Castle, Meissen Porcelain Manufactory & Museum, Albrechtsburg Meißen & Meissen Cathedral, Pillnitz Palace & Park, Radebeul (Karl-May-Museum & Schloss Wackerbarth Winery), Lößnitzgrundbahn Steam Narrow-Gauge Railway, Kirnitzschtalbahn Forest Tramway & Bad Schandau, Stolpen Basalt Castle, Weesenstein Rock Castle (Müglitztal), Toskana Therme Bad Schandau.
+- **Master Rulebook v5.0.0 Compliance**: 100% 6-language hybrid naming (`Original Local Name (Localized Name)`), 0% content overlap between `desc` (history/architecture) and `tip` (actionable insider advice), verified precise coordinates, and 52/52 live Wikipedia REST API photo resolution (0 fallbacks).
+- **Compliance Guard PASSED**: `🛡️ 3-Layer Compliance Guard PASSED: All 772 spots across 17 cities pass Language, Category & Hybrid Name checks!`
+- **Cache Busters**: Updated asset version string in `index.html` to `v=101.0`.
+
+---
+
 ## 🏷️ [v24.0.0] - 2026-08-15 (Heidelberg 50 Spots City Module Release)
 
 ### 🏰 Heidelberg City Module Integration (`v24.0.0`)

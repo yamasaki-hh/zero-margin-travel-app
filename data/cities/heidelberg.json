@@ -40,7 +40,10 @@
       "name_es": "Heidelberger Schloss (Castillo de Heidelberg)",
       "name_zh": "Heidelberger Schloss (海德堡城堡)",
       "name_fr": "Heidelberger Schloss (Château de Heidelberg)",
-      "name_de": "Heidelberger Schloss"
+      "name_de": "Heidelberger Schloss",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/330px-Heidelberg-2726936.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/330px-Heidelberg-2726936.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_2",
@@ -79,7 +82,8 @@
       "name_es": "Großes Fass (Gran Tonel de Heidelberg)",
       "name_zh": "Großes Fass (海德堡大酒桶)",
       "name_fr": "Großes Fass (Grand Tonneau de Heidelberg)",
-      "name_de": "Großes Fass"
+      "name_de": "Großes Fass",
+      "hasWiki": false
     },
     {
       "id": "hd_3",
@@ -89,7 +93,7 @@
       "locationZone": "city",
       "lat": 49.4109,
       "lng": 8.7155,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -118,17 +122,20 @@
       "name_es": "Deutsches Apotheken-Museum (Museo Alemán de Farmacia)",
       "name_zh": "Deutsches Apotheken-Museum (德国药剂博物馆)",
       "name_fr": "Deutsches Apotheken-Museum (Musée de la Pharmacie Allemande)",
-      "name_de": "Deutsches Apotheken-Museum"
+      "name_de": "Deutsches Apotheken-Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg/330px-Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg/330px-Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_4",
-      "name": "Schlossgarten (Hortus Palatinus)（城庭園・ホルトゥス・パラティヌス）",
+      "name": "Schlossgarten（Hortus Palatinus）",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
       "lat": 49.4102,
       "lng": 8.7185,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -153,21 +160,22 @@
       "price_fr": "Entrée gratuite",
       "price_de": "Eintritt frei",
       "name_en": "Schlossgarten (Hortus Palatinus / Castle Gardens)",
-      "name_ja": "Schlossgarten (Hortus Palatinus)（城庭園・ホルトゥス・パラティヌス）",
+      "name_ja": "Schlossgarten（Hortus Palatinus）",
       "name_es": "Schlossgarten (Hortus Palatinus / Jardines del Castillo)",
       "name_zh": "Schlossgarten (Hortus Palatinus / 城堡花园)",
       "name_fr": "Schlossgarten (Hortus Palatinus / Jardins du Château)",
-      "name_de": "Schlossgarten (Hortus Palatinus)"
+      "name_de": "Schlossgarten (Hortus Palatinus)",
+      "hasWiki": false
     },
     {
       "id": "hd_5",
-      "name": "Alte Brücke (Karl-Theodor-Brücke)（カール・テオドール橋 / アルテ・ブリュッケ）",
+      "name": "Alte Brücke（Karl-Theodor-Brücke）",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
       "lat": 49.4142,
       "lng": 8.7095,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -192,11 +200,14 @@
       "price_fr": "Accès libre",
       "price_de": "Kostenlos",
       "name_en": "Alte Brücke (Old Bridge / Karl Theodor Bridge)",
-      "name_ja": "Alte Brücke (Karl-Theodor-Brücke)（カール・テオドール橋 / アルテ・ブリュッケ）",
+      "name_ja": "Alte Brücke（Karl-Theodor-Brücke）",
       "name_es": "Alte Brücke (Puente Viejo / Karl-Theodor-Brücke)",
       "name_zh": "Alte Brücke (老桥 / 卡尔·特奥多尔桥)",
       "name_fr": "Alte Brücke (Vieux Pont / Pont Karl-Theodor)",
-      "name_de": "Alte Brücke (Karl-Theodor-Brücke)"
+      "name_de": "Alte Brücke (Karl-Theodor-Brücke)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alte_Br%C3%BCcke_Heidelberg.JPG/330px-Alte_Br%C3%BCcke_Heidelberg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alte_Br%C3%BCcke_Heidelberg.JPG/330px-Alte_Br%C3%BCcke_Heidelberg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_6",
@@ -206,7 +217,7 @@
       "locationZone": "city",
       "lat": 49.4137,
       "lng": 8.7094,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -235,7 +246,8 @@
       "name_es": "Brückenaffe (Mono del Puente de Heidelberg)",
       "name_zh": "Brückenaffe (海德堡铜猴)",
       "name_fr": "Brückenaffe (Singe du Pont de Heidelberg)",
-      "name_de": "Brückenaffe"
+      "name_de": "Brückenaffe",
+      "hasWiki": false
     },
     {
       "id": "hd_7",
@@ -274,7 +286,10 @@
       "name_es": "Philosophenweg (Paseo de los Filósofos)",
       "name_zh": "Philosophenweg (哲学家小径)",
       "name_fr": "Philosophenweg (Chemin des Philosophes)",
-      "name_de": "Philosophenweg"
+      "name_de": "Philosophenweg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeidelbergPhilosophenweg.JPG/330px-HeidelbergPhilosophenweg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeidelbergPhilosophenweg.JPG/330px-HeidelbergPhilosophenweg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_8",
@@ -284,7 +299,7 @@
       "locationZone": "city",
       "lat": 49.4121,
       "lng": 8.7112,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -313,7 +328,10 @@
       "name_es": "Heiliggeistkirche (Iglesia del Espíritu Santo)",
       "name_zh": "Heiliggeistkirche (圣灵教堂)",
       "name_fr": "Heiliggeistkirche (Église du Saint-Esprit)",
-      "name_de": "Heiliggeistkirche"
+      "name_de": "Heiliggeistkirche",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/330px-Heidelberg_20060420_021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/330px-Heidelberg_20060420_021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_9",
@@ -323,8 +341,8 @@
       "locationZone": "city",
       "lat": 49.4116,
       "lng": 8.7042,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "family": true,
@@ -352,7 +370,8 @@
       "name_es": "Hauptstraße Heidelberg (Calle Principal)",
       "name_zh": "Hauptstraße Heidelberg (主街步行街)",
       "name_fr": "Hauptstraße Heidelberg (Rue Principale)",
-      "name_de": "Hauptstraße Heidelberg"
+      "name_de": "Hauptstraße Heidelberg",
+      "hasWiki": false
     },
     {
       "id": "hd_10",
@@ -362,7 +381,7 @@
       "locationZone": "city",
       "lat": 49.4123,
       "lng": 8.7118,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -391,7 +410,8 @@
       "name_es": "Marktplatz & Herkulesbrunnen (Plaza del Mercado y Fuente de Hércules)",
       "name_zh": "Marktplatz & Herkulesbrunnen (市集广场与赫拉克勒斯喷泉)",
       "name_fr": "Marktplatz & Herkulesbrunnen (Place du Marché et Fontaine d'Hercule)",
-      "name_de": "Marktplatz & Herkulesbrunnen"
+      "name_de": "Marktplatz & Herkulesbrunnen",
+      "hasWiki": false
     },
     {
       "id": "hd_11",
@@ -401,7 +421,7 @@
       "locationZone": "city",
       "lat": 49.4124,
       "lng": 8.7136,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -430,7 +450,8 @@
       "name_es": "Kornmarkt & Madonnenstatue (Plaza Kornmarkt y Estatua de la Virgen)",
       "name_zh": "Kornmarkt & Madonnenstatue (谷物广场与圣母雕像)",
       "name_fr": "Kornmarkt & Madonnenstatue (Place du Marché aux Grains et Vierge)",
-      "name_de": "Kornmarkt & Madonnenstatue"
+      "name_de": "Kornmarkt & Madonnenstatue",
+      "hasWiki": false
     },
     {
       "id": "hd_12",
@@ -440,7 +461,7 @@
       "locationZone": "city",
       "lat": 49.4111,
       "lng": 8.7061,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -464,12 +485,13 @@
       "price_zh": "免费参观",
       "price_fr": "Accès libre",
       "price_de": "Kostenlos",
-      "name_en": "Universitätsplatz & Heidelberg University",
+      "name_en": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg (Universitätsplatz & Heidelberg University)",
       "name_ja": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg（大学広場＆ハイデルベルク大学）",
-      "name_es": "Universitätsplatz & Universidad de Heidelberg",
-      "name_zh": "Universitätsplatz & 海德堡大学广场",
-      "name_fr": "Universitätsplatz & Université de Heidelberg",
-      "name_de": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg"
+      "name_es": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg (Universitätsplatz & Universidad de Heidelberg)",
+      "name_zh": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg (Universitätsplatz & 海德堡大学广场)",
+      "name_fr": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg (Universitätsplatz & Université de Heidelberg)",
+      "name_de": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg",
+      "hasWiki": false
     },
     {
       "id": "hd_13",
@@ -479,7 +501,7 @@
       "locationZone": "city",
       "lat": 49.4114,
       "lng": 8.7068,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -508,7 +530,8 @@
       "name_es": "Studentenkarzer & Alte Aula (Cárcel de Estudiantes y Aula Magna)",
       "name_zh": "Studentenkarzer & Alte Aula (学生禁闭室与老礼堂)",
       "name_fr": "Studentenkarzer & Alte Aula (Prison des Étudiants et Grande Salle)",
-      "name_de": "Studentenkarzer & Alte Aula"
+      "name_de": "Studentenkarzer & Alte Aula",
+      "hasWiki": false
     },
     {
       "id": "hd_14",
@@ -547,7 +570,10 @@
       "name_es": "Universitätsbibliothek Heidelberg (Biblioteca Universitaria)",
       "name_zh": "Universitätsbibliothek Heidelberg (海德堡大学图书馆)",
       "name_fr": "Universitätsbibliothek Heidelberg (Bibliothèque Universitaire)",
-      "name_de": "Universitätsbibliothek Heidelberg"
+      "name_de": "Universitätsbibliothek Heidelberg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heidelberg_-_panoramio_%2811%29.jpg/330px-Heidelberg_-_panoramio_%2811%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heidelberg_-_panoramio_%2811%29.jpg/330px-Heidelberg_-_panoramio_%2811%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_15",
@@ -557,7 +583,7 @@
       "locationZone": "city",
       "lat": 49.4118,
       "lng": 8.7112,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -586,7 +612,8 @@
       "name_es": "Haus zum Ritter St. Georg (Casa del Caballero)",
       "name_zh": "Haus zum Ritter St. Georg (圣乔治骑士之屋)",
       "name_fr": "Haus zum Ritter St. Georg (Maison du Chevalier)",
-      "name_de": "Haus zum Ritter St. Georg"
+      "name_de": "Haus zum Ritter St. Georg",
+      "hasWiki": false
     },
     {
       "id": "hd_16",
@@ -596,7 +623,7 @@
       "locationZone": "city",
       "lat": 49.4102,
       "lng": 8.7153,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -625,7 +652,10 @@
       "name_es": "Heidelberger Bergbahn (Funicular de Heidelberg)",
       "name_zh": "Heidelberger Bergbahn (海德堡登山缆车)",
       "name_fr": "Heidelberger Bergbahn (Funiculaire de Heidelberg)",
-      "name_de": "Heidelberger Bergbahn"
+      "name_de": "Heidelberger Bergbahn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg/330px-Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg/330px-Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_17",
@@ -635,7 +665,7 @@
       "locationZone": "city",
       "lat": 49.4031,
       "lng": 8.7261,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -664,7 +694,10 @@
       "name_es": "Königstuhl (Cima del Monte Königstuhl)",
       "name_zh": "Königstuhl (国王宝座山顶)",
       "name_fr": "Königstuhl (Sommet du Königstuhl)",
-      "name_de": "Königstuhl"
+      "name_de": "Königstuhl",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heidelberg_20030918.jpg/330px-Heidelberg_20030918.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heidelberg_20030918.jpg/330px-Heidelberg_20030918.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_18",
@@ -703,7 +736,10 @@
       "name_es": "Märchenparadies Königstuhl (Parque Paraíso de los Cuentos)",
       "name_zh": "Märchenparadies Königstuhl (国王宝座童话乐园)",
       "name_fr": "Märchenparadies Königstuhl (Paradis des Contes de Fées)",
-      "name_de": "Märchenparadies Königstuhl"
+      "name_de": "Märchenparadies Königstuhl",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Maerchenpark_Heidelberg_Eisenbahn.jpg/330px-Maerchenpark_Heidelberg_Eisenbahn.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Maerchenpark_Heidelberg_Eisenbahn.jpg/330px-Maerchenpark_Heidelberg_Eisenbahn.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_19",
@@ -742,7 +778,10 @@
       "name_es": "Kurpfälzisches Museum (Museo del Palatinado)",
       "name_zh": "Kurpfälzisches Museum (普法尔茨选帝侯博物馆)",
       "name_fr": "Kurpfälzisches Museum (Musée du Palatinat)",
-      "name_de": "Kurpfälzisches Museum"
+      "name_de": "Kurpfälzisches Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG/330px-Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG/330px-Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_20",
@@ -781,7 +820,8 @@
       "name_es": "Tinnunculus Falknerei (Centro de Cetrería de Königstuhl)",
       "name_zh": "Tinnunculus Falknerei (国王宝座高山猎鹰中心)",
       "name_fr": "Tinnunculus Falknerei (Fauconnerie de Königstuhl)",
-      "name_de": "Tinnunculus Falknerei"
+      "name_de": "Tinnunculus Falknerei",
+      "hasWiki": false
     },
     {
       "id": "hd_21",
@@ -820,7 +860,10 @@
       "name_es": "Zoo Heidelberg (Zoológico de Heidelberg)",
       "name_zh": "Zoo Heidelberg (海德堡动物园)",
       "name_fr": "Zoo Heidelberg (Parc zoologique de Heidelberg)",
-      "name_de": "Zoo Heidelberg"
+      "name_de": "Zoo Heidelberg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/330px-Heidelberg_Tiergarten_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/330px-Heidelberg_Tiergarten_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_22",
@@ -830,8 +873,8 @@
       "locationZone": "city",
       "lat": 49.4158,
       "lng": 8.6698,
-      "kids": true,
-      "rain": true,
+      "kids": false,
+      "rain": false,
       "shopping": false,
       "free": true,
       "family": true,
@@ -859,7 +902,10 @@
       "name_es": "Botanischer Garten der Universität Heidelberg (Jardín Botánico)",
       "name_zh": "Botanischer Garten der Universität Heidelberg (海德堡大学植物园)",
       "name_fr": "Botanischer Garten der Universität Heidelberg (Jardin botanique)",
-      "name_de": "Botanischer Garten der Universität Heidelberg"
+      "name_de": "Botanischer Garten der Universität Heidelberg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bghd_kakteen1_ies.jpg/330px-Bghd_kakteen1_ies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bghd_kakteen1_ies.jpg/330px-Bghd_kakteen1_ies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_23",
@@ -869,7 +915,7 @@
       "locationZone": "city",
       "lat": 49.4148,
       "lng": 8.6885,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -898,7 +944,10 @@
       "name_es": "Neckarwiese (Prado del Río Neckar)",
       "name_zh": "Neckarwiese (内卡草坪公园)",
       "name_fr": "Neckarwiese (Prairie du Neckar)",
-      "name_de": "Neckarwiese"
+      "name_de": "Neckarwiese",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Neckarwiese.jpg/330px-Neckarwiese.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Neckarwiese.jpg/330px-Neckarwiese.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_24",
@@ -937,7 +986,8 @@
       "name_es": "Thingstätte & Michaelskloster (Anfiteatro Thingstätte y Ruinas del Monasterio)",
       "name_zh": "Thingstätte & Michaelskloster (Thingstätte露天剧场与圣米歇尔修道院遗址)",
       "name_fr": "Thingstätte & Michaelskloster (Amphithéâtre Thingstätte & Ruines du Monastère)",
-      "name_de": "Thingstätte & Michaelskloster"
+      "name_de": "Thingstätte & Michaelskloster",
+      "hasWiki": false
     },
     {
       "id": "hd_25",
@@ -947,8 +997,8 @@
       "locationZone": "city",
       "lat": 49.414,
       "lng": 8.7085,
-      "kids": true,
-      "rain": true,
+      "kids": false,
+      "rain": false,
       "shopping": false,
       "free": false,
       "family": true,
@@ -971,12 +1021,13 @@
       "price_zh": "45分钟观光游船：12–16 欧元",
       "price_fr": "Croisière 45 min : 12 €–16 €",
       "price_de": "Rundfahrt 45 Min.: 12–16 €",
-      "name_en": "Neckar-Schifffahrt - Weisse Flotte (Neckar River Boat Cruise)",
+      "name_en": "Neckar-Schifffahrt (Neckar River Boat Cruise)",
       "name_ja": "Neckar-Schifffahrt（ネッカー川遊覧船 / 白の船団）",
       "name_es": "Neckar-Schifffahrt (Crucero por el Río Neckar)",
       "name_zh": "Neckar-Schifffahrt (内卡河观光游船)",
       "name_fr": "Neckar-Schifffahrt (Croisière sur le Neckar)",
-      "name_de": "Neckar-Schifffahrt (Weisse Flotte Heidelberg)"
+      "name_de": "Neckar-Schifffahrt (Weisse Flotte Heidelberg)",
+      "hasWiki": false
     },
     {
       "id": "hd_26",
@@ -1015,7 +1066,8 @@
       "name_es": "Kulturbrauerei Heidelberg (Cervecería Tradicional)",
       "name_zh": "Kulturbrauerei Heidelberg (海德堡文化啤酒工坊)",
       "name_fr": "Kulturbrauerei Heidelberg (Brasserie artisanale)",
-      "name_de": "Kulturbrauerei Heidelberg"
+      "name_de": "Kulturbrauerei Heidelberg",
+      "hasWiki": false
     },
     {
       "id": "hd_27",
@@ -1054,7 +1106,8 @@
       "name_es": "Brauhaus Vetter (Cervecería Vetter)",
       "name_zh": "Brauhaus Vetter (维特精酿啤酒馆)",
       "name_fr": "Brauhaus Vetter (Brasserie Vetter)",
-      "name_de": "Brauhaus Vetter"
+      "name_de": "Brauhaus Vetter",
+      "hasWiki": false
     },
     {
       "id": "hd_28",
@@ -1093,7 +1146,8 @@
       "name_es": "Café Knösel & Heidelberger Studentenkuß (Chocolatería y Café)",
       "name_zh": "Café Knösel & Heidelberger Studentenkuß (克内塞尔咖啡馆与学生之吻巧克力)",
       "name_fr": "Café Knösel & Heidelberger Studentenkuß (Chocolaterie le Baiser d'Étudiant)",
-      "name_de": "Café Knösel & Heidelberger Studentenkuß"
+      "name_de": "Café Knösel & Heidelberger Studentenkuß",
+      "hasWiki": false
     },
     {
       "id": "hd_29",
@@ -1103,7 +1157,7 @@
       "locationZone": "city",
       "lat": 49.4111,
       "lng": 8.7025,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1132,7 +1186,8 @@
       "name_es": "Café Schafheutle (Cafetería y Jardín Interior)",
       "name_zh": "Café Schafheutle (沙夫霍伊特勒花园咖啡馆)",
       "name_fr": "Café Schafheutle (Café-Pâtisserie avec jardin)",
-      "name_de": "Café Schafheutle"
+      "name_de": "Café Schafheutle",
+      "hasWiki": false
     },
     {
       "id": "hd_30",
@@ -1168,10 +1223,13 @@
       "price_de": "Eintritt frei",
       "name_en": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma (Documentation Centre)",
       "name_ja": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma（ドイツ・シンティ・ロマ文書文化センター）",
-      "name_es": "Centro de Documentación y Cultura de los Sinti y Roma",
+      "name_es": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma (Centro de Documentación y Cultura de los Sinti y Roma)",
       "name_zh": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma (辛提人和罗姆人档案文化中心)",
-      "name_fr": "Centre de documentation et de culture des Sinti et Roms",
-      "name_de": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma"
+      "name_fr": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma (Centre de documentation et de culture des Sinti et Roms)",
+      "name_de": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dokumentationszentrum_2003.jpg/330px-Dokumentationszentrum_2003.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dokumentationszentrum_2003.jpg/330px-Dokumentationszentrum_2003.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_31",
@@ -1210,11 +1268,14 @@
       "name_es": "Sammlung Prinzhorn (Colección Prinzhorn de Arte Brut)",
       "name_zh": "Sammlung Prinzhorn (普林茨霍恩原生艺术收藏馆)",
       "name_fr": "Sammlung Prinzhorn (Collection Prinzhorn - Musée d'Art Brut)",
-      "name_de": "Sammlung Prinzhorn"
+      "name_de": "Sammlung Prinzhorn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg/330px-August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg/330px-August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_32",
-      "name": "Körperwelten Museum (Altes Hallenbad)（人体再発見博物館 / プラスティネーション）",
+      "name": "Körperwelten Museum（Altes Hallenbad）",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1245,11 +1306,12 @@
       "price_fr": "Entrée : 19 €",
       "price_de": "Eintritt: 19 € (Ermäßigt 15 €)",
       "name_en": "Körperwelten Museum (Body Worlds Museum in Old Public Baths)",
-      "name_ja": "Körperwelten Museum (Altes Hallenbad)（人体再発見博物館 / プラスティネーション）",
+      "name_ja": "Körperwelten Museum（Altes Hallenbad）",
       "name_es": "Körperwelten Museum (Museo Body Worlds)",
       "name_zh": "Körperwelten Museum (海德堡人体奥秘博物馆)",
       "name_fr": "Körperwelten Museum (Musée Body Worlds)",
-      "name_de": "Körperwelten Museum (Altes Hallenbad)"
+      "name_de": "Körperwelten Museum (Altes Hallenbad)",
+      "hasWiki": false
     },
     {
       "id": "hd_33",
@@ -1288,7 +1350,8 @@
       "name_es": "Exploratorium Heidelberg (Centro Interactivo de Ciencias)",
       "name_zh": "Exploratorium Heidelberg (海德堡互动探索科学馆)",
       "name_fr": "Exploratorium Heidelberg (Centre scientifique interactif)",
-      "name_de": "Exploratorium Heidelberg"
+      "name_de": "Exploratorium Heidelberg",
+      "hasWiki": false
     },
     {
       "id": "hd_34",
@@ -1298,7 +1361,7 @@
       "locationZone": "city",
       "lat": 49.4036,
       "lng": 8.6678,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": true,
       "free": true,
@@ -1327,7 +1390,8 @@
       "name_es": "Bahnstadt & Halle02 (Barrio Ecológico y Espacio Cultural)",
       "name_zh": "Bahnstadt & Halle02 (巴恩斯塔特被动房新城与Halle02文化中心)",
       "name_fr": "Bahnstadt & Halle02 (Écoquartier & Espace culturel Halle02)",
-      "name_de": "Bahnstadt & Halle02"
+      "name_de": "Bahnstadt & Halle02",
+      "hasWiki": false
     },
     {
       "id": "hd_35",
@@ -1338,7 +1402,7 @@
       "lat": 49.4119,
       "lng": 8.7078,
       "kids": false,
-      "rain": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "family": true,
@@ -1366,7 +1430,8 @@
       "name_es": "Plöck & Untere Straße (Calles Secundarias del Casco Antiguo)",
       "name_zh": "Plöck & Untere Straße (普勒克与昂特雷巷)",
       "name_fr": "Plöck & Untere Straße (Rues pittoresques de la vieille ville)",
-      "name_de": "Plöck & Untere Straße"
+      "name_de": "Plöck & Untere Straße",
+      "hasWiki": false
     },
     {
       "id": "hd_36",
@@ -1376,7 +1441,7 @@
       "locationZone": "suburban",
       "lat": 49.3839,
       "lng": 8.5705,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1400,22 +1465,25 @@
       "price_zh": "花园入园：7 欧元／城堡与花园联票：11 欧元",
       "price_fr": "Jardin : 7 € / Visite du château : 11 €",
       "price_de": "Gartenkarte: 7 € / Gesamtkarte: 11 €",
-      "name_en": "Schloss Schwetzingen (Schwetzingen Palace & Gardens)",
+      "name_en": "Schloss Schwetzingen & Schlossgarten (Schwetzingen Palace & Gardens)",
       "name_ja": "Schloss Schwetzingen & Schlossgarten（シュヴェツィンゲン宮殿＆庭園）",
       "name_es": "Schloss Schwetzingen & Schlossgarten (Palacio y Jardines)",
-      "name_zh": "Schloss Schwetzingen (施韦青根宫殿与夏宫花园)",
+      "name_zh": "Schloss Schwetzingen & Schlossgarten (施韦青根宫殿与夏宫花园)",
       "name_fr": "Schloss Schwetzingen & Schlossgarten (Château et Jardins)",
-      "name_de": "Schloss Schwetzingen & Schlossgarten"
+      "name_de": "Schloss Schwetzingen & Schlossgarten",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/330px-Schwetzingen_BW_2014-07-22_16-43-37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/330px-Schwetzingen_BW_2014-07-22_16-43-37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_37",
-      "name": "Speyerer Dom (Kaiserdom zu Speyer / UNESCO)（シュパイヤー大聖堂 / UNESCO世界遺産）",
+      "name": "Speyerer Dom（シュパイヤー大聖堂 / UNESCO世界遺産）",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
       "lat": 49.3172,
       "lng": 8.4425,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1444,7 +1512,10 @@
       "name_es": "Speyerer Dom (Catedral de Espira - UNESCO)",
       "name_zh": "Speyerer Dom (斯佩耶尔大教堂 - 联合国教科文组织世界遗产)",
       "name_fr": "Speyerer Dom (Cathédrale de Spire - UNESCO)",
-      "name_de": "Speyerer Dom (Kaiserdom zu Speyer)"
+      "name_de": "Speyerer Dom (Kaiserdom zu Speyer)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Speyer---Cathedral---South-View---%28Gentry%29.jpg/330px-Speyer---Cathedral---South-View---%28Gentry%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Speyer---Cathedral---South-View---%28Gentry%29.jpg/330px-Speyer---Cathedral---South-View---%28Gentry%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_38",
@@ -1454,7 +1525,7 @@
       "locationZone": "suburban",
       "lat": 49.312,
       "lng": 8.4468,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1483,7 +1554,10 @@
       "name_es": "Technik Museum Speyer (Museo Tecnológico de Espira)",
       "name_zh": "Technik Museum Speyer (斯佩耶尔科技博物馆)",
       "name_fr": "Technik Museum Speyer (Musée de la technique de Spire)",
-      "name_de": "Technik Museum Speyer"
+      "name_de": "Technik Museum Speyer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg/330px-Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg/330px-Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_39",
@@ -1493,7 +1567,7 @@
       "locationZone": "suburban",
       "lat": 49.2389,
       "lng": 8.8972,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1522,7 +1596,10 @@
       "name_es": "Technik Museum Sinsheim (Museo de Aviones Supersónicos)",
       "name_zh": "Technik Museum Sinsheim (辛斯海姆超音速客机技术博物馆)",
       "name_fr": "Technik Museum Sinsheim (Musée des avions supersoniques)",
-      "name_de": "Technik Museum Sinsheim"
+      "name_de": "Technik Museum Sinsheim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Auto-_und_Technik_Museum_Sinsheim.JPG/330px-Auto-_und_Technik_Museum_Sinsheim.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Auto-_und_Technik_Museum_Sinsheim.JPG/330px-Auto-_und_Technik_Museum_Sinsheim.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_40",
@@ -1532,7 +1609,7 @@
       "locationZone": "suburban",
       "lat": 49.4836,
       "lng": 8.4622,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1561,7 +1638,10 @@
       "name_es": "Barockschloss Mannheim (Palacio Barroco de Mannheim)",
       "name_zh": "Barockschloss Mannheim (曼海姆巴洛克宫殿)",
       "name_fr": "Barockschloss Mannheim (Palais baroque de Mannheim)",
-      "name_de": "Barockschloss Mannheim"
+      "name_de": "Barockschloss Mannheim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SchlossEhrenhof_2017.jpg/330px-SchlossEhrenhof_2017.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SchlossEhrenhof_2017.jpg/330px-SchlossEhrenhof_2017.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_41",
@@ -1571,7 +1651,7 @@
       "locationZone": "suburban",
       "lat": 49.4839,
       "lng": 8.4764,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -1600,7 +1680,8 @@
       "name_es": "Wasserturm & Friedrichsplatz (Torre de Agua y Plaza)",
       "name_zh": "Wasserturm & Friedrichsplatz (曼海姆新艺术给水塔与弗里德里希广场)",
       "name_fr": "Wasserturm & Friedrichsplatz (Château d'eau et Place Friedrich)",
-      "name_de": "Wasserturm & Friedrichsplatz"
+      "name_de": "Wasserturm & Friedrichsplatz",
+      "hasWiki": false
     },
     {
       "id": "hd_42",
@@ -1639,7 +1720,10 @@
       "name_es": "Luisenpark Mannheim (Parque y Jardín Chino)",
       "name_zh": "Luisenpark Mannheim (曼海姆路易森都市公园与中式园林)",
       "name_fr": "Luisenpark Mannheim (Parc et Jardin Chinois)",
-      "name_de": "Luisenpark Mannheim"
+      "name_de": "Luisenpark Mannheim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mannheim_Luisenpark_Haupteingang_20120316.jpg/330px-Mannheim_Luisenpark_Haupteingang_20120316.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mannheim_Luisenpark_Haupteingang_20120316.jpg/330px-Mannheim_Luisenpark_Haupteingang_20120316.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_43",
@@ -1678,7 +1762,8 @@
       "name_es": "Vierburgenstadt Neckarsteinach (Ciudad de los Cuatro Castillos)",
       "name_zh": "Vierburgenstadt Neckarsteinach (内卡施泰纳赫四城之镇)",
       "name_fr": "Vierburgenstadt Neckarsteinach (Ville des Quatre Châteaux)",
-      "name_de": "Vierburgenstadt Neckarsteinach"
+      "name_de": "Vierburgenstadt Neckarsteinach",
+      "hasWiki": false
     },
     {
       "id": "hd_44",
@@ -1717,7 +1802,8 @@
       "name_es": "Burg Dilsberg (Fortaleza de Dilsberg)",
       "name_zh": "Burg Dilsberg (迪尔斯贝格山顶堡垒村)",
       "name_fr": "Burg Dilsberg (Forteresse de Dilsberg)",
-      "name_de": "Burg Dilsberg"
+      "name_de": "Burg Dilsberg",
+      "hasWiki": false
     },
     {
       "id": "hd_45",
@@ -1756,7 +1842,10 @@
       "name_es": "Burg Hirschhorn (Castillo de Hirschhorn)",
       "name_zh": "Burg Hirschhorn (希尔施霍恩古城 - 内卡河明珠)",
       "name_fr": "Burg Hirschhorn (Château de Hirschhorn)",
-      "name_de": "Burg Hirschhorn"
+      "name_de": "Burg Hirschhorn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/330px-Burg_Hirschhorn.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/330px-Burg_Hirschhorn.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_46",
@@ -1766,7 +1855,7 @@
       "locationZone": "suburban",
       "lat": 49.2818,
       "lng": 9.1352,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1790,16 +1879,19 @@
       "price_zh": "城堡与飞行表演联票：13.50 欧元（儿童 8.50 欧元）",
       "price_fr": "Billet combiné : 13,50 €",
       "price_de": "Kombiticket: 13,50 € (Kinder 8,50 €)",
-      "name_en": "Burg Guttenberg (Castle & Raptor Center)",
+      "name_en": "Burg Guttenberg & Deutsche Greifenwarte (Castle & Raptor Center)",
       "name_ja": "Burg Guttenberg & Deutsche Greifenwarte（グッテンベルク城＆ドイツ猛禽類保護センター）",
-      "name_es": "Burg Guttenberg & Centro de Aves Rapaces",
-      "name_zh": "Burg Guttenberg (古滕贝格城堡与德国猛禽中心)",
-      "name_fr": "Burg Guttenberg & Centre de rapaces",
-      "name_de": "Burg Guttenberg & Deutsche Greifenwarte"
+      "name_es": "Burg Guttenberg & Deutsche Greifenwarte (Burg Guttenberg & Centro de Aves Rapaces)",
+      "name_zh": "Burg Guttenberg & Deutsche Greifenwarte (古滕贝格城堡与德国猛禽中心)",
+      "name_fr": "Burg Guttenberg & Deutsche Greifenwarte (Burg Guttenberg & Centre de rapaces)",
+      "name_de": "Burg Guttenberg & Deutsche Greifenwarte",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/330px-Guttenberg_Bergfried_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/330px-Guttenberg_Bergfried_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_47",
-      "name": "Ladenburg (Altstadt & Dr. Carl Benz Haus)（ラーデンブルク旧市街＆カール・ベンツの家）",
+      "name": "Ladenburg（ラーデンブルク旧市街＆カール・ベンツの家）",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -1834,7 +1926,10 @@
       "name_es": "Ladenburg (Casco Antiguo y Casa de Carl Benz)",
       "name_zh": "Ladenburg (拉登堡古城与卡尔·本茨故居博物馆)",
       "name_fr": "Ladenburg (Vieille ville & Maison Carl Benz)",
-      "name_de": "Ladenburg (Altstadt & Dr. Carl Benz Haus)"
+      "name_de": "Ladenburg (Altstadt & Dr. Carl Benz Haus)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DEU_Ladenburg_COA.svg/langde-330px-DEU_Ladenburg_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DEU_Ladenburg_COA.svg/langde-330px-DEU_Ladenburg_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_48",
@@ -1844,7 +1939,7 @@
       "locationZone": "suburban",
       "lat": 49.3278,
       "lng": 8.5658,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -1870,14 +1965,17 @@
       "price_de": "Insider-Führung: 15 € / Museum: 8 €",
       "name_en": "Hockenheimring Baden-Württemberg (F1 Grand Prix Circuit)",
       "name_ja": "Hockenheimring Baden-Württemberg（ホッケンハイムリンク・サーキット）",
-      "name_es": "Hockenheimring (Circuito de Carreras F1)",
+      "name_es": "Hockenheimring Baden-Württemberg (Circuito de Carreras F1)",
       "name_zh": "Hockenheimring Baden-Württemberg (霍根海姆赛道)",
-      "name_fr": "Hockenheimring (Circuit de Formule 1)",
-      "name_de": "Hockenheimring Baden-Württemberg"
+      "name_fr": "Hockenheimring Baden-Württemberg (Circuit de Formule 1)",
+      "name_de": "Hockenheimring Baden-Württemberg",
+      "image": "https://upload.wikimedia.org/wikipedia/de/thumb/e/e7/Hockenheimring_Logo.svg/langde-330px-Hockenheimring_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/de/thumb/e/e7/Hockenheimring_Logo.svg/langde-330px-Hockenheimring_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "hd_49",
-      "name": "Holiday Park Germany (Haßloch)（ホリデー・パーク）",
+      "name": "Holiday Park Germany（ホリデー・パーク）",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -1912,7 +2010,8 @@
       "name_es": "Holiday Park Germany (Parque de Atracciones)",
       "name_zh": "Holiday Park Germany (哈斯洛赫假日主题乐园)",
       "name_fr": "Holiday Park Germany (Parc d'attractions)",
-      "name_de": "Holiday Park Germany"
+      "name_de": "Holiday Park Germany",
+      "hasWiki": false
     },
     {
       "id": "hd_50",
@@ -1922,7 +2021,7 @@
       "locationZone": "suburban",
       "lat": 49.2458,
       "lng": 8.8918,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1951,7 +2050,10 @@
       "name_es": "Thermen & Badewelt Sinsheim (Spa Termal de Palmeras)",
       "name_zh": "Thermen & Badewelt Sinsheim (辛斯海姆棕榈天堂温泉度假村)",
       "name_fr": "Thermen & Badewelt Sinsheim (Spa thermal des palmiers)",
-      "name_de": "Thermen & Badewelt Sinsheim"
+      "name_de": "Thermen & Badewelt Sinsheim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Thermen_%26_Badewelt_Sinsheim_Panorama.jpg/330px-Thermen_%26_Badewelt_Sinsheim_Panorama.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Thermen_%26_Badewelt_Sinsheim_Panorama.jpg/330px-Thermen_%26_Badewelt_Sinsheim_Panorama.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     }
   ]
 }
