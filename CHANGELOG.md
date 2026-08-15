@@ -2,6 +2,19 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v15.0.0] - 2026-08-15 (100% Full German Cities Completion: Frankfurt 61, Hamburg 61, Berlin 75)
+
+### 🇩🇪 German Cities Complete Database Synchronization (`v15.0.0`)
+- **100% Full German City Spot Registration**: Synchronized all user-provided spots across German cities to reach 100% complete spot representation:
+  - **Frankfurt (`frankfurt.json`)**: Expanded from 22 spots to **all 61 spots** (45 city + 16 suburban/day-trips).
+  - **Hamburg (`hamburg.json`)**: Expanded from 24 spots to **all 61 spots** (49 city + 12 suburban/day-trips).
+  - **Berlin (`berlin.json`)**: Expanded from 19 spots to **all 75 spots** (60 city + 15 suburban/day-trips).
+- **Universal Multilingual Hybrid Names**: Applied `Original Local Name (Localized Name)` hybrid format across all 6 languages (`name_en`, `name_ja`, `name_es`, `name_zh`, `name_fr`, `name_de`) for all 623 spots across 15 cities.
+- **3-Layer Compliance Guard**: Verified 100% pass rate with zero alerts across 623 spots.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=90.0`.
+
+---
+
 ## 🏷️ [v14.0.0] - 2026-08-15 (Berlin Database Expansion & 3-Layer Compliance Guard Verification)
 
 ### 🐻 Berlin Database Expansion & Zero-Overlap Overhaul (`v14.0.0`)
