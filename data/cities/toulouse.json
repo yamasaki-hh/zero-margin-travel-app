@@ -962,7 +962,7 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "kids": false,
+      "kids": true,
       "tip": "Famous for 'Le Pavé du Capitole' pralines and delicate violet-flavored macarons handmade since 1816."
     },
     {

@@ -21,7 +21,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/330px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.36,
       "lng": 4.8853,
       "desc_en": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
@@ -59,7 +59,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
       "price": "Entry: €22.00",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Van_Gogh_Museum.jpg/330px-Van_Gogh_Museum.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_-_Van_Gogh_Museum.png/330px-Logo_-_Van_Gogh_Museum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -235,7 +235,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg/330px-Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beeld_Joost_van_den_Vondel.JPG/330px-Beeld_Joost_van_den_Vondel.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg/330px-Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -411,7 +411,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.3",
       "desc": "World's only floating flower market selling tulip bulbs along Singel canal.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SingelBloemenmarkt.jpg/330px-SingelBloemenmarkt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam_Bloemenmarkt_4.JPG/330px-Amsterdam_Bloemenmarkt_4.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SingelBloemenmarkt.jpg/330px-SingelBloemenmarkt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -455,7 +455,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
       "price": "Entry: €22.50",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg/330px-De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -505,7 +505,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/330px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.3694,
       "lng": 4.90129,
       "desc_en": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
@@ -543,13 +543,13 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Green copper ship building featuring 5 floors of interactive science exhibits.",
       "price": "Entry: €17.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Amsterdam_vue_Nemo.JPG/330px-Amsterdam_vue_Nemo.JPG?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": false,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.3676,
       "lng": 4.9041,
       "desc_en": "Green copper ship building featuring 5 floors of interactive science exhibits.",
@@ -769,7 +769,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.3676,
       "lng": 4.9191,
       "desc_en": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
@@ -898,7 +898,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5163,
       "lng": 13.3777,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -925,7 +925,9 @@ const candidateSpotsDatabase = {
       "name_es": "Brandenburger Tor (Brandenburg Gate)",
       "name_zh": "Brandenburger Tor (ブランデンブルク門)",
       "name_fr": "Brandenburger Tor (Brandenburg Gate)",
-      "name_de": "Brandenburger Tor"
+      "name_de": "Brandenburger Tor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BerlinBrandenburgerTor1985.jpg/330px-BerlinBrandenburgerTor1985.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_2",
@@ -935,7 +937,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5186,
       "lng": 13.3761,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -962,7 +964,9 @@ const candidateSpotsDatabase = {
       "name_es": "Reichstagsgebäude (Reichstag Building & Dome)",
       "name_zh": "Reichstagsgebäude (連邦議会議事堂)",
       "name_fr": "Reichstagsgebäude (Reichstag Building & Dome)",
-      "name_de": "Reichstagsgebäude"
+      "name_de": "Reichstagsgebäude",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/330px-Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_3",
@@ -972,7 +976,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5206,
       "lng": 13.3978,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -999,7 +1003,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museumsinsel (UNESCO)",
       "name_zh": "Museumsinsel (博物館島)",
       "name_fr": "Museumsinsel (UNESCO)",
-      "name_de": "Museumsinsel (UNESCO)"
+      "name_de": "Museumsinsel (UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_4",
@@ -1009,7 +1015,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5211,
       "lng": 13.3969,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1036,7 +1042,9 @@ const candidateSpotsDatabase = {
       "name_es": "Pergamonmuseum (Pergamon Museum)",
       "name_zh": "Pergamonmuseum (ペルガモン博物館)",
       "name_fr": "Pergamonmuseum (Pergamon Museum)",
-      "name_de": "Pergamonmuseum"
+      "name_de": "Pergamonmuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_5",
@@ -1046,7 +1054,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5203,
       "lng": 13.3978,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1073,7 +1081,9 @@ const candidateSpotsDatabase = {
       "name_es": "Neues Museum",
       "name_zh": "Neues Museum (新博物館)",
       "name_fr": "Neues Museum",
-      "name_de": "Neues Museum"
+      "name_de": "Neues Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_6",
@@ -1083,7 +1093,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5208,
       "lng": 13.3983,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1110,7 +1120,9 @@ const candidateSpotsDatabase = {
       "name_es": "Alte Nationalgalerie",
       "name_zh": "Alte Nationalgalerie (旧国立美術館)",
       "name_fr": "Alte Nationalgalerie",
-      "name_de": "Alte Nationalgalerie"
+      "name_de": "Alte Nationalgalerie",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/330px-AlteNationalgalerie_1a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_7",
@@ -1120,7 +1132,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5219,
       "lng": 13.3947,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1147,7 +1159,9 @@ const candidateSpotsDatabase = {
       "name_es": "Bode-Museum (Bode Museum)",
       "name_zh": "Bode-Museum (ボーデ博物館)",
       "name_fr": "Bode-Museum (Bode Museum)",
-      "name_de": "Bode-Museum"
+      "name_de": "Bode-Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_8",
@@ -1157,7 +1171,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5194,
       "lng": 13.3986,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1184,7 +1198,9 @@ const candidateSpotsDatabase = {
       "name_es": "Altes Museum",
       "name_zh": "Altes Museum (旧博物館)",
       "name_fr": "Altes Museum",
-      "name_de": "Altes Museum"
+      "name_de": "Altes Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Altes_Museum%2C_Berlin_2012.jpg/330px-Altes_Museum%2C_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_9",
@@ -1194,7 +1210,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5192,
       "lng": 13.4011,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1221,7 +1237,9 @@ const candidateSpotsDatabase = {
       "name_es": "Berliner Dom (Berlin Cathedral)",
       "name_zh": "Berliner Dom (ベルリン大聖堂)",
       "name_fr": "Berliner Dom (Berlin Cathedral)",
-      "name_de": "Berliner Dom"
+      "name_de": "Berliner Dom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Berliner_Dom_-_Westfassade_--_01.jpg/330px-2023_Berliner_Dom_-_Westfassade_--_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_10",
@@ -1231,7 +1249,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5175,
       "lng": 13.4028,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1258,7 +1276,9 @@ const candidateSpotsDatabase = {
       "name_es": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
       "name_zh": "Humboldt Forum & Berliner Schloss (フンボルト・フォーラム＆ベルリン王宮)",
       "name_fr": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
-      "name_de": "Humboldt Forum & Berliner Schloss"
+      "name_de": "Humboldt Forum & Berliner Schloss",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_11",
@@ -1268,7 +1288,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.505,
       "lng": 13.4397,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1295,7 +1315,9 @@ const candidateSpotsDatabase = {
       "name_es": "East Side Gallery",
       "name_zh": "East Side Gallery (イーストサイドギャラリー)",
       "name_fr": "East Side Gallery",
-      "name_de": "East Side Gallery"
+      "name_de": "East Side Gallery",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg/330px-Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_12",
@@ -1305,7 +1327,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5353,
       "lng": 13.3903,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1332,7 +1354,9 @@ const candidateSpotsDatabase = {
       "name_es": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
       "name_zh": "Gedenkstätte Berliner Mauer (ベルリンの壁記念館)",
       "name_fr": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
-      "name_de": "Gedenkstätte Berliner Mauer (Bernauer Straße)"
+      "name_de": "Gedenkstätte Berliner Mauer (Bernauer Straße)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg/330px-Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_13",
@@ -1342,7 +1366,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5075,
       "lng": 13.3903,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1369,7 +1393,9 @@ const candidateSpotsDatabase = {
       "name_es": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
       "name_zh": "Checkpoint Charlie & Mauermuseum (チェックポイント・チャーリー＆壁博物館)",
       "name_fr": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
-      "name_de": "Checkpoint Charlie & Mauermuseum"
+      "name_de": "Checkpoint Charlie & Mauermuseum",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_14",
@@ -1379,7 +1405,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5064,
       "lng": 13.3839,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1406,7 +1432,9 @@ const candidateSpotsDatabase = {
       "name_es": "Topographie des Terrors (Topography of Terror)",
       "name_zh": "Topographie des Terrors (トポグラフィー・オブ・テラー)",
       "name_fr": "Topographie des Terrors (Topography of Terror)",
-      "name_de": "Topographie des Terrors"
+      "name_de": "Topographie des Terrors",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dokumentationszentrum_Topographie_des_Terrors.jpg/330px-Dokumentationszentrum_Topographie_des_Terrors.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_15",
@@ -1416,7 +1444,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5139,
       "lng": 13.3786,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1443,7 +1471,9 @@ const candidateSpotsDatabase = {
       "name_es": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
       "name_zh": "Denkmal für die ermordeten Juden Europas (ホロコースト慰霊碑)",
       "name_fr": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
-      "name_de": "Denkmal für die ermordeten Juden Europas"
+      "name_de": "Denkmal für die ermordeten Juden Europas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_16",
@@ -1453,7 +1483,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5208,
       "lng": 13.4094,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1480,7 +1510,9 @@ const candidateSpotsDatabase = {
       "name_es": "Berliner Fernsehturm (Berlin TV Tower)",
       "name_zh": "Berliner Fernsehturm (ベルリンテレビ塔)",
       "name_fr": "Berliner Fernsehturm (Berlin TV Tower)",
-      "name_de": "Berliner Fernsehturm"
+      "name_de": "Berliner Fernsehturm",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_17",
@@ -1490,7 +1522,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5219,
       "lng": 13.4131,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1517,7 +1549,9 @@ const candidateSpotsDatabase = {
       "name_es": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
       "name_zh": "Alexanderplatz & Weltzeituhr (アレクサンダー広場＆世界時計)",
       "name_fr": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
-      "name_de": "Alexanderplatz & Weltzeituhr"
+      "name_de": "Alexanderplatz & Weltzeituhr",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_18",
@@ -1527,7 +1561,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5136,
       "lng": 13.3928,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1554,7 +1588,9 @@ const candidateSpotsDatabase = {
       "name_es": "Gendarmenmarkt",
       "name_zh": "Gendarmenmarkt (ジャンダルメンマルクト)",
       "name_fr": "Gendarmenmarkt",
-      "name_de": "Gendarmenmarkt"
+      "name_de": "Gendarmenmarkt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg/330px-150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_19",
@@ -1564,7 +1600,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5047,
       "lng": 13.3353,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1591,7 +1627,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
       "name_zh": "Kaiser-Wilhelm-Gedächtniskirche (カイザー・ヴィルヘルム記念教会)",
       "name_fr": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
-      "name_de": "Kaiser-Wilhelm-Gedächtniskirche"
+      "name_de": "Kaiser-Wilhelm-Gedächtniskirche",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_20",
@@ -1601,7 +1639,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5206,
       "lng": 13.2958,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1628,7 +1666,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schloss Charlottenburg (Charlottenburg Palace)",
       "name_zh": "Schloss Charlottenburg (シャルロッテンブルク宮殿)",
       "name_fr": "Schloss Charlottenburg (Charlottenburg Palace)",
-      "name_de": "Schloss Charlottenburg"
+      "name_de": "Schloss Charlottenburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin_Charlottenburger_Schloss_Strassenseite.jpg/330px-Berlin_Charlottenburger_Schloss_Strassenseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_21",
@@ -1638,7 +1678,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5086,
       "lng": 13.3644,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1665,7 +1705,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
       "name_zh": "Kulturforum & Gemäldegalerie） (クルトゥールフォルム)",
       "name_fr": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
-      "name_de": "Kulturforum & Gemäldegalerie） (Kulturforum & Gemäldegalerie)"
+      "name_de": "Kulturforum & Gemäldegalerie） (Kulturforum & Gemäldegalerie)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_22",
@@ -1675,7 +1717,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5067,
       "lng": 13.3675,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1702,7 +1744,9 @@ const candidateSpotsDatabase = {
       "name_es": "Neue Nationalgalerie",
       "name_zh": "Neue Nationalgalerie (新国立美術館)",
       "name_fr": "Neue Nationalgalerie",
-      "name_de": "Neue Nationalgalerie"
+      "name_de": "Neue Nationalgalerie",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/330px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_23",
@@ -1712,7 +1756,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5283,
       "lng": 13.3719,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1739,7 +1783,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
       "name_zh": "Hamburger Bahnhof (ハンブルガー・バーンホフ現代美術館)",
       "name_fr": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
-      "name_de": "Hamburger Bahnhof"
+      "name_de": "Hamburger Bahnhof",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_24",
@@ -1749,7 +1795,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5022,
       "lng": 13.3953,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1776,7 +1822,9 @@ const candidateSpotsDatabase = {
       "name_es": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
       "name_zh": "Jüdisches Museum Berlin (ユダヤ博物館)",
       "name_fr": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
-      "name_de": "Jüdisches Museum Berlin"
+      "name_de": "Jüdisches Museum Berlin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jewish_Museum_Berlin_-_panoramio_%282%29.jpg/330px-Jewish_Museum_Berlin_-_panoramio_%282%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_25",
@@ -1786,7 +1834,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5178,
       "lng": 13.3969,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1813,7 +1861,9 @@ const candidateSpotsDatabase = {
       "name_es": "Deutsches Historisches Museum (German Historical Museum)",
       "name_zh": "Deutsches Historisches Museum (ドイツ歴史博物館)",
       "name_fr": "Deutsches Historisches Museum (German Historical Museum)",
-      "name_de": "Deutsches Historisches Museum (DHM)"
+      "name_de": "Deutsches Historisches Museum (DHM)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zeughaus_Berlin_2012.jpg/330px-Zeughaus_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_26",
@@ -1823,7 +1873,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.4986,
       "lng": 13.3775,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1850,7 +1900,9 @@ const candidateSpotsDatabase = {
       "name_es": "Deutsches Technikmuseum (German Museum of Technology)",
       "name_zh": "Deutsches Technikmuseum (ドイツ技術博物館＆スペクトラム)",
       "name_fr": "Deutsches Technikmuseum (German Museum of Technology)",
-      "name_de": "Deutsches Technikmuseum"
+      "name_de": "Deutsches Technikmuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Deutsches_technikmuseum_berlin_20080429.jpg/330px-Deutsches_technikmuseum_berlin_20080429.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_27",
@@ -1860,7 +1912,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5297,
       "lng": 13.3797,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1887,7 +1939,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum für Naturkunde (Berlin Natural History Museum)",
       "name_zh": "Museum für Naturkunde (ベルリン自然史博物館)",
       "name_fr": "Museum für Naturkunde (Berlin Natural History Museum)",
-      "name_de": "Museum für Naturkunde"
+      "name_de": "Museum für Naturkunde",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg/330px-Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_28",
@@ -1897,7 +1951,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5239,
       "lng": 13.3742,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -1924,7 +1978,9 @@ const candidateSpotsDatabase = {
       "name_es": "Futurium",
       "name_zh": "Futurium (フトゥリウム)",
       "name_fr": "Futurium",
-      "name_de": "Futurium"
+      "name_de": "Futurium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FuturiumBerlin2021.jpg/330px-FuturiumBerlin2021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_29",
@@ -1934,7 +1990,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5175,
       "lng": 13.4419,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1961,7 +2017,9 @@ const candidateSpotsDatabase = {
       "name_es": "Computerspielemuseum (Computer Games Museum)",
       "name_zh": "Computerspielemuseum (コンピュータゲーム博物館)",
       "name_fr": "Computerspielemuseum (Computer Games Museum)",
-      "name_de": "Computerspielemuseum"
+      "name_de": "Computerspielemuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ausstellung_Computerspielemuseum_2.JPG/330px-Ausstellung_Computerspielemuseum_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_30",
@@ -1971,7 +2029,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5094,
       "lng": 13.3794,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -1998,7 +2056,9 @@ const candidateSpotsDatabase = {
       "name_es": "Spionagemuseum (German Spy Museum)",
       "name_zh": "Spionagemuseum (ドイツスパイ博物館)",
       "name_fr": "Spionagemuseum (German Spy Museum)",
-      "name_de": "Spionagemuseum (German Spy Museum)"
+      "name_de": "Spionagemuseum (German Spy Museum)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_31",
@@ -2008,7 +2068,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5197,
       "lng": 13.4028,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -2035,7 +2095,9 @@ const candidateSpotsDatabase = {
       "name_es": "DDR Museum",
       "name_zh": "DDR Museum (DDR博物館)",
       "name_fr": "DDR Museum",
-      "name_de": "DDR Museum"
+      "name_de": "DDR Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_32",
@@ -2045,7 +2107,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5483,
       "lng": 13.3889,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -2072,7 +2134,9 @@ const candidateSpotsDatabase = {
       "name_es": "Berliner Unterwelten (Berlin Underground Tours)",
       "name_zh": "Berliner Unterwelten (ベルリン地下世界ツアー)",
       "name_fr": "Berliner Unterwelten (Berlin Underground Tours)",
-      "name_de": "Berliner Unterwelten"
+      "name_de": "Berliner Unterwelten",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ticketshop_Berliner_Unterwelten.jpg/330px-Ticketshop_Berliner_Unterwelten.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_33",
@@ -2082,7 +2146,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5144,
       "lng": 13.3503,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -2109,7 +2173,9 @@ const candidateSpotsDatabase = {
       "name_es": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
       "name_zh": "Siegessäule & Großer Tiergarten (戦勝記念塔＆大ティーアガルテン)",
       "name_fr": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
-      "name_de": "Siegessäule & Großer Tiergarten"
+      "name_de": "Siegessäule & Großer Tiergarten",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_34",
@@ -2119,7 +2185,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5097,
       "lng": 13.3728,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -2146,7 +2212,9 @@ const candidateSpotsDatabase = {
       "name_es": "Potsdamer Platz & Sony Center",
       "name_zh": "Potsdamer Platz & Sony Center (ポツダム広場＆ソニーセンター)",
       "name_fr": "Potsdamer Platz & Sony Center",
-      "name_de": "Potsdamer Platz & Sony Center"
+      "name_de": "Potsdamer Platz & Sony Center",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_35",
@@ -2156,8 +2224,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5036,
       "lng": 13.3253,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Kurfürstendamm Shopping Street in City district.",
@@ -2183,7 +2251,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
       "name_zh": "Kurfürstendamm  & Tauentzienstraße (クーダム＆タウエンツィエン通り)",
       "name_fr": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
-      "name_de": "Kurfürstendamm  & Tauentzienstraße (Ku'damm)"
+      "name_de": "Kurfürstendamm  & Tauentzienstraße (Ku'damm)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_36",
@@ -2193,8 +2263,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5017,
       "lng": 13.3411,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "KaDeWe Department Store in City district.",
@@ -2220,7 +2290,9 @@ const candidateSpotsDatabase = {
       "name_es": "KaDeWe (KaDeWe Department Store)",
       "name_zh": "KaDeWe (カーデーヴェー百貨店)",
       "name_fr": "KaDeWe (KaDeWe Department Store)",
-      "name_de": "KaDeWe (Kaufhaus des Westens)"
+      "name_de": "KaDeWe (Kaufhaus des Westens)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg/330px-Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_37",
@@ -2230,8 +2302,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5108,
       "lng": 13.3806,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Mall of Berlin in City district.",
@@ -2257,7 +2329,9 @@ const candidateSpotsDatabase = {
       "name_es": "Mall of Berlin",
       "name_zh": "Mall of Berlin (モール・オブ・ベルリン)",
       "name_fr": "Mall of Berlin",
-      "name_de": "Mall of Berlin"
+      "name_de": "Mall of Berlin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg/330px-18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_38",
@@ -2268,7 +2342,7 @@ const candidateSpotsDatabase = {
       "lat": 52.5053,
       "lng": 13.3364,
       "kids": true,
-      "rain": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Bikini Berlin Concept Mall in City district.",
@@ -2294,7 +2368,9 @@ const candidateSpotsDatabase = {
       "name_es": "Bikini Berlin (Bikini Berlin Concept Mall)",
       "name_zh": "Bikini Berlin (ビキニ・ベルリン)",
       "name_fr": "Bikini Berlin (Bikini Berlin Concept Mall)",
-      "name_de": "Bikini Berlin"
+      "name_de": "Bikini Berlin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg/330px-Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_39",
@@ -2304,7 +2380,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5244,
       "lng": 13.4022,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -2331,7 +2407,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
       "name_zh": "Hackesche Höfe & Hackescher Markt (ハッケシャー・ヘーフェ＆ハッケシャー・マルクト)",
       "name_fr": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
-      "name_de": "Hackesche Höfe & Hackescher Markt"
+      "name_de": "Hackesche Höfe & Hackescher Markt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_40",
@@ -2341,7 +2419,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5414,
       "lng": 13.4031,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -2368,7 +2446,9 @@ const candidateSpotsDatabase = {
       "name_es": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
       "name_zh": "Mauerpark & Flohmarkt (マウアーパーク＆日曜蚤の市)",
       "name_fr": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
-      "name_de": "Mauerpark & Flohmarkt"
+      "name_de": "Mauerpark & Flohmarkt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_41",
@@ -2378,8 +2458,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5019,
       "lng": 13.4319,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Markthalle Neun Market in City district.",
@@ -2405,7 +2485,9 @@ const candidateSpotsDatabase = {
       "name_es": "Markthalle Neun (Markthalle Neun Market)",
       "name_zh": "Markthalle Neun (マルクトハレ・ノイン)",
       "name_fr": "Markthalle Neun (Markthalle Neun Market)",
-      "name_de": "Markthalle Neun"
+      "name_de": "Markthalle Neun",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_42",
@@ -2415,7 +2497,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5361,
       "lng": 13.4169,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -2442,7 +2524,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
       "name_zh": "Kollwitzplatz & Prenzlauer Berg (コルヴィッツ広場＆プレンツラウアー・ベルク)",
       "name_fr": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
-      "name_de": "Kollwitzplatz & Prenzlauer Berg"
+      "name_de": "Kollwitzplatz & Prenzlauer Berg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_43",
@@ -2452,7 +2536,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.4892,
       "lng": 13.3886,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -2479,7 +2563,9 @@ const candidateSpotsDatabase = {
       "name_es": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
       "name_zh": "Bergmannstraße & Kreuzberg (ベルクマン通り＆クロイツベルク)",
       "name_fr": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
-      "name_de": "Bergmannstraße & Kreuzberg"
+      "name_de": "Bergmannstraße & Kreuzberg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_44",
@@ -2489,7 +2575,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5064,
       "lng": 13.4542,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -2516,7 +2602,9 @@ const candidateSpotsDatabase = {
       "name_es": "RAW-Gelände (RAW Complex Cultural Center)",
       "name_zh": "RAW-Gelände (RAWゲレンデ)",
       "name_fr": "RAW-Gelände (RAW Complex Cultural Center)",
-      "name_de": "RAW-Gelände"
+      "name_de": "RAW-Gelände",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RAW_Berlin_Tor1.jpg/330px-RAW_Berlin_Tor1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_45",
@@ -2526,7 +2614,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5108,
       "lng": 13.4283,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -2553,7 +2641,9 @@ const candidateSpotsDatabase = {
       "name_es": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
       "name_zh": "Holzmarkt 25 (ホルツマルクト25)",
       "name_fr": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
-      "name_de": "Holzmarkt 25"
+      "name_de": "Holzmarkt 25",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg/330px-Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_46",
@@ -2590,7 +2680,9 @@ const candidateSpotsDatabase = {
       "name_es": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
       "name_zh": "Zoologischer Garten Berlin & Aquarium Berlin (ベルリン動物園＆水族館)",
       "name_fr": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
-      "name_de": "Zoologischer Garten Berlin & Aquarium Berlin"
+      "name_de": "Zoologischer Garten Berlin & Aquarium Berlin",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_47",
@@ -2627,7 +2719,9 @@ const candidateSpotsDatabase = {
       "name_es": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
       "name_zh": "Tierpark Berlin & Schloss Friedrichsfelde (ティーアパーク・ベルリン)",
       "name_fr": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
-      "name_de": "Tierpark Berlin & Schloss Friedrichsfelde"
+      "name_de": "Tierpark Berlin & Schloss Friedrichsfelde",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_48",
@@ -2637,7 +2731,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.4731,
       "lng": 13.4039,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -2664,7 +2758,9 @@ const candidateSpotsDatabase = {
       "name_es": "Tempelhofer Feld (Tempelhof Airport Park)",
       "name_zh": "Tempelhofer Feld (テンペルホーフ空港跡地公園)",
       "name_fr": "Tempelhofer Feld (Tempelhof Airport Park)",
-      "name_de": "Tempelhofer Feld"
+      "name_de": "Tempelhofer Feld",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial%2C_Berlin_%28_1090064%29.jpg/330px-Aerial%2C_Berlin_%28_1090064%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_49",
@@ -2674,7 +2770,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.54,
       "lng": 13.5764,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -2701,7 +2797,9 @@ const candidateSpotsDatabase = {
       "name_es": "Gärten der Welt (Gardens of the World)",
       "name_zh": "Gärten der Welt (世界の庭園)",
       "name_fr": "Gärten der Welt (Gardens of the World)",
-      "name_de": "Gärten der Welt"
+      "name_de": "Gärten der Welt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/330px-Erholungspark_Marzahn_2009.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_50",
@@ -2738,7 +2836,9 @@ const candidateSpotsDatabase = {
       "name_es": "Spree-Schifffahrt (Spree River Cruise)",
       "name_zh": "Spree-Schifffahrt (シュプレー川観光クルーズ船)",
       "name_fr": "Spree-Schifffahrt (Spree River Cruise)",
-      "name_de": "Spree-Schifffahrt (Spree River Cruise)"
+      "name_de": "Spree-Schifffahrt (Spree River Cruise)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_51",
@@ -2775,7 +2875,9 @@ const candidateSpotsDatabase = {
       "name_es": "Badeschiff (Badeschiff Floating Pool)",
       "name_zh": "Badeschiff (バーデシッフ)",
       "name_fr": "Badeschiff (Badeschiff Floating Pool)",
-      "name_de": "Badeschiff"
+      "name_de": "Badeschiff",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Badeschiff_Kohl.jpg/330px-Badeschiff_Kohl.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_52",
@@ -2785,7 +2887,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.4894,
       "lng": 13.3872,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -2812,7 +2914,9 @@ const candidateSpotsDatabase = {
       "name_es": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
       "name_zh": "Curry 36 & Konnopke's Imbiß (カリー36＆コノプケ)",
       "name_fr": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
-      "name_de": "Curry 36 & Konnopke's Imbiß"
+      "name_de": "Curry 36 & Konnopke's Imbiß",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_53",
@@ -2822,7 +2926,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.4892,
       "lng": 13.3875,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -2849,7 +2953,9 @@ const candidateSpotsDatabase = {
       "name_es": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
       "name_zh": "Mustafa's Gemüsedöner (ムスタファズ・ゲミューゼドネル)",
       "name_fr": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
-      "name_de": "Mustafa's Gemüsedöner"
+      "name_de": "Mustafa's Gemüsedöner",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_54",
@@ -2859,7 +2965,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5019,
       "lng": 13.3606,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -2886,7 +2992,9 @@ const candidateSpotsDatabase = {
       "name_es": "Café Einstein Stammhaus",
       "name_zh": "Café Einstein Stammhaus (カフェ・アインシュタイン本店)",
       "name_fr": "Café Einstein Stammhaus",
-      "name_de": "Café Einstein Stammhaus"
+      "name_de": "Café Einstein Stammhaus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg/330px-TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_55",
@@ -2896,7 +3004,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5397,
       "lng": 13.4103,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -2923,7 +3031,9 @@ const candidateSpotsDatabase = {
       "name_es": "Prater Biergarten (Prater Beer Garden)",
       "name_zh": "Prater Biergarten (プラーター・ビアガーデン)",
       "name_fr": "Prater Biergarten (Prater Beer Garden)",
-      "name_de": "Prater Biergarten"
+      "name_de": "Prater Biergarten",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_56",
@@ -2933,7 +3043,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5169,
       "lng": 13.4072,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -2960,7 +3070,9 @@ const candidateSpotsDatabase = {
       "name_es": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
       "name_zh": "Brauhaus Georgbræu & Nikolaiviertel (ニコライ地区＆ゲオルグブロイ)",
       "name_fr": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
-      "name_de": "Brauhaus Georgbræu & Nikolaiviertel"
+      "name_de": "Brauhaus Georgbræu & Nikolaiviertel",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_57",
@@ -2997,7 +3109,9 @@ const candidateSpotsDatabase = {
       "name_es": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
       "name_zh": "ANOHA - Die Kinderwelt des Jüdischen Museums (アノハ・子供の世界)",
       "name_fr": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
-      "name_de": "ANOHA - Die Kinderwelt des Jüdischen Museums"
+      "name_de": "ANOHA - Die Kinderwelt des Jüdischen Museums",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_58",
@@ -3034,7 +3148,9 @@ const candidateSpotsDatabase = {
       "name_es": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
       "name_zh": "Loxx / Lego Discovery Centre Berlin (レゴランド・ディスカバリー・センター)",
       "name_fr": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
-      "name_de": "Loxx / Lego Discovery Centre Berlin"
+      "name_de": "Loxx / Lego Discovery Centre Berlin",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_59",
@@ -3071,7 +3187,9 @@ const candidateSpotsDatabase = {
       "name_es": "AquaDom & SEA LIFE Berlin (SEA LIFE Berlin)",
       "name_zh": "AquaDom & SEA LIFE Berlin (シーライフ・ベルリン)",
       "name_fr": "AquaDom & SEA LIFE Berlin (SEA LIFE Berlin)",
-      "name_de": "AquaDom & SEA LIFE Berlin"
+      "name_de": "AquaDom & SEA LIFE Berlin",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_60",
@@ -3081,7 +3199,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 52.5036,
       "lng": 13.3814,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -3108,7 +3226,9 @@ const candidateSpotsDatabase = {
       "name_es": "Liquidrom (Liquidrom Thermal Bath)",
       "name_zh": "Liquidrom (リキッドローム)",
       "name_fr": "Liquidrom (Liquidrom Thermal Bath)",
-      "name_de": "Liquidrom"
+      "name_de": "Liquidrom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/330px-Tempodrom.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_61",
@@ -3118,7 +3238,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4042,
       "lng": 13.0385,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -3145,7 +3265,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
       "name_zh": "Schloss Sanssouci & Park Sanssouci (サンスーシ宮殿＆サンスーシ公園)",
       "name_fr": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
-      "name_de": "Schloss Sanssouci & Park Sanssouci (Potsdam / UNESCO)"
+      "name_de": "Schloss Sanssouci & Park Sanssouci (Potsdam / UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_62",
@@ -3155,7 +3277,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4014,
       "lng": 13.0158,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -3182,7 +3304,9 @@ const candidateSpotsDatabase = {
       "name_es": "Neues Palais ） (New Palace in Sanssouci)",
       "name_zh": "Neues Palais ） (ポツダム)",
       "name_fr": "Neues Palais ） (New Palace in Sanssouci)",
-      "name_de": "Neues Palais ） (Potsdam)"
+      "name_de": "Neues Palais ） (Potsdam)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_63",
@@ -3192,7 +3316,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4192,
       "lng": 13.0706,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -3219,7 +3343,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schloss Cecilienhof (Cecilienhof Palace)",
       "name_zh": "Schloss Cecilienhof (ツェツィーリエンホーフ宮殿)",
       "name_fr": "Schloss Cecilienhof (Cecilienhof Palace)",
-      "name_de": "Schloss Cecilienhof (Potsdam)"
+      "name_de": "Schloss Cecilienhof (Potsdam)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg/330px-La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_64",
@@ -3229,7 +3355,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4025,
       "lng": 13.0608,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -3256,7 +3382,9 @@ const candidateSpotsDatabase = {
       "name_es": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
       "name_zh": "Holländisches Viertel ） (ポツダム)",
       "name_fr": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
-      "name_de": "Holländisches Viertel ） (Potsdam)"
+      "name_de": "Holländisches Viertel ） (Potsdam)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_65",
@@ -3266,7 +3394,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.3958,
       "lng": 13.0614,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -3293,7 +3421,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum Barberini ） (Museum Barberini Potsdam)",
       "name_zh": "Museum Barberini ） (ポツダム)",
       "name_fr": "Museum Barberini ） (Museum Barberini Potsdam)",
-      "name_de": "Museum Barberini ） (Potsdam)"
+      "name_de": "Museum Barberini ） (Potsdam)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_66",
@@ -3303,7 +3433,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4131,
       "lng": 13.0903,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -3330,7 +3460,9 @@ const candidateSpotsDatabase = {
       "name_es": "Glienicker Brücke ） (Glienicke Bridge)",
       "name_zh": "Glienicker Brücke ） (スパイの橋)",
       "name_fr": "Glienicker Brücke ） (Glienicke Bridge)",
-      "name_de": "Glienicker Brücke ） (Potsdam / Berlin)"
+      "name_de": "Glienicker Brücke ） (Potsdam / Berlin)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_67",
@@ -3367,7 +3499,9 @@ const candidateSpotsDatabase = {
       "name_es": "Filmpark Babelsberg",
       "name_zh": "Filmpark Babelsberg (フィルムパーク・バーベルスベルク)",
       "name_fr": "Filmpark Babelsberg",
-      "name_de": "Filmpark Babelsberg (Potsdam)"
+      "name_de": "Filmpark Babelsberg (Potsdam)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg/330px-Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_68",
@@ -3377,7 +3511,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.7658,
       "lng": 13.2642,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -3404,7 +3538,9 @@ const candidateSpotsDatabase = {
       "name_es": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
       "name_zh": "KZ-Gedenkstätte Sachsenhausen (ザクセンハウゼン強制収容所記念館)",
       "name_fr": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
-      "name_de": "KZ-Gedenkstätte Sachsenhausen (Oranienburg)"
+      "name_de": "KZ-Gedenkstätte Sachsenhausen (Oranienburg)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_69",
@@ -3414,7 +3550,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 51.8686,
       "lng": 13.9669,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -3441,7 +3577,9 @@ const candidateSpotsDatabase = {
       "name_es": "Spreewald (Spreewald Biosphere Reserve)",
       "name_zh": "Spreewald (シュプレーヴァルト)",
       "name_fr": "Spreewald (Spreewald Biosphere Reserve)",
-      "name_de": "Spreewald (Lübbenau / Lehde - UNESCO)"
+      "name_de": "Spreewald (Lübbenau / Lehde - UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg/330px-Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_70",
@@ -3478,7 +3616,9 @@ const candidateSpotsDatabase = {
       "name_es": "Tropical Islands Resort",
       "name_zh": "Tropical Islands Resort (トロピカル・アイランズ)",
       "name_fr": "Tropical Islands Resort",
-      "name_de": "Tropical Islands Resort (Krausnick)"
+      "name_de": "Tropical Islands Resort (Krausnick)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_06_TropicalIslands_IMG_2078.jpg/330px-2018_06_TropicalIslands_IMG_2078.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_71",
@@ -3488,7 +3628,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4347,
       "lng": 13.1292,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -3515,7 +3655,9 @@ const candidateSpotsDatabase = {
       "name_es": "Pfaueninsel (UNESCO)",
       "name_zh": "Pfaueninsel (クジャク島)",
       "name_fr": "Pfaueninsel (UNESCO)",
-      "name_de": "Pfaueninsel (UNESCO)"
+      "name_de": "Pfaueninsel (UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%9Cbersichtskarte_Pfaueninsel.png/330px-%C3%9Cbersichtskarte_Pfaueninsel.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_72",
@@ -3525,7 +3667,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4331,
       "lng": 13.1644,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -3552,7 +3694,9 @@ const candidateSpotsDatabase = {
       "name_es": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
       "name_zh": "Wannsee & Haus der Wannsee-Konferenz (ヴァンゼー湖＆ヴァンゼー会議記念館)",
       "name_fr": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
-      "name_de": "Wannsee & Haus der Wannsee-Konferenz"
+      "name_de": "Wannsee & Haus der Wannsee-Konferenz",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_73",
@@ -3562,7 +3706,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.4969,
       "lng": 13.2408,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -3589,7 +3733,9 @@ const candidateSpotsDatabase = {
       "name_es": "Teufelsberg (Teufelsberg Field Station)",
       "name_zh": "Teufelsberg (トイフェルスベルク)",
       "name_fr": "Teufelsberg (Teufelsberg Field Station)",
-      "name_de": "Teufelsberg"
+      "name_de": "Teufelsberg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Teufelsberg_ehem_Radaranlage.jpg/330px-Teufelsberg_ehem_Radaranlage.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_74",
@@ -3626,7 +3772,9 @@ const candidateSpotsDatabase = {
       "name_es": "Zitadelle Spandau (Spandau Citadel)",
       "name_zh": "Zitadelle Spandau (シュパンダウ要塞)",
       "name_fr": "Zitadelle Spandau (Spandau Citadel)",
-      "name_de": "Zitadelle Spandau"
+      "name_de": "Zitadelle Spandau",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_75",
@@ -3636,8 +3784,8 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 52.5417,
       "lng": 13.0039,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Designer Outlet Berlin in Suburban district.",
@@ -3663,7 +3811,9 @@ const candidateSpotsDatabase = {
       "name_es": "Designer Outlet Berlin",
       "name_zh": "Designer Outlet Berlin (デザイナー・アウトレット・ベルリン)",
       "name_fr": "Designer Outlet Berlin",
-      "name_de": "Designer Outlet Berlin (Wustermark)"
+      "name_de": "Designer Outlet Berlin (Wustermark)",
+      "image": "",
+      "hasWiki": false
     }
   ],
   "Bordeaux, France": [
@@ -3680,7 +3830,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8417,
       "lng": -0.5703,
       "desc_en": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
@@ -3719,7 +3869,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GrandTheatreBordeaux2.jpg/330px-GrandTheatreBordeaux2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GrandTheatreBordeaux2.jpg/330px-GrandTheatreBordeaux2.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -3809,7 +3959,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Porte_Cailhau_from_front.png/330px-Porte_Cailhau_from_front.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Porte_Cailhau.jpg/330px-Porte_Cailhau.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -3854,11 +4004,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bordeaux_-_La_Grosse_Cloche-cr.jpg/330px-Bordeaux_-_La_Grosse_Cloche-cr.jpg?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 44.8356,
@@ -3944,11 +4094,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Le_monument_aux_Girondins_%28Bordeaux%29.JPG/330px-Le_monument_aux_Girondins_%28Bordeaux%29.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 44.8456,
@@ -3989,11 +4139,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Le_Palais_Gallien_vestige_gallo-romain_%C3%A0_Bordeaux.jpg/330px-Le_Palais_Gallien_vestige_gallo-romain_%C3%A0_Bordeaux.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 44.8483,
@@ -4034,11 +4184,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bordeaux_Pont_de_Pierre.jpg/330px-Bordeaux_Pont_de_Pierre.jpg?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 44.8386,
@@ -4220,7 +4370,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8708,
       "lng": -0.5572,
       "desc_en": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
@@ -4304,7 +4454,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
       "price": "Entry: €8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Beaux_arts_bordeaux.jpg/330px-Beaux_arts_bordeaux.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Beaux_arts_bordeaux.jpg/330px-Beaux_arts_bordeaux.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -4889,11 +5039,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%C3%89glise_Saint-Louis_de_Bordeaux%2C_July_2014_%2801%29.JPG/330px-%C3%89glise_Saint-Louis_de_Bordeaux%2C_July_2014_%2801%29.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 44.8519,
@@ -4979,11 +5129,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rue_Sainte-Catherine_Bordeaux.JPG/330px-Rue_Sainte-Catherine_Bordeaux.JPG?utm_source=nl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 44.8389,
@@ -5024,7 +5174,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bordeaux_Quinconces.jpg/330px-Bordeaux_Quinconces.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bordeaux_Quinconces.jpg/330px-Bordeaux_Quinconces.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -5102,7 +5252,7 @@ const candidateSpotsDatabase = {
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
       "price_de": "Freier Eintritt",
-      "rain": true,
+      "rain": false,
       "shopping": false,
       "free": true,
       "tip": "Trendy alternative eco-hub inside former military barracks featuring an indoor skatepark, organic bistro, and street art graffiti."
@@ -5147,7 +5297,7 @@ const candidateSpotsDatabase = {
       "price_zh": "自由的",
       "price_fr": "Gratuit",
       "price_de": "Frei",
-      "rain": true,
+      "rain": false,
       "shopping": false,
       "free": true,
       "tip": "UNESCO World Heritage medieval wine village. Visit the monolithic underground church carved out of solid limestone rock!"
@@ -5165,7 +5315,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 44.5897,
       "lng": -1.2136,
       "desc_en": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
@@ -5210,7 +5360,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8481,
       "lng": -0.5772,
       "desc_en": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
@@ -5249,11 +5399,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
       "price": "Entry: €10",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/Logo-Cap-Sciences_Bordeaux.jpg/330px-Logo-Cap-Sciences_Bordeaux.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": true,
       "lat": 44.8594,
@@ -5339,13 +5489,13 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Parc_Bordelais_-_Monument_Camille_Godard_4a.jpg/330px-Parc_Bordelais_-_Monument_Camille_Godard_4a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 44.8533,
       "lng": -0.5969,
       "desc_en": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
@@ -5384,11 +5534,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
       "price": "Entry: €18",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jaguars_bassin.jpg/330px-Jaguars_bassin.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "suburban",
       "kids": true,
       "lat": 44.7894,
@@ -5482,7 +5632,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.84667,
       "lng": 4.3525,
       "desc_en": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
@@ -5564,7 +5714,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.4",
       "desc": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
       "price": "Entry: €16",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/330px-Brussels_-_Atomium_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Laeken_Atomium_06.jpg/330px-Laeken_Atomium_06.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/330px-Brussels_-_Atomium_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -5652,7 +5802,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Elevated urban garden promenade offering iconic views of Brussels spire.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/330px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/330px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/330px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -5740,7 +5890,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.1",
       "desc": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bruxelles_Manneken_Pis.jpg/330px-Bruxelles_Manneken_Pis.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -5784,7 +5934,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "World's largest surrealist collection of René Magritte paintings.",
       "price": "Entry: €10",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Magrittemuseum.JPG/330px-Magrittemuseum.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/330px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6051,7 +6201,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9413,
       "lng": 6.9583,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -6078,7 +6228,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kölner Dom (Cologne Cathedral)",
       "name_zh": "Kölner Dom (ケルン大聖堂)",
       "name_fr": "Kölner Dom (Cologne Cathedral)",
-      "name_de": "Kölner Dom (UNESCO)"
+      "name_de": "Kölner Dom (UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/330px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_2",
@@ -6088,7 +6240,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9414,
       "lng": 6.9653,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -6115,7 +6267,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hohenzollernbrücke (Hohenzollern Bridge)",
       "name_zh": "Hohenzollernbrücke (ホーエンツォレルン橋)",
       "name_fr": "Hohenzollernbrücke (Hohenzollern Bridge)",
-      "name_de": "Hohenzollernbrücke"
+      "name_de": "Hohenzollernbrücke",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_3",
@@ -6125,7 +6279,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9383,
       "lng": 6.9603,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -6153,7 +6307,9 @@ const candidateSpotsDatabase = {
       "name_zh": "Altstadt Köln & Alter Markt (ケルン旧市街＆アルター・マルクト)",
       "name_fr": "Altstadt Köln & Alter Markt (Cologne Old Town & Alter Markt)",
       "name_de": "Altstadt Köln & Alter Markt",
-      "desc_de": "Imposante romanische Stiftskirche, die die bunten Altstadthäuser von Köln überragt."
+      "desc_de": "Imposante romanische Stiftskirche, die die bunten Altstadthäuser von Köln überragt.",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_4",
@@ -6163,7 +6319,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9367,
       "lng": 6.9608,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -6190,7 +6346,9 @@ const candidateSpotsDatabase = {
       "name_es": "Heumarkt (Heumarkt Square)",
       "name_zh": "Heumarkt (ホイマルクト広場)",
       "name_fr": "Heumarkt (Heumarkt Square)",
-      "name_de": "Heumarkt"
+      "name_de": "Heumarkt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_5",
@@ -6200,7 +6358,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9381,
       "lng": 6.9592,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -6227,7 +6385,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
       "name_zh": "Kölner Rathaus & Historische Ratslaube (ケルン市庁舎＆歴史的ルネサンス回廊)",
       "name_fr": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
-      "name_de": "Kölner Rathaus & Historische Ratslaube"
+      "name_de": "Kölner Rathaus & Historische Ratslaube",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_6",
@@ -6237,7 +6397,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9386,
       "lng": 6.9617,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -6264,7 +6424,9 @@ const candidateSpotsDatabase = {
       "name_es": "Groß St. Martin (Great St. Martin Church)",
       "name_zh": "Groß St. Martin (大聖マルティン教会)",
       "name_fr": "Groß St. Martin (Great St. Martin Church)",
-      "name_de": "Groß St. Martin"
+      "name_de": "Groß St. Martin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fischmarkt.jpg/330px-Fischmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_7",
@@ -6274,7 +6436,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9256,
       "lng": 6.9658,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -6301,7 +6463,9 @@ const candidateSpotsDatabase = {
       "name_es": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
       "name_zh": "Rheinauhafen & Kranhäuser (ライナウハーフェン＆クレーンハウス)",
       "name_fr": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
-      "name_de": "Rheinauhafen & Kranhäuser"
+      "name_de": "Rheinauhafen & Kranhäuser",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_8",
@@ -6311,7 +6475,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9411,
       "lng": 6.9692,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6338,7 +6502,9 @@ const candidateSpotsDatabase = {
       "name_es": "KölnTriangle (KölnTriangle Panorama Deck)",
       "name_zh": "KölnTriangle (ケルントライアングル展望台)",
       "name_fr": "KölnTriangle (KölnTriangle Panorama Deck)",
-      "name_de": "KölnTriangle (Panorama-Plattform)"
+      "name_de": "KölnTriangle (Panorama-Plattform)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_9",
@@ -6376,7 +6542,9 @@ const candidateSpotsDatabase = {
       "name_zh": "Schokoladenmuseum Köln (ケルン・チョコレート博物館)",
       "name_fr": "Schokoladenmuseum Köln (Cologne Chocolate Museum)",
       "name_de": "Schokoladenmuseum Köln",
-      "desc_de": "Traditionsreiches Grand Café mit Terrasse und direktem Blick auf den Kölner Dom."
+      "desc_de": "Traditionsreiches Grand Café mit Terrasse und direktem Blick auf den Kölner Dom.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Imhoff-Schokoladenmuseum%2C_K%C3%B6ln-0988.jpg/330px-Imhoff-Schokoladenmuseum%2C_K%C3%B6ln-0988.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_10",
@@ -6386,7 +6554,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9406,
       "lng": 6.9603,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6413,7 +6581,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum Ludwig",
       "name_zh": "Museum Ludwig (ルートヴィヒ美術館)",
       "name_fr": "Museum Ludwig",
-      "name_de": "Museum Ludwig"
+      "name_de": "Museum Ludwig",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg/330px-Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_11",
@@ -6423,7 +6593,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9378,
       "lng": 6.9589,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6450,7 +6620,9 @@ const candidateSpotsDatabase = {
       "name_es": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
       "name_zh": "Wallraf-Richartz-Museum & Fondation Corboud (ヴァルラフ＝リヒャルツ美術館)",
       "name_fr": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
-      "name_de": "Wallraf-Richartz-Museum & Fondation Corboud"
+      "name_de": "Wallraf-Richartz-Museum & Fondation Corboud",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg/330px-Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_12",
@@ -6460,7 +6632,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9408,
       "lng": 6.9589,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6487,7 +6659,9 @@ const candidateSpotsDatabase = {
       "name_es": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
       "name_zh": "Römisch-Germanisches Museum (ローマ・ゲルマン博物館)",
       "name_fr": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
-      "name_de": "Römisch-Germanisches Museum"
+      "name_de": "Römisch-Germanisches Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg/330px-R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_13",
@@ -6497,7 +6671,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9375,
       "lng": 6.9575,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6524,7 +6698,9 @@ const candidateSpotsDatabase = {
       "name_es": "Farina Duftmuseum (Farina Fragrance Museum)",
       "name_zh": "Farina Duftmuseum (ファリナ香水博物館)",
       "name_fr": "Farina Duftmuseum (Farina Fragrance Museum)",
-      "name_de": "Farina Duftmuseum (Duftmuseum im Farina-Haus)"
+      "name_de": "Farina Duftmuseum (Duftmuseum im Farina-Haus)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_14",
@@ -6534,7 +6710,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9383,
       "lng": 6.9519,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -6561,7 +6737,9 @@ const candidateSpotsDatabase = {
       "name_es": "4711 Stammhaus (4711 Flagship Store)",
       "name_zh": "4711 Stammhaus (4711本店)",
       "name_fr": "4711 Stammhaus (4711 Flagship Store)",
-      "name_de": "4711 Stammhaus (Glockengasse)"
+      "name_de": "4711 Stammhaus (Glockengasse)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_15",
@@ -6571,7 +6749,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9386,
       "lng": 6.9542,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6598,7 +6776,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kolumba (Kolumba Art Museum)",
       "name_zh": "Kolumba (コロンバ美術館)",
       "name_fr": "Kolumba (Kolumba Art Museum)",
-      "name_de": "Kolumba (Kunstmuseum des Erzbistums Köln)"
+      "name_de": "Kolumba (Kunstmuseum des Erzbistums Köln)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kolumba.jpg/330px-Kolumba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_16",
@@ -6608,7 +6788,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9392,
       "lng": 6.9553,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6635,7 +6815,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
       "name_zh": "Museum für Angewandte Kunst Köln (ケルン応用工芸博物館)",
       "name_fr": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
-      "name_de": "Museum für Angewandte Kunst Köln (MAKK)"
+      "name_de": "Museum für Angewandte Kunst Köln (MAKK)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg/330px-Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_17",
@@ -6645,7 +6827,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9419,
       "lng": 6.9511,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6672,7 +6854,9 @@ const candidateSpotsDatabase = {
       "name_es": "NS-Dokumentationszentrum (NS Documentation Center)",
       "name_zh": "NS-Dokumentationszentrum (ナチス文書センター)",
       "name_fr": "NS-Dokumentationszentrum (NS Documentation Center)",
-      "name_de": "NS-Dokumentationszentrum (EL-DE-Haus)"
+      "name_de": "NS-Dokumentationszentrum (EL-DE-Haus)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_18",
@@ -6682,7 +6866,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9347,
       "lng": 6.9525,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6709,7 +6893,9 @@ const candidateSpotsDatabase = {
       "name_es": "Rautenstrauch-Joest-Museum",
       "name_zh": "Rautenstrauch-Joest-Museum (ラウテンシュトラウホ＝ヨースト博物館)",
       "name_fr": "Rautenstrauch-Joest-Museum",
-      "name_de": "Rautenstrauch-Joest-Museum"
+      "name_de": "Rautenstrauch-Joest-Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg/330px-Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_19",
@@ -6719,7 +6905,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9347,
       "lng": 6.9519,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6746,7 +6932,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum Schnütgen",
       "name_zh": "Museum Schnütgen (シュニュートゲン美術館)",
       "name_fr": "Museum Schnütgen",
-      "name_de": "Museum Schnütgen"
+      "name_de": "Museum Schnütgen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg/330px-Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_20",
@@ -6756,7 +6944,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9317,
       "lng": 6.9642,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -6783,7 +6971,9 @@ const candidateSpotsDatabase = {
       "name_es": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
       "name_zh": "Deutsches Sport & Olympia Museum (ドイツ・スポーツ＆オリンピック博物館)",
       "name_fr": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
-      "name_de": "Deutsches Sport & Olympia Museum"
+      "name_de": "Deutsches Sport & Olympia Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/K%C3%B6ln_012_020.jpg/330px-K%C3%B6ln_012_020.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_21",
@@ -6793,7 +6983,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9525,
       "lng": 6.9722,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -6820,7 +7010,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kölner Seilbahn (Cologne Cable Car)",
       "name_zh": "Kölner Seilbahn (ケルン・ロープウェイ)",
       "name_fr": "Kölner Seilbahn (Cologne Cable Car)",
-      "name_de": "Kölner Seilbahn"
+      "name_de": "Kölner Seilbahn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/K%C3%B6lner_Seilbahn_logo.svg/langde-330px-K%C3%B6lner_Seilbahn_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_22",
@@ -6857,7 +7049,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kölner Zoo (Cologne Zoo)",
       "name_zh": "Kölner Zoo (ケルン動物園)",
       "name_fr": "Kölner Zoo (Cologne Zoo)",
-      "name_de": "Kölner Zoo"
+      "name_de": "Kölner Zoo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_23",
@@ -6894,7 +7088,9 @@ const candidateSpotsDatabase = {
       "name_es": "Aquarium Köln (Cologne Aquarium)",
       "name_zh": "Aquarium Köln (ケルン水族館)",
       "name_fr": "Aquarium Köln (Cologne Aquarium)",
-      "name_de": "Aquarium Köln"
+      "name_de": "Aquarium Köln",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_24",
@@ -6904,7 +7100,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9594,
       "lng": 6.9714,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -6931,7 +7127,9 @@ const candidateSpotsDatabase = {
       "name_es": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
       "name_zh": "Flora Köln & Botanischer Garten (フローラ＆ケルン植物園)",
       "name_fr": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
-      "name_de": "Flora Köln & Botanischer Garten"
+      "name_de": "Flora Köln & Botanischer Garten",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_25",
@@ -6941,7 +7139,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9361,
       "lng": 6.9536,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -6968,7 +7166,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schildergasse & Hohe Straße",
       "name_zh": "Schildergasse & Hohe Straße (シルダークロイツ通り＆ホーエ通り)",
       "name_fr": "Schildergasse & Hohe Straße",
-      "name_de": "Schildergasse & Hohe Straße"
+      "name_de": "Schildergasse & Hohe Straße",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_26",
@@ -6978,7 +7178,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9389,
       "lng": 6.9428,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -7005,7 +7205,9 @@ const candidateSpotsDatabase = {
       "name_es": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
       "name_zh": "Ehrenstraße & Belgisches Viertel (エーレン通り＆ベルギー地区)",
       "name_fr": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
-      "name_de": "Ehrenstraße & Belgisches Viertel"
+      "name_de": "Ehrenstraße & Belgisches Viertel",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_27",
@@ -7015,7 +7217,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9356,
       "lng": 6.9486,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -7042,7 +7244,9 @@ const candidateSpotsDatabase = {
       "name_es": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
       "name_zh": "Neumarkt & Neumarkt Passage (ノイマルクト広場＆パサージュ)",
       "name_fr": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
-      "name_de": "Neumarkt & Neumarkt Passage"
+      "name_de": "Neumarkt & Neumarkt Passage",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_28",
@@ -7052,7 +7256,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9386,
       "lng": 6.9514,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -7079,7 +7283,9 @@ const candidateSpotsDatabase = {
       "name_es": "DuMont Carré & Opern Passagen",
       "name_zh": "DuMont Carré & Opern Passagen (デュモン・カレ＆オペルン・パサージェン)",
       "name_fr": "DuMont Carré & Opern Passagen",
-      "name_de": "DuMont Carré & Opern Passagen"
+      "name_de": "DuMont Carré & Opern Passagen",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_29",
@@ -7089,7 +7295,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9397,
       "lng": 6.9575,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7116,7 +7322,9 @@ const candidateSpotsDatabase = {
       "name_es": "Brauhaus Früh am Dom",
       "name_zh": "Brauhaus Früh am Dom (フリュー・アム・ドーム)",
       "name_fr": "Brauhaus Früh am Dom",
-      "name_de": "Brauhaus Früh am Dom"
+      "name_de": "Brauhaus Früh am Dom",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_30",
@@ -7126,7 +7334,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9389,
       "lng": 6.9594,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7153,7 +7361,9 @@ const candidateSpotsDatabase = {
       "name_es": "Brauhaus Sion",
       "name_zh": "Brauhaus Sion (ブラウハウス・ジオン)",
       "name_fr": "Brauhaus Sion",
-      "name_de": "Brauhaus Sion"
+      "name_de": "Brauhaus Sion",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/330px-Brauhaus_Sion_Front_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_31",
@@ -7163,7 +7373,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9378,
       "lng": 6.9603,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7190,7 +7400,9 @@ const candidateSpotsDatabase = {
       "name_es": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
       "name_zh": "Gilden im Zims \"Heimat kölscher Helden\" (ギルデン・イム・ツィムス)",
       "name_fr": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
-      "name_de": "Gilden im Zims \"Heimat kölscher Helden\""
+      "name_de": "Gilden im Zims \"Heimat kölscher Helden\"",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_32",
@@ -7200,7 +7412,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9417,
       "lng": 6.9425,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7227,7 +7439,9 @@ const candidateSpotsDatabase = {
       "name_es": "Brauerei Päffgen",
       "name_zh": "Brauerei Päffgen (ペフゲン醸造所)",
       "name_fr": "Brauerei Päffgen",
-      "name_de": "Brauerei Päffgen"
+      "name_de": "Brauerei Päffgen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg/330px-P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_33",
@@ -7237,7 +7451,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9389,
       "lng": 6.9606,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7264,7 +7478,9 @@ const candidateSpotsDatabase = {
       "name_es": "Peters Brauhaus",
       "name_zh": "Peters Brauhaus (ペータース・ブラウハウス)",
       "name_fr": "Peters Brauhaus",
-      "name_de": "Peters Brauhaus"
+      "name_de": "Peters Brauhaus",
+      "image": "https://upload.wikimedia.org/wikipedia/de/thumb/7/71/HKB-Logo.jpg/330px-HKB-Logo.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_34",
@@ -7274,7 +7490,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9392,
       "lng": 6.9719,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7301,7 +7517,9 @@ const candidateSpotsDatabase = {
       "name_es": "Lommerzheim (Lommerzheim Pub)",
       "name_zh": "Lommerzheim (ロンメルツハイム)",
       "name_fr": "Lommerzheim (Lommerzheim Pub)",
-      "name_de": "Lommerzheim (Lommi)"
+      "name_de": "Lommerzheim (Lommi)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2019-11-15-Lommerzheim-7697.jpg/330px-2019-11-15-Lommerzheim-7697.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_35",
@@ -7311,7 +7529,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9406,
       "lng": 6.9575,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7338,7 +7556,9 @@ const candidateSpotsDatabase = {
       "name_es": "Café Reichard",
       "name_zh": "Café Reichard (カフェ・ライヒャルト)",
       "name_fr": "Café Reichard",
-      "name_de": "Café Reichard"
+      "name_de": "Café Reichard",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_36",
@@ -7348,7 +7568,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9547,
       "lng": 6.9442,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -7375,7 +7595,9 @@ const candidateSpotsDatabase = {
       "name_es": "Odonien (Odonien Outdoor Art Park)",
       "name_zh": "Odonien (オドニエン)",
       "name_fr": "Odonien (Odonien Outdoor Art Park)",
-      "name_de": "Odonien"
+      "name_de": "Odonien",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg/330px-Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_37",
@@ -7385,7 +7607,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9508,
       "lng": 6.9742,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7412,7 +7634,9 @@ const candidateSpotsDatabase = {
       "name_es": "Claudius Therme (Claudius Therme Thermal Bath)",
       "name_zh": "Claudius Therme (クラウディウス・テルメ)",
       "name_fr": "Claudius Therme (Claudius Therme Thermal Bath)",
-      "name_de": "Claudius Therme"
+      "name_de": "Claudius Therme",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_38",
@@ -7422,7 +7646,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9472,
       "lng": 6.9722,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -7449,7 +7673,9 @@ const candidateSpotsDatabase = {
       "name_es": "Rheinpark & Kleinbahn",
       "name_zh": "Rheinpark & Kleinbahn (ライン公園＆ミニSL鉄道)",
       "name_fr": "Rheinpark & Kleinbahn",
-      "name_de": "Rheinpark & Kleinbahn"
+      "name_de": "Rheinpark & Kleinbahn",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_39",
@@ -7486,7 +7712,9 @@ const candidateSpotsDatabase = {
       "name_es": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
       "name_zh": "Stadtwald Köln & Lindenthaler Tierpark (ケルン市民の森＆リンデンタール動物ふれあい公園)",
       "name_fr": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
-      "name_de": "Stadtwald Köln & Lindenthaler Tierpark"
+      "name_de": "Stadtwald Köln & Lindenthaler Tierpark",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_40",
@@ -7496,7 +7724,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9389,
       "lng": 6.9186,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -7523,7 +7751,9 @@ const candidateSpotsDatabase = {
       "name_es": "Melaten-Friedhof (Melaten Cemetery)",
       "name_zh": "Melaten-Friedhof (メラテン墓地)",
       "name_fr": "Melaten-Friedhof (Melaten Cemetery)",
-      "name_de": "Melaten-Friedhof"
+      "name_de": "Melaten-Friedhof",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg/330px-2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_41",
@@ -7560,7 +7790,9 @@ const candidateSpotsDatabase = {
       "name_es": "Odysseum Science Center",
       "name_zh": "Odysseum Science Center (オディッセウム科学館)",
       "name_fr": "Odysseum Science Center",
-      "name_de": "Odysseum Science Center"
+      "name_de": "Odysseum Science Center",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_42",
@@ -7570,7 +7802,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.94,
       "lng": 6.9622,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -7597,7 +7829,9 @@ const candidateSpotsDatabase = {
       "name_es": "RheinSchiffahrt (KD Rhine River Cruise)",
       "name_zh": "RheinSchiffahrt (ライン川観光遊覧船)",
       "name_fr": "RheinSchiffahrt (KD Rhine River Cruise)",
-      "name_de": "RheinSchiffahrt (Köln-Düsseldorfer / KD River Cruises)"
+      "name_de": "RheinSchiffahrt (Köln-Düsseldorfer / KD River Cruises)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_43",
@@ -7607,7 +7841,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9439,
       "lng": 6.9458,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -7634,7 +7868,9 @@ const candidateSpotsDatabase = {
       "name_es": "St. Gereon (St. Gereon Basilica)",
       "name_zh": "St. Gereon (聖ゲレオン教会)",
       "name_fr": "St. Gereon (St. Gereon Basilica)",
-      "name_de": "St. Gereon"
+      "name_de": "St. Gereon",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_44",
@@ -7644,7 +7880,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9458,
       "lng": 6.9536,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -7671,7 +7907,9 @@ const candidateSpotsDatabase = {
       "name_es": "St. Ursula (St. Ursula Basilica)",
       "name_zh": "St. Ursula (聖ウルスラ教会)",
       "name_fr": "St. Ursula (St. Ursula Basilica)",
-      "name_de": "St. Ursula"
+      "name_de": "St. Ursula",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wappen_Koeln.svg/langde-330px-Wappen_Koeln.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_45",
@@ -7681,7 +7919,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.9364,
       "lng": 6.9467,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -7708,7 +7946,9 @@ const candidateSpotsDatabase = {
       "name_es": "St. Aposteln (St. Apostles Church)",
       "name_zh": "St. Aposteln (聖使徒教会)",
       "name_fr": "St. Aposteln (St. Apostles Church)",
-      "name_de": "St. Aposteln"
+      "name_de": "St. Aposteln",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/St._Aposteln_K%C3%B6ln_-_Ostseite_%284539%29.jpg/330px-St._Aposteln_K%C3%B6ln_-_Ostseite_%284539%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_46",
@@ -7718,7 +7958,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.8275,
       "lng": 6.9078,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -7745,7 +7985,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
       "name_zh": "Schlösser Augustusburg und Falkenlust (アウグストゥスブルク城＆ファルケンルスト城)",
       "name_fr": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
-      "name_de": "Schlösser Augustusburg und Falkenlust (Brühl / UNESCO)"
+      "name_de": "Schlösser Augustusburg und Falkenlust (Brühl / UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg/330px-Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_47",
@@ -7782,7 +8024,9 @@ const candidateSpotsDatabase = {
       "name_es": "Phantasialand (Phantasialand Theme Park)",
       "name_zh": "Phantasialand (ファンタジアランド)",
       "name_fr": "Phantasialand (Phantasialand Theme Park)",
-      "name_de": "Phantasialand (Brühl)"
+      "name_de": "Phantasialand (Brühl)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Phantasialand_Logo.svg/langde-330px-Phantasialand_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_48",
@@ -7792,7 +8036,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.7747,
       "lng": 6.0839,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -7819,7 +8063,9 @@ const candidateSpotsDatabase = {
       "name_es": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
       "name_zh": "Aachener Dom & Domschatzkammer (アーヘン大聖堂＆宝物館)",
       "name_fr": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
-      "name_de": "Aachener Dom & Domschatzkammer (Aachen / UNESCO)"
+      "name_de": "Aachener Dom & Domschatzkammer (Aachen / UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_49",
@@ -7829,7 +8075,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.6742,
       "lng": 7.2064,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -7856,7 +8102,9 @@ const candidateSpotsDatabase = {
       "name_es": "Drachenburg Castle & Drachenfels",
       "name_zh": "Drachenburg Castle & Drachenfels (ドラッヘンブルク城＆竜の岩山)",
       "name_fr": "Drachenburg Castle & Drachenfels",
-      "name_de": "Drachenburg Castle & Drachenfels (Königswinter)"
+      "name_de": "Drachenburg Castle & Drachenfels (Königswinter)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_50",
@@ -7866,7 +8114,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 51.1611,
       "lng": 6.8703,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -7893,7 +8141,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schloss Benrath (Benrath Palace)",
       "name_zh": "Schloss Benrath (ベンラート宮殿)",
       "name_fr": "Schloss Benrath (Benrath Palace)",
-      "name_de": "Schloss Benrath (Düsseldorf)"
+      "name_de": "Schloss Benrath (Düsseldorf)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Benrath_Jan2012.jpg/330px-Schloss_Benrath_Jan2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_51",
@@ -7903,7 +8153,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.6217,
       "lng": 6.7078,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -7930,7 +8180,9 @@ const candidateSpotsDatabase = {
       "name_es": "Burg Satzvey (Satzvey Castle)",
       "name_zh": "Burg Satzvey (ザツヴァイ城)",
       "name_fr": "Burg Satzvey (Satzvey Castle)",
-      "name_de": "Burg Satzvey (Mechernich)"
+      "name_de": "Burg Satzvey (Mechernich)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/330px-Burg_Satzvey_HDR.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_52",
@@ -7940,7 +8192,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 51.1472,
       "lng": 6.6583,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -7967,7 +8219,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum Insel Hombroich",
       "name_zh": "Museum Insel Hombroich (インゼル・ホンブロイヒ美術館)",
       "name_fr": "Museum Insel Hombroich",
-      "name_de": "Museum Insel Hombroich (Neuss)"
+      "name_de": "Museum Insel Hombroich (Neuss)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Auenlandschaft_Museumsinsel_Hombroich_Neuss_2006.jpg/330px-Auenlandschaft_Museumsinsel_Hombroich_Neuss_2006.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_53",
@@ -7977,7 +8231,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 51.2256,
       "lng": 6.9506,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8004,7 +8258,9 @@ const candidateSpotsDatabase = {
       "name_es": "Neanderthal Museum",
       "name_zh": "Neanderthal Museum (ネアンデルタール博物館)",
       "name_fr": "Neanderthal Museum",
-      "name_de": "Neanderthal Museum (Mettmann)"
+      "name_de": "Neanderthal Museum (Mettmann)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mus%C3%A9e_de_Neanderthal.jpg/330px-Mus%C3%A9e_de_Neanderthal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_54",
@@ -8014,7 +8270,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.6119,
       "lng": 6.6508,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8041,7 +8297,9 @@ const candidateSpotsDatabase = {
       "name_es": "Freilichtmuseum Kommern (Kommern Open-Air Museum)",
       "name_zh": "Freilichtmuseum Kommern (コムメルン野外博物館)",
       "name_fr": "Freilichtmuseum Kommern (Kommern Open-Air Museum)",
-      "name_de": "Freilichtmuseum Kommern (LVR-Freilichtmuseum Kommern)"
+      "name_de": "Freilichtmuseum Kommern (LVR-Freilichtmuseum Kommern)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Freilichtmuseum_Kommern_-_Haus_aus_Rhinschenschmidthausen%2C_Bergisches_Land_%2812903341704%29.jpg/330px-Freilichtmuseum_Kommern_-_Haus_aus_Rhinschenschmidthausen%2C_Bergisches_Land_%2812903341704%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_55",
@@ -8078,7 +8336,9 @@ const candidateSpotsDatabase = {
       "name_es": "Brühler Wasserski / Heider Bergsee (Heider Bergsee Lake)",
       "name_zh": "Brühler Wasserski / Heider Bergsee (ハイダー・ベルクゼー)",
       "name_fr": "Brühler Wasserski / Heider Bergsee (Heider Bergsee Lake)",
-      "name_de": "Brühler Wasserski / Heider Bergsee"
+      "name_de": "Brühler Wasserski / Heider Bergsee",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_56",
@@ -8088,7 +8348,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.5556,
       "lng": 6.7628,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": true,
       "free": true,
@@ -8115,7 +8375,9 @@ const candidateSpotsDatabase = {
       "name_es": "City Outlet Bad Münstereifel (Bad Münstereifel City Outlet)",
       "name_zh": "City Outlet Bad Münstereifel (バート・ミュンスターアイフェル・シティアウトレット)",
       "name_fr": "City Outlet Bad Münstereifel (Bad Münstereifel City Outlet)",
-      "name_de": "City Outlet Bad Münstereifel"
+      "name_de": "City Outlet Bad Münstereifel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DEU_Bad_Muenstereifel_COA.svg/langde-330px-DEU_Bad_Muenstereifel_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     }
   ],
   "Frankfurt, Germany": [
@@ -8127,7 +8389,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1103,
       "lng": 8.6821,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -8154,7 +8416,9 @@ const candidateSpotsDatabase = {
       "name_es": "Römerberg & Rathaus Römer (Römerberg & City Hall)",
       "name_zh": "Römerberg & Rathaus Römer (レーマー広場＆旧市庁舎レーマー)",
       "name_fr": "Römerberg & Rathaus Römer (Römerberg & City Hall)",
-      "name_de": "Römerberg & Rathaus Römer"
+      "name_de": "Römerberg & Rathaus Römer",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_2",
@@ -8164,7 +8428,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1106,
       "lng": 8.6853,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -8191,7 +8455,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kaiserdom St. Bartholomäus (Frankfurt Cathedral)",
       "name_zh": "Kaiserdom St. Bartholomäus (聖バルトロメウス大聖堂)",
       "name_fr": "Kaiserdom St. Bartholomäus (Frankfurt Cathedral)",
-      "name_de": "Kaiserdom St. Bartholomäus"
+      "name_de": "Kaiserdom St. Bartholomäus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg/330px-Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_3",
@@ -8201,7 +8467,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1114,
       "lng": 8.6775,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8228,7 +8494,9 @@ const candidateSpotsDatabase = {
       "name_es": "Goethe-Haus (Goethe House & Museum)",
       "name_zh": "Goethe-Haus (ゲーテハウス＆ドイツ・ロマン派博物館)",
       "name_fr": "Goethe-Haus (Goethe House & Museum)",
-      "name_de": "Goethe-Haus"
+      "name_de": "Goethe-Haus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/330px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_4",
@@ -8238,7 +8506,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1031,
       "lng": 8.6742,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8265,7 +8533,9 @@ const candidateSpotsDatabase = {
       "name_es": "Städel Museum",
       "name_zh": "Städel Museum (シュテーデル美術館)",
       "name_fr": "Städel Museum",
-      "name_de": "Städel Museum"
+      "name_de": "Städel Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg/330px-St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_5",
@@ -8275,7 +8545,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1114,
       "lng": 8.6722,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8302,7 +8572,9 @@ const candidateSpotsDatabase = {
       "name_es": "Main Tower (Main Tower Observatory)",
       "name_zh": "Main Tower (マインタワー)",
       "name_fr": "Main Tower (Main Tower Observatory)",
-      "name_de": "Main Tower"
+      "name_de": "Main Tower",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Maintower_Frankfurt.jpg/330px-Maintower_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_6",
@@ -8312,7 +8584,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1086,
       "lng": 8.6817,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -8339,7 +8611,9 @@ const candidateSpotsDatabase = {
       "name_es": "Eiserner Steg (Iron Footbridge)",
       "name_zh": "Eiserner Steg (アイゼルナー・シュテグ鉄橋)",
       "name_fr": "Eiserner Steg (Iron Footbridge)",
-      "name_de": "Eiserner Steg"
+      "name_de": "Eiserner Steg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg/330px-Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_7",
@@ -8349,7 +8623,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1111,
       "lng": 8.6808,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -8376,7 +8650,9 @@ const candidateSpotsDatabase = {
       "name_es": "Paulskirche (St. Paul's Church)",
       "name_zh": "Paulskirche (聖パウロ教会)",
       "name_fr": "Paulskirche (St. Paul's Church)",
-      "name_de": "Paulskirche"
+      "name_de": "Paulskirche",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg/330px-Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_8",
@@ -8386,7 +8662,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1158,
       "lng": 8.6719,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -8413,7 +8689,9 @@ const candidateSpotsDatabase = {
       "name_es": "Alte Oper (Old Opera House)",
       "name_zh": "Alte Oper (アルテ・オーパー旧オペラ座)",
       "name_fr": "Alte Oper (Old Opera House)",
-      "name_de": "Alte Oper"
+      "name_de": "Alte Oper",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/330px-Alte_Oper_Frankfurt_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_9",
@@ -8423,7 +8701,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1239,
       "lng": 8.6575,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -8450,7 +8728,9 @@ const candidateSpotsDatabase = {
       "name_es": "Palmengarten (Palmengarten Botanical Garden)",
       "name_zh": "Palmengarten (パルメンガルテン植物園)",
       "name_fr": "Palmengarten (Palmengarten Botanical Garden)",
-      "name_de": "Palmengarten"
+      "name_de": "Palmengarten",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NOI_Techpark_S%C3%BCdtirol_3.jpg/330px-NOI_Techpark_S%C3%BCdtirol_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_10",
@@ -8460,7 +8740,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1097,
       "lng": 8.6828,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8487,7 +8767,9 @@ const candidateSpotsDatabase = {
       "name_es": "Historisches Museum Frankfurt (Frankfurt History Museum)",
       "name_zh": "Historisches Museum Frankfurt (フランクフルト歴史博物館)",
       "name_fr": "Historisches Museum Frankfurt (Frankfurt History Museum)",
-      "name_de": "Historisches Museum Frankfurt"
+      "name_de": "Historisches Museum Frankfurt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg/330px-Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_11",
@@ -8497,7 +8779,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1022,
       "lng": 8.6725,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8524,7 +8806,9 @@ const candidateSpotsDatabase = {
       "name_es": "Liebieghaus Skulpturensammlung (Liebieghaus Sculpture Museum)",
       "name_zh": "Liebieghaus Skulpturensammlung (リービークハウス彫刻美術館)",
       "name_fr": "Liebieghaus Skulpturensammlung (Liebieghaus Sculpture Museum)",
-      "name_de": "Liebieghaus Skulpturensammlung"
+      "name_de": "Liebieghaus Skulpturensammlung",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Liebieghaus.jpg/330px-Liebieghaus.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_12",
@@ -8534,7 +8818,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1064,
       "lng": 8.6811,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8561,7 +8845,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum Angewandte Kunst (Museum of Applied Arts)",
       "name_zh": "Museum Angewandte Kunst (応用工芸博物館)",
       "name_fr": "Museum Angewandte Kunst (Museum of Applied Arts)",
-      "name_de": "Museum Angewandte Kunst"
+      "name_de": "Museum Angewandte Kunst",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg/330px-Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_13",
@@ -8571,7 +8857,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1053,
       "lng": 8.6781,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8598,7 +8884,9 @@ const candidateSpotsDatabase = {
       "name_es": "Deutsches Filminstitut & Filmmuseum (DFF - German Film Institute & Film Museum)",
       "name_zh": "Deutsches Filminstitut & Filmmuseum (ドイツ映画博物館)",
       "name_fr": "Deutsches Filminstitut & Filmmuseum (DFF - German Film Institute & Film Museum)",
-      "name_de": "Deutsches Filminstitut & Filmmuseum"
+      "name_de": "Deutsches Filminstitut & Filmmuseum",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_14",
@@ -8608,7 +8896,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1117,
       "lng": 8.6847,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8635,7 +8923,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum für Moderne Kunst (Museum of Modern Art)",
       "name_zh": "Museum für Moderne Kunst (フランクフルト現代美術館)",
       "name_fr": "Museum für Moderne Kunst (Museum of Modern Art)",
-      "name_de": "Museum für Moderne Kunst (MMK)"
+      "name_de": "Museum für Moderne Kunst (MMK)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/330px-Museum_fuer_Moderne_Kunst_Portalseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_15",
@@ -8645,7 +8935,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1106,
       "lng": 8.6839,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -8672,7 +8962,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schirn Kunsthalle Frankfurt",
       "name_zh": "Schirn Kunsthalle Frankfurt (シルン美術館)",
       "name_fr": "Schirn Kunsthalle Frankfurt",
-      "name_de": "Schirn Kunsthalle Frankfurt"
+      "name_de": "Schirn Kunsthalle Frankfurt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Schirn-ffm001.jpg/330px-Schirn-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_16",
@@ -8682,7 +8974,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1044,
       "lng": 8.6778,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -8709,7 +9001,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museumsufer (Museumsufer River Bank)",
       "name_zh": "Museumsufer (博物館河岸エリア)",
       "name_fr": "Museumsufer (Museumsufer River Bank)",
-      "name_de": "Museumsufer"
+      "name_de": "Museumsufer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Museumsufer-teil1-ffm001.jpg/330px-Museumsufer-teil1-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_17",
@@ -8719,8 +9013,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1119,
       "lng": 8.6833,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Kleinmarkthalle Market in City district.",
@@ -8746,7 +9040,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kleinmarkthalle (Kleinmarkthalle Market)",
       "name_zh": "Kleinmarkthalle (クラインマルクトハレ屋内市場)",
       "name_fr": "Kleinmarkthalle (Kleinmarkthalle Market)",
-      "name_de": "Kleinmarkthalle"
+      "name_de": "Kleinmarkthalle",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg/330px-Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_18",
@@ -8756,7 +9052,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1108,
       "lng": 8.6836,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -8783,7 +9079,9 @@ const candidateSpotsDatabase = {
       "name_es": "Neue Altstadt (New Old Town)",
       "name_zh": "Neue Altstadt (新旧市街)",
       "name_fr": "Neue Altstadt (New Old Town)",
-      "name_de": "Neue Altstadt"
+      "name_de": "Neue Altstadt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_19",
@@ -8793,7 +9091,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1039,
       "lng": 8.6908,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -8820,7 +9118,9 @@ const candidateSpotsDatabase = {
       "name_es": "Sachsenhausen (Sachsenhausen Cider District)",
       "name_zh": "Sachsenhausen (ザクセンハウゼン地区＆居酒屋街)",
       "name_fr": "Sachsenhausen (Sachsenhausen Cider District)",
-      "name_de": "Sachsenhausen"
+      "name_de": "Sachsenhausen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg/330px-Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_20",
@@ -8830,7 +9130,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1033,
       "lng": 8.6914,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -8857,7 +9157,9 @@ const candidateSpotsDatabase = {
       "name_es": "Zur Sonne / Zum Gemalten Haus / Atschel (Historic Apple Wine Taverns)",
       "name_zh": "Zur Sonne / Zum Gemalten Haus / Atschel (ザクセンハウゼンの歴史的アプフェルヴァイン酒場群)",
       "name_fr": "Zur Sonne / Zum Gemalten Haus / Atschel (Historic Apple Wine Taverns)",
-      "name_de": "Zur Sonne / Zum Gemalten Haus / Atschel"
+      "name_de": "Zur Sonne / Zum Gemalten Haus / Atschel",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_21",
@@ -8867,8 +9169,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1147,
       "lng": 8.6828,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Zeil Shopping Street & MyZeil in City district.",
@@ -8894,7 +9196,9 @@ const candidateSpotsDatabase = {
       "name_es": "Zeil & MyZeil (Zeil Shopping Street & MyZeil)",
       "name_zh": "Zeil & MyZeil (ツァイル通り＆マイツァイル)",
       "name_fr": "Zeil & MyZeil (Zeil Shopping Street & MyZeil)",
-      "name_de": "Zeil & MyZeil"
+      "name_de": "Zeil & MyZeil",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_22",
@@ -8904,8 +9208,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1136,
       "lng": 8.6756,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Goethestraße Luxury Street in City district.",
@@ -8931,7 +9235,9 @@ const candidateSpotsDatabase = {
       "name_es": "Goethestraße (Goethestraße Luxury Street)",
       "name_zh": "Goethestraße (ゲーテ通り)",
       "name_fr": "Goethestraße (Goethestraße Luxury Street)",
-      "name_de": "Goethestraße"
+      "name_de": "Goethestraße",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goethestrasse_Rothofstrasse_Ffm.jpg/330px-Goethestrasse_Rothofstrasse_Ffm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_23",
@@ -8941,7 +9247,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1144,
       "lng": 8.6747,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -8968,7 +9274,9 @@ const candidateSpotsDatabase = {
       "name_es": "Große Bockenheimer Straße (Fressgass Culinary Street)",
       "name_zh": "Große Bockenheimer Straße (フレスガス通り)",
       "name_fr": "Große Bockenheimer Straße (Fressgass Culinary Street)",
-      "name_de": "Große Bockenheimer Straße (Fressgass)"
+      "name_de": "Große Bockenheimer Straße (Fressgass)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_24",
@@ -8978,7 +9286,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1136,
       "lng": 8.6789,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -9005,7 +9313,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hauptwache & Katharinenkirche (Hauptwache Square & St. Catherine's)",
       "name_zh": "Hauptwache & Katharinenkirche (ハウプトヴァッヘ広場＆聖カタリーナ教会)",
       "name_fr": "Hauptwache & Katharinenkirche (Hauptwache Square & St. Catherine's)",
-      "name_de": "Hauptwache & Katharinenkirche"
+      "name_de": "Hauptwache & Katharinenkirche",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_25",
@@ -9015,7 +9325,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1067,
       "lng": 8.6792,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -9042,7 +9352,9 @@ const candidateSpotsDatabase = {
       "name_es": "Mainufer-Promenade (Main River Promenade)",
       "name_zh": "Mainufer-Promenade (マイン川河岸遊歩道)",
       "name_fr": "Mainufer-Promenade (Main River Promenade)",
-      "name_de": "Mainufer-Promenade"
+      "name_de": "Mainufer-Promenade",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_26",
@@ -9079,7 +9391,9 @@ const candidateSpotsDatabase = {
       "name_es": "Zoo Frankfurt (Frankfurt Zoo)",
       "name_zh": "Zoo Frankfurt (フランクフルト動物園)",
       "name_fr": "Zoo Frankfurt (Frankfurt Zoo)",
-      "name_de": "Zoo Frankfurt"
+      "name_de": "Zoo Frankfurt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Zoo-Frankfurt-Gesellschaftshaus-a.jpg/330px-Zoo-Frankfurt-Gesellschaftshaus-a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_27",
@@ -9089,7 +9403,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1175,
       "lng": 8.6517,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9116,7 +9430,9 @@ const candidateSpotsDatabase = {
       "name_es": "Senckenberg Naturmuseum (Senckenberg Natural History Museum)",
       "name_zh": "Senckenberg Naturmuseum (ゼンケンベルク自然博物館)",
       "name_fr": "Senckenberg Naturmuseum (Senckenberg Natural History Museum)",
-      "name_de": "Senckenberg Naturmuseum"
+      "name_de": "Senckenberg Naturmuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg/330px-Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_28",
@@ -9126,7 +9442,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1153,
       "lng": 8.6781,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -9153,7 +9469,9 @@ const candidateSpotsDatabase = {
       "name_es": "Frankfurter Wertpapierbörse (Frankfurt Stock Exchange)",
       "name_zh": "Frankfurter Wertpapierbörse (フランクフルト証券取引所)",
       "name_fr": "Frankfurter Wertpapierbörse (Frankfurt Stock Exchange)",
-      "name_de": "Frankfurter Wertpapierbörse (Börse)"
+      "name_de": "Frankfurter Wertpapierbörse (Börse)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg/330px-Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_29",
@@ -9163,7 +9481,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1092,
       "lng": 8.6739,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -9190,7 +9508,9 @@ const candidateSpotsDatabase = {
       "name_es": "Euro-Skulptur (Euro Sculpture)",
       "name_zh": "Euro-Skulptur (巨大ユーロマーク像)",
       "name_fr": "Euro-Skulptur (Euro Sculpture)",
-      "name_de": "Euro-Skulptur (Willy-Brandt-Platz)"
+      "name_de": "Euro-Skulptur (Willy-Brandt-Platz)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg/330px-Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_30",
@@ -9200,8 +9520,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1108,
       "lng": 8.6522,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Europaviertel & Skyline Plaza in City district.",
@@ -9227,7 +9547,9 @@ const candidateSpotsDatabase = {
       "name_es": "Europaviertel & Skyline Plaza",
       "name_zh": "Europaviertel & Skyline Plaza (オイローパフィアテル＆スカイライン・プラザ)",
       "name_fr": "Europaviertel & Skyline Plaza",
-      "name_de": "Europaviertel & Skyline Plaza"
+      "name_de": "Europaviertel & Skyline Plaza",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_31",
@@ -9237,7 +9559,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1264,
       "lng": 8.6625,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -9264,7 +9586,9 @@ const candidateSpotsDatabase = {
       "name_es": "Grüneburgpark (Grüneburgpark & Botanical Garden)",
       "name_zh": "Grüneburgpark (グリューネブルク公園＆フランクフルト植物園)",
       "name_fr": "Grüneburgpark (Grüneburgpark & Botanical Garden)",
-      "name_de": "Grüneburgpark"
+      "name_de": "Grüneburgpark",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/FFM_Grueneburg_1864_Delkeskamp.jpg/330px-FFM_Grueneburg_1864_Delkeskamp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_32",
@@ -9274,7 +9598,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1103,
       "lng": 8.7019,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -9301,7 +9625,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hafenpark & Ostpark",
       "name_zh": "Hafenpark & Ostpark (ハーフェンパーク＆オストパーク)",
       "name_fr": "Hafenpark & Ostpark",
-      "name_de": "Hafenpark & Ostpark"
+      "name_de": "Hafenpark & Ostpark",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_33",
@@ -9311,7 +9637,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1103,
       "lng": 8.7025,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -9338,7 +9664,9 @@ const candidateSpotsDatabase = {
       "name_es": "Europäische Zentralbank (European Central Bank Headquarters)",
       "name_zh": "Europäische Zentralbank (欧州中央銀行新本部ビル)",
       "name_fr": "Europäische Zentralbank (European Central Bank Headquarters)",
-      "name_de": "Europäische Zentralbank (ECB / EZB)"
+      "name_de": "Europäische Zentralbank (ECB / EZB)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/330px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_34",
@@ -9348,7 +9676,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1067,
       "lng": 8.6733,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9375,7 +9703,9 @@ const candidateSpotsDatabase = {
       "name_es": "Jüdisches Museum Frankfurt (Jewish Museum Frankfurt)",
       "name_zh": "Jüdisches Museum Frankfurt (ユダヤ博物館)",
       "name_fr": "Jüdisches Museum Frankfurt (Jewish Museum Frankfurt)",
-      "name_de": "Jüdisches Museum Frankfurt"
+      "name_de": "Jüdisches Museum Frankfurt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_35",
@@ -9385,7 +9715,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1139,
       "lng": 8.6886,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9412,7 +9742,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum Judengasse",
       "name_zh": "Museum Judengasse (ユーデンガッセ博物館)",
       "name_fr": "Museum Judengasse",
-      "name_de": "Museum Judengasse"
+      "name_de": "Museum Judengasse",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_36",
@@ -9422,7 +9754,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1172,
       "lng": 8.6797,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -9449,7 +9781,9 @@ const candidateSpotsDatabase = {
       "name_es": "Eschenheimer Turm (Eschenheim Tower)",
       "name_zh": "Eschenheimer Turm (エッシェンハイマー塔)",
       "name_fr": "Eschenheimer Turm (Eschenheim Tower)",
-      "name_de": "Eschenheimer Turm"
+      "name_de": "Eschenheimer Turm",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Frankfurt_Nextower.20130514.jpg/330px-Frankfurt_Nextower.20130514.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_37",
@@ -9459,7 +9793,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1136,
       "lng": 8.6786,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -9486,7 +9820,9 @@ const candidateSpotsDatabase = {
       "name_es": "Café Hauptwache",
       "name_zh": "Café Hauptwache (カフェ・ハウプトヴァッヘ)",
       "name_fr": "Café Hauptwache",
-      "name_de": "Café Hauptwache"
+      "name_de": "Café Hauptwache",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_38",
@@ -9496,7 +9832,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1133,
       "lng": 8.6778,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -9523,7 +9859,9 @@ const candidateSpotsDatabase = {
       "name_es": "Wacker's Kaffee",
       "name_zh": "Wacker's Kaffee (ヴァッカーズ・カフェ)",
       "name_fr": "Wacker's Kaffee",
-      "name_de": "Wacker's Kaffee"
+      "name_de": "Wacker's Kaffee",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_39",
@@ -9533,7 +9871,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1472,
       "lng": 8.7236,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -9560,7 +9898,9 @@ const candidateSpotsDatabase = {
       "name_es": "Lohrberg (Lohrberg Park)",
       "name_zh": "Lohrberg (ロールベルク展望公園)",
       "name_fr": "Lohrberg (Lohrberg Park)",
-      "name_de": "Lohrberg (Lohrpark)"
+      "name_de": "Lohrberg (Lohrpark)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_40",
@@ -9570,7 +9910,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1061,
       "lng": 8.6739,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -9597,7 +9937,9 @@ const candidateSpotsDatabase = {
       "name_es": "Nizza Gärten (Nizza Gardens)",
       "name_zh": "Nizza Gärten (ニッツァ庭園)",
       "name_fr": "Nizza Gärten (Nizza Gardens)",
-      "name_de": "Nizza Gärten"
+      "name_de": "Nizza Gärten",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_41",
@@ -9634,7 +9976,9 @@ const candidateSpotsDatabase = {
       "name_es": "Rebstockbad (Rebstockbad Water Park)",
       "name_zh": "Rebstockbad (レプシュトックバート)",
       "name_fr": "Rebstockbad (Rebstockbad Water Park)",
-      "name_de": "Rebstockbad"
+      "name_de": "Rebstockbad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rebstockbad_Innenansicht.jpg/330px-Rebstockbad_Innenansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_42",
@@ -9671,7 +10015,9 @@ const candidateSpotsDatabase = {
       "name_es": "Experiminta ScienceCenter",
       "name_zh": "Experiminta ScienceCenter (エクスペリミンタ科学館)",
       "name_fr": "Experiminta ScienceCenter",
-      "name_de": "Experiminta ScienceCenter"
+      "name_de": "Experiminta ScienceCenter",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_43",
@@ -9681,7 +10027,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1058,
       "lng": 8.6772,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9708,7 +10054,9 @@ const candidateSpotsDatabase = {
       "name_es": "Bibelhaus Erlebnis Museum (Bibelhaus Experience Museum)",
       "name_zh": "Bibelhaus Erlebnis Museum (聖書体験博物館)",
       "name_fr": "Bibelhaus Erlebnis Museum (Bibelhaus Experience Museum)",
-      "name_de": "Bibelhaus Erlebnis Museum"
+      "name_de": "Bibelhaus Erlebnis Museum",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_44",
@@ -9718,7 +10066,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 50.1103,
       "lng": 8.6947,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9745,7 +10093,9 @@ const candidateSpotsDatabase = {
       "name_es": "DialogMuseum",
       "name_zh": "DialogMuseum (ダイアログ・ミュージアム)",
       "name_fr": "DialogMuseum",
-      "name_de": "DialogMuseum"
+      "name_de": "DialogMuseum",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_45",
@@ -9782,7 +10132,9 @@ const candidateSpotsDatabase = {
       "name_es": "Historische Straßenbahn Frankfurt (Ebbelwei-Express Tram)",
       "name_zh": "Historische Straßenbahn Frankfurt (エッベルヴァイ・エクスプレス)",
       "name_fr": "Historische Straßenbahn Frankfurt (Ebbelwei-Express Tram)",
-      "name_de": "Historische Straßenbahn Frankfurt"
+      "name_de": "Historische Straßenbahn Frankfurt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_46",
@@ -9792,7 +10144,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 49.9786,
       "lng": 7.9222,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -9819,7 +10171,9 @@ const candidateSpotsDatabase = {
       "name_es": "Rüdesheim am Rhein & Drosselgasse (Rüdesheim Rhine Valley)",
       "name_zh": "Rüdesheim am Rhein & Drosselgasse (リューデスハイム＆つぐみ横丁)",
       "name_fr": "Rüdesheim am Rhein & Drosselgasse (Rüdesheim Rhine Valley)",
-      "name_de": "Rüdesheim am Rhein & Drosselgasse"
+      "name_de": "Rüdesheim am Rhein & Drosselgasse",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_47",
@@ -9829,7 +10183,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.2053,
       "lng": 7.3364,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9856,7 +10210,9 @@ const candidateSpotsDatabase = {
       "name_es": "Burg Eltz (Eltz Castle)",
       "name_zh": "Burg Eltz (エルツ城＆ライン川古城群)",
       "name_fr": "Burg Eltz (Eltz Castle)",
-      "name_de": "Burg Eltz"
+      "name_de": "Burg Eltz",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg/330px-Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_48",
@@ -9866,7 +10222,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 49.9989,
       "lng": 8.2739,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9893,7 +10249,9 @@ const candidateSpotsDatabase = {
       "name_es": "Mainz: Dom St. Martin & Gutenberg-Museum (Mainz Cathedral & Museum)",
       "name_zh": "Mainz: Dom St. Martin & Gutenberg-Museum (マインツ：大聖堂＆グーテンベルク博物館)",
       "name_fr": "Mainz: Dom St. Martin & Gutenberg-Museum (Mainz Cathedral & Museum)",
-      "name_de": "Mainz: Dom St. Martin & Gutenberg-Museum"
+      "name_de": "Mainz: Dom St. Martin & Gutenberg-Museum",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_49",
@@ -9903,7 +10261,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.0847,
       "lng": 8.2436,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -9930,7 +10288,9 @@ const candidateSpotsDatabase = {
       "name_es": "Wiesbaden: Kurhaus & Nerobergbahn (Wiesbaden Kurhaus & Nerobergbahn)",
       "name_zh": "Wiesbaden: Kurhaus & Nerobergbahn (ヴィースバーデン：クアハウス＆ネロベルク登山鉄道)",
       "name_fr": "Wiesbaden: Kurhaus & Nerobergbahn (Wiesbaden Kurhaus & Nerobergbahn)",
-      "name_de": "Wiesbaden: Kurhaus & Nerobergbahn"
+      "name_de": "Wiesbaden: Kurhaus & Nerobergbahn",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_50",
@@ -9940,7 +10300,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 49.9753,
       "lng": 8.0558,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -9967,7 +10327,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kaiserpfalz Ingelheim (Ingelheim Imperial Palace)",
       "name_zh": "Kaiserpfalz Ingelheim (インゲルハイムのカール大帝宮殿跡)",
       "name_fr": "Kaiserpfalz Ingelheim (Ingelheim Imperial Palace)",
-      "name_de": "Kaiserpfalz Ingelheim"
+      "name_de": "Kaiserpfalz Ingelheim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/330px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_51",
@@ -9977,7 +10339,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.1808,
       "lng": 8.5081,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10004,7 +10366,9 @@ const candidateSpotsDatabase = {
       "name_es": "Burg Kronberg & Kronberg im Taunus (Kronberg Castle & Old Town)",
       "name_zh": "Burg Kronberg & Kronberg im Taunus (クロンベルク城＆クロンベルク旧市街)",
       "name_fr": "Burg Kronberg & Kronberg im Taunus (Kronberg Castle & Old Town)",
-      "name_de": "Burg Kronberg & Kronberg im Taunus"
+      "name_de": "Burg Kronberg & Kronberg im Taunus",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_52",
@@ -10014,7 +10378,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.2319,
       "lng": 8.4583,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -10041,7 +10405,9 @@ const candidateSpotsDatabase = {
       "name_es": "Großer Feldberg (Großer Feldberg Summit)",
       "name_zh": "Großer Feldberg (グローサー・フェルトベルク最高峰)",
       "name_fr": "Großer Feldberg (Großer Feldberg Summit)",
-      "name_de": "Großer Feldberg (Taunus)"
+      "name_de": "Großer Feldberg (Taunus)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg/330px-Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_53",
@@ -10051,7 +10417,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.2758,
       "lng": 8.5283,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10078,7 +10444,9 @@ const candidateSpotsDatabase = {
       "name_es": "Freilichtmuseum Hessenpark (Hessenpark Open-Air Museum)",
       "name_zh": "Freilichtmuseum Hessenpark (ヘッセンパーク野外博物館)",
       "name_fr": "Freilichtmuseum Hessenpark (Hessenpark Open-Air Museum)",
-      "name_de": "Freilichtmuseum Hessenpark"
+      "name_de": "Freilichtmuseum Hessenpark",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hessenpark%2C_Marktplatz.jpg/330px-Hessenpark%2C_Marktplatz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_54",
@@ -10088,7 +10456,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.2711,
       "lng": 8.5667,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10115,7 +10483,9 @@ const candidateSpotsDatabase = {
       "name_es": "Römerkastell Saalburg (Saalburg Roman Fort)",
       "name_zh": "Römerkastell Saalburg (ザールブルク・ローマ軍砦遺跡)",
       "name_fr": "Römerkastell Saalburg (Saalburg Roman Fort)",
-      "name_de": "Römerkastell Saalburg"
+      "name_de": "Römerkastell Saalburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg/330px-The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_55",
@@ -10125,7 +10495,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.2272,
       "lng": 8.6186,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10152,7 +10522,9 @@ const candidateSpotsDatabase = {
       "name_es": "Bad Homburg: Kurpark & Schloss (Bad Homburg Kurpark & Palace)",
       "name_zh": "Bad Homburg: Kurpark & Schloss (バート・ホムブルク：クアパーク＆城館)",
       "name_fr": "Bad Homburg: Kurpark & Schloss (Bad Homburg Kurpark & Palace)",
-      "name_de": "Bad Homburg: Kurpark & Schloss"
+      "name_de": "Bad Homburg: Kurpark & Schloss",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_56",
@@ -10189,7 +10561,9 @@ const candidateSpotsDatabase = {
       "name_es": "Taunus Wunderland (Taunus Wunderland Amusement Park)",
       "name_zh": "Taunus Wunderland (タウヌス・ヴンダーラント)",
       "name_fr": "Taunus Wunderland (Taunus Wunderland Amusement Park)",
-      "name_de": "Taunus Wunderland"
+      "name_de": "Taunus Wunderland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Eingang_Taunus_Wunderland_2019.jpg/330px-Eingang_Taunus_Wunderland_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_57",
@@ -10226,7 +10600,9 @@ const candidateSpotsDatabase = {
       "name_es": "Opel-Zoo (Opel-Zoo Kronberg)",
       "name_zh": "Opel-Zoo (オペル動物園)",
       "name_fr": "Opel-Zoo (Opel-Zoo Kronberg)",
-      "name_de": "Opel-Zoo (Kronberg)"
+      "name_de": "Opel-Zoo (Kronberg)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg/330px-Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_58",
@@ -10236,7 +10612,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 50.0425,
       "lng": 8.0461,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10263,7 +10639,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kloster Eberbach (Eberbach Abbey)",
       "name_zh": "Kloster Eberbach (エバーバッハ修道院)",
       "name_fr": "Kloster Eberbach (Eberbach Abbey)",
-      "name_de": "Kloster Eberbach"
+      "name_de": "Kloster Eberbach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/330px-Kloster_Eberbach_fg01.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_59",
@@ -10273,7 +10651,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 49.8769,
       "lng": 8.6675,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10300,7 +10678,9 @@ const candidateSpotsDatabase = {
       "name_es": "Darmstadt: Mathildenhöhe (Darmstadt Mathildenhöhe)",
       "name_zh": "Darmstadt: Mathildenhöhe (ダルムシュタット：マチルダの丘)",
       "name_fr": "Darmstadt: Mathildenhöhe (Darmstadt Mathildenhöhe)",
-      "name_de": "Darmstadt: Mathildenhöhe (UNESCO)"
+      "name_de": "Darmstadt: Mathildenhöhe (UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "f_60",
@@ -10310,7 +10690,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 49.7936,
       "lng": 8.6683,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10337,7 +10717,9 @@ const candidateSpotsDatabase = {
       "name_es": "Burg Frankenstein (Frankenstein Castle)",
       "name_zh": "Burg Frankenstein (フランケンシュタイン城)",
       "name_fr": "Burg Frankenstein (Frankenstein Castle)",
-      "name_de": "Burg Frankenstein"
+      "name_de": "Burg Frankenstein",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/330px-InnerCastle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "f_61",
@@ -10347,8 +10729,8 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 49.7719,
       "lng": 9.5772,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Wertheim Village Outlet in Suburban district.",
@@ -10374,7 +10756,9 @@ const candidateSpotsDatabase = {
       "name_es": "Wertheim Village (Wertheim Village Outlet)",
       "name_zh": "Wertheim Village (ヴェルトハイム・ビレッジ)",
       "name_fr": "Wertheim Village (Wertheim Village Outlet)",
-      "name_de": "Wertheim Village"
+      "name_de": "Wertheim Village",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg/330px-Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     }
   ],
   "Hamburg, Germany": [
@@ -10413,7 +10797,9 @@ const candidateSpotsDatabase = {
       "name_es": "Miniatur Wunderland",
       "name_zh": "Miniatur Wunderland (ミニチュアワンダーランド)",
       "name_fr": "Miniatur Wunderland",
-      "name_de": "Miniatur Wunderland"
+      "name_de": "Miniatur Wunderland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_2",
@@ -10423,7 +10809,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5413,
       "lng": 9.9842,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10450,7 +10836,9 @@ const candidateSpotsDatabase = {
       "name_es": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
       "name_zh": "Elbphilharmonie Hamburg (エルプフィルハーモニー・ハンブルク)",
       "name_fr": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
-      "name_de": "Elbphilharmonie Hamburg"
+      "name_de": "Elbphilharmonie Hamburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elbphilharmonie%2C_Hamburg.jpg/330px-Elbphilharmonie%2C_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_3",
@@ -10460,7 +10848,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5433,
       "lng": 9.9922,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10487,7 +10875,9 @@ const candidateSpotsDatabase = {
       "name_es": "Speicherstadt (Speicherstadt Warehouse District)",
       "name_zh": "Speicherstadt (世界遺産赤レンガ倉庫街)",
       "name_fr": "Speicherstadt (Speicherstadt Warehouse District)",
-      "name_de": "Speicherstadt"
+      "name_de": "Speicherstadt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Wasserschloss_at_sunset.jpg/330px-The_Wasserschloss_at_sunset.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_4",
@@ -10497,7 +10887,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5483,
       "lng": 10.0019,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10524,7 +10914,9 @@ const candidateSpotsDatabase = {
       "name_es": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
       "name_zh": "Kontorhausviertel & Chilehaus (コントーアハウス地区＆チリハウス)",
       "name_fr": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
-      "name_de": "Kontorhausviertel & Chilehaus"
+      "name_de": "Kontorhausviertel & Chilehaus",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_5",
@@ -10534,7 +10926,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5503,
       "lng": 9.9928,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10561,7 +10953,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
       "name_zh": "Hamburger Rathaus & Rathausmarkt (ハンブルク市庁舎＆市庁舎前広場)",
       "name_fr": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
-      "name_de": "Hamburger Rathaus & Rathausmarkt"
+      "name_de": "Hamburger Rathaus & Rathausmarkt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_6",
@@ -10571,7 +10965,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5483,
       "lng": 9.9789,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10598,7 +10992,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hauptkirche St. Michaelis (St. Michael's Church)",
       "name_zh": "Hauptkirche St. Michaelis (聖ミヒャエリス教会)",
       "name_fr": "Hauptkirche St. Michaelis (St. Michael's Church)",
-      "name_de": "Hauptkirche St. Michaelis (Michel)"
+      "name_de": "Hauptkirche St. Michaelis (Michel)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_7",
@@ -10608,7 +11004,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5458,
       "lng": 9.9669,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10635,7 +11031,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
       "name_zh": "Hamburger Hafen & Landungsbrücken (ハンブルク港＆ザンクト・パウリ桟橋)",
       "name_fr": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
-      "name_de": "Hamburger Hafen & Landungsbrücken"
+      "name_de": "Hamburger Hafen & Landungsbrücken",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_8",
@@ -10645,7 +11043,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5458,
       "lng": 9.9664,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10672,7 +11070,9 @@ const candidateSpotsDatabase = {
       "name_es": "Alter Elbtunnel (Old Elbe Tunnel)",
       "name_zh": "Alter Elbtunnel (旧エルベトンネル)",
       "name_fr": "Alter Elbtunnel (Old Elbe Tunnel)",
-      "name_de": "Alter Elbtunnel"
+      "name_de": "Alter Elbtunnel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg/330px-Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_9",
@@ -10682,7 +11082,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5417,
       "lng": 9.9986,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -10709,7 +11109,9 @@ const candidateSpotsDatabase = {
       "name_es": "HafenCity (HafenCity District)",
       "name_zh": "HafenCity (ハーフェンシティ)",
       "name_fr": "HafenCity (HafenCity District)",
-      "name_de": "HafenCity"
+      "name_de": "HafenCity",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HafenCity_in_HH.svg/langde-330px-HafenCity_in_HH.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_10",
@@ -10719,7 +11121,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5539,
       "lng": 9.9961,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -10746,7 +11148,9 @@ const candidateSpotsDatabase = {
       "name_es": "Binnenalster & Außenalster (Alster Lakes)",
       "name_zh": "Binnenalster & Außenalster (ビンネンアルスター湖＆アウセンアルスター湖)",
       "name_fr": "Binnenalster & Außenalster (Alster Lakes)",
-      "name_de": "Binnenalster & Außenalster"
+      "name_de": "Binnenalster & Außenalster",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_11",
@@ -10756,7 +11160,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.555,
       "lng": 10.0025,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10783,7 +11187,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hamburger Kunsthalle (Hamburg Art Museum)",
       "name_zh": "Hamburger Kunsthalle (ハンブルク美術館)",
       "name_fr": "Hamburger Kunsthalle (Hamburg Art Museum)",
-      "name_de": "Hamburger Kunsthalle"
+      "name_de": "Hamburger Kunsthalle",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/330px-Hamburger_Kunsthalle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_12",
@@ -10793,7 +11199,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5436,
       "lng": 10.0003,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10820,7 +11226,9 @@ const candidateSpotsDatabase = {
       "name_es": "Internationales Maritimes Museum Hamburg (International Maritime Museum)",
       "name_zh": "Internationales Maritimes Museum Hamburg (国際海洋博物館)",
       "name_fr": "Internationales Maritimes Museum Hamburg (International Maritime Museum)",
-      "name_de": "Internationales Maritimes Museum Hamburg"
+      "name_de": "Internationales Maritimes Museum Hamburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hamburg-090613-0286-DSC_8383.jpg/330px-Hamburg-090613-0286-DSC_8383.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_13",
@@ -10830,7 +11238,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5511,
       "lng": 10.0089,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10857,7 +11265,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
       "name_zh": "Museum für Kunst und Gewerbe Hamburg (工芸美術館)",
       "name_fr": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
-      "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)"
+      "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg/330px-Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_14",
@@ -10867,7 +11277,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5469,
       "lng": 10.0069,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10894,7 +11304,9 @@ const candidateSpotsDatabase = {
       "name_es": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
       "name_zh": "Deichtorhallen Hamburg (ダイヒトーアハレン)",
       "name_fr": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
-      "name_de": "Deichtorhallen Hamburg"
+      "name_de": "Deichtorhallen Hamburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_der_Deichtorhallen.png/330px-Logo_der_Deichtorhallen.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_15",
@@ -10904,7 +11316,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5433,
       "lng": 9.9767,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10931,7 +11343,9 @@ const candidateSpotsDatabase = {
       "name_es": "Cap San Diego (Cap San Diego Museum Ship)",
       "name_zh": "Cap San Diego (カプ・サン・ディエゴ号)",
       "name_fr": "Cap San Diego (Cap San Diego Museum Ship)",
-      "name_de": "Cap San Diego"
+      "name_de": "Cap San Diego",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cap_San_Diego_07.jpg/330px-Cap_San_Diego_07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_16",
@@ -10941,7 +11355,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5447,
       "lng": 9.9675,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -10968,7 +11382,9 @@ const candidateSpotsDatabase = {
       "name_es": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
       "name_zh": "Rickmer Rickmers (リックマー・リックマース号)",
       "name_fr": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
-      "name_de": "Rickmer Rickmers"
+      "name_de": "Rickmer Rickmers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg/330px-Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_17",
@@ -10978,7 +11394,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5447,
       "lng": 9.9536,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -11005,7 +11421,9 @@ const candidateSpotsDatabase = {
       "name_es": "Submarine Museum U-434",
       "name_zh": "Submarine Museum U-434 (潜水艦博物館 U-434)",
       "name_fr": "Submarine Museum U-434",
-      "name_de": "Submarine Museum U-434"
+      "name_de": "Submarine Museum U-434",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_18",
@@ -11015,7 +11433,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5475,
       "lng": 9.9906,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -11042,7 +11460,9 @@ const candidateSpotsDatabase = {
       "name_es": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
       "name_zh": "St. Nikolai Memorial (聖ニコライ教会廃墟記念碑)",
       "name_fr": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
-      "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)"
+      "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_19",
@@ -11052,7 +11472,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5606,
       "lng": 9.9819,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -11079,7 +11499,9 @@ const candidateSpotsDatabase = {
       "name_es": "Planten un Blomen (Planten un Blomen Park)",
       "name_zh": "Planten un Blomen (プランテン・ウン・ブローメン公園)",
       "name_fr": "Planten un Blomen (Planten un Blomen Park)",
-      "name_de": "Planten un Blomen"
+      "name_de": "Planten un Blomen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hh-dammtordamm_fig.jpg/330px-Hh-dammtordamm_fig.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_20",
@@ -11116,7 +11538,9 @@ const candidateSpotsDatabase = {
       "name_es": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
       "name_zh": "Tierpark Hagenbeck & Tropen-Aquarium (ハーゲンベック動物園＆熱帯水族館)",
       "name_fr": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
-      "name_de": "Tierpark Hagenbeck & Tropen-Aquarium"
+      "name_de": "Tierpark Hagenbeck & Tropen-Aquarium",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_21",
@@ -11126,8 +11550,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5453,
       "lng": 9.9547,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Altona Fish Market in City district.",
@@ -11153,7 +11577,9 @@ const candidateSpotsDatabase = {
       "name_es": "Fischmarkt (Altona Fish Market)",
       "name_zh": "Fischmarkt (アルトナの魚市場＆フィッシュオークションホール)",
       "name_fr": "Fischmarkt (Altona Fish Market)",
-      "name_de": "Fischmarkt (Altona)"
+      "name_de": "Fischmarkt (Altona)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_22",
@@ -11163,7 +11589,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5497,
       "lng": 9.9625,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -11190,7 +11616,9 @@ const candidateSpotsDatabase = {
       "name_es": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
       "name_zh": "Reeperbahn & St. Pauli (レーパーバーン＆ザンクト・パウリ地区)",
       "name_fr": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
-      "name_de": "Reeperbahn & St. Pauli"
+      "name_de": "Reeperbahn & St. Pauli",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_23",
@@ -11200,7 +11628,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5503,
       "lng": 9.9575,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -11227,7 +11655,9 @@ const candidateSpotsDatabase = {
       "name_es": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
       "name_zh": "Beatles-Platz & Indra Club / Kaiserkeller (ビートルズ広場＆ゆかりのライブハウス群)",
       "name_fr": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
-      "name_de": "Beatles-Platz & Indra Club / Kaiserkeller"
+      "name_de": "Beatles-Platz & Indra Club / Kaiserkeller",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_24",
@@ -11237,7 +11667,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5528,
       "lng": 9.9928,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -11264,7 +11694,9 @@ const candidateSpotsDatabase = {
       "name_es": "Jungfernstieg (Jungfernstieg Boulevard)",
       "name_zh": "Jungfernstieg (ユングフェルンシュティーク)",
       "name_fr": "Jungfernstieg (Jungfernstieg Boulevard)",
-      "name_de": "Jungfernstieg"
+      "name_de": "Jungfernstieg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jungfernstieg.wmt.jpg/330px-Jungfernstieg.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_25",
@@ -11274,7 +11706,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5511,
       "lng": 9.9922,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -11301,7 +11733,9 @@ const candidateSpotsDatabase = {
       "name_es": "Alsterarkaden (Alster Arcades)",
       "name_zh": "Alsterarkaden (アルスター・アルケード)",
       "name_fr": "Alsterarkaden (Alster Arcades)",
-      "name_de": "Alsterarkaden"
+      "name_de": "Alsterarkaden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg/330px-The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_26",
@@ -11311,8 +11745,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5508,
       "lng": 10.0008,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Mönckebergstraße Shopping Street in City district.",
@@ -11338,7 +11772,9 @@ const candidateSpotsDatabase = {
       "name_es": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
       "name_zh": "Mönckebergstraße & Spitalerstraße (メンケベルク通り＆シュピタラー通り)",
       "name_fr": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
-      "name_de": "Mönckebergstraße & Spitalerstraße"
+      "name_de": "Mönckebergstraße & Spitalerstraße",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_27",
@@ -11348,8 +11784,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5514,
       "lng": 9.9889,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Neuer Wall Luxury Shopping in City district.",
@@ -11375,7 +11811,9 @@ const candidateSpotsDatabase = {
       "name_es": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
       "name_zh": "Neuer Wall & Große Bleichen (ノイアー・ヴァル＆グローセ・ブライヒェン)",
       "name_fr": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
-      "name_de": "Neuer Wall & Große Bleichen"
+      "name_de": "Neuer Wall & Große Bleichen",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_28",
@@ -11385,8 +11823,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5517,
       "lng": 9.9964,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Europa Passage & Hanse-Viertel in City district.",
@@ -11412,7 +11850,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
       "name_zh": "Hanse-Viertel & Europa Passage (ハンゼ・フィアテル＆オイローパ・パサージュ)",
       "name_fr": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
-      "name_de": "Hanse-Viertel & Europa Passage"
+      "name_de": "Hanse-Viertel & Europa Passage",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_29",
@@ -11422,7 +11862,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5619,
       "lng": 9.9658,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -11449,7 +11889,9 @@ const candidateSpotsDatabase = {
       "name_es": "Sternschanze (Sternschanze Quarter)",
       "name_zh": "Sternschanze (シャンツェン地区)",
       "name_fr": "Sternschanze (Sternschanze Quarter)",
-      "name_de": "Sternschanze (Schanzenviertel)"
+      "name_de": "Sternschanze (Schanzenviertel)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/330px-Hh-schanze-susannen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_30",
@@ -11459,8 +11901,8 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5583,
       "lng": 9.9722,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Karolinenviertel District in City district.",
@@ -11486,7 +11928,9 @@ const candidateSpotsDatabase = {
       "name_es": "Karolinenviertel (Karolinenviertel District)",
       "name_zh": "Karolinenviertel (カロリーネン地区)",
       "name_fr": "Karolinenviertel (Karolinenviertel District)",
-      "name_de": "Karolinenviertel (Karoviertel)"
+      "name_de": "Karolinenviertel (Karoviertel)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_31",
@@ -11523,7 +11967,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museum der Natur - Hamburg (Museum of Nature - Zoology)",
       "name_zh": "Museum der Natur - Hamburg (自然博物館)",
       "name_fr": "Museum der Natur - Hamburg (Museum of Nature - Zoology)",
-      "name_de": "Museum der Natur - Hamburg"
+      "name_de": "Museum der Natur - Hamburg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_32",
@@ -11533,7 +11979,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5436,
       "lng": 9.9897,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -11560,7 +12006,9 @@ const candidateSpotsDatabase = {
       "name_es": "Hamburg Dungeon",
       "name_zh": "Hamburg Dungeon (ハンブルク・ダンジョン)",
       "name_fr": "Hamburg Dungeon",
-      "name_de": "Hamburg Dungeon"
+      "name_de": "Hamburg Dungeon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/330px-HamburgDungeon.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_33",
@@ -11570,7 +12018,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5444,
       "lng": 9.9961,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -11597,7 +12045,9 @@ const candidateSpotsDatabase = {
       "name_es": "Dialog im Dunkeln (Dialog in the Dark)",
       "name_zh": "Dialog im Dunkeln (ダイアログ・イン・ザ・ダーク)",
       "name_fr": "Dialog im Dunkeln (Dialog in the Dark)",
-      "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)"
+      "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_34",
@@ -11634,7 +12084,9 @@ const candidateSpotsDatabase = {
       "name_es": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
       "name_zh": "Chocoversum by Hachez (チョコヴェルサム)",
       "name_fr": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
-      "name_de": "Chocoversum by Hachez"
+      "name_de": "Chocoversum by Hachez",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_35",
@@ -11644,7 +12096,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5433,
       "lng": 9.9944,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -11671,7 +12123,9 @@ const candidateSpotsDatabase = {
       "name_es": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
       "name_zh": "Spicy's Gewürzmuseum (スパイシーズ香辛料博物館)",
       "name_fr": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
-      "name_de": "Spicy's Gewürzmuseum"
+      "name_de": "Spicy's Gewürzmuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gew%C3%BCrzmuseum_Hamburg_01.jpg/330px-Gew%C3%BCrzmuseum_Hamburg_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_36",
@@ -11681,7 +12135,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5447,
       "lng": 9.9975,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -11708,7 +12162,9 @@ const candidateSpotsDatabase = {
       "name_es": "Zollmuseum (German Customs Museum)",
       "name_zh": "Zollmuseum (ドイツ連邦税関博物館)",
       "name_fr": "Zollmuseum (German Customs Museum)",
-      "name_de": "Zollmuseum (Deutsches Zollmuseum)"
+      "name_de": "Zollmuseum (Deutsches Zollmuseum)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_37",
@@ -11718,7 +12174,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5492,
       "lng": 9.9792,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -11745,7 +12201,9 @@ const candidateSpotsDatabase = {
       "name_es": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
       "name_zh": "Krameramtsstuben (クラーマーアムツストゥーベン)",
       "name_fr": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
-      "name_de": "Krameramtsstuben"
+      "name_de": "Krameramtsstuben",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/330px-Krameramtsstuben.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_38",
@@ -11755,7 +12213,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5458,
       "lng": 9.9675,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -11782,7 +12240,9 @@ const candidateSpotsDatabase = {
       "name_es": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
       "name_zh": "Fischbrötchen-Buden an den Landungsbrücken (桟橋のフィッシュブレートヒェン屋台群)",
       "name_fr": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
-      "name_de": "Fischbrötchen-Buden an den Landungsbrücken"
+      "name_de": "Fischbrötchen-Buden an den Landungsbrücken",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_39",
@@ -11792,7 +12252,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5481,
       "lng": 9.9794,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -11819,7 +12279,9 @@ const candidateSpotsDatabase = {
       "name_es": "Old Commercial Room (Old Commercial Room Restaurant)",
       "name_zh": "Old Commercial Room (オールド・コマーシャル・ルーム)",
       "name_fr": "Old Commercial Room (Old Commercial Room Restaurant)",
-      "name_de": "Old Commercial Room"
+      "name_de": "Old Commercial Room",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_Commercial_Room_Hamburg.jpg/330px-Old_Commercial_Room_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_40",
@@ -11829,7 +12291,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5511,
       "lng": 9.9936,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -11856,7 +12318,9 @@ const candidateSpotsDatabase = {
       "name_es": "Café Paris (Café Paris Hamburg)",
       "name_zh": "Café Paris (カフェ・パリ)",
       "name_fr": "Café Paris (Café Paris Hamburg)",
-      "name_de": "Café Paris (Hamburg)"
+      "name_de": "Café Paris (Hamburg)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_41",
@@ -11866,7 +12330,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5442,
       "lng": 9.9389,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -11893,7 +12357,9 @@ const candidateSpotsDatabase = {
       "name_es": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
       "name_zh": "Rive Fisch & Fischereihafen Restaurant (フィッシェライハーフェン・レストラン)",
       "name_fr": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
-      "name_de": "Rive Fisch & Fischereihafen Restaurant"
+      "name_de": "Rive Fisch & Fischereihafen Restaurant",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_42",
@@ -11903,7 +12369,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5469,
       "lng": 9.9939,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -11930,7 +12396,9 @@ const candidateSpotsDatabase = {
       "name_es": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
       "name_zh": "Gröninger Privatbrauerei (グレーニンガー自家醸造所)",
       "name_fr": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
-      "name_de": "Gröninger Privatbrauerei"
+      "name_de": "Gröninger Privatbrauerei",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_43",
@@ -11940,7 +12408,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5439,
       "lng": 9.9083,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -11967,7 +12435,9 @@ const candidateSpotsDatabase = {
       "name_es": "Elbstrand (Elbstrand Beach Övelgönne)",
       "name_zh": "Elbstrand (エルプシュトラント)",
       "name_fr": "Elbstrand (Elbstrand Beach Övelgönne)",
-      "name_de": "Elbstrand (Övelgönne)"
+      "name_de": "Elbstrand (Övelgönne)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_44",
@@ -12004,7 +12474,9 @@ const candidateSpotsDatabase = {
       "name_es": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
       "name_zh": "Museumshafen Övelgönne (オイヴェルゲンネ博物館港)",
       "name_fr": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
-      "name_de": "Museumshafen Övelgönne"
+      "name_de": "Museumshafen Övelgönne",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbe.Anleger_Neum%C3%BChlen.wmt.jpg/330px-Elbe.Anleger_Neum%C3%BChlen.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_45",
@@ -12041,7 +12513,9 @@ const candidateSpotsDatabase = {
       "name_es": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
       "name_zh": "Stadtpark Hamburg & Planetarium Hamburg (ハンブルク市立公園＆プラネタリウム)",
       "name_fr": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
-      "name_de": "Stadtpark Hamburg & Planetarium Hamburg"
+      "name_de": "Stadtpark Hamburg & Planetarium Hamburg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_46",
@@ -12051,7 +12525,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5519,
       "lng": 9.8633,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -12078,7 +12552,9 @@ const candidateSpotsDatabase = {
       "name_es": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
       "name_zh": "Jenischpark & Jenisch Haus (イェーニッシュ公園＆イェーニッシュ・ハウス)",
       "name_fr": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
-      "name_de": "Jenischpark & Jenisch Haus"
+      "name_de": "Jenischpark & Jenisch Haus",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_47",
@@ -12088,7 +12564,7 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "lat": 53.5097,
       "lng": 9.9897,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -12115,7 +12591,9 @@ const candidateSpotsDatabase = {
       "name_es": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
       "name_zh": "Energiebunker Wilhelmsburg (エネルギーブンカー・ヴィルヘルムスブルク)",
       "name_fr": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
-      "name_de": "Energiebunker Wilhelmsburg"
+      "name_de": "Energiebunker Wilhelmsburg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_48",
@@ -12152,7 +12630,9 @@ const candidateSpotsDatabase = {
       "name_es": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
       "name_zh": "HADAG-Hafenfähren (HADAG港湾定期フェリー62番線)",
       "name_fr": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
-      "name_de": "HADAG-Hafenfähren (Linie 62)"
+      "name_de": "HADAG-Hafenfähren (Linie 62)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_49",
@@ -12189,7 +12669,9 @@ const candidateSpotsDatabase = {
       "name_es": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
       "name_zh": "Bäderland Holthusenbad (ホルトフーゼンバート)",
       "name_fr": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
-      "name_de": "Bäderland Holthusenbad"
+      "name_de": "Bäderland Holthusenbad",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_50",
@@ -12199,7 +12681,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.8664,
       "lng": 10.6797,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -12226,7 +12708,9 @@ const candidateSpotsDatabase = {
       "name_es": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
       "name_zh": "Lübeck: Altstadt & Holstentor (リューベック：世界遺産旧市街＆ホルステン門)",
       "name_fr": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
-      "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)"
+      "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_51",
@@ -12236,7 +12720,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.2489,
       "lng": 10.4078,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -12263,7 +12747,9 @@ const candidateSpotsDatabase = {
       "name_es": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
       "name_zh": "Lüneburg: Historische Altstadt (リューネブルク：歴史的旧市街＆ドイツ塩博物館)",
       "name_fr": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
-      "name_de": "Lüneburg: Historische Altstadt"
+      "name_de": "Lüneburg: Historische Altstadt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_52",
@@ -12273,7 +12759,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.6242,
       "lng": 11.4189,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -12300,7 +12786,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schloss Schwerin (Schwerin Castle)",
       "name_zh": "Schloss Schwerin (シュヴェリーン城)",
       "name_fr": "Schloss Schwerin (Schwerin Castle)",
-      "name_de": "Schloss Schwerin"
+      "name_de": "Schloss Schwerin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/330px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_53",
@@ -12310,7 +12798,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.6022,
       "lng": 9.4764,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -12337,7 +12825,9 @@ const candidateSpotsDatabase = {
       "name_es": "Stade & Altes Land (Stade & Altes Land Orchards)",
       "name_zh": "Stade & Altes Land (シュターデ＆アルテス・ラント)",
       "name_fr": "Stade & Altes Land (Stade & Altes Land Orchards)",
-      "name_de": "Stade & Altes Land"
+      "name_de": "Stade & Altes Land",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_54",
@@ -12347,7 +12837,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.8731,
       "lng": 8.6942,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
@@ -12374,7 +12864,9 @@ const candidateSpotsDatabase = {
       "name_es": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
       "name_zh": "Cuxhaven & Wattenmeer (クックスハーフェン＆世界遺産ワッデン海)",
       "name_fr": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
-      "name_de": "Cuxhaven & Wattenmeer (UNESCO)"
+      "name_de": "Cuxhaven & Wattenmeer (UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_55",
@@ -12384,7 +12876,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 54.1806,
       "lng": 7.8889,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": false,
@@ -12411,7 +12903,9 @@ const candidateSpotsDatabase = {
       "name_es": "Helgoland (Heligoland Island)",
       "name_zh": "Helgoland (ヘルゴラント島)",
       "name_fr": "Helgoland (Heligoland Island)",
-      "name_de": "Helgoland"
+      "name_de": "Helgoland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DEU_Helgoland_COA.svg/langde-330px-DEU_Helgoland_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_56",
@@ -12421,7 +12915,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.5439,
       "lng": 8.5708,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -12448,7 +12942,9 @@ const candidateSpotsDatabase = {
       "name_es": "Bremerhaven: Auswandererhaus & Klimahaus (Bremerhaven Emigration & Climate House)",
       "name_zh": "Bremerhaven: Auswandererhaus & Klimahaus (ブレーマーハーフェン：移民ハウス＆気候館)",
       "name_fr": "Bremerhaven: Auswandererhaus & Klimahaus (Bremerhaven Emigration & Climate House)",
-      "name_de": "Bremerhaven: Auswandererhaus & Klimahaus"
+      "name_de": "Bremerhaven: Auswandererhaus & Klimahaus",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_57",
@@ -12458,7 +12954,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.4297,
       "lng": 10.2319,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": true,
@@ -12485,7 +12981,9 @@ const candidateSpotsDatabase = {
       "name_es": "KZ-Gedenkstätte Neuengamme (Neuengamme Concentration Camp Memorial)",
       "name_zh": "KZ-Gedenkstätte Neuengamme (ノイエンガンメ強制収容所記念館)",
       "name_fr": "KZ-Gedenkstätte Neuengamme (Neuengamme Concentration Camp Memorial)",
-      "name_de": "KZ-Gedenkstätte Neuengamme"
+      "name_de": "KZ-Gedenkstätte Neuengamme",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gestaltung_des_Haeftlingslagers.jpg/330px-Gestaltung_des_Haeftlingslagers.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_58",
@@ -12495,7 +12993,7 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 53.6797,
       "lng": 10.2403,
-      "kids": true,
+      "kids": false,
       "rain": true,
       "shopping": false,
       "free": false,
@@ -12522,7 +13020,9 @@ const candidateSpotsDatabase = {
       "name_es": "Schloss Ahrensburg (Ahrensburg Palace)",
       "name_zh": "Schloss Ahrensburg (アーレンスブルク城)",
       "name_fr": "Schloss Ahrensburg (Ahrensburg Palace)",
-      "name_de": "Schloss Ahrensburg"
+      "name_de": "Schloss Ahrensburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg-msu-1507-.jpg/330px-Schloss_Ahrensburg-msu-1507-.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_59",
@@ -12559,7 +13059,9 @@ const candidateSpotsDatabase = {
       "name_es": "Wildpark Schwarze Berge (Black Mountains Wildlife Park)",
       "name_zh": "Wildpark Schwarze Berge (シュヴァルツェ・ベルゲ野生動物公園)",
       "name_fr": "Wildpark Schwarze Berge (Black Mountains Wildlife Park)",
-      "name_de": "Wildpark Schwarze Berge"
+      "name_de": "Wildpark Schwarze Berge",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eingang_Wildpark_Schwarze_Berge.jpg/330px-Eingang_Wildpark_Schwarze_Berge.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_60",
@@ -12596,7 +13098,9 @@ const candidateSpotsDatabase = {
       "name_es": "Heide Park Resort",
       "name_zh": "Heide Park Resort (ハイデ・パーク・リゾート)",
       "name_fr": "Heide Park Resort",
-      "name_de": "Heide Park Resort"
+      "name_de": "Heide Park Resort",
+      "image": "https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/Heide-Park%28fern%29.tif/lossy-page1-330px-Heide-Park%28fern%29.tif.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_61",
@@ -12606,8 +13110,8 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "lat": 54.0539,
       "lng": 9.9472,
-      "kids": true,
-      "rain": false,
+      "kids": false,
+      "rain": true,
       "shopping": true,
       "free": true,
       "desc_en": "Neumünster Designer Outlet in Suburban district.",
@@ -12633,7 +13137,9 @@ const candidateSpotsDatabase = {
       "name_es": "Designer Outlet Neumünster / Soltau (Neumünster Designer Outlet)",
       "name_zh": "Designer Outlet Neumünster / Soltau (デザイナー・アウトレット・ノイミュンスター)",
       "name_fr": "Designer Outlet Neumünster / Soltau (Neumünster Designer Outlet)",
-      "name_de": "Designer Outlet Neumünster / Soltau"
+      "name_de": "Designer Outlet Neumünster / Soltau",
+      "image": "",
+      "hasWiki": false
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -12688,11 +13194,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tour-du-maregraphe-de-la-Ra.jpg/330px-Tour-du-maregraphe-de-la-Ra.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 48.63503,
@@ -12958,7 +13464,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 49.6116,
       "lng": 6.1169,
       "desc_en": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
@@ -13046,7 +13552,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 49.6416,
       "lng": 6.1169,
       "desc_en": "Sophisticated dining room serving modern European sharing plates & cocktails.",
@@ -13172,7 +13678,7 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
       "price": "Free Entry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adolphe_Bridge_post_2017_renovation_works_-_7_August_2018.jpg/330px-Adolphe_Bridge_post_2017_renovation_works_-_7_August_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Luxembourg%2C_pont_Adolphe_et_Caisse_Epargne_%281%29.jpg/330px-Luxembourg%2C_pont_Adolphe_et_Caisse_Epargne_%281%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
@@ -13398,7 +13904,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 49.61639,
       "lng": 6.13889,
       "desc_en": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
@@ -14027,7 +14533,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 45.7328,
       "lng": 4.8183,
       "desc_en": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
@@ -14831,11 +15337,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
       "price": "Menu: €185–€320",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/RestaurantPaulBocuse02.jpg/330px-RestaurantPaulBocuse02.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "suburban",
       "kids": false,
       "lat": 45.8156,
@@ -14909,7 +15415,7 @@ const candidateSpotsDatabase = {
       "price_zh": "自由的",
       "price_fr": "Gratuit",
       "price_de": "Frei",
-      "rain": true,
+      "rain": false,
       "shopping": true,
       "free": true,
       "tip": "Explore the Renaissance courtyards hidden behind heavy doors along Rue Saint-Jean and Place du Gouvernement."
@@ -15011,11 +15517,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CiteCreation_-_Fresque_des_Lyonnais_-_Lyon.jpg/330px-CiteCreation_-_Fresque_des_Lyonnais_-_Lyon.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 45.7675,
@@ -15101,11 +15607,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lyon_-_Passerelle_Paul-Couturier.jpg/330px-Lyon_-_Passerelle_Paul-Couturier.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 45.7572,
@@ -15134,7 +15640,7 @@ const candidateSpotsDatabase = {
       "price_zh": "自由的",
       "price_fr": "Gratuit",
       "price_de": "Frei",
-      "rain": true,
+      "rain": false,
       "shopping": false,
       "free": true,
       "tip": "Walk across this striking red suspension footbridge over the Saône river for great photo angles of Saint-Georges church tower."
@@ -15461,11 +15967,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
       "price": "Entry: €16.50",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lyon-aquarium-globalview.jpg/330px-Lyon-aquarium-globalview.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": true,
       "lat": 45.7275,
@@ -15733,11 +16239,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marseille_-_Fort_Saint-Jean_16.jpg/330px-Marseille_-_Fort_Saint-Jean_16.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 43.2969,
@@ -16144,7 +16650,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2981,
       "lng": 5.3614,
       "desc_en": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
@@ -16369,7 +16875,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 43.3044,
       "lng": 5.3944,
       "desc_en": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
@@ -16408,11 +16914,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/LOGO_FRICHE_maj_2018.jpg/330px-LOGO_FRICHE_maj_2018.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 43.3103,
@@ -17000,11 +17506,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marseille_-_Cours_Julien_%2816272528157%29.jpg/330px-Marseille_-_Cours_Julien_%2816272528157%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 43.2936,
@@ -17368,7 +17874,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 43.2953,
       "lng": 5.3744,
       "desc_en": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
@@ -17452,11 +17958,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
       "price": "Ticket: €22",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Magic-park-land.png/330px-Magic-park-land.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "suburban",
       "kids": true,
       "lat": 43.3444,
@@ -17551,7 +18057,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg/330px-Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.13743,
       "lng": 11.57549,
       "name_en": "Marienplatz & New Town Hall",
@@ -17687,7 +18193,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/330px-Schloss_Nymphenburg_Munich_CC_edit3.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.15806,
       "lng": 11.50361,
       "name_en": "Nymphenburg Palace & Gardens",
@@ -18000,7 +18506,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BMW-Welt-01.jpg/330px-BMW-Welt-01.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.17694,
       "lng": 11.55917,
       "name_en": "BMW Museum & BMW Welt",
@@ -18044,7 +18550,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.15306,
       "lng": 11.5925,
       "name_en": "Englischer Garten & Eisbachwelle",
@@ -18088,7 +18594,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Viktualienmarkt_Muenchen.jpg/330px-Viktualienmarkt_Muenchen.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.13528,
       "lng": 11.57611,
       "name_en": "Viktualienmarkt",
@@ -18176,7 +18682,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Augustiner-Keller_Munich.jpg/330px-Augustiner-Keller_Munich.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.1425,
       "lng": 11.55167,
       "name_en": "Augustiner-Keller & Stammhaus",
@@ -18221,7 +18727,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Olympiapark_Munich_aerial_view.jpg/330px-Olympiapark_Munich_aerial_view.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.17417,
       "lng": 11.55194,
       "name_en": "Olympiapark München & Olympiaturm",
@@ -18265,7 +18771,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Allianz_Arena_Munich_sunset.jpg/330px-Allianz_Arena_Munich_sunset.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.21889,
       "lng": 11.62472,
       "name_en": "Allianz Arena & FC Bayern Museum",
@@ -18347,11 +18853,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.3",
       "desc": "Indoor aquarium in Olympiapark featuring tropical sharks, rays & ocean tunnel.",
       "price": "Entry: €20",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/M%C3%BCnchen_-_Sea_Life.JPG/330px-M%C3%BCnchen_-_Sea_Life.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": true,
       "lat": 48.1738,
@@ -18573,7 +19079,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaufingerstrasse_Munich.jpg/330px-Kaufingerstrasse_Munich.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.13778,
       "lng": 11.57194,
       "name_en": "Kaufingerstraße & Neuhauser Straße",
@@ -18705,7 +19211,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Botanischer_Garten_M%C3%BCnchen_Gew%C3%A4chsh%C3%A4user.jpg/330px-Botanischer_Garten_M%C3%BCnchen_Gew%C3%A4chsh%C3%A4user.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.16278,
       "lng": 11.50194,
       "name_en": "Botanischer Garten München-Nymphenburg",
@@ -18837,7 +19343,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aegyptisches_Museum_Muenchen.jpg/330px-Aegyptisches_Museum_Muenchen.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.14667,
       "lng": 11.56806,
       "name_en": "Staatliches Museum Ägyptischer Kunst",
@@ -18875,11 +19381,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain.",
       "price": "Entry: €3.50 (€1 on Sundays!)",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/M%C3%BCnchen_-_Museum_Mensch_und_Natur_%28Eingang%29.JPG/330px-M%C3%BCnchen_-_Museum_Mensch_und_Natur_%28Eingang%29.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": true,
       "lat": 48.1583,
@@ -18969,7 +19475,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Altes_Rathaus_Munich_01.jpg/330px-Altes_Rathaus_Munich_01.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.13667,
       "lng": 11.57694,
       "name_en": "Spielzeugmuseum im Alten Rathaus",
@@ -19013,7 +19519,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bavaria_Statue_Munich_01.jpg/330px-Bavaria_Statue_Munich_01.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.13111,
       "lng": 11.54972,
       "name_en": "Theresienwiese & Bavaria Statue",
@@ -19102,7 +19608,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flaucher_Munich_Isar.jpg/330px-Flaucher_Munich_Isar.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.11111,
       "lng": 11.55556,
       "name_en": "Flaucher & Isarauen River Park",
@@ -19147,7 +19653,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dallmayr_Munich_01.jpg/330px-Dallmayr_Munich_01.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.13833,
       "lng": 11.57722,
       "name_en": "Dallmayr Delikatessenhaus",
@@ -19237,7 +19743,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.1347,
       "lng": 11.5756,
       "name_en": "Café Frischhut (Der Schmalznudel)",
@@ -19327,7 +19833,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.1325,
       "lng": 11.5422,
       "name_en": "Bavariapark & Verkehrszentrum",
@@ -19371,7 +19877,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Westpark_Munich_Thai_Sala.jpg/330px-Westpark_Munich_Thai_Sala.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.1225,
       "lng": 11.52194,
       "name_en": "Westpark & East Asian Pagodas",
@@ -19415,7 +19921,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirschgarten_Munich_01.jpg/330px-Hirschgarten_Munich_01.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.14778,
       "lng": 11.51389,
       "name_en": "Königlicher Hirschgarten",
@@ -19459,7 +19965,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Muellersches_Volksbad_Munich_01.jpg/330px-Muellersches_Volksbad_Munich_01.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.1325,
       "lng": 11.58861,
       "name_en": "Müller'sches Volksbad",
@@ -19504,7 +20010,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Umadum_Riesenrad_Munich.jpg/330px-Umadum_Riesenrad_Munich.jpg",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.12417,
       "lng": 11.60528,
       "name_en": "Werksviertel-Mitte & Umadum Ferris Wheel",
@@ -19683,7 +20189,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Schloss_Schleissheim_Munich.jpg/330px-Neues_Schloss_Schleissheim_Munich.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.24889,
       "lng": 11.56056,
       "name_en": "Schloss Schleißheim & Lustheim",
@@ -19727,7 +20233,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flugwerft_Schleissheim_Halle.jpg/330px-Flugwerft_Schleissheim_Halle.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.245,
       "lng": 11.55667,
       "name_en": "Flugwerft Schleißheim (Deutsches Museum Aviation)",
@@ -19771,7 +20277,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Starnberger_See_Munich_01.jpg/330px-Starnberger_See_Munich_01.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 47.90028,
       "lng": 11.31028,
       "name_en": "Starnberger See & Roseninsel",
@@ -19816,7 +20322,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kloster_Andechs_Munich.jpg/330px-Kloster_Andechs_Munich.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 47.97444,
       "lng": 11.18306,
       "name_en": "Ammersee & Kloster Andechs",
@@ -19950,7 +20456,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Partnachklamm_Garmisch.jpg/330px-Partnachklamm_Garmisch.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 47.46889,
       "lng": 11.11861,
       "name_en": "Partnachklamm Gorge (Garmisch)",
@@ -19994,7 +20500,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zugspitze_Eibsee_Munich.jpg/330px-Zugspitze_Eibsee_Munich.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 47.42111,
       "lng": 10.98528,
       "name_en": "Zugspitze & Eibsee",
@@ -20039,7 +20545,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tegernsee_Munich_01.jpg/330px-Tegernsee_Munich_01.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 47.71111,
       "lng": 11.75556,
       "name_en": "Tegernsee & Schliersee Lakes",
@@ -20084,7 +20590,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Therme_Erding_Munich.jpg/330px-Therme_Erding_Munich.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.29111,
       "lng": 11.88667,
       "name_en": "Therme Erding",
@@ -20174,7 +20680,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bavaria_Filmstadt_Munich.jpg/330px-Bavaria_Filmstadt_Munich.jpg",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.06611,
       "lng": 11.55167,
       "name_en": "Bavaria Filmstadt",
@@ -20264,7 +20770,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6958,
       "lng": 7.2801,
       "desc_en": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
@@ -20611,10 +21117,10 @@ const candidateSpotsDatabase = {
       "rating": "★4.7",
       "desc": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Promenade_du_Paillon_Nice_IMG_1241.jpg/330px-Promenade_du_Paillon_Nice_IMG_1241.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": true,
       "lat": 43.6994,
@@ -20875,10 +21381,10 @@ const candidateSpotsDatabase = {
       "rating": "★4.6",
       "desc": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
       "price": "Free Entry",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/langfr-330px-France_location_map-Regions_and_departements-2016.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 43.6942,
@@ -21012,7 +21518,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6971,
       "lng": 7.2759,
       "desc_en": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
@@ -21496,7 +22002,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7306,
       "lng": 7.4256,
       "desc_en": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
@@ -21807,7 +22313,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.85822,
       "lng": 2.2945,
       "desc_en": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
@@ -22123,7 +22629,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/330px-LuxembourgMontparnasse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.84694,
       "lng": 2.33722,
       "desc_en": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
@@ -22749,11 +23255,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.5",
       "desc": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
       "price": "Mains: €34–€52",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Train_bleu_01.jpg/330px-Train_bleu_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "family": true,
       "adult": true,
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Le_Train_Bleu.jpg/330px-Le_Train_Bleu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": false,
+      "hasWiki": true,
       "locationZone": "city",
       "kids": false,
       "lat": 48.8416,
@@ -22800,7 +23306,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.8566,
       "lng": 2.3822,
       "desc_en": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
@@ -23161,7 +23667,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.8266,
       "lng": 2.4122,
       "desc_en": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
@@ -23206,7 +23712,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.8416,
       "lng": 2.4122,
       "desc_en": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
@@ -23251,7 +23757,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.8566,
       "lng": 2.4122,
       "desc_en": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
@@ -23427,7 +23933,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.8416,
       "lng": 2.4272,
       "desc_en": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
@@ -23868,7 +24374,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.8416,
       "lng": 2.4572,
       "desc_en": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
@@ -24089,7 +24595,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.87183,
       "lng": 2.3421,
       "desc_en": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
@@ -24133,7 +24639,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.8639,
       "lng": 2.3261,
       "desc_en": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
@@ -24177,7 +24683,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.9471,
       "lng": 2.4349,
       "desc_en": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
@@ -25078,7 +25584,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.5858,
       "lng": 7.7558,
       "desc_en": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
@@ -25438,7 +25944,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.5817,
       "lng": 7.7486,
       "desc_en": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
@@ -25798,7 +26304,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.5847,
       "lng": 7.7569,
       "desc_en": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
@@ -26158,7 +26664,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.57,
       "lng": 7.7981,
       "desc_en": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
@@ -27241,7 +27747,7 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": false,
-      "kids": false,
+      "kids": true,
       "tip": "Famous for 'Le Pavé du Capitole' pralines and delicate violet-flavored macarons handmade since 1816."
     },
     {

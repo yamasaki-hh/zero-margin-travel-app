@@ -37,8 +37,8 @@
       "name_zh": "Miniatur Wunderland (ミニチュアワンダーランド)",
       "name_fr": "Miniatur Wunderland",
       "name_de": "Miniatur Wunderland",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_2",
@@ -76,8 +76,8 @@
       "name_zh": "Elbphilharmonie Hamburg (エルプフィルハーモニー・ハンブルク)",
       "name_fr": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
       "name_de": "Elbphilharmonie Hamburg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elbphilharmonie%2C_Hamburg.jpg/330px-Elbphilharmonie%2C_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_3",
@@ -115,8 +115,8 @@
       "name_zh": "Speicherstadt (世界遺産赤レンガ倉庫街)",
       "name_fr": "Speicherstadt (Speicherstadt Warehouse District)",
       "name_de": "Speicherstadt",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Wasserschloss_at_sunset.jpg/330px-The_Wasserschloss_at_sunset.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_4",
@@ -349,8 +349,8 @@
       "name_zh": "HafenCity (ハーフェンシティ)",
       "name_fr": "HafenCity (HafenCity District)",
       "name_de": "HafenCity",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HafenCity_in_HH.svg/langde-330px-HafenCity_in_HH.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_10",
@@ -427,8 +427,8 @@
       "name_zh": "Hamburger Kunsthalle (ハンブルク美術館)",
       "name_fr": "Hamburger Kunsthalle (Hamburg Art Museum)",
       "name_de": "Hamburger Kunsthalle",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/330px-Hamburger_Kunsthalle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_12",
@@ -466,8 +466,8 @@
       "name_zh": "Internationales Maritimes Museum Hamburg (国際海洋博物館)",
       "name_fr": "Internationales Maritimes Museum Hamburg (International Maritime Museum)",
       "name_de": "Internationales Maritimes Museum Hamburg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hamburg-090613-0286-DSC_8383.jpg/330px-Hamburg-090613-0286-DSC_8383.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_13",
@@ -544,8 +544,8 @@
       "name_zh": "Deichtorhallen Hamburg (ダイヒトーアハレン)",
       "name_fr": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
       "name_de": "Deichtorhallen Hamburg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_der_Deichtorhallen.png/330px-Logo_der_Deichtorhallen.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_15",
@@ -583,8 +583,8 @@
       "name_zh": "Cap San Diego (カプ・サン・ディエゴ号)",
       "name_fr": "Cap San Diego (Cap San Diego Museum Ship)",
       "name_de": "Cap San Diego",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cap_San_Diego_07.jpg/330px-Cap_San_Diego_07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_16",
@@ -622,8 +622,8 @@
       "name_zh": "Rickmer Rickmers (リックマー・リックマース号)",
       "name_fr": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
       "name_de": "Rickmer Rickmers",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg/330px-Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_17",
@@ -739,8 +739,8 @@
       "name_zh": "Planten un Blomen (プランテン・ウン・ブローメン公園)",
       "name_fr": "Planten un Blomen (Planten un Blomen Park)",
       "name_de": "Planten un Blomen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hh-dammtordamm_fig.jpg/330px-Hh-dammtordamm_fig.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_20",
@@ -934,8 +934,8 @@
       "name_zh": "Jungfernstieg (ユングフェルンシュティーク)",
       "name_fr": "Jungfernstieg (Jungfernstieg Boulevard)",
       "name_de": "Jungfernstieg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jungfernstieg.wmt.jpg/330px-Jungfernstieg.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_25",
@@ -973,8 +973,8 @@
       "name_zh": "Alsterarkaden (アルスター・アルケード)",
       "name_fr": "Alsterarkaden (Alster Arcades)",
       "name_de": "Alsterarkaden",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg/330px-The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_26",
@@ -1129,8 +1129,8 @@
       "name_zh": "Sternschanze (シャンツェン地区)",
       "name_fr": "Sternschanze (Sternschanze Quarter)",
       "name_de": "Sternschanze (Schanzenviertel)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/330px-Hh-schanze-susannen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_30",
@@ -1246,8 +1246,8 @@
       "name_zh": "Hamburg Dungeon (ハンブルク・ダンジョン)",
       "name_fr": "Hamburg Dungeon",
       "name_de": "Hamburg Dungeon",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/330px-HamburgDungeon.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_33",
@@ -1285,8 +1285,8 @@
       "name_zh": "Dialog im Dunkeln (ダイアログ・イン・ザ・ダーク)",
       "name_fr": "Dialog im Dunkeln (Dialog in the Dark)",
       "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_34",
@@ -1363,8 +1363,8 @@
       "name_zh": "Spicy's Gewürzmuseum (スパイシーズ香辛料博物館)",
       "name_fr": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
       "name_de": "Spicy's Gewürzmuseum",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gew%C3%BCrzmuseum_Hamburg_01.jpg/330px-Gew%C3%BCrzmuseum_Hamburg_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_36",
@@ -1441,8 +1441,8 @@
       "name_zh": "Krameramtsstuben (クラーマーアムツストゥーベン)",
       "name_fr": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
       "name_de": "Krameramtsstuben",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/330px-Krameramtsstuben.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_38",
@@ -1519,8 +1519,8 @@
       "name_zh": "Old Commercial Room (オールド・コマーシャル・ルーム)",
       "name_fr": "Old Commercial Room (Old Commercial Room Restaurant)",
       "name_de": "Old Commercial Room",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_Commercial_Room_Hamburg.jpg/330px-Old_Commercial_Room_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_40",
@@ -2299,8 +2299,8 @@
       "name_zh": "Wildpark Schwarze Berge (シュヴァルツェ・ベルゲ野生動物公園)",
       "name_fr": "Wildpark Schwarze Berge (Black Mountains Wildlife Park)",
       "name_de": "Wildpark Schwarze Berge",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eingang_Wildpark_Schwarze_Berge.jpg/330px-Eingang_Wildpark_Schwarze_Berge.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_60",
@@ -2338,7 +2338,7 @@
       "name_zh": "Heide Park Resort (ハイデ・パーク・リゾート)",
       "name_fr": "Heide Park Resort",
       "name_de": "Heide Park Resort",
-      "image": "https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/Heide-Park%28fern%29.tif/lossy-page1-330px-Heide-Park%28fern%29.tif.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/Heide-Park_Resort.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "hasWiki": true
     },
     {

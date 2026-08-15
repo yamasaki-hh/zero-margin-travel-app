@@ -15,7 +15,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.84667,
       "lng": 4.3525,
       "desc_en": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",

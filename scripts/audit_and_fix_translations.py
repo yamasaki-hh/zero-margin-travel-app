@@ -30,6 +30,19 @@ EXCLUDE_KIDS_KEYWORDS = [
     'red light', 'キャバレー', '歓楽街', '風俗'
 ]
 
+# Curated translation fixes for English leaks
+curated_fixes = {
+    "b_49": {
+        "desc_es": "Extenso parque paisajístico con jardines temáticos de Asia, Oriente Medio y Europa con un teleférico panorámico."
+    },
+    "h_13": {
+        "desc_es": "Renombrado museo de artes aplicadas, diseño, fotografía y cultura visual en un edificio neorrenacentista."
+    },
+    "h_33": {
+        "desc_es": "Experiencia sensorial inmersiva donde guías no videntes conducen a los visitantes a través de salas completamente a oscuras."
+    }
+}
+
 total_spots_modified = 0
 total_kids_spots = 0
 
@@ -41,6 +54,10 @@ for fpath in city_files:
     spots = data.get('spots', [])
 
     for s in spots:
+        sid = s.get('id')
+        if sid in curated_fixes:
+            for k, v in curated_fixes[sid].items():
+                s[k] = v
         category = s.get('category', '')
         name = s.get('name', '')
         desc = (s.get('desc_ja', '') + " " + s.get('desc_en', '')).lower()
