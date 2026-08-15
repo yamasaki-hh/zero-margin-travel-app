@@ -29,8 +29,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "🏰 Montez les 113 marches de la tour Sinwell pour profiter d'un panorama à 360° sur les toits rouges de la ville ; des démonstrations en direct au Puits Profond ont lieu toutes les 30 minutes.",
       "tip_de": "🏰 Die 113 Stufen des Sinwellturms besteigen für den besten 360-Grad-Blick über die Altstadt; im Brunnenhaus finden alle 30 Minuten beeindruckende Vorführungen am Tieferen Brunnen statt.",
-      "price_en": "Castle & Tower Ticket: €9 / Reduced: €8 / Under 18 Free",
-      "price_ja": "城館・ジンウェル塔共通券: 9€ / 割引: 8€ / 18歳未満無料",
+      "price_en": "Castle & Sinwell Tower Combo: €10",
+      "price_ja": "城館・ジンウェル塔共通券: 10ユーロ",
       "price_es": "Entrada combinada: 9€ / Reducida: 8€ / Menores de 18 gratis",
       "price_zh": "城堡与展望塔联票：9 欧元 / 优惠票：8 欧元 / 18岁以下免费",
       "price_fr": "Billet combiné château et tour : 9 € / Réduit : 8 € / Moins de 18 ans gratuit",
@@ -43,7 +43,8 @@
       "name_de": "Kaiserburg Nürnberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/N%C3%BCrnberg_Burg_ArM.jpg/330px-N%C3%BCrnberg_Burg_ArM.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/N%C3%BCrnberg_Burg_ArM.jpg/330px-N%C3%BCrnberg_Burg_ArM.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "price": "Castle & Tower Combo: €10"
     },
     {
       "id": "nu_2",
@@ -481,8 +482,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "🏛️ Prenez le tram 8 jusqu'au Doku-Zentrum ; marchez 15 minutes le long de la Grande Rue jusqu'à la tribune de Zeppelinfeld.",
       "tip_de": "🏛️ Mit der Straßenbahn 8 bis Doku-Zentrum fahren; nach dem Ausstellungsbesuch über die Große Straße zur Zeppelintribüne gehen und den historischen Ort begeben.",
-      "price_en": "Adults: €6 / Reduced: €1.50 (Audio guide included)",
-      "price_ja": "大人: 6€ / 割引: 1.50€（日本語音声ガイド付き）",
+      "price_en": "Entry: €7.50",
+      "price_ja": "入場料: 7.50ユーロ",
       "price_es": "Adultos: 6€ / Reducida: 1,50€ (Audioguía incluida)",
       "price_zh": "成人：6 欧元 / 优惠票：1.50 欧元（含语音导览器）",
       "price_fr": "Adultes : 6 € / Réduit : 1,50 € (Audioguide inclus)",
@@ -495,7 +496,8 @@
       "name_de": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld (Dokumentationszentrum Reichsparteitagsgelände)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Documentation_center_entrance_nuernberg_may2011.jpg/330px-Documentation_center_entrance_nuernberg_may2011.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Documentation_center_entrance_nuernberg_may2011.jpg/330px-Documentation_center_entrance_nuernberg_may2011.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "price": "Entry: €7.50"
     },
     {
       "id": "nu_13",

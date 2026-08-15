@@ -20,13 +20,13 @@
       "desc_fr": "Cologne Cathedral remarquable à visiter à Cologne.",
       "de": "Kölner Dom (UNESCO) im Kölner Stadtgebiet.",
       "tip_en": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "tip_ja": "💡 大聖堂見学は無料！南塔の533段の螺旋階段登楼チケット（€6）を購入して100m展望スペースへ。",
+      "tip_ja": "⛪ 2026年7月より観光客向けの内陣見学チケット（12€）が導入されます（礼拝・お祈りは無料）。高さ157mのツインタワーと533段の塔登り（8€）は圧巻です。",
       "tip_es": "💡 Gran lugar para visitar y tomar fotos memorables con ambiente local.",
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "聖堂無料（塔6€）",
-      "price_ja": "聖堂無料（塔6€）",
+      "price_en": "Tourist Entry: €12 / Tower Climb: €8 (Prayer & Services Free)",
+      "price_ja": "聖堂観光12€（2026年7月〜）/ 塔8€ / 礼拝無料",
       "price_es": "聖堂無料（塔6€）",
       "price_zh": "聖堂無料（塔6€）",
       "price_fr": "聖堂無料（塔6€）",
@@ -39,7 +39,8 @@
       "name_de": "Kölner Dom (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/330px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Cologne Cathedral in City district."
+      "desc_de": "Cologne Cathedral in City district.",
+      "price": "Tourist Entry: €12 / Tower: €8 / Prayer Free"
     },
     {
       "id": "c_2",
@@ -345,8 +346,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "入場料: 14.50€",
-      "price_ja": "入場料: 14.50€",
+      "price_en": "Entry: €17.50 (Weekday) / €19 (Weekend)",
+      "price_ja": "入場料: 17.50€（平日）/ 19€（土日）",
       "price_es": "入場料: 14.50€",
       "price_zh": "入場料: 14.50€",
       "price_fr": "入場料: 14.50€",
@@ -359,7 +360,8 @@
       "name_de": "Schokoladenmuseum Köln",
       "desc_de": "Traditionsreiches Grand Café mit Terrasse und direktem Blick auf den Kölner Dom.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Imhoff-Schokoladenmuseum%2C_K%C3%B6ln-0988.jpg/330px-Imhoff-Schokoladenmuseum%2C_K%C3%B6ln-0988.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "price": "Entry: €17.50 (Weekday) / €19 (Weekend)"
     },
     {
       "id": "c_10",

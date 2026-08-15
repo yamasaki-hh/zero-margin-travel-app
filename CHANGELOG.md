@@ -2,6 +2,24 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v28.0.0] - 2026-08-15 (2025–2026 European Ticket Price Hikes, Closures & Translation Remediation)
+
+### 💶 2025–2026 European Data Remediation (`v28.0.0`)
+- **Critical Renovation Closure Warning (`p_16`)**: Updated Centre Pompidou Paris to explicitly warn visitors of the multi-year Beaubourg building renovation closure (**2026–2030**), noting satellite exhibition programming under *Centre Pompidou Constellation*.
+- **Neuschwanstein Castle Policy Correction (`m_46`)**: Fixed Neuschwanstein Castle status from "Free Entry" (`free: true`) to **Entry: €21 (Timed Guided Tour)** (`free: false`), clarifying that entering castle interior requires mandatory advance online guided tour reservation.
+- **Cologne Cathedral Tourist Tariff Update (`c_1`)**: Added 2026 tourist interior entry fee update (**€12** for non-worshippers taking effect July 1, 2026; tower climb €8).
+- **Humboldt Forum Pricing Precision (`b_10`)**: Updated Humboldt Forum Berlin from "Permanent Free" to **Courtyard Free / Exhibitions: €9 / Roof: €3**.
+- **Translation Remediation (`a_5`)**: Corrected Zaanse Schans English mistranslation in `desc_ja` from "温室" (greenhouse) to **"緑色の伝統木造建築群"** (*Zaanse houten huizen*).
+- **2025–2026 European Attraction Ticket Inflation Updates**:
+  - **Paris**: Louvre Museum (`p_14`) €22–€32; Eiffel Tower Top Lift (`p_1`) €35.30; Arc de Triomphe (`p_2`) €16; Sainte-Chapelle (`p_3`) €16; Catacombs (`p_13`) €31.
+  - **Amsterdam**: Rijksmuseum (`a_1`) €25; Van Gogh Museum (`a_2`) €25 (online only); Anne Frank House (`a_3`) €16.50; Rembrandt House (`a_12`) €23.50; NEMO Science Museum (`a_13`) €21.50; Oude Kerk (`a_8`) €13.50.
+  - **Berlin & Germany**: Museumsinsel Pass (`b_3`) €24; SMB Museums (`b_6`, `b_7`, `b_8`) €14; Berliner Dom (`b_9`) €15; Mauermuseum (`b_13`) €18.50; TV Tower (`b_16`) €25.50+; Miniatur Wunderland (`h_1`) €22; Cologne Chocolate Museum (`c_9`) €17.50/€19; Munich Residenz combo (`m_3`) €15; Deutsches Museum (`m_5`) €16; Nuremberg Castle (`nu_1`) €10; Nuremberg Doc Center (`nu_12`) €7.50.
+  - **Brussels, Luxembourg & Toulouse**: Atomium (`br_3`) €17; MUDAM (`l_6`) €10; Cité de l'Espace (`to_34`) €29–€32.
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 824 spots across 18 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Cache Busters**: Updated asset version string in `index.html` to `v=104.0`.
+
+---
+
 ## 🏷️ [v27.0.0] - 2026-08-15 (Full Database Audit Remediation & 5-Layer Compliance Guard Upgrade)
 
 ### 🛡️ Full Database Remediation & Master Rulebook v6.0.0 (`v27.0.0`)

@@ -105,8 +105,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "共通券: 19€",
-      "price_ja": "共通券: 19€",
+      "price_en": "Museumsinsel Day Pass: €24",
+      "price_ja": "共通一日券: 24ユーロ",
       "price_es": "共通券: 19€",
       "price_zh": "共通券: 19€",
       "price_fr": "共通券: 19€",
@@ -119,7 +119,8 @@
       "name_de": "Museumsinsel (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Museum Island (UNESCO) in City district."
+      "desc_de": "Museum Island (UNESCO) in City district.",
+      "price": "Day Ticket: €24"
     },
     {
       "id": "b_4",
@@ -226,8 +227,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "入場料: 12€",
-      "price_ja": "入場料: 12€",
+      "price_en": "Entry: €14",
+      "price_ja": "入場料: 14ユーロ",
       "price_es": "入場料: 12€",
       "price_zh": "入場料: 12€",
       "price_fr": "入場料: 12€",
@@ -240,7 +241,8 @@
       "name_de": "Alte Nationalgalerie",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/330px-AlteNationalgalerie_1a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Alte Nationalgalerie in City district."
+      "desc_de": "Alte Nationalgalerie in City district.",
+      "price": "Entry: €14"
     },
     {
       "id": "b_7",
@@ -266,8 +268,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "入場料: 12€",
-      "price_ja": "入場料: 12€",
+      "price_en": "Entry: €14",
+      "price_ja": "入場料: 14ユーロ",
       "price_es": "入場料: 12€",
       "price_zh": "入場料: 12€",
       "price_fr": "入場料: 12€",
@@ -280,7 +282,8 @@
       "name_de": "Bode-Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Bode Museum in City district."
+      "desc_de": "Bode Museum in City district.",
+      "price": "Entry: €14"
     },
     {
       "id": "b_8",
@@ -306,8 +309,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "入場料: 10€",
-      "price_ja": "入場料: 10€",
+      "price_en": "Entry: €14",
+      "price_ja": "入場料: 14ユーロ",
       "price_es": "入場料: 10€",
       "price_zh": "入場料: 10€",
       "price_fr": "入場料: 10€",
@@ -320,7 +323,8 @@
       "name_de": "Altes Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Altes_Museum%2C_Berlin_2012.jpg/330px-Altes_Museum%2C_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Altes Museum in City district."
+      "desc_de": "Altes Museum in City district.",
+      "price": "Entry: €14"
     },
     {
       "id": "b_9",
@@ -346,8 +350,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "拝観料: 10€",
-      "price_ja": "拝観料: 10€",
+      "price_en": "Entry: €15 (Incl. Audioguide & Crypt)",
+      "price_ja": "拝観料: 15ユーロ（オーディオガイド・地下墓所込み）",
       "price_es": "拝観料: 10€",
       "price_zh": "拝観料: 10€",
       "price_fr": "拝観料: 10€",
@@ -360,7 +364,8 @@
       "name_de": "Berliner Dom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Berliner_Dom_-_Westfassade_--_01.jpg/330px-2023_Berliner_Dom_-_Westfassade_--_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Berlin Cathedral in City district."
+      "desc_de": "Berlin Cathedral in City district.",
+      "price": "Entry: €15"
     },
     {
       "id": "b_10",
@@ -386,8 +391,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "常設無料",
-      "price_ja": "常設無料",
+      "price_en": "Courtyard Free / Exhibitions: €9 / Roof Terrace: €3",
+      "price_ja": "中庭無料 / 企画展9€ / 屋上テラス3€",
       "price_es": "常設無料",
       "price_zh": "常設無料",
       "price_fr": "常設無料",
@@ -400,7 +405,8 @@
       "name_de": "Humboldt Forum & Berliner Schloss",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Humboldt Forum in City district."
+      "desc_de": "Humboldt Forum in City district.",
+      "price": "Courtyard Free / Exhibitions: €9 / Roof: €3"
     },
     {
       "id": "b_11",
@@ -506,8 +512,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "見学無料（博物館17.50€）",
-      "price_ja": "見学無料（博物館17.50€）",
+      "price_en": "Outdoor Free / Museum: €18.50",
+      "price_ja": "屋外無料（博物館入場: 18.50€）",
       "price_es": "見学無料（博物館17.50€）",
       "price_zh": "見学無料（博物館17.50€）",
       "price_fr": "見学無料（博物館17.50€）",
@@ -521,7 +527,8 @@
       "image": "",
       "hasWiki": false,
       "desc_de": "Checkpoint Charlie in City district.",
-      "tip": "📸 Fake soldier actors were banned by city authorities in 2019. Focus on the cobblestone Cold War border line on the ground, Frank Thiel's giant portraits, and Mauermuseum."
+      "tip": "📸 Fake soldier actors were banned by city authorities in 2019. Focus on the cobblestone Cold War border line on the ground, Frank Thiel's giant portraits, and Mauermuseum.",
+      "price": "Outdoor Free / Museum: €18.50"
     },
     {
       "id": "b_14",
@@ -627,8 +634,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "展望台: 22.50€",
-      "price_ja": "展望台: 22.50€",
+      "price_en": "Observation Deck: €25.50+ (Dynamic Pricing)",
+      "price_ja": "展望台: 25.50€〜（変動料金制）",
       "price_es": "展望台: 22.50€",
       "price_zh": "展望台: 22.50€",
       "price_fr": "展望台: 22.50€",
@@ -641,7 +648,8 @@
       "name_de": "Berliner Fernsehturm",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Berlin TV Tower in City district."
+      "desc_de": "Berlin TV Tower in City district.",
+      "price": "Observation: €25.50+"
     },
     {
       "id": "b_17",

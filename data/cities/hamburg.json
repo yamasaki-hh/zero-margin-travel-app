@@ -25,8 +25,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "入場料: 20€",
-      "price_ja": "入場料: 20€",
+      "price_en": "Adult: €22",
+      "price_ja": "入場料: 22ユーロ",
       "price_es": "入場料: 20€",
       "price_zh": "入場料: 20€",
       "price_fr": "入場料: 20€",
@@ -39,7 +39,8 @@
       "name_de": "Miniatur Wunderland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Miniatur Wunderland in City district."
+      "desc_de": "Miniatur Wunderland in City district.",
+      "price": "Adult: €22"
     },
     {
       "id": "h_2",
@@ -65,8 +66,8 @@
       "tip_zh": "💡 非常值得打卡游览的最佳地点，适合合影留念与感受在地氛围。",
       "tip_fr": "💡 Superbe endroit à visiter pour des photos mémorables et une ambiance locale.",
       "tip_de": "💡 Empfehlenswerter Ort für schöne Fotos und authentische Atmosphäre.",
-      "price_en": "Plaza Admission: €3",
-      "price_ja": "プラザ入場料: €3",
+      "price_en": "Plaza Free (Online Time-Slot Booking €2)",
+      "price_ja": "プラザ入場無料（Web事前時間指定予約: 2€）",
       "price_es": "展望プラザ無料",
       "price_zh": "展望プラザ無料",
       "price_fr": "展望プラザ無料",
@@ -80,7 +81,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elbphilharmonie%2C_Hamburg.jpg/330px-Elbphilharmonie%2C_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Elbphilharmonie Concert Hall in City district.",
-      "price": "Plaza Admission: €3",
+      "price": "Plaza Free (Online Reservation €2)",
       "tip": "🎟️ Plaza viewing deck requires a €3 Plaza Ticket. Ride the 82m curved escalator 'The Tube' to the 37m high panoramic balcony."
     },
     {
