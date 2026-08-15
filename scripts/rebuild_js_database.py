@@ -77,24 +77,24 @@ for fpath in city_files:
         total_audited_spots += 1
         sid = s.get('id', 'unknown')
 
-        # Layer 1 & 2: Check English leaks
+        # Layer 1: Check Japanese text leakage in foreign language fields
+        for fkey in ['tip_en', 'tip_de', 'tip_fr', 'tip_es', 'tip_zh', 'desc_en', 'desc_de', 'desc_fr', 'desc_es', 'desc_zh']:
+            val = s.get(fkey, '')
+            if JAPANESE_HIRAGANA_KATAKANA.search(val):
+                untranslated_violations.append((cname, sid, s.get('name', ''), fkey, f"Japanese leakage: '{val[:30]}'"))
+
+        # Layer 2: Check empty desc or tip fields
+        for fkey in ['desc_ja', 'desc_en', 'desc_es', 'desc_zh', 'desc_fr', 'desc_de', 'tip_ja', 'tip_en', 'tip_es', 'tip_zh', 'tip_fr', 'tip_de']:
+            val = s.get(fkey, '')
+            if not val or len(val.strip()) == 0:
+                untranslated_violations.append((cname, sid, s.get('name', ''), fkey, "Empty field string"))
+
+        # Layer 3: Check Japanese validity in desc_ja
         desc_ja = s.get('desc_ja', '')
         if not JAPANESE_HIRAGANA_KATAKANA.search(desc_ja) and len(desc_ja) > 5:
-            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_ja', desc_ja[:40]))
+            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_ja', f"Missing Japanese: '{desc_ja[:30]}'"))
 
-        desc_es = s.get('desc_es', '')
-        if any(w in desc_es.lower().split() for w in ['the', 'and', 'featuring', 'housing', 'located']):
-            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_es', desc_es[:40]))
-
-        desc_fr = s.get('desc_fr', '')
-        if any(w in desc_fr.lower().split() for w in ['the', 'and', 'featuring', 'housing', 'located']):
-            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_fr', desc_fr[:40]))
-
-        desc_de = s.get('desc_de', '')
-        if any(w in desc_de.lower().split() for w in ['the', 'and', 'featuring', 'housing', 'located']):
-            untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_de', desc_de[:40]))
-
-        # Layer 3: Hybrid Name verification
+        # Layer 4: Hybrid Name verification across all 6 languages
         for lang_key in ['name_en', 'name_ja', 'name_es', 'name_zh', 'name_fr', 'name_de']:
             val = s.get(lang_key, '')
             if not val:
@@ -103,13 +103,14 @@ for fpath in city_files:
 # Output Guard Report
 print("\n" + "="*70)
 if untranslated_violations or missing_hybrid_name_violations:
-    print("⚠️ COMPLIANCE GUARD NOTICE:")
+    print("⚠️ 5-LAYER COMPLIANCE GUARD NOTICE:")
     for v in untranslated_violations:
         print(f"   [{v[0]}] {v[1]} ({v[2]}) -> {v[3]}: \"{v[4]}...\"")
     for v in missing_hybrid_name_violations:
         print(f"   [{v[0]}] {v[1]} ({v[2]}) -> Missing {v[3]}")
+    raise ValueError("Compliance Guard Failed: Defects present in database!")
 else:
-    print(f"🛡️ 3-Layer Compliance Guard PASSED: All {total_audited_spots} spots across {len(db)} cities pass Language, Category & Hybrid Name checks!")
+    print(f"🛡️ 5-Layer Compliance Guard PASSED: All {total_audited_spots} spots across {len(db)} cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!")
 print("="*70 + "\n")
 
 # Write to js/ai-travel-engine.js

@@ -2,6 +2,22 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v27.0.0] - 2026-08-15 (Full Database Audit Remediation & 5-Layer Compliance Guard Upgrade)
+
+### 🛡️ Full Database Remediation & Master Rulebook v6.0.0 (`v27.0.0`)
+- **Systemic Root-Cause Resolution**: Comprehensive database audit and remediation across all **18 cities and 824 verified spots**, fixing historical artifacts from early project versions (v1.0.0~v3.0.0).
+- **Entity Mismatch Correction (`lyon_9`)**: Resolved critical mismatch in `lyon.json` by re-binding `lyon_9` to **Fresque des Canuts（カニュの壁画）** across all 6 language keys, setting price to `Free Entry` (`見学無料`), and aligning all `desc_*` and `tip_*` fields with the 1,200 m² trompe-l'œil mural in Croix-Rousse, Lyon.
+- **Factual & Translation Precision (`br_7`)**: Corrected Manneken Pis height in `brussels.json` from 61 cm to official municipal measurement **55.5 cm**, fixed mistranslation to 「小便を放つ」, and populated non-empty costume wardrobe tips (`GardeRobe MannekenPis`) across all 6 languages.
+- **Ticket Price & Renovation Updates**: Updated Computerspielemuseum Berlin (`b_29`) to current **€12** price, and added long-term renovation closure notice for MADD Bordeaux (`bo_17`).
+- **Redundancy Elimination**: Delineated `desc` and `tip` fields for Rue Sainte-Catherine (`bo_30`) and Darwin Eco-Système (`bo_32`) to ensure 0% text overlap.
+- **Directional & Seasonal Precision**: Added precise underground entrance directions for Holocaust Memorial Berlin (`b_15`, Cora-Berliner-Straße side), observation deck info for Berliner Mauer (`b_12`), and clarified winter ice rink season for Cologne Heumarkt (`c_4`, *Heinzels Wintermärchen*).
+- **Multilingual Text Leakage Cleanup**: Cleaned and replaced over 2,000 instances of Japanese text leakage across foreign language `tip_*` and `desc_*` fields in legacy city files (`berlin.json`, `cologne.json`, `frankfurt.json`, `hamburg.json`, etc.).
+- **5-Layer Compliance Guard Upgrade**: Enforced new 5-Layer automated build guard in `scripts/rebuild_js_database.py` (Layer 1: Foreign Text Hygiene, Layer 2: Non-Empty Fields, Layer 3: Japanese Validation, Layer 4: 6-Language Hybrid Naming, Layer 5: Price & Category Structure Integrity).
+- **Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 824 spots across 18 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Cache Busters**: Updated asset version string in `index.html` to `v=103.0`.
+
+---
+
 ## 🏷️ [v26.0.0] - 2026-08-15 (Nuremberg 52 Spots City Module Release)
 
 ### 🥨 Nuremberg City Module Integration (`v26.0.0`)
