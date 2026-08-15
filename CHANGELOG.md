@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v7.0.0] - 2026-08-15 (Batch 2 Regional French & Historic Cities Fresh Insider Tips Integration)
+
+### 🏰 Batch 2 Insider Tips Integration (`v7.0.0`)
+- **127 Spots Across Strasbourg, Toulouse & Marseille**: Populated tailored, authentic 6-language insider tips (`tip_en`, `tip_ja`, `tip_es`, `tip_zh`, `tip_fr`, `tip_de`) for 45 Strasbourg spots, 39 Toulouse spots, and 43 Marseille spots in `data/cities/strasbourg.json`, `data/cities/toulouse.json`, and `data/cities/marseille.json`.
+- **Zero-Overlap & High Practical Value**: Incorporated authentic travel hints (e.g. Strasbourg Cathedral 12:30 PM astronomical clock show & Vauban Dam roof postcard views, Toulouse Capitole sunset pink glow & Cassoulet at Le Colombier, Marseille Notre-Dame de la Garde 360° views & Chez Fonfon Bouillabaisse).
+- **Guarded Build Verification**: Passed the 2-Layer Language Compliance Guard across all 458 spots in 13 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=82.0`.
+
+---
+
 ## 🏷️ [v6.0.0] - 2026-08-15 (Batch 1 French Riviera & Riviera Cities Fresh Insider Tips Integration)
 
 ### 🥖 Batch 1 Insider Tips Integration (`v6.0.0`)
