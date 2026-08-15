@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v14.0.0] - 2026-08-15 (Berlin Database Expansion & 3-Layer Compliance Guard Verification)
+
+### 🐻 Berlin Database Expansion & Zero-Overlap Overhaul (`v14.0.0`)
+- **Berlin Comprehensive Database Expansion**: Populated Berlin (`berlin.json`) with curated spots (including Brandenburger Tor, Reichstag Glass Dome, Museumsinsel UNESCO, Pergamonmuseum Panorama, Neues Museum Nefertiti Bust, Berliner Dom 270-step dome walkway, East Side Gallery 'Brother Kiss', Holocaust Memorial, Berliner Fernsehturm, Schloss Charlottenburg, Museum für Naturkunde Giraffatitan skeleton, Berliner Unterwelten 10°C bunker tour, Siegessäule, Curry 36 & Konnopke's Currywurst, Mustafa's Gemüsedöner, Schloss Sanssouci Potsdam UNESCO, Schloss Cecilienhof, Glienicker Brücke 'Bridge of Spies', Spreewald punt boats & pickles, and Tropical Islands Resort).
+- **0% Description Overlap & Pure Actionable Secrets**: Populated 6-language practical hints (e.g. Reichstag 2-4 week advance registration & physical passport rule, Brandenburger Tor blue hour photos, Neues Museum Room 210 photo ban, Curry 36 'mit Pommes Mayo' order phrase, Berliner Unterwelten 10°C fleece jacket warning, Glienicker Brücke dark-green/light-green boundary line photo).
+- **Guarded Build Verification**: Passed the 3-Layer Language & Hybrid Name Compliance Guard across all spots in 15 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=89.0`.
+
+---
+
 ## 🏷️ [v13.0.0] - 2026-08-15 (Hamburg Database Creation & 3-Layer Compliance Guard Verification)
 
 ### ⚓ Hamburg Database Creation & Zero-Overlap Insider Tips (`v13.0.0`)
