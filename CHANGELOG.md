@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v9.0.0] - 2026-08-15 (Munich 60-Spot Zero-Overlap Insider Tips Refinement)
+
+### 🍺 Munich Zero-Overlap Insider Tips Overhaul (`v9.0.0`)
+- **60 Munich Spots Fully Refined**: Audited and sanitized all 60 Munich spots (`munich.json`). Eliminated 100% of description-tip overlap across 6 languages (`tip_en`, `tip_ja`, `tip_es`, `tip_zh`, `tip_fr`, `tip_de`).
+- **Actionable Practical Secrets**: Replaced description restatements with concrete hints (e.g., Marienplatz 11:00/12:00 Glockenspiel chime times, St. Peter's church 306-step tower photospot, Frauenkirche Devil's Footprint secret vantage point, Residenz lion nose touch for luck, Neuschwanstein 3-4 week advance booking & Marienbrücke views).
+- **Guarded Build Verification**: Passed the 2-Layer Language Compliance Guard across all 458 spots in 13 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=84.0`.
+
+---
+
 ## 🏷️ [v8.0.0] - 2026-08-15 (Vibrant Red Close Button & All France Spots Zero-Overlap Tip Sanitization)
 
 ### 🔴 Red Circle Modal Close Button & France Tips Sanitization (`v8.0.0`)
