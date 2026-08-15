@@ -4,6 +4,23 @@ All notable changes and release checkpoints for the Zero-Margin Travel App will 
 
 ---
 
+## 🏷️ [v3.1.0] - 2026-08-15 (Global Kids & Family Category Strict Curation)
+
+### 🧹 Quality & Categorization Enhancements
+- **Strict Kids Category Filtering**: Removed all general cafes, bistros, bakeries, food markets, fine art museums, adult monuments, and generic walking spots from the `kids: true` tag across all 12 European cities.
+- **Dedicated Family Standards**: Restricted `kids: true` exclusively to Zoos, Aquariums, Theme Parks, Interactive/Experiential Museums (Science, Miniature, Cinema, Chocolate), Puppet Theaters, Major Playground/Splash Parks, and Iconic Family Landmarks (Eiffel Tower).
+- **Scaled City Ratios (Paris Upper Limit = 13)**:
+  - **Paris**: 13 spots (Disneyland, Cité des Sciences, Zoo, Aquarium, Eiffel, Luxembourg, Choco-Story)
+  - **Bordeaux**: 7 spots (Water Mirror, Cap Sciences, Zoo, Arcachon Dune, Bassins des Lumières, Jardin Public, Accro-Batches)
+  - **Lyon**: 6 spots (Miniature Museum, Mini World, Aquarium, Planetarium, Guignol Puppets, Parc de la Tête d'Or)
+  - **Marseille**: 6 spots (Cosquer Cave, Prado Beach Park, Magic Park Land, Figuerolles Farm, Parc Borély, Petit Train)
+  - **Nice**: 5 spots (Monaco Aquarium, Paillon Marine Playground, Parc Phoenix Zoo, Glacier Fenocchio, Castle Hill Waterfall)
+  - **Strasbourg**: 6 spots (Europa-Park, Le Vaisseau Science Center, Écomusée d'Alsace, Stork Sanctuary, Tomi Ungerer Museum, Citadelle Park)
+  - **Amsterdam**: 3 spots | **Berlin**: 3 spots | **Munich**: 2 spots | **Brussels**: 2 spots | **Luxembourg**: 2 spots | **Cologne**: 1 spot
+- **Cache Busters**: Updated version parameters in `index.html` to `v=67.0`.
+
+---
+
 ## 🏷️ [v3.0.0] - 2026-08-14 (Marseille City Database Release - 43 Curated Spots)
 
 ### 🌟 Major Milestone Reached

@@ -32,7 +32,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.94139,
       "lng": 6.96556
     },
@@ -66,7 +66,7 @@
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.9322,
       "lng": 6.96427
     },
@@ -117,7 +117,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 50.9225,
       "lng": 6.9453
     },

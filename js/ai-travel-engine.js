@@ -21,7 +21,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/330px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.36,
       "lng": 4.8853
     },
@@ -89,7 +89,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zaanstad_Zaanse_Schans_22.jpg/330px-Zaanstad_Zaanse_Schans_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 52.3976,
       "lng": 4.8741
     },
@@ -106,7 +106,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg/330px-Amsterdam%2C_Vondelpark%2C_at_the_pond-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.358,
       "lng": 4.868
     },
@@ -174,7 +174,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SingelBloemenmarkt.jpg/330px-SingelBloemenmarkt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.36667,
       "lng": 4.89194
     },
@@ -208,7 +208,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandshuis.jpg/330px-Rembrandshuis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.3694,
       "lng": 4.90129
     },
@@ -225,7 +225,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.3676,
       "lng": 4.9041
     },
@@ -242,7 +242,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MocoMuseumAmsterdamTHEONE.jpg/330px-MocoMuseumAmsterdamTHEONE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.3826,
       "lng": 4.9041
     },
@@ -380,7 +380,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_reichstag_west_panorama_2.jpg/330px-Berlin_reichstag_west_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.505,
       "lng": 13.375
     },
@@ -397,7 +397,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg/330px-Segment_with_Graffiti_of_the_Berlin_Wall_%283_of_4%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.52,
       "lng": 13.375
     },
@@ -499,7 +499,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.52083,
       "lng": 13.40944
     },
@@ -550,7 +550,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.51389,
       "lng": 13.35694
     },
@@ -652,7 +652,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.52833,
       "lng": 13.37222
     },
@@ -686,7 +686,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 52.51903,
       "lng": 13.40222
     },
@@ -720,7 +720,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 52.49349,
       "lng": 13.38772
     },
@@ -1062,7 +1062,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 44.4925,
       "lng": -0.3703
     },
@@ -1096,7 +1096,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8625,
       "lng": -0.55
     },
@@ -1130,7 +1130,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8367,
       "lng": -0.5742
     },
@@ -1198,7 +1198,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8647,
       "lng": -0.5528
     },
@@ -1232,7 +1232,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8308,
       "lng": -0.5678
     },
@@ -1266,7 +1266,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8428,
       "lng": -0.5744
     },
@@ -1317,7 +1317,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8439,
       "lng": -0.5747
     },
@@ -1385,7 +1385,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8447,
       "lng": -0.5678
     },
@@ -1419,7 +1419,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8456,
       "lng": -0.5747
     },
@@ -1436,7 +1436,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8483,
       "lng": -0.5581
     },
@@ -1453,7 +1453,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 44.8931,
       "lng": -0.1558
     },
@@ -1521,7 +1521,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8425,
       "lng": -0.5678
     },
@@ -1538,7 +1538,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8533,
       "lng": -0.5969
     },
@@ -1591,7 +1591,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/330px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 50.84667,
       "lng": 4.3525
     },
@@ -1608,7 +1608,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 50.8353,
       "lng": 4.3217
     },
@@ -1625,7 +1625,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/330px-Brussels_-_Atomium_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.89472,
       "lng": 4.34111
     },
@@ -1693,7 +1693,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/330px-Bruxelles_Manneken_Pis_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.84499,
       "lng": 4.34999
     },
@@ -1831,7 +1831,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.94139,
       "lng": 6.96556
     },
@@ -1865,7 +1865,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schoko_Koeln_20061015.jpg/330px-Schoko_Koeln_20061015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 50.9322,
       "lng": 6.96427
     },
@@ -1916,7 +1916,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 50.9225,
       "lng": 6.9453
     },
@@ -2122,7 +2122,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 49.6416,
       "lng": 6.1169
     },
@@ -2139,7 +2139,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 49.61552,
       "lng": 6.13065
     },
@@ -2258,7 +2258,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 49.61639,
       "lng": 6.13889
     },
@@ -2292,7 +2292,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 49.6416,
       "lng": 6.1469
     }
@@ -2498,7 +2498,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7328,
       "lng": 4.8183
     },
@@ -2549,7 +2549,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7636,
       "lng": 4.8275
     },
@@ -2668,7 +2668,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 45.6569,
       "lng": 4.9042
     },
@@ -2719,7 +2719,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.76,
       "lng": 4.8367
     },
@@ -2736,7 +2736,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7675,
       "lng": 4.8319
     },
@@ -2753,7 +2753,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7686,
       "lng": 4.8456
     },
@@ -2787,7 +2787,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7483,
       "lng": 4.8275
     },
@@ -2923,7 +2923,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7583,
       "lng": 4.8361
     },
@@ -2991,7 +2991,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 45.9033,
       "lng": 5.1783
     },
@@ -3112,7 +3112,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2953,
       "lng": 5.3744
     },
@@ -3146,7 +3146,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2969,
       "lng": 5.3622
     },
@@ -3180,7 +3180,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.3044,
       "lng": 5.3944
     },
@@ -3231,7 +3231,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2697,
       "lng": 5.3958
     },
@@ -3248,7 +3248,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.28,
       "lng": 5.3253
     },
@@ -3282,7 +3282,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2969,
       "lng": 5.3611
     },
@@ -3316,7 +3316,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2975,
       "lng": 5.3756
     },
@@ -3384,7 +3384,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.3044,
       "lng": 5.3944
     },
@@ -3401,7 +3401,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.3103,
       "lng": 5.3906
     },
@@ -3469,7 +3469,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2953,
       "lng": 5.3744
     },
@@ -3486,7 +3486,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2961,
       "lng": 5.3794
     },
@@ -3503,7 +3503,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.29,
       "lng": 5.3658
     },
@@ -3537,7 +3537,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2981,
       "lng": 5.3689
     },
@@ -3588,7 +3588,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2847,
       "lng": 5.3508
     },
@@ -3605,7 +3605,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2778,
       "lng": 5.3528
     },
@@ -3673,7 +3673,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.2117,
       "lng": 5.4528
     },
@@ -3690,7 +3690,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.28,
       "lng": 5.3
     },
@@ -3758,7 +3758,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.2953,
       "lng": 5.3744
     },
@@ -3845,7 +3845,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Englischer_Garten_in_Munich_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.1201,
       "lng": 11.552
     },
@@ -3913,7 +3913,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg/330px-BMW_Welt%2C_M%C3%BAnich%2C_Alemania16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.1051,
       "lng": 11.567
     },
@@ -3930,7 +3930,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/330px-Deutsches_Museum_Portrait_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.13,
       "lng": 11.5833
     },
@@ -3964,7 +3964,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Karte_Viktualienmarkt_M%C3%BCnchen.png/330px-Karte_Viktualienmarkt_M%C3%BCnchen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.13528,
       "lng": 11.57611
     },
@@ -3981,7 +3981,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 48.14353,
       "lng": 11.55147
     },
@@ -4033,7 +4033,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6953,
       "lng": 7.2651
     },
@@ -4065,7 +4065,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6975,
       "lng": 7.2764
     },
@@ -4081,7 +4081,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6958,
       "lng": 7.2753
     },
@@ -4097,7 +4097,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6972,
       "lng": 7.2704
     },
@@ -4193,7 +4193,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.72,
       "lng": 7.2789
     },
@@ -4241,7 +4241,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.7006,
       "lng": 7.2801
     },
@@ -4273,7 +4273,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6942,
       "lng": 7.2858
     },
@@ -4305,7 +4305,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6933,
       "lng": 7.2961
     },
@@ -4337,7 +4337,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6989,
       "lng": 7.2781
     },
@@ -4385,7 +4385,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7278,
       "lng": 7.3619
     },
@@ -4401,7 +4401,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.6953,
       "lng": 7.3328
     },
@@ -4433,7 +4433,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7042,
       "lng": 7.3117
     },
@@ -4449,7 +4449,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.6969,
       "lng": 7.1222
     },
@@ -4481,7 +4481,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7308,
       "lng": 7.4244
     },
@@ -4545,7 +4545,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7758,
       "lng": 7.5064
     },
@@ -4561,7 +4561,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.5508,
       "lng": 7.1264
     },
@@ -4577,7 +4577,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.5061,
       "lng": 7.0469
     },
@@ -4593,7 +4593,7 @@ const candidateSpotsDatabase = {
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7017,
       "lng": 7.3003
     }
@@ -5714,7 +5714,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.2494,
       "lng": 7.3444
     },
@@ -5748,7 +5748,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.5792,
       "lng": 7.7506
     },
@@ -5850,7 +5850,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.5797,
       "lng": 7.7514
     },
@@ -5969,7 +5969,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.5817,
       "lng": 7.7486
     },
@@ -5986,7 +5986,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.5819,
       "lng": 7.7497
     },
@@ -6088,7 +6088,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.5803,
       "lng": 7.7539
     },
@@ -6139,7 +6139,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.5808,
       "lng": 7.7519
     },
@@ -6156,7 +6156,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.4619,
       "lng": 7.4819
     },
@@ -6173,7 +6173,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 48.1667,
       "lng": 7.2975
     },
@@ -6241,7 +6241,7 @@ const candidateSpotsDatabase = {
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 48.57,
       "lng": 7.7981
     },

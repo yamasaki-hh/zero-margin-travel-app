@@ -168,7 +168,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 44.4925,
       "lng": -0.3703
     },
@@ -202,7 +202,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8625,
       "lng": -0.55
     },
@@ -236,7 +236,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8367,
       "lng": -0.5742
     },
@@ -304,7 +304,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8647,
       "lng": -0.5528
     },
@@ -338,7 +338,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8308,
       "lng": -0.5678
     },
@@ -372,7 +372,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8428,
       "lng": -0.5744
     },
@@ -423,7 +423,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8439,
       "lng": -0.5747
     },
@@ -491,7 +491,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8447,
       "lng": -0.5678
     },
@@ -525,7 +525,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8456,
       "lng": -0.5747
     },
@@ -542,7 +542,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8483,
       "lng": -0.5581
     },
@@ -559,7 +559,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 44.8931,
       "lng": -0.1558
     },
@@ -627,7 +627,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8425,
       "lng": -0.5678
     },
@@ -644,7 +644,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 44.8533,
       "lng": -0.5969
     },

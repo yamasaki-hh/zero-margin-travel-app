@@ -168,7 +168,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 49.6416,
       "lng": 6.1169
     },
@@ -185,7 +185,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 49.61552,
       "lng": 6.13065
     },
@@ -304,7 +304,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": false,
+      "kids": true,
       "lat": 49.61639,
       "lng": 6.13889
     },
@@ -338,7 +338,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 49.6416,
       "lng": 6.1469
     }

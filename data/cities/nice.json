@@ -14,7 +14,7 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6953,
       "lng": 7.2651
     },
@@ -46,7 +46,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6975,
       "lng": 7.2764
     },
@@ -62,7 +62,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6958,
       "lng": 7.2753
     },
@@ -78,7 +78,7 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6972,
       "lng": 7.2704
     },
@@ -174,7 +174,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.72,
       "lng": 7.2789
     },
@@ -222,7 +222,7 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.7006,
       "lng": 7.2801
     },
@@ -254,7 +254,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6942,
       "lng": 7.2858
     },
@@ -286,7 +286,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6933,
       "lng": 7.2961
     },
@@ -318,7 +318,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 43.6989,
       "lng": 7.2781
     },
@@ -366,7 +366,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7278,
       "lng": 7.3619
     },
@@ -382,7 +382,7 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.6953,
       "lng": 7.3328
     },
@@ -414,7 +414,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7042,
       "lng": 7.3117
     },
@@ -430,7 +430,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.6969,
       "lng": 7.1222
     },
@@ -462,7 +462,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7308,
       "lng": 7.4244
     },
@@ -526,7 +526,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7758,
       "lng": 7.5064
     },
@@ -542,7 +542,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.5508,
       "lng": 7.1264
     },
@@ -558,7 +558,7 @@
       "adult": true,
       "hasWiki": true,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.5061,
       "lng": 7.0469
     },
@@ -574,7 +574,7 @@
       "adult": true,
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 43.7017,
       "lng": 7.3003
     }

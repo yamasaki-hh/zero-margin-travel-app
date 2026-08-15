@@ -202,7 +202,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7328,
       "lng": 4.8183
     },
@@ -253,7 +253,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7636,
       "lng": 4.8275
     },
@@ -372,7 +372,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 45.6569,
       "lng": 4.9042
     },
@@ -423,7 +423,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.76,
       "lng": 4.8367
     },
@@ -440,7 +440,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7675,
       "lng": 4.8319
     },
@@ -457,7 +457,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7686,
       "lng": 4.8456
     },
@@ -491,7 +491,7 @@
       "wikiImage": "",
       "hasWiki": true,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7483,
       "lng": 4.8275
     },
@@ -627,7 +627,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "city",
-      "kids": true,
+      "kids": false,
       "lat": 45.7583,
       "lng": 4.8361
     },
@@ -695,7 +695,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "locationZone": "suburban",
-      "kids": true,
+      "kids": false,
       "lat": 45.9033,
       "lng": 5.1783
     },
