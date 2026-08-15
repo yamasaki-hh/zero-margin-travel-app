@@ -33,13 +33,16 @@ EXCLUDE_KIDS_KEYWORDS = [
 # Curated translation fixes for English leaks
 curated_fixes = {
     "b_49": {
-        "desc_es": "Extenso parque paisajístico con jardines temáticos de Asia, Oriente Medio y Europa con un teleférico panorámico."
+        "desc_es": "Extenso parque paisajístico con jardines temáticos de Asia, Oriente Medio y Europa con un teleférico panorámico.",
+        "desc_de": "Weitläufiger Landschaftspark in Berlin-Marzahn mit traditionellen Gartenkünsten aus Asien, dem Orient und Europa sowie Seilbahn."
     },
     "h_13": {
-        "desc_es": "Renombrado museo de artes aplicadas, diseño, fotografía y cultura visual en un edificio neorrenacentista."
+        "desc_es": "Renombrado museo de artes aplicadas, diseño, fotografía y cultura visual en un edificio neorrenacentista.",
+        "desc_de": "Renommiertes Museum für angewandte Kunst, Design, Fotografie und Mode nahe dem Hamburger Hauptbahnhof."
     },
     "h_33": {
-        "desc_es": "Experiencia sensorial inmersiva donde guías no videntes conducen a los visitantes a través de salas completamente a oscuras."
+        "desc_es": "Experiencia sensorial inmersiva donde guías no videntes conducen a los visitantes a través de salas completamente a oscuras.",
+        "desc_de": "Einzigartige Erlebnisausstellung in der Speicherstadt, bei der blinde Guides Besucher durch völlig abgedunkelte Räume führen."
     }
 }
 
