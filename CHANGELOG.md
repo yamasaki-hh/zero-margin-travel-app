@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.2.0] - 2026-08-15 (Complete 6-Language Multilingual Spot Name & Card Translation Fix)
+
+### 🌐 Multilingual Display Resolution & Spot Cards i18n
+- **Full Multilingual Spot Names & Prices Schema**: Populated `name_en`, `name_ja`, `name_es`, `name_zh`, `name_fr`, `name_de`, `price_en`, `price_ja`, `price_es`, `price_zh`, `price_fr`, and `price_de` across all **410 tourist spots** in `data/cities/*.json` and `candidateSpotsGrid`.
+- **Dynamic Card i18n Localizer Getters**: Integrated `getLocalizedSpotName(spot)`, `getLocalizedDesc(spot)`, `getLocalizedTip(spot)`, `getLocalizedPrice(spot)`, `getLocalizedCategory(category)`, and `getLocalizedZone(locationZone)` into `AITravelEngine`.
+- **Seamless Language Switching**: Switching language in the top navbar (`#globalLanguageSelect`) now dynamically updates spot card titles, descriptions, category badges, suburban/city zone badges, price badges, modal contents, and route item cards natively across EN, JA, ES, ZH, FR, and DE.
+- **Clean Static HTML Elimination**: Removed static English HTML cards from `index.html` to guarantee 100% dynamic localized card rendering from the aggregated `candidateSpotsDatabase`.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=71.0`.
+
+---
+
 ## 🏷️ [v4.1.0] - 2026-08-15 (Toulouse, France City Addition — 39 Curated Spots & 6-Language Translations)
 
 ### 🏛️ New City Module: Toulouse ("La Ville Rose")

@@ -29,7 +29,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Marienplatz & New Town Hall",
+      "name_ja": "Marienplatz & New Town Hall",
+      "name_es": "Marienplatz & New Town Hall",
+      "name_zh": "Marienplatz & New Town Hall",
+      "name_fr": "Marienplatz & New Town Hall",
+      "name_de": "Marienplatz & New Town Hall",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_2",
@@ -58,7 +70,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "English Garden & Eisbachwave",
+      "name_ja": "English Garden & Eisbachwave",
+      "name_es": "English Garden & Eisbachwave",
+      "name_zh": "English Garden & Eisbachwave",
+      "name_fr": "English Garden & Eisbachwave",
+      "name_de": "English Garden & Eisbachwave",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_3",
@@ -87,7 +111,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Nymphenburg Palace",
+      "name_ja": "Nymphenburg Palace",
+      "name_es": "Nymphenburg Palace",
+      "name_zh": "Nymphenburg Palace",
+      "name_fr": "Nymphenburg Palace",
+      "name_de": "Nymphenburg Palace",
+      "price_en": "Palace: €10",
+      "price_ja": "Palace: €10",
+      "price_es": "Palace: €10",
+      "price_zh": "Palace: €10",
+      "price_fr": "Palace: €10",
+      "price_de": "Palace: €10"
     },
     {
       "id": "m_4",
@@ -116,7 +152,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Munich Residenz",
+      "name_ja": "Munich Residenz",
+      "name_es": "Munich Residenz",
+      "name_zh": "Munich Residenz",
+      "name_fr": "Munich Residenz",
+      "name_de": "Munich Residenz",
+      "price_en": "Residenz: €10",
+      "price_ja": "Residenz: €10",
+      "price_es": "Residenz: €10",
+      "price_zh": "Residenz: €10",
+      "price_fr": "Residenz: €10",
+      "price_de": "Residenz: €10"
     },
     {
       "id": "m_5",
@@ -145,7 +193,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_ja": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_es": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_zh": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_fr": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_de": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_6",
@@ -174,7 +234,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "BMW Welt & BMW Museum",
+      "name_ja": "BMW Welt & BMW Museum",
+      "name_es": "BMW Welt & BMW Museum",
+      "name_zh": "BMW Welt & BMW Museum",
+      "name_fr": "BMW Welt & BMW Museum",
+      "name_de": "BMW Welt & BMW Museum",
+      "price_en": "Museum: €10",
+      "price_ja": "Museum: €10",
+      "price_es": "Museum: €10",
+      "price_zh": "Museum: €10",
+      "price_fr": "Museum: €10",
+      "price_de": "Museum: €10"
     },
     {
       "id": "m_7",
@@ -203,7 +275,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Deutsches Museum",
+      "name_ja": "Deutsches Museum",
+      "name_es": "Deutsches Museum",
+      "name_zh": "Deutsches Museum",
+      "name_fr": "Deutsches Museum",
+      "name_de": "Deutsches Museum",
+      "price_en": "Entry: €15",
+      "price_ja": "Entry: €15",
+      "price_es": "Entry: €15",
+      "price_zh": "Entry: €15",
+      "price_fr": "Entry: €15",
+      "price_de": "Entry: €15"
     },
     {
       "id": "m_8",
@@ -232,7 +316,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pinakothek Museums (Alte & Neue)",
+      "name_ja": "Pinakothek Museums (Alte & Neue)",
+      "name_es": "Pinakothek Museums (Alte & Neue)",
+      "name_zh": "Pinakothek Museums (Alte & Neue)",
+      "name_fr": "Pinakothek Museums (Alte & Neue)",
+      "name_de": "Pinakothek Museums (Alte & Neue)",
+      "price_en": "Entry: €7–€10",
+      "price_ja": "Entry: €7–€10",
+      "price_es": "Entry: €7–€10",
+      "price_zh": "Entry: €7–€10",
+      "price_fr": "Entry: €7–€10",
+      "price_de": "Entry: €7–€10"
     },
     {
       "id": "m_9",
@@ -261,7 +357,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Viktualienmarkt",
+      "name_ja": "Viktualienmarkt",
+      "name_es": "Viktualienmarkt",
+      "name_zh": "Viktualienmarkt",
+      "name_fr": "Viktualienmarkt",
+      "name_de": "Viktualienmarkt",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_10",
@@ -290,7 +398,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Augustiner-Keller",
+      "name_ja": "Augustiner-Keller",
+      "name_es": "Augustiner-Keller",
+      "name_zh": "Augustiner-Keller",
+      "name_fr": "Augustiner-Keller",
+      "name_de": "Augustiner-Keller",
+      "price_en": "Mass Beer: €10.80",
+      "price_ja": "Mass Beer: €10.80",
+      "price_es": "Mass Beer: €10.80",
+      "price_zh": "Mass Beer: €10.80",
+      "price_fr": "Mass Beer: €10.80",
+      "price_de": "Mass Beer: €10.80"
     },
     {
       "id": "m_11",
@@ -319,7 +439,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Hofbräuhaus München",
+      "name_ja": "Hofbräuhaus München",
+      "name_es": "Hofbräuhaus München",
+      "name_zh": "Hofbräuhaus München",
+      "name_fr": "Hofbräuhaus München",
+      "name_de": "Hofbräuhaus München",
+      "price_en": "Mains: €14–€22",
+      "price_ja": "Mains: €14–€22",
+      "price_es": "Mains: €14–€22",
+      "price_zh": "Mains: €14–€22",
+      "price_fr": "Mains: €14–€22",
+      "price_de": "Mains: €14–€22"
     },
     {
       "id": "m_12",
@@ -348,7 +480,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Café Frischhut (Schmalznudel)",
+      "name_ja": "Café Frischhut (Schmalznudel)",
+      "name_es": "Café Frischhut (Schmalznudel)",
+      "name_zh": "Café Frischhut (Schmalznudel)",
+      "name_fr": "Café Frischhut (Schmalznudel)",
+      "name_de": "Café Frischhut (Schmalznudel)",
+      "price_en": "Donuts: €2.80",
+      "price_ja": "Donuts: €2.80",
+      "price_es": "Donuts: €2.80",
+      "price_zh": "Donuts: €2.80",
+      "price_fr": "Donuts: €2.80",
+      "price_de": "Donuts: €2.80"
     }
   ]
 }

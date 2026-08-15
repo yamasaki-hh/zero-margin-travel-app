@@ -29,7 +29,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cologne Cathedral (Kölner Dom)",
+      "name_ja": "Cologne Cathedral (Kölner Dom)",
+      "name_es": "Cologne Cathedral (Kölner Dom)",
+      "name_zh": "Cologne Cathedral (Kölner Dom)",
+      "name_fr": "Cologne Cathedral (Kölner Dom)",
+      "name_de": "Cologne Cathedral (Kölner Dom)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "c_2",
@@ -58,7 +70,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Hohenzollern Bridge (Love Locks)",
+      "name_ja": "Hohenzollern Bridge (Love Locks)",
+      "name_es": "Hohenzollern Bridge (Love Locks)",
+      "name_zh": "Hohenzollern Bridge (Love Locks)",
+      "name_fr": "Hohenzollern Bridge (Love Locks)",
+      "name_de": "Hohenzollern Bridge (Love Locks)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "c_3",
@@ -87,7 +111,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Great St. Martin Church",
+      "name_ja": "Great St. Martin Church",
+      "name_es": "Great St. Martin Church",
+      "name_zh": "Great St. Martin Church",
+      "name_fr": "Great St. Martin Church",
+      "name_de": "Great St. Martin Church",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "c_4",
@@ -116,7 +152,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cologne Chocolate Museum",
+      "name_ja": "Cologne Chocolate Museum",
+      "name_es": "Cologne Chocolate Museum",
+      "name_zh": "Cologne Chocolate Museum",
+      "name_fr": "Cologne Chocolate Museum",
+      "name_de": "Cologne Chocolate Museum",
+      "price_en": "Entry: €14.50",
+      "price_ja": "Entry: €14.50",
+      "price_es": "Entry: €14.50",
+      "price_zh": "Entry: €14.50",
+      "price_fr": "Entry: €14.50",
+      "price_de": "Entry: €14.50"
     },
     {
       "id": "c_5",
@@ -145,7 +193,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Museum Ludwig",
+      "name_ja": "Museum Ludwig",
+      "name_es": "Museum Ludwig",
+      "name_zh": "Museum Ludwig",
+      "name_fr": "Museum Ludwig",
+      "name_de": "Museum Ludwig",
+      "price_en": "Entry: €13",
+      "price_ja": "Entry: €13",
+      "price_es": "Entry: €13",
+      "price_zh": "Entry: €13",
+      "price_fr": "Entry: €13",
+      "price_de": "Entry: €13"
     },
     {
       "id": "c_6",
@@ -174,7 +234,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Brauhaus Sion",
+      "name_ja": "Brauhaus Sion",
+      "name_es": "Brauhaus Sion",
+      "name_zh": "Brauhaus Sion",
+      "name_fr": "Brauhaus Sion",
+      "name_de": "Brauhaus Sion",
+      "price_en": "Kölsch: €2.20",
+      "price_ja": "Kölsch: €2.20",
+      "price_es": "Kölsch: €2.20",
+      "price_zh": "Kölsch: €2.20",
+      "price_fr": "Kölsch: €2.20",
+      "price_de": "Kölsch: €2.20"
     },
     {
       "id": "c_7",
@@ -203,7 +275,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Früh am Dom",
+      "name_ja": "Früh am Dom",
+      "name_es": "Früh am Dom",
+      "name_zh": "Früh am Dom",
+      "name_fr": "Früh am Dom",
+      "name_de": "Früh am Dom",
+      "price_en": "Mains: €14–€24",
+      "price_ja": "Mains: €14–€24",
+      "price_es": "Mains: €14–€24",
+      "price_zh": "Mains: €14–€24",
+      "price_fr": "Mains: €14–€24",
+      "price_de": "Mains: €14–€24"
     },
     {
       "id": "c_8",
@@ -232,7 +316,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Bei Oma Kleinmann",
+      "name_ja": "Bei Oma Kleinmann",
+      "name_es": "Bei Oma Kleinmann",
+      "name_zh": "Bei Oma Kleinmann",
+      "name_fr": "Bei Oma Kleinmann",
+      "name_de": "Bei Oma Kleinmann",
+      "price_en": "Schnitzel: €16–€24",
+      "price_ja": "Schnitzel: €16–€24",
+      "price_es": "Schnitzel: €16–€24",
+      "price_zh": "Schnitzel: €16–€24",
+      "price_fr": "Schnitzel: €16–€24",
+      "price_de": "Schnitzel: €16–€24"
     },
     {
       "id": "c_9",
@@ -261,7 +357,19 @@
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Café Reichard",
+      "name_ja": "Café Reichard",
+      "name_es": "Café Reichard",
+      "name_zh": "Café Reichard",
+      "name_fr": "Café Reichard",
+      "name_de": "Café Reichard",
+      "price_en": "Cakes: €6.00",
+      "price_ja": "Cakes: €6.00",
+      "price_es": "Cakes: €6.00",
+      "price_zh": "Cakes: €6.00",
+      "price_fr": "Cakes: €6.00",
+      "price_de": "Cakes: €6.00"
     }
   ]
 }

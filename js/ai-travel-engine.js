@@ -35,7 +35,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Rijksmuseum",
+      "name_ja": "Rijksmuseum",
+      "name_es": "Rijksmuseum",
+      "name_zh": "Rijksmuseum",
+      "name_fr": "Rijksmuseum",
+      "name_de": "Rijksmuseum",
+      "price_en": "Entry: €22.50",
+      "price_ja": "Entry: €22.50",
+      "price_es": "Entry: €22.50",
+      "price_zh": "Entry: €22.50",
+      "price_fr": "Entry: €22.50",
+      "price_de": "Entry: €22.50"
     },
     {
       "id": "a_2",
@@ -64,7 +76,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Van Gogh Museum",
+      "name_ja": "Van Gogh Museum",
+      "name_es": "Van Gogh Museum",
+      "name_zh": "Van Gogh Museum",
+      "name_fr": "Van Gogh Museum",
+      "name_de": "Van Gogh Museum",
+      "price_en": "Entry: €22.00",
+      "price_ja": "Entry: €22.00",
+      "price_es": "Entry: €22.00",
+      "price_zh": "Entry: €22.00",
+      "price_fr": "Entry: €22.00",
+      "price_de": "Entry: €22.00"
     },
     {
       "id": "a_3",
@@ -93,7 +117,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Anne Frank House",
+      "name_ja": "Anne Frank House",
+      "name_es": "Anne Frank House",
+      "name_zh": "Anne Frank House",
+      "name_fr": "Anne Frank House",
+      "name_de": "Anne Frank House",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "a_4",
@@ -122,7 +158,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Nine Streets (De Negen Straatjes)",
+      "name_ja": "Nine Streets (De Negen Straatjes)",
+      "name_es": "Nine Streets (De Negen Straatjes)",
+      "name_zh": "Nine Streets (De Negen Straatjes)",
+      "name_fr": "Nine Streets (De Negen Straatjes)",
+      "name_de": "Nine Streets (De Negen Straatjes)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "a_5",
@@ -151,7 +199,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Zaanse Schans Windmills",
+      "name_ja": "Zaanse Schans Windmills",
+      "name_es": "Zaanse Schans Windmills",
+      "name_zh": "Zaanse Schans Windmills",
+      "name_fr": "Zaanse Schans Windmills",
+      "name_de": "Zaanse Schans Windmills",
+      "price_en": "Free village access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "a_6",
@@ -180,7 +240,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Vondelpark",
+      "name_ja": "Vondelpark",
+      "name_es": "Vondelpark",
+      "name_zh": "Vondelpark",
+      "name_fr": "Vondelpark",
+      "name_de": "Vondelpark",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "a_7",
@@ -209,7 +281,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Royal Palace of Amsterdam",
+      "name_ja": "Royal Palace of Amsterdam",
+      "name_es": "Royal Palace of Amsterdam",
+      "name_zh": "Royal Palace of Amsterdam",
+      "name_fr": "Royal Palace of Amsterdam",
+      "name_de": "Royal Palace of Amsterdam",
+      "price_en": "Entry: €12.50",
+      "price_ja": "Entry: €12.50",
+      "price_es": "Entry: €12.50",
+      "price_zh": "Entry: €12.50",
+      "price_fr": "Entry: €12.50",
+      "price_de": "Entry: €12.50"
     },
     {
       "id": "a_8",
@@ -238,7 +322,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Oude Kerk",
+      "name_ja": "Oude Kerk",
+      "name_es": "Oude Kerk",
+      "name_zh": "Oude Kerk",
+      "name_fr": "Oude Kerk",
+      "name_de": "Oude Kerk",
+      "price_en": "Entry: €12",
+      "price_ja": "Entry: €12",
+      "price_es": "Entry: €12",
+      "price_zh": "Entry: €12",
+      "price_fr": "Entry: €12",
+      "price_de": "Entry: €12"
     },
     {
       "id": "a_9",
@@ -267,7 +363,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Begijnhof Courtyard",
+      "name_ja": "Begijnhof Courtyard",
+      "name_es": "Begijnhof Courtyard",
+      "name_zh": "Begijnhof Courtyard",
+      "name_fr": "Begijnhof Courtyard",
+      "name_de": "Begijnhof Courtyard",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "a_10",
@@ -296,7 +404,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Bloemenmarkt (Floating Flower Market)",
+      "name_ja": "Bloemenmarkt (Floating Flower Market)",
+      "name_es": "Bloemenmarkt (Floating Flower Market)",
+      "name_zh": "Bloemenmarkt (Floating Flower Market)",
+      "name_fr": "Bloemenmarkt (Floating Flower Market)",
+      "name_de": "Bloemenmarkt (Floating Flower Market)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "a_11",
@@ -325,7 +445,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Stedelijk Museum Amsterdam",
+      "name_ja": "Stedelijk Museum Amsterdam",
+      "name_es": "Stedelijk Museum Amsterdam",
+      "name_zh": "Stedelijk Museum Amsterdam",
+      "name_fr": "Stedelijk Museum Amsterdam",
+      "name_de": "Stedelijk Museum Amsterdam",
+      "price_en": "Entry: €22.50",
+      "price_ja": "Entry: €22.50",
+      "price_es": "Entry: €22.50",
+      "price_zh": "Entry: €22.50",
+      "price_fr": "Entry: €22.50",
+      "price_de": "Entry: €22.50"
     },
     {
       "id": "a_12",
@@ -354,7 +486,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Rembrandt House Museum",
+      "name_ja": "Rembrandt House Museum",
+      "name_es": "Rembrandt House Museum",
+      "name_zh": "Rembrandt House Museum",
+      "name_fr": "Rembrandt House Museum",
+      "name_de": "Rembrandt House Museum",
+      "price_en": "Entry: €17.50",
+      "price_ja": "Entry: €17.50",
+      "price_es": "Entry: €17.50",
+      "price_zh": "Entry: €17.50",
+      "price_fr": "Entry: €17.50",
+      "price_de": "Entry: €17.50"
     },
     {
       "id": "a_13",
@@ -383,7 +527,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "NEMO Science Museum",
+      "name_ja": "NEMO Science Museum",
+      "name_es": "NEMO Science Museum",
+      "name_zh": "NEMO Science Museum",
+      "name_fr": "NEMO Science Museum",
+      "name_de": "NEMO Science Museum",
+      "price_en": "Entry: €17.50",
+      "price_ja": "Entry: €17.50",
+      "price_es": "Entry: €17.50",
+      "price_zh": "Entry: €17.50",
+      "price_fr": "Entry: €17.50",
+      "price_de": "Entry: €17.50"
     },
     {
       "id": "a_14",
@@ -412,7 +568,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "MOCO Museum",
+      "name_ja": "MOCO Museum",
+      "name_es": "MOCO Museum",
+      "name_zh": "MOCO Museum",
+      "name_fr": "MOCO Museum",
+      "name_de": "MOCO Museum",
+      "price_en": "Entry: €21.95",
+      "price_ja": "Entry: €21.95",
+      "price_es": "Entry: €21.95",
+      "price_zh": "Entry: €21.95",
+      "price_fr": "Entry: €21.95",
+      "price_de": "Entry: €21.95"
     },
     {
       "id": "a_15",
@@ -441,7 +609,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Café de Klos",
+      "name_ja": "Café de Klos",
+      "name_es": "Café de Klos",
+      "name_zh": "Café de Klos",
+      "name_fr": "Café de Klos",
+      "name_de": "Café de Klos",
+      "price_en": "Ribs: €22–€28",
+      "price_ja": "Ribs: €22–€28",
+      "price_es": "Ribs: €22–€28",
+      "price_zh": "Ribs: €22–€28",
+      "price_fr": "Ribs: €22–€28",
+      "price_de": "Ribs: €22–€28"
     },
     {
       "id": "a_16",
@@ -470,7 +650,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Foodhallen Amsterdam",
+      "name_ja": "Foodhallen Amsterdam",
+      "name_es": "Foodhallen Amsterdam",
+      "name_zh": "Foodhallen Amsterdam",
+      "name_fr": "Foodhallen Amsterdam",
+      "name_de": "Foodhallen Amsterdam",
+      "price_en": "Stalls: €8–€18",
+      "price_ja": "Stalls: €8–€18",
+      "price_es": "Stalls: €8–€18",
+      "price_zh": "Stalls: €8–€18",
+      "price_fr": "Stalls: €8–€18",
+      "price_de": "Stalls: €8–€18"
     },
     {
       "id": "a_17",
@@ -499,7 +691,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Moeders",
+      "name_ja": "Moeders",
+      "name_es": "Moeders",
+      "name_zh": "Moeders",
+      "name_fr": "Moeders",
+      "name_de": "Moeders",
+      "price_en": "Mains: €17–€24",
+      "price_ja": "Mains: €17–€24",
+      "price_es": "Mains: €17–€24",
+      "price_zh": "Mains: €17–€24",
+      "price_fr": "Mains: €17–€24",
+      "price_de": "Mains: €17–€24"
     },
     {
       "id": "a_18",
@@ -528,7 +732,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Van Stapele Koekmakerij",
+      "name_ja": "Van Stapele Koekmakerij",
+      "name_es": "Van Stapele Koekmakerij",
+      "name_zh": "Van Stapele Koekmakerij",
+      "name_fr": "Van Stapele Koekmakerij",
+      "name_de": "Van Stapele Koekmakerij",
+      "price_en": "Cookie: €3.00",
+      "price_ja": "Cookie: €3.00",
+      "price_es": "Cookie: €3.00",
+      "price_zh": "Cookie: €3.00",
+      "price_fr": "Cookie: €3.00",
+      "price_de": "Cookie: €3.00"
     },
     {
       "id": "a_19",
@@ -557,7 +773,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Winkel 43",
+      "name_ja": "Winkel 43",
+      "name_es": "Winkel 43",
+      "name_zh": "Winkel 43",
+      "name_fr": "Winkel 43",
+      "name_de": "Winkel 43",
+      "price_en": "Pie: €5.00",
+      "price_ja": "Pie: €5.00",
+      "price_es": "Pie: €5.00",
+      "price_zh": "Pie: €5.00",
+      "price_fr": "Pie: €5.00",
+      "price_de": "Pie: €5.00"
     },
     {
       "id": "a_20",
@@ -586,7 +814,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Brouwerij 't IJ",
+      "name_ja": "Brouwerij 't IJ",
+      "name_es": "Brouwerij 't IJ",
+      "name_zh": "Brouwerij 't IJ",
+      "name_fr": "Brouwerij 't IJ",
+      "name_de": "Brouwerij 't IJ",
+      "price_en": "Tasting Flight: €12",
+      "price_ja": "Tasting Flight: €12",
+      "price_es": "Tasting Flight: €12",
+      "price_zh": "Tasting Flight: €12",
+      "price_fr": "Tasting Flight: €12",
+      "price_de": "Tasting Flight: €12"
     }
   ],
   "Berlin, Germany": [
@@ -617,7 +857,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Brandenburg Gate",
+      "name_ja": "Brandenburg Gate",
+      "name_es": "Brandenburg Gate",
+      "name_zh": "Brandenburg Gate",
+      "name_fr": "Brandenburg Gate",
+      "name_de": "Brandenburg Gate",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b2",
@@ -646,7 +898,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Reichstag Building Dome",
+      "name_ja": "Reichstag Building Dome",
+      "name_es": "Reichstag Building Dome",
+      "name_zh": "Reichstag Building Dome",
+      "name_fr": "Reichstag Building Dome",
+      "name_de": "Reichstag Building Dome",
+      "price_en": "Free (booking required)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b3",
@@ -675,7 +939,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "East Side Gallery Berlin Wall",
+      "name_ja": "East Side Gallery Berlin Wall",
+      "name_es": "East Side Gallery Berlin Wall",
+      "name_zh": "East Side Gallery Berlin Wall",
+      "name_fr": "East Side Gallery Berlin Wall",
+      "name_de": "East Side Gallery Berlin Wall",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b4",
@@ -704,7 +980,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Berlin Cathedral (Berliner Dom)",
+      "name_ja": "Berlin Cathedral (Berliner Dom)",
+      "name_es": "Berlin Cathedral (Berliner Dom)",
+      "name_zh": "Berlin Cathedral (Berliner Dom)",
+      "name_fr": "Berlin Cathedral (Berliner Dom)",
+      "name_de": "Berlin Cathedral (Berliner Dom)",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "b_b5",
@@ -733,7 +1021,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Charlottenburg Palace",
+      "name_ja": "Charlottenburg Palace",
+      "name_es": "Charlottenburg Palace",
+      "name_zh": "Charlottenburg Palace",
+      "name_fr": "Charlottenburg Palace",
+      "name_de": "Charlottenburg Palace",
+      "price_en": "Palace: €12",
+      "price_ja": "Palace: €12",
+      "price_es": "Palace: €12",
+      "price_zh": "Palace: €12",
+      "price_fr": "Palace: €12",
+      "price_de": "Palace: €12"
     },
     {
       "id": "b_b6",
@@ -762,7 +1062,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Holocaust Memorial",
+      "name_ja": "Holocaust Memorial",
+      "name_es": "Holocaust Memorial",
+      "name_zh": "Holocaust Memorial",
+      "name_fr": "Holocaust Memorial",
+      "name_de": "Holocaust Memorial",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b7",
@@ -791,7 +1103,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Gendarmenmarkt Square",
+      "name_ja": "Gendarmenmarkt Square",
+      "name_es": "Gendarmenmarkt Square",
+      "name_zh": "Gendarmenmarkt Square",
+      "name_fr": "Gendarmenmarkt Square",
+      "name_de": "Gendarmenmarkt Square",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b8",
@@ -820,7 +1144,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Victory Column (Siegessäule)",
+      "name_ja": "Victory Column (Siegessäule)",
+      "name_es": "Victory Column (Siegessäule)",
+      "name_zh": "Victory Column (Siegessäule)",
+      "name_fr": "Victory Column (Siegessäule)",
+      "name_de": "Victory Column (Siegessäule)",
+      "price_en": "Climb: €4",
+      "price_ja": "Climb: €4",
+      "price_es": "Climb: €4",
+      "price_zh": "Climb: €4",
+      "price_fr": "Climb: €4",
+      "price_de": "Climb: €4"
     },
     {
       "id": "b_b9",
@@ -849,7 +1185,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Berlin TV Tower (Fernsehturm)",
+      "name_ja": "Berlin TV Tower (Fernsehturm)",
+      "name_es": "Berlin TV Tower (Fernsehturm)",
+      "name_zh": "Berlin TV Tower (Fernsehturm)",
+      "name_fr": "Berlin TV Tower (Fernsehturm)",
+      "name_de": "Berlin TV Tower (Fernsehturm)",
+      "price_en": "Observation: €22.50",
+      "price_ja": "Observation: €22.50",
+      "price_es": "Observation: €22.50",
+      "price_zh": "Observation: €22.50",
+      "price_fr": "Observation: €22.50",
+      "price_de": "Observation: €22.50"
     },
     {
       "id": "b_b10",
@@ -878,7 +1226,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Checkpoint Charlie",
+      "name_ja": "Checkpoint Charlie",
+      "name_es": "Checkpoint Charlie",
+      "name_zh": "Checkpoint Charlie",
+      "name_fr": "Checkpoint Charlie",
+      "name_de": "Checkpoint Charlie",
+      "price_en": "Free outdoor viewing",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b11",
@@ -907,7 +1267,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Kaiser Wilhelm Memorial Church",
+      "name_ja": "Kaiser Wilhelm Memorial Church",
+      "name_es": "Kaiser Wilhelm Memorial Church",
+      "name_zh": "Kaiser Wilhelm Memorial Church",
+      "name_fr": "Kaiser Wilhelm Memorial Church",
+      "name_de": "Kaiser Wilhelm Memorial Church",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b12",
@@ -936,7 +1308,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Tiergarten Park",
+      "name_ja": "Tiergarten Park",
+      "name_es": "Tiergarten Park",
+      "name_zh": "Tiergarten Park",
+      "name_fr": "Tiergarten Park",
+      "name_de": "Tiergarten Park",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b13",
@@ -965,7 +1349,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Hackesche Höfe",
+      "name_ja": "Hackesche Höfe",
+      "name_es": "Hackesche Höfe",
+      "name_zh": "Hackesche Höfe",
+      "name_fr": "Hackesche Höfe",
+      "name_de": "Hackesche Höfe",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b14",
@@ -994,7 +1390,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Museum Island Berlin",
+      "name_ja": "Museum Island Berlin",
+      "name_es": "Museum Island Berlin",
+      "name_zh": "Museum Island Berlin",
+      "name_fr": "Museum Island Berlin",
+      "name_de": "Museum Island Berlin",
+      "price_en": "Day Pass: €19",
+      "price_ja": "Day Pass: €19",
+      "price_es": "Day Pass: €19",
+      "price_zh": "Day Pass: €19",
+      "price_fr": "Day Pass: €19",
+      "price_de": "Day Pass: €19"
     },
     {
       "id": "b_b15",
@@ -1023,7 +1431,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pergamon Museum",
+      "name_ja": "Pergamon Museum",
+      "name_es": "Pergamon Museum",
+      "name_zh": "Pergamon Museum",
+      "name_fr": "Pergamon Museum",
+      "name_de": "Pergamon Museum",
+      "price_en": "Entry: €12",
+      "price_ja": "Entry: €12",
+      "price_es": "Entry: €12",
+      "price_zh": "Entry: €12",
+      "price_fr": "Entry: €12",
+      "price_de": "Entry: €12"
     },
     {
       "id": "b_b16",
@@ -1052,7 +1472,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Neues Museum (Nefertiti Bust)",
+      "name_ja": "Neues Museum (Nefertiti Bust)",
+      "name_es": "Neues Museum (Nefertiti Bust)",
+      "name_zh": "Neues Museum (Nefertiti Bust)",
+      "name_fr": "Neues Museum (Nefertiti Bust)",
+      "name_de": "Neues Museum (Nefertiti Bust)",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "b_b17",
@@ -1081,7 +1513,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jewish Museum Berlin",
+      "name_ja": "Jewish Museum Berlin",
+      "name_es": "Jewish Museum Berlin",
+      "name_zh": "Jewish Museum Berlin",
+      "name_fr": "Jewish Museum Berlin",
+      "name_de": "Jewish Museum Berlin",
+      "price_en": "Free permanent display",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b18",
@@ -1110,7 +1554,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Hamburger Bahnhof",
+      "name_ja": "Hamburger Bahnhof",
+      "name_es": "Hamburger Bahnhof",
+      "name_zh": "Hamburger Bahnhof",
+      "name_fr": "Hamburger Bahnhof",
+      "name_de": "Hamburger Bahnhof",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "b_b19",
@@ -1139,7 +1595,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Topography of Terror",
+      "name_ja": "Topography of Terror",
+      "name_es": "Topography of Terror",
+      "name_zh": "Topography of Terror",
+      "name_fr": "Topography of Terror",
+      "name_de": "Topography of Terror",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "b_b20",
@@ -1168,7 +1636,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "DDR Museum",
+      "name_ja": "DDR Museum",
+      "name_es": "DDR Museum",
+      "name_zh": "DDR Museum",
+      "name_fr": "DDR Museum",
+      "name_de": "DDR Museum",
+      "price_en": "Entry: €12.50",
+      "price_ja": "Entry: €12.50",
+      "price_es": "Entry: €12.50",
+      "price_zh": "Entry: €12.50",
+      "price_fr": "Entry: €12.50",
+      "price_de": "Entry: €12.50"
     },
     {
       "id": "b_b21",
@@ -1197,7 +1677,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Mustafa's Gemüse Kebab",
+      "name_ja": "Mustafa's Gemüse Kebab",
+      "name_es": "Mustafa's Gemüse Kebab",
+      "name_zh": "Mustafa's Gemüse Kebab",
+      "name_fr": "Mustafa's Gemüse Kebab",
+      "name_de": "Mustafa's Gemüse Kebab",
+      "price_en": "Kebab: €7.00",
+      "price_ja": "Kebab: €7.00",
+      "price_es": "Kebab: €7.00",
+      "price_zh": "Kebab: €7.00",
+      "price_fr": "Kebab: €7.00",
+      "price_de": "Kebab: €7.00"
     },
     {
       "id": "b_b22",
@@ -1226,7 +1718,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Curry 36",
+      "name_ja": "Curry 36",
+      "name_es": "Curry 36",
+      "name_zh": "Curry 36",
+      "name_fr": "Curry 36",
+      "name_de": "Curry 36",
+      "price_en": "Currywurst: €4.50",
+      "price_ja": "Currywurst: €4.50",
+      "price_es": "Currywurst: €4.50",
+      "price_zh": "Currywurst: €4.50",
+      "price_fr": "Currywurst: €4.50",
+      "price_de": "Currywurst: €4.50"
     },
     {
       "id": "b_b23",
@@ -1255,7 +1759,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Prater Biergarten",
+      "name_ja": "Prater Biergarten",
+      "name_es": "Prater Biergarten",
+      "name_zh": "Prater Biergarten",
+      "name_fr": "Prater Biergarten",
+      "name_de": "Prater Biergarten",
+      "price_en": "Beer & Bratwurst: €12",
+      "price_ja": "Beer & Bratwurst: €12",
+      "price_es": "Beer & Bratwurst: €12",
+      "price_zh": "Beer & Bratwurst: €12",
+      "price_fr": "Beer & Bratwurst: €12",
+      "price_de": "Beer & Bratwurst: €12"
     },
     {
       "id": "b_b24",
@@ -1284,7 +1800,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Zur Letzten Instanz",
+      "name_ja": "Zur Letzten Instanz",
+      "name_es": "Zur Letzten Instanz",
+      "name_zh": "Zur Letzten Instanz",
+      "name_fr": "Zur Letzten Instanz",
+      "name_de": "Zur Letzten Instanz",
+      "price_en": "Mains: €18–€28",
+      "price_ja": "Mains: €18–€28",
+      "price_es": "Mains: €18–€28",
+      "price_zh": "Mains: €18–€28",
+      "price_fr": "Mains: €18–€28",
+      "price_de": "Mains: €18–€28"
     },
     {
       "id": "b_b25",
@@ -1313,7 +1841,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Katz Orange",
+      "name_ja": "Katz Orange",
+      "name_es": "Katz Orange",
+      "name_zh": "Katz Orange",
+      "name_fr": "Katz Orange",
+      "name_de": "Katz Orange",
+      "price_en": "Mains: €24–€38",
+      "price_ja": "Mains: €24–€38",
+      "price_es": "Mains: €24–€38",
+      "price_zh": "Mains: €24–€38",
+      "price_fr": "Mains: €24–€38",
+      "price_de": "Mains: €24–€38"
     },
     {
       "id": "b_b26",
@@ -1342,7 +1882,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Borchardt",
+      "name_ja": "Borchardt",
+      "name_es": "Borchardt",
+      "name_zh": "Borchardt",
+      "name_fr": "Borchardt",
+      "name_de": "Borchardt",
+      "price_en": "Schnitzel: €32",
+      "price_ja": "Schnitzel: €32",
+      "price_es": "Schnitzel: €32",
+      "price_zh": "Schnitzel: €32",
+      "price_fr": "Schnitzel: €32",
+      "price_de": "Schnitzel: €32"
     },
     {
       "id": "b_b27",
@@ -1371,7 +1923,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grill Royal",
+      "name_ja": "Grill Royal",
+      "name_es": "Grill Royal",
+      "name_zh": "Grill Royal",
+      "name_fr": "Grill Royal",
+      "name_de": "Grill Royal",
+      "price_en": "Steaks: €38–€75",
+      "price_ja": "Steaks: €38–€75",
+      "price_es": "Steaks: €38–€75",
+      "price_zh": "Steaks: €38–€75",
+      "price_fr": "Steaks: €38–€75",
+      "price_de": "Steaks: €38–€75"
     },
     {
       "id": "b_b28",
@@ -1400,7 +1964,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Monsieur Vuong",
+      "name_ja": "Monsieur Vuong",
+      "name_es": "Monsieur Vuong",
+      "name_zh": "Monsieur Vuong",
+      "name_fr": "Monsieur Vuong",
+      "name_de": "Monsieur Vuong",
+      "price_en": "Dishes: €10–€16",
+      "price_ja": "Dishes: €10–€16",
+      "price_es": "Dishes: €10–€16",
+      "price_zh": "Dishes: €10–€16",
+      "price_fr": "Dishes: €10–€16",
+      "price_de": "Dishes: €10–€16"
     },
     {
       "id": "b_b29",
@@ -1429,7 +2005,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Zeit für Brot",
+      "name_ja": "Zeit für Brot",
+      "name_es": "Zeit für Brot",
+      "name_zh": "Zeit für Brot",
+      "name_fr": "Zeit für Brot",
+      "name_de": "Zeit für Brot",
+      "price_en": "Rolls: €3.80–€5",
+      "price_ja": "Rolls: €3.80–€5",
+      "price_es": "Rolls: €3.80–€5",
+      "price_zh": "Rolls: €3.80–€5",
+      "price_fr": "Rolls: €3.80–€5",
+      "price_de": "Rolls: €3.80–€5"
     },
     {
       "id": "b_b30",
@@ -1458,7 +2046,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "The Barn Coffee Roasters",
+      "name_ja": "The Barn Coffee Roasters",
+      "name_es": "The Barn Coffee Roasters",
+      "name_zh": "The Barn Coffee Roasters",
+      "name_fr": "The Barn Coffee Roasters",
+      "name_de": "The Barn Coffee Roasters",
+      "price_en": "Coffee: €4.50–€7",
+      "price_ja": "Coffee: €4.50–€7",
+      "price_es": "Coffee: €4.50–€7",
+      "price_zh": "Coffee: €4.50–€7",
+      "price_fr": "Coffee: €4.50–€7",
+      "price_de": "Coffee: €4.50–€7"
     },
     {
       "id": "b_b31",
@@ -1487,7 +2087,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "House of Small Wonder",
+      "name_ja": "House of Small Wonder",
+      "name_es": "House of Small Wonder",
+      "name_zh": "House of Small Wonder",
+      "name_fr": "House of Small Wonder",
+      "name_de": "House of Small Wonder",
+      "price_en": "Brunch: €14–€20",
+      "price_ja": "Brunch: €14–€20",
+      "price_es": "Brunch: €14–€20",
+      "price_zh": "Brunch: €14–€20",
+      "price_fr": "Brunch: €14–€20",
+      "price_de": "Brunch: €14–€20"
     },
     {
       "id": "b_b32",
@@ -1516,7 +2128,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Markthalle Neun",
+      "name_ja": "Markthalle Neun",
+      "name_es": "Markthalle Neun",
+      "name_zh": "Markthalle Neun",
+      "name_fr": "Markthalle Neun",
+      "name_de": "Markthalle Neun",
+      "price_en": "Dishes: €6–€14",
+      "price_ja": "Dishes: €6–€14",
+      "price_es": "Dishes: €6–€14",
+      "price_zh": "Dishes: €6–€14",
+      "price_fr": "Dishes: €6–€14",
+      "price_de": "Dishes: €6–€14"
     }
   ],
   "Bordeaux, France": [
@@ -1547,7 +2171,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place de la Bourse & Miroir d'eau",
+      "name_ja": "Place de la Bourse & Miroir d'eau",
+      "name_es": "Place de la Bourse & Miroir d'eau",
+      "name_zh": "Place de la Bourse & Miroir d'eau",
+      "name_fr": "Place de la Bourse & Miroir d'eau",
+      "name_de": "Place de la Bourse & Miroir d'eau",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_2",
@@ -1576,7 +2212,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grand Théâtre de Bordeaux",
+      "name_ja": "Grand Théâtre de Bordeaux",
+      "name_es": "Grand Théâtre de Bordeaux",
+      "name_zh": "Grand Théâtre de Bordeaux",
+      "name_fr": "Grand Théâtre de Bordeaux",
+      "name_de": "Grand Théâtre de Bordeaux",
+      "price_en": "Free exterior (Tours: €10)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_3",
@@ -1605,7 +2253,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cathédrale Saint-André & Tour Pey-Berland",
+      "name_ja": "Cathédrale Saint-André & Tour Pey-Berland",
+      "name_es": "Cathédrale Saint-André & Tour Pey-Berland",
+      "name_zh": "Cathédrale Saint-André & Tour Pey-Berland",
+      "name_fr": "Cathédrale Saint-André & Tour Pey-Berland",
+      "name_de": "Cathédrale Saint-André & Tour Pey-Berland",
+      "price_en": "Free Cathedral (Tower: €6)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_4",
@@ -1634,7 +2294,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Porte Cailhau",
+      "name_ja": "Porte Cailhau",
+      "name_es": "Porte Cailhau",
+      "name_zh": "Porte Cailhau",
+      "name_fr": "Porte Cailhau",
+      "name_de": "Porte Cailhau",
+      "price_en": "Free exterior (Entry: €5)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_5",
@@ -1663,7 +2335,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grosse Cloche",
+      "name_ja": "Grosse Cloche",
+      "name_es": "Grosse Cloche",
+      "name_zh": "Grosse Cloche",
+      "name_fr": "Grosse Cloche",
+      "name_de": "Grosse Cloche",
+      "price_en": "Free exterior",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_6",
@@ -1692,7 +2376,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Basilique Saint-Michel & Flèche Saint-Michel",
+      "name_ja": "Basilique Saint-Michel & Flèche Saint-Michel",
+      "name_es": "Basilique Saint-Michel & Flèche Saint-Michel",
+      "name_zh": "Basilique Saint-Michel & Flèche Saint-Michel",
+      "name_fr": "Basilique Saint-Michel & Flèche Saint-Michel",
+      "name_de": "Basilique Saint-Michel & Flèche Saint-Michel",
+      "price_en": "Free Basilica",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_7",
@@ -1721,7 +2417,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Monument aux Girondins (Place des Quinconces)",
+      "name_ja": "Monument aux Girondins (Place des Quinconces)",
+      "name_es": "Monument aux Girondins (Place des Quinconces)",
+      "name_zh": "Monument aux Girondins (Place des Quinconces)",
+      "name_fr": "Monument aux Girondins (Place des Quinconces)",
+      "name_de": "Monument aux Girondins (Place des Quinconces)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_8",
@@ -1750,7 +2458,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Palais Gallien (Gallo-Roman Amphitheatre)",
+      "name_ja": "Palais Gallien (Gallo-Roman Amphitheatre)",
+      "name_es": "Palais Gallien (Gallo-Roman Amphitheatre)",
+      "name_zh": "Palais Gallien (Gallo-Roman Amphitheatre)",
+      "name_fr": "Palais Gallien (Gallo-Roman Amphitheatre)",
+      "name_de": "Palais Gallien (Gallo-Roman Amphitheatre)",
+      "price_en": "Free exterior",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_9",
@@ -1779,7 +2499,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pont de Pierre",
+      "name_ja": "Pont de Pierre",
+      "name_es": "Pont de Pierre",
+      "name_zh": "Pont de Pierre",
+      "name_fr": "Pont de Pierre",
+      "name_de": "Pont de Pierre",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_10",
@@ -1808,7 +2540,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Château de Roquetaillade",
+      "name_ja": "Château de Roquetaillade",
+      "name_es": "Château de Roquetaillade",
+      "name_zh": "Château de Roquetaillade",
+      "name_fr": "Château de Roquetaillade",
+      "name_de": "Château de Roquetaillade",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "bo_11",
@@ -1837,7 +2581,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Château de La Brède (Montesquieu Estate)",
+      "name_ja": "Château de La Brède (Montesquieu Estate)",
+      "name_es": "Château de La Brède (Montesquieu Estate)",
+      "name_zh": "Château de La Brède (Montesquieu Estate)",
+      "name_fr": "Château de La Brède (Montesquieu Estate)",
+      "name_de": "Château de La Brède (Montesquieu Estate)",
+      "price_en": "Entry: €9",
+      "price_ja": "Entry: €9",
+      "price_es": "Entry: €9",
+      "price_zh": "Entry: €9",
+      "price_fr": "Entry: €9",
+      "price_de": "Entry: €9"
     },
     {
       "id": "bo_12",
@@ -1866,7 +2622,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cité du Vin",
+      "name_ja": "Cité du Vin",
+      "name_es": "Cité du Vin",
+      "name_zh": "Cité du Vin",
+      "name_fr": "Cité du Vin",
+      "name_de": "Cité du Vin",
+      "price_en": "Entry: €22",
+      "price_ja": "Entry: €22",
+      "price_es": "Entry: €22",
+      "price_zh": "Entry: €22",
+      "price_fr": "Entry: €22",
+      "price_de": "Entry: €22"
     },
     {
       "id": "bo_13",
@@ -1895,7 +2663,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Bassins des Lumières",
+      "name_ja": "Bassins des Lumières",
+      "name_es": "Bassins des Lumières",
+      "name_zh": "Bassins des Lumières",
+      "name_fr": "Bassins des Lumières",
+      "name_de": "Bassins des Lumières",
+      "price_en": "Entry: €15",
+      "price_ja": "Entry: €15",
+      "price_es": "Entry: €15",
+      "price_zh": "Entry: €15",
+      "price_fr": "Entry: €15",
+      "price_de": "Entry: €15"
     },
     {
       "id": "bo_14",
@@ -1924,7 +2704,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée d'Aquitaine",
+      "name_ja": "Musée d'Aquitaine",
+      "name_es": "Musée d'Aquitaine",
+      "name_zh": "Musée d'Aquitaine",
+      "name_fr": "Musée d'Aquitaine",
+      "name_de": "Musée d'Aquitaine",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "bo_15",
@@ -1953,7 +2745,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée des Beaux-Arts de Bordeaux",
+      "name_ja": "Musée des Beaux-Arts de Bordeaux",
+      "name_es": "Musée des Beaux-Arts de Bordeaux",
+      "name_zh": "Musée des Beaux-Arts de Bordeaux",
+      "name_fr": "Musée des Beaux-Arts de Bordeaux",
+      "name_de": "Musée des Beaux-Arts de Bordeaux",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "bo_16",
@@ -1982,7 +2786,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "CAPC Musée d'Art Contemporain",
+      "name_ja": "CAPC Musée d'Art Contemporain",
+      "name_es": "CAPC Musée d'Art Contemporain",
+      "name_zh": "CAPC Musée d'Art Contemporain",
+      "name_fr": "CAPC Musée d'Art Contemporain",
+      "name_de": "CAPC Musée d'Art Contemporain",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "bo_17",
@@ -2011,7 +2827,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "MADD (Musée des Arts Décoratifs et du Design)",
+      "name_ja": "MADD (Musée des Arts Décoratifs et du Design)",
+      "name_es": "MADD (Musée des Arts Décoratifs et du Design)",
+      "name_zh": "MADD (Musée des Arts Décoratifs et du Design)",
+      "name_fr": "MADD (Musée des Arts Décoratifs et du Design)",
+      "name_de": "MADD (Musée des Arts Décoratifs et du Design)",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "bo_18",
@@ -2040,7 +2868,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Mer Marine",
+      "name_ja": "Musée Mer Marine",
+      "name_es": "Musée Mer Marine",
+      "name_zh": "Musée Mer Marine",
+      "name_fr": "Musée Mer Marine",
+      "name_de": "Musée Mer Marine",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "bo_19",
@@ -2069,7 +2909,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée National des Douanes",
+      "name_ja": "Musée National des Douanes",
+      "name_es": "Musée National des Douanes",
+      "name_zh": "Musée National des Douanes",
+      "name_fr": "Musée National des Douanes",
+      "name_de": "Musée National des Douanes",
+      "price_en": "Entry: €5",
+      "price_ja": "Entry: €5",
+      "price_es": "Entry: €5",
+      "price_zh": "Entry: €5",
+      "price_fr": "Entry: €5",
+      "price_de": "Entry: €5"
     },
     {
       "id": "bo_20",
@@ -2098,7 +2950,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Marché des Capucins",
+      "name_ja": "Marché des Capucins",
+      "name_es": "Marché des Capucins",
+      "name_zh": "Marché des Capucins",
+      "name_fr": "Marché des Capucins",
+      "name_de": "Marché des Capucins",
+      "price_en": "Oyster platters: €10–€20",
+      "price_ja": "Oyster platters: €10–€20",
+      "price_es": "Oyster platters: €10–€20",
+      "price_zh": "Oyster platters: €10–€20",
+      "price_fr": "Oyster platters: €10–€20",
+      "price_de": "Oyster platters: €10–€20"
     },
     {
       "id": "bo_21",
@@ -2127,7 +2991,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Brasserie Bordelaise",
+      "name_ja": "Brasserie Bordelaise",
+      "name_es": "Brasserie Bordelaise",
+      "name_zh": "Brasserie Bordelaise",
+      "name_fr": "Brasserie Bordelaise",
+      "name_de": "Brasserie Bordelaise",
+      "price_en": "Mains: €20–€38",
+      "price_ja": "Mains: €20–€38",
+      "price_es": "Mains: €20–€38",
+      "price_zh": "Mains: €20–€38",
+      "price_fr": "Mains: €20–€38",
+      "price_de": "Mains: €20–€38"
     },
     {
       "id": "bo_22",
@@ -2156,7 +3032,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Canelé Baillardran & La Toque Cuivrée",
+      "name_ja": "Canelé Baillardran & La Toque Cuivrée",
+      "name_es": "Canelé Baillardran & La Toque Cuivrée",
+      "name_zh": "Canelé Baillardran & La Toque Cuivrée",
+      "name_fr": "Canelé Baillardran & La Toque Cuivrée",
+      "name_de": "Canelé Baillardran & La Toque Cuivrée",
+      "price_en": "Canelé: €1.50–€3",
+      "price_ja": "Canelé: €1.50–€3",
+      "price_es": "Canelé: €1.50–€3",
+      "price_zh": "Canelé: €1.50–€3",
+      "price_fr": "Canelé: €1.50–€3",
+      "price_de": "Canelé: €1.50–€3"
     },
     {
       "id": "bo_23",
@@ -2185,7 +3073,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Bar à Vin (CIVB)",
+      "name_ja": "Le Bar à Vin (CIVB)",
+      "name_es": "Le Bar à Vin (CIVB)",
+      "name_zh": "Le Bar à Vin (CIVB)",
+      "name_fr": "Le Bar à Vin (CIVB)",
+      "name_de": "Le Bar à Vin (CIVB)",
+      "price_en": "Glass of wine: €3–€9",
+      "price_ja": "Glass of wine: €3–€9",
+      "price_es": "Glass of wine: €3–€9",
+      "price_zh": "Glass of wine: €3–€9",
+      "price_fr": "Glass of wine: €3–€9",
+      "price_de": "Glass of wine: €3–€9"
     },
     {
       "id": "bo_24",
@@ -2214,7 +3114,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Café Français",
+      "name_ja": "Café Français",
+      "name_es": "Café Français",
+      "name_zh": "Café Français",
+      "name_fr": "Café Français",
+      "name_de": "Café Français",
+      "price_en": "Coffee & Pastry: €6–€12",
+      "price_ja": "Coffee & Pastry: €6–€12",
+      "price_es": "Coffee & Pastry: €6–€12",
+      "price_zh": "Coffee & Pastry: €6–€12",
+      "price_fr": "Coffee & Pastry: €6–€12",
+      "price_de": "Coffee & Pastry: €6–€12"
     },
     {
       "id": "bo_25",
@@ -2243,7 +3155,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "L'Entrecôte Bordeaux",
+      "name_ja": "L'Entrecôte Bordeaux",
+      "name_es": "L'Entrecôte Bordeaux",
+      "name_zh": "L'Entrecôte Bordeaux",
+      "name_fr": "L'Entrecôte Bordeaux",
+      "name_de": "L'Entrecôte Bordeaux",
+      "price_en": "Set Menu: €23",
+      "price_ja": "Set Menu: €23",
+      "price_es": "Set Menu: €23",
+      "price_zh": "Set Menu: €23",
+      "price_fr": "Set Menu: €23",
+      "price_de": "Set Menu: €23"
     },
     {
       "id": "bo_26",
@@ -2272,7 +3196,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grand Cru Wineries (Saint-Émilion, Médoc)",
+      "name_ja": "Grand Cru Wineries (Saint-Émilion, Médoc)",
+      "name_es": "Grand Cru Wineries (Saint-Émilion, Médoc)",
+      "name_zh": "Grand Cru Wineries (Saint-Émilion, Médoc)",
+      "name_fr": "Grand Cru Wineries (Saint-Émilion, Médoc)",
+      "name_de": "Grand Cru Wineries (Saint-Émilion, Médoc)",
+      "price_en": "Tours: €25–€75",
+      "price_ja": "Tours: €25–€75",
+      "price_es": "Tours: €25–€75",
+      "price_zh": "Tours: €25–€75",
+      "price_fr": "Tours: €25–€75",
+      "price_de": "Tours: €25–€75"
     },
     {
       "id": "bo_27",
@@ -2301,7 +3237,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Quartier Saint-Pierre",
+      "name_ja": "Quartier Saint-Pierre",
+      "name_es": "Quartier Saint-Pierre",
+      "name_zh": "Quartier Saint-Pierre",
+      "name_fr": "Quartier Saint-Pierre",
+      "name_de": "Quartier Saint-Pierre",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_28",
@@ -2330,7 +3278,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Quartier des Chartrons",
+      "name_ja": "Quartier des Chartrons",
+      "name_es": "Quartier des Chartrons",
+      "name_zh": "Quartier des Chartrons",
+      "name_fr": "Quartier des Chartrons",
+      "name_de": "Quartier des Chartrons",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_29",
@@ -2359,7 +3319,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Les Quais de Bordeaux & Garonne Promenade",
+      "name_ja": "Les Quais de Bordeaux & Garonne Promenade",
+      "name_es": "Les Quais de Bordeaux & Garonne Promenade",
+      "name_zh": "Les Quais de Bordeaux & Garonne Promenade",
+      "name_fr": "Les Quais de Bordeaux & Garonne Promenade",
+      "name_de": "Les Quais de Bordeaux & Garonne Promenade",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_30",
@@ -2388,7 +3360,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Rue Sainte-Catherine",
+      "name_ja": "Rue Sainte-Catherine",
+      "name_es": "Rue Sainte-Catherine",
+      "name_zh": "Rue Sainte-Catherine",
+      "name_fr": "Rue Sainte-Catherine",
+      "name_de": "Rue Sainte-Catherine",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_31",
@@ -2417,7 +3401,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place des Quinconces",
+      "name_ja": "Place des Quinconces",
+      "name_es": "Place des Quinconces",
+      "name_zh": "Place des Quinconces",
+      "name_fr": "Place des Quinconces",
+      "name_de": "Place des Quinconces",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_32",
@@ -2446,7 +3442,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Darwin Eco-Système",
+      "name_ja": "Darwin Eco-Système",
+      "name_es": "Darwin Eco-Système",
+      "name_zh": "Darwin Eco-Système",
+      "name_fr": "Darwin Eco-Système",
+      "name_de": "Darwin Eco-Système",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_33",
@@ -2475,7 +3483,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Saint-Émilion Medieval Village (UNESCO)",
+      "name_ja": "Saint-Émilion Medieval Village (UNESCO)",
+      "name_es": "Saint-Émilion Medieval Village (UNESCO)",
+      "name_zh": "Saint-Émilion Medieval Village (UNESCO)",
+      "name_fr": "Saint-Émilion Medieval Village (UNESCO)",
+      "name_de": "Saint-Émilion Medieval Village (UNESCO)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_34",
@@ -2504,7 +3524,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Dune du Pilat & Arcachon Bay",
+      "name_ja": "Dune du Pilat & Arcachon Bay",
+      "name_es": "Dune du Pilat & Arcachon Bay",
+      "name_zh": "Dune du Pilat & Arcachon Bay",
+      "name_fr": "Dune du Pilat & Arcachon Bay",
+      "name_de": "Dune du Pilat & Arcachon Bay",
+      "price_en": "Free (Parking fee applies)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_35",
@@ -2533,7 +3565,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jardin Public & Muséum de Bordeaux",
+      "name_ja": "Jardin Public & Muséum de Bordeaux",
+      "name_es": "Jardin Public & Muséum de Bordeaux",
+      "name_zh": "Jardin Public & Muséum de Bordeaux",
+      "name_fr": "Jardin Public & Muséum de Bordeaux",
+      "name_de": "Jardin Public & Muséum de Bordeaux",
+      "price_en": "Free Park (Museum: €8)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_36",
@@ -2562,7 +3606,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cap Sciences",
+      "name_ja": "Cap Sciences",
+      "name_es": "Cap Sciences",
+      "name_zh": "Cap Sciences",
+      "name_fr": "Cap Sciences",
+      "name_de": "Cap Sciences",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "bo_37",
@@ -2591,7 +3647,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Bordeaux River Cruise / Bat3 Water Taxi",
+      "name_ja": "Bordeaux River Cruise / Bat3 Water Taxi",
+      "name_es": "Bordeaux River Cruise / Bat3 Water Taxi",
+      "name_zh": "Bordeaux River Cruise / Bat3 Water Taxi",
+      "name_fr": "Bordeaux River Cruise / Bat3 Water Taxi",
+      "name_de": "Bordeaux River Cruise / Bat3 Water Taxi",
+      "price_en": "Cruise: €15–€25 (Bat3: €1.70)",
+      "price_ja": "Cruise: €15–€25 (Bat3: €1.70)",
+      "price_es": "Cruise: €15–€25 (Bat3: €1.70)",
+      "price_zh": "Cruise: €15–€25 (Bat3: €1.70)",
+      "price_fr": "Cruise: €15–€25 (Bat3: €1.70)",
+      "price_de": "Cruise: €15–€25 (Bat3: €1.70)"
     },
     {
       "id": "bo_38",
@@ -2620,7 +3688,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc Bordelais",
+      "name_ja": "Parc Bordelais",
+      "name_es": "Parc Bordelais",
+      "name_zh": "Parc Bordelais",
+      "name_fr": "Parc Bordelais",
+      "name_de": "Parc Bordelais",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "bo_39",
@@ -2649,7 +3729,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Zoo de Bordeaux-Pessac",
+      "name_ja": "Zoo de Bordeaux-Pessac",
+      "name_es": "Zoo de Bordeaux-Pessac",
+      "name_zh": "Zoo de Bordeaux-Pessac",
+      "name_fr": "Zoo de Bordeaux-Pessac",
+      "name_de": "Zoo de Bordeaux-Pessac",
+      "price_en": "Entry: €18",
+      "price_ja": "Entry: €18",
+      "price_es": "Entry: €18",
+      "price_zh": "Entry: €18",
+      "price_fr": "Entry: €18",
+      "price_de": "Entry: €18"
     },
     {
       "id": "bo_40",
@@ -2678,7 +3770,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "La Forêt des Accro-Batches",
+      "name_ja": "La Forêt des Accro-Batches",
+      "name_es": "La Forêt des Accro-Batches",
+      "name_zh": "La Forêt des Accro-Batches",
+      "name_fr": "La Forêt des Accro-Batches",
+      "name_de": "La Forêt des Accro-Batches",
+      "price_en": "Entry: €18–€24",
+      "price_ja": "Entry: €18–€24",
+      "price_es": "Entry: €18–€24",
+      "price_zh": "Entry: €18–€24",
+      "price_fr": "Entry: €18–€24",
+      "price_de": "Entry: €18–€24"
     }
   ],
   "Brussels, Belgium": [
@@ -2709,7 +3813,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grand-Place",
+      "name_ja": "Grand-Place",
+      "name_es": "Grand-Place",
+      "name_zh": "Grand-Place",
+      "name_fr": "Grand-Place",
+      "name_de": "Grand-Place",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "br_2",
@@ -2738,7 +3854,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Royal Gallery of Saint-Hubert",
+      "name_ja": "Royal Gallery of Saint-Hubert",
+      "name_es": "Royal Gallery of Saint-Hubert",
+      "name_zh": "Royal Gallery of Saint-Hubert",
+      "name_fr": "Royal Gallery of Saint-Hubert",
+      "name_de": "Royal Gallery of Saint-Hubert",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "br_3",
@@ -2767,7 +3895,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Atomium",
+      "name_ja": "Atomium",
+      "name_es": "Atomium",
+      "name_zh": "Atomium",
+      "name_fr": "Atomium",
+      "name_de": "Atomium",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "br_4",
@@ -2796,7 +3936,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "St. Michael & St. Gudula Cathedral",
+      "name_ja": "St. Michael & St. Gudula Cathedral",
+      "name_es": "St. Michael & St. Gudula Cathedral",
+      "name_zh": "St. Michael & St. Gudula Cathedral",
+      "name_fr": "St. Michael & St. Gudula Cathedral",
+      "name_de": "St. Michael & St. Gudula Cathedral",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "br_5",
@@ -2825,7 +3977,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Mont des Arts",
+      "name_ja": "Mont des Arts",
+      "name_es": "Mont des Arts",
+      "name_zh": "Mont des Arts",
+      "name_fr": "Mont des Arts",
+      "name_de": "Mont des Arts",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "br_6",
@@ -2854,7 +4018,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cinquantenaire Arch & Park",
+      "name_ja": "Cinquantenaire Arch & Park",
+      "name_es": "Cinquantenaire Arch & Park",
+      "name_zh": "Cinquantenaire Arch & Park",
+      "name_fr": "Cinquantenaire Arch & Park",
+      "name_de": "Cinquantenaire Arch & Park",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "br_7",
@@ -2883,7 +4059,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Manneken Pis",
+      "name_ja": "Manneken Pis",
+      "name_es": "Manneken Pis",
+      "name_zh": "Manneken Pis",
+      "name_fr": "Manneken Pis",
+      "name_de": "Manneken Pis",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "br_8",
@@ -2912,7 +4100,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Magritte Museum",
+      "name_ja": "Magritte Museum",
+      "name_es": "Magritte Museum",
+      "name_zh": "Magritte Museum",
+      "name_fr": "Magritte Museum",
+      "name_de": "Magritte Museum",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "br_9",
@@ -2941,7 +4141,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Chez Léon",
+      "name_ja": "Chez Léon",
+      "name_es": "Chez Léon",
+      "name_zh": "Chez Léon",
+      "name_fr": "Chez Léon",
+      "name_de": "Chez Léon",
+      "price_en": "Mussels: €24–€29",
+      "price_ja": "Mussels: €24–€29",
+      "price_es": "Mussels: €24–€29",
+      "price_zh": "Mussels: €24–€29",
+      "price_fr": "Mussels: €24–€29",
+      "price_de": "Mussels: €24–€29"
     },
     {
       "id": "br_10",
@@ -2970,7 +4182,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fin de Siècle",
+      "name_ja": "Fin de Siècle",
+      "name_es": "Fin de Siècle",
+      "name_zh": "Fin de Siècle",
+      "name_fr": "Fin de Siècle",
+      "name_de": "Fin de Siècle",
+      "price_en": "Stew: €16–€22",
+      "price_ja": "Stew: €16–€22",
+      "price_es": "Stew: €16–€22",
+      "price_zh": "Stew: €16–€22",
+      "price_fr": "Stew: €16–€22",
+      "price_de": "Stew: €16–€22"
     },
     {
       "id": "br_11",
@@ -2999,7 +4223,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Maison Dandoy",
+      "name_ja": "Maison Dandoy",
+      "name_es": "Maison Dandoy",
+      "name_zh": "Maison Dandoy",
+      "name_fr": "Maison Dandoy",
+      "name_de": "Maison Dandoy",
+      "price_en": "Waffles: €5–€8",
+      "price_ja": "Waffles: €5–€8",
+      "price_es": "Waffles: €5–€8",
+      "price_zh": "Waffles: €5–€8",
+      "price_fr": "Waffles: €5–€8",
+      "price_de": "Waffles: €5–€8"
     },
     {
       "id": "br_12",
@@ -3028,7 +4264,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pierre Marcolini Grand Sablon",
+      "name_ja": "Pierre Marcolini Grand Sablon",
+      "name_es": "Pierre Marcolini Grand Sablon",
+      "name_zh": "Pierre Marcolini Grand Sablon",
+      "name_fr": "Pierre Marcolini Grand Sablon",
+      "name_de": "Pierre Marcolini Grand Sablon",
+      "price_en": "Truffles: €12–€25",
+      "price_ja": "Truffles: €12–€25",
+      "price_es": "Truffles: €12–€25",
+      "price_zh": "Truffles: €12–€25",
+      "price_fr": "Truffles: €12–€25",
+      "price_de": "Truffles: €12–€25"
     },
     {
       "id": "br_13",
@@ -3057,7 +4305,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Delirium Café",
+      "name_ja": "Delirium Café",
+      "name_es": "Delirium Café",
+      "name_zh": "Delirium Café",
+      "name_fr": "Delirium Café",
+      "name_de": "Delirium Café",
+      "price_en": "Beers: €5–€10",
+      "price_ja": "Beers: €5–€10",
+      "price_es": "Beers: €5–€10",
+      "price_zh": "Beers: €5–€10",
+      "price_fr": "Beers: €5–€10",
+      "price_de": "Beers: €5–€10"
     }
   ],
   "Cologne, Germany": [
@@ -3088,7 +4348,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cologne Cathedral (Kölner Dom)",
+      "name_ja": "Cologne Cathedral (Kölner Dom)",
+      "name_es": "Cologne Cathedral (Kölner Dom)",
+      "name_zh": "Cologne Cathedral (Kölner Dom)",
+      "name_fr": "Cologne Cathedral (Kölner Dom)",
+      "name_de": "Cologne Cathedral (Kölner Dom)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "c_2",
@@ -3117,7 +4389,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Hohenzollern Bridge (Love Locks)",
+      "name_ja": "Hohenzollern Bridge (Love Locks)",
+      "name_es": "Hohenzollern Bridge (Love Locks)",
+      "name_zh": "Hohenzollern Bridge (Love Locks)",
+      "name_fr": "Hohenzollern Bridge (Love Locks)",
+      "name_de": "Hohenzollern Bridge (Love Locks)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "c_3",
@@ -3146,7 +4430,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Great St. Martin Church",
+      "name_ja": "Great St. Martin Church",
+      "name_es": "Great St. Martin Church",
+      "name_zh": "Great St. Martin Church",
+      "name_fr": "Great St. Martin Church",
+      "name_de": "Great St. Martin Church",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "c_4",
@@ -3175,7 +4471,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cologne Chocolate Museum",
+      "name_ja": "Cologne Chocolate Museum",
+      "name_es": "Cologne Chocolate Museum",
+      "name_zh": "Cologne Chocolate Museum",
+      "name_fr": "Cologne Chocolate Museum",
+      "name_de": "Cologne Chocolate Museum",
+      "price_en": "Entry: €14.50",
+      "price_ja": "Entry: €14.50",
+      "price_es": "Entry: €14.50",
+      "price_zh": "Entry: €14.50",
+      "price_fr": "Entry: €14.50",
+      "price_de": "Entry: €14.50"
     },
     {
       "id": "c_5",
@@ -3204,7 +4512,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Museum Ludwig",
+      "name_ja": "Museum Ludwig",
+      "name_es": "Museum Ludwig",
+      "name_zh": "Museum Ludwig",
+      "name_fr": "Museum Ludwig",
+      "name_de": "Museum Ludwig",
+      "price_en": "Entry: €13",
+      "price_ja": "Entry: €13",
+      "price_es": "Entry: €13",
+      "price_zh": "Entry: €13",
+      "price_fr": "Entry: €13",
+      "price_de": "Entry: €13"
     },
     {
       "id": "c_6",
@@ -3233,7 +4553,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Brauhaus Sion",
+      "name_ja": "Brauhaus Sion",
+      "name_es": "Brauhaus Sion",
+      "name_zh": "Brauhaus Sion",
+      "name_fr": "Brauhaus Sion",
+      "name_de": "Brauhaus Sion",
+      "price_en": "Kölsch: €2.20",
+      "price_ja": "Kölsch: €2.20",
+      "price_es": "Kölsch: €2.20",
+      "price_zh": "Kölsch: €2.20",
+      "price_fr": "Kölsch: €2.20",
+      "price_de": "Kölsch: €2.20"
     },
     {
       "id": "c_7",
@@ -3262,7 +4594,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Früh am Dom",
+      "name_ja": "Früh am Dom",
+      "name_es": "Früh am Dom",
+      "name_zh": "Früh am Dom",
+      "name_fr": "Früh am Dom",
+      "name_de": "Früh am Dom",
+      "price_en": "Mains: €14–€24",
+      "price_ja": "Mains: €14–€24",
+      "price_es": "Mains: €14–€24",
+      "price_zh": "Mains: €14–€24",
+      "price_fr": "Mains: €14–€24",
+      "price_de": "Mains: €14–€24"
     },
     {
       "id": "c_8",
@@ -3291,7 +4635,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Bei Oma Kleinmann",
+      "name_ja": "Bei Oma Kleinmann",
+      "name_es": "Bei Oma Kleinmann",
+      "name_zh": "Bei Oma Kleinmann",
+      "name_fr": "Bei Oma Kleinmann",
+      "name_de": "Bei Oma Kleinmann",
+      "price_en": "Schnitzel: €16–€24",
+      "price_ja": "Schnitzel: €16–€24",
+      "price_es": "Schnitzel: €16–€24",
+      "price_zh": "Schnitzel: €16–€24",
+      "price_fr": "Schnitzel: €16–€24",
+      "price_de": "Schnitzel: €16–€24"
     },
     {
       "id": "c_9",
@@ -3320,7 +4676,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Café Reichard",
+      "name_ja": "Café Reichard",
+      "name_es": "Café Reichard",
+      "name_zh": "Café Reichard",
+      "name_fr": "Café Reichard",
+      "name_de": "Café Reichard",
+      "price_en": "Cakes: €6.00",
+      "price_ja": "Cakes: €6.00",
+      "price_es": "Cakes: €6.00",
+      "price_zh": "Cakes: €6.00",
+      "price_fr": "Cakes: €6.00",
+      "price_de": "Cakes: €6.00"
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -3351,7 +4719,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Bock Casemates",
+      "name_ja": "Bock Casemates",
+      "name_es": "Bock Casemates",
+      "name_zh": "Bock Casemates",
+      "name_fr": "Bock Casemates",
+      "name_de": "Bock Casemates",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "l_2",
@@ -3380,7 +4760,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Chemin de la Corniche",
+      "name_ja": "Chemin de la Corniche",
+      "name_es": "Chemin de la Corniche",
+      "name_zh": "Chemin de la Corniche",
+      "name_fr": "Chemin de la Corniche",
+      "name_de": "Chemin de la Corniche",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_3",
@@ -3409,7 +4801,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grund Valley District",
+      "name_ja": "Grund Valley District",
+      "name_es": "Grund Valley District",
+      "name_zh": "Grund Valley District",
+      "name_fr": "Grund Valley District",
+      "name_de": "Grund Valley District",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_4",
@@ -3438,7 +4842,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grand Ducal Palace",
+      "name_ja": "Grand Ducal Palace",
+      "name_es": "Grand Ducal Palace",
+      "name_zh": "Grand Ducal Palace",
+      "name_fr": "Grand Ducal Palace",
+      "name_de": "Grand Ducal Palace",
+      "price_en": "Tour: €15",
+      "price_ja": "Tour: €15",
+      "price_es": "Tour: €15",
+      "price_zh": "Tour: €15",
+      "price_fr": "Tour: €15",
+      "price_de": "Tour: €15"
     },
     {
       "id": "l_5",
@@ -3467,7 +4883,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Notre-Dame Cathedral Luxembourg",
+      "name_ja": "Notre-Dame Cathedral Luxembourg",
+      "name_es": "Notre-Dame Cathedral Luxembourg",
+      "name_zh": "Notre-Dame Cathedral Luxembourg",
+      "name_fr": "Notre-Dame Cathedral Luxembourg",
+      "name_de": "Notre-Dame Cathedral Luxembourg",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_6",
@@ -3496,7 +4924,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Mudam Luxembourg",
+      "name_ja": "Mudam Luxembourg",
+      "name_es": "Mudam Luxembourg",
+      "name_zh": "Mudam Luxembourg",
+      "name_fr": "Mudam Luxembourg",
+      "name_de": "Mudam Luxembourg",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "l_7",
@@ -3525,7 +4965,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "MNHA Museum",
+      "name_ja": "MNHA Museum",
+      "name_es": "MNHA Museum",
+      "name_zh": "MNHA Museum",
+      "name_fr": "MNHA Museum",
+      "name_de": "MNHA Museum",
+      "price_en": "Free permanent display",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_8",
@@ -3554,7 +5006,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Chocolate House Nathalie Bonn",
+      "name_ja": "Chocolate House Nathalie Bonn",
+      "name_es": "Chocolate House Nathalie Bonn",
+      "name_zh": "Chocolate House Nathalie Bonn",
+      "name_fr": "Chocolate House Nathalie Bonn",
+      "name_de": "Chocolate House Nathalie Bonn",
+      "price_en": "Spoon: €5.50",
+      "price_ja": "Spoon: €5.50",
+      "price_es": "Spoon: €5.50",
+      "price_zh": "Spoon: €5.50",
+      "price_fr": "Spoon: €5.50",
+      "price_de": "Spoon: €5.50"
     },
     {
       "id": "l_9",
@@ -3583,7 +5047,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Oberweis Bakery",
+      "name_ja": "Oberweis Bakery",
+      "name_es": "Oberweis Bakery",
+      "name_zh": "Oberweis Bakery",
+      "name_fr": "Oberweis Bakery",
+      "name_de": "Oberweis Bakery",
+      "price_en": "Pastries: €4–€8",
+      "price_ja": "Pastries: €4–€8",
+      "price_es": "Pastries: €4–€8",
+      "price_zh": "Pastries: €4–€8",
+      "price_fr": "Pastries: €4–€8",
+      "price_de": "Pastries: €4–€8"
     },
     {
       "id": "l_10",
@@ -3612,7 +5088,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Um Plateau",
+      "name_ja": "Um Plateau",
+      "name_es": "Um Plateau",
+      "name_zh": "Um Plateau",
+      "name_fr": "Um Plateau",
+      "name_de": "Um Plateau",
+      "price_en": "Plates: €18–€32",
+      "price_ja": "Plates: €18–€32",
+      "price_es": "Plates: €18–€32",
+      "price_zh": "Plates: €18–€32",
+      "price_fr": "Plates: €18–€32",
+      "price_de": "Plates: €18–€32"
     },
     {
       "id": "l_11",
@@ -3641,7 +5129,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pfaffenthal Panoramic Elevator",
+      "name_ja": "Pfaffenthal Panoramic Elevator",
+      "name_es": "Pfaffenthal Panoramic Elevator",
+      "name_zh": "Pfaffenthal Panoramic Elevator",
+      "name_fr": "Pfaffenthal Panoramic Elevator",
+      "name_de": "Pfaffenthal Panoramic Elevator",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_12",
@@ -3670,7 +5170,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Vianden Castle",
+      "name_ja": "Vianden Castle",
+      "name_es": "Vianden Castle",
+      "name_zh": "Vianden Castle",
+      "name_fr": "Vianden Castle",
+      "name_de": "Vianden Castle",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "l_13",
@@ -3699,7 +5211,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pont Adolphe",
+      "name_ja": "Pont Adolphe",
+      "name_es": "Pont Adolphe",
+      "name_zh": "Pont Adolphe",
+      "name_fr": "Pont Adolphe",
+      "name_de": "Pont Adolphe",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_14",
@@ -3728,7 +5252,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Monument of Remembrance (Gëlle Fra)",
+      "name_ja": "Monument of Remembrance (Gëlle Fra)",
+      "name_es": "Monument of Remembrance (Gëlle Fra)",
+      "name_zh": "Monument of Remembrance (Gëlle Fra)",
+      "name_fr": "Monument of Remembrance (Gëlle Fra)",
+      "name_de": "Monument of Remembrance (Gëlle Fra)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_15",
@@ -3757,7 +5293,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place d'Armes",
+      "name_ja": "Place d'Armes",
+      "name_es": "Place d'Armes",
+      "name_zh": "Place d'Armes",
+      "name_fr": "Place d'Armes",
+      "name_de": "Place d'Armes",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_16",
@@ -3786,7 +5334,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place Guillaume II",
+      "name_ja": "Place Guillaume II",
+      "name_es": "Place Guillaume II",
+      "name_zh": "Place Guillaume II",
+      "name_fr": "Place Guillaume II",
+      "name_de": "Place Guillaume II",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_17",
@@ -3815,7 +5375,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Neimënster Abbey",
+      "name_ja": "Neimënster Abbey",
+      "name_es": "Neimënster Abbey",
+      "name_zh": "Neimënster Abbey",
+      "name_fr": "Neimënster Abbey",
+      "name_de": "Neimënster Abbey",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_18",
@@ -3844,7 +5416,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fort Thüngen (Musée Dräi Echelen)",
+      "name_ja": "Fort Thüngen (Musée Dräi Echelen)",
+      "name_es": "Fort Thüngen (Musée Dräi Echelen)",
+      "name_zh": "Fort Thüngen (Musée Dräi Echelen)",
+      "name_fr": "Fort Thüngen (Musée Dräi Echelen)",
+      "name_de": "Fort Thüngen (Musée Dräi Echelen)",
+      "price_en": "Free permanent display",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "l_19",
@@ -3873,7 +5457,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Lëtzebuerg City Museum",
+      "name_ja": "Lëtzebuerg City Museum",
+      "name_es": "Lëtzebuerg City Museum",
+      "name_zh": "Lëtzebuerg City Museum",
+      "name_fr": "Lëtzebuerg City Museum",
+      "name_de": "Lëtzebuerg City Museum",
+      "price_en": "Entry: €5",
+      "price_ja": "Entry: €5",
+      "price_es": "Entry: €5",
+      "price_zh": "Entry: €5",
+      "price_fr": "Entry: €5",
+      "price_de": "Entry: €5"
     },
     {
       "id": "l_20",
@@ -3902,7 +5498,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Müllerthal Schiessentümpel Waterfall",
+      "name_ja": "Müllerthal Schiessentümpel Waterfall",
+      "name_es": "Müllerthal Schiessentümpel Waterfall",
+      "name_zh": "Müllerthal Schiessentümpel Waterfall",
+      "name_fr": "Müllerthal Schiessentümpel Waterfall",
+      "name_de": "Müllerthal Schiessentümpel Waterfall",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     }
   ],
   "Lyon, France": [
@@ -3933,7 +5541,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Basilique Notre-Dame de Fourvière",
+      "name_ja": "Basilique Notre-Dame de Fourvière",
+      "name_es": "Basilique Notre-Dame de Fourvière",
+      "name_zh": "Basilique Notre-Dame de Fourvière",
+      "name_fr": "Basilique Notre-Dame de Fourvière",
+      "name_de": "Basilique Notre-Dame de Fourvière",
+      "price_en": "Free (Tower: €10)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_2",
@@ -3962,7 +5582,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cathédrale Saint-Jean-Baptiste",
+      "name_ja": "Cathédrale Saint-Jean-Baptiste",
+      "name_es": "Cathédrale Saint-Jean-Baptiste",
+      "name_zh": "Cathédrale Saint-Jean-Baptiste",
+      "name_fr": "Cathédrale Saint-Jean-Baptiste",
+      "name_de": "Cathédrale Saint-Jean-Baptiste",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_3",
@@ -3991,7 +5623,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Ancient Theatre of Fourvière (Théâtres Romains)",
+      "name_ja": "Ancient Theatre of Fourvière (Théâtres Romains)",
+      "name_es": "Ancient Theatre of Fourvière (Théâtres Romains)",
+      "name_zh": "Ancient Theatre of Fourvière (Théâtres Romains)",
+      "name_fr": "Ancient Theatre of Fourvière (Théâtres Romains)",
+      "name_de": "Ancient Theatre of Fourvière (Théâtres Romains)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_4",
@@ -4020,7 +5664,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place Bellecour",
+      "name_ja": "Place Bellecour",
+      "name_es": "Place Bellecour",
+      "name_zh": "Place Bellecour",
+      "name_fr": "Place Bellecour",
+      "name_de": "Place Bellecour",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_5",
@@ -4049,7 +5705,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place des Terreaux & Bartholdi Fountain",
+      "name_ja": "Place des Terreaux & Bartholdi Fountain",
+      "name_es": "Place des Terreaux & Bartholdi Fountain",
+      "name_zh": "Place des Terreaux & Bartholdi Fountain",
+      "name_fr": "Place des Terreaux & Bartholdi Fountain",
+      "name_de": "Place des Terreaux & Bartholdi Fountain",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_6",
@@ -4078,7 +5746,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grand Hôtel-Dieu",
+      "name_ja": "Grand Hôtel-Dieu",
+      "name_es": "Grand Hôtel-Dieu",
+      "name_zh": "Grand Hôtel-Dieu",
+      "name_fr": "Grand Hôtel-Dieu",
+      "name_de": "Grand Hôtel-Dieu",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_7",
@@ -4107,7 +5787,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Amphitheatre of the Three Gauls",
+      "name_ja": "Amphitheatre of the Three Gauls",
+      "name_es": "Amphitheatre of the Three Gauls",
+      "name_zh": "Amphitheatre of the Three Gauls",
+      "name_fr": "Amphitheatre of the Three Gauls",
+      "name_de": "Amphitheatre of the Three Gauls",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_8",
@@ -4136,7 +5828,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Église Saint-Nizier",
+      "name_ja": "Église Saint-Nizier",
+      "name_es": "Église Saint-Nizier",
+      "name_zh": "Église Saint-Nizier",
+      "name_fr": "Église Saint-Nizier",
+      "name_de": "Église Saint-Nizier",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_9",
@@ -4165,7 +5869,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Sainte Marie de La Tourette Monastery",
+      "name_ja": "Sainte Marie de La Tourette Monastery",
+      "name_es": "Sainte Marie de La Tourette Monastery",
+      "name_zh": "Sainte Marie de La Tourette Monastery",
+      "name_fr": "Sainte Marie de La Tourette Monastery",
+      "name_de": "Sainte Marie de La Tourette Monastery",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "lyon_10",
@@ -4194,7 +5910,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Château de Rochetaillée (Henri Malartre Museum)",
+      "name_ja": "Château de Rochetaillée (Henri Malartre Museum)",
+      "name_es": "Château de Rochetaillée (Henri Malartre Museum)",
+      "name_zh": "Château de Rochetaillée (Henri Malartre Museum)",
+      "name_fr": "Château de Rochetaillée (Henri Malartre Museum)",
+      "name_de": "Château de Rochetaillée (Henri Malartre Museum)",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "lyon_11",
@@ -4223,7 +5951,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée des Beaux-Arts de Lyon",
+      "name_ja": "Musée des Beaux-Arts de Lyon",
+      "name_es": "Musée des Beaux-Arts de Lyon",
+      "name_zh": "Musée des Beaux-Arts de Lyon",
+      "name_fr": "Musée des Beaux-Arts de Lyon",
+      "name_de": "Musée des Beaux-Arts de Lyon",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "lyon_12",
@@ -4252,7 +5992,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée des Confluences",
+      "name_ja": "Musée des Confluences",
+      "name_es": "Musée des Confluences",
+      "name_zh": "Musée des Confluences",
+      "name_fr": "Musée des Confluences",
+      "name_de": "Musée des Confluences",
+      "price_en": "Entry: €9",
+      "price_ja": "Entry: €9",
+      "price_es": "Entry: €9",
+      "price_zh": "Entry: €9",
+      "price_fr": "Entry: €9",
+      "price_de": "Entry: €9"
     },
     {
       "id": "lyon_13",
@@ -4281,7 +6033,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cinema and Miniature Museum (Musée Cinéma et Miniature)",
+      "name_ja": "Cinema and Miniature Museum (Musée Cinéma et Miniature)",
+      "name_es": "Cinema and Miniature Museum (Musée Cinéma et Miniature)",
+      "name_zh": "Cinema and Miniature Museum (Musée Cinéma et Miniature)",
+      "name_fr": "Cinema and Miniature Museum (Musée Cinéma et Miniature)",
+      "name_de": "Cinema and Miniature Museum (Musée Cinéma et Miniature)",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "lyon_14",
@@ -4310,7 +6074,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Institut Lumière (Film Museum)",
+      "name_ja": "Institut Lumière (Film Museum)",
+      "name_es": "Institut Lumière (Film Museum)",
+      "name_zh": "Institut Lumière (Film Museum)",
+      "name_fr": "Institut Lumière (Film Museum)",
+      "name_de": "Institut Lumière (Film Museum)",
+      "price_en": "Entry: €9",
+      "price_ja": "Entry: €9",
+      "price_es": "Entry: €9",
+      "price_zh": "Entry: €9",
+      "price_fr": "Entry: €9",
+      "price_de": "Entry: €9"
     },
     {
       "id": "lyon_15",
@@ -4339,7 +6115,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Gadagne Museum (MAM & MHL)",
+      "name_ja": "Gadagne Museum (MAM & MHL)",
+      "name_es": "Gadagne Museum (MAM & MHL)",
+      "name_zh": "Gadagne Museum (MAM & MHL)",
+      "name_fr": "Gadagne Museum (MAM & MHL)",
+      "name_de": "Gadagne Museum (MAM & MHL)",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "lyon_16",
@@ -4368,7 +6156,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée des Tissus et des Arts Décoratifs",
+      "name_ja": "Musée des Tissus et des Arts Décoratifs",
+      "name_es": "Musée des Tissus et des Arts Décoratifs",
+      "name_zh": "Musée des Tissus et des Arts Décoratifs",
+      "name_fr": "Musée des Tissus et des Arts Décoratifs",
+      "name_de": "Musée des Tissus et des Arts Décoratifs",
+      "price_en": "Entry: €12",
+      "price_ja": "Entry: €12",
+      "price_es": "Entry: €12",
+      "price_zh": "Entry: €12",
+      "price_fr": "Entry: €12",
+      "price_de": "Entry: €12"
     },
     {
       "id": "lyon_17",
@@ -4397,7 +6197,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Museum of Printing and Graphic Communication",
+      "name_ja": "Museum of Printing and Graphic Communication",
+      "name_es": "Museum of Printing and Graphic Communication",
+      "name_zh": "Museum of Printing and Graphic Communication",
+      "name_fr": "Museum of Printing and Graphic Communication",
+      "name_de": "Museum of Printing and Graphic Communication",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "lyon_18",
@@ -4426,7 +6238,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Lugdunum Museum & Roman Theatres",
+      "name_ja": "Lugdunum Museum & Roman Theatres",
+      "name_es": "Lugdunum Museum & Roman Theatres",
+      "name_zh": "Lugdunum Museum & Roman Theatres",
+      "name_fr": "Lugdunum Museum & Roman Theatres",
+      "name_de": "Lugdunum Museum & Roman Theatres",
+      "price_en": "Entry: €7",
+      "price_ja": "Entry: €7",
+      "price_es": "Entry: €7",
+      "price_zh": "Entry: €7",
+      "price_fr": "Entry: €7",
+      "price_de": "Entry: €7"
     },
     {
       "id": "lyon_19",
@@ -4455,7 +6279,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Centre d'Histoire de la Résistance et de la Déportation (CHRD)",
+      "name_ja": "Centre d'Histoire de la Résistance et de la Déportation (CHRD)",
+      "name_es": "Centre d'Histoire de la Résistance et de la Déportation (CHRD)",
+      "name_zh": "Centre d'Histoire de la Résistance et de la Déportation (CHRD)",
+      "name_fr": "Centre d'Histoire de la Résistance et de la Déportation (CHRD)",
+      "name_de": "Centre d'Histoire de la Résistance et de la Déportation (CHRD)",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "lyon_20",
@@ -4484,7 +6320,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "macLYON (Musée d'Art Contemporain de Lyon)",
+      "name_ja": "macLYON (Musée d'Art Contemporain de Lyon)",
+      "name_es": "macLYON (Musée d'Art Contemporain de Lyon)",
+      "name_zh": "macLYON (Musée d'Art Contemporain de Lyon)",
+      "name_fr": "macLYON (Musée d'Art Contemporain de Lyon)",
+      "name_de": "macLYON (Musée d'Art Contemporain de Lyon)",
+      "price_en": "Entry: €9",
+      "price_ja": "Entry: €9",
+      "price_es": "Entry: €9",
+      "price_zh": "Entry: €9",
+      "price_fr": "Entry: €9",
+      "price_de": "Entry: €9"
     },
     {
       "id": "lyon_21",
@@ -4513,7 +6361,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Tony Garnier Open-Air Urban Museum",
+      "name_ja": "Tony Garnier Open-Air Urban Museum",
+      "name_es": "Tony Garnier Open-Air Urban Museum",
+      "name_zh": "Tony Garnier Open-Air Urban Museum",
+      "name_fr": "Tony Garnier Open-Air Urban Museum",
+      "name_de": "Tony Garnier Open-Air Urban Museum",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_22",
@@ -4542,7 +6402,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Clément Ader Aviation Museum",
+      "name_ja": "Clément Ader Aviation Museum",
+      "name_es": "Clément Ader Aviation Museum",
+      "name_zh": "Clément Ader Aviation Museum",
+      "name_fr": "Clément Ader Aviation Museum",
+      "name_de": "Clément Ader Aviation Museum",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "lyon_23",
@@ -4571,7 +6443,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Les Halles de Lyon Paul Bocuse",
+      "name_ja": "Les Halles de Lyon Paul Bocuse",
+      "name_es": "Les Halles de Lyon Paul Bocuse",
+      "name_zh": "Les Halles de Lyon Paul Bocuse",
+      "name_fr": "Les Halles de Lyon Paul Bocuse",
+      "name_de": "Les Halles de Lyon Paul Bocuse",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_24",
@@ -4600,7 +6484,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Historic Bouchon Lyonnais (Café des Fédérations)",
+      "name_ja": "Historic Bouchon Lyonnais (Café des Fédérations)",
+      "name_es": "Historic Bouchon Lyonnais (Café des Fédérations)",
+      "name_zh": "Historic Bouchon Lyonnais (Café des Fédérations)",
+      "name_fr": "Historic Bouchon Lyonnais (Café des Fédérations)",
+      "name_de": "Historic Bouchon Lyonnais (Café des Fédérations)",
+      "price_en": "Meal: €25–€40",
+      "price_ja": "Meal: €25–€40",
+      "price_es": "Meal: €25–€40",
+      "price_zh": "Meal: €25–€40",
+      "price_fr": "Meal: €25–€40",
+      "price_de": "Meal: €25–€40"
     },
     {
       "id": "lyon_25",
@@ -4629,7 +6525,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cité Internationale de la Gastronomie de Lyon",
+      "name_ja": "Cité Internationale de la Gastronomie de Lyon",
+      "name_es": "Cité Internationale de la Gastronomie de Lyon",
+      "name_zh": "Cité Internationale de la Gastronomie de Lyon",
+      "name_fr": "Cité Internationale de la Gastronomie de Lyon",
+      "name_de": "Cité Internationale de la Gastronomie de Lyon",
+      "price_en": "Entry: €7",
+      "price_ja": "Entry: €7",
+      "price_es": "Entry: €7",
+      "price_zh": "Entry: €7",
+      "price_fr": "Entry: €7",
+      "price_de": "Entry: €7"
     },
     {
       "id": "lyon_26",
@@ -4658,7 +6566,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "La Maison Sève (Praline Tart Atelier)",
+      "name_ja": "La Maison Sève (Praline Tart Atelier)",
+      "name_es": "La Maison Sève (Praline Tart Atelier)",
+      "name_zh": "La Maison Sève (Praline Tart Atelier)",
+      "name_fr": "La Maison Sève (Praline Tart Atelier)",
+      "name_de": "La Maison Sève (Praline Tart Atelier)",
+      "price_en": "Slice: €4.50",
+      "price_ja": "Slice: €4.50",
+      "price_es": "Slice: €4.50",
+      "price_zh": "Slice: €4.50",
+      "price_fr": "Slice: €4.50",
+      "price_de": "Slice: €4.50"
     },
     {
       "id": "lyon_27",
@@ -4687,7 +6607,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Maison Bernachon (Chocolatier)",
+      "name_ja": "Maison Bernachon (Chocolatier)",
+      "name_es": "Maison Bernachon (Chocolatier)",
+      "name_zh": "Maison Bernachon (Chocolatier)",
+      "name_fr": "Maison Bernachon (Chocolatier)",
+      "name_de": "Maison Bernachon (Chocolatier)",
+      "price_en": "Pralines: €12–€30",
+      "price_ja": "Pralines: €12–€30",
+      "price_es": "Pralines: €12–€30",
+      "price_zh": "Pralines: €12–€30",
+      "price_fr": "Pralines: €12–€30",
+      "price_de": "Pralines: €12–€30"
     },
     {
       "id": "lyon_28",
@@ -4716,7 +6648,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Café Comptoir Abel",
+      "name_ja": "Café Comptoir Abel",
+      "name_es": "Café Comptoir Abel",
+      "name_zh": "Café Comptoir Abel",
+      "name_fr": "Café Comptoir Abel",
+      "name_de": "Café Comptoir Abel",
+      "price_en": "Meal: €30–€45",
+      "price_ja": "Meal: €30–€45",
+      "price_es": "Meal: €30–€45",
+      "price_zh": "Meal: €30–€45",
+      "price_fr": "Meal: €30–€45",
+      "price_de": "Meal: €30–€45"
     },
     {
       "id": "lyon_29",
@@ -4745,7 +6689,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Brasserie Georges",
+      "name_ja": "Brasserie Georges",
+      "name_es": "Brasserie Georges",
+      "name_zh": "Brasserie Georges",
+      "name_fr": "Brasserie Georges",
+      "name_de": "Brasserie Georges",
+      "price_en": "Mains: €18–€28",
+      "price_ja": "Mains: €18–€28",
+      "price_es": "Mains: €18–€28",
+      "price_zh": "Mains: €18–€28",
+      "price_fr": "Mains: €18–€28",
+      "price_de": "Mains: €18–€28"
     },
     {
       "id": "lyon_30",
@@ -4774,7 +6730,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Restaurant Paul Bocuse (L'Auberge du Pont de Collonges)",
+      "name_ja": "Restaurant Paul Bocuse (L'Auberge du Pont de Collonges)",
+      "name_es": "Restaurant Paul Bocuse (L'Auberge du Pont de Collonges)",
+      "name_zh": "Restaurant Paul Bocuse (L'Auberge du Pont de Collonges)",
+      "name_fr": "Restaurant Paul Bocuse (L'Auberge du Pont de Collonges)",
+      "name_de": "Restaurant Paul Bocuse (L'Auberge du Pont de Collonges)",
+      "price_en": "Menu: €185–€320",
+      "price_ja": "Menu: €185–€320",
+      "price_es": "Menu: €185–€320",
+      "price_zh": "Menu: €185–€320",
+      "price_fr": "Menu: €185–€320",
+      "price_de": "Menu: €185–€320"
     },
     {
       "id": "lyon_31",
@@ -4803,7 +6771,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Vieux Lyon & Secret Traboules",
+      "name_ja": "Vieux Lyon & Secret Traboules",
+      "name_es": "Vieux Lyon & Secret Traboules",
+      "name_zh": "Vieux Lyon & Secret Traboules",
+      "name_fr": "Vieux Lyon & Secret Traboules",
+      "name_de": "Vieux Lyon & Secret Traboules",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_32",
@@ -4832,7 +6812,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Croix-Rousse Hill & Pentes",
+      "name_ja": "Croix-Rousse Hill & Pentes",
+      "name_es": "Croix-Rousse Hill & Pentes",
+      "name_zh": "Croix-Rousse Hill & Pentes",
+      "name_fr": "Croix-Rousse Hill & Pentes",
+      "name_de": "Croix-Rousse Hill & Pentes",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_33",
@@ -4861,7 +6853,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cour des Voraces (Historic Traboule)",
+      "name_ja": "Cour des Voraces (Historic Traboule)",
+      "name_es": "Cour des Voraces (Historic Traboule)",
+      "name_zh": "Cour des Voraces (Historic Traboule)",
+      "name_fr": "Cour des Voraces (Historic Traboule)",
+      "name_de": "Cour des Voraces (Historic Traboule)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_34",
@@ -4890,7 +6894,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fresque des Lyonnais (Mural)",
+      "name_ja": "Fresque des Lyonnais (Mural)",
+      "name_es": "Fresque des Lyonnais (Mural)",
+      "name_zh": "Fresque des Lyonnais (Mural)",
+      "name_fr": "Fresque des Lyonnais (Mural)",
+      "name_de": "Fresque des Lyonnais (Mural)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_35",
@@ -4919,7 +6935,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Mur des Canuts (Silk Workers Mural)",
+      "name_ja": "Mur des Canuts (Silk Workers Mural)",
+      "name_es": "Mur des Canuts (Silk Workers Mural)",
+      "name_zh": "Mur des Canuts (Silk Workers Mural)",
+      "name_fr": "Mur des Canuts (Silk Workers Mural)",
+      "name_de": "Mur des Canuts (Silk Workers Mural)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_36",
@@ -4948,7 +6976,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Passerelle Saint-Georges (Suspension Bridge)",
+      "name_ja": "Passerelle Saint-Georges (Suspension Bridge)",
+      "name_es": "Passerelle Saint-Georges (Suspension Bridge)",
+      "name_zh": "Passerelle Saint-Georges (Suspension Bridge)",
+      "name_fr": "Passerelle Saint-Georges (Suspension Bridge)",
+      "name_de": "Passerelle Saint-Georges (Suspension Bridge)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_37",
@@ -4977,7 +7017,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Saône & Rhône Riverbanks Promenade",
+      "name_ja": "Saône & Rhône Riverbanks Promenade",
+      "name_es": "Saône & Rhône Riverbanks Promenade",
+      "name_zh": "Saône & Rhône Riverbanks Promenade",
+      "name_fr": "Saône & Rhône Riverbanks Promenade",
+      "name_de": "Saône & Rhône Riverbanks Promenade",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_38",
@@ -5006,7 +7058,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jardin des Curiosités (Bellevue Park)",
+      "name_ja": "Jardin des Curiosités (Bellevue Park)",
+      "name_es": "Jardin des Curiosités (Bellevue Park)",
+      "name_zh": "Jardin des Curiosités (Bellevue Park)",
+      "name_fr": "Jardin des Curiosités (Bellevue Park)",
+      "name_de": "Jardin des Curiosités (Bellevue Park)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_39",
@@ -5035,7 +7099,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Confluence Waterfront District",
+      "name_ja": "Confluence Waterfront District",
+      "name_es": "Confluence Waterfront District",
+      "name_zh": "Confluence Waterfront District",
+      "name_fr": "Confluence Waterfront District",
+      "name_de": "Confluence Waterfront District",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_40",
@@ -5064,7 +7140,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Île Barbe (Barbe Island)",
+      "name_ja": "Île Barbe (Barbe Island)",
+      "name_es": "Île Barbe (Barbe Island)",
+      "name_zh": "Île Barbe (Barbe Island)",
+      "name_fr": "Île Barbe (Barbe Island)",
+      "name_de": "Île Barbe (Barbe Island)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_41",
@@ -5093,7 +7181,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Medieval Village of Pérouges",
+      "name_ja": "Medieval Village of Pérouges",
+      "name_es": "Medieval Village of Pérouges",
+      "name_zh": "Medieval Village of Pérouges",
+      "name_fr": "Medieval Village of Pérouges",
+      "name_de": "Medieval Village of Pérouges",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_42",
@@ -5122,7 +7222,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc de la Tête d'Or",
+      "name_ja": "Parc de la Tête d'Or",
+      "name_es": "Parc de la Tête d'Or",
+      "name_zh": "Parc de la Tête d'Or",
+      "name_fr": "Parc de la Tête d'Or",
+      "name_de": "Parc de la Tête d'Or",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "lyon_43",
@@ -5151,7 +7263,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "name_ja": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "name_es": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "name_zh": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "name_fr": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "name_de": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "price_en": "Show: €11",
+      "price_ja": "Show: €11",
+      "price_es": "Show: €11",
+      "price_zh": "Show: €11",
+      "price_fr": "Show: €11",
+      "price_de": "Show: €11"
     },
     {
       "id": "lyon_44",
@@ -5180,7 +7304,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Aquarium de Lyon",
+      "name_ja": "Aquarium de Lyon",
+      "name_es": "Aquarium de Lyon",
+      "name_zh": "Aquarium de Lyon",
+      "name_fr": "Aquarium de Lyon",
+      "name_de": "Aquarium de Lyon",
+      "price_en": "Entry: €16.50",
+      "price_ja": "Entry: €16.50",
+      "price_es": "Entry: €16.50",
+      "price_zh": "Entry: €16.50",
+      "price_fr": "Entry: €16.50",
+      "price_de": "Entry: €16.50"
     },
     {
       "id": "lyon_45",
@@ -5209,7 +7345,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Mini World Lyon",
+      "name_ja": "Mini World Lyon",
+      "name_es": "Mini World Lyon",
+      "name_zh": "Mini World Lyon",
+      "name_fr": "Mini World Lyon",
+      "name_de": "Mini World Lyon",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "lyon_46",
@@ -5238,7 +7386,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Planétarium de Vaulx-en-Velin",
+      "name_ja": "Planétarium de Vaulx-en-Velin",
+      "name_es": "Planétarium de Vaulx-en-Velin",
+      "name_zh": "Planétarium de Vaulx-en-Velin",
+      "name_fr": "Planétarium de Vaulx-en-Velin",
+      "name_de": "Planétarium de Vaulx-en-Velin",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     }
   ],
   "Marseille, France": [
@@ -5269,7 +7429,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Basilique Notre-Dame de la Garde",
+      "name_ja": "Basilique Notre-Dame de la Garde",
+      "name_es": "Basilique Notre-Dame de la Garde",
+      "name_zh": "Basilique Notre-Dame de la Garde",
+      "name_fr": "Basilique Notre-Dame de la Garde",
+      "name_de": "Basilique Notre-Dame de la Garde",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_2",
@@ -5298,7 +7470,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Vieux-Port de Marseille & Ombrière",
+      "name_ja": "Vieux-Port de Marseille & Ombrière",
+      "name_es": "Vieux-Port de Marseille & Ombrière",
+      "name_zh": "Vieux-Port de Marseille & Ombrière",
+      "name_fr": "Vieux-Port de Marseille & Ombrière",
+      "name_de": "Vieux-Port de Marseille & Ombrière",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_3",
@@ -5327,7 +7511,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cathédrale de la Major",
+      "name_ja": "Cathédrale de la Major",
+      "name_es": "Cathédrale de la Major",
+      "name_zh": "Cathédrale de la Major",
+      "name_fr": "Cathédrale de la Major",
+      "name_de": "Cathédrale de la Major",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_4",
@@ -5356,7 +7552,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fort Saint-Jean",
+      "name_ja": "Fort Saint-Jean",
+      "name_es": "Fort Saint-Jean",
+      "name_zh": "Fort Saint-Jean",
+      "name_fr": "Fort Saint-Jean",
+      "name_de": "Fort Saint-Jean",
+      "price_en": "Free grounds",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_5",
@@ -5385,7 +7593,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fort Saint-Nicolas",
+      "name_ja": "Fort Saint-Nicolas",
+      "name_es": "Fort Saint-Nicolas",
+      "name_zh": "Fort Saint-Nicolas",
+      "name_fr": "Fort Saint-Nicolas",
+      "name_de": "Fort Saint-Nicolas",
+      "price_en": "Free grounds",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_6",
@@ -5414,7 +7634,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Palais Longchamp",
+      "name_ja": "Palais Longchamp",
+      "name_es": "Palais Longchamp",
+      "name_zh": "Palais Longchamp",
+      "name_fr": "Palais Longchamp",
+      "name_de": "Palais Longchamp",
+      "price_en": "Free grounds",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_7",
@@ -5443,7 +7675,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cité Radieuse Le Corbusier (Unité d'Habitation)",
+      "name_ja": "Cité Radieuse Le Corbusier (Unité d'Habitation)",
+      "name_es": "Cité Radieuse Le Corbusier (Unité d'Habitation)",
+      "name_zh": "Cité Radieuse Le Corbusier (Unité d'Habitation)",
+      "name_fr": "Cité Radieuse Le Corbusier (Unité d'Habitation)",
+      "name_de": "Cité Radieuse Le Corbusier (Unité d'Habitation)",
+      "price_en": "Free public areas",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_8",
@@ -5472,7 +7716,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Abbaye Saint-Victor",
+      "name_ja": "Abbaye Saint-Victor",
+      "name_es": "Abbaye Saint-Victor",
+      "name_zh": "Abbaye Saint-Victor",
+      "name_fr": "Abbaye Saint-Victor",
+      "name_de": "Abbaye Saint-Victor",
+      "price_en": "Free (Crypt: €2)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_9",
@@ -5501,7 +7757,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Orange Vélodrome Stadium",
+      "name_ja": "Orange Vélodrome Stadium",
+      "name_es": "Orange Vélodrome Stadium",
+      "name_zh": "Orange Vélodrome Stadium",
+      "name_fr": "Orange Vélodrome Stadium",
+      "name_de": "Orange Vélodrome Stadium",
+      "price_en": "Tour: €18",
+      "price_ja": "Tour: €18",
+      "price_es": "Tour: €18",
+      "price_zh": "Tour: €18",
+      "price_fr": "Tour: €18",
+      "price_de": "Tour: €18"
     },
     {
       "id": "ma_10",
@@ -5530,7 +7798,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Château d'If (If Island Fortress)",
+      "name_ja": "Château d'If (If Island Fortress)",
+      "name_es": "Château d'If (If Island Fortress)",
+      "name_zh": "Château d'If (If Island Fortress)",
+      "name_fr": "Château d'If (If Island Fortress)",
+      "name_de": "Château d'If (If Island Fortress)",
+      "price_en": "Entry: €7 (Ferry: €11)",
+      "price_ja": "Entry: €7 (Ferry: €11)",
+      "price_es": "Entry: €7 (Ferry: €11)",
+      "price_zh": "Entry: €7 (Ferry: €11)",
+      "price_fr": "Entry: €7 (Ferry: €11)",
+      "price_de": "Entry: €7 (Ferry: €11)"
     },
     {
       "id": "ma_11",
@@ -5559,7 +7839,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Château de la Buzine ('My Mother's Castle')",
+      "name_ja": "Château de la Buzine ('My Mother's Castle')",
+      "name_es": "Château de la Buzine ('My Mother's Castle')",
+      "name_zh": "Château de la Buzine ('My Mother's Castle')",
+      "name_fr": "Château de la Buzine ('My Mother's Castle')",
+      "name_de": "Château de la Buzine ('My Mother's Castle')",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "ma_12",
@@ -5588,7 +7880,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "MuCEM (Museum of European and Mediterranean Civilisations)",
+      "name_ja": "MuCEM (Museum of European and Mediterranean Civilisations)",
+      "name_es": "MuCEM (Museum of European and Mediterranean Civilisations)",
+      "name_zh": "MuCEM (Museum of European and Mediterranean Civilisations)",
+      "name_fr": "MuCEM (Museum of European and Mediterranean Civilisations)",
+      "name_de": "MuCEM (Museum of European and Mediterranean Civilisations)",
+      "price_en": "Entry: €11",
+      "price_ja": "Entry: €11",
+      "price_es": "Entry: €11",
+      "price_zh": "Entry: €11",
+      "price_fr": "Entry: €11",
+      "price_de": "Entry: €11"
     },
     {
       "id": "ma_13",
@@ -5617,7 +7921,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grotte Cosquer (Cosquer Méditerranée)",
+      "name_ja": "Grotte Cosquer (Cosquer Méditerranée)",
+      "name_es": "Grotte Cosquer (Cosquer Méditerranée)",
+      "name_zh": "Grotte Cosquer (Cosquer Méditerranée)",
+      "name_fr": "Grotte Cosquer (Cosquer Méditerranée)",
+      "name_de": "Grotte Cosquer (Cosquer Méditerranée)",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "ma_14",
@@ -5646,7 +7962,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "name_ja": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "name_es": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "name_zh": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "name_fr": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "name_de": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "ma_15",
@@ -5675,7 +8003,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée des Beaux-Arts de Marseille",
+      "name_ja": "Musée des Beaux-Arts de Marseille",
+      "name_es": "Musée des Beaux-Arts de Marseille",
+      "name_zh": "Musée des Beaux-Arts de Marseille",
+      "name_fr": "Musée des Beaux-Arts de Marseille",
+      "name_de": "Musée des Beaux-Arts de Marseille",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "ma_16",
@@ -5704,7 +8044,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Cantini",
+      "name_ja": "Musée Cantini",
+      "name_es": "Musée Cantini",
+      "name_zh": "Musée Cantini",
+      "name_fr": "Musée Cantini",
+      "name_de": "Musée Cantini",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "ma_17",
@@ -5733,7 +8085,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "MAC (Musée d'Art Contemporain)",
+      "name_ja": "MAC (Musée d'Art Contemporain)",
+      "name_es": "MAC (Musée d'Art Contemporain)",
+      "name_zh": "MAC (Musée d'Art Contemporain)",
+      "name_fr": "MAC (Musée d'Art Contemporain)",
+      "name_de": "MAC (Musée d'Art Contemporain)",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "ma_18",
@@ -5762,7 +8126,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Muséum d'Histoire Naturelle de Marseille",
+      "name_ja": "Muséum d'Histoire Naturelle de Marseille",
+      "name_es": "Muséum d'Histoire Naturelle de Marseille",
+      "name_zh": "Muséum d'Histoire Naturelle de Marseille",
+      "name_fr": "Muséum d'Histoire Naturelle de Marseille",
+      "name_de": "Muséum d'Histoire Naturelle de Marseille",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "ma_19",
@@ -5791,7 +8167,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Friche la Belle de Mai",
+      "name_ja": "Friche la Belle de Mai",
+      "name_es": "Friche la Belle de Mai",
+      "name_zh": "Friche la Belle de Mai",
+      "name_fr": "Friche la Belle de Mai",
+      "name_de": "Friche la Belle de Mai",
+      "price_en": "Free entry (Exhibits: €5)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_20",
@@ -5820,7 +8208,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée de la Faïence (Château Borély)",
+      "name_ja": "Musée de la Faïence (Château Borély)",
+      "name_es": "Musée de la Faïence (Château Borély)",
+      "name_zh": "Musée de la Faïence (Château Borély)",
+      "name_fr": "Musée de la Faïence (Château Borély)",
+      "name_de": "Musée de la Faïence (Château Borély)",
+      "price_en": "Entry: €6",
+      "price_ja": "Entry: €6",
+      "price_es": "Entry: €6",
+      "price_zh": "Entry: €6",
+      "price_fr": "Entry: €6",
+      "price_de": "Entry: €6"
     },
     {
       "id": "ma_21",
@@ -5849,7 +8249,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Chez Fonfon (Vallon des Auffes)",
+      "name_ja": "Chez Fonfon (Vallon des Auffes)",
+      "name_es": "Chez Fonfon (Vallon des Auffes)",
+      "name_zh": "Chez Fonfon (Vallon des Auffes)",
+      "name_fr": "Chez Fonfon (Vallon des Auffes)",
+      "name_de": "Chez Fonfon (Vallon des Auffes)",
+      "price_en": "Bouillabaisse: €65–€85",
+      "price_ja": "Bouillabaisse: €65–€85",
+      "price_es": "Bouillabaisse: €65–€85",
+      "price_zh": "Bouillabaisse: €65–€85",
+      "price_fr": "Bouillabaisse: €65–€85",
+      "price_de": "Bouillabaisse: €65–€85"
     },
     {
       "id": "ma_22",
@@ -5878,7 +8290,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Miramar",
+      "name_ja": "Le Miramar",
+      "name_es": "Le Miramar",
+      "name_zh": "Le Miramar",
+      "name_fr": "Le Miramar",
+      "name_de": "Le Miramar",
+      "price_en": "Bouillabaisse: €70",
+      "price_ja": "Bouillabaisse: €70",
+      "price_es": "Bouillabaisse: €70",
+      "price_zh": "Bouillabaisse: €70",
+      "price_fr": "Bouillabaisse: €70",
+      "price_de": "Bouillabaisse: €70"
     },
     {
       "id": "ma_23",
@@ -5907,7 +8331,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Marché aux Poissons du Vieux-Port",
+      "name_ja": "Marché aux Poissons du Vieux-Port",
+      "name_es": "Marché aux Poissons du Vieux-Port",
+      "name_zh": "Marché aux Poissons du Vieux-Port",
+      "name_fr": "Marché aux Poissons du Vieux-Port",
+      "name_de": "Marché aux Poissons du Vieux-Port",
+      "price_en": "Free to visit",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_24",
@@ -5936,7 +8372,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Marché de Noailles (Capucins Market)",
+      "name_ja": "Marché de Noailles (Capucins Market)",
+      "name_es": "Marché de Noailles (Capucins Market)",
+      "name_zh": "Marché de Noailles (Capucins Market)",
+      "name_fr": "Marché de Noailles (Capucins Market)",
+      "name_de": "Marché de Noailles (Capucins Market)",
+      "price_en": "Street food: €3–€10",
+      "price_ja": "Street food: €3–€10",
+      "price_es": "Street food: €3–€10",
+      "price_zh": "Street food: €3–€10",
+      "price_fr": "Street food: €3–€10",
+      "price_de": "Street food: €3–€10"
     },
     {
       "id": "ma_25",
@@ -5965,7 +8413,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Four des Navettes",
+      "name_ja": "Four des Navettes",
+      "name_es": "Four des Navettes",
+      "name_zh": "Four des Navettes",
+      "name_fr": "Four des Navettes",
+      "name_de": "Four des Navettes",
+      "price_en": "Navettes: €5–€10",
+      "price_ja": "Navettes: €5–€10",
+      "price_es": "Navettes: €5–€10",
+      "price_zh": "Navettes: €5–€10",
+      "price_fr": "Navettes: €5–€10",
+      "price_de": "Navettes: €5–€10"
     },
     {
       "id": "ma_26",
@@ -5994,7 +8454,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "La Samaritaine & Café de la Banque",
+      "name_ja": "La Samaritaine & Café de la Banque",
+      "name_es": "La Samaritaine & Café de la Banque",
+      "name_zh": "La Samaritaine & Café de la Banque",
+      "name_fr": "La Samaritaine & Café de la Banque",
+      "name_de": "La Samaritaine & Café de la Banque",
+      "price_en": "Pastis & Drinks: €4–€8",
+      "price_ja": "Pastis & Drinks: €4–€8",
+      "price_es": "Pastis & Drinks: €4–€8",
+      "price_zh": "Pastis & Drinks: €4–€8",
+      "price_fr": "Pastis & Drinks: €4–€8",
+      "price_de": "Pastis & Drinks: €4–€8"
     },
     {
       "id": "ma_27",
@@ -6023,7 +8495,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Maison de la Boule & Savonneries Marseillaises",
+      "name_ja": "Maison de la Boule & Savonneries Marseillaises",
+      "name_es": "Maison de la Boule & Savonneries Marseillaises",
+      "name_zh": "Maison de la Boule & Savonneries Marseillaises",
+      "name_fr": "Maison de la Boule & Savonneries Marseillaises",
+      "name_de": "Maison de la Boule & Savonneries Marseillaises",
+      "price_en": "Soaps: €3–€8",
+      "price_ja": "Soaps: €3–€8",
+      "price_es": "Soaps: €3–€8",
+      "price_zh": "Soaps: €3–€8",
+      "price_fr": "Soaps: €3–€8",
+      "price_de": "Soaps: €3–€8"
     },
     {
       "id": "ma_28",
@@ -6052,7 +8536,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "L'Épuisette",
+      "name_ja": "L'Épuisette",
+      "name_es": "L'Épuisette",
+      "name_zh": "L'Épuisette",
+      "name_fr": "L'Épuisette",
+      "name_de": "L'Épuisette",
+      "price_en": "Tasting Menu: €95–€160",
+      "price_ja": "Tasting Menu: €95–€160",
+      "price_es": "Tasting Menu: €95–€160",
+      "price_zh": "Tasting Menu: €95–€160",
+      "price_fr": "Tasting Menu: €95–€160",
+      "price_de": "Tasting Menu: €95–€160"
     },
     {
       "id": "ma_29",
@@ -6081,7 +8577,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Panier (Old Town Quarter)",
+      "name_ja": "Le Panier (Old Town Quarter)",
+      "name_es": "Le Panier (Old Town Quarter)",
+      "name_zh": "Le Panier (Old Town Quarter)",
+      "name_fr": "Le Panier (Old Town Quarter)",
+      "name_de": "Le Panier (Old Town Quarter)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_30",
@@ -6110,7 +8618,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Vallon des Auffes",
+      "name_ja": "Vallon des Auffes",
+      "name_es": "Vallon des Auffes",
+      "name_zh": "Vallon des Auffes",
+      "name_fr": "Vallon des Auffes",
+      "name_de": "Vallon des Auffes",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_31",
@@ -6139,7 +8659,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Corniche du Président John F. Kennedy",
+      "name_ja": "Corniche du Président John F. Kennedy",
+      "name_es": "Corniche du Président John F. Kennedy",
+      "name_zh": "Corniche du Président John F. Kennedy",
+      "name_fr": "Corniche du Président John F. Kennedy",
+      "name_de": "Corniche du Président John F. Kennedy",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_32",
@@ -6168,7 +8700,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cours Julien",
+      "name_ja": "Cours Julien",
+      "name_es": "Cours Julien",
+      "name_zh": "Cours Julien",
+      "name_fr": "Cours Julien",
+      "name_de": "Cours Julien",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_33",
@@ -6197,7 +8741,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Vieille Charité",
+      "name_ja": "Vieille Charité",
+      "name_es": "Vieille Charité",
+      "name_zh": "Vieille Charité",
+      "name_fr": "Vieille Charité",
+      "name_de": "Vieille Charité",
+      "price_en": "Courtyard Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_34",
@@ -6226,7 +8782,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "name_ja": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "name_es": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "name_zh": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "name_fr": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "name_de": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_35",
@@ -6255,7 +8823,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc National des Calanques",
+      "name_ja": "Parc National des Calanques",
+      "name_es": "Parc National des Calanques",
+      "name_zh": "Parc National des Calanques",
+      "name_fr": "Parc National des Calanques",
+      "name_de": "Parc National des Calanques",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_36",
@@ -6264,11 +8844,11 @@ const candidateSpotsDatabase = {
       "rating": "★4.8",
       "desc": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
       "price": "Ferry: €11",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Frioul_archipelago_1.jpg/330px-Frioul_archipelago_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "",
       "family": true,
       "adult": true,
       "wikiImage": "",
-      "hasWiki": true,
+      "hasWiki": false,
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.28,
@@ -6284,7 +8864,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Îles du Frioul (Frioul Islands)",
+      "name_ja": "Îles du Frioul (Frioul Islands)",
+      "name_es": "Îles du Frioul (Frioul Islands)",
+      "name_zh": "Îles du Frioul (Frioul Islands)",
+      "name_fr": "Îles du Frioul (Frioul Islands)",
+      "name_de": "Îles du Frioul (Frioul Islands)",
+      "price_en": "Ferry: €11",
+      "price_ja": "Ferry: €11",
+      "price_es": "Ferry: €11",
+      "price_zh": "Ferry: €11",
+      "price_fr": "Ferry: €11",
+      "price_de": "Ferry: €11"
     },
     {
       "id": "ma_37",
@@ -6313,7 +8905,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Les Goudes & Cap Croisette ('End of the World')",
+      "name_ja": "Les Goudes & Cap Croisette ('End of the World')",
+      "name_es": "Les Goudes & Cap Croisette ('End of the World')",
+      "name_zh": "Les Goudes & Cap Croisette ('End of the World')",
+      "name_fr": "Les Goudes & Cap Croisette ('End of the World')",
+      "name_de": "Les Goudes & Cap Croisette ('End of the World')",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_38",
@@ -6342,7 +8946,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc Borély & Jardin Botanique",
+      "name_ja": "Parc Borély & Jardin Botanique",
+      "name_es": "Parc Borély & Jardin Botanique",
+      "name_zh": "Parc Borély & Jardin Botanique",
+      "name_fr": "Parc Borély & Jardin Botanique",
+      "name_de": "Parc Borély & Jardin Botanique",
+      "price_en": "Free Park",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_39",
@@ -6371,7 +8987,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Petit Train de Marseille",
+      "name_ja": "Le Petit Train de Marseille",
+      "name_es": "Le Petit Train de Marseille",
+      "name_zh": "Le Petit Train de Marseille",
+      "name_fr": "Le Petit Train de Marseille",
+      "name_de": "Le Petit Train de Marseille",
+      "price_en": "Ticket: €9",
+      "price_ja": "Ticket: €9",
+      "price_es": "Ticket: €9",
+      "price_zh": "Ticket: €9",
+      "price_fr": "Ticket: €9",
+      "price_de": "Ticket: €9"
     },
     {
       "id": "ma_40",
@@ -6400,7 +9028,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Croisières du Vieux-Port (Calanques Boat Tours)",
+      "name_ja": "Croisières du Vieux-Port (Calanques Boat Tours)",
+      "name_es": "Croisières du Vieux-Port (Calanques Boat Tours)",
+      "name_zh": "Croisières du Vieux-Port (Calanques Boat Tours)",
+      "name_fr": "Croisières du Vieux-Port (Calanques Boat Tours)",
+      "name_de": "Croisières du Vieux-Port (Calanques Boat Tours)",
+      "price_en": "Cruise: €16–€30",
+      "price_ja": "Cruise: €16–€30",
+      "price_es": "Cruise: €16–€30",
+      "price_zh": "Cruise: €16–€30",
+      "price_fr": "Cruise: €16–€30",
+      "price_de": "Cruise: €16–€30"
     },
     {
       "id": "ma_41",
@@ -6429,7 +9069,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Plage du Prado & Park",
+      "name_ja": "Plage du Prado & Park",
+      "name_es": "Plage du Prado & Park",
+      "name_zh": "Plage du Prado & Park",
+      "name_fr": "Plage du Prado & Park",
+      "name_de": "Plage du Prado & Park",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "ma_42",
@@ -6458,7 +9110,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Magic Park Land",
+      "name_ja": "Magic Park Land",
+      "name_es": "Magic Park Land",
+      "name_zh": "Magic Park Land",
+      "name_fr": "Magic Park Land",
+      "name_de": "Magic Park Land",
+      "price_en": "Ticket: €22",
+      "price_ja": "Ticket: €22",
+      "price_es": "Ticket: €22",
+      "price_zh": "Ticket: €22",
+      "price_fr": "Ticket: €22",
+      "price_de": "Ticket: €22"
     },
     {
       "id": "ma_43",
@@ -6487,7 +9151,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc de Figuerolles",
+      "name_ja": "Parc de Figuerolles",
+      "name_es": "Parc de Figuerolles",
+      "name_zh": "Parc de Figuerolles",
+      "name_fr": "Parc de Figuerolles",
+      "name_de": "Parc de Figuerolles",
+      "price_en": "Free park entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     }
   ],
   "Munich, Germany": [
@@ -6518,7 +9194,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Marienplatz & New Town Hall",
+      "name_ja": "Marienplatz & New Town Hall",
+      "name_es": "Marienplatz & New Town Hall",
+      "name_zh": "Marienplatz & New Town Hall",
+      "name_fr": "Marienplatz & New Town Hall",
+      "name_de": "Marienplatz & New Town Hall",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_2",
@@ -6547,7 +9235,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "English Garden & Eisbachwave",
+      "name_ja": "English Garden & Eisbachwave",
+      "name_es": "English Garden & Eisbachwave",
+      "name_zh": "English Garden & Eisbachwave",
+      "name_fr": "English Garden & Eisbachwave",
+      "name_de": "English Garden & Eisbachwave",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_3",
@@ -6576,7 +9276,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Nymphenburg Palace",
+      "name_ja": "Nymphenburg Palace",
+      "name_es": "Nymphenburg Palace",
+      "name_zh": "Nymphenburg Palace",
+      "name_fr": "Nymphenburg Palace",
+      "name_de": "Nymphenburg Palace",
+      "price_en": "Palace: €10",
+      "price_ja": "Palace: €10",
+      "price_es": "Palace: €10",
+      "price_zh": "Palace: €10",
+      "price_fr": "Palace: €10",
+      "price_de": "Palace: €10"
     },
     {
       "id": "m_4",
@@ -6605,7 +9317,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Munich Residenz",
+      "name_ja": "Munich Residenz",
+      "name_es": "Munich Residenz",
+      "name_zh": "Munich Residenz",
+      "name_fr": "Munich Residenz",
+      "name_de": "Munich Residenz",
+      "price_en": "Residenz: €10",
+      "price_ja": "Residenz: €10",
+      "price_es": "Residenz: €10",
+      "price_zh": "Residenz: €10",
+      "price_fr": "Residenz: €10",
+      "price_de": "Residenz: €10"
     },
     {
       "id": "m_5",
@@ -6634,7 +9358,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_ja": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_es": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_zh": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_fr": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "name_de": "Frauenkirche (Cathedral of Our Dear Lady)",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_6",
@@ -6663,7 +9399,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "BMW Welt & BMW Museum",
+      "name_ja": "BMW Welt & BMW Museum",
+      "name_es": "BMW Welt & BMW Museum",
+      "name_zh": "BMW Welt & BMW Museum",
+      "name_fr": "BMW Welt & BMW Museum",
+      "name_de": "BMW Welt & BMW Museum",
+      "price_en": "Museum: €10",
+      "price_ja": "Museum: €10",
+      "price_es": "Museum: €10",
+      "price_zh": "Museum: €10",
+      "price_fr": "Museum: €10",
+      "price_de": "Museum: €10"
     },
     {
       "id": "m_7",
@@ -6692,7 +9440,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Deutsches Museum",
+      "name_ja": "Deutsches Museum",
+      "name_es": "Deutsches Museum",
+      "name_zh": "Deutsches Museum",
+      "name_fr": "Deutsches Museum",
+      "name_de": "Deutsches Museum",
+      "price_en": "Entry: €15",
+      "price_ja": "Entry: €15",
+      "price_es": "Entry: €15",
+      "price_zh": "Entry: €15",
+      "price_fr": "Entry: €15",
+      "price_de": "Entry: €15"
     },
     {
       "id": "m_8",
@@ -6721,7 +9481,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pinakothek Museums (Alte & Neue)",
+      "name_ja": "Pinakothek Museums (Alte & Neue)",
+      "name_es": "Pinakothek Museums (Alte & Neue)",
+      "name_zh": "Pinakothek Museums (Alte & Neue)",
+      "name_fr": "Pinakothek Museums (Alte & Neue)",
+      "name_de": "Pinakothek Museums (Alte & Neue)",
+      "price_en": "Entry: €7–€10",
+      "price_ja": "Entry: €7–€10",
+      "price_es": "Entry: €7–€10",
+      "price_zh": "Entry: €7–€10",
+      "price_fr": "Entry: €7–€10",
+      "price_de": "Entry: €7–€10"
     },
     {
       "id": "m_9",
@@ -6750,7 +9522,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Viktualienmarkt",
+      "name_ja": "Viktualienmarkt",
+      "name_es": "Viktualienmarkt",
+      "name_zh": "Viktualienmarkt",
+      "name_fr": "Viktualienmarkt",
+      "name_de": "Viktualienmarkt",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "m_10",
@@ -6779,7 +9563,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Augustiner-Keller",
+      "name_ja": "Augustiner-Keller",
+      "name_es": "Augustiner-Keller",
+      "name_zh": "Augustiner-Keller",
+      "name_fr": "Augustiner-Keller",
+      "name_de": "Augustiner-Keller",
+      "price_en": "Mass Beer: €10.80",
+      "price_ja": "Mass Beer: €10.80",
+      "price_es": "Mass Beer: €10.80",
+      "price_zh": "Mass Beer: €10.80",
+      "price_fr": "Mass Beer: €10.80",
+      "price_de": "Mass Beer: €10.80"
     },
     {
       "id": "m_11",
@@ -6808,7 +9604,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Hofbräuhaus München",
+      "name_ja": "Hofbräuhaus München",
+      "name_es": "Hofbräuhaus München",
+      "name_zh": "Hofbräuhaus München",
+      "name_fr": "Hofbräuhaus München",
+      "name_de": "Hofbräuhaus München",
+      "price_en": "Mains: €14–€22",
+      "price_ja": "Mains: €14–€22",
+      "price_es": "Mains: €14–€22",
+      "price_zh": "Mains: €14–€22",
+      "price_fr": "Mains: €14–€22",
+      "price_de": "Mains: €14–€22"
     },
     {
       "id": "m_12",
@@ -6837,7 +9645,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Café Frischhut (Schmalznudel)",
+      "name_ja": "Café Frischhut (Schmalznudel)",
+      "name_es": "Café Frischhut (Schmalznudel)",
+      "name_zh": "Café Frischhut (Schmalznudel)",
+      "name_fr": "Café Frischhut (Schmalznudel)",
+      "name_de": "Café Frischhut (Schmalznudel)",
+      "price_en": "Donuts: €2.80",
+      "price_ja": "Donuts: €2.80",
+      "price_es": "Donuts: €2.80",
+      "price_zh": "Donuts: €2.80",
+      "price_fr": "Donuts: €2.80",
+      "price_de": "Donuts: €2.80"
     }
   ],
   "Nice, France": [
@@ -6867,7 +9687,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Promenade des Anglais",
+      "name_ja": "Promenade des Anglais",
+      "name_es": "Promenade des Anglais",
+      "name_zh": "Promenade des Anglais",
+      "name_fr": "Promenade des Anglais",
+      "name_de": "Promenade des Anglais",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_2",
@@ -6895,7 +9727,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Castle Hill Park (Colline du Château)",
+      "name_ja": "Castle Hill Park (Colline du Château)",
+      "name_es": "Castle Hill Park (Colline du Château)",
+      "name_zh": "Castle Hill Park (Colline du Château)",
+      "name_fr": "Castle Hill Park (Colline du Château)",
+      "name_de": "Castle Hill Park (Colline du Château)",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_3",
@@ -6923,7 +9767,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Old Town Nice (Vieux Nice)",
+      "name_ja": "Old Town Nice (Vieux Nice)",
+      "name_es": "Old Town Nice (Vieux Nice)",
+      "name_zh": "Old Town Nice (Vieux Nice)",
+      "name_fr": "Old Town Nice (Vieux Nice)",
+      "name_de": "Old Town Nice (Vieux Nice)",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_4",
@@ -6951,7 +9807,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cours Saleya Flower Market",
+      "name_ja": "Cours Saleya Flower Market",
+      "name_es": "Cours Saleya Flower Market",
+      "name_zh": "Cours Saleya Flower Market",
+      "name_fr": "Cours Saleya Flower Market",
+      "name_de": "Cours Saleya Flower Market",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_5",
@@ -6979,7 +9847,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place Masséna",
+      "name_ja": "Place Masséna",
+      "name_es": "Place Masséna",
+      "name_zh": "Place Masséna",
+      "name_fr": "Place Masséna",
+      "name_de": "Place Masséna",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_6",
@@ -7007,7 +9887,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Marc Chagall National Museum",
+      "name_ja": "Marc Chagall National Museum",
+      "name_es": "Marc Chagall National Museum",
+      "name_zh": "Marc Chagall National Museum",
+      "name_fr": "Marc Chagall National Museum",
+      "name_de": "Marc Chagall National Museum",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "nice_7",
@@ -7035,7 +9927,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Matisse Museum",
+      "name_ja": "Matisse Museum",
+      "name_es": "Matisse Museum",
+      "name_zh": "Matisse Museum",
+      "name_fr": "Matisse Museum",
+      "name_de": "Matisse Museum",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "nice_8",
@@ -7063,7 +9967,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Museum of Modern & Contemporary Art (MAMAC)",
+      "name_ja": "Museum of Modern & Contemporary Art (MAMAC)",
+      "name_es": "Museum of Modern & Contemporary Art (MAMAC)",
+      "name_zh": "Museum of Modern & Contemporary Art (MAMAC)",
+      "name_fr": "Museum of Modern & Contemporary Art (MAMAC)",
+      "name_de": "Museum of Modern & Contemporary Art (MAMAC)",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "nice_9",
@@ -7091,7 +10007,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "St. Nicholas Russian Orthodox Cathedral",
+      "name_ja": "St. Nicholas Russian Orthodox Cathedral",
+      "name_es": "St. Nicholas Russian Orthodox Cathedral",
+      "name_zh": "St. Nicholas Russian Orthodox Cathedral",
+      "name_fr": "St. Nicholas Russian Orthodox Cathedral",
+      "name_de": "St. Nicholas Russian Orthodox Cathedral",
+      "price_en": "Entry: €5",
+      "price_ja": "Entry: €5",
+      "price_es": "Entry: €5",
+      "price_zh": "Entry: €5",
+      "price_fr": "Entry: €5",
+      "price_de": "Entry: €5"
     },
     {
       "id": "nice_10",
@@ -7119,7 +10047,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Promenade du Paillon",
+      "name_ja": "Promenade du Paillon",
+      "name_es": "Promenade du Paillon",
+      "name_zh": "Promenade du Paillon",
+      "name_fr": "Promenade du Paillon",
+      "name_de": "Promenade du Paillon",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_11",
@@ -7147,7 +10087,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cimiez Arenas & Monastery Gardens",
+      "name_ja": "Cimiez Arenas & Monastery Gardens",
+      "name_es": "Cimiez Arenas & Monastery Gardens",
+      "name_zh": "Cimiez Arenas & Monastery Gardens",
+      "name_fr": "Cimiez Arenas & Monastery Gardens",
+      "name_de": "Cimiez Arenas & Monastery Gardens",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_12",
@@ -7175,7 +10127,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Masséna Museum (Villa Masséna)",
+      "name_ja": "Masséna Museum (Villa Masséna)",
+      "name_es": "Masséna Museum (Villa Masséna)",
+      "name_zh": "Masséna Museum (Villa Masséna)",
+      "name_fr": "Masséna Museum (Villa Masséna)",
+      "name_de": "Masséna Museum (Villa Masséna)",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "nice_13",
@@ -7203,7 +10167,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jules Chéret Fine Arts Museum",
+      "name_ja": "Jules Chéret Fine Arts Museum",
+      "name_es": "Jules Chéret Fine Arts Museum",
+      "name_zh": "Jules Chéret Fine Arts Museum",
+      "name_fr": "Jules Chéret Fine Arts Museum",
+      "name_de": "Jules Chéret Fine Arts Museum",
+      "price_en": "Entry: €10",
+      "price_ja": "Entry: €10",
+      "price_es": "Entry: €10",
+      "price_zh": "Entry: €10",
+      "price_fr": "Entry: €10",
+      "price_de": "Entry: €10"
     },
     {
       "id": "nice_14",
@@ -7231,7 +10207,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place Garibaldi",
+      "name_ja": "Place Garibaldi",
+      "name_es": "Place Garibaldi",
+      "name_zh": "Place Garibaldi",
+      "name_fr": "Place Garibaldi",
+      "name_de": "Place Garibaldi",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_15",
@@ -7259,7 +10247,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Nice Cathedral (Cathédrale Sainte-Réparate)",
+      "name_ja": "Nice Cathedral (Cathédrale Sainte-Réparate)",
+      "name_es": "Nice Cathedral (Cathédrale Sainte-Réparate)",
+      "name_zh": "Nice Cathedral (Cathédrale Sainte-Réparate)",
+      "name_fr": "Nice Cathedral (Cathédrale Sainte-Réparate)",
+      "name_de": "Nice Cathedral (Cathédrale Sainte-Réparate)",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_16",
@@ -7287,7 +10287,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Port Lympia (Old Port of Nice)",
+      "name_ja": "Port Lympia (Old Port of Nice)",
+      "name_es": "Port Lympia (Old Port of Nice)",
+      "name_zh": "Port Lympia (Old Port of Nice)",
+      "name_fr": "Port Lympia (Old Port of Nice)",
+      "name_de": "Port Lympia (Old Port of Nice)",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_17",
@@ -7315,7 +10327,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
+      "name_ja": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
+      "name_es": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
+      "name_zh": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
+      "name_fr": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
+      "name_de": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
+      "price_en": "Entry: €5.40",
+      "price_ja": "Entry: €5.40",
+      "price_es": "Entry: €5.40",
+      "price_zh": "Entry: €5.40",
+      "price_fr": "Entry: €5.40",
+      "price_de": "Entry: €5.40"
     },
     {
       "id": "nice_18",
@@ -7343,7 +10367,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Mont Boron Forest Park",
+      "name_ja": "Mont Boron Forest Park",
+      "name_es": "Mont Boron Forest Park",
+      "name_zh": "Mont Boron Forest Park",
+      "name_fr": "Mont Boron Forest Park",
+      "name_de": "Mont Boron Forest Park",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_19",
@@ -7371,7 +10407,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Glacier Fenocchio",
+      "name_ja": "Glacier Fenocchio",
+      "name_es": "Glacier Fenocchio",
+      "name_zh": "Glacier Fenocchio",
+      "name_fr": "Glacier Fenocchio",
+      "name_de": "Glacier Fenocchio",
+      "price_en": "Scoops: €3–€6",
+      "price_ja": "Scoops: €3–€6",
+      "price_es": "Scoops: €3–€6",
+      "price_zh": "Scoops: €3–€6",
+      "price_fr": "Scoops: €3–€6",
+      "price_de": "Scoops: €3–€6"
     },
     {
       "id": "nice_20",
@@ -7399,7 +10447,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Chez René Socca",
+      "name_ja": "Chez René Socca",
+      "name_es": "Chez René Socca",
+      "name_zh": "Chez René Socca",
+      "name_fr": "Chez René Socca",
+      "name_de": "Chez René Socca",
+      "price_en": "Snacks: €3–€10",
+      "price_ja": "Snacks: €3–€10",
+      "price_es": "Snacks: €3–€10",
+      "price_zh": "Snacks: €3–€10",
+      "price_fr": "Snacks: €3–€10",
+      "price_de": "Snacks: €3–€10"
     },
     {
       "id": "nice_21",
@@ -7427,7 +10487,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Plongeoir",
+      "name_ja": "Le Plongeoir",
+      "name_es": "Le Plongeoir",
+      "name_zh": "Le Plongeoir",
+      "name_fr": "Le Plongeoir",
+      "name_de": "Le Plongeoir",
+      "price_en": "Mains: €40–€80",
+      "price_ja": "Mains: €40–€80",
+      "price_es": "Mains: €40–€80",
+      "price_zh": "Mains: €40–€80",
+      "price_fr": "Mains: €40–€80",
+      "price_de": "Mains: €40–€80"
     },
     {
       "id": "nice_22",
@@ -7455,7 +10527,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grand Café de Turin",
+      "name_ja": "Grand Café de Turin",
+      "name_es": "Grand Café de Turin",
+      "name_zh": "Grand Café de Turin",
+      "name_fr": "Grand Café de Turin",
+      "name_de": "Grand Café de Turin",
+      "price_en": "Mains: €25–€60",
+      "price_ja": "Mains: €25–€60",
+      "price_es": "Mains: €25–€60",
+      "price_zh": "Mains: €25–€60",
+      "price_fr": "Mains: €25–€60",
+      "price_de": "Mains: €25–€60"
     },
     {
       "id": "nice_23",
@@ -7483,7 +10567,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Exotic Garden of Èze & Medieval Village",
+      "name_ja": "Exotic Garden of Èze & Medieval Village",
+      "name_es": "Exotic Garden of Èze & Medieval Village",
+      "name_zh": "Exotic Garden of Èze & Medieval Village",
+      "name_fr": "Exotic Garden of Èze & Medieval Village",
+      "name_de": "Exotic Garden of Èze & Medieval Village",
+      "price_en": "Garden: €7",
+      "price_ja": "Garden: €7",
+      "price_es": "Garden: €7",
+      "price_zh": "Garden: €7",
+      "price_fr": "Garden: €7",
+      "price_de": "Garden: €7"
     },
     {
       "id": "nice_24",
@@ -7511,7 +10607,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Villa Ephrussi de Rothschild",
+      "name_ja": "Villa Ephrussi de Rothschild",
+      "name_es": "Villa Ephrussi de Rothschild",
+      "name_zh": "Villa Ephrussi de Rothschild",
+      "name_fr": "Villa Ephrussi de Rothschild",
+      "name_de": "Villa Ephrussi de Rothschild",
+      "price_en": "Entry: €17",
+      "price_ja": "Entry: €17",
+      "price_es": "Entry: €17",
+      "price_zh": "Entry: €17",
+      "price_fr": "Entry: €17",
+      "price_de": "Entry: €17"
     },
     {
       "id": "nice_25",
@@ -7539,7 +10647,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Villa Kérylos",
+      "name_ja": "Villa Kérylos",
+      "name_es": "Villa Kérylos",
+      "name_zh": "Villa Kérylos",
+      "name_fr": "Villa Kérylos",
+      "name_de": "Villa Kérylos",
+      "price_en": "Entry: €13",
+      "price_ja": "Entry: €13",
+      "price_es": "Entry: €13",
+      "price_zh": "Entry: €13",
+      "price_fr": "Entry: €13",
+      "price_de": "Entry: €13"
     },
     {
       "id": "nice_26",
@@ -7567,7 +10687,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Villefranche-sur-Mer Old Town & Citadel",
+      "name_ja": "Villefranche-sur-Mer Old Town & Citadel",
+      "name_es": "Villefranche-sur-Mer Old Town & Citadel",
+      "name_zh": "Villefranche-sur-Mer Old Town & Citadel",
+      "name_fr": "Villefranche-sur-Mer Old Town & Citadel",
+      "name_de": "Villefranche-sur-Mer Old Town & Citadel",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_27",
@@ -7595,7 +10727,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Saint-Paul-de-Vence Medieval Village",
+      "name_ja": "Saint-Paul-de-Vence Medieval Village",
+      "name_es": "Saint-Paul-de-Vence Medieval Village",
+      "name_zh": "Saint-Paul-de-Vence Medieval Village",
+      "name_fr": "Saint-Paul-de-Vence Medieval Village",
+      "name_de": "Saint-Paul-de-Vence Medieval Village",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_28",
@@ -7623,7 +10767,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fondation Maeght",
+      "name_ja": "Fondation Maeght",
+      "name_es": "Fondation Maeght",
+      "name_zh": "Fondation Maeght",
+      "name_fr": "Fondation Maeght",
+      "name_de": "Fondation Maeght",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "nice_29",
@@ -7651,7 +10807,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Prince's Palace of Monaco & The Rock",
+      "name_ja": "Prince's Palace of Monaco & The Rock",
+      "name_es": "Prince's Palace of Monaco & The Rock",
+      "name_zh": "Prince's Palace of Monaco & The Rock",
+      "name_fr": "Prince's Palace of Monaco & The Rock",
+      "name_de": "Prince's Palace of Monaco & The Rock",
+      "price_en": "Free access (€10 Palace)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_30",
@@ -7679,7 +10847,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Oceanographic Museum of Monaco",
+      "name_ja": "Oceanographic Museum of Monaco",
+      "name_es": "Oceanographic Museum of Monaco",
+      "name_zh": "Oceanographic Museum of Monaco",
+      "name_fr": "Oceanographic Museum of Monaco",
+      "name_de": "Oceanographic Museum of Monaco",
+      "price_en": "Entry: €19",
+      "price_ja": "Entry: €19",
+      "price_es": "Entry: €19",
+      "price_zh": "Entry: €19",
+      "price_fr": "Entry: €19",
+      "price_de": "Entry: €19"
     },
     {
       "id": "nice_31",
@@ -7707,7 +10887,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Picasso (Antibes)",
+      "name_ja": "Musée Picasso (Antibes)",
+      "name_es": "Musée Picasso (Antibes)",
+      "name_zh": "Musée Picasso (Antibes)",
+      "name_fr": "Musée Picasso (Antibes)",
+      "name_de": "Musée Picasso (Antibes)",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "nice_32",
@@ -7735,7 +10927,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Casino de Monte-Carlo",
+      "name_ja": "Casino de Monte-Carlo",
+      "name_es": "Casino de Monte-Carlo",
+      "name_zh": "Casino de Monte-Carlo",
+      "name_fr": "Casino de Monte-Carlo",
+      "name_de": "Casino de Monte-Carlo",
+      "price_en": "Tour: €18",
+      "price_ja": "Tour: €18",
+      "price_es": "Tour: €18",
+      "price_zh": "Tour: €18",
+      "price_fr": "Tour: €18",
+      "price_de": "Tour: €18"
     },
     {
       "id": "nice_33",
@@ -7763,7 +10967,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Basilique Saint-Michel Archange & Menton Old Town",
+      "name_ja": "Basilique Saint-Michel Archange & Menton Old Town",
+      "name_es": "Basilique Saint-Michel Archange & Menton Old Town",
+      "name_zh": "Basilique Saint-Michel Archange & Menton Old Town",
+      "name_fr": "Basilique Saint-Michel Archange & Menton Old Town",
+      "name_de": "Basilique Saint-Michel Archange & Menton Old Town",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_34",
@@ -7791,7 +11007,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Sentier du Littoral (Cap d'Antibes)",
+      "name_ja": "Le Sentier du Littoral (Cap d'Antibes)",
+      "name_es": "Le Sentier du Littoral (Cap d'Antibes)",
+      "name_zh": "Le Sentier du Littoral (Cap d'Antibes)",
+      "name_fr": "Le Sentier du Littoral (Cap d'Antibes)",
+      "name_de": "Le Sentier du Littoral (Cap d'Antibes)",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "nice_35",
@@ -7819,7 +11047,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Abbaye de Lérins (Saint-Honorat Island)",
+      "name_ja": "Abbaye de Lérins (Saint-Honorat Island)",
+      "name_es": "Abbaye de Lérins (Saint-Honorat Island)",
+      "name_zh": "Abbaye de Lérins (Saint-Honorat Island)",
+      "name_fr": "Abbaye de Lérins (Saint-Honorat Island)",
+      "name_de": "Abbaye de Lérins (Saint-Honorat Island)",
+      "price_en": "Ferry: €16",
+      "price_ja": "Ferry: €16",
+      "price_es": "Ferry: €16",
+      "price_zh": "Ferry: €16",
+      "price_fr": "Ferry: €16",
+      "price_de": "Ferry: €16"
     },
     {
       "id": "nice_36",
@@ -7847,7 +11087,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fort du Mont Alban",
+      "name_ja": "Fort du Mont Alban",
+      "name_es": "Fort du Mont Alban",
+      "name_zh": "Fort du Mont Alban",
+      "name_fr": "Fort du Mont Alban",
+      "name_de": "Fort du Mont Alban",
+      "price_en": "Free exterior",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     }
   ],
   "Paris, France": [
@@ -7878,7 +11130,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Eiffel Tower",
+      "name_ja": "エッフェル塔",
+      "name_es": "Torre Eiffel",
+      "name_zh": "埃菲尔铁塔",
+      "name_fr": "Tour Eiffel",
+      "name_de": "Eiffelturm",
+      "price_en": "Tickets: €18–€28",
+      "price_ja": "Tickets: €18–€28",
+      "price_es": "Tickets: €18–€28",
+      "price_zh": "Tickets: €18–€28",
+      "price_fr": "Tickets: €18–€28",
+      "price_de": "Tickets: €18–€28"
     },
     {
       "id": "p_2",
@@ -7907,7 +11171,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Arc de Triomphe",
+      "name_ja": "エトワール凱旋門",
+      "name_es": "Arco del Triunfo",
+      "name_zh": "巴黎凯旋门",
+      "name_fr": "Arc de Triomphe",
+      "name_de": "Triumphbogen",
+      "price_en": "Rooftop: €13",
+      "price_ja": "Rooftop: €13",
+      "price_es": "Rooftop: €13",
+      "price_zh": "Rooftop: €13",
+      "price_fr": "Rooftop: €13",
+      "price_de": "Rooftop: €13"
     },
     {
       "id": "p_3",
@@ -7936,7 +11212,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Sainte-Chapelle",
+      "name_ja": "サント・シャペル礼拝堂",
+      "name_es": "Sainte-Chapelle",
+      "name_zh": "圣礼拜堂",
+      "name_fr": "Sainte-Chapelle",
+      "name_de": "Sainte-Chapelle",
+      "price_en": "Entry: €11.50",
+      "price_ja": "Entry: €11.50",
+      "price_es": "Entry: €11.50",
+      "price_zh": "Entry: €11.50",
+      "price_fr": "Entry: €11.50",
+      "price_de": "Entry: €11.50"
     },
     {
       "id": "p_4",
@@ -7965,7 +11253,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Sacré-Cœur Basilica & Montmartre",
+      "name_ja": "サクレ・クール寺院＆モンマルトルの丘",
+      "name_es": "Basílica del Sacré-Cœur y Montmartre",
+      "name_zh": "圣心大教堂与蒙马特高地",
+      "name_fr": "Basilique du Sacré-Cœur & Montmartre",
+      "name_de": "Basilika Sacré-Cœur & Montmartre",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_5",
@@ -7994,7 +11294,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Notre-Dame Cathedral",
+      "name_ja": "ノートルダム大聖堂",
+      "name_es": "Catedral de Notre-Dame",
+      "name_zh": "巴黎圣母院",
+      "name_fr": "Cathédrale Notre-Dame de Paris",
+      "name_de": "Kathedrale Notre-Dame",
+      "price_en": "Free parvis access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_6",
@@ -8023,7 +11335,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Palais-Royal Courtyard & Gardens",
+      "name_ja": "Palais-Royal Courtyard & Gardens",
+      "name_es": "Palais-Royal Courtyard & Gardens",
+      "name_zh": "Palais-Royal Courtyard & Gardens",
+      "name_fr": "Palais-Royal Courtyard & Gardens",
+      "name_de": "Palais-Royal Courtyard & Gardens",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_7",
@@ -8052,7 +11376,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Panthéon Paris",
+      "name_ja": "Panthéon Paris",
+      "name_es": "Panthéon Paris",
+      "name_zh": "Panthéon Paris",
+      "name_fr": "Panthéon Paris",
+      "name_de": "Panthéon Paris",
+      "price_en": "Entry: €11.50",
+      "price_ja": "Entry: €11.50",
+      "price_es": "Entry: €11.50",
+      "price_zh": "Entry: €11.50",
+      "price_fr": "Entry: €11.50",
+      "price_de": "Entry: €11.50"
     },
     {
       "id": "p_8",
@@ -8081,7 +11417,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jardin du Luxembourg",
+      "name_ja": "Jardin du Luxembourg",
+      "name_es": "Jardin du Luxembourg",
+      "name_zh": "Jardin du Luxembourg",
+      "name_fr": "Jardin du Luxembourg",
+      "name_de": "Jardin du Luxembourg",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_9",
@@ -8110,7 +11458,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Opéra Garnier (Palais Garnier)",
+      "name_ja": "Opéra Garnier (Palais Garnier)",
+      "name_es": "Opéra Garnier (Palais Garnier)",
+      "name_zh": "Opéra Garnier (Palais Garnier)",
+      "name_fr": "Opéra Garnier (Palais Garnier)",
+      "name_de": "Opéra Garnier (Palais Garnier)",
+      "price_en": "Self-tour: €14",
+      "price_ja": "Self-tour: €14",
+      "price_es": "Self-tour: €14",
+      "price_zh": "Self-tour: €14",
+      "price_fr": "Self-tour: €14",
+      "price_de": "Self-tour: €14"
     },
     {
       "id": "p_10",
@@ -8139,7 +11499,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pont Alexandre III",
+      "name_ja": "Pont Alexandre III",
+      "name_es": "Pont Alexandre III",
+      "name_zh": "Pont Alexandre III",
+      "name_fr": "Pont Alexandre III",
+      "name_de": "Pont Alexandre III",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_11",
@@ -8168,7 +11540,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Les Invalides & Napoleon's Tomb",
+      "name_ja": "Les Invalides & Napoleon's Tomb",
+      "name_es": "Les Invalides & Napoleon's Tomb",
+      "name_zh": "Les Invalides & Napoleon's Tomb",
+      "name_fr": "Les Invalides & Napoleon's Tomb",
+      "name_de": "Les Invalides & Napoleon's Tomb",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "p_12",
@@ -8197,7 +11581,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pont des Arts",
+      "name_ja": "Pont des Arts",
+      "name_es": "Pont des Arts",
+      "name_zh": "Pont des Arts",
+      "name_fr": "Pont des Arts",
+      "name_de": "Pont des Arts",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_13",
@@ -8226,7 +11622,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Catacombes de Paris",
+      "name_ja": "Catacombes de Paris",
+      "name_es": "Catacombes de Paris",
+      "name_zh": "Catacombes de Paris",
+      "name_fr": "Catacombes de Paris",
+      "name_de": "Catacombes de Paris",
+      "price_en": "Entry: €29",
+      "price_ja": "Entry: €29",
+      "price_es": "Entry: €29",
+      "price_zh": "Entry: €29",
+      "price_fr": "Entry: €29",
+      "price_de": "Entry: €29"
     },
     {
       "id": "p_14",
@@ -8255,7 +11663,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Louvre Museum & Glass Pyramid",
+      "name_ja": "Louvre Museum & Glass Pyramid",
+      "name_es": "Louvre Museum & Glass Pyramid",
+      "name_zh": "Louvre Museum & Glass Pyramid",
+      "name_fr": "Louvre Museum & Glass Pyramid",
+      "name_de": "Louvre Museum & Glass Pyramid",
+      "price_en": "Entry: €17–€22",
+      "price_ja": "Entry: €17–€22",
+      "price_es": "Entry: €17–€22",
+      "price_zh": "Entry: €17–€22",
+      "price_fr": "Entry: €17–€22",
+      "price_de": "Entry: €17–€22"
     },
     {
       "id": "p_15",
@@ -8284,7 +11704,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée d'Orsay",
+      "name_ja": "オルセー美術館",
+      "name_es": "Museo de Orsay",
+      "name_zh": "奥赛博物馆",
+      "name_fr": "Musée d'Orsay",
+      "name_de": "Musée d'Orsay",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "p_16",
@@ -8313,7 +11745,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Centre Pompidou",
+      "name_ja": "ポンピドゥー・センター",
+      "name_es": "Centro Pompidou",
+      "name_zh": "蓬皮杜艺术中心",
+      "name_fr": "Centre Pompidou",
+      "name_de": "Centre Pompidou",
+      "price_en": "Entry: €15",
+      "price_ja": "Entry: €15",
+      "price_es": "Entry: €15",
+      "price_zh": "Entry: €15",
+      "price_fr": "Entry: €15",
+      "price_de": "Entry: €15"
     },
     {
       "id": "p_17",
@@ -8342,7 +11786,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée de l'Orangerie",
+      "name_ja": "Musée de l'Orangerie",
+      "name_es": "Musée de l'Orangerie",
+      "name_zh": "Musée de l'Orangerie",
+      "name_fr": "Musée de l'Orangerie",
+      "name_de": "Musée de l'Orangerie",
+      "price_en": "Entry: €12.50",
+      "price_ja": "Entry: €12.50",
+      "price_es": "Entry: €12.50",
+      "price_zh": "Entry: €12.50",
+      "price_fr": "Entry: €12.50",
+      "price_de": "Entry: €12.50"
     },
     {
       "id": "p_18",
@@ -8371,7 +11827,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Rodin",
+      "name_ja": "Musée Rodin",
+      "name_es": "Musée Rodin",
+      "name_zh": "Musée Rodin",
+      "name_fr": "Musée Rodin",
+      "name_de": "Musée Rodin",
+      "price_en": "Entry: €13",
+      "price_ja": "Entry: €13",
+      "price_es": "Entry: €13",
+      "price_zh": "Entry: €13",
+      "price_fr": "Entry: €13",
+      "price_de": "Entry: €13"
     },
     {
       "id": "p_19",
@@ -8400,7 +11868,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Picasso Paris",
+      "name_ja": "Musée Picasso Paris",
+      "name_es": "Musée Picasso Paris",
+      "name_zh": "Musée Picasso Paris",
+      "name_fr": "Musée Picasso Paris",
+      "name_de": "Musée Picasso Paris",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "p_20",
@@ -8429,7 +11909,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Carnavalet",
+      "name_ja": "Musée Carnavalet",
+      "name_es": "Musée Carnavalet",
+      "name_zh": "Musée Carnavalet",
+      "name_fr": "Musée Carnavalet",
+      "name_de": "Musée Carnavalet",
+      "price_en": "Free permanent access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_21",
@@ -8458,7 +11950,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Petit Marché",
+      "name_ja": "Le Petit Marché",
+      "name_es": "Le Petit Marché",
+      "name_zh": "Le Petit Marché",
+      "name_fr": "Le Petit Marché",
+      "name_de": "Le Petit Marché",
+      "price_en": "Mains: €18–€26",
+      "price_ja": "Mains: €18–€26",
+      "price_es": "Mains: €18–€26",
+      "price_zh": "Mains: €18–€26",
+      "price_fr": "Mains: €18–€26",
+      "price_de": "Mains: €18–€26"
     },
     {
       "id": "p_22",
@@ -8487,7 +11991,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Train Bleu",
+      "name_ja": "Le Train Bleu",
+      "name_es": "Le Train Bleu",
+      "name_zh": "Le Train Bleu",
+      "name_fr": "Le Train Bleu",
+      "name_de": "Le Train Bleu",
+      "price_en": "Mains: €34–€52",
+      "price_ja": "Mains: €34–€52",
+      "price_es": "Mains: €34–€52",
+      "price_zh": "Mains: €34–€52",
+      "price_fr": "Mains: €34–€52",
+      "price_de": "Mains: €34–€52"
     },
     {
       "id": "p_23",
@@ -8516,7 +12032,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Chez Janou",
+      "name_ja": "Chez Janou",
+      "name_es": "Chez Janou",
+      "name_zh": "Chez Janou",
+      "name_fr": "Chez Janou",
+      "name_de": "Chez Janou",
+      "price_en": "Mains: €18–€24",
+      "price_ja": "Mains: €18–€24",
+      "price_es": "Mains: €18–€24",
+      "price_zh": "Mains: €18–€24",
+      "price_fr": "Mains: €18–€24",
+      "price_de": "Mains: €18–€24"
     },
     {
       "id": "p_24",
@@ -8545,7 +12073,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Bouillon Chartier",
+      "name_ja": "Bouillon Chartier",
+      "name_es": "Bouillon Chartier",
+      "name_zh": "Bouillon Chartier",
+      "name_fr": "Bouillon Chartier",
+      "name_de": "Bouillon Chartier",
+      "price_en": "Mains: €9–€14",
+      "price_ja": "Mains: €9–€14",
+      "price_es": "Mains: €9–€14",
+      "price_zh": "Mains: €9–€14",
+      "price_fr": "Mains: €9–€14",
+      "price_de": "Mains: €9–€14"
     },
     {
       "id": "p_25",
@@ -8574,7 +12114,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Frenchie Bar à Vins",
+      "name_ja": "Frenchie Bar à Vins",
+      "name_es": "Frenchie Bar à Vins",
+      "name_zh": "Frenchie Bar à Vins",
+      "name_fr": "Frenchie Bar à Vins",
+      "name_de": "Frenchie Bar à Vins",
+      "price_en": "Plates: €14–€24",
+      "price_ja": "Plates: €14–€24",
+      "price_es": "Plates: €14–€24",
+      "price_zh": "Plates: €14–€24",
+      "price_fr": "Plates: €14–€24",
+      "price_de": "Plates: €14–€24"
     },
     {
       "id": "p_26",
@@ -8603,7 +12155,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Les Deux Magots",
+      "name_ja": "Les Deux Magots",
+      "name_es": "Les Deux Magots",
+      "name_zh": "Les Deux Magots",
+      "name_fr": "Les Deux Magots",
+      "name_de": "Les Deux Magots",
+      "price_en": "Coffee: €6–€10",
+      "price_ja": "Coffee: €6–€10",
+      "price_es": "Coffee: €6–€10",
+      "price_zh": "Coffee: €6–€10",
+      "price_fr": "Coffee: €6–€10",
+      "price_de": "Coffee: €6–€10"
     },
     {
       "id": "p_27",
@@ -8632,7 +12196,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "L'As du Fallafel",
+      "name_ja": "L'As du Fallafel",
+      "name_es": "L'As du Fallafel",
+      "name_zh": "L'As du Fallafel",
+      "name_fr": "L'As du Fallafel",
+      "name_de": "L'As du Fallafel",
+      "price_en": "Pita: €9.50",
+      "price_ja": "Pita: €9.50",
+      "price_es": "Pita: €9.50",
+      "price_zh": "Pita: €9.50",
+      "price_fr": "Pita: €9.50",
+      "price_de": "Pita: €9.50"
     },
     {
       "id": "p_28",
@@ -8661,7 +12237,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pink Mamma",
+      "name_ja": "Pink Mamma",
+      "name_es": "Pink Mamma",
+      "name_zh": "Pink Mamma",
+      "name_fr": "Pink Mamma",
+      "name_de": "Pink Mamma",
+      "price_en": "Mains: €16–€28",
+      "price_ja": "Mains: €16–€28",
+      "price_es": "Mains: €16–€28",
+      "price_zh": "Mains: €16–€28",
+      "price_fr": "Mains: €16–€28",
+      "price_de": "Mains: €16–€28"
     },
     {
       "id": "p_29",
@@ -8690,7 +12278,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Marché des Enfants Rouges",
+      "name_ja": "Marché des Enfants Rouges",
+      "name_es": "Marché des Enfants Rouges",
+      "name_zh": "Marché des Enfants Rouges",
+      "name_fr": "Marché des Enfants Rouges",
+      "name_de": "Marché des Enfants Rouges",
+      "price_en": "Dishes: €8–€15",
+      "price_ja": "Dishes: €8–€15",
+      "price_es": "Dishes: €8–€15",
+      "price_zh": "Dishes: €8–€15",
+      "price_fr": "Dishes: €8–€15",
+      "price_de": "Dishes: €8–€15"
     },
     {
       "id": "p_30",
@@ -8719,7 +12319,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cédric Grolet Le Meurice",
+      "name_ja": "Cédric Grolet Le Meurice",
+      "name_es": "Cédric Grolet Le Meurice",
+      "name_zh": "Cédric Grolet Le Meurice",
+      "name_fr": "Cédric Grolet Le Meurice",
+      "name_de": "Cédric Grolet Le Meurice",
+      "price_en": "Pastries: €14–€18",
+      "price_ja": "Pastries: €14–€18",
+      "price_es": "Pastries: €14–€18",
+      "price_zh": "Pastries: €14–€18",
+      "price_fr": "Pastries: €14–€18",
+      "price_de": "Pastries: €14–€18"
     },
     {
       "id": "p_31",
@@ -8748,7 +12360,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Angelina Paris",
+      "name_ja": "Angelina Paris",
+      "name_es": "Angelina Paris",
+      "name_zh": "Angelina Paris",
+      "name_fr": "Angelina Paris",
+      "name_de": "Angelina Paris",
+      "price_en": "Hot Choc: €9.50",
+      "price_ja": "Hot Choc: €9.50",
+      "price_es": "Hot Choc: €9.50",
+      "price_zh": "Hot Choc: €9.50",
+      "price_fr": "Hot Choc: €9.50",
+      "price_de": "Hot Choc: €9.50"
     },
     {
       "id": "p_32",
@@ -8777,7 +12401,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Du Pain et des Idées",
+      "name_ja": "Du Pain et des Idées",
+      "name_es": "Du Pain et des Idées",
+      "name_zh": "Du Pain et des Idées",
+      "name_fr": "Du Pain et des Idées",
+      "name_de": "Du Pain et des Idées",
+      "price_en": "Pastries: €3.50–€6",
+      "price_ja": "Pastries: €3.50–€6",
+      "price_es": "Pastries: €3.50–€6",
+      "price_zh": "Pastries: €3.50–€6",
+      "price_fr": "Pastries: €3.50–€6",
+      "price_de": "Pastries: €3.50–€6"
     },
     {
       "id": "p_33",
@@ -8806,7 +12442,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Carette Trocadéro",
+      "name_ja": "Carette Trocadéro",
+      "name_es": "Carette Trocadéro",
+      "name_zh": "Carette Trocadéro",
+      "name_fr": "Carette Trocadéro",
+      "name_de": "Carette Trocadéro",
+      "price_en": "Hot Choc: €10",
+      "price_ja": "Hot Choc: €10",
+      "price_es": "Hot Choc: €10",
+      "price_zh": "Hot Choc: €10",
+      "price_fr": "Hot Choc: €10",
+      "price_de": "Hot Choc: €10"
     },
     {
       "id": "p_34",
@@ -8834,7 +12482,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée du Quai Branly",
+      "name_ja": "Musée du Quai Branly",
+      "name_es": "Musée du Quai Branly",
+      "name_zh": "Musée du Quai Branly",
+      "name_fr": "Musée du Quai Branly",
+      "name_de": "Musée du Quai Branly",
+      "price_en": "Entry: €12",
+      "price_ja": "Entry: €12",
+      "price_es": "Entry: €12",
+      "price_zh": "Entry: €12",
+      "price_fr": "Entry: €12",
+      "price_de": "Entry: €12"
     },
     {
       "id": "p_35",
@@ -8862,7 +12522,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Covered Passages (Galerie Vivienne)",
+      "name_ja": "Covered Passages (Galerie Vivienne)",
+      "name_es": "Covered Passages (Galerie Vivienne)",
+      "name_zh": "Covered Passages (Galerie Vivienne)",
+      "name_fr": "Covered Passages (Galerie Vivienne)",
+      "name_de": "Covered Passages (Galerie Vivienne)",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_36",
@@ -8890,7 +12562,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Galeries Lafayette Haussmann",
+      "name_ja": "Galeries Lafayette Haussmann",
+      "name_es": "Galeries Lafayette Haussmann",
+      "name_zh": "Galeries Lafayette Haussmann",
+      "name_fr": "Galeries Lafayette Haussmann",
+      "name_de": "Galeries Lafayette Haussmann",
+      "price_en": "Free rooftop access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_37",
@@ -8918,7 +12602,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Seine River Cruise (Bateaux-Mouches)",
+      "name_ja": "Seine River Cruise (Bateaux-Mouches)",
+      "name_es": "Seine River Cruise (Bateaux-Mouches)",
+      "name_zh": "Seine River Cruise (Bateaux-Mouches)",
+      "name_fr": "Seine River Cruise (Bateaux-Mouches)",
+      "name_de": "Seine River Cruise (Bateaux-Mouches)",
+      "price_en": "Cruise: €15",
+      "price_ja": "Cruise: €15",
+      "price_es": "Cruise: €15",
+      "price_zh": "Cruise: €15",
+      "price_fr": "Cruise: €15",
+      "price_de": "Cruise: €15"
     },
     {
       "id": "p_38",
@@ -8946,7 +12642,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Canal Saint-Martin",
+      "name_ja": "Canal Saint-Martin",
+      "name_es": "Canal Saint-Martin",
+      "name_zh": "Canal Saint-Martin",
+      "name_fr": "Canal Saint-Martin",
+      "name_de": "Canal Saint-Martin",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_27",
@@ -8974,7 +12682,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Palace of Versailles (Château de Versailles)",
+      "name_ja": "Palace of Versailles (Château de Versailles)",
+      "name_es": "Palace of Versailles (Château de Versailles)",
+      "name_zh": "Palace of Versailles (Château de Versailles)",
+      "name_fr": "Palace of Versailles (Château de Versailles)",
+      "name_de": "Palace of Versailles (Château de Versailles)",
+      "price_en": "Palace: €19.50",
+      "price_ja": "Palace: €19.50",
+      "price_es": "Palace: €19.50",
+      "price_zh": "Palace: €19.50",
+      "price_fr": "Palace: €19.50",
+      "price_de": "Palace: €19.50"
     },
     {
       "id": "p_28",
@@ -9002,7 +12722,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place de la Concorde & Champs-Élysées",
+      "name_ja": "Place de la Concorde & Champs-Élysées",
+      "name_es": "Place de la Concorde & Champs-Élysées",
+      "name_zh": "Place de la Concorde & Champs-Élysées",
+      "name_fr": "Place de la Concorde & Champs-Élysées",
+      "name_de": "Place de la Concorde & Champs-Élysées",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_29",
@@ -9030,7 +12762,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Conciergerie",
+      "name_ja": "Conciergerie",
+      "name_es": "Conciergerie",
+      "name_zh": "Conciergerie",
+      "name_fr": "Conciergerie",
+      "name_de": "Conciergerie",
+      "price_en": "Entry: €11.50",
+      "price_ja": "Entry: €11.50",
+      "price_es": "Entry: €11.50",
+      "price_zh": "Entry: €11.50",
+      "price_fr": "Entry: €11.50",
+      "price_de": "Entry: €11.50"
     },
     {
       "id": "p_30",
@@ -9058,7 +12802,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place des Vosges",
+      "name_ja": "Place des Vosges",
+      "name_es": "Place des Vosges",
+      "name_zh": "Place des Vosges",
+      "name_fr": "Place des Vosges",
+      "name_de": "Place des Vosges",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_31",
@@ -9086,7 +12842,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Marmottan Monet",
+      "name_ja": "Musée Marmottan Monet",
+      "name_es": "Musée Marmottan Monet",
+      "name_zh": "Musée Marmottan Monet",
+      "name_fr": "Musée Marmottan Monet",
+      "name_de": "Musée Marmottan Monet",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "p_32",
@@ -9114,7 +12882,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Fondation Louis Vuitton",
+      "name_ja": "Fondation Louis Vuitton",
+      "name_es": "Fondation Louis Vuitton",
+      "name_zh": "Fondation Louis Vuitton",
+      "name_fr": "Fondation Louis Vuitton",
+      "name_de": "Fondation Louis Vuitton",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "p_33",
@@ -9142,7 +12922,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée de Cluny (Middle Ages)",
+      "name_ja": "Musée de Cluny (Middle Ages)",
+      "name_es": "Musée de Cluny (Middle Ages)",
+      "name_zh": "Musée de Cluny (Middle Ages)",
+      "name_fr": "Musée de Cluny (Middle Ages)",
+      "name_de": "Musée de Cluny (Middle Ages)",
+      "price_en": "Entry: €12",
+      "price_ja": "Entry: €12",
+      "price_es": "Entry: €12",
+      "price_zh": "Entry: €12",
+      "price_fr": "Entry: €12",
+      "price_de": "Entry: €12"
     },
     {
       "id": "p_46",
@@ -9170,7 +12962,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Disneyland Paris",
+      "name_ja": "ディズニーランド・パリ",
+      "name_es": "Disneyland París",
+      "name_zh": "巴黎迪士尼乐园",
+      "name_fr": "Disneyland Paris",
+      "name_de": "Disneyland Paris",
+      "price_en": "Entry: €56–€99",
+      "price_ja": "Entry: €56–€99",
+      "price_es": "Entry: €56–€99",
+      "price_zh": "Entry: €56–€99",
+      "price_fr": "Entry: €56–€99",
+      "price_de": "Entry: €56–€99"
     },
     {
       "id": "p_47",
@@ -9198,7 +13002,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Grande Galerie de l'Évolution",
+      "name_ja": "Grande Galerie de l'Évolution",
+      "name_es": "Grande Galerie de l'Évolution",
+      "name_zh": "Grande Galerie de l'Évolution",
+      "name_fr": "Grande Galerie de l'Évolution",
+      "name_de": "Grande Galerie de l'Évolution",
+      "price_en": "Entry: €13",
+      "price_ja": "Entry: €13",
+      "price_es": "Entry: €13",
+      "price_zh": "Entry: €13",
+      "price_fr": "Entry: €13",
+      "price_de": "Entry: €13"
     },
     {
       "id": "p_48",
@@ -9226,7 +13042,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cité des Sciences et de l'Industrie",
+      "name_ja": "Cité des Sciences et de l'Industrie",
+      "name_es": "Cité des Sciences et de l'Industrie",
+      "name_zh": "Cité des Sciences et de l'Industrie",
+      "name_fr": "Cité des Sciences et de l'Industrie",
+      "name_de": "Cité des Sciences et de l'Industrie",
+      "price_en": "Entry: €13",
+      "price_ja": "Entry: €13",
+      "price_es": "Entry: €13",
+      "price_zh": "Entry: €13",
+      "price_fr": "Entry: €13",
+      "price_de": "Entry: €13"
     },
     {
       "id": "p_49",
@@ -9254,7 +13082,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jardin d'Acclimatation",
+      "name_ja": "Jardin d'Acclimatation",
+      "name_es": "Jardin d'Acclimatation",
+      "name_zh": "Jardin d'Acclimatation",
+      "name_fr": "Jardin d'Acclimatation",
+      "name_de": "Jardin d'Acclimatation",
+      "price_en": "Entry: €7.00",
+      "price_ja": "Entry: €7.00",
+      "price_es": "Entry: €7.00",
+      "price_zh": "Entry: €7.00",
+      "price_fr": "Entry: €7.00",
+      "price_de": "Entry: €7.00"
     },
     {
       "id": "p_50",
@@ -9282,7 +13122,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc Zoologique de Paris",
+      "name_ja": "Parc Zoologique de Paris",
+      "name_es": "Parc Zoologique de Paris",
+      "name_zh": "Parc Zoologique de Paris",
+      "name_fr": "Parc Zoologique de Paris",
+      "name_de": "Parc Zoologique de Paris",
+      "price_en": "Entry: €22",
+      "price_ja": "Entry: €22",
+      "price_es": "Entry: €22",
+      "price_zh": "Entry: €22",
+      "price_fr": "Entry: €22",
+      "price_de": "Entry: €22"
     },
     {
       "id": "p_51",
@@ -9310,7 +13162,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Aquarium de Paris",
+      "name_ja": "Aquarium de Paris",
+      "name_es": "Aquarium de Paris",
+      "name_zh": "Aquarium de Paris",
+      "name_fr": "Aquarium de Paris",
+      "name_de": "Aquarium de Paris",
+      "price_en": "Entry: €26",
+      "price_ja": "Entry: €26",
+      "price_es": "Entry: €26",
+      "price_zh": "Entry: €26",
+      "price_fr": "Entry: €26",
+      "price_de": "Entry: €26"
     },
     {
       "id": "p_52",
@@ -9338,7 +13202,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Grévin",
+      "name_ja": "Musée Grévin",
+      "name_es": "Musée Grévin",
+      "name_zh": "Musée Grévin",
+      "name_fr": "Musée Grévin",
+      "name_de": "Musée Grévin",
+      "price_en": "Entry: €20",
+      "price_ja": "Entry: €20",
+      "price_es": "Entry: €20",
+      "price_zh": "Entry: €20",
+      "price_fr": "Entry: €20",
+      "price_de": "Entry: €20"
     },
     {
       "id": "p_53",
@@ -9366,7 +13242,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jardin des Tuileries",
+      "name_ja": "Jardin des Tuileries",
+      "name_es": "Jardin des Tuileries",
+      "name_zh": "Jardin des Tuileries",
+      "name_fr": "Jardin des Tuileries",
+      "name_de": "Jardin des Tuileries",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "p_54",
@@ -9394,7 +13282,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée de l'Air et de l'Espace",
+      "name_ja": "Musée de l'Air et de l'Espace",
+      "name_es": "Musée de l'Air et de l'Espace",
+      "name_zh": "Musée de l'Air et de l'Espace",
+      "name_fr": "Musée de l'Air et de l'Espace",
+      "name_de": "Musée de l'Air et de l'Espace",
+      "price_en": "Entry: €16",
+      "price_ja": "Entry: €16",
+      "price_es": "Entry: €16",
+      "price_zh": "Entry: €16",
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16"
     },
     {
       "id": "p_55",
@@ -9422,7 +13322,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Choco-Story Paris",
+      "name_ja": "Choco-Story Paris",
+      "name_es": "Choco-Story Paris",
+      "name_zh": "Choco-Story Paris",
+      "name_fr": "Choco-Story Paris",
+      "name_de": "Choco-Story Paris",
+      "price_en": "Entry: €15",
+      "price_ja": "Entry: €15",
+      "price_es": "Entry: €15",
+      "price_zh": "Entry: €15",
+      "price_fr": "Entry: €15",
+      "price_de": "Entry: €15"
     }
   ],
   "Strasbourg, France": [
@@ -9453,7 +13365,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Strasbourg Cathedral (Cathédrale Notre-Dame)",
+      "name_ja": "Strasbourg Cathedral (Cathédrale Notre-Dame)",
+      "name_es": "Strasbourg Cathedral (Cathédrale Notre-Dame)",
+      "name_zh": "Strasbourg Cathedral (Cathédrale Notre-Dame)",
+      "name_fr": "Strasbourg Cathedral (Cathédrale Notre-Dame)",
+      "name_de": "Strasbourg Cathedral (Cathédrale Notre-Dame)",
+      "price_en": "Free (Tower: €8)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_2",
@@ -9482,7 +13406,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Barrage Vauban",
+      "name_ja": "Barrage Vauban",
+      "name_es": "Barrage Vauban",
+      "name_zh": "Barrage Vauban",
+      "name_fr": "Barrage Vauban",
+      "name_de": "Barrage Vauban",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_3",
@@ -9511,7 +13447,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Ponts Couverts",
+      "name_ja": "Ponts Couverts",
+      "name_es": "Ponts Couverts",
+      "name_zh": "Ponts Couverts",
+      "name_fr": "Ponts Couverts",
+      "name_de": "Ponts Couverts",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_4",
@@ -9540,7 +13488,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Palais Rohan",
+      "name_ja": "Palais Rohan",
+      "name_es": "Palais Rohan",
+      "name_zh": "Palais Rohan",
+      "name_fr": "Palais Rohan",
+      "name_de": "Palais Rohan",
+      "price_en": "Free courtyard",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_5",
@@ -9569,7 +13529,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Maison Kammerzell",
+      "name_ja": "Maison Kammerzell",
+      "name_es": "Maison Kammerzell",
+      "name_zh": "Maison Kammerzell",
+      "name_fr": "Maison Kammerzell",
+      "name_de": "Maison Kammerzell",
+      "price_en": "Free exterior",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_6",
@@ -9598,7 +13570,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place Kléber",
+      "name_ja": "Place Kléber",
+      "name_es": "Place Kléber",
+      "name_zh": "Place Kléber",
+      "name_fr": "Place Kléber",
+      "name_de": "Place Kléber",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_7",
@@ -9627,7 +13611,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Place Gutenberg",
+      "name_ja": "Place Gutenberg",
+      "name_es": "Place Gutenberg",
+      "name_zh": "Place Gutenberg",
+      "name_fr": "Place Gutenberg",
+      "name_de": "Place Gutenberg",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_8",
@@ -9656,7 +13652,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "European Parliament Strasbourg",
+      "name_ja": "European Parliament Strasbourg",
+      "name_es": "European Parliament Strasbourg",
+      "name_zh": "European Parliament Strasbourg",
+      "name_fr": "European Parliament Strasbourg",
+      "name_de": "European Parliament Strasbourg",
+      "price_en": "Free (Reservation required)",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_9",
@@ -9685,7 +13693,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Palais du Rhin & Place de la République",
+      "name_ja": "Palais du Rhin & Place de la République",
+      "name_es": "Palais du Rhin & Place de la République",
+      "name_zh": "Palais du Rhin & Place de la République",
+      "name_fr": "Palais du Rhin & Place de la République",
+      "name_de": "Palais du Rhin & Place de la République",
+      "price_en": "Free grounds",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_10",
@@ -9714,7 +13734,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Église Saint-Thomas",
+      "name_ja": "Église Saint-Thomas",
+      "name_es": "Église Saint-Thomas",
+      "name_zh": "Église Saint-Thomas",
+      "name_fr": "Église Saint-Thomas",
+      "name_de": "Église Saint-Thomas",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_11",
@@ -9743,7 +13775,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Église Réformée Saint-Paul",
+      "name_ja": "Église Réformée Saint-Paul",
+      "name_es": "Église Réformée Saint-Paul",
+      "name_zh": "Église Réformée Saint-Paul",
+      "name_fr": "Église Réformée Saint-Paul",
+      "name_de": "Église Réformée Saint-Paul",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_12",
@@ -9772,7 +13816,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Château du Haut-Kœnigsbourg",
+      "name_ja": "Château du Haut-Kœnigsbourg",
+      "name_es": "Château du Haut-Kœnigsbourg",
+      "name_zh": "Château du Haut-Kœnigsbourg",
+      "name_fr": "Château du Haut-Kœnigsbourg",
+      "name_de": "Château du Haut-Kœnigsbourg",
+      "price_en": "Entry: €12",
+      "price_ja": "Entry: €12",
+      "price_es": "Entry: €12",
+      "price_zh": "Entry: €12",
+      "price_fr": "Entry: €12",
+      "price_de": "Entry: €12"
     },
     {
       "id": "st_13",
@@ -9801,7 +13857,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Mont Sainte-Odile Monastery",
+      "name_ja": "Mont Sainte-Odile Monastery",
+      "name_es": "Mont Sainte-Odile Monastery",
+      "name_zh": "Mont Sainte-Odile Monastery",
+      "name_fr": "Mont Sainte-Odile Monastery",
+      "name_de": "Mont Sainte-Odile Monastery",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_14",
@@ -9830,7 +13898,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Alsacien",
+      "name_ja": "Musée Alsacien",
+      "name_es": "Musée Alsacien",
+      "name_zh": "Musée Alsacien",
+      "name_fr": "Musée Alsacien",
+      "name_de": "Musée Alsacien",
+      "price_en": "Entry: €7.50",
+      "price_ja": "Entry: €7.50",
+      "price_es": "Entry: €7.50",
+      "price_zh": "Entry: €7.50",
+      "price_fr": "Entry: €7.50",
+      "price_de": "Entry: €7.50"
     },
     {
       "id": "st_15",
@@ -9859,7 +13939,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée de l'Œuvre Notre-Dame",
+      "name_ja": "Musée de l'Œuvre Notre-Dame",
+      "name_es": "Musée de l'Œuvre Notre-Dame",
+      "name_zh": "Musée de l'Œuvre Notre-Dame",
+      "name_fr": "Musée de l'Œuvre Notre-Dame",
+      "name_de": "Musée de l'Œuvre Notre-Dame",
+      "price_en": "Entry: €7.50",
+      "price_ja": "Entry: €7.50",
+      "price_es": "Entry: €7.50",
+      "price_zh": "Entry: €7.50",
+      "price_fr": "Entry: €7.50",
+      "price_de": "Entry: €7.50"
     },
     {
       "id": "st_16",
@@ -9888,7 +13980,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée des Beaux-Arts de Strasbourg",
+      "name_ja": "Musée des Beaux-Arts de Strasbourg",
+      "name_es": "Musée des Beaux-Arts de Strasbourg",
+      "name_zh": "Musée des Beaux-Arts de Strasbourg",
+      "name_fr": "Musée des Beaux-Arts de Strasbourg",
+      "name_de": "Musée des Beaux-Arts de Strasbourg",
+      "price_en": "Entry: €7.50",
+      "price_ja": "Entry: €7.50",
+      "price_es": "Entry: €7.50",
+      "price_zh": "Entry: €7.50",
+      "price_fr": "Entry: €7.50",
+      "price_de": "Entry: €7.50"
     },
     {
       "id": "st_17",
@@ -9917,7 +14021,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée des Arts Décoratifs",
+      "name_ja": "Musée des Arts Décoratifs",
+      "name_es": "Musée des Arts Décoratifs",
+      "name_zh": "Musée des Arts Décoratifs",
+      "name_fr": "Musée des Arts Décoratifs",
+      "name_de": "Musée des Arts Décoratifs",
+      "price_en": "Entry: €7.50",
+      "price_ja": "Entry: €7.50",
+      "price_es": "Entry: €7.50",
+      "price_zh": "Entry: €7.50",
+      "price_fr": "Entry: €7.50",
+      "price_de": "Entry: €7.50"
     },
     {
       "id": "st_18",
@@ -9946,7 +14062,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "MAMCS (Museum of Modern & Contemporary Art)",
+      "name_ja": "MAMCS (Museum of Modern & Contemporary Art)",
+      "name_es": "MAMCS (Museum of Modern & Contemporary Art)",
+      "name_zh": "MAMCS (Museum of Modern & Contemporary Art)",
+      "name_fr": "MAMCS (Museum of Modern & Contemporary Art)",
+      "name_de": "MAMCS (Museum of Modern & Contemporary Art)",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "st_19",
@@ -9975,7 +14103,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Tomi Ungerer (Illustration Center)",
+      "name_ja": "Musée Tomi Ungerer (Illustration Center)",
+      "name_es": "Musée Tomi Ungerer (Illustration Center)",
+      "name_zh": "Musée Tomi Ungerer (Illustration Center)",
+      "name_fr": "Musée Tomi Ungerer (Illustration Center)",
+      "name_de": "Musée Tomi Ungerer (Illustration Center)",
+      "price_en": "Entry: €7.50",
+      "price_ja": "Entry: €7.50",
+      "price_es": "Entry: €7.50",
+      "price_zh": "Entry: €7.50",
+      "price_fr": "Entry: €7.50",
+      "price_de": "Entry: €7.50"
     },
     {
       "id": "st_20",
@@ -10004,7 +14144,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Historique de la Ville de Strasbourg",
+      "name_ja": "Musée Historique de la Ville de Strasbourg",
+      "name_es": "Musée Historique de la Ville de Strasbourg",
+      "name_zh": "Musée Historique de la Ville de Strasbourg",
+      "name_fr": "Musée Historique de la Ville de Strasbourg",
+      "name_de": "Musée Historique de la Ville de Strasbourg",
+      "price_en": "Entry: €7.50",
+      "price_ja": "Entry: €7.50",
+      "price_es": "Entry: €7.50",
+      "price_zh": "Entry: €7.50",
+      "price_fr": "Entry: €7.50",
+      "price_de": "Entry: €7.50"
     },
     {
       "id": "st_21",
@@ -10033,7 +14185,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Château Musée Vodou",
+      "name_ja": "Château Musée Vodou",
+      "name_es": "Château Musée Vodou",
+      "name_zh": "Château Musée Vodou",
+      "name_fr": "Château Musée Vodou",
+      "name_de": "Château Musée Vodou",
+      "price_en": "Entry: €14",
+      "price_ja": "Entry: €14",
+      "price_es": "Entry: €14",
+      "price_zh": "Entry: €14",
+      "price_fr": "Entry: €14",
+      "price_de": "Entry: €14"
     },
     {
       "id": "st_22",
@@ -10062,7 +14226,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Musée Lalique",
+      "name_ja": "Musée Lalique",
+      "name_es": "Musée Lalique",
+      "name_zh": "Musée Lalique",
+      "name_fr": "Musée Lalique",
+      "name_de": "Musée Lalique",
+      "price_en": "Entry: €8",
+      "price_ja": "Entry: €8",
+      "price_es": "Entry: €8",
+      "price_zh": "Entry: €8",
+      "price_fr": "Entry: €8",
+      "price_de": "Entry: €8"
     },
     {
       "id": "st_23",
@@ -10091,7 +14267,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Cave Historique des Hospices de Strasbourg",
+      "name_ja": "Cave Historique des Hospices de Strasbourg",
+      "name_es": "Cave Historique des Hospices de Strasbourg",
+      "name_zh": "Cave Historique des Hospices de Strasbourg",
+      "name_fr": "Cave Historique des Hospices de Strasbourg",
+      "name_de": "Cave Historique des Hospices de Strasbourg",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_24",
@@ -10120,7 +14308,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Maison des Tanneurs",
+      "name_ja": "Maison des Tanneurs",
+      "name_es": "Maison des Tanneurs",
+      "name_zh": "Maison des Tanneurs",
+      "name_fr": "Maison des Tanneurs",
+      "name_de": "Maison des Tanneurs",
+      "price_en": "Mains: €22–€38",
+      "price_ja": "Mains: €22–€38",
+      "price_es": "Mains: €22–€38",
+      "price_zh": "Mains: €22–€38",
+      "price_fr": "Mains: €22–€38",
+      "price_de": "Mains: €22–€38"
     },
     {
       "id": "st_25",
@@ -10149,7 +14349,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Winstub Chez Yvonne",
+      "name_ja": "Winstub Chez Yvonne",
+      "name_es": "Winstub Chez Yvonne",
+      "name_zh": "Winstub Chez Yvonne",
+      "name_fr": "Winstub Chez Yvonne",
+      "name_de": "Winstub Chez Yvonne",
+      "price_en": "Mains: €20–€35",
+      "price_ja": "Mains: €20–€35",
+      "price_es": "Mains: €20–€35",
+      "price_zh": "Mains: €20–€35",
+      "price_fr": "Mains: €20–€35",
+      "price_de": "Mains: €20–€35"
     },
     {
       "id": "st_26",
@@ -10178,7 +14390,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Winstub Le Tire-Bouchon",
+      "name_ja": "Winstub Le Tire-Bouchon",
+      "name_es": "Winstub Le Tire-Bouchon",
+      "name_zh": "Winstub Le Tire-Bouchon",
+      "name_fr": "Winstub Le Tire-Bouchon",
+      "name_de": "Winstub Le Tire-Bouchon",
+      "price_en": "Mains: €18–€32",
+      "price_ja": "Mains: €18–€32",
+      "price_es": "Mains: €18–€32",
+      "price_zh": "Mains: €18–€32",
+      "price_fr": "Mains: €18–€32",
+      "price_de": "Mains: €18–€32"
     },
     {
       "id": "st_27",
@@ -10207,7 +14431,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Pâtisserie Christian",
+      "name_ja": "Pâtisserie Christian",
+      "name_es": "Pâtisserie Christian",
+      "name_zh": "Pâtisserie Christian",
+      "name_fr": "Pâtisserie Christian",
+      "name_de": "Pâtisserie Christian",
+      "price_en": "Pastry: €5–€8",
+      "price_ja": "Pastry: €5–€8",
+      "price_es": "Pastry: €5–€8",
+      "price_zh": "Pastry: €5–€8",
+      "price_fr": "Pastry: €5–€8",
+      "price_de": "Pastry: €5–€8"
     },
     {
       "id": "st_28",
@@ -10236,7 +14472,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Traditional Kugelhopf & Gingerbread Bakeries",
+      "name_ja": "Traditional Kugelhopf & Gingerbread Bakeries",
+      "name_es": "Traditional Kugelhopf & Gingerbread Bakeries",
+      "name_zh": "Traditional Kugelhopf & Gingerbread Bakeries",
+      "name_fr": "Traditional Kugelhopf & Gingerbread Bakeries",
+      "name_de": "Traditional Kugelhopf & Gingerbread Bakeries",
+      "price_en": "Pastry: €3–€7",
+      "price_ja": "Pastry: €3–€7",
+      "price_es": "Pastry: €3–€7",
+      "price_zh": "Pastry: €3–€7",
+      "price_fr": "Pastry: €3–€7",
+      "price_de": "Pastry: €3–€7"
     },
     {
       "id": "st_29",
@@ -10265,7 +14513,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Brasserie Les Haras",
+      "name_ja": "Brasserie Les Haras",
+      "name_es": "Brasserie Les Haras",
+      "name_zh": "Brasserie Les Haras",
+      "name_fr": "Brasserie Les Haras",
+      "name_de": "Brasserie Les Haras",
+      "price_en": "Mains: €24–€42",
+      "price_ja": "Mains: €24–€42",
+      "price_es": "Mains: €24–€42",
+      "price_zh": "Mains: €24–€42",
+      "price_fr": "Mains: €24–€42",
+      "price_de": "Mains: €24–€42"
     },
     {
       "id": "st_30",
@@ -10294,7 +14554,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Route des Vins d'Alsace Wineries",
+      "name_ja": "Route des Vins d'Alsace Wineries",
+      "name_es": "Route des Vins d'Alsace Wineries",
+      "name_zh": "Route des Vins d'Alsace Wineries",
+      "name_fr": "Route des Vins d'Alsace Wineries",
+      "name_de": "Route des Vins d'Alsace Wineries",
+      "price_en": "Tasting: €10–€25",
+      "price_ja": "Tasting: €10–€25",
+      "price_es": "Tasting: €10–€25",
+      "price_zh": "Tasting: €10–€25",
+      "price_fr": "Tasting: €10–€25",
+      "price_de": "Tasting: €10–€25"
     },
     {
       "id": "st_31",
@@ -10323,7 +14595,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "La Petite France",
+      "name_ja": "La Petite France",
+      "name_es": "La Petite France",
+      "name_zh": "La Petite France",
+      "name_fr": "La Petite France",
+      "name_de": "La Petite France",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_32",
@@ -10352,7 +14636,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "La Grande Île (UNESCO Historic Island)",
+      "name_ja": "La Grande Île (UNESCO Historic Island)",
+      "name_es": "La Grande Île (UNESCO Historic Island)",
+      "name_zh": "La Grande Île (UNESCO Historic Island)",
+      "name_fr": "La Grande Île (UNESCO Historic Island)",
+      "name_de": "La Grande Île (UNESCO Historic Island)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_33",
@@ -10381,7 +14677,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Quartier Neustadt (German Quarter)",
+      "name_ja": "Quartier Neustadt (German Quarter)",
+      "name_es": "Quartier Neustadt (German Quarter)",
+      "name_zh": "Quartier Neustadt (German Quarter)",
+      "name_fr": "Quartier Neustadt (German Quarter)",
+      "name_de": "Quartier Neustadt (German Quarter)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_34",
@@ -10410,7 +14718,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Quai des Bateliers & Berges de l'Ill",
+      "name_ja": "Quai des Bateliers & Berges de l'Ill",
+      "name_es": "Quai des Bateliers & Berges de l'Ill",
+      "name_zh": "Quai des Bateliers & Berges de l'Ill",
+      "name_fr": "Quai des Bateliers & Berges de l'Ill",
+      "name_de": "Quai des Bateliers & Berges de l'Ill",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_35",
@@ -10439,7 +14759,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Lycée des Pontonniers & Canal View",
+      "name_ja": "Lycée des Pontonniers & Canal View",
+      "name_es": "Lycée des Pontonniers & Canal View",
+      "name_zh": "Lycée des Pontonniers & Canal View",
+      "name_fr": "Lycée des Pontonniers & Canal View",
+      "name_de": "Lycée des Pontonniers & Canal View",
+      "price_en": "Free exterior",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_36",
@@ -10468,7 +14800,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Quartier de la Krutenau",
+      "name_ja": "Quartier de la Krutenau",
+      "name_es": "Quartier de la Krutenau",
+      "name_zh": "Quartier de la Krutenau",
+      "name_fr": "Quartier de la Krutenau",
+      "name_de": "Quartier de la Krutenau",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_37",
@@ -10497,7 +14841,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Batorama Boat Tour",
+      "name_ja": "Batorama Boat Tour",
+      "name_es": "Batorama Boat Tour",
+      "name_zh": "Batorama Boat Tour",
+      "name_fr": "Batorama Boat Tour",
+      "name_de": "Batorama Boat Tour",
+      "price_en": "Ticket: €15",
+      "price_ja": "Ticket: €15",
+      "price_es": "Ticket: €15",
+      "price_zh": "Ticket: €15",
+      "price_fr": "Ticket: €15",
+      "price_de": "Ticket: €15"
     },
     {
       "id": "st_38",
@@ -10526,7 +14882,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Obernai Medieval Town",
+      "name_ja": "Obernai Medieval Town",
+      "name_es": "Obernai Medieval Town",
+      "name_zh": "Obernai Medieval Town",
+      "name_fr": "Obernai Medieval Town",
+      "name_de": "Obernai Medieval Town",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_39",
@@ -10555,7 +14923,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Riquewihr & Kaysersberg Medieval Villages",
+      "name_ja": "Riquewihr & Kaysersberg Medieval Villages",
+      "name_es": "Riquewihr & Kaysersberg Medieval Villages",
+      "name_zh": "Riquewihr & Kaysersberg Medieval Villages",
+      "name_fr": "Riquewihr & Kaysersberg Medieval Villages",
+      "name_de": "Riquewihr & Kaysersberg Medieval Villages",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_40",
@@ -10584,7 +14964,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc de l'Orangerie & Stork Sanctuary",
+      "name_ja": "Parc de l'Orangerie & Stork Sanctuary",
+      "name_es": "Parc de l'Orangerie & Stork Sanctuary",
+      "name_zh": "Parc de l'Orangerie & Stork Sanctuary",
+      "name_fr": "Parc de l'Orangerie & Stork Sanctuary",
+      "name_de": "Parc de l'Orangerie & Stork Sanctuary",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_41",
@@ -10613,7 +15005,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Le Vaisseau Science Center",
+      "name_ja": "Le Vaisseau Science Center",
+      "name_es": "Le Vaisseau Science Center",
+      "name_zh": "Le Vaisseau Science Center",
+      "name_fr": "Le Vaisseau Science Center",
+      "name_de": "Le Vaisseau Science Center",
+      "price_en": "Entry: €12",
+      "price_ja": "Entry: €12",
+      "price_es": "Entry: €12",
+      "price_zh": "Entry: €12",
+      "price_fr": "Entry: €12",
+      "price_de": "Entry: €12"
     },
     {
       "id": "st_42",
@@ -10642,7 +15046,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Parc de la Citadelle",
+      "name_ja": "Parc de la Citadelle",
+      "name_es": "Parc de la Citadelle",
+      "name_zh": "Parc de la Citadelle",
+      "name_fr": "Parc de la Citadelle",
+      "name_de": "Parc de la Citadelle",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_43",
@@ -10671,7 +15087,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Jardin des Deux Rives (Two Banks Garden)",
+      "name_ja": "Jardin des Deux Rives (Two Banks Garden)",
+      "name_es": "Jardin des Deux Rives (Two Banks Garden)",
+      "name_zh": "Jardin des Deux Rives (Two Banks Garden)",
+      "name_fr": "Jardin des Deux Rives (Two Banks Garden)",
+      "name_de": "Jardin des Deux Rives (Two Banks Garden)",
+      "price_en": "Free",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "st_44",
@@ -10700,7 +15128,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Écomusée d'Alsace",
+      "name_ja": "Écomusée d'Alsace",
+      "name_es": "Écomusée d'Alsace",
+      "name_zh": "Écomusée d'Alsace",
+      "name_fr": "Écomusée d'Alsace",
+      "name_de": "Écomusée d'Alsace",
+      "price_en": "Entry: €16.50",
+      "price_ja": "Entry: €16.50",
+      "price_es": "Entry: €16.50",
+      "price_zh": "Entry: €16.50",
+      "price_fr": "Entry: €16.50",
+      "price_de": "Entry: €16.50"
     },
     {
       "id": "st_45",
@@ -10729,7 +15169,19 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
       "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
       "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
-      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang.",
+      "name_en": "Europa-Park",
+      "name_ja": "Europa-Park",
+      "name_es": "Europa-Park",
+      "name_zh": "Europa-Park",
+      "name_fr": "Europa-Park",
+      "name_de": "Europa-Park",
+      "price_en": "Ticket: €61.50",
+      "price_ja": "Ticket: €61.50",
+      "price_es": "Ticket: €61.50",
+      "price_zh": "Ticket: €61.50",
+      "price_fr": "Ticket: €61.50",
+      "price_de": "Ticket: €61.50"
     }
   ],
   "Toulouse, France": [
@@ -10754,7 +15206,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Ne manquez pas la Salle Henri-Martin à l’intérieur du Capitole pour ses magnifiques fresques.",
       "tip_de": "Besuchen Sie den Salle Henri-Martin im Capitole für seine beeindruckenden Wandgemälde.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Place du Capitole & Capitole de Toulouse",
+      "name_ja": "キャピトル広場＆市庁舎",
+      "name_es": "Plaza del Capitole y Capitolio de Toulouse",
+      "name_zh": "市政厅广场与图卢兹市政厅",
+      "name_fr": "Place du Capitole & Capitole de Toulouse",
+      "name_de": "Place du Capitole & Capitole von Toulouse",
+      "price_en": "Free square / €5 tour",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_2",
@@ -10777,7 +15241,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Explorez la crypte située sous le chœur pour y découvrir les précieux reliquaires.",
       "tip_de": "Erkunden Sie die Krypta unter dem Chor mit ihren historischen Reliquien.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/330px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Basilique Saint-Sernin",
+      "name_ja": "サン・セルナン大聖堂",
+      "name_es": "Basílica de San Sernín",
+      "name_zh": "圣塞尔南大教堂",
+      "name_fr": "Basilique Saint-Sernin",
+      "name_de": "Basilika Saint-Sernin",
+      "price_en": "Free entry / €2.50 crypt",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_3",
@@ -10800,7 +15276,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Regardez le miroir placé au pied du pilier pour admirer la voûte sans vous fatiguer le cou.",
       "tip_de": "Nutzen Sie den Spiegel am Pfeilerfuß, um das Palmengewölbe entspannt zu betrachten.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Couvent des Jacobins",
+      "name_ja": "ジャコバン修道院",
+      "name_es": "Convento de los Jacobeos",
+      "name_zh": "雅各宾修道院",
+      "name_fr": "Couvent des Jacobins",
+      "name_de": "Jakobinerkloster",
+      "price_en": "Free church / €5 cloister",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_4",
@@ -10823,7 +15311,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Point de vue parfait pour admirer le coucher de soleil sur la Garonne.",
       "tip_de": "Ideal für den Sonnenuntergang über der Garonne und der rosa Stadt.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Pont Neuf Toulouse",
+      "name_ja": "ポン・ヌフ（トゥールーズ新橋）",
+      "name_es": "Pont Neuf de Toulouse",
+      "name_zh": "图卢兹新桥",
+      "name_fr": "Pont Neuf de Toulouse",
+      "name_de": "Pont Neuf Toulouse",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_5",
@@ -10846,7 +15346,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Remarquez le décalage d’axe fascinant entre la nef romane et le chœur gothique.",
       "tip_de": "Achten Sie auf den ungewöhnlichen Achsenversatz zwischen Schiff und Chor.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fa%C3%A7ade_de_la_cath%C3%A9drale_Saint-%C3%89tienne_de_Toulouse.jpg/330px-Fa%C3%A7ade_de_la_cath%C3%A9drale_Saint-%C3%89tienne_de_Toulouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Cathédrale Saint-Étienne de Toulouse",
+      "name_ja": "サン・テティエンヌ大聖堂",
+      "name_es": "Catedral de San Esteban de Toulouse",
+      "name_zh": "图卢兹圣艾蒂安大教堂",
+      "name_fr": "Cathédrale Saint-Étienne de Toulouse",
+      "name_de": "Kathedrale Saint-Étienne von Toulouse",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_6",
@@ -10869,7 +15381,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "L’accès à la cour intérieure est libre pour admirer l’architecture Renaissance.",
       "tip_de": "Der Innenhof ist frei zugänglich und zeigt klassische Renaissance-Architektur.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bachelier_-_H%C3%B4tel_d%27Ass%C3%A9zat_-_Toulouse.jpg/330px-Bachelier_-_H%C3%B4tel_d%27Ass%C3%A9zat_-_Toulouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Hôtel d'Assézat",
+      "name_ja": "アセザ館（ルネサンス大邸宅）",
+      "name_es": "Palacio d'Assézat",
+      "name_zh": "阿塞扎大宅",
+      "name_fr": "Hôtel d'Assézat",
+      "name_de": "Hôtel d'Assézat",
+      "price_en": "Free courtyard / €10 museum",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_7",
@@ -10892,7 +15416,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Havre de paix gratuit idéalement situé à quelques pas de Saint-Sernin.",
       "tip_de": "Ein ruhiger Geheimtipp mit freiem Eintritt unweit von Saint-Sernin.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Chapelle des Carmélites",
+      "name_ja": "カルメル会礼拝堂",
+      "name_es": "Capilla de las Carmelitas",
+      "name_zh": "迦密会礼拜堂",
+      "name_fr": "Chapelle des Carmélites",
+      "name_de": "Karmeliterkapelle",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_8",
@@ -10915,7 +15451,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Traversez le Pont Saint-Pierre au crépuscule pour la meilleure vue panoramique.",
       "tip_de": "Überqueren Sie bei Dämmerung die Pont Saint-Pierre für das beste Panorama.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/H%C3%B4tel_Dieu_de_Toulouse_-_La_cour_int%C3%A9rieure.jpg/330px-H%C3%B4tel_Dieu_de_Toulouse_-_La_cour_int%C3%A9rieure.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Hôtel-Dieu Saint-Jacques",
+      "name_ja": "オテル・デュー・サン・ジャック",
+      "name_es": "Hôtel-Dieu Saint-Jacques",
+      "name_zh": "圣雅克主教医院旧址",
+      "name_fr": "Hôtel-Dieu Saint-Jacques",
+      "name_de": "Hôtel-Dieu Saint-Jacques",
+      "price_en": "Free exterior",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_9",
@@ -10938,7 +15486,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Accessible en 45 minutes de train TER depuis la gare de Toulouse-Matabiau.",
       "tip_de": "In nur 45 Zugminuten vom Bahnhof Toulouse Matabiau aus erreichbar.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/1_carcassonne_aerial_2016.jpg/330px-1_carcassonne_aerial_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Cité de Carcassonne",
+      "name_ja": "カルカソンヌ城塞都市（世界遺産）",
+      "name_es": "Ciudadela de Carcasona",
+      "name_zh": "卡尔卡松城堡（世界遗产）",
+      "name_fr": "Cité de Carcassonne",
+      "name_de": "Cité von Carcassonne",
+      "price_en": "Free citadel / €9.50 castle",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_10",
@@ -10961,7 +15521,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "À 1 heure en train, ne manquez pas le musée Toulouse-Lautrec au palais de la Berbie.",
       "tip_de": "1 Stunde mit dem Zug entfernt, besuchen Sie das Toulouse-Lautrec Museum.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
+      "name_ja": "アルビ司教都市＆サント・セシル大聖堂",
+      "name_es": "Ciudad Episcopal de Albi y Catedral de Santa Cecilia",
+      "name_zh": "阿尔比主教城与圣塞西尔大教堂",
+      "name_fr": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
+      "name_de": "Bischofsstadt Albi & Kathedrale Sainte-Cécile",
+      "price_en": "Free cathedral / €10 Lautrec museum",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_11",
@@ -10984,7 +15556,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Promenez-vous dans le calme du cloître gothique et son jardin de gargouilles.",
       "tip_de": "Flanieren Sie durch den gotischen Kreuzgang und den Garten mit Wasserspeiern.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mus%C3%A9e_des_Augustin%2C_l%27aile_Darcy_-_Viollet-le-duc.jpg/330px-Mus%C3%A9e_des_Augustin%2C_l%27aile_Darcy_-_Viollet-le-duc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Musée des Augustins",
+      "name_ja": "オーギュスタン美術館",
+      "name_es": "Museo de los Agustinos",
+      "name_zh": "奥古斯丁博物馆",
+      "name_fr": "Musée des Augustins",
+      "name_de": "Musée des Augustins",
+      "price_en": "€6–€8",
+      "price_ja": "€6–€8",
+      "price_es": "€6–€8",
+      "price_zh": "€6–€8",
+      "price_fr": "€6–€8",
+      "price_de": "€6–€8"
     },
     {
       "id": "to_12",
@@ -11007,7 +15591,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Abrite l’une des plus remarquables collections permanentes de tableaux de Pierre Bonnard.",
       "tip_de": "Besitzt eine der bedeutendsten Sammlungen von Werken Pierre Bonnards.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bachelier_-_H%C3%B4tel_d%27Ass%C3%A9zat_-_Toulouse.jpg/330px-Bachelier_-_H%C3%B4tel_d%27Ass%C3%A9zat_-_Toulouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Fondation Bemberg",
+      "name_ja": "バンベルグ財団美術館",
+      "name_es": "Fundación Bemberg",
+      "name_zh": "班贝格基金会艺术馆",
+      "name_fr": "Fondation Bemberg",
+      "name_de": "Fondation Bemberg",
+      "price_en": "€10",
+      "price_ja": "€10",
+      "price_es": "€10",
+      "price_zh": "€10",
+      "price_fr": "€10",
+      "price_de": "€10"
     },
     {
       "id": "to_13",
@@ -11030,7 +15626,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Vérifiez si l’immense rideau de scène de Picasso est actuellement visible en galerie.",
       "tip_de": "Prüfen Sie, ob Picassos riesiger Bühnenvorhang aktuell ausgestellt ist.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
+      "name_ja": "レ・ザバトワール現代アート美術館",
+      "name_es": "Museo Les Abattoirs",
+      "name_zh": "屠宰场当代艺术馆",
+      "name_fr": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
+      "name_de": "Les Abattoirs Museum",
+      "price_en": "€9",
+      "price_ja": "€9",
+      "price_es": "€9",
+      "price_zh": "€9",
+      "price_fr": "€9",
+      "price_de": "€9"
     },
     {
       "id": "to_14",
@@ -11053,7 +15661,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Admirez les célèbres bustes d’empereurs romains mis au jour à la villa de Chiragan.",
       "tip_de": "Verpassen Sie nicht die römischen Büsten aus der Villa Chiragan.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mus%C3%A9e_Saint-Raymond_-_Toulouse.jpg/330px-Mus%C3%A9e_Saint-Raymond_-_Toulouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Musée Saint-Raymond",
+      "name_ja": "サン・レモン考古学博物館",
+      "name_es": "Museo San Raymond",
+      "name_zh": "圣雷蒙考古博物馆",
+      "name_fr": "Musée Saint-Raymond",
+      "name_de": "Musée Saint-Raymond",
+      "price_en": "€5",
+      "price_ja": "€5",
+      "price_es": "€5",
+      "price_zh": "€5",
+      "price_fr": "€5",
+      "price_de": "€5"
     },
     {
       "id": "to_15",
@@ -11076,7 +15696,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Combo parfait avec la promenade dans le Jardin des Plantes adjacent.",
       "tip_de": "Perfekt kombinierbar mit einem Spaziergang im angrenzenden Jardin des Plantes.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grand_carr%C3%A9_MHNT.jpg/330px-Grand_carr%C3%A9_MHNT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Muséum de Toulouse",
+      "name_ja": "トゥールーズ自然史博物館",
+      "name_es": "Museo de Historia Natural de Toulouse",
+      "name_zh": "图卢兹自然历史博物馆",
+      "name_fr": "Muséum de Toulouse",
+      "name_de": "Naturhistorisches Museum Toulouse",
+      "price_en": "€9 (Includes Botanical Garden)",
+      "price_ja": "€9 (Includes Botanical Garden)",
+      "price_es": "€9 (Includes Botanical Garden)",
+      "price_zh": "€9 (Includes Botanical Garden)",
+      "price_fr": "€9 (Includes Botanical Garden)",
+      "price_de": "€9 (Includes Botanical Garden)"
     },
     {
       "id": "to_16",
@@ -11099,7 +15731,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Collection captivante d’horloges mécaniques et d’automates d’époque.",
       "tip_de": "Faszinierende Sammlung historischer mechanischer Uhren und Automaten.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_Mus%C3%A9e_Paul_Dupuy.jpg/330px-Le_Mus%C3%A9e_Paul_Dupuy.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Musée Paul-Dupuy",
+      "name_ja": "ポール・デュピュイ装飾芸術・時計博物館",
+      "name_es": "Museo Paul-Dupuy",
+      "name_zh": "保罗·杜普伊装饰艺术博物馆",
+      "name_fr": "Musée Paul-Dupuy",
+      "name_de": "Musée Paul-Dupuy",
+      "price_en": "€5",
+      "price_ja": "€5",
+      "price_es": "€5",
+      "price_zh": "€5",
+      "price_fr": "€5",
+      "price_de": "€5"
     },
     {
       "id": "to_17",
@@ -11122,7 +15766,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Accessible facilement en tramway T1; vous pouvez monter à bord du Concorde.",
       "tip_de": "Direkt in Blagnac gelegen, mit der Straßenbahn T1 erreichbar; Sie können die Concorde betreten.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Aeroscopia Aviation Museum",
+      "name_ja": "アエロスコピア航空博物館",
+      "name_es": "Museo Aeronáutico Aeroscopia",
+      "name_zh": "Aeroscopia 航空博物馆",
+      "name_fr": "Musée Aéronautique Aeroscopia",
+      "name_de": "Luftfahrtmuseum Aeroscopia",
+      "price_en": "€14",
+      "price_ja": "€14",
+      "price_es": "€14",
+      "price_zh": "€14",
+      "price_fr": "€14",
+      "price_de": "€14"
     },
     {
       "id": "to_18",
@@ -11145,7 +15801,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Réservation en ligne obligatoire plusieurs semaines à l’avance; passeport requis.",
       "tip_de": "Wochen im Voraus online buchen; Reisepass ist beim Einlass zwingend erforderlich.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Let's Visit Airbus Tour",
+      "name_ja": "エアバス工場見学ツアー",
+      "name_es": "Visita Guiada a la Fábrica Airbus",
+      "name_zh": "空客飞机组装工厂参观导览",
+      "name_fr": "Visite des usines Airbus",
+      "name_de": "Airbus-Werkstour",
+      "price_en": "€16 (Advance booking mandatory)",
+      "price_ja": "€16 (Advance booking mandatory)",
+      "price_es": "€16 (Advance booking mandatory)",
+      "price_zh": "€16 (Advance booking mandatory)",
+      "price_fr": "€16 (Advance booking mandatory)",
+      "price_de": "€16 (Advance booking mandatory)"
     },
     {
       "id": "to_19",
@@ -11168,7 +15836,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Montez à l’étage vers 12h30 pour savourer une véritable saucisse de Toulouse.",
       "tip_de": "Gehen Sie gegen 12:30 Uhr in den 1. Stock für frische Meeresfrüchte und echte Toulouse-Wurst.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Marché Victor Hugo",
+      "name_ja": "ヴィクトル・ユーゴー市場",
+      "name_es": "Mercado Victor Hugo",
+      "name_zh": "维克多·雨果美食集市",
+      "name_fr": "Marché Victor Hugo",
+      "name_de": "Marché Victor Hugo",
+      "price_en": "€15–€30 lunch",
+      "price_ja": "€15–€30 lunch",
+      "price_es": "€15–€30 lunch",
+      "price_zh": "€15–€30 lunch",
+      "price_fr": "€15–€30 lunch",
+      "price_de": "€15–€30 lunch"
     },
     {
       "id": "to_20",
@@ -11191,7 +15871,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Faites une pause café l’après-midi simplement pour contempler son plafond sculpté.",
       "tip_de": "Trinken Sie nachmittags einen Kaffee, um das fantastische Interieur zu bewundern.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Le Bibent",
+      "name_ja": "ル・ビバン（ベル・エポック調老舗ブラッスリー）",
+      "name_es": "Le Bibent",
+      "name_zh": "Le Bibent 历史小酒馆",
+      "name_fr": "Le Bibent",
+      "name_de": "Le Bibent",
+      "price_en": "€5 coffee / €35 meal",
+      "price_ja": "€5 coffee / €35 meal",
+      "price_es": "€5 coffee / €35 meal",
+      "price_zh": "€5 coffee / €35 meal",
+      "price_fr": "€5 coffee / €35 meal",
+      "price_de": "€5 coffee / €35 meal"
     },
     {
       "id": "to_21",
@@ -11214,7 +15906,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Commandez le Cassoulet traditionnel au confit de canard gratiné au four.",
       "tip_de": "Bestellen Sie das Spezial-Cassoulet mit Entenconfit aus dem Ofen.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Le Colombier Cassoulet",
+      "name_ja": "ル・コロンビエ（伝統カスレ老舗）",
+      "name_es": "Le Colombier (Cassoulet tradicional)",
+      "name_zh": "Le Colombier 传统炖白豆老店",
+      "name_fr": "Le Colombier Cassoulet",
+      "name_de": "Le Colombier Cassoulet",
+      "price_en": "€24–€32",
+      "price_ja": "€24–€32",
+      "price_es": "€24–€32",
+      "price_zh": "€24–€32",
+      "price_fr": "€24–€32",
+      "price_de": "€24–€32"
     },
     {
       "id": "to_22",
@@ -11237,7 +15941,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Goûtez aux authentiques fleurs de violettes cristallisées au sucre.",
       "tip_de": "Probieren Sie die traditionellen kandierten Veilchenblüten.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "La Maison de la Violette",
+      "name_ja": "スミレの家（運河船ショップ）",
+      "name_es": "La Maison de la Violette",
+      "name_zh": "紫罗兰船屋工坊",
+      "name_fr": "La Maison de la Violette",
+      "name_de": "La Maison de la Violette",
+      "price_en": "€3–€15 violet products",
+      "price_ja": "€3–€15 violet products",
+      "price_es": "€3–€15 violet products",
+      "price_zh": "€3–€15 violet products",
+      "price_fr": "€3–€15 violet products",
+      "price_de": "€3–€15 violet products"
     },
     {
       "id": "to_23",
@@ -11260,7 +15976,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Rendez-vous dominical très prisé pour déguster des huîtres avec un verre de blanc.",
       "tip_de": "Sonntagsmorgens ein beliebter Treffpunkt für frische Austern und Weißwein.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/13.12.1966._L._Bazerque_inaugure_le_march%C3%A9_des_Carmes._%281966%29_-_53Fi3223.jpg/330px-13.12.1966._L._Bazerque_inaugure_le_march%C3%A9_des_Carmes._%281966%29_-_53Fi3223.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Marché des Carmes",
+      "name_ja": "カルム市場",
+      "name_es": "Mercado des Carmes",
+      "name_zh": "卡尔姆圆形集市",
+      "name_fr": "Marché des Carmes",
+      "name_de": "Marché des Carmes",
+      "price_en": "€5–€20",
+      "price_ja": "€5–€20",
+      "price_es": "€5–€20",
+      "price_zh": "€5–€20",
+      "price_fr": "€5–€20",
+      "price_de": "€5–€20"
     },
     {
       "id": "to_24",
@@ -11283,7 +16011,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Dégustez la spécialité chocolatée Le Pavé du Capitole.",
       "tip_de": "Probieren Sie die Schokoladenspezialität Le Pavé du Capitole.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Maison Pillon & Pâtisserie Bault",
+      "name_ja": "メゾン・ピロン＆バルト（伝統パティスリー）",
+      "name_es": "Maison Pillon y Pastelería Bault",
+      "name_zh": "Pillon 与 Bault 名门甜品店",
+      "name_fr": "Maison Pillon & Pâtisserie Bault",
+      "name_de": "Maison Pillon & Pâtisserie Bault",
+      "price_en": "€4–€8 pastries",
+      "price_ja": "€4–€8 pastries",
+      "price_es": "€4–€8 pastries",
+      "price_zh": "€4–€8 pastries",
+      "price_fr": "€4–€8 pastries",
+      "price_de": "€4–€8 pastries"
     },
     {
       "id": "to_25",
@@ -11306,7 +16046,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "À 30 minutes au nord; les vins de Négrette s’accordent à merveille avec le Cassoulet.",
       "tip_de": "30 Autominuten nördlich; Négrette-Weine passen hervorragend zum Cassoulet.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Domaine de Montjoie & Fronton Wineries",
+      "name_ja": "フロントン・ワインドメーヌ群",
+      "name_es": "Bodegas Domaine de Montjoie y Fronton",
+      "name_zh": "Fronton 特色葡萄酒庄群",
+      "name_fr": "Domaine de Montjoie & Vins de Fronton",
+      "name_de": "Weingut Domaine de Montjoie & Fronton",
+      "price_en": "€10–€25 tasting",
+      "price_ja": "€10–€25 tasting",
+      "price_es": "€10–€25 tasting",
+      "price_zh": "€10–€25 tasting",
+      "price_fr": "€10–€25 tasting",
+      "price_de": "€10–€25 tasting"
     },
     {
       "id": "to_26",
@@ -11329,7 +16081,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Apportez un pique-nique au crépuscule pour vous joindre aux Toulousains sur la pelouse.",
       "tip_de": "Bringen Sie bei Dämmerung ein Picknick mit und genießen Sie die Atmosphäre am Ufer.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Quai de la Daurade & Promenade de la Garonne",
+      "name_ja": "ドラード河岸＆ガロンヌ川遊歩道",
+      "name_es": "Quai de la Daurade y Paseo del Garona",
+      "name_zh": "多拉德水岸与加龙河步道",
+      "name_fr": "Quai de la Daurade & Promenade de la Garonne",
+      "name_de": "Quai de la Daurade & Garonne-Promenade",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_27",
@@ -11352,7 +16116,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Jetez un coup d’œil à travers les cochers ouverts pour apercevoir de superbes cours.",
       "tip_de": "Achten Sie tagsüber auf offen stehende Tore zu den historischen Innenhöfen.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Quartier des Carmes & Quartier Saint-Étienne",
+      "name_ja": "カルム地区＆サン・テティエンヌ地区",
+      "name_es": "Barrio de Carmes y Barrio de Saint-Étienne",
+      "name_zh": "卡尔姆与圣艾蒂安古雅街区",
+      "name_fr": "Quartier des Carmes & Quartier Saint-Étienne",
+      "name_de": "Viertel des Carmes & Saint-Étienne",
+      "price_en": "Free walk",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_28",
@@ -11375,7 +16151,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Louez un VélôToulouse pour pédaler le long de l’ancien chemin de halage.",
       "tip_de": "Mieten Sie ein VélôToulouse-Fahrrad für eine Tour am Kanalufer.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pont-canal_de_l%27Orb004.JPG/330px-Pont-canal_de_l%27Orb004.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Canal du Midi (Port de l'Embouchure)",
+      "name_ja": "ミディ運河（世界遺産）",
+      "name_es": "Canal du Midi",
+      "name_zh": "米迪运河（世界遗产）",
+      "name_fr": "Canal du Midi",
+      "name_de": "Canal du Midi",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_29",
@@ -11398,7 +16186,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "L’endroit idéal pour prendre un verre en terrasse sous le soleil toulousain.",
       "tip_de": "Einer der besten Orte der Stadt, um bei einem Drink in der Sonne zu entspannen.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Place Saint-Georges",
+      "name_ja": "サン・ジョルジュ広場",
+      "name_es": "Plaza Saint-Georges",
+      "name_zh": "圣乔治广场",
+      "name_fr": "Place Saint-Georges",
+      "name_de": "Place Saint-Georges",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_30",
@@ -11421,7 +16221,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Oasis de sérénité gratuit idéal pour une pause au calme en pleine ville.",
       "tip_de": "Eine kostenfreie Friedensoase mitten in der Stadt für eine entspannte Pause.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Jardin Japonais Pierre Baudis",
+      "name_ja": "ピエール・ボディス日本庭園",
+      "name_es": "Jardín Japonés Pierre Baudis",
+      "name_zh": "皮埃尔·博迪日式庭园",
+      "name_fr": "Jardin Japonais Pierre Baudis",
+      "name_de": "Japanischer Garten Pierre Baudis",
+      "price_en": "Free entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_31",
@@ -11444,7 +16256,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Permet d’admirer les façades de briques roses depuis le milieu du fleuve.",
       "tip_de": "Bietet tolle Fotoperspektiven auf die Backsteinfassaden vom Wasser aus.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Bateaux Toulousains Cruise",
+      "name_ja": "ガロンヌ川・ミディ運河クルーズ船",
+      "name_es": "Crucero Bateaux Toulousains",
+      "name_zh": "图卢兹水上观光游船",
+      "name_fr": "Bateaux Toulousains Croisières",
+      "name_de": "Bootsfahrt Bateaux Toulousains",
+      "price_en": "€12–€16 cruise",
+      "price_ja": "€12–€16 cruise",
+      "price_es": "€12–€16 cruise",
+      "price_zh": "€12–€16 cruise",
+      "price_fr": "€12–€16 cruise",
+      "price_de": "€12–€16 cruise"
     },
     {
       "id": "to_32",
@@ -11467,7 +16291,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Promenade ombragée très paisible pour s’éloigner de l’agitation.",
       "tip_de": "Ruhiger Spazierweg abseits der belebten Pfade.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Canal_de_Brienne.jpg/330px-Canal_de_Brienne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Canal de Brienne",
+      "name_ja": "ブレンヌ運河散策路",
+      "name_es": "Canal de Brienne",
+      "name_zh": "布里安运河水渠",
+      "name_fr": "Canal de Brienne",
+      "name_de": "Canal de Brienne",
+      "price_en": "Free access",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_33",
@@ -11490,7 +16326,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "À 1h15 en voiture; prévoyez de bonnes chaussures pour grimper ses ruelles escarpées.",
       "tip_de": "1 Std. 15 Min. mit dem Auto; festes Schuhwerk für die steilen Pflasterstraßen empfohlen.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aerial_image_of_Cordes-sur-Ciel_%28view_from_the_southwest%29.jpg/330px-Aerial_image_of_Cordes-sur-Ciel_%28view_from_the_southwest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Cordes-sur-Ciel",
+      "name_ja": "コルド＝シュル＝シエル（天空の村）",
+      "name_es": "Cordes-sur-Ciel",
+      "name_zh": "科尔德斯天空之城",
+      "name_fr": "Cordes-sur-Ciel",
+      "name_de": "Cordes-sur-Ciel",
+      "price_en": "Free village entry",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_34",
@@ -11514,7 +16362,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Prévoyez la journée complète; la simulation de marche lunaire est incontournable.",
       "tip_de": "Planen Sie einen ganzen Tag ein; die Mondschein-Simulation begeistert Kinder und Erwachsene.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/CDE_Mir.JPG/330px-CDE_Mir.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_en": "Cité de l'Espace",
+      "name_ja": "シテ・ド・レスパス（宇宙の街テーマパーク）",
+      "name_es": "Cité de l'Espace",
+      "name_zh": "太空城航天主题公园",
+      "name_fr": "Cité de l'Espace",
+      "name_de": "Cité de l'Espace",
+      "price_en": "€24.50 adults / €18 kids",
+      "price_ja": "€24.50 adults / €18 kids",
+      "price_es": "€24.50 adults / €18 kids",
+      "price_zh": "€24.50 adults / €18 kids",
+      "price_fr": "€24.50 adults / €18 kids",
+      "price_de": "€24.50 adults / €18 kids"
     },
     {
       "id": "to_35",
@@ -11538,7 +16398,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Réservez en ligne pour monter sur le dos du gigantesque Minotaure crachant de la vapeur.",
       "tip_de": "Buchen Sie Tickets online für die Fahrt auf dem dampfenden Minotaurus.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "La Halle de la Machine",
+      "name_ja": "ラ・アル・ド・ラ・マシン（巨大機械怪獣パーク）",
+      "name_es": "La Halle de la Machine",
+      "name_zh": "机械大厅艺术园区",
+      "name_fr": "La Halle de la Machine",
+      "name_de": "La Halle de la Machine",
+      "price_en": "€9.50 exhibit / €14 with Minotaur ride",
+      "price_ja": "€9.50 exhibit / €14 with Minotaur ride",
+      "price_es": "€9.50 exhibit / €14 with Minotaur ride",
+      "price_zh": "€9.50 exhibit / €14 with Minotaur ride",
+      "price_fr": "€9.50 exhibit / €14 with Minotaur ride",
+      "price_de": "€9.50 exhibit / €14 with Minotaur ride"
     },
     {
       "id": "to_36",
@@ -11562,7 +16434,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Les enfants adorent les simulateurs de vol et les ateliers de télégraphie Morse.",
       "tip_de": "Kinder lieben die Flugsimulatoren und die Morsecode-Stationen.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "L'Envol des Pionniers",
+      "name_ja": "レゴポスタル歴史館（アエロポスタル体験）",
+      "name_es": "L'Envol des Pionniers",
+      "name_zh": "先驱飞翔传奇航邮博物馆",
+      "name_fr": "L'Envol des Pionniers",
+      "name_de": "L'Envol des Pionniers",
+      "price_en": "€8.50",
+      "price_ja": "€8.50",
+      "price_es": "€8.50",
+      "price_zh": "€8.50",
+      "price_fr": "€8.50",
+      "price_de": "€8.50"
     },
     {
       "id": "to_37",
@@ -11586,7 +16470,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Lieu idéal en famille pour déguster une glace près de l’aire de jeux.",
       "tip_de": "Ideal für Familien für ein Eis am großen Kinderspielplatz.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Jardin des Plantes & Le Grand Rond",
+      "name_ja": "グラン・ロン＆植物園公園群",
+      "name_es": "Jardin des Plantes y Le Grand Rond",
+      "name_zh": "植物园与大圆盘公园",
+      "name_fr": "Jardin des Plantes & Le Grand Rond",
+      "name_de": "Jardin des Plantes & Le Grand Rond",
+      "price_en": "Free park / €2 pony rides",
+      "price_ja": "入場無料",
+      "price_es": "Entrada gratuita",
+      "price_zh": "免费开放",
+      "price_fr": "Entrée libre",
+      "price_de": "Eintritt frei"
     },
     {
       "id": "to_38",
@@ -11610,7 +16506,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Situé à 35 min à l’ouest; idéal pour les enfants de 2 à 12 ans.",
       "tip_de": "35 Autominuten westlich; perfekt für Kinder im Alter von 2 bis 12 Jahren.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Animaparc Occitanie",
+      "name_ja": "アニマパーク・オクシタニー（恐竜＆動物ファーム）",
+      "name_es": "Animaparc Occitanie",
+      "name_zh": "Animaparc 动态恐龙与亲子农场",
+      "name_fr": "Animaparc Occitanie",
+      "name_de": "Animaparc Occitanie",
+      "price_en": "€16.50",
+      "price_ja": "€16.50",
+      "price_es": "€16.50",
+      "price_zh": "€16.50",
+      "price_fr": "€16.50",
+      "price_de": "€16.50"
     },
     {
       "id": "to_39",
@@ -11634,7 +16542,19 @@ const candidateSpotsDatabase = {
       "tip_fr": "Comprend un jeu de piste captivant à résoudre en famille tout au long du parcours.",
       "tip_de": "Enthält ein unterhaltsames Rätsel-Suchspiel für die ganze Familie.",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_en": "Le Labyrinthe de Merville",
+      "name_ja": "メルヴィル城の巨大生垣迷路",
+      "name_es": "El Laberinto de Merville",
+      "name_zh": "梅尔维尔古堡生垣大迷宫",
+      "name_fr": "Le Labyrinthe de Merville",
+      "name_de": "Le Labyrinthe de Merville",
+      "price_en": "€10.50 adults / €8.50 kids",
+      "price_ja": "€10.50 adults / €8.50 kids",
+      "price_es": "€10.50 adults / €8.50 kids",
+      "price_zh": "€10.50 adults / €8.50 kids",
+      "price_fr": "€10.50 adults / €8.50 kids",
+      "price_de": "€10.50 adults / €8.50 kids"
     }
   ]
 };
@@ -11904,6 +16824,44 @@ const AITravelEngine = {
     return true;
   },
 
+  getLocalizedSpotName(spot) {
+    if (!spot) return '';
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+    return spot['name_' + lang] || spot.name_ja || spot.name_en || spot.name || '';
+  },
+  getLocalizedDesc(spot) {
+    if (!spot) return '';
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+    return spot['desc_' + lang] || spot.desc_ja || spot.desc_en || spot.desc || '';
+  },
+  getLocalizedTip(spot) {
+    if (!spot) return '';
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+    return spot['tip_' + lang] || spot.tip_ja || spot.tip_en || '';
+  },
+  getLocalizedPrice(spot) {
+    if (!spot) return '';
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+    return spot['price_' + lang] || spot.price || '';
+  },
+  getLocalizedCategory(categoryKey) {
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+    const c = String(categoryKey || '').toLowerCase();
+    if (c.includes('landmark')) return lang === 'ja' ? '🏛️ 名所' : lang === 'es' ? '🏛️ Monumento' : lang === 'zh' ? '🏛️ 地标' : lang === 'fr' ? '🏛️ Monument' : lang === 'de' ? '🏛️ Highlight' : '🏛️ Landmark';
+    if (c.includes('museum') || c.includes('art')) return lang === 'ja' ? '🎨 美術館' : lang === 'es' ? '🎨 Museo' : lang === 'zh' ? '🎨 博物馆' : lang === 'fr' ? '🎨 Musée' : lang === 'de' ? '🎨 Museum' : '🎨 Museum';
+    if (c.includes('café') || c.includes('cafe') || c.includes('bistro') || c.includes('dining') || c.includes('restaurant')) return lang === 'ja' ? '☕ カフェ' : lang === 'es' ? '☕ Café' : lang === 'zh' ? '☕ 咖啡美食' : lang === 'fr' ? '☕ Café' : lang === 'de' ? '☕ Café' : '☕ Café';
+    if (c.includes('scenery') || c.includes('walk') || c.includes('park')) return lang === 'ja' ? '🌆 景観・散策' : lang === 'es' ? '🌆 Paseo' : lang === 'zh' ? '🌆 散步风光' : lang === 'fr' ? '🌆 Promenade' : lang === 'de' ? '🌆 Aussicht' : '🌆 Scenery & Walk';
+    if (c.includes('kids') || c.includes('family')) return lang === 'ja' ? '🧸 キッズ' : lang === 'es' ? '🧸 Niños' : lang === 'zh' ? '🧸 亲子' : lang === 'fr' ? '🧸 Enfants' : lang === 'de' ? '🧸 Kinder' : '🧸 Kids';
+    return categoryKey;
+  },
+  getLocalizedZone(zone) {
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+    if (zone === 'suburban') {
+      return lang === 'ja' ? '🏞️ 郊外' : lang === 'es' ? '🏞️ Suburbano' : lang === 'zh' ? '🏞️ 郊区日游' : lang === 'fr' ? '🏞️ Banlieue' : lang === 'de' ? '🏞️ Umgebung' : '🏞️ Suburban';
+    }
+    return lang === 'ja' ? '🏙️ 市内' : lang === 'es' ? '🏙️ Centro' : lang === 'zh' ? '🏙️ 市中心' : lang === 'fr' ? '🏙️ Centre-ville' : lang === 'de' ? '🏙️ Stadtzentrum' : '🏙️ City Center';
+  },
+
   openSpotModal(spotId) {
     let spot = null;
     for (const cityKey in candidateSpotsDatabase) {
@@ -11924,9 +16882,12 @@ const AITravelEngine = {
       document.body.appendChild(modal);
     }
 
-    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
-    const activeDesc = spot['desc_' + lang] || spot.desc_ja || spot.desc_en || spot.desc;
-    const activeTip = spot['tip_' + lang] || spot.tip_ja || spot.tip_en;
+    const activeName = this.getLocalizedSpotName(spot);
+    const activeDesc = this.getLocalizedDesc(spot);
+    const activeTip = this.getLocalizedTip(spot);
+    const activePrice = this.getLocalizedPrice(spot);
+    const activeCat = this.getLocalizedCategory(spot.category);
+    const activeZone = this.getLocalizedZone(spot.locationZone);
 
     const hasPhoto = Boolean(spot.image);
     const cleanRating = String(spot.rating || '').startsWith('★') ? spot.rating : `★${spot.rating}`;
@@ -11939,7 +16900,7 @@ const AITravelEngine = {
         <div>
           ${hasPhoto ? `
             <div style="width:100%; height:190px; overflow:hidden; border-radius:14px; margin-bottom:0.85rem; background:#FAF7F2; position:relative;">
-              <img src="${spot.image}" alt="${escapeHtml(spot.name)}" style="width:100%; height:100%; object-fit:cover; display:block;">
+              <img src="${spot.image}" alt="${escapeHtml(activeName)}" style="width:100%; height:100%; object-fit:cover; display:block;">
               <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7;">🌐 Wikipedia</span>
               <span style="position:absolute; top:8px; right:8px; font-size:0.8rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857;">${cleanRating}</span>
             </div>
@@ -11948,7 +16909,7 @@ const AITravelEngine = {
               <div style="display:flex; align-items:center; gap:0.5rem;">
                 <span style="font-size:1.6rem;">${getCategoryIcon(spot.category)}</span>
                 <div>
-                  <div style="font-weight:800; font-size:0.9rem; color:var(--primary-wood);">${escapeHtml(spot.category)}</div>
+                  <div style="font-weight:800; font-size:0.9rem; color:var(--primary-wood);">${escapeHtml(activeCat)}</div>
                   <div style="font-size:0.72rem; color:var(--text-secondary);">Verified Google Maps Venue</div>
                 </div>
               </div>
@@ -11957,15 +16918,15 @@ const AITravelEngine = {
           `}
 
           <div style="display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap; margin-bottom:0.5rem;">
-            <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${spot.category}</span>
+            <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${activeCat}</span>
             <span style="font-size:0.72rem; font-weight:700; background:${spot.locationZone === 'suburban' ? '#FEF3C7' : '#F1F5F9'}; color:${spot.locationZone === 'suburban' ? '#B45309' : '#475569'}; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid ${spot.locationZone === 'suburban' ? '#FDE68A' : '#CBD5E1'};">
-              ${spot.locationZone === 'suburban' ? '🏞️ Suburban' : '🏙️ City Center'}
+              ${activeZone}
             </span>
             ${spot.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
           </div>
 
           <h3 style="font-size:1.2rem; margin-bottom:0.4rem; font-family:var(--font-sans); color:var(--text-primary); word-break:break-word;">
-            ${escapeHtml(spot.name)}
+            ${escapeHtml(activeName)}
           </h3>
 
           <p style="font-size:0.9rem; color:var(--text-secondary); line-height:1.55; margin-bottom:0.85rem; word-break:break-word;">
@@ -11980,7 +16941,7 @@ const AITravelEngine = {
           ` : ''}
 
           <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.85rem; border-top:1px dashed #EADEC9; padding-top:0.75rem; margin-top:0.5rem; flex-wrap:wrap; gap:0.5rem;">
-            <span style="font-weight:700; color:var(--primary-wood);">${escapeHtml(spot.price)}</span>
+            <span style="font-weight:700; color:var(--primary-wood);">${escapeHtml(activePrice)}</span>
             ${this.createMapsLink(spot.name.split(' (')[0], cityClean, false)}
           </div>
         </div>
@@ -12002,11 +16963,14 @@ const AITravelEngine = {
 
   formatCompactPrice(priceStr) {
     if (!priceStr) return '';
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
     const p = String(priceStr).trim();
-    if (p.toLowerCase().includes('free')) return 'Free';
+    if (p.toLowerCase().includes('free') || p.includes('無料') || p.includes('gratuit') || p.includes('gratis') || p.includes('免费')) {
+      return lang === 'ja' ? '無料' : lang === 'es' ? 'Gratis' : lang === 'zh' ? '免费' : lang === 'fr' ? 'Gratuit' : lang === 'de' ? 'Kostenlos' : 'Free';
+    }
     const match = p.match(/€\s*\d+([.,]\d+)?/);
     if (match) return match[0].replace(/\s+/, '');
-    return p.length > 8 ? p.substring(0, 8) : p;
+    return p.length > 10 ? p.substring(0, 10) : p;
   },
 
   setCategoryFilter(category) {
@@ -12129,8 +17093,10 @@ const AITravelEngine = {
           const isChecked = this.selectedMustVisitIds.has(s.id);
           const rawRating = String(s.rating || '');
           const cleanRating = rawRating.startsWith('★') ? rawRating : `★${rawRating}`;
-          const cleanPrice = this.formatCompactPrice(s.price);
-          const cardDesc = s['desc_' + activeLang] || s.desc_ja || s.desc_en || s.desc;
+          const cardName = this.getLocalizedSpotName(s);
+          const cardDesc = this.getLocalizedDesc(s);
+          const cardPrice = this.getLocalizedPrice(s);
+          const cleanPrice = this.formatCompactPrice(cardPrice);
 
           return `
             <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; padding:0.45rem 0.55rem; display:flex; align-items:center; justify-content:space-between; gap:0.4rem; border-radius:10px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 0 2px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
@@ -12140,7 +17106,7 @@ const AITravelEngine = {
                 <div style="display:flex; flex-direction:column; justify-content:center; min-width:0; flex:1;">
                   <!-- Line 1: Spot Name (Up to 2 lines wrap) -->
                   <div style="font-weight:800; font-size:0.92rem; color:var(--text-primary); line-height:1.25; word-break:break-word;">
-                    ${escapeHtml(s.name)}
+                    ${escapeHtml(cardName)}
                   </div>
 
                   <!-- Line 2: Description (Up to 3 lines clamped) -->
@@ -12166,7 +17132,7 @@ const AITravelEngine = {
                 ${this.createMapsLink(s.name.split(' (')[0], city.split(',')[0], true)}
 
                 <button type="button" onclick="event.stopPropagation(); AITravelEngine.openSpotModal('${s.id}')" onpointerdown="event.stopPropagation(); AITravelEngine.openSpotModal('${s.id}')" style="display:inline-flex; align-items:center; justify-content:center; background:#EFF6FF; color:#0369A1; border:1px solid #BAE6FD; padding:0.12rem 0.35rem; border-radius:4px; font-weight:800; font-size:0.62rem; cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent;" title="View photo & details">
-                  More
+                  ${t('btn.viewDetails')}
                 </button>
               </div>
             </div>
@@ -12181,20 +17147,24 @@ const AITravelEngine = {
         container.innerHTML = viewModeBarHtml + filteredSpots.map(s => {
           const isChecked = this.selectedMustVisitIds.has(s.id);
           const hasPhoto = Boolean(s.image);
-          const cardDesc = s['desc_' + activeLang] || s.desc_ja || s.desc_en || s.desc;
+          const cardName = this.getLocalizedSpotName(s);
+          const cardDesc = this.getLocalizedDesc(s);
+          const cardPrice = this.getLocalizedPrice(s);
+          const cardCat = this.getLocalizedCategory(s.category);
+          const cardZone = this.getLocalizedZone(s.locationZone);
 
           return `
             <div class="card spot-candidate-card" style="border:2.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; transition:all 0.2s ease; display:flex; flex-direction:column; justify-content:space-between; position:relative; box-shadow:${isChecked ? '0 0 0 3px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
               ${isChecked ? `
                 <div style="position:absolute; top:-10px; left:-10px; background:#047857; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.25rem 0.65rem; border-radius:999px; border:2px solid #FFF; box-shadow:0 2px 5px rgba(0,0,0,0.2); z-index:10;">
-                  ✓ SELECTED
+                  ✓ ${t('badge.mustVisit')}
                 </div>
               ` : ''}
 
               <div>
                 ${hasPhoto ? `
                   <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
-                    <img src="${s.image}" alt="${escapeHtml(s.name)}" loading="lazy" decoding="async" onerror="this.onerror=null; this.parentElement.style.display='none';" style="width:100%; height:100%; object-fit:cover; display:block;">
+                    <img src="${s.image}" alt="${escapeHtml(cardName)}" loading="lazy" decoding="async" onerror="this.onerror=null; this.parentElement.style.display='none';" style="width:100%; height:100%; object-fit:cover; display:block;">
                     <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7; box-shadow:0 2px 4px rgba(0,0,0,0.1);">🌐 Wikipedia</span>
                     <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
                   </div>
@@ -12203,7 +17173,7 @@ const AITravelEngine = {
                     <div style="display:flex; align-items:center; gap:0.5rem;">
                       <span style="font-size:1.5rem;">${getCategoryIcon(s.category)}</span>
                       <div>
-                        <div style="font-weight:800; font-size:0.85rem; color:var(--primary-wood);">${escapeHtml(s.category)}</div>
+                        <div style="font-weight:800; font-size:0.85rem; color:var(--primary-wood);">${escapeHtml(cardCat)}</div>
                         <div style="font-size:0.72rem; color:var(--text-secondary);">Verified Google Maps Venue</div>
                       </div>
                     </div>
@@ -12213,9 +17183,9 @@ const AITravelEngine = {
 
                 <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.4rem; flex-wrap:wrap; gap:0.3rem;">
                   <div style="display:flex; align-items:center; gap:0.3rem; flex-wrap:wrap;">
-                    <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${s.category}</span>
+                    <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${cardCat}</span>
                     <span style="font-size:0.72rem; font-weight:700; background:${s.locationZone === 'suburban' ? '#FEF3C7' : '#F1F5F9'}; color:${s.locationZone === 'suburban' ? '#B45309' : '#475569'}; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid ${s.locationZone === 'suburban' ? '#FDE68A' : '#CBD5E1'};">
-                      ${s.locationZone === 'suburban' ? '🏞️ Suburban' : '🏙️ City Center'}
+                      ${cardZone}
                     </span>
                     ${s.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
                   </div>
@@ -12223,14 +17193,14 @@ const AITravelEngine = {
 
                 <h4 style="font-size:1.05rem; margin-bottom:0.35rem; font-family:var(--font-sans); color:var(--text-primary); display:flex; align-items:center; gap:0.5rem; word-break:break-word;">
                   <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:20px; height:20px; cursor:pointer; accent-color:#047857; flex-shrink:0;">
-                  <span>${escapeHtml(s.name)}</span>
+                  <span>${escapeHtml(cardName)}</span>
                 </h4>
 
                 <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.75rem; word-break:break-word;">${escapeHtml(cardDesc)}</p>
               </div>
 
               <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.8rem; border-top:1px dashed #EADEC9; padding-top:0.5rem; margin-top:auto; gap:0.5rem; flex-wrap:wrap;">
-                <span style="font-weight:700; color:var(--primary-wood);">${escapeHtml(s.price)}</span>
+                <span style="font-weight:700; color:var(--primary-wood);">${escapeHtml(cardPrice)}</span>
                 ${this.createMapsLink(s.name.split(' (')[0], city.split(',')[0])}
               </div>
             </div>
@@ -12613,7 +17583,8 @@ const AITravelEngine = {
     }
 
     return spotsArray.map((spot, idx) => {
-      const query = `${spot.name} ${cityClean}`;
+      const spotDisplayName = this.getLocalizedSpotName(spot);
+      const query = `${spot.name || spotDisplayName} ${cityClean}`;
       const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 
       return `
@@ -12629,7 +17600,7 @@ const AITravelEngine = {
             <span style="font-weight:800; background:#E2E8F0; color:#334155; width:26px; height:26px; display:inline-flex; align-items:center; justify-content:center; border-radius:50%; font-size:0.78rem; flex-shrink:0;">${idx + 1}</span>
 
             <span style="font-weight:700; color:#1E293B; word-break:break-word; flex:1; display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap;">
-              <span>${escapeHtml(spot.name)}</span>
+              <span>${escapeHtml(spotDisplayName)}</span>
               ${spot.isHotel || spot.category === 'Hotel & Stay' ? `
                 <span style="font-size:0.62rem; font-weight:800; background:#F3E8FF; color:#7E22CE; padding:0.08rem 0.3rem; border-radius:4px; border:1px solid #D8B4FE; white-space:nowrap;">🏨 Return Hotel</span>
               ` : spot.isMustVisit ? `
