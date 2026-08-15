@@ -1,12 +1,12 @@
 # 📘 Spot Database Architecture & Complete Quality Control Rulebook
-**Document Version**: `v3.0.0` (Complete Master Systemic Edition - 2026-08-15)  
+**Document Version**: `v4.0.0` (Complete Master Systemic Edition - 2026-08-15)  
 **File Location**: `docs/SPOT_DATABASE_RULES.md`  
 **Automated Rule Location**: `.agents/rules/spot_database_rules.md`
 
 ---
 
 ## 🎯 目的（Purpose）
-今後、何千・何万件と新しい都市や観光スポットがアプリに追加されても、データの品質劣化、英語漏れ、翻訳表示のアンバランス、タグ誤設定（Kids過剰流入等）、画像未反映（Wikipedia連携失敗）、UIレイアウト要素の破綻が**二度と発生しないよう、すべてのデータベース構築・自動検証・画像パイプライン項目を完備したマスタールールブック**です。
+今後、何千・何万件と新しい都市や観光スポットがアプリに追加されても、データの品質劣化、英語漏れ、翻訳表示のアンバランス、タグ誤設定（Kids過剰流入等）、画像未反映・枠消滅（Wikipedia連携失敗・404リンク切れ）、UIレイアウト要素の破綻が**二度と発生しないよう、すべてのデータベース構築・自動検証・画像パイプライン項目を完備したマスタールールブック**です。
 
 ---
 
@@ -27,14 +27,15 @@
 
 ---
 
-### 2. 📸 Wikipedia自動画像取得・検証パイプライン（Universal Wikipedia Photo Pipeline）
+### 2. 📸 Wikipedia自動画像取得・HTTP生生存検証・UI代替カード換装（Universal Wikipedia Photo & UI Fallback Rules）
 * **全角・半角カッコの完全正規化除去**:
   - Wikipedia API検索用スラグ生成時、`re.sub(r'[\(\（].*?[\)\）]', '', name)` を使用し、全角 `（` および半角 `(` のカッコ内補足文字を100%除去します。
   - スラグ生成には `name_de` / `name_en` / `name_fr` の純粋な現地語名称を優先使用します。
-* **多言語フォールバックチェーン**:
-  - `de.wikipedia.org` ➔ `en.wikipedia.org` ➔ `fr.wikipedia.org` ➔ `nl.wikipedia.org` ➔ `ja.wikipedia.org` の順でREST API（`api/rest_v1/page/summary/<slug>`）を検索し、有効なサムネイル画像URL（`image`）を自動バインドします。
-* **ビルドパイプライン直元化**:
-  - スポット追加・更新時、`rebuild_js_database.py` 実行時に `auto_wikipedia_image_fetcher.py` が自動で前処理として走り、画像未取得スポットをゼロにします。
+* **HTTP HEAD/GET 生生存チェック**:
+  - 既存の画像URLが含まれる場合であっても、パイプライン実行時にHTTP通信テストを行い、`404 Not Found` や `429 Too Many Requests` 等のリンク切れURLを検出した場合は自動でWikipedia REST APIから最新の正しい画像を再取得します。
+* **UI破壊的エラーハンドラの絶対禁止**:
+  - `onerror="this.parentElement.style.display='none'"` 等の親要素を非表示にしてヘッダー枠を削除する破壊的コードを**永久に禁止**します。
+  - 画像読み込みエラー発生時は、即座に「グラデーション付きカテゴリーヘッダーカード」（カテゴリーアイコン・ジャンル名・評価★）へ自動換装する `AITravelEngine.handleImageError()` ロジックを適用します。
 
 ---
 

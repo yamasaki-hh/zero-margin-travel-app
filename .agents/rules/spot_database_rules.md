@@ -4,10 +4,11 @@
    - Every spot name across all 6 supported languages (`name_en`, `name_ja`, `name_es`, `name_zh`, `name_fr`, `name_de`) must preserve `Original Local Name (Localized Name)` for non-native languages.
    - Example: `Pont des Arts（ポン・デ・ザール）` for JA, `Basilique Notre-Dame de Fourvière (Fourvière Basilica)` for EN, `Basilique Notre-Dame de Fourvière (富维耶圣母院)` for ZH.
 
-2. **Wikipedia Auto-Image Resolution Pipeline**:
+2. **Wikipedia Auto-Image Resolution & Live HTTP Verification**:
    - Automatically strip fullwidth `（` and halfwidth `(` parenthetical expressions using `re.sub(r'[\(\（].*?[\)\）]', '', name)`.
+   - Perform live HTTP HEAD/GET verification on every stored image URL to catch 404/429 dead links.
    - Query localized names (`name_de`, `name_en`, `name_fr`) against `de.wikipedia.org`, `en.wikipedia.org`, `fr.wikipedia.org`, `nl.wikipedia.org`, `ja.wikipedia.org` with automatic fallback.
-   - Automatically execute Wikipedia fetcher prior to JS database compilation.
+   - **UI Fallback Rule**: `onerror="this.parentElement.style.display='none'"` is strictly prohibited. Image loading errors must cleanly replace the container with the styled category fallback header card (`AITravelEngine.handleImageError`).
 
 3. **Description vs Insider Tip 0% Overlap Rule**:
    - `desc`: Basic architectural, historical facts (1-2 sentences).

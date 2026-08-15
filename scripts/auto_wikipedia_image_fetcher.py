@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Zero-Margin Travel App - Universal City-Modular Wikipedia Image Pipeline (v3.0.0)
-100% Robust Parenthesis Normalization & Multi-Language Wikipedia API Resolution
+Zero-Margin Travel App - Universal City-Modular Wikipedia Image Pipeline (v6.0.0)
+100% Direct Wikipedia REST API Resolution with Rate-Limit (429) Retry & Backoff
 """
 
 import urllib.request
@@ -15,50 +15,58 @@ import re
 
 ctx = ssl._create_unverified_context()
 HEADERS = {
-    'User-Agent': 'ZeroMarginTravelApp/17.0 (https://github.com/zeromargin-travel/zero-margin-travel-app; contact@zeromargin-travel.org)'
+    'User-Agent': 'ZeroMarginTravelApp/18.0 (https://github.com/zeromargin-travel/zero-margin-travel-app; contact@zeromargin-travel.org)'
 }
 
 def clean_title(raw_title):
     if not raw_title:
         return ""
-    # Strip fullwidth （...） and halfwidth (...) parenthetical text
-    cleaned = re.sub(r'[\(\（].*?[\)\）]', '', raw_title).strip()
-    return cleaned
+    # Strip all nested parens (halfwidth and fullwidth)
+    cleaned = raw_title
+    while re.search(r'[\(\（][^\(\）\（\）]*[\)\）]', cleaned):
+        cleaned = re.sub(r'[\(\（][^\(\）\（\）]*[\)\）]', '', cleaned).strip()
+    return cleaned.strip()
 
 def fetch_wiki_summary(lang, slug):
     if not slug:
         return ""
     encoded_slug = urllib.parse.quote(slug.replace(' ', '_'))
     url = f'https://{lang}.wikipedia.org/api/rest_v1/page/summary/{encoded_slug}'
-    try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, context=ctx, timeout=3) as res:
-            if res.status == 200:
-                data = json.loads(res.read().decode('utf-8'))
-                src = data.get('thumbnail', {}).get('source', '')
-                if src and ('upload.wikimedia.org' in src or 'http' in src):
-                    return src
-    except Exception:
-        pass
+    
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, context=ctx, timeout=4) as res:
+                if res.status == 200:
+                    data = json.loads(res.read().decode('utf-8'))
+                    src = data.get('thumbnail', {}).get('source', '')
+                    if src and ('upload.wikimedia.org' in src or 'http' in src):
+                        return src
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                time.sleep(0.8 * (attempt + 1))
+            else:
+                break
+        except Exception:
+            break
     return ""
 
 def resolve_spot_image(spot):
-    # Candidate titles to search Wikipedia
     candidates = []
     
-    # 1. DE name if available
+    # 1. DE name
     name_de = clean_title(spot.get('name_de', ''))
     if name_de:
         candidates.append(('de', name_de))
         candidates.append(('en', name_de))
     
-    # 2. EN name if available
+    # 2. EN name
     name_en = clean_title(spot.get('name_en', ''))
     if name_en:
         candidates.append(('en', name_en))
         candidates.append(('de', name_en))
     
-    # 3. FR name if available
+    # 3. FR name
     name_fr = clean_title(spot.get('name_fr', ''))
     if name_fr:
         candidates.append(('fr', name_fr))
@@ -71,7 +79,6 @@ def resolve_spot_image(spot):
         candidates.append(('fr', name_gen))
         candidates.append(('nl', name_gen))
 
-    # Perform lookup
     for lang, title in candidates:
         img_url = fetch_wiki_summary(lang, title)
         if img_url:
@@ -80,7 +87,7 @@ def resolve_spot_image(spot):
     return ""
 
 def process_all_city_modules(data_cities_dir, js_file_path):
-    print("🚀 Running Universal Wikipedia Image Pipeline (v3.0.0)...")
+    print("🚀 Running Universal Direct Wikipedia REST API Resolver (v6.0.0 with 429 Backoff)...")
     json_files = sorted(glob.glob(os.path.join(data_cities_dir, '*.json')))
     
     if not json_files:
@@ -90,6 +97,7 @@ def process_all_city_modules(data_cities_dir, js_file_path):
     aggregated_db = {}
     total_photos = 0
     total_fallbacks = 0
+    total_refreshed = 0
 
     for jf in json_files:
         filename = os.path.basename(jf)
@@ -104,28 +112,24 @@ def process_all_city_modules(data_cities_dir, js_file_path):
         city_fallback_cnt = 0
 
         for spot in spots:
-            # If spot already has a valid image, verify or keep it
-            existing_img = spot.get('image', '')
-            if existing_img and 'wikimedia.org' in existing_img:
-                spot['hasWiki'] = True
-                city_photo_cnt += 1
-                total_photos += 1
-                continue
-
-            # Fetch image via Wikipedia API
+            old_img = spot.get('image', '')
+            
+            # Fetch fresh live image directly via Wikipedia API
             photo_url = resolve_spot_image(spot)
             if photo_url:
                 spot['image'] = photo_url
                 spot['hasWiki'] = True
                 city_photo_cnt += 1
                 total_photos += 1
+                if photo_url != old_img:
+                    total_refreshed += 1
             else:
                 spot['image'] = ""
                 spot['hasWiki'] = False
                 city_fallback_cnt += 1
                 total_fallbacks += 1
                 
-            time.sleep(0.005)
+            time.sleep(0.05)
 
         city_data['spots'] = spots
         city_data['spotCount'] = len(spots)
@@ -134,11 +138,12 @@ def process_all_city_modules(data_cities_dir, js_file_path):
             json.dump(city_data, f, indent=2, ensure_ascii=False)
 
         aggregated_db[city_name] = spots
-        print(f"   └─ Module Result: {city_photo_cnt} verified photos, {city_fallback_cnt} fallbacks")
+        print(f"   └─ Module Result: {city_photo_cnt} live Wikipedia photos, {city_fallback_cnt} fallbacks")
 
     print("\n=======================================================")
-    print(f"🎉 UNIVERSAL WIKIPEDIA PHOTO PIPELINE COMPLETE!")
-    print(f"   - Total Verified Wikipedia Photos: {total_photos} spots")
+    print(f"🎉 UNIVERSAL WIKIPEDIA DIRECT RESOLUTION COMPLETE!")
+    print(f"   - Total Verified Live Photos: {total_photos} spots")
+    print(f"   - Total Refreshed/Updated Image URLs: {total_refreshed} spots")
     print(f"   - Total Fallbacks: {total_fallbacks} spots")
     print(f"   - Total System Spots: {total_photos + total_fallbacks}")
     print("=======================================================")

@@ -36,7 +36,9 @@
       "name_es": "Kölner Dom (Cologne Cathedral)",
       "name_zh": "Kölner Dom (ケルン大聖堂)",
       "name_fr": "Kölner Dom (Cologne Cathedral)",
-      "name_de": "Kölner Dom (UNESCO)"
+      "name_de": "Kölner Dom (UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/330px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_2",
@@ -73,7 +75,9 @@
       "name_es": "Hohenzollernbrücke (Hohenzollern Bridge)",
       "name_zh": "Hohenzollernbrücke (ホーエンツォレルン橋)",
       "name_fr": "Hohenzollernbrücke (Hohenzollern Bridge)",
-      "name_de": "Hohenzollernbrücke"
+      "name_de": "Hohenzollernbrücke",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_3",
@@ -111,7 +115,9 @@
       "name_zh": "Altstadt Köln & Alter Markt (ケルン旧市街＆アルター・マルクト)",
       "name_fr": "Altstadt Köln & Alter Markt (Cologne Old Town & Alter Markt)",
       "name_de": "Altstadt Köln & Alter Markt",
-      "desc_de": "Imposante romanische Stiftskirche, die die bunten Altstadthäuser von Köln überragt."
+      "desc_de": "Imposante romanische Stiftskirche, die die bunten Altstadthäuser von Köln überragt.",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_4",
@@ -148,7 +154,9 @@
       "name_es": "Heumarkt (Heumarkt Square)",
       "name_zh": "Heumarkt (ホイマルクト広場)",
       "name_fr": "Heumarkt (Heumarkt Square)",
-      "name_de": "Heumarkt"
+      "name_de": "Heumarkt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_5",
@@ -185,7 +193,9 @@
       "name_es": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
       "name_zh": "Kölner Rathaus & Historische Ratslaube (ケルン市庁舎＆歴史的ルネサンス回廊)",
       "name_fr": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
-      "name_de": "Kölner Rathaus & Historische Ratslaube"
+      "name_de": "Kölner Rathaus & Historische Ratslaube",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_6",
@@ -222,7 +232,9 @@
       "name_es": "Groß St. Martin (Great St. Martin Church)",
       "name_zh": "Groß St. Martin (大聖マルティン教会)",
       "name_fr": "Groß St. Martin (Great St. Martin Church)",
-      "name_de": "Groß St. Martin"
+      "name_de": "Groß St. Martin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fischmarkt.jpg/330px-Fischmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_7",
@@ -259,7 +271,9 @@
       "name_es": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
       "name_zh": "Rheinauhafen & Kranhäuser (ライナウハーフェン＆クレーンハウス)",
       "name_fr": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
-      "name_de": "Rheinauhafen & Kranhäuser"
+      "name_de": "Rheinauhafen & Kranhäuser",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_8",
@@ -296,7 +310,9 @@
       "name_es": "KölnTriangle (KölnTriangle Panorama Deck)",
       "name_zh": "KölnTriangle (ケルントライアングル展望台)",
       "name_fr": "KölnTriangle (KölnTriangle Panorama Deck)",
-      "name_de": "KölnTriangle (Panorama-Plattform)"
+      "name_de": "KölnTriangle (Panorama-Plattform)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_9",
@@ -334,7 +350,9 @@
       "name_zh": "Schokoladenmuseum Köln (ケルン・チョコレート博物館)",
       "name_fr": "Schokoladenmuseum Köln (Cologne Chocolate Museum)",
       "name_de": "Schokoladenmuseum Köln",
-      "desc_de": "Traditionsreiches Grand Café mit Terrasse und direktem Blick auf den Kölner Dom."
+      "desc_de": "Traditionsreiches Grand Café mit Terrasse und direktem Blick auf den Kölner Dom.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Imhoff-Schokoladenmuseum%2C_K%C3%B6ln-0988.jpg/330px-Imhoff-Schokoladenmuseum%2C_K%C3%B6ln-0988.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_10",
@@ -371,7 +389,9 @@
       "name_es": "Museum Ludwig",
       "name_zh": "Museum Ludwig (ルートヴィヒ美術館)",
       "name_fr": "Museum Ludwig",
-      "name_de": "Museum Ludwig"
+      "name_de": "Museum Ludwig",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg/330px-Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_11",
@@ -408,7 +428,9 @@
       "name_es": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
       "name_zh": "Wallraf-Richartz-Museum & Fondation Corboud (ヴァルラフ＝リヒャルツ美術館)",
       "name_fr": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
-      "name_de": "Wallraf-Richartz-Museum & Fondation Corboud"
+      "name_de": "Wallraf-Richartz-Museum & Fondation Corboud",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg/330px-Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_12",
@@ -445,7 +467,9 @@
       "name_es": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
       "name_zh": "Römisch-Germanisches Museum (ローマ・ゲルマン博物館)",
       "name_fr": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
-      "name_de": "Römisch-Germanisches Museum"
+      "name_de": "Römisch-Germanisches Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg/330px-R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_13",
@@ -482,7 +506,9 @@
       "name_es": "Farina Duftmuseum (Farina Fragrance Museum)",
       "name_zh": "Farina Duftmuseum (ファリナ香水博物館)",
       "name_fr": "Farina Duftmuseum (Farina Fragrance Museum)",
-      "name_de": "Farina Duftmuseum (Duftmuseum im Farina-Haus)"
+      "name_de": "Farina Duftmuseum (Duftmuseum im Farina-Haus)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_14",
@@ -519,7 +545,9 @@
       "name_es": "4711 Stammhaus (4711 Flagship Store)",
       "name_zh": "4711 Stammhaus (4711本店)",
       "name_fr": "4711 Stammhaus (4711 Flagship Store)",
-      "name_de": "4711 Stammhaus (Glockengasse)"
+      "name_de": "4711 Stammhaus (Glockengasse)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_15",
@@ -556,7 +584,9 @@
       "name_es": "Kolumba (Kolumba Art Museum)",
       "name_zh": "Kolumba (コロンバ美術館)",
       "name_fr": "Kolumba (Kolumba Art Museum)",
-      "name_de": "Kolumba (Kunstmuseum des Erzbistums Köln)"
+      "name_de": "Kolumba (Kunstmuseum des Erzbistums Köln)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kolumba.jpg/330px-Kolumba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_16",
@@ -593,7 +623,9 @@
       "name_es": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
       "name_zh": "Museum für Angewandte Kunst Köln (ケルン応用工芸博物館)",
       "name_fr": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
-      "name_de": "Museum für Angewandte Kunst Köln (MAKK)"
+      "name_de": "Museum für Angewandte Kunst Köln (MAKK)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg/330px-Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_17",
@@ -630,7 +662,9 @@
       "name_es": "NS-Dokumentationszentrum (NS Documentation Center)",
       "name_zh": "NS-Dokumentationszentrum (ナチス文書センター)",
       "name_fr": "NS-Dokumentationszentrum (NS Documentation Center)",
-      "name_de": "NS-Dokumentationszentrum (EL-DE-Haus)"
+      "name_de": "NS-Dokumentationszentrum (EL-DE-Haus)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_18",
@@ -667,7 +701,9 @@
       "name_es": "Rautenstrauch-Joest-Museum",
       "name_zh": "Rautenstrauch-Joest-Museum (ラウテンシュトラウホ＝ヨースト博物館)",
       "name_fr": "Rautenstrauch-Joest-Museum",
-      "name_de": "Rautenstrauch-Joest-Museum"
+      "name_de": "Rautenstrauch-Joest-Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg/330px-Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_19",
@@ -704,7 +740,9 @@
       "name_es": "Museum Schnütgen",
       "name_zh": "Museum Schnütgen (シュニュートゲン美術館)",
       "name_fr": "Museum Schnütgen",
-      "name_de": "Museum Schnütgen"
+      "name_de": "Museum Schnütgen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg/330px-Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_20",
@@ -741,7 +779,9 @@
       "name_es": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
       "name_zh": "Deutsches Sport & Olympia Museum (ドイツ・スポーツ＆オリンピック博物館)",
       "name_fr": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
-      "name_de": "Deutsches Sport & Olympia Museum"
+      "name_de": "Deutsches Sport & Olympia Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/K%C3%B6ln_012_020.jpg/330px-K%C3%B6ln_012_020.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_21",
@@ -778,7 +818,9 @@
       "name_es": "Kölner Seilbahn (Cologne Cable Car)",
       "name_zh": "Kölner Seilbahn (ケルン・ロープウェイ)",
       "name_fr": "Kölner Seilbahn (Cologne Cable Car)",
-      "name_de": "Kölner Seilbahn"
+      "name_de": "Kölner Seilbahn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/K%C3%B6lner_Seilbahn_logo.svg/langde-330px-K%C3%B6lner_Seilbahn_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_22",
@@ -815,7 +857,9 @@
       "name_es": "Kölner Zoo (Cologne Zoo)",
       "name_zh": "Kölner Zoo (ケルン動物園)",
       "name_fr": "Kölner Zoo (Cologne Zoo)",
-      "name_de": "Kölner Zoo"
+      "name_de": "Kölner Zoo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_23",
@@ -852,7 +896,9 @@
       "name_es": "Aquarium Köln (Cologne Aquarium)",
       "name_zh": "Aquarium Köln (ケルン水族館)",
       "name_fr": "Aquarium Köln (Cologne Aquarium)",
-      "name_de": "Aquarium Köln"
+      "name_de": "Aquarium Köln",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_24",
@@ -889,7 +935,9 @@
       "name_es": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
       "name_zh": "Flora Köln & Botanischer Garten (フローラ＆ケルン植物園)",
       "name_fr": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
-      "name_de": "Flora Köln & Botanischer Garten"
+      "name_de": "Flora Köln & Botanischer Garten",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_25",
@@ -926,7 +974,9 @@
       "name_es": "Schildergasse & Hohe Straße",
       "name_zh": "Schildergasse & Hohe Straße (シルダークロイツ通り＆ホーエ通り)",
       "name_fr": "Schildergasse & Hohe Straße",
-      "name_de": "Schildergasse & Hohe Straße"
+      "name_de": "Schildergasse & Hohe Straße",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_26",
@@ -963,7 +1013,9 @@
       "name_es": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
       "name_zh": "Ehrenstraße & Belgisches Viertel (エーレン通り＆ベルギー地区)",
       "name_fr": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
-      "name_de": "Ehrenstraße & Belgisches Viertel"
+      "name_de": "Ehrenstraße & Belgisches Viertel",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_27",
@@ -1000,7 +1052,9 @@
       "name_es": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
       "name_zh": "Neumarkt & Neumarkt Passage (ノイマルクト広場＆パサージュ)",
       "name_fr": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
-      "name_de": "Neumarkt & Neumarkt Passage"
+      "name_de": "Neumarkt & Neumarkt Passage",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_28",
@@ -1037,7 +1091,9 @@
       "name_es": "DuMont Carré & Opern Passagen",
       "name_zh": "DuMont Carré & Opern Passagen (デュモン・カレ＆オペルン・パサージェン)",
       "name_fr": "DuMont Carré & Opern Passagen",
-      "name_de": "DuMont Carré & Opern Passagen"
+      "name_de": "DuMont Carré & Opern Passagen",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_29",
@@ -1074,7 +1130,9 @@
       "name_es": "Brauhaus Früh am Dom",
       "name_zh": "Brauhaus Früh am Dom (フリュー・アム・ドーム)",
       "name_fr": "Brauhaus Früh am Dom",
-      "name_de": "Brauhaus Früh am Dom"
+      "name_de": "Brauhaus Früh am Dom",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_30",
@@ -1111,7 +1169,9 @@
       "name_es": "Brauhaus Sion",
       "name_zh": "Brauhaus Sion (ブラウハウス・ジオン)",
       "name_fr": "Brauhaus Sion",
-      "name_de": "Brauhaus Sion"
+      "name_de": "Brauhaus Sion",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/330px-Brauhaus_Sion_Front_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_31",
@@ -1148,7 +1208,9 @@
       "name_es": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
       "name_zh": "Gilden im Zims \"Heimat kölscher Helden\" (ギルデン・イム・ツィムス)",
       "name_fr": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
-      "name_de": "Gilden im Zims \"Heimat kölscher Helden\""
+      "name_de": "Gilden im Zims \"Heimat kölscher Helden\"",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_32",
@@ -1185,7 +1247,9 @@
       "name_es": "Brauerei Päffgen",
       "name_zh": "Brauerei Päffgen (ペフゲン醸造所)",
       "name_fr": "Brauerei Päffgen",
-      "name_de": "Brauerei Päffgen"
+      "name_de": "Brauerei Päffgen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg/330px-P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_33",
@@ -1222,7 +1286,9 @@
       "name_es": "Peters Brauhaus",
       "name_zh": "Peters Brauhaus (ペータース・ブラウハウス)",
       "name_fr": "Peters Brauhaus",
-      "name_de": "Peters Brauhaus"
+      "name_de": "Peters Brauhaus",
+      "image": "https://upload.wikimedia.org/wikipedia/de/thumb/7/71/HKB-Logo.jpg/330px-HKB-Logo.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_34",
@@ -1259,7 +1325,9 @@
       "name_es": "Lommerzheim (Lommerzheim Pub)",
       "name_zh": "Lommerzheim (ロンメルツハイム)",
       "name_fr": "Lommerzheim (Lommerzheim Pub)",
-      "name_de": "Lommerzheim (Lommi)"
+      "name_de": "Lommerzheim (Lommi)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2019-11-15-Lommerzheim-7697.jpg/330px-2019-11-15-Lommerzheim-7697.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_35",
@@ -1296,7 +1364,9 @@
       "name_es": "Café Reichard",
       "name_zh": "Café Reichard (カフェ・ライヒャルト)",
       "name_fr": "Café Reichard",
-      "name_de": "Café Reichard"
+      "name_de": "Café Reichard",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_36",
@@ -1333,7 +1403,9 @@
       "name_es": "Odonien (Odonien Outdoor Art Park)",
       "name_zh": "Odonien (オドニエン)",
       "name_fr": "Odonien (Odonien Outdoor Art Park)",
-      "name_de": "Odonien"
+      "name_de": "Odonien",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg/330px-Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_37",
@@ -1370,7 +1442,9 @@
       "name_es": "Claudius Therme (Claudius Therme Thermal Bath)",
       "name_zh": "Claudius Therme (クラウディウス・テルメ)",
       "name_fr": "Claudius Therme (Claudius Therme Thermal Bath)",
-      "name_de": "Claudius Therme"
+      "name_de": "Claudius Therme",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_38",
@@ -1407,7 +1481,9 @@
       "name_es": "Rheinpark & Kleinbahn",
       "name_zh": "Rheinpark & Kleinbahn (ライン公園＆ミニSL鉄道)",
       "name_fr": "Rheinpark & Kleinbahn",
-      "name_de": "Rheinpark & Kleinbahn"
+      "name_de": "Rheinpark & Kleinbahn",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_39",
@@ -1444,7 +1520,9 @@
       "name_es": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
       "name_zh": "Stadtwald Köln & Lindenthaler Tierpark (ケルン市民の森＆リンデンタール動物ふれあい公園)",
       "name_fr": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
-      "name_de": "Stadtwald Köln & Lindenthaler Tierpark"
+      "name_de": "Stadtwald Köln & Lindenthaler Tierpark",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_40",
@@ -1481,7 +1559,9 @@
       "name_es": "Melaten-Friedhof (Melaten Cemetery)",
       "name_zh": "Melaten-Friedhof (メラテン墓地)",
       "name_fr": "Melaten-Friedhof (Melaten Cemetery)",
-      "name_de": "Melaten-Friedhof"
+      "name_de": "Melaten-Friedhof",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg/330px-2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_41",
@@ -1518,7 +1598,9 @@
       "name_es": "Odysseum Science Center",
       "name_zh": "Odysseum Science Center (オディッセウム科学館)",
       "name_fr": "Odysseum Science Center",
-      "name_de": "Odysseum Science Center"
+      "name_de": "Odysseum Science Center",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_42",
@@ -1555,7 +1637,9 @@
       "name_es": "RheinSchiffahrt (KD Rhine River Cruise)",
       "name_zh": "RheinSchiffahrt (ライン川観光遊覧船)",
       "name_fr": "RheinSchiffahrt (KD Rhine River Cruise)",
-      "name_de": "RheinSchiffahrt (Köln-Düsseldorfer / KD River Cruises)"
+      "name_de": "RheinSchiffahrt (Köln-Düsseldorfer / KD River Cruises)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_43",
@@ -1592,7 +1676,9 @@
       "name_es": "St. Gereon (St. Gereon Basilica)",
       "name_zh": "St. Gereon (聖ゲレオン教会)",
       "name_fr": "St. Gereon (St. Gereon Basilica)",
-      "name_de": "St. Gereon"
+      "name_de": "St. Gereon",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_44",
@@ -1629,7 +1715,9 @@
       "name_es": "St. Ursula (St. Ursula Basilica)",
       "name_zh": "St. Ursula (聖ウルスラ教会)",
       "name_fr": "St. Ursula (St. Ursula Basilica)",
-      "name_de": "St. Ursula"
+      "name_de": "St. Ursula",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wappen_Koeln.svg/langde-330px-Wappen_Koeln.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_45",
@@ -1666,7 +1754,9 @@
       "name_es": "St. Aposteln (St. Apostles Church)",
       "name_zh": "St. Aposteln (聖使徒教会)",
       "name_fr": "St. Aposteln (St. Apostles Church)",
-      "name_de": "St. Aposteln"
+      "name_de": "St. Aposteln",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/St._Aposteln_K%C3%B6ln_-_Ostseite_%284539%29.jpg/330px-St._Aposteln_K%C3%B6ln_-_Ostseite_%284539%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_46",
@@ -1703,7 +1793,9 @@
       "name_es": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
       "name_zh": "Schlösser Augustusburg und Falkenlust (アウグストゥスブルク城＆ファルケンルスト城)",
       "name_fr": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
-      "name_de": "Schlösser Augustusburg und Falkenlust (Brühl / UNESCO)"
+      "name_de": "Schlösser Augustusburg und Falkenlust (Brühl / UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg/330px-Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_47",
@@ -1740,7 +1832,9 @@
       "name_es": "Phantasialand (Phantasialand Theme Park)",
       "name_zh": "Phantasialand (ファンタジアランド)",
       "name_fr": "Phantasialand (Phantasialand Theme Park)",
-      "name_de": "Phantasialand (Brühl)"
+      "name_de": "Phantasialand (Brühl)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Phantasialand_Logo.svg/langde-330px-Phantasialand_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_48",
@@ -1777,7 +1871,9 @@
       "name_es": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
       "name_zh": "Aachener Dom & Domschatzkammer (アーヘン大聖堂＆宝物館)",
       "name_fr": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
-      "name_de": "Aachener Dom & Domschatzkammer (Aachen / UNESCO)"
+      "name_de": "Aachener Dom & Domschatzkammer (Aachen / UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_49",
@@ -1814,7 +1910,9 @@
       "name_es": "Drachenburg Castle & Drachenfels",
       "name_zh": "Drachenburg Castle & Drachenfels (ドラッヘンブルク城＆竜の岩山)",
       "name_fr": "Drachenburg Castle & Drachenfels",
-      "name_de": "Drachenburg Castle & Drachenfels (Königswinter)"
+      "name_de": "Drachenburg Castle & Drachenfels (Königswinter)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_50",
@@ -1851,7 +1949,9 @@
       "name_es": "Schloss Benrath (Benrath Palace)",
       "name_zh": "Schloss Benrath (ベンラート宮殿)",
       "name_fr": "Schloss Benrath (Benrath Palace)",
-      "name_de": "Schloss Benrath (Düsseldorf)"
+      "name_de": "Schloss Benrath (Düsseldorf)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Benrath_Jan2012.jpg/330px-Schloss_Benrath_Jan2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_51",
@@ -1888,7 +1988,9 @@
       "name_es": "Burg Satzvey (Satzvey Castle)",
       "name_zh": "Burg Satzvey (ザツヴァイ城)",
       "name_fr": "Burg Satzvey (Satzvey Castle)",
-      "name_de": "Burg Satzvey (Mechernich)"
+      "name_de": "Burg Satzvey (Mechernich)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/330px-Burg_Satzvey_HDR.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_52",
@@ -1925,7 +2027,9 @@
       "name_es": "Museum Insel Hombroich",
       "name_zh": "Museum Insel Hombroich (インゼル・ホンブロイヒ美術館)",
       "name_fr": "Museum Insel Hombroich",
-      "name_de": "Museum Insel Hombroich (Neuss)"
+      "name_de": "Museum Insel Hombroich (Neuss)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Auenlandschaft_Museumsinsel_Hombroich_Neuss_2006.jpg/330px-Auenlandschaft_Museumsinsel_Hombroich_Neuss_2006.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_53",
@@ -1962,7 +2066,9 @@
       "name_es": "Neanderthal Museum",
       "name_zh": "Neanderthal Museum (ネアンデルタール博物館)",
       "name_fr": "Neanderthal Museum",
-      "name_de": "Neanderthal Museum (Mettmann)"
+      "name_de": "Neanderthal Museum (Mettmann)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mus%C3%A9e_de_Neanderthal.jpg/330px-Mus%C3%A9e_de_Neanderthal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_54",
@@ -1999,7 +2105,9 @@
       "name_es": "Freilichtmuseum Kommern (Kommern Open-Air Museum)",
       "name_zh": "Freilichtmuseum Kommern (コムメルン野外博物館)",
       "name_fr": "Freilichtmuseum Kommern (Kommern Open-Air Museum)",
-      "name_de": "Freilichtmuseum Kommern (LVR-Freilichtmuseum Kommern)"
+      "name_de": "Freilichtmuseum Kommern (LVR-Freilichtmuseum Kommern)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Freilichtmuseum_Kommern_-_Haus_aus_Rhinschenschmidthausen%2C_Bergisches_Land_%2812903341704%29.jpg/330px-Freilichtmuseum_Kommern_-_Haus_aus_Rhinschenschmidthausen%2C_Bergisches_Land_%2812903341704%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "c_55",
@@ -2036,7 +2144,9 @@
       "name_es": "Brühler Wasserski / Heider Bergsee (Heider Bergsee Lake)",
       "name_zh": "Brühler Wasserski / Heider Bergsee (ハイダー・ベルクゼー)",
       "name_fr": "Brühler Wasserski / Heider Bergsee (Heider Bergsee Lake)",
-      "name_de": "Brühler Wasserski / Heider Bergsee"
+      "name_de": "Brühler Wasserski / Heider Bergsee",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "c_56",
@@ -2073,7 +2183,10 @@
       "name_es": "City Outlet Bad Münstereifel (Bad Münstereifel City Outlet)",
       "name_zh": "City Outlet Bad Münstereifel (バート・ミュンスターアイフェル・シティアウトレット)",
       "name_fr": "City Outlet Bad Münstereifel (Bad Münstereifel City Outlet)",
-      "name_de": "City Outlet Bad Münstereifel"
+      "name_de": "City Outlet Bad Münstereifel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DEU_Bad_Muenstereifel_COA.svg/langde-330px-DEU_Bad_Muenstereifel_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     }
-  ]
+  ],
+  "spotCount": 56
 }

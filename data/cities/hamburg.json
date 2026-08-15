@@ -36,7 +36,9 @@
       "name_es": "Miniatur Wunderland",
       "name_zh": "Miniatur Wunderland (ミニチュアワンダーランド)",
       "name_fr": "Miniatur Wunderland",
-      "name_de": "Miniatur Wunderland"
+      "name_de": "Miniatur Wunderland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_2",
@@ -73,7 +75,9 @@
       "name_es": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
       "name_zh": "Elbphilharmonie Hamburg (エルプフィルハーモニー・ハンブルク)",
       "name_fr": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
-      "name_de": "Elbphilharmonie Hamburg"
+      "name_de": "Elbphilharmonie Hamburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elbphilharmonie%2C_Hamburg.jpg/330px-Elbphilharmonie%2C_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_3",
@@ -110,7 +114,9 @@
       "name_es": "Speicherstadt (Speicherstadt Warehouse District)",
       "name_zh": "Speicherstadt (世界遺産赤レンガ倉庫街)",
       "name_fr": "Speicherstadt (Speicherstadt Warehouse District)",
-      "name_de": "Speicherstadt"
+      "name_de": "Speicherstadt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Wasserschloss_at_sunset.jpg/330px-The_Wasserschloss_at_sunset.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_4",
@@ -147,7 +153,9 @@
       "name_es": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
       "name_zh": "Kontorhausviertel & Chilehaus (コントーアハウス地区＆チリハウス)",
       "name_fr": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
-      "name_de": "Kontorhausviertel & Chilehaus"
+      "name_de": "Kontorhausviertel & Chilehaus",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_5",
@@ -184,7 +192,9 @@
       "name_es": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
       "name_zh": "Hamburger Rathaus & Rathausmarkt (ハンブルク市庁舎＆市庁舎前広場)",
       "name_fr": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
-      "name_de": "Hamburger Rathaus & Rathausmarkt"
+      "name_de": "Hamburger Rathaus & Rathausmarkt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_6",
@@ -221,7 +231,9 @@
       "name_es": "Hauptkirche St. Michaelis (St. Michael's Church)",
       "name_zh": "Hauptkirche St. Michaelis (聖ミヒャエリス教会)",
       "name_fr": "Hauptkirche St. Michaelis (St. Michael's Church)",
-      "name_de": "Hauptkirche St. Michaelis (Michel)"
+      "name_de": "Hauptkirche St. Michaelis (Michel)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_7",
@@ -258,7 +270,9 @@
       "name_es": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
       "name_zh": "Hamburger Hafen & Landungsbrücken (ハンブルク港＆ザンクト・パウリ桟橋)",
       "name_fr": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
-      "name_de": "Hamburger Hafen & Landungsbrücken"
+      "name_de": "Hamburger Hafen & Landungsbrücken",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_8",
@@ -295,7 +309,9 @@
       "name_es": "Alter Elbtunnel (Old Elbe Tunnel)",
       "name_zh": "Alter Elbtunnel (旧エルベトンネル)",
       "name_fr": "Alter Elbtunnel (Old Elbe Tunnel)",
-      "name_de": "Alter Elbtunnel"
+      "name_de": "Alter Elbtunnel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg/330px-Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_9",
@@ -332,7 +348,9 @@
       "name_es": "HafenCity (HafenCity District)",
       "name_zh": "HafenCity (ハーフェンシティ)",
       "name_fr": "HafenCity (HafenCity District)",
-      "name_de": "HafenCity"
+      "name_de": "HafenCity",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HafenCity_in_HH.svg/langde-330px-HafenCity_in_HH.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_10",
@@ -369,7 +387,9 @@
       "name_es": "Binnenalster & Außenalster (Alster Lakes)",
       "name_zh": "Binnenalster & Außenalster (ビンネンアルスター湖＆アウセンアルスター湖)",
       "name_fr": "Binnenalster & Außenalster (Alster Lakes)",
-      "name_de": "Binnenalster & Außenalster"
+      "name_de": "Binnenalster & Außenalster",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_11",
@@ -406,7 +426,9 @@
       "name_es": "Hamburger Kunsthalle (Hamburg Art Museum)",
       "name_zh": "Hamburger Kunsthalle (ハンブルク美術館)",
       "name_fr": "Hamburger Kunsthalle (Hamburg Art Museum)",
-      "name_de": "Hamburger Kunsthalle"
+      "name_de": "Hamburger Kunsthalle",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/330px-Hamburger_Kunsthalle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_12",
@@ -443,7 +465,9 @@
       "name_es": "Internationales Maritimes Museum Hamburg (International Maritime Museum)",
       "name_zh": "Internationales Maritimes Museum Hamburg (国際海洋博物館)",
       "name_fr": "Internationales Maritimes Museum Hamburg (International Maritime Museum)",
-      "name_de": "Internationales Maritimes Museum Hamburg"
+      "name_de": "Internationales Maritimes Museum Hamburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hamburg-090613-0286-DSC_8383.jpg/330px-Hamburg-090613-0286-DSC_8383.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_13",
@@ -480,7 +504,9 @@
       "name_es": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
       "name_zh": "Museum für Kunst und Gewerbe Hamburg (工芸美術館)",
       "name_fr": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
-      "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)"
+      "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg/330px-Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_14",
@@ -517,7 +543,9 @@
       "name_es": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
       "name_zh": "Deichtorhallen Hamburg (ダイヒトーアハレン)",
       "name_fr": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
-      "name_de": "Deichtorhallen Hamburg"
+      "name_de": "Deichtorhallen Hamburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_der_Deichtorhallen.png/330px-Logo_der_Deichtorhallen.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_15",
@@ -554,7 +582,9 @@
       "name_es": "Cap San Diego (Cap San Diego Museum Ship)",
       "name_zh": "Cap San Diego (カプ・サン・ディエゴ号)",
       "name_fr": "Cap San Diego (Cap San Diego Museum Ship)",
-      "name_de": "Cap San Diego"
+      "name_de": "Cap San Diego",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cap_San_Diego_07.jpg/330px-Cap_San_Diego_07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_16",
@@ -591,7 +621,9 @@
       "name_es": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
       "name_zh": "Rickmer Rickmers (リックマー・リックマース号)",
       "name_fr": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
-      "name_de": "Rickmer Rickmers"
+      "name_de": "Rickmer Rickmers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg/330px-Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_17",
@@ -628,7 +660,9 @@
       "name_es": "Submarine Museum U-434",
       "name_zh": "Submarine Museum U-434 (潜水艦博物館 U-434)",
       "name_fr": "Submarine Museum U-434",
-      "name_de": "Submarine Museum U-434"
+      "name_de": "Submarine Museum U-434",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_18",
@@ -665,7 +699,9 @@
       "name_es": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
       "name_zh": "St. Nikolai Memorial (聖ニコライ教会廃墟記念碑)",
       "name_fr": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
-      "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)"
+      "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_19",
@@ -702,7 +738,9 @@
       "name_es": "Planten un Blomen (Planten un Blomen Park)",
       "name_zh": "Planten un Blomen (プランテン・ウン・ブローメン公園)",
       "name_fr": "Planten un Blomen (Planten un Blomen Park)",
-      "name_de": "Planten un Blomen"
+      "name_de": "Planten un Blomen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hh-dammtordamm_fig.jpg/330px-Hh-dammtordamm_fig.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_20",
@@ -739,7 +777,9 @@
       "name_es": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
       "name_zh": "Tierpark Hagenbeck & Tropen-Aquarium (ハーゲンベック動物園＆熱帯水族館)",
       "name_fr": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
-      "name_de": "Tierpark Hagenbeck & Tropen-Aquarium"
+      "name_de": "Tierpark Hagenbeck & Tropen-Aquarium",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_21",
@@ -776,7 +816,9 @@
       "name_es": "Fischmarkt (Altona Fish Market)",
       "name_zh": "Fischmarkt (アルトナの魚市場＆フィッシュオークションホール)",
       "name_fr": "Fischmarkt (Altona Fish Market)",
-      "name_de": "Fischmarkt (Altona)"
+      "name_de": "Fischmarkt (Altona)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_22",
@@ -813,7 +855,9 @@
       "name_es": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
       "name_zh": "Reeperbahn & St. Pauli (レーパーバーン＆ザンクト・パウリ地区)",
       "name_fr": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
-      "name_de": "Reeperbahn & St. Pauli"
+      "name_de": "Reeperbahn & St. Pauli",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_23",
@@ -850,7 +894,9 @@
       "name_es": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
       "name_zh": "Beatles-Platz & Indra Club / Kaiserkeller (ビートルズ広場＆ゆかりのライブハウス群)",
       "name_fr": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
-      "name_de": "Beatles-Platz & Indra Club / Kaiserkeller"
+      "name_de": "Beatles-Platz & Indra Club / Kaiserkeller",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_24",
@@ -887,7 +933,9 @@
       "name_es": "Jungfernstieg (Jungfernstieg Boulevard)",
       "name_zh": "Jungfernstieg (ユングフェルンシュティーク)",
       "name_fr": "Jungfernstieg (Jungfernstieg Boulevard)",
-      "name_de": "Jungfernstieg"
+      "name_de": "Jungfernstieg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jungfernstieg.wmt.jpg/330px-Jungfernstieg.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_25",
@@ -924,7 +972,9 @@
       "name_es": "Alsterarkaden (Alster Arcades)",
       "name_zh": "Alsterarkaden (アルスター・アルケード)",
       "name_fr": "Alsterarkaden (Alster Arcades)",
-      "name_de": "Alsterarkaden"
+      "name_de": "Alsterarkaden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg/330px-The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_26",
@@ -961,7 +1011,9 @@
       "name_es": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
       "name_zh": "Mönckebergstraße & Spitalerstraße (メンケベルク通り＆シュピタラー通り)",
       "name_fr": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
-      "name_de": "Mönckebergstraße & Spitalerstraße"
+      "name_de": "Mönckebergstraße & Spitalerstraße",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_27",
@@ -998,7 +1050,9 @@
       "name_es": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
       "name_zh": "Neuer Wall & Große Bleichen (ノイアー・ヴァル＆グローセ・ブライヒェン)",
       "name_fr": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
-      "name_de": "Neuer Wall & Große Bleichen"
+      "name_de": "Neuer Wall & Große Bleichen",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_28",
@@ -1035,7 +1089,9 @@
       "name_es": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
       "name_zh": "Hanse-Viertel & Europa Passage (ハンゼ・フィアテル＆オイローパ・パサージュ)",
       "name_fr": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
-      "name_de": "Hanse-Viertel & Europa Passage"
+      "name_de": "Hanse-Viertel & Europa Passage",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_29",
@@ -1072,7 +1128,9 @@
       "name_es": "Sternschanze (Sternschanze Quarter)",
       "name_zh": "Sternschanze (シャンツェン地区)",
       "name_fr": "Sternschanze (Sternschanze Quarter)",
-      "name_de": "Sternschanze (Schanzenviertel)"
+      "name_de": "Sternschanze (Schanzenviertel)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/330px-Hh-schanze-susannen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_30",
@@ -1109,7 +1167,9 @@
       "name_es": "Karolinenviertel (Karolinenviertel District)",
       "name_zh": "Karolinenviertel (カロリーネン地区)",
       "name_fr": "Karolinenviertel (Karolinenviertel District)",
-      "name_de": "Karolinenviertel (Karoviertel)"
+      "name_de": "Karolinenviertel (Karoviertel)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_31",
@@ -1146,7 +1206,9 @@
       "name_es": "Museum der Natur - Hamburg (Museum of Nature - Zoology)",
       "name_zh": "Museum der Natur - Hamburg (自然博物館)",
       "name_fr": "Museum der Natur - Hamburg (Museum of Nature - Zoology)",
-      "name_de": "Museum der Natur - Hamburg"
+      "name_de": "Museum der Natur - Hamburg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_32",
@@ -1183,7 +1245,9 @@
       "name_es": "Hamburg Dungeon",
       "name_zh": "Hamburg Dungeon (ハンブルク・ダンジョン)",
       "name_fr": "Hamburg Dungeon",
-      "name_de": "Hamburg Dungeon"
+      "name_de": "Hamburg Dungeon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/330px-HamburgDungeon.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_33",
@@ -1220,7 +1284,9 @@
       "name_es": "Dialog im Dunkeln (Dialog in the Dark)",
       "name_zh": "Dialog im Dunkeln (ダイアログ・イン・ザ・ダーク)",
       "name_fr": "Dialog im Dunkeln (Dialog in the Dark)",
-      "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)"
+      "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_34",
@@ -1257,7 +1323,9 @@
       "name_es": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
       "name_zh": "Chocoversum by Hachez (チョコヴェルサム)",
       "name_fr": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
-      "name_de": "Chocoversum by Hachez"
+      "name_de": "Chocoversum by Hachez",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_35",
@@ -1294,7 +1362,9 @@
       "name_es": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
       "name_zh": "Spicy's Gewürzmuseum (スパイシーズ香辛料博物館)",
       "name_fr": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
-      "name_de": "Spicy's Gewürzmuseum"
+      "name_de": "Spicy's Gewürzmuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gew%C3%BCrzmuseum_Hamburg_01.jpg/330px-Gew%C3%BCrzmuseum_Hamburg_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_36",
@@ -1331,7 +1401,9 @@
       "name_es": "Zollmuseum (German Customs Museum)",
       "name_zh": "Zollmuseum (ドイツ連邦税関博物館)",
       "name_fr": "Zollmuseum (German Customs Museum)",
-      "name_de": "Zollmuseum (Deutsches Zollmuseum)"
+      "name_de": "Zollmuseum (Deutsches Zollmuseum)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_37",
@@ -1368,7 +1440,9 @@
       "name_es": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
       "name_zh": "Krameramtsstuben (クラーマーアムツストゥーベン)",
       "name_fr": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
-      "name_de": "Krameramtsstuben"
+      "name_de": "Krameramtsstuben",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/330px-Krameramtsstuben.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_38",
@@ -1405,7 +1479,9 @@
       "name_es": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
       "name_zh": "Fischbrötchen-Buden an den Landungsbrücken (桟橋のフィッシュブレートヒェン屋台群)",
       "name_fr": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
-      "name_de": "Fischbrötchen-Buden an den Landungsbrücken"
+      "name_de": "Fischbrötchen-Buden an den Landungsbrücken",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_39",
@@ -1442,7 +1518,9 @@
       "name_es": "Old Commercial Room (Old Commercial Room Restaurant)",
       "name_zh": "Old Commercial Room (オールド・コマーシャル・ルーム)",
       "name_fr": "Old Commercial Room (Old Commercial Room Restaurant)",
-      "name_de": "Old Commercial Room"
+      "name_de": "Old Commercial Room",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_Commercial_Room_Hamburg.jpg/330px-Old_Commercial_Room_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_40",
@@ -1479,7 +1557,9 @@
       "name_es": "Café Paris (Café Paris Hamburg)",
       "name_zh": "Café Paris (カフェ・パリ)",
       "name_fr": "Café Paris (Café Paris Hamburg)",
-      "name_de": "Café Paris (Hamburg)"
+      "name_de": "Café Paris (Hamburg)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_41",
@@ -1516,7 +1596,9 @@
       "name_es": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
       "name_zh": "Rive Fisch & Fischereihafen Restaurant (フィッシェライハーフェン・レストラン)",
       "name_fr": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
-      "name_de": "Rive Fisch & Fischereihafen Restaurant"
+      "name_de": "Rive Fisch & Fischereihafen Restaurant",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_42",
@@ -1553,7 +1635,9 @@
       "name_es": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
       "name_zh": "Gröninger Privatbrauerei (グレーニンガー自家醸造所)",
       "name_fr": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
-      "name_de": "Gröninger Privatbrauerei"
+      "name_de": "Gröninger Privatbrauerei",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_43",
@@ -1590,7 +1674,9 @@
       "name_es": "Elbstrand (Elbstrand Beach Övelgönne)",
       "name_zh": "Elbstrand (エルプシュトラント)",
       "name_fr": "Elbstrand (Elbstrand Beach Övelgönne)",
-      "name_de": "Elbstrand (Övelgönne)"
+      "name_de": "Elbstrand (Övelgönne)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_44",
@@ -1627,7 +1713,9 @@
       "name_es": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
       "name_zh": "Museumshafen Övelgönne (オイヴェルゲンネ博物館港)",
       "name_fr": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
-      "name_de": "Museumshafen Övelgönne"
+      "name_de": "Museumshafen Övelgönne",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbe.Anleger_Neum%C3%BChlen.wmt.jpg/330px-Elbe.Anleger_Neum%C3%BChlen.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_45",
@@ -1664,7 +1752,9 @@
       "name_es": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
       "name_zh": "Stadtpark Hamburg & Planetarium Hamburg (ハンブルク市立公園＆プラネタリウム)",
       "name_fr": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
-      "name_de": "Stadtpark Hamburg & Planetarium Hamburg"
+      "name_de": "Stadtpark Hamburg & Planetarium Hamburg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_46",
@@ -1701,7 +1791,9 @@
       "name_es": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
       "name_zh": "Jenischpark & Jenisch Haus (イェーニッシュ公園＆イェーニッシュ・ハウス)",
       "name_fr": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
-      "name_de": "Jenischpark & Jenisch Haus"
+      "name_de": "Jenischpark & Jenisch Haus",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_47",
@@ -1738,7 +1830,9 @@
       "name_es": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
       "name_zh": "Energiebunker Wilhelmsburg (エネルギーブンカー・ヴィルヘルムスブルク)",
       "name_fr": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
-      "name_de": "Energiebunker Wilhelmsburg"
+      "name_de": "Energiebunker Wilhelmsburg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_48",
@@ -1775,7 +1869,9 @@
       "name_es": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
       "name_zh": "HADAG-Hafenfähren (HADAG港湾定期フェリー62番線)",
       "name_fr": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
-      "name_de": "HADAG-Hafenfähren (Linie 62)"
+      "name_de": "HADAG-Hafenfähren (Linie 62)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_49",
@@ -1812,7 +1908,9 @@
       "name_es": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
       "name_zh": "Bäderland Holthusenbad (ホルトフーゼンバート)",
       "name_fr": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
-      "name_de": "Bäderland Holthusenbad"
+      "name_de": "Bäderland Holthusenbad",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_50",
@@ -1849,7 +1947,9 @@
       "name_es": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
       "name_zh": "Lübeck: Altstadt & Holstentor (リューベック：世界遺産旧市街＆ホルステン門)",
       "name_fr": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
-      "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)"
+      "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_51",
@@ -1886,7 +1986,9 @@
       "name_es": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
       "name_zh": "Lüneburg: Historische Altstadt (リューネブルク：歴史的旧市街＆ドイツ塩博物館)",
       "name_fr": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
-      "name_de": "Lüneburg: Historische Altstadt"
+      "name_de": "Lüneburg: Historische Altstadt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_52",
@@ -1923,7 +2025,9 @@
       "name_es": "Schloss Schwerin (Schwerin Castle)",
       "name_zh": "Schloss Schwerin (シュヴェリーン城)",
       "name_fr": "Schloss Schwerin (Schwerin Castle)",
-      "name_de": "Schloss Schwerin"
+      "name_de": "Schloss Schwerin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/330px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_53",
@@ -1960,7 +2064,9 @@
       "name_es": "Stade & Altes Land (Stade & Altes Land Orchards)",
       "name_zh": "Stade & Altes Land (シュターデ＆アルテス・ラント)",
       "name_fr": "Stade & Altes Land (Stade & Altes Land Orchards)",
-      "name_de": "Stade & Altes Land"
+      "name_de": "Stade & Altes Land",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_54",
@@ -1997,7 +2103,9 @@
       "name_es": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
       "name_zh": "Cuxhaven & Wattenmeer (クックスハーフェン＆世界遺産ワッデン海)",
       "name_fr": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
-      "name_de": "Cuxhaven & Wattenmeer (UNESCO)"
+      "name_de": "Cuxhaven & Wattenmeer (UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_55",
@@ -2034,7 +2142,9 @@
       "name_es": "Helgoland (Heligoland Island)",
       "name_zh": "Helgoland (ヘルゴラント島)",
       "name_fr": "Helgoland (Heligoland Island)",
-      "name_de": "Helgoland"
+      "name_de": "Helgoland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DEU_Helgoland_COA.svg/langde-330px-DEU_Helgoland_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_56",
@@ -2071,7 +2181,9 @@
       "name_es": "Bremerhaven: Auswandererhaus & Klimahaus (Bremerhaven Emigration & Climate House)",
       "name_zh": "Bremerhaven: Auswandererhaus & Klimahaus (ブレーマーハーフェン：移民ハウス＆気候館)",
       "name_fr": "Bremerhaven: Auswandererhaus & Klimahaus (Bremerhaven Emigration & Climate House)",
-      "name_de": "Bremerhaven: Auswandererhaus & Klimahaus"
+      "name_de": "Bremerhaven: Auswandererhaus & Klimahaus",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "h_57",
@@ -2108,7 +2220,9 @@
       "name_es": "KZ-Gedenkstätte Neuengamme (Neuengamme Concentration Camp Memorial)",
       "name_zh": "KZ-Gedenkstätte Neuengamme (ノイエンガンメ強制収容所記念館)",
       "name_fr": "KZ-Gedenkstätte Neuengamme (Neuengamme Concentration Camp Memorial)",
-      "name_de": "KZ-Gedenkstätte Neuengamme"
+      "name_de": "KZ-Gedenkstätte Neuengamme",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gestaltung_des_Haeftlingslagers.jpg/330px-Gestaltung_des_Haeftlingslagers.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_58",
@@ -2145,7 +2259,9 @@
       "name_es": "Schloss Ahrensburg (Ahrensburg Palace)",
       "name_zh": "Schloss Ahrensburg (アーレンスブルク城)",
       "name_fr": "Schloss Ahrensburg (Ahrensburg Palace)",
-      "name_de": "Schloss Ahrensburg"
+      "name_de": "Schloss Ahrensburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg-msu-1507-.jpg/330px-Schloss_Ahrensburg-msu-1507-.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_59",
@@ -2182,7 +2298,9 @@
       "name_es": "Wildpark Schwarze Berge (Black Mountains Wildlife Park)",
       "name_zh": "Wildpark Schwarze Berge (シュヴァルツェ・ベルゲ野生動物公園)",
       "name_fr": "Wildpark Schwarze Berge (Black Mountains Wildlife Park)",
-      "name_de": "Wildpark Schwarze Berge"
+      "name_de": "Wildpark Schwarze Berge",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eingang_Wildpark_Schwarze_Berge.jpg/330px-Eingang_Wildpark_Schwarze_Berge.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_60",
@@ -2219,7 +2337,9 @@
       "name_es": "Heide Park Resort",
       "name_zh": "Heide Park Resort (ハイデ・パーク・リゾート)",
       "name_fr": "Heide Park Resort",
-      "name_de": "Heide Park Resort"
+      "name_de": "Heide Park Resort",
+      "image": "https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/Heide-Park%28fern%29.tif/lossy-page1-330px-Heide-Park%28fern%29.tif.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "h_61",
@@ -2256,7 +2376,10 @@
       "name_es": "Designer Outlet Neumünster / Soltau (Neumünster Designer Outlet)",
       "name_zh": "Designer Outlet Neumünster / Soltau (デザイナー・アウトレット・ノイミュンスター)",
       "name_fr": "Designer Outlet Neumünster / Soltau (Neumünster Designer Outlet)",
-      "name_de": "Designer Outlet Neumünster / Soltau"
+      "name_de": "Designer Outlet Neumünster / Soltau",
+      "image": "",
+      "hasWiki": false
     }
-  ]
+  ],
+  "spotCount": 61
 }

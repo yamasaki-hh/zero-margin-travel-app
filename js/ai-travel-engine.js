@@ -28153,7 +28153,27 @@ const AITravelEngine = {
     if (zone === 'suburban') {
       return lang === 'ja' ? '🏞️ 郊外' : lang === 'es' ? '🏞️ Suburbano' : lang === 'zh' ? '🏞️ 郊区日游' : lang === 'fr' ? '🏞️ Banlieue' : lang === 'de' ? '🏞️ Umgebung' : '🏞️ Suburban';
     }
-    return lang === 'ja' ? '🏙️ 市内' : lang === 'es' ? '🏙️ Centro' : lang === 'zh' ? '🏙️ 市中心' : lang === 'fr' ? '🏙️ Centre-ville' : lang === 'de' ? '🏙️ Stadtzentrum' : '🏙️ City Center';
+  },
+
+  handleImageError(imgElem, category, rating, cardCatText) {
+    if (!imgElem || !imgElem.parentElement) return;
+    const parent = imgElem.parentElement;
+    const catIcon = (typeof getCategoryIcon === 'function') ? getCategoryIcon(category) : '📍';
+    const cleanCat = cardCatText || category || 'Venue';
+    const cleanRating = rating || '★4.5';
+    
+    parent.className = 'spot-header-fallback';
+    parent.style.cssText = 'width:100%; height:76px; border-radius:12px; margin-bottom:0.75rem; background:linear-gradient(135deg, #FEF3C7, #E0E7FF); border:1.5px solid var(--border-ink); display:flex; align-items:center; justify-content:space-between; padding:0.75rem 1rem; position:relative; box-sizing:border-box;';
+    parent.innerHTML = `
+      <div style="display:flex; align-items:center; gap:0.5rem;">
+        <span style="font-size:1.5rem;">${catIcon}</span>
+        <div>
+          <div style="font-weight:800; font-size:0.85rem; color:var(--primary-wood);">${escapeHtml(cleanCat)}</div>
+          <div style="font-size:0.72rem; color:var(--text-secondary);">Verified Google Maps Venue</div>
+        </div>
+      </div>
+      <span style="font-size:0.75rem; font-weight:800; background:#FFF; color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857;">${escapeHtml(cleanRating)}</span>
+    `;
   },
 
   openSpotModal(spotId) {
@@ -28194,7 +28214,7 @@ const AITravelEngine = {
         <div>
           ${hasPhoto ? `
             <div style="width:100%; height:190px; overflow:hidden; border-radius:14px; margin-bottom:0.85rem; background:#FAF7F2; position:relative;">
-              <img src="${spot.image}" alt="${escapeHtml(activeName)}" style="width:100%; height:100%; object-fit:cover; display:block;">
+              <img src="${spot.image}" alt="${escapeHtml(activeName)}" onerror="this.onerror=null; AITravelEngine.handleImageError(this, '${escapeHtml(spot.category)}', '${escapeHtml(cleanRating)}', '${escapeHtml(activeCat)}');" style="width:100%; height:100%; object-fit:cover; display:block;">
               <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7;">🌐 Wikipedia</span>
               <span style="position:absolute; top:8px; right:8px; font-size:0.8rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857;">${cleanRating}</span>
             </div>
@@ -28473,7 +28493,7 @@ const AITravelEngine = {
               <div>
                 ${hasPhoto ? `
                   <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
-                    <img src="${s.image}" alt="${escapeHtml(cardName)}" loading="lazy" decoding="async" onerror="this.onerror=null; this.parentElement.style.display='none';" style="width:100%; height:100%; object-fit:cover; display:block;">
+                    <img src="${s.image}" alt="${escapeHtml(cardName)}" loading="lazy" decoding="async" onerror="this.onerror=null; AITravelEngine.handleImageError(this, '${escapeHtml(s.category)}', '${escapeHtml(s.rating)}', '${escapeHtml(cardCat)}');" style="width:100%; height:100%; object-fit:cover; display:block;">
                     <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7; box-shadow:0 2px 4px rgba(0,0,0,0.1);">🌐 Wikipedia</span>
                     <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
                   </div>

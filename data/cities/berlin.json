@@ -36,7 +36,9 @@
       "name_es": "Brandenburger Tor (Brandenburg Gate)",
       "name_zh": "Brandenburger Tor (ブランデンブルク門)",
       "name_fr": "Brandenburger Tor (Brandenburg Gate)",
-      "name_de": "Brandenburger Tor"
+      "name_de": "Brandenburger Tor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BerlinBrandenburgerTor1985.jpg/330px-BerlinBrandenburgerTor1985.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_2",
@@ -73,7 +75,9 @@
       "name_es": "Reichstagsgebäude (Reichstag Building & Dome)",
       "name_zh": "Reichstagsgebäude (連邦議会議事堂)",
       "name_fr": "Reichstagsgebäude (Reichstag Building & Dome)",
-      "name_de": "Reichstagsgebäude"
+      "name_de": "Reichstagsgebäude",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/330px-Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_3",
@@ -110,7 +114,9 @@
       "name_es": "Museumsinsel (UNESCO)",
       "name_zh": "Museumsinsel (博物館島)",
       "name_fr": "Museumsinsel (UNESCO)",
-      "name_de": "Museumsinsel (UNESCO)"
+      "name_de": "Museumsinsel (UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_4",
@@ -147,7 +153,9 @@
       "name_es": "Pergamonmuseum (Pergamon Museum)",
       "name_zh": "Pergamonmuseum (ペルガモン博物館)",
       "name_fr": "Pergamonmuseum (Pergamon Museum)",
-      "name_de": "Pergamonmuseum"
+      "name_de": "Pergamonmuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_5",
@@ -184,7 +192,9 @@
       "name_es": "Neues Museum",
       "name_zh": "Neues Museum (新博物館)",
       "name_fr": "Neues Museum",
-      "name_de": "Neues Museum"
+      "name_de": "Neues Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_6",
@@ -221,7 +231,9 @@
       "name_es": "Alte Nationalgalerie",
       "name_zh": "Alte Nationalgalerie (旧国立美術館)",
       "name_fr": "Alte Nationalgalerie",
-      "name_de": "Alte Nationalgalerie"
+      "name_de": "Alte Nationalgalerie",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/330px-AlteNationalgalerie_1a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_7",
@@ -258,7 +270,9 @@
       "name_es": "Bode-Museum (Bode Museum)",
       "name_zh": "Bode-Museum (ボーデ博物館)",
       "name_fr": "Bode-Museum (Bode Museum)",
-      "name_de": "Bode-Museum"
+      "name_de": "Bode-Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_8",
@@ -295,7 +309,9 @@
       "name_es": "Altes Museum",
       "name_zh": "Altes Museum (旧博物館)",
       "name_fr": "Altes Museum",
-      "name_de": "Altes Museum"
+      "name_de": "Altes Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Altes_Museum%2C_Berlin_2012.jpg/330px-Altes_Museum%2C_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_9",
@@ -332,7 +348,9 @@
       "name_es": "Berliner Dom (Berlin Cathedral)",
       "name_zh": "Berliner Dom (ベルリン大聖堂)",
       "name_fr": "Berliner Dom (Berlin Cathedral)",
-      "name_de": "Berliner Dom"
+      "name_de": "Berliner Dom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Berliner_Dom_-_Westfassade_--_01.jpg/330px-2023_Berliner_Dom_-_Westfassade_--_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_10",
@@ -369,7 +387,9 @@
       "name_es": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
       "name_zh": "Humboldt Forum & Berliner Schloss (フンボルト・フォーラム＆ベルリン王宮)",
       "name_fr": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
-      "name_de": "Humboldt Forum & Berliner Schloss"
+      "name_de": "Humboldt Forum & Berliner Schloss",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_11",
@@ -406,7 +426,9 @@
       "name_es": "East Side Gallery",
       "name_zh": "East Side Gallery (イーストサイドギャラリー)",
       "name_fr": "East Side Gallery",
-      "name_de": "East Side Gallery"
+      "name_de": "East Side Gallery",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg/330px-Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_12",
@@ -443,7 +465,9 @@
       "name_es": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
       "name_zh": "Gedenkstätte Berliner Mauer (ベルリンの壁記念館)",
       "name_fr": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
-      "name_de": "Gedenkstätte Berliner Mauer (Bernauer Straße)"
+      "name_de": "Gedenkstätte Berliner Mauer (Bernauer Straße)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg/330px-Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_13",
@@ -480,7 +504,9 @@
       "name_es": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
       "name_zh": "Checkpoint Charlie & Mauermuseum (チェックポイント・チャーリー＆壁博物館)",
       "name_fr": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
-      "name_de": "Checkpoint Charlie & Mauermuseum"
+      "name_de": "Checkpoint Charlie & Mauermuseum",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_14",
@@ -517,7 +543,9 @@
       "name_es": "Topographie des Terrors (Topography of Terror)",
       "name_zh": "Topographie des Terrors (トポグラフィー・オブ・テラー)",
       "name_fr": "Topographie des Terrors (Topography of Terror)",
-      "name_de": "Topographie des Terrors"
+      "name_de": "Topographie des Terrors",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dokumentationszentrum_Topographie_des_Terrors.jpg/330px-Dokumentationszentrum_Topographie_des_Terrors.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_15",
@@ -554,7 +582,9 @@
       "name_es": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
       "name_zh": "Denkmal für die ermordeten Juden Europas (ホロコースト慰霊碑)",
       "name_fr": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
-      "name_de": "Denkmal für die ermordeten Juden Europas"
+      "name_de": "Denkmal für die ermordeten Juden Europas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_16",
@@ -591,7 +621,9 @@
       "name_es": "Berliner Fernsehturm (Berlin TV Tower)",
       "name_zh": "Berliner Fernsehturm (ベルリンテレビ塔)",
       "name_fr": "Berliner Fernsehturm (Berlin TV Tower)",
-      "name_de": "Berliner Fernsehturm"
+      "name_de": "Berliner Fernsehturm",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_17",
@@ -628,7 +660,9 @@
       "name_es": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
       "name_zh": "Alexanderplatz & Weltzeituhr (アレクサンダー広場＆世界時計)",
       "name_fr": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
-      "name_de": "Alexanderplatz & Weltzeituhr"
+      "name_de": "Alexanderplatz & Weltzeituhr",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_18",
@@ -665,7 +699,9 @@
       "name_es": "Gendarmenmarkt",
       "name_zh": "Gendarmenmarkt (ジャンダルメンマルクト)",
       "name_fr": "Gendarmenmarkt",
-      "name_de": "Gendarmenmarkt"
+      "name_de": "Gendarmenmarkt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg/330px-150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_19",
@@ -702,7 +738,9 @@
       "name_es": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
       "name_zh": "Kaiser-Wilhelm-Gedächtniskirche (カイザー・ヴィルヘルム記念教会)",
       "name_fr": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
-      "name_de": "Kaiser-Wilhelm-Gedächtniskirche"
+      "name_de": "Kaiser-Wilhelm-Gedächtniskirche",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_20",
@@ -739,7 +777,9 @@
       "name_es": "Schloss Charlottenburg (Charlottenburg Palace)",
       "name_zh": "Schloss Charlottenburg (シャルロッテンブルク宮殿)",
       "name_fr": "Schloss Charlottenburg (Charlottenburg Palace)",
-      "name_de": "Schloss Charlottenburg"
+      "name_de": "Schloss Charlottenburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin_Charlottenburger_Schloss_Strassenseite.jpg/330px-Berlin_Charlottenburger_Schloss_Strassenseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_21",
@@ -776,7 +816,9 @@
       "name_es": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
       "name_zh": "Kulturforum & Gemäldegalerie） (クルトゥールフォルム)",
       "name_fr": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
-      "name_de": "Kulturforum & Gemäldegalerie） (Kulturforum & Gemäldegalerie)"
+      "name_de": "Kulturforum & Gemäldegalerie） (Kulturforum & Gemäldegalerie)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_22",
@@ -813,7 +855,9 @@
       "name_es": "Neue Nationalgalerie",
       "name_zh": "Neue Nationalgalerie (新国立美術館)",
       "name_fr": "Neue Nationalgalerie",
-      "name_de": "Neue Nationalgalerie"
+      "name_de": "Neue Nationalgalerie",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/330px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_23",
@@ -850,7 +894,9 @@
       "name_es": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
       "name_zh": "Hamburger Bahnhof (ハンブルガー・バーンホフ現代美術館)",
       "name_fr": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
-      "name_de": "Hamburger Bahnhof"
+      "name_de": "Hamburger Bahnhof",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_24",
@@ -887,7 +933,9 @@
       "name_es": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
       "name_zh": "Jüdisches Museum Berlin (ユダヤ博物館)",
       "name_fr": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
-      "name_de": "Jüdisches Museum Berlin"
+      "name_de": "Jüdisches Museum Berlin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jewish_Museum_Berlin_-_panoramio_%282%29.jpg/330px-Jewish_Museum_Berlin_-_panoramio_%282%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_25",
@@ -924,7 +972,9 @@
       "name_es": "Deutsches Historisches Museum (German Historical Museum)",
       "name_zh": "Deutsches Historisches Museum (ドイツ歴史博物館)",
       "name_fr": "Deutsches Historisches Museum (German Historical Museum)",
-      "name_de": "Deutsches Historisches Museum (DHM)"
+      "name_de": "Deutsches Historisches Museum (DHM)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zeughaus_Berlin_2012.jpg/330px-Zeughaus_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_26",
@@ -961,7 +1011,9 @@
       "name_es": "Deutsches Technikmuseum (German Museum of Technology)",
       "name_zh": "Deutsches Technikmuseum (ドイツ技術博物館＆スペクトラム)",
       "name_fr": "Deutsches Technikmuseum (German Museum of Technology)",
-      "name_de": "Deutsches Technikmuseum"
+      "name_de": "Deutsches Technikmuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Deutsches_technikmuseum_berlin_20080429.jpg/330px-Deutsches_technikmuseum_berlin_20080429.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_27",
@@ -998,7 +1050,9 @@
       "name_es": "Museum für Naturkunde (Berlin Natural History Museum)",
       "name_zh": "Museum für Naturkunde (ベルリン自然史博物館)",
       "name_fr": "Museum für Naturkunde (Berlin Natural History Museum)",
-      "name_de": "Museum für Naturkunde"
+      "name_de": "Museum für Naturkunde",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg/330px-Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_28",
@@ -1035,7 +1089,9 @@
       "name_es": "Futurium",
       "name_zh": "Futurium (フトゥリウム)",
       "name_fr": "Futurium",
-      "name_de": "Futurium"
+      "name_de": "Futurium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FuturiumBerlin2021.jpg/330px-FuturiumBerlin2021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_29",
@@ -1072,7 +1128,9 @@
       "name_es": "Computerspielemuseum (Computer Games Museum)",
       "name_zh": "Computerspielemuseum (コンピュータゲーム博物館)",
       "name_fr": "Computerspielemuseum (Computer Games Museum)",
-      "name_de": "Computerspielemuseum"
+      "name_de": "Computerspielemuseum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ausstellung_Computerspielemuseum_2.JPG/330px-Ausstellung_Computerspielemuseum_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_30",
@@ -1109,7 +1167,9 @@
       "name_es": "Spionagemuseum (German Spy Museum)",
       "name_zh": "Spionagemuseum (ドイツスパイ博物館)",
       "name_fr": "Spionagemuseum (German Spy Museum)",
-      "name_de": "Spionagemuseum (German Spy Museum)"
+      "name_de": "Spionagemuseum (German Spy Museum)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_31",
@@ -1146,7 +1206,9 @@
       "name_es": "DDR Museum",
       "name_zh": "DDR Museum (DDR博物館)",
       "name_fr": "DDR Museum",
-      "name_de": "DDR Museum"
+      "name_de": "DDR Museum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_32",
@@ -1183,7 +1245,9 @@
       "name_es": "Berliner Unterwelten (Berlin Underground Tours)",
       "name_zh": "Berliner Unterwelten (ベルリン地下世界ツアー)",
       "name_fr": "Berliner Unterwelten (Berlin Underground Tours)",
-      "name_de": "Berliner Unterwelten"
+      "name_de": "Berliner Unterwelten",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ticketshop_Berliner_Unterwelten.jpg/330px-Ticketshop_Berliner_Unterwelten.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_33",
@@ -1220,7 +1284,9 @@
       "name_es": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
       "name_zh": "Siegessäule & Großer Tiergarten (戦勝記念塔＆大ティーアガルテン)",
       "name_fr": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
-      "name_de": "Siegessäule & Großer Tiergarten"
+      "name_de": "Siegessäule & Großer Tiergarten",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_34",
@@ -1257,7 +1323,9 @@
       "name_es": "Potsdamer Platz & Sony Center",
       "name_zh": "Potsdamer Platz & Sony Center (ポツダム広場＆ソニーセンター)",
       "name_fr": "Potsdamer Platz & Sony Center",
-      "name_de": "Potsdamer Platz & Sony Center"
+      "name_de": "Potsdamer Platz & Sony Center",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_35",
@@ -1294,7 +1362,9 @@
       "name_es": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
       "name_zh": "Kurfürstendamm  & Tauentzienstraße (クーダム＆タウエンツィエン通り)",
       "name_fr": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
-      "name_de": "Kurfürstendamm  & Tauentzienstraße (Ku'damm)"
+      "name_de": "Kurfürstendamm  & Tauentzienstraße (Ku'damm)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_36",
@@ -1331,7 +1401,9 @@
       "name_es": "KaDeWe (KaDeWe Department Store)",
       "name_zh": "KaDeWe (カーデーヴェー百貨店)",
       "name_fr": "KaDeWe (KaDeWe Department Store)",
-      "name_de": "KaDeWe (Kaufhaus des Westens)"
+      "name_de": "KaDeWe (Kaufhaus des Westens)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg/330px-Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_37",
@@ -1368,7 +1440,9 @@
       "name_es": "Mall of Berlin",
       "name_zh": "Mall of Berlin (モール・オブ・ベルリン)",
       "name_fr": "Mall of Berlin",
-      "name_de": "Mall of Berlin"
+      "name_de": "Mall of Berlin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg/330px-18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_38",
@@ -1405,7 +1479,9 @@
       "name_es": "Bikini Berlin (Bikini Berlin Concept Mall)",
       "name_zh": "Bikini Berlin (ビキニ・ベルリン)",
       "name_fr": "Bikini Berlin (Bikini Berlin Concept Mall)",
-      "name_de": "Bikini Berlin"
+      "name_de": "Bikini Berlin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg/330px-Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_39",
@@ -1442,7 +1518,9 @@
       "name_es": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
       "name_zh": "Hackesche Höfe & Hackescher Markt (ハッケシャー・ヘーフェ＆ハッケシャー・マルクト)",
       "name_fr": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
-      "name_de": "Hackesche Höfe & Hackescher Markt"
+      "name_de": "Hackesche Höfe & Hackescher Markt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_40",
@@ -1479,7 +1557,9 @@
       "name_es": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
       "name_zh": "Mauerpark & Flohmarkt (マウアーパーク＆日曜蚤の市)",
       "name_fr": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
-      "name_de": "Mauerpark & Flohmarkt"
+      "name_de": "Mauerpark & Flohmarkt",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_41",
@@ -1516,7 +1596,9 @@
       "name_es": "Markthalle Neun (Markthalle Neun Market)",
       "name_zh": "Markthalle Neun (マルクトハレ・ノイン)",
       "name_fr": "Markthalle Neun (Markthalle Neun Market)",
-      "name_de": "Markthalle Neun"
+      "name_de": "Markthalle Neun",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_42",
@@ -1553,7 +1635,9 @@
       "name_es": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
       "name_zh": "Kollwitzplatz & Prenzlauer Berg (コルヴィッツ広場＆プレンツラウアー・ベルク)",
       "name_fr": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
-      "name_de": "Kollwitzplatz & Prenzlauer Berg"
+      "name_de": "Kollwitzplatz & Prenzlauer Berg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_43",
@@ -1590,7 +1674,9 @@
       "name_es": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
       "name_zh": "Bergmannstraße & Kreuzberg (ベルクマン通り＆クロイツベルク)",
       "name_fr": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
-      "name_de": "Bergmannstraße & Kreuzberg"
+      "name_de": "Bergmannstraße & Kreuzberg",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_44",
@@ -1627,7 +1713,9 @@
       "name_es": "RAW-Gelände (RAW Complex Cultural Center)",
       "name_zh": "RAW-Gelände (RAWゲレンデ)",
       "name_fr": "RAW-Gelände (RAW Complex Cultural Center)",
-      "name_de": "RAW-Gelände"
+      "name_de": "RAW-Gelände",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RAW_Berlin_Tor1.jpg/330px-RAW_Berlin_Tor1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_45",
@@ -1664,7 +1752,9 @@
       "name_es": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
       "name_zh": "Holzmarkt 25 (ホルツマルクト25)",
       "name_fr": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
-      "name_de": "Holzmarkt 25"
+      "name_de": "Holzmarkt 25",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg/330px-Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_46",
@@ -1701,7 +1791,9 @@
       "name_es": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
       "name_zh": "Zoologischer Garten Berlin & Aquarium Berlin (ベルリン動物園＆水族館)",
       "name_fr": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
-      "name_de": "Zoologischer Garten Berlin & Aquarium Berlin"
+      "name_de": "Zoologischer Garten Berlin & Aquarium Berlin",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_47",
@@ -1738,7 +1830,9 @@
       "name_es": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
       "name_zh": "Tierpark Berlin & Schloss Friedrichsfelde (ティーアパーク・ベルリン)",
       "name_fr": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
-      "name_de": "Tierpark Berlin & Schloss Friedrichsfelde"
+      "name_de": "Tierpark Berlin & Schloss Friedrichsfelde",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_48",
@@ -1775,7 +1869,9 @@
       "name_es": "Tempelhofer Feld (Tempelhof Airport Park)",
       "name_zh": "Tempelhofer Feld (テンペルホーフ空港跡地公園)",
       "name_fr": "Tempelhofer Feld (Tempelhof Airport Park)",
-      "name_de": "Tempelhofer Feld"
+      "name_de": "Tempelhofer Feld",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial%2C_Berlin_%28_1090064%29.jpg/330px-Aerial%2C_Berlin_%28_1090064%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_49",
@@ -1812,7 +1908,9 @@
       "name_es": "Gärten der Welt (Gardens of the World)",
       "name_zh": "Gärten der Welt (世界の庭園)",
       "name_fr": "Gärten der Welt (Gardens of the World)",
-      "name_de": "Gärten der Welt"
+      "name_de": "Gärten der Welt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/330px-Erholungspark_Marzahn_2009.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_50",
@@ -1849,7 +1947,9 @@
       "name_es": "Spree-Schifffahrt (Spree River Cruise)",
       "name_zh": "Spree-Schifffahrt (シュプレー川観光クルーズ船)",
       "name_fr": "Spree-Schifffahrt (Spree River Cruise)",
-      "name_de": "Spree-Schifffahrt (Spree River Cruise)"
+      "name_de": "Spree-Schifffahrt (Spree River Cruise)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_51",
@@ -1886,7 +1986,9 @@
       "name_es": "Badeschiff (Badeschiff Floating Pool)",
       "name_zh": "Badeschiff (バーデシッフ)",
       "name_fr": "Badeschiff (Badeschiff Floating Pool)",
-      "name_de": "Badeschiff"
+      "name_de": "Badeschiff",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Badeschiff_Kohl.jpg/330px-Badeschiff_Kohl.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_52",
@@ -1923,7 +2025,9 @@
       "name_es": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
       "name_zh": "Curry 36 & Konnopke's Imbiß (カリー36＆コノプケ)",
       "name_fr": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
-      "name_de": "Curry 36 & Konnopke's Imbiß"
+      "name_de": "Curry 36 & Konnopke's Imbiß",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_53",
@@ -1960,7 +2064,9 @@
       "name_es": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
       "name_zh": "Mustafa's Gemüsedöner (ムスタファズ・ゲミューゼドネル)",
       "name_fr": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
-      "name_de": "Mustafa's Gemüsedöner"
+      "name_de": "Mustafa's Gemüsedöner",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_54",
@@ -1997,7 +2103,9 @@
       "name_es": "Café Einstein Stammhaus",
       "name_zh": "Café Einstein Stammhaus (カフェ・アインシュタイン本店)",
       "name_fr": "Café Einstein Stammhaus",
-      "name_de": "Café Einstein Stammhaus"
+      "name_de": "Café Einstein Stammhaus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg/330px-TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_55",
@@ -2034,7 +2142,9 @@
       "name_es": "Prater Biergarten (Prater Beer Garden)",
       "name_zh": "Prater Biergarten (プラーター・ビアガーデン)",
       "name_fr": "Prater Biergarten (Prater Beer Garden)",
-      "name_de": "Prater Biergarten"
+      "name_de": "Prater Biergarten",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_56",
@@ -2071,7 +2181,9 @@
       "name_es": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
       "name_zh": "Brauhaus Georgbræu & Nikolaiviertel (ニコライ地区＆ゲオルグブロイ)",
       "name_fr": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
-      "name_de": "Brauhaus Georgbræu & Nikolaiviertel"
+      "name_de": "Brauhaus Georgbræu & Nikolaiviertel",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_57",
@@ -2108,7 +2220,9 @@
       "name_es": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
       "name_zh": "ANOHA - Die Kinderwelt des Jüdischen Museums (アノハ・子供の世界)",
       "name_fr": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
-      "name_de": "ANOHA - Die Kinderwelt des Jüdischen Museums"
+      "name_de": "ANOHA - Die Kinderwelt des Jüdischen Museums",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_58",
@@ -2145,7 +2259,9 @@
       "name_es": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
       "name_zh": "Loxx / Lego Discovery Centre Berlin (レゴランド・ディスカバリー・センター)",
       "name_fr": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
-      "name_de": "Loxx / Lego Discovery Centre Berlin"
+      "name_de": "Loxx / Lego Discovery Centre Berlin",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_59",
@@ -2182,7 +2298,9 @@
       "name_es": "AquaDom & SEA LIFE Berlin (SEA LIFE Berlin)",
       "name_zh": "AquaDom & SEA LIFE Berlin (シーライフ・ベルリン)",
       "name_fr": "AquaDom & SEA LIFE Berlin (SEA LIFE Berlin)",
-      "name_de": "AquaDom & SEA LIFE Berlin"
+      "name_de": "AquaDom & SEA LIFE Berlin",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_60",
@@ -2219,7 +2337,9 @@
       "name_es": "Liquidrom (Liquidrom Thermal Bath)",
       "name_zh": "Liquidrom (リキッドローム)",
       "name_fr": "Liquidrom (Liquidrom Thermal Bath)",
-      "name_de": "Liquidrom"
+      "name_de": "Liquidrom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/330px-Tempodrom.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_61",
@@ -2256,7 +2376,9 @@
       "name_es": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
       "name_zh": "Schloss Sanssouci & Park Sanssouci (サンスーシ宮殿＆サンスーシ公園)",
       "name_fr": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
-      "name_de": "Schloss Sanssouci & Park Sanssouci (Potsdam / UNESCO)"
+      "name_de": "Schloss Sanssouci & Park Sanssouci (Potsdam / UNESCO)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_62",
@@ -2293,7 +2415,9 @@
       "name_es": "Neues Palais ） (New Palace in Sanssouci)",
       "name_zh": "Neues Palais ） (ポツダム)",
       "name_fr": "Neues Palais ） (New Palace in Sanssouci)",
-      "name_de": "Neues Palais ） (Potsdam)"
+      "name_de": "Neues Palais ） (Potsdam)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_63",
@@ -2330,7 +2454,9 @@
       "name_es": "Schloss Cecilienhof (Cecilienhof Palace)",
       "name_zh": "Schloss Cecilienhof (ツェツィーリエンホーフ宮殿)",
       "name_fr": "Schloss Cecilienhof (Cecilienhof Palace)",
-      "name_de": "Schloss Cecilienhof (Potsdam)"
+      "name_de": "Schloss Cecilienhof (Potsdam)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg/330px-La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_64",
@@ -2367,7 +2493,9 @@
       "name_es": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
       "name_zh": "Holländisches Viertel ） (ポツダム)",
       "name_fr": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
-      "name_de": "Holländisches Viertel ） (Potsdam)"
+      "name_de": "Holländisches Viertel ） (Potsdam)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_65",
@@ -2404,7 +2532,9 @@
       "name_es": "Museum Barberini ） (Museum Barberini Potsdam)",
       "name_zh": "Museum Barberini ） (ポツダム)",
       "name_fr": "Museum Barberini ） (Museum Barberini Potsdam)",
-      "name_de": "Museum Barberini ） (Potsdam)"
+      "name_de": "Museum Barberini ） (Potsdam)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_66",
@@ -2441,7 +2571,9 @@
       "name_es": "Glienicker Brücke ） (Glienicke Bridge)",
       "name_zh": "Glienicker Brücke ） (スパイの橋)",
       "name_fr": "Glienicker Brücke ） (Glienicke Bridge)",
-      "name_de": "Glienicker Brücke ） (Potsdam / Berlin)"
+      "name_de": "Glienicker Brücke ） (Potsdam / Berlin)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_67",
@@ -2478,7 +2610,9 @@
       "name_es": "Filmpark Babelsberg",
       "name_zh": "Filmpark Babelsberg (フィルムパーク・バーベルスベルク)",
       "name_fr": "Filmpark Babelsberg",
-      "name_de": "Filmpark Babelsberg (Potsdam)"
+      "name_de": "Filmpark Babelsberg (Potsdam)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg/330px-Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_68",
@@ -2515,7 +2649,9 @@
       "name_es": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
       "name_zh": "KZ-Gedenkstätte Sachsenhausen (ザクセンハウゼン強制収容所記念館)",
       "name_fr": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
-      "name_de": "KZ-Gedenkstätte Sachsenhausen (Oranienburg)"
+      "name_de": "KZ-Gedenkstätte Sachsenhausen (Oranienburg)",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_69",
@@ -2552,7 +2688,9 @@
       "name_es": "Spreewald (Spreewald Biosphere Reserve)",
       "name_zh": "Spreewald (シュプレーヴァルト)",
       "name_fr": "Spreewald (Spreewald Biosphere Reserve)",
-      "name_de": "Spreewald (Lübbenau / Lehde - UNESCO)"
+      "name_de": "Spreewald (Lübbenau / Lehde - UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg/330px-Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_70",
@@ -2589,7 +2727,9 @@
       "name_es": "Tropical Islands Resort",
       "name_zh": "Tropical Islands Resort (トロピカル・アイランズ)",
       "name_fr": "Tropical Islands Resort",
-      "name_de": "Tropical Islands Resort (Krausnick)"
+      "name_de": "Tropical Islands Resort (Krausnick)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_06_TropicalIslands_IMG_2078.jpg/330px-2018_06_TropicalIslands_IMG_2078.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_71",
@@ -2626,7 +2766,9 @@
       "name_es": "Pfaueninsel (UNESCO)",
       "name_zh": "Pfaueninsel (クジャク島)",
       "name_fr": "Pfaueninsel (UNESCO)",
-      "name_de": "Pfaueninsel (UNESCO)"
+      "name_de": "Pfaueninsel (UNESCO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%9Cbersichtskarte_Pfaueninsel.png/330px-%C3%9Cbersichtskarte_Pfaueninsel.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_72",
@@ -2663,7 +2805,9 @@
       "name_es": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
       "name_zh": "Wannsee & Haus der Wannsee-Konferenz (ヴァンゼー湖＆ヴァンゼー会議記念館)",
       "name_fr": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
-      "name_de": "Wannsee & Haus der Wannsee-Konferenz"
+      "name_de": "Wannsee & Haus der Wannsee-Konferenz",
+      "image": "",
+      "hasWiki": false
     },
     {
       "id": "b_73",
@@ -2700,7 +2844,9 @@
       "name_es": "Teufelsberg (Teufelsberg Field Station)",
       "name_zh": "Teufelsberg (トイフェルスベルク)",
       "name_fr": "Teufelsberg (Teufelsberg Field Station)",
-      "name_de": "Teufelsberg"
+      "name_de": "Teufelsberg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Teufelsberg_ehem_Radaranlage.jpg/330px-Teufelsberg_ehem_Radaranlage.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_74",
@@ -2737,7 +2883,9 @@
       "name_es": "Zitadelle Spandau (Spandau Citadel)",
       "name_zh": "Zitadelle Spandau (シュパンダウ要塞)",
       "name_fr": "Zitadelle Spandau (Spandau Citadel)",
-      "name_de": "Zitadelle Spandau"
+      "name_de": "Zitadelle Spandau",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true
     },
     {
       "id": "b_75",
@@ -2774,7 +2922,10 @@
       "name_es": "Designer Outlet Berlin",
       "name_zh": "Designer Outlet Berlin (デザイナー・アウトレット・ベルリン)",
       "name_fr": "Designer Outlet Berlin",
-      "name_de": "Designer Outlet Berlin (Wustermark)"
+      "name_de": "Designer Outlet Berlin (Wustermark)",
+      "image": "",
+      "hasWiki": false
     }
-  ]
+  ],
+  "spotCount": 75
 }

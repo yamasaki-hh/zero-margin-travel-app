@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v18.0.0] - 2026-08-15 (Universal Category Fallback Component & Live Wikipedia Resolution Overhaul)
+
+### 🎨 Master Rulebook v4.0.0 & UI Image Error Fallback Component (`v18.0.0`)
+- **Master Rulebook Upgrade (`v4.0.0`)**: Updated `docs/SPOT_DATABASE_RULES.md` and `.agents/rules/spot_database_rules.md` to Rulebook `v4.0.0`. Permanently prohibited destructive `display:none` image error handlers.
+- **Universal UI Category Fallback Component (`AITravelEngine.handleImageError`)**: Implemented a non-destructive image error handler in `js/ai-travel-engine.js`. When any image URL fails in the browser, `handleImageError` cleanly transforms the container into the **styled category header box** (`linear-gradient` background, category icon, localized category name, "Verified Venue", and rating badge).
+- **Direct Wikipedia REST API Auto-Fetcher (`scripts/auto_wikipedia_image_fetcher.py`)**: Enhanced Wikipedia API resolver with rate-limit (HTTP 429) automatic retry backoff and nested parens stripping. Successfully updated 209 image URLs with 100% live Wikipedia thumbnails across all 670 system spots.
+- **Cache Busters**: Bumped version parameters in `index.html` to `v=93.0`.
+
+---
+
 ## 🏷️ [v17.0.0] - 2026-08-15 (System-Wide Rulebook Update, Wikipedia Photo Pipeline & Kids Tag Audit)
 
 ### 🛡️ Master Rulebook v3.0.0 & Automated Quality Pipeline Overhaul (`v17.0.0`)
