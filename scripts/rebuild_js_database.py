@@ -78,10 +78,18 @@ for fpath in city_files:
         sid = s.get('id', 'unknown')
 
         # Layer 1: Check Japanese text leakage in foreign language fields
-        for fkey in ['tip_en', 'tip_de', 'tip_fr', 'tip_es', 'tip_zh', 'desc_en', 'desc_de', 'desc_fr', 'desc_es', 'desc_zh']:
+        # Western fields (EN, DE, FR, ES) must NOT contain CJK characters
+        for fkey in ['tip_en', 'tip_de', 'tip_fr', 'tip_es', 'desc_en', 'desc_de', 'desc_fr', 'desc_es']:
             val = s.get(fkey, '')
             if JAPANESE_HIRAGANA_KATAKANA.search(val):
-                untranslated_violations.append((cname, sid, s.get('name', ''), fkey, f"Japanese leakage: '{val[:30]}'"))
+                untranslated_violations.append((cname, sid, s.get('name', ''), fkey, f"Japanese/CJK leakage: '{val[:30]}'"))
+
+        # Chinese fields (ZH) must NOT contain Japanese Kana (Hiragana/Katakana)
+        JAPANESE_KANA_ONLY = re.compile(r'[\u3040-\u30ff]')
+        for fkey in ['tip_zh', 'desc_zh']:
+            val = s.get(fkey, '')
+            if JAPANESE_KANA_ONLY.search(val):
+                untranslated_violations.append((cname, sid, s.get('name', ''), fkey, f"Japanese Kana leakage in Chinese field: '{val[:30]}'"))
 
         # Layer 2: Check empty desc or tip fields
         for fkey in ['desc_ja', 'desc_en', 'desc_es', 'desc_zh', 'desc_fr', 'desc_de', 'tip_ja', 'tip_en', 'tip_es', 'tip_zh', 'tip_fr', 'tip_de']:
