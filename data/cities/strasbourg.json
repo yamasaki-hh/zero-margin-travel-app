@@ -41,7 +41,10 @@
       "price_es": "Gratis (Torre: 8€)",
       "price_zh": "免费（塔楼：8 欧元）",
       "price_fr": "Gratuit (Tour : 8 €)",
-      "price_de": "Kostenlos (Turm: 8 €)"
+      "price_de": "Kostenlos (Turm: 8 €)",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_2",
@@ -82,7 +85,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_3",
@@ -123,7 +129,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_4",
@@ -164,7 +173,10 @@
       "price_es": "Patio libre",
       "price_zh": "免费庭院",
       "price_fr": "Cour libre",
-      "price_de": "Freier Innenhof"
+      "price_de": "Freier Innenhof",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_5",
@@ -205,7 +217,10 @@
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_6",
@@ -246,7 +261,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_7",
@@ -287,7 +305,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_8",
@@ -321,14 +342,17 @@
       "name_ja": "欧州議会ストラスブール",
       "name_es": "Parlamento Europeo Estrasburgo",
       "name_zh": "欧洲议会斯特拉斯堡",
-      "name_fr": "Parlement européen Strasbourg",
+      "name_fr": "European Parliament Strasbourg",
       "name_de": "Europäisches Parlament Straßburg",
       "price_en": "Free (Reservation required)",
       "price_ja": "無料（要予約）",
       "price_es": "Gratis (Se requiere reservación)",
       "price_zh": "免费（需预约）",
       "price_fr": "Gratuit (Réservation obligatoire)",
-      "price_de": "Kostenlos (Reservierung erforderlich)"
+      "price_de": "Kostenlos (Reservierung erforderlich)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_9",
@@ -369,7 +393,10 @@
       "price_es": "Terrenos libres",
       "price_zh": "免费场地",
       "price_fr": "Terrain gratuit",
-      "price_de": "Kostenloses Gelände"
+      "price_de": "Kostenloses Gelände",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_10",
@@ -394,13 +421,13 @@
       "desc_fr": "Principale église protestante d'Alsace, abritant l'orgue historique Silbermann joué par Mozart.",
       "desc_de": "Wichtigste protestantische Kirche des Elsass mit der historischen Silbermann-Orgel von Mozart.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Église Saint-Thomas",
-      "name_ja": "サントーマス教会",
+      "name_ja": "Église Saint-Thomas",
       "name_es": "Iglesia de Santo Tomás",
       "name_zh": "圣托马斯教堂",
       "name_fr": "Église Saint-Thomas",
@@ -410,7 +437,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_11",
@@ -432,7 +462,7 @@
       "desc_ja": "イル川と運河の合流点に印象的に立つネオゴシック様式の双尖塔教会。",
       "desc_es": "Iglesia neogótica de dos torres que se alza espectacular en el cruce del río Ill y los canales.",
       "desc_zh": "新哥特式双塔教堂矗立在伊尔河和运河的交汇处。",
-      "desc_fr": "Église néogothique à deux clochers se dressant de façon spectaculaire à la jonction de l'Ill et des canaux.",
+      "desc_fr": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
       "desc_de": "Neugotische Kirche mit zwei Türmen, die eindrucksvoll am Zusammenfluss von Ill und Kanälen steht.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
@@ -451,7 +481,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_12",
@@ -477,9 +510,9 @@
       "desc_de": "Beeindruckende Bergfestung aus dem 12. Jahrhundert auf einem Vogesenkamm mit Panoramablick über das Elsass.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Château du Haut-Kœnigsbourg",
       "name_ja": "シャトー デュ オー ケニヒスブール",
@@ -492,7 +525,10 @@
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_13",
@@ -513,27 +549,30 @@
       "desc_en": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
       "desc_ja": "アルザスの守護聖人を祀った丘の上の修道院。崖の上からライン平原の景色を眺めることができる。",
       "desc_es": "Convento en lo alto de una colina dedicado al santo patrón de Alsacia, con vistas desde un acantilado a la llanura del Rin.",
-      "desc_zh": "山顶修道院供奉着阿尔萨斯的守护神，可欣赏莱茵平原的悬崖边景色。",
-      "desc_fr": "Couvent perché sur une colline dédié au saint patron de l'Alsace, offrant une vue à flanc de falaise sur la plaine du Rhin.",
+      "desc_zh": "山顶修道院致力于阿尔萨斯的守护神，可俯瞰莱茵平原的悬崖景观。",
+      "desc_fr": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
       "desc_de": "Auf einem Hügel gelegenes Kloster, das der Schutzpatronin des Elsass gewidmet ist und einen Blick auf die Rheinebene von der Klippe bietet.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Mont Sainte-Odile Monastery",
       "name_ja": "モン サント ディール修道院",
-      "name_es": "Monasterio del Monte Santa Odilia",
+      "name_es": "Mont Sainte-Odile Monastery",
       "name_zh": "圣奥迪尔山修道院",
       "name_fr": "Monastère du Mont Sainte-Odile",
       "name_de": "Kloster Mont Sainte-Odile",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "自由的",
+      "price_zh": "无消耗",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_14",
@@ -574,7 +613,10 @@
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Entry: €7.50",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_15",
@@ -601,7 +643,7 @@
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée de l'Œuvre Notre-Dame",
@@ -612,10 +654,13 @@
       "name_de": "Musée de l'Œuvre Notre-Dame",
       "price_en": "Entry: €7.50",
       "price_ja": "入場料: €7.50",
-      "price_es": "Entrada: 7,50€",
+      "price_es": "Entry: €7.50",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_16",
@@ -641,12 +686,12 @@
       "desc_de": "Die Kunstsammlung im Palais Rohan zeigt europäische Meister der Malerei von Giotto und Botticelli bis Goya.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée des Beaux-Arts de Strasbourg",
-      "name_ja": "ストラスブール美術館",
+      "name_ja": "Musée des Beaux-Arts de Strasbourg",
       "name_es": "Museo de Bellas Artes de Estrasburgo",
       "name_zh": "斯特拉斯堡美术博物馆",
       "name_fr": "Musée des Beaux-Arts de Strasbourg",
@@ -656,7 +701,10 @@
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_17",
@@ -677,15 +725,15 @@
       "desc_en": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
       "desc_ja": "パレ ロアン内にある装飾美術館。豪華な枢機卿のアパートやストラスブルジョワの陶器が展示されています。",
       "desc_es": "Museo de artes decorativas en el interior del Palais Rohan, que exhibe lujosos apartamentos cardinales y cerámica estrasburguesa.",
-      "desc_zh": "罗汉宫内的装饰艺术博物馆，展示豪华的主教公寓和斯特拉斯堡陶瓷。",
-      "desc_fr": "Musée des Arts décoratifs à l'intérieur du palais Rohan exposant de somptueux appartements cardinaux et des céramiques strasbourgeoises.",
+      "desc_zh": "罗汉宫（ Palais Rohan ）内的装饰艺术博物馆（ Decorative Arts Museum ）展示奢华的红衣主教公寓和斯特拉斯堡陶瓷（ Strasbourgeois ceramics",
+      "desc_fr": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
       "desc_de": "Museum für dekorative Kunst im Palais Rohan mit prächtigen Kardinalsgemächern und Straßburger Keramik.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Musée des Arts Décoratifs",
       "name_ja": "装飾芸術美術館",
       "name_es": "Museo de Artes Decorativas",
@@ -697,7 +745,10 @@
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_18",
@@ -716,20 +767,20 @@
       "lat": 48.5794,
       "lng": 7.7358,
       "desc_en": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
-      "desc_ja": "イル川沿いにあるおしゃれなガラス美術館。モネ、ピカソ、カンディンスキー、ギュスターヴ ドレの作品を収蔵している。",
+      "desc_ja": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
       "desc_es": "Elegante museo del vidrio a lo largo del río Ill que alberga obras de Monet, Picasso, Kandinsky y Gustave Doré.",
       "desc_zh": "伊尔河沿岸的时尚玻璃博物馆收藏着莫奈、毕加索、康定斯基和古斯塔夫·多雷的作品。",
       "desc_fr": "Musée du verre élégant au bord de l'Ill abritant des œuvres de Monet, Picasso, Kandinsky et Gustave Doré.",
       "desc_de": "Elegantes Glasmuseum am Fluss Ill mit Werken von Monet, Picasso, Kandinsky und Gustave Doré.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "MAMCS (Museum of Modern & Contemporary Art)",
       "name_ja": "MAMCS (近現代美術館)",
-      "name_es": "MAMCS (Museo de Arte Moderno y Contemporáneo)",
+      "name_es": "MAMCS (Museum of Modern & Contemporary Art)",
       "name_zh": "MAMCS（现当代艺术博物馆）",
       "name_fr": "MAMCS (Musée d'Art Moderne et Contemporain)",
       "name_de": "MAMCS (Museum für moderne und zeitgenössische Kunst)",
@@ -738,7 +789,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Entry: €8",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_19",
@@ -757,7 +811,7 @@
       "lat": 48.5858,
       "lng": 7.7558,
       "desc_en": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
-      "desc_ja": "ストラスブルジョワのイラストレーター トミ ウンゲラーを記念した美術館。児童書のオリジナル アートや風刺画を展示している。",
+      "desc_ja": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
       "desc_es": "Museo dedicado al ilustrador estrasburgués Tomi Ungerer, que muestra libros infantiles originales y dibujos satíricos.",
       "desc_zh": "纪念斯特拉斯堡插画家托米·安格尔 (Tomi Ungerer) 的博物馆，展示原创儿童书籍艺术和讽刺画。",
       "desc_fr": "Musée dédié à l'illustrateur strasbourgeois Tomi Ungerer, présentant des œuvres originales de livres pour enfants et des dessins satiriques.",
@@ -769,7 +823,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée Tomi Ungerer (Illustration Center)",
-      "name_ja": "トミ・ウンゲラー美術館（イラストセンター）",
+      "name_ja": "Musée Tomi Ungerer (Illustration Center)",
       "name_es": "Museo Tomi Ungerer (Centro de Ilustración)",
       "name_zh": "托米·安格尔博物馆（插图中心）",
       "name_fr": "Musée Tomi Ungerer (Centre de l'Illustration)",
@@ -779,7 +833,10 @@
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_20",
@@ -799,28 +856,31 @@
       "lng": 7.7514,
       "desc_en": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
       "desc_ja": "16 世紀のかつて屠殺場だった建物を利用しており、中世の自由都市から EU の首都までのストラスブールの旅を詳しく描いています。",
-      "desc_es": "Ubicado en un antiguo matadero del siglo XVI, detalla el viaje de Estrasburgo desde la ciudad libre medieval hasta la capital de la UE.",
+      "desc_es": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
       "desc_zh": "位于一座 16 世纪的前屠宰场内，详细介绍了斯特拉斯堡从中世纪自由城市到欧盟首都的旅程。",
-      "desc_fr": "Installé dans un ancien abattoir du XVIe siècle, il raconte le parcours de Strasbourg, de ville libre médiévale à capitale de l'UE.",
+      "desc_fr": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
       "desc_de": "Untergebracht in einem ehemaligen Schlachthof aus dem 16. Jahrhundert, wird die Reise Straßburgs von der mittelalterlichen Freistadt zur EU-Hauptstadt detailliert beschrieben.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Musée Historique de la Ville de Strasbourg",
       "name_ja": "ストラスブール市歴史博物館",
       "name_es": "Museo Histórico de la Ciudad de Estrasburgo",
       "name_zh": "斯特拉斯堡市历史博物馆",
-      "name_fr": "Musée historique de la ville de Strasbourg",
+      "name_fr": "Musée Historique de la Ville de Strasbourg",
       "name_de": "Historisches Museum der Stadt Straßburg",
       "price_en": "Entry: €7.50",
       "price_ja": "入場料: €7.50",
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_21",
@@ -861,7 +921,10 @@
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_22",
@@ -881,15 +944,15 @@
       "lng": 7.3622,
       "desc_en": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
       "desc_ja": "ルネ・ラリックのアールヌーボーとアールデコのガラスの傑作を展示するヴィンゲン・シュル・モダーの専用美術館。",
-      "desc_es": "Museo dedicado en Wingen-sur-Moder que exhibe las obras maestras del vidrio Art Nouveau y Art Déco de René Lalique.",
-      "desc_zh": "位于莫德尔河畔温根的专用博物馆，展示雷内·拉里克的新艺术风格和装饰艺术玻璃杰作。",
-      "desc_fr": "Musée dédié à Wingen-sur-Moder présentant les chefs-d'œuvre du verre Art nouveau et Art déco de René Lalique.",
+      "desc_es": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "desc_zh": "莫代尔河畔温根（ Wingen-sur-Moder ）的专属博物馆，展示勒内·拉利克（ René Lalique ）的新艺术风格和装饰艺术玻璃杰作。",
+      "desc_fr": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
       "desc_de": "Spezielles Museum in Wingen-sur-Moder, das René Laliques Jugendstil- und Art-Déco-Glasmeisterwerke zeigt.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée Lalique",
       "name_ja": "ラリック美術館",
@@ -900,9 +963,12 @@
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8欧元",
+      "price_zh": "入场费： € 8",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Entry: €8",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_23",
@@ -922,16 +988,16 @@
       "lng": 7.7492,
       "desc_en": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
       "desc_ja": "1395 年に建てられた病院のワインセラーには古代のオーク樽が保管されており、その中には 1472 年からの世界最古の樽貯蔵ワインも含まれています。",
-      "desc_es": "Bodega de hospital de 1395 que alberga antiguas barricas de roble, incluido el vino almacenado en barricas más antiguo del mundo, de 1472.",
-      "desc_zh": "建于 1395 年的医院酒窖内装有古老的橡木桶，其中包括 1472 年世界上最古老的桶装葡萄酒。",
-      "desc_fr": "Cave à vin de l'hôpital de 1395 abritant d'anciens fûts de chêne, dont le plus vieux vin stocké en fûts au monde datant de 1472.",
-      "desc_de": "Weinkeller des Krankenhauses aus dem Jahr 1395 mit alten Eichenfässern, darunter der älteste in Fässern gelagerte Wein der Welt aus dem Jahr 1472.",
+      "desc_es": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_zh": "1395医院酒窖装有古老的橡木桶，包括世界上最古老的1472年桶装葡萄酒。",
+      "desc_fr": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_de": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Cave Historique des Hospices de Strasbourg",
       "name_ja": "ストラスブールのオスピス歴史洞窟",
       "name_es": "Cueva Histórica de los Hospices de Estrasburgo",
@@ -942,8 +1008,11 @@
       "price_ja": "入場無料",
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
-      "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_fr": "Free entry",
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_24",
@@ -962,14 +1031,14 @@
       "lat": 48.5814,
       "lng": 7.7425,
       "desc_en": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
-      "desc_ja": "プティ フランスにある 1572 年創業の象徴的な木骨造りのレストラン。伝統的なアルザスのシュークルート ガルニーで有名。",
+      "desc_ja": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
       "desc_es": "Icónico restaurante con entramado de madera de 1572 en Petite France, famoso por la tradicional choucroute garnie alsaciana.",
       "desc_zh": "位于小法国的标志性半木结构餐厅，建于 1572 年，以传统的阿尔萨斯 choucroute garnie 闻名。",
       "desc_fr": "Restaurant à colombages emblématique de 1572 dans la Petite France, célèbre pour sa choucroute garnie alsacienne traditionnelle.",
       "desc_de": "Ikonisches Fachwerkrestaurant aus dem Jahr 1572 in Petite France, berühmt für seine traditionelle elsässische Sauerkraut-Garnie.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
@@ -984,7 +1053,10 @@
       "price_es": "Plato principal: 22€–38€",
       "price_zh": "主电源：22 欧元–38 欧元",
       "price_fr": "Plats : 22 – 38 €",
-      "price_de": "Hauptgericht: 22–38 €"
+      "price_de": "Hauptgericht: 22–38 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_25",
@@ -1003,7 +1075,7 @@
       "lat": 48.5828,
       "lng": 7.7511,
       "desc_en": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
-      "desc_ja": "大統領や王族も頻繁に訪れるアルザスの歴史あるウィンストゥブでは、本格的なバッケオッフェやポークナックルを提供しています。",
+      "desc_ja": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
       "desc_es": "Winstub histórico alsaciano frecuentado por presidentes y miembros de la realeza, que sirve auténtico baeckeoffe y codillo de cerdo.",
       "desc_zh": "历史悠久的阿尔萨斯温斯塔布餐厅是总统和皇室成员经常光顾的地方，供应正宗的奶酪和猪肘。",
       "desc_fr": "Winstub alsacienne historique fréquentée par les présidents et la royauté, servant d'authentiques baeckeoffe et jarret de porc.",
@@ -1022,10 +1094,13 @@
       "name_de": "Winstub Chez Yvonne",
       "price_en": "Mains: €20–€35",
       "price_ja": "メイン: €20–€35",
-      "price_es": "Plato principal: 20€–35€",
+      "price_es": "Mains: €20–€35",
       "price_zh": "主电源：20 欧元–35 欧元",
       "price_fr": "Plats : 20 à 35 €",
-      "price_de": "Hauptgericht: 20–35 €"
+      "price_de": "Hauptgericht: 20–35 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_26",
@@ -1066,7 +1141,10 @@
       "price_es": "Plato principal: 18€–32€",
       "price_zh": "主电源：18 欧元 - 32 欧元",
       "price_fr": "Plats : 18 € – 32 €",
-      "price_de": "Hauptgericht: 18–32 €"
+      "price_de": "Hauptgericht: 18–32 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_27",
@@ -1092,7 +1170,7 @@
       "desc_de": "Eleganter Teesalon mit kunstvoller Fassade, bekannt für heiße Schokolade, Kugelhopf und exquisite elsässische Törtchen.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
@@ -1103,11 +1181,14 @@
       "name_fr": "Pâtisserie Christian",
       "name_de": "Pâtisserie Christian",
       "price_en": "Pastry: €5–€8",
-      "price_ja": "ペストリー: €5–€8",
+      "price_ja": "Pastry: €5–€8",
       "price_es": "Pastelería: 5€–8€",
       "price_zh": "糕点：5-8 欧元",
       "price_fr": "Pâtisserie : 5 à 8 €",
-      "price_de": "Gebäck: 5–8 €"
+      "price_de": "Gebäck: 5–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_28",
@@ -1132,7 +1213,7 @@
       "desc_fr": "Boulangeries artisanales autour de la place de la cathédrale vendant des gâteaux à la levure fraîche Kugelhopf, des pains d'épices et des bretzels.",
       "desc_de": "Handwerkliche Bäckereien rund um den Domplatz verkaufen frische Kugelhopf-Hefekuchen, Pain d'épices und Brezeln.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
@@ -1148,7 +1229,10 @@
       "price_es": "Pastelería: 3€–7€",
       "price_zh": "糕点：€3–€7",
       "price_fr": "Pâtisserie : 3 à 7 €",
-      "price_de": "Gebäck: 3–7 €"
+      "price_de": "Gebäck: 3–7 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_29",
@@ -1189,7 +1273,10 @@
       "price_es": "Plato principal: 24€–42€",
       "price_zh": "主电源：24 欧元–42 欧元",
       "price_fr": "Plats : 24 € – 42 €",
-      "price_de": "Hauptgericht: 24–42 €"
+      "price_de": "Hauptgericht: 24–42 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_30",
@@ -1230,7 +1317,10 @@
       "price_es": "Degustación: 10€–25€",
       "price_zh": "品尝：10 欧元 - 25 欧元",
       "price_fr": "Dégustation : 10 – 25 €",
-      "price_de": "Verkostung: 10–25 €"
+      "price_de": "Verkostung: 10–25 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_31",
@@ -1271,7 +1361,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_32",
@@ -1296,23 +1389,26 @@
       "desc_fr": "Île classée au patrimoine mondial de l'UNESCO, entourée par la rivière Ill, formant le noyau piétonnier historique de Strasbourg.",
       "desc_de": "UNESCO-Weltkulturerbeinsel, umgeben vom Fluss Ill, die den historischen Fußgängerkern Straßburgs bildet.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "La Grande Île (UNESCO Historic Island)",
       "name_ja": "ラ グランド イル (ユネスコ歴史島)",
-      "name_es": "La Grande Île (isla histórica de la UNESCO)",
-      "name_zh": "拉格兰德岛（联合国教科文组织历史岛屿）",
-      "name_fr": "La Grande Île (île historique de l'UNESCO)",
+      "name_es": "La Grande Île (UNESCO Historic Island)",
+      "name_zh": "拉格兰德岛（联合国教科文组织历史悠久的岛屿）",
+      "name_fr": "La Grande Île (UNESCO Historic Island)",
       "name_de": "La Grande Île (UNESCO-historische Insel)",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_33",
@@ -1353,7 +1449,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_34",
@@ -1394,7 +1493,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_35",
@@ -1423,7 +1525,7 @@
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Lycée des Pontonniers & Canal View",
       "name_ja": "リセ デ ポントニエとカナル ビュー",
       "name_es": "Lycée des Pontonniers y vistas al canal",
@@ -1432,10 +1534,13 @@
       "name_de": "Lycée des Pontonniers & Blick auf den Kanal",
       "price_en": "Free exterior",
       "price_ja": "自由な外装",
-      "price_es": "exterior libre",
+      "price_es": "Free exterior",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_36",
@@ -1463,12 +1568,12 @@
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Quartier de la Krutenau",
       "name_ja": "ラ クルトゥノー地区",
-      "name_es": "Barrio de la Krutenau",
-      "name_zh": "克鲁特瑙区",
+      "name_es": "Quartier de la Krutenau",
+      "name_zh": "Quartier de la Krutenau",
       "name_fr": "Quartier de la Krutenau",
       "name_de": "Quartier de la Krutenau",
       "price_en": "Free",
@@ -1476,7 +1581,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_37",
@@ -1511,13 +1619,16 @@
       "name_es": "Paseo en barco por Batorama",
       "name_zh": "巴托拉马乘船游览",
       "name_fr": "Excursion en bateau à Batorama",
-      "name_de": "Batorama-Bootstour",
+      "name_de": "Batorama Boat Tour",
       "price_en": "Ticket: €15",
       "price_ja": "チケット: €15",
       "price_es": "Entrada: 15€",
       "price_zh": "门票：15欧元",
       "price_fr": "Billet : 15 €",
-      "price_de": "Ticket: 15 €"
+      "price_de": "Ticket: 15 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_38",
@@ -1558,7 +1669,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_39",
@@ -1599,7 +1713,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_40",
@@ -1640,7 +1757,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_41",
@@ -1681,7 +1801,10 @@
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_42",
@@ -1722,7 +1845,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_43",
@@ -1763,7 +1889,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_44",
@@ -1804,7 +1933,10 @@
       "price_es": "Entrada: 16,50€",
       "price_zh": "入场费：16.50 欧元",
       "price_fr": "Entrée : 16,50 €",
-      "price_de": "Eintritt: 16,50 €"
+      "price_de": "Eintritt: 16,50 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "st_45",
@@ -1845,7 +1977,10 @@
       "price_es": "Entrada: 61,50 €",
       "price_zh": "门票：61.50 欧元",
       "price_fr": "Billet : 61,50 €",
-      "price_de": "Ticket: 61,50 €"
+      "price_de": "Ticket: 61,50 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ]
 }

@@ -41,7 +41,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_2",
@@ -82,7 +85,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_3",
@@ -123,7 +129,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_4",
@@ -164,7 +173,10 @@
       "price_es": "Terrenos libres",
       "price_zh": "免费场地",
       "price_fr": "Free grounds",
-      "price_de": "Kostenloses Gelände"
+      "price_de": "Kostenloses Gelände",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_5",
@@ -205,7 +217,10 @@
       "price_es": "Terrenos libres",
       "price_zh": "免费场地",
       "price_fr": "Terrain gratuit",
-      "price_de": "Kostenloses Gelände"
+      "price_de": "Kostenloses Gelände",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_6",
@@ -246,7 +261,10 @@
       "price_es": "Terrenos libres",
       "price_zh": "免费场地",
       "price_fr": "Terrain gratuit",
-      "price_de": "Kostenloses Gelände"
+      "price_de": "Kostenloses Gelände",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_7",
@@ -287,7 +305,10 @@
       "price_es": "Áreas públicas gratuitas",
       "price_zh": "免费公共区域",
       "price_fr": "Espaces publics gratuits",
-      "price_de": "Kostenlose öffentliche Bereiche"
+      "price_de": "Kostenlose öffentliche Bereiche",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_8",
@@ -328,7 +349,10 @@
       "price_es": "Free (Crypt: €2)",
       "price_zh": "免费（地穴：2 欧元）",
       "price_fr": "Gratuit (Crypte : 2 €)",
-      "price_de": "Kostenlos (Krypta: 2 €)"
+      "price_de": "Kostenlos (Krypta: 2 €)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_9",
@@ -369,7 +393,10 @@
       "price_es": "Tour: €18",
       "price_zh": "旅游：18 欧元",
       "price_fr": "Visite : 18 €",
-      "price_de": "Führung: 18 €"
+      "price_de": "Führung: 18 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_10",
@@ -410,7 +437,10 @@
       "price_es": "Entrada: 7€ (Ferry: 11€)",
       "price_zh": "门票：7 欧元（渡轮：11 欧元）",
       "price_fr": "Entrée : 7 € (Berry : 11 €)",
-      "price_de": "Entry: €7 (Ferry: €11)"
+      "price_de": "Entry: €7 (Ferry: €11)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_11",
@@ -451,7 +481,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_12",
@@ -492,7 +525,10 @@
       "price_es": "Entrada: 11€",
       "price_zh": "入场费：11 欧元",
       "price_fr": "Entry: €11",
-      "price_de": "Entry: €11"
+      "price_de": "Entry: €11",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_13",
@@ -533,7 +569,10 @@
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entry: €16",
-      "price_de": "Entry: €16"
+      "price_de": "Entry: €16",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_14",
@@ -574,7 +613,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Entry: €6"
+      "price_de": "Entry: €6",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_15",
@@ -615,7 +657,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_16",
@@ -656,7 +701,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_17",
@@ -697,7 +745,10 @@
       "price_es": "Entry: €6",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_18",
@@ -738,7 +789,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_19",
@@ -779,7 +833,10 @@
       "price_es": "Entrada gratuita (Exposiciones: 5 €)",
       "price_zh": "免费入场（展品：5 欧元）",
       "price_fr": "Free entry (Exhibits: €5)",
-      "price_de": "Freier Eintritt (Ausstellungen: 5 €)"
+      "price_de": "Freier Eintritt (Ausstellungen: 5 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_20",
@@ -820,7 +877,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_21",
@@ -861,7 +921,10 @@
       "price_es": "Bouillabaisse: €65–€85",
       "price_zh": "马赛鱼汤：65 欧元–85 欧元",
       "price_fr": "Bouillabaisse : 65 € – 85 €",
-      "price_de": "Bouillabaisse: €65–€85"
+      "price_de": "Bouillabaisse: €65–€85",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_22",
@@ -902,7 +965,10 @@
       "price_es": "Bullabesa: 70€",
       "price_zh": "马赛鱼汤：70 欧元",
       "price_fr": "Bouillabaisse : 70€",
-      "price_de": "Bouillabaisse: €70"
+      "price_de": "Bouillabaisse: €70",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_23",
@@ -943,7 +1009,10 @@
       "price_es": "Gratis para visitar",
       "price_zh": "免费参观",
       "price_fr": "Free to visit",
-      "price_de": "Kostenloser Besuch"
+      "price_de": "Kostenloser Besuch",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_24",
@@ -984,7 +1053,10 @@
       "price_es": "Comida callejera: 3€–10€",
       "price_zh": "街头小吃： €3 - €10",
       "price_fr": "Cuisine de rue : 3 à 10 €",
-      "price_de": "Streetfood: 3–10 €"
+      "price_de": "Streetfood: 3–10 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "ma_25",
@@ -1025,7 +1097,10 @@
       "price_es": "Navettes: 5€–10€",
       "price_zh": "纳维茨：5 欧元至 10 欧元",
       "price_fr": "Navettes : 5 à 10 €",
-      "price_de": "Navettes: 5–10 €"
+      "price_de": "Navettes: 5–10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_26",
@@ -1066,7 +1141,10 @@
       "price_es": "Pastis y bebidas: 4€–8€",
       "price_zh": "茴香酒和饮料： €4–€8",
       "price_fr": "Pastis & Boissons : 4 à 8 €",
-      "price_de": "Pastis & Getränke: 4–8 €"
+      "price_de": "Pastis & Getränke: 4–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_27",
@@ -1107,7 +1185,10 @@
       "price_es": "Jabones: 3€–8€",
       "price_zh": "肥皂： 3 欧元 - 8 欧元",
       "price_fr": "Savons : 3 à 8 €",
-      "price_de": "Seifen: 3–8 €"
+      "price_de": "Seifen: 3–8 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "ma_28",
@@ -1148,7 +1229,10 @@
       "price_es": "Menú Degustación: 95€ – 160€",
       "price_zh": "品尝菜单：95 欧元–160 欧元",
       "price_fr": "Menu Dégustation : 95 € – 160 €",
-      "price_de": "Degustationsmenü: 95–160 €"
+      "price_de": "Degustationsmenü: 95–160 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_29",
@@ -1189,7 +1273,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_30",
@@ -1230,7 +1317,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_31",
@@ -1271,7 +1361,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_32",
@@ -1312,7 +1405,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_33",
@@ -1353,7 +1449,10 @@
       "price_es": "Patio libre",
       "price_zh": "庭院免费",
       "price_fr": "Cour gratuite",
-      "price_de": "Hof frei"
+      "price_de": "Hof frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_34",
@@ -1394,7 +1493,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_35",
@@ -1435,7 +1537,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_36",
@@ -1476,7 +1581,10 @@
       "price_es": "Ferry: 11€",
       "price_zh": "渡轮：11 欧元",
       "price_fr": "Ferry : 11 €",
-      "price_de": "Fähre: 11 €"
+      "price_de": "Fähre: 11 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_37",
@@ -1517,7 +1625,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_38",
@@ -1558,7 +1669,10 @@
       "price_es": "Parque gratuito",
       "price_zh": "免费公园",
       "price_fr": "Parc gratuit",
-      "price_de": "Kostenloser Park"
+      "price_de": "Kostenloser Park",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_39",
@@ -1599,7 +1713,10 @@
       "price_es": "Entrada: 9€",
       "price_zh": "门票：9欧元",
       "price_fr": "Billet : 9 €",
-      "price_de": "Ticket: 9 €"
+      "price_de": "Ticket: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_40",
@@ -1640,7 +1757,10 @@
       "price_es": "Crucero: 16€–30€",
       "price_zh": "游轮：16 欧元至 30 欧元",
       "price_fr": "Croisière : 16 – 30 €",
-      "price_de": "Kreuzfahrt: 16–30 €"
+      "price_de": "Kreuzfahrt: 16–30 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_41",
@@ -1681,7 +1801,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_42",
@@ -1722,7 +1845,10 @@
       "price_es": "Entrada: 22€",
       "price_zh": "门票：22欧元",
       "price_fr": "Billet : 22 €",
-      "price_de": "Ticket: 22 €"
+      "price_de": "Ticket: 22 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_43",
@@ -1763,7 +1889,10 @@
       "price_es": "Entrada gratuita al parque",
       "price_zh": "免费公园入场",
       "price_fr": "Entrée gratuite au parc",
-      "price_de": "Kostenloser Parkeintritt"
+      "price_de": "Kostenloser Parkeintritt",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ]
 }

@@ -41,7 +41,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b2",
@@ -82,7 +85,10 @@
       "price_es": "Gratis (se requiere reserva)",
       "price_zh": "免费（需预约）",
       "price_fr": "Gratuit (sur réservation)",
-      "price_de": "Kostenlos (Reservierung erforderlich)"
+      "price_de": "Kostenlos (Reservierung erforderlich)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b3",
@@ -123,7 +129,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b4",
@@ -164,7 +173,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b5",
@@ -205,7 +217,10 @@
       "price_es": "Palacio: 12€",
       "price_zh": "宫殿：12欧元",
       "price_fr": "Palais : 12 €",
-      "price_de": "Palast: 12 €"
+      "price_de": "Palast: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b6",
@@ -246,7 +261,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b7",
@@ -287,7 +305,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b8",
@@ -328,7 +349,10 @@
       "price_es": "Subida: 4€",
       "price_zh": "攀登：4欧元",
       "price_fr": "Montée : 4 €",
-      "price_de": "Aufstieg: 4 €"
+      "price_de": "Aufstieg: 4 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b9",
@@ -369,7 +393,10 @@
       "price_es": "Observación: 22,50 €",
       "price_zh": "观察费：22.50 欧元",
       "price_fr": "Observation : 22,50 €",
-      "price_de": "Beobachtung: 22,50 €"
+      "price_de": "Beobachtung: 22,50 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b10",
@@ -410,7 +437,10 @@
       "price_es": "Visualización gratuita al aire libre",
       "price_zh": "免费户外观赏",
       "price_fr": "Visite extérieure gratuite",
-      "price_de": "Kostenlose Besichtigung im Freien"
+      "price_de": "Kostenlose Besichtigung im Freien",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b11",
@@ -451,7 +481,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b12",
@@ -492,7 +525,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b13",
@@ -533,7 +569,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "b_b14",
@@ -574,7 +613,10 @@
       "price_es": "Pase de un día: 19€",
       "price_zh": "日票：19 欧元",
       "price_fr": "Pass journée : 19 €",
-      "price_de": "Tageskarte: 19 €"
+      "price_de": "Tageskarte: 19 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b15",
@@ -615,7 +657,10 @@
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "b_b16",
@@ -656,7 +701,10 @@
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b17",
@@ -697,7 +745,10 @@
       "price_es": "Exhibición permanente gratuita",
       "price_zh": "免费永久展示",
       "price_fr": "Exposition permanente gratuite",
-      "price_de": "Kostenlose Dauerausstellung"
+      "price_de": "Kostenlose Dauerausstellung",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b18",
@@ -738,7 +789,10 @@
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b19",
@@ -779,7 +833,10 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b20",
@@ -820,7 +877,10 @@
       "price_es": "Entrada: 12,50€",
       "price_zh": "入场费：12.50 欧元",
       "price_fr": "Entrée : 12,50 €",
-      "price_de": "Eintritt: 12,50 €"
+      "price_de": "Eintritt: 12,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b21",
@@ -861,7 +921,10 @@
       "price_es": "Brocheta: 7,00 €",
       "price_zh": "烤肉串：7.00 欧元",
       "price_fr": "Kebab : 7,00 €",
-      "price_de": "Kebab: 7,00 €"
+      "price_de": "Kebab: 7,00 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b22",
@@ -902,7 +965,10 @@
       "price_es": "Salchicha de curry: 4,50 €",
       "price_zh": "咖喱香肠： €4.50",
       "price_fr": "Saucisse au curry : 4,50 €",
-      "price_de": "Currywurst: 4,50 €"
+      "price_de": "Currywurst: 4,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b23",
@@ -943,7 +1009,10 @@
       "price_es": "Cerveza y salchichas: 12€",
       "price_zh": "啤酒和香肠：12 欧元",
       "price_fr": "Bière & Bratwurst : 12 €",
-      "price_de": "Bier & Bratwurst: 12 €"
+      "price_de": "Bier & Bratwurst: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b24",
@@ -984,7 +1053,10 @@
       "price_es": "Plato principal: 18€–28€",
       "price_zh": "主电源：18 欧元–28 欧元",
       "price_fr": "Plats : 18 € – 28 €",
-      "price_de": "Hauptgericht: 18–28 €"
+      "price_de": "Hauptgericht: 18–28 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b25",
@@ -1025,7 +1097,10 @@
       "price_es": "Plato principal: 24€–38€",
       "price_zh": "主电源：24 欧元–38 欧元",
       "price_fr": "Plats : 24 – 38 €",
-      "price_de": "Hauptgericht: 24–38 €"
+      "price_de": "Hauptgericht: 24–38 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b26",
@@ -1066,7 +1141,10 @@
       "price_es": "Escalope: 32€",
       "price_zh": "炸肉排：32 欧元",
       "price_fr": "Escalope : 32 €",
-      "price_de": "Schnitzel: 32 €"
+      "price_de": "Schnitzel: 32 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b27",
@@ -1107,7 +1185,10 @@
       "price_es": "Filetes: 38€–75€",
       "price_zh": "牛排：38 欧元–75 欧元",
       "price_fr": "Steak : 38 € – 75 €",
-      "price_de": "Steaks: 38–75 €"
+      "price_de": "Steaks: 38–75 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b28",
@@ -1148,7 +1229,10 @@
       "price_es": "Platos: 10€–16€",
       "price_zh": "菜肴： 10 欧元 - 16 欧元",
       "price_fr": "Plats : 10 € – 16 €",
-      "price_de": "Gerichte: 10–16 €"
+      "price_de": "Gerichte: 10–16 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b29",
@@ -1189,7 +1273,10 @@
       "price_es": "Rollos: 3,80€–5€",
       "price_zh": "卷： €3.80 – €5",
       "price_fr": "Rouleaux : 3,80 € – 5 €",
-      "price_de": "Brötchen: 3,80 €–5 €"
+      "price_de": "Brötchen: 3,80 €–5 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "b_b30",
@@ -1230,7 +1317,10 @@
       "price_es": "Café: 4,50€–7€",
       "price_zh": "咖啡：4.50 欧元–7 欧元",
       "price_fr": "Café : 4,50 € – 7 €",
-      "price_de": "Kaffee: 4,50 €–7 €"
+      "price_de": "Kaffee: 4,50 €–7 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b31",
@@ -1271,7 +1361,10 @@
       "price_es": "Almuerzo: 14€–20€",
       "price_zh": "早午餐：14 欧元至 20 欧元",
       "price_fr": "Brunch : 14 à 20 €",
-      "price_de": "Brunch: 14–20 €"
+      "price_de": "Brunch: 14–20 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "b_b32",
@@ -1312,7 +1405,10 @@
       "price_es": "Platos: 6€–14€",
       "price_zh": "菜肴： 6 欧元 - 14 欧元",
       "price_fr": "Plats : 6 € – 14 €",
-      "price_de": "Gerichte: 6–14 €"
+      "price_de": "Gerichte: 6–14 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     }
   ]
 }

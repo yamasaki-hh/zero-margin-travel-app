@@ -41,7 +41,10 @@
       "price_es": "Entry: €8",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_2",
@@ -82,7 +85,10 @@
       "price_es": "Free access",
       "price_zh": "免费账户",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_3",
@@ -123,7 +129,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_4",
@@ -164,7 +173,10 @@
       "price_es": "Visita: 15€",
       "price_zh": "旅游：15 欧元",
       "price_fr": "Tour: €15",
-      "price_de": "Führung: 15 €"
+      "price_de": "Führung: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_5",
@@ -205,7 +217,10 @@
       "price_es": "Free access",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_6",
@@ -246,7 +261,10 @@
       "price_es": "Entry: €8",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_7",
@@ -287,7 +305,10 @@
       "price_es": "Exhibición permanente gratuita",
       "price_zh": "免费永久展示",
       "price_fr": "Exposition permanente gratuite",
-      "price_de": "Kostenlose Dauerausstellung"
+      "price_de": "Kostenlose Dauerausstellung",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_8",
@@ -328,7 +349,10 @@
       "price_es": "Cuchara: 5,50 €",
       "price_zh": "勺子：5.50 欧元",
       "price_fr": "Cuillère : 5,50 €",
-      "price_de": "Löffel: 5,50 €"
+      "price_de": "Löffel: 5,50 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "l_9",
@@ -369,7 +393,10 @@
       "price_es": "Bollería: 4€–8€",
       "price_zh": "糕点：4-8 欧元",
       "price_fr": "Pastries: €4–€8",
-      "price_de": "Gebäck: 4–8 €"
+      "price_de": "Gebäck: 4–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_10",
@@ -410,7 +437,10 @@
       "price_es": "Platos: 18€–32€",
       "price_zh": "餐盘：18欧元–32欧元",
       "price_fr": "Assiettes : 18 € – 32 €",
-      "price_de": "Teller: 18–32 €"
+      "price_de": "Teller: 18–32 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_11",
@@ -451,7 +481,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_12",
@@ -492,7 +525,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_13",
@@ -533,7 +569,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_14",
@@ -574,7 +613,10 @@
       "price_es": "Free access",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_15",
@@ -615,7 +657,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_16",
@@ -656,7 +701,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "l_17",
@@ -697,7 +745,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Free access",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_18",
@@ -738,7 +789,10 @@
       "price_es": "Exhibición permanente gratuita",
       "price_zh": "免费永久展示",
       "price_fr": "Free permanent display",
-      "price_de": "Kostenlose Dauerausstellung"
+      "price_de": "Kostenlose Dauerausstellung",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_19",
@@ -779,7 +833,10 @@
       "price_es": "Entrada: 5€",
       "price_zh": "入场费： € 5",
       "price_fr": "Entrée : 5 €",
-      "price_de": "Eintritt: 5 €"
+      "price_de": "Eintritt: 5 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_20",
@@ -820,7 +877,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费账户",
       "price_fr": "Accès gratuit",
-      "price_de": "Free access"
+      "price_de": "Free access",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ]
 }

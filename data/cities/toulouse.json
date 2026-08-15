@@ -36,7 +36,11 @@
       "price_es": "Plaza gratis / visita 5€",
       "price_zh": "免费广场 / 5 欧元游览",
       "price_fr": "Place gratuite / visite 5€",
-      "price_de": "Kostenloser Platz / 5 € Tour"
+      "price_de": "Kostenloser Platz / 5 € Tour",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_2",
@@ -71,7 +75,11 @@
       "price_es": "Entrada gratuita / cripta 2,50€",
       "price_zh": "免费入场 / 地穴 2.50 欧元",
       "price_fr": "Entrée gratuite / 2,50 € crypte",
-      "price_de": "Freier Eintritt / 2,50 € Krypta"
+      "price_de": "Freier Eintritt / 2,50 € Krypta",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_3",
@@ -106,7 +114,11 @@
       "price_es": "Iglesia gratis / claustro 5€",
       "price_zh": "免费教堂 / 5 欧元回廊",
       "price_fr": "Église gratuite / cloître 5 €",
-      "price_de": "Freie Kirche / 5 € Kreuzgang"
+      "price_de": "Freie Kirche / 5 € Kreuzgang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_4",
@@ -141,7 +153,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_5",
@@ -176,7 +192,11 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_6",
@@ -211,7 +231,11 @@
       "price_es": "Patio gratuito / museo 10€",
       "price_zh": "免费庭院 / 10 欧元博物馆",
       "price_fr": "Cour gratuite / 10 € musée",
-      "price_de": "Kostenloser Innenhof / 10 € Museum"
+      "price_de": "Kostenloser Innenhof / 10 € Museum",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_7",
@@ -246,7 +270,11 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_8",
@@ -281,7 +309,11 @@
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_9",
@@ -316,7 +348,11 @@
       "price_es": "Ciudadela gratis / castillo 9,50€",
       "price_zh": "免费城堡 / €9.50 城堡",
       "price_fr": "Citadelle gratuite / Château 9,50 €",
-      "price_de": "Kostenlose Zitadelle / 9,50 € Burg"
+      "price_de": "Kostenlose Zitadelle / 9,50 € Burg",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_10",
@@ -351,7 +387,11 @@
       "price_es": "Catedral gratis / 10€ Museo Lautrec",
       "price_zh": "免费大教堂 / 10 欧元 劳特累克博物馆",
       "price_fr": "Cathédrale gratuite / 10 € Musée Lautrec",
-      "price_de": "Kostenlose Kathedrale / 10 € Lautrec-Museum"
+      "price_de": "Kostenlose Kathedrale / 10 € Lautrec-Museum",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_11",
@@ -386,7 +426,11 @@
       "price_es": "6€–8€",
       "price_zh": "6 欧元–8 欧元",
       "price_fr": "6€–8€",
-      "price_de": "6–8 €"
+      "price_de": "6–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_12",
@@ -421,7 +465,11 @@
       "price_es": "10€",
       "price_zh": "10 欧元",
       "price_fr": "10 €",
-      "price_de": "10 €"
+      "price_de": "10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_13",
@@ -456,7 +504,11 @@
       "price_es": "9 €",
       "price_zh": "9 欧元",
       "price_fr": "9 €",
-      "price_de": "9 €"
+      "price_de": "9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_14",
@@ -491,7 +543,11 @@
       "price_es": "5€",
       "price_zh": "5 欧元",
       "price_fr": "5€",
-      "price_de": "5 €"
+      "price_de": "5 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_15",
@@ -526,7 +582,11 @@
       "price_es": "9€ (Incluye Jardín Botánico)",
       "price_zh": "€9（包括植物园）",
       "price_fr": "9 € (Comprend le Jardin Botanique)",
-      "price_de": "9 € (inklusive Botanischer Garten)"
+      "price_de": "9 € (inklusive Botanischer Garten)",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_16",
@@ -561,7 +621,11 @@
       "price_es": "5€",
       "price_zh": "5 欧元",
       "price_fr": "5€",
-      "price_de": "5 €"
+      "price_de": "5 €",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_17",
@@ -596,7 +660,11 @@
       "price_es": "14€",
       "price_zh": "14 欧元",
       "price_fr": "14 €",
-      "price_de": "14 €"
+      "price_de": "14 €",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_18",
@@ -631,7 +699,11 @@
       "price_es": "16€ (Obligatoria reserva anticipada)",
       "price_zh": "€16（必须提前预订）",
       "price_fr": "16 € (Réservation obligatoire)",
-      "price_de": "16 € (Voranmeldung erforderlich)"
+      "price_de": "16 € (Voranmeldung erforderlich)",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_19",
@@ -666,7 +738,11 @@
       "price_es": "15€-30€ almuerzo",
       "price_zh": "午餐 15 欧元至 30 欧元",
       "price_fr": "15 à 30 € le déjeuner",
-      "price_de": "15–30 € Mittagessen"
+      "price_de": "15–30 € Mittagessen",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_20",
@@ -701,7 +777,11 @@
       "price_es": "5€ café / 35€ comida",
       "price_zh": "咖啡 5 欧元/餐 35 欧元",
       "price_fr": "Café 5 € / Repas 35 €",
-      "price_de": "5 € Kaffee / 35 € Mahlzeit"
+      "price_de": "5 € Kaffee / 35 € Mahlzeit",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_21",
@@ -736,7 +816,11 @@
       "price_es": "24€–32€",
       "price_zh": "24 欧元–32 欧元",
       "price_fr": "24€–32€",
-      "price_de": "24–32 €"
+      "price_de": "24–32 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_22",
@@ -771,7 +855,11 @@
       "price_es": "3€–15€ productos violetas",
       "price_zh": "€3–€15 紫罗兰产品",
       "price_fr": "Produits à la violette de 3 à 15 €",
-      "price_de": "3–15 € violette Produkte"
+      "price_de": "3–15 € violette Produkte",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_23",
@@ -806,7 +894,11 @@
       "price_es": "5€–20€",
       "price_zh": "5 欧元–20 欧元",
       "price_fr": "5 € – 20 €",
-      "price_de": "5–20 €"
+      "price_de": "5–20 €",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_24",
@@ -841,7 +933,11 @@
       "price_es": "4€–8€ bollería",
       "price_zh": "4-8 欧元糕点",
       "price_fr": "4 à 8 € de pâtisseries",
-      "price_de": "4–8 € Gebäck"
+      "price_de": "4–8 € Gebäck",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_25",
@@ -876,7 +972,11 @@
       "price_es": "10€–25€ degustación",
       "price_zh": "品尝 10-25 欧元",
       "price_fr": "10 à 25 € dégustation",
-      "price_de": "10–25 € Verkostung"
+      "price_de": "10–25 € Verkostung",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_26",
@@ -911,7 +1011,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_27",
@@ -946,7 +1050,11 @@
       "price_es": "paseo libre",
       "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": true,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_28",
@@ -981,7 +1089,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_29",
@@ -1016,7 +1128,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_30",
@@ -1051,7 +1167,11 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_31",
@@ -1086,7 +1206,11 @@
       "price_es": "Crucero entre 12 y 16 €",
       "price_zh": "游轮 12 欧元至 16 欧元",
       "price_fr": "Croisière de 12 à 16 €",
-      "price_de": "12–16 € Kreuzfahrt"
+      "price_de": "12–16 € Kreuzfahrt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_32",
@@ -1121,7 +1245,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_33",
@@ -1156,7 +1284,11 @@
       "price_es": "Entrada gratuita al pueblo",
       "price_zh": "免费进村",
       "price_fr": "Entrée gratuite au village",
-      "price_de": "Kostenloser Dorfeintritt"
+      "price_de": "Kostenloser Dorfeintritt",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_34",
@@ -1192,7 +1324,10 @@
       "price_es": "24,50€ adultos / 18€ niños",
       "price_zh": "成人 €24.50 / 儿童 €18",
       "price_fr": "24,50 € adultes / 18 € enfants",
-      "price_de": "24,50 € Erwachsene / 18 € Kinder"
+      "price_de": "24,50 € Erwachsene / 18 € Kinder",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_35",
@@ -1228,7 +1363,10 @@
       "price_es": "9,50€ exposición / 14€ con paseo en Minotauro",
       "price_zh": "展览 9.50 欧元/乘坐牛头怪 14 欧元",
       "price_fr": "9,50 € exposition / 14 € avec balade Minotaure",
-      "price_de": "9,50 € Ausstellung / 14 € mit Minotaurus-Fahrt"
+      "price_de": "9,50 € Ausstellung / 14 € mit Minotaurus-Fahrt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_36",
@@ -1247,7 +1385,7 @@
       "desc_de": "Interaktives Museum zur Luftfahrtgeschichte, das die heroische Geschichte der Postpiloten der Aéropostale (Saint-Exupéry) erzählt.",
       "tip_en": "Kids love trying the flight simulator and morse code telegraph stations.",
       "tip_ja": "子供たちはフライト シミュレーターやモールス信号電信局を試すのが大好きです。",
-      "tip_es": "A los niños les encanta probar el simulador de vuelo y las estaciones de telégrafo en código morse.",
+      "tip_es": "Kids love trying the flight simulator and morse code telegraph stations.",
       "tip_zh": "孩子们喜欢尝试飞行模拟器和莫尔斯电码电报站。",
       "tip_fr": "Les enfants adorent essayer le simulateur de vol et les stations télégraphiques en code morse.",
       "tip_de": "Kinder lieben es, den Flugsimulator und die Morsecode-Telegrafenstationen auszuprobieren.",
@@ -1264,7 +1402,10 @@
       "price_es": "8,50 €",
       "price_zh": "8.50 欧元",
       "price_fr": "8,50 €",
-      "price_de": "8,50 €"
+      "price_de": "8,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "to_37",
@@ -1299,8 +1440,11 @@
       "price_ja": "公園無料 / ポニー乗馬料 €2",
       "price_es": "Parque gratuito / paseos en pony por 2 €",
       "price_zh": "免费公园/骑小马 2 欧元",
-      "price_fr": "Parc gratuit / balade à poney 2 €",
-      "price_de": "Kostenloser Park / 2 € Ponyreiten"
+      "price_fr": "Free park / €2 pony rides",
+      "price_de": "Kostenloser Park / 2 € Ponyreiten",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_38",
@@ -1315,14 +1459,14 @@
       "desc_ja": "実物大の動く恐竜の森、ふれあい牧場、30 種類以上の子供向け乗り物を組み合わせたファミリー テーマ パーク（郊外）。",
       "desc_es": "Parque temático familiar que combina un bosque de dinosaurios en movimiento de tamaño natural, una granja de mascotas y más de 30 atracciones para niños (Suburban).",
       "desc_zh": "家庭主题公园，结合了真人大小的移动恐龙森林、宠物农场和 30 多个适合儿童的游乐设施（郊区）。",
-      "desc_fr": "Parc à thème familial comprenant une forêt de dinosaures en mouvement grandeur nature, une ferme pour enfants et plus de 30 manèges adaptés aux enfants (banlieue).",
+      "desc_fr": "Family theme park combining a life-size moving Dinosaur Forest, petting farm & 30+ kid-friendly rides (Suburban).",
       "desc_de": "Familien-Themenpark mit einem lebensgroßen, sich bewegenden Dinosaurierwald, einem Streichelzoo und über 30 kinderfreundlichen Fahrgeschäften (Vorort).",
       "tip_en": "35 minutes drive west of Toulouse; ideal for young children aged 2–12.",
       "tip_ja": "トゥールーズから西へ車で 35 分。 2 ～ 12 歳の小さなお子様に最適です。",
-      "tip_es": "35 minutos en coche al oeste de Toulouse; ideal para niños pequeños de 2 a 12 años.",
+      "tip_es": "35 minutes drive west of Toulouse; ideal for young children aged 2–12.",
       "tip_zh": "图卢兹以西 35 分钟车程；非常适合 2 至 12 岁的幼儿。",
       "tip_fr": "35 minutes en voiture à l'ouest de Toulouse ; idéal pour les jeunes enfants âgés de 2 à 12 ans.",
-      "tip_de": "35 Autominuten westlich von Toulouse; Ideal für kleine Kinder im Alter von 2–12 Jahren.",
+      "tip_de": "35 minutes drive west of Toulouse; ideal for young children aged 2–12.",
       "image": "",
       "hasWiki": false,
       "name_en": "Animaparc Occitanie",
@@ -1335,8 +1479,11 @@
       "price_ja": "16.50ユーロ",
       "price_es": "16,50€",
       "price_zh": "16.50 欧元",
-      "price_fr": "16,50 €",
-      "price_de": "16,50 €"
+      "price_fr": "€16.50",
+      "price_de": "€16.50",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_39",
@@ -1348,14 +1495,14 @@
       "price": "€10.50 adults / €8.50 kids",
       "wikipediaTitle": "Château de Merville (Haute-Garonne)",
       "desc_en": "Europe's largest boxwood hedge maze spanning 10km of shaded trails around a 18th-century château (Suburban).",
-      "desc_ja": "ヨーロッパ最大のツゲの生け垣の迷路。18 世紀の城（郊外）の周囲にある 10 km の日陰の小道にまたがる。",
+      "desc_ja": "Europe's largest boxwood hedge maze spanning 10km of shaded trails around a 18th-century château (Suburban).",
       "desc_es": "El laberinto de setos de boj más grande de Europa, con 10 km de senderos sombreados alrededor de un castillo del siglo XVIII (suburbano).",
       "desc_zh": "欧洲最大的黄杨木树篱迷宫，横跨 10 公里的荫凉小径，围绕着一座 18 世纪的城堡（郊区）。",
       "desc_fr": "Le plus grand labyrinthe de haies de buis d'Europe s'étendant sur 10 km de sentiers ombragés autour d'un château du XVIIIe siècle (banlieue).",
-      "desc_de": "Europas größtes Buchsbaumheckenlabyrinth mit 10 km schattigen Wegen rund um ein Schloss aus dem 18. Jahrhundert (Suburban).",
+      "desc_de": "Europe's largest boxwood hedge maze spanning 10km of shaded trails around a 18th-century château (Suburban).",
       "tip_en": "Includes interactive treasure hunt riddles to solve as you navigate the maze.",
       "tip_ja": "迷路をナビゲートしながら解決できるインタラクティブな宝探しの謎が含まれています。",
-      "tip_es": "Incluye acertijos interactivos de búsqueda del tesoro para resolver mientras navegas por el laberinto.",
+      "tip_es": "Includes interactive treasure hunt riddles to solve as you navigate the maze.",
       "tip_zh": "包括互动寻宝谜语，供您在迷宫中导航时解决。",
       "tip_fr": "Comprend des énigmes interactives de chasse au trésor à résoudre pendant que vous parcourez le labyrinthe.",
       "tip_de": "Enthält interaktive Schatzsuche-Rätsel, die Sie lösen müssen, während Sie durch das Labyrinth navigieren.",
@@ -1366,13 +1513,16 @@
       "name_es": "El laberinto de Merville",
       "name_zh": "梅尔维尔迷宫",
       "name_fr": "Le Labyrinthe de Merville",
-      "name_de": "Das Labyrinth von Merville",
+      "name_de": "Le Labyrinthe de Merville",
       "price_en": "€10.50 adults / €8.50 kids",
       "price_ja": "大人 €10.50 / 子供 €8.50",
       "price_es": "10,50€ adultos / 8,50€ niños",
       "price_zh": "成人 10.50 欧元/儿童 8.50 欧元",
       "price_fr": "10,50 € adultes / 8,50 € enfants",
-      "price_de": "10,50 € Erwachsene / 8,50 € Kinder"
+      "price_de": "10,50 € Erwachsene / 8,50 € Kinder",
+      "rain": true,
+      "shopping": false,
+      "free": false
     }
   ],
   "spotCount": 39

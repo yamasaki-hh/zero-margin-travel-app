@@ -41,7 +41,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_2",
@@ -82,7 +85,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_3",
@@ -123,7 +129,10 @@
       "price_es": "Palacio: 10€",
       "price_zh": "宫殿：10欧元",
       "price_fr": "Palais : 10 €",
-      "price_de": "Palast: 10 €"
+      "price_de": "Palast: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_4",
@@ -164,7 +173,10 @@
       "price_es": "Residencia: 10€",
       "price_zh": "宫殿：10 欧元",
       "price_fr": "Résidence : 10 €",
-      "price_de": "Residenz: 10 €"
+      "price_de": "Residenz: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_5",
@@ -205,7 +217,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_6",
@@ -246,7 +261,10 @@
       "price_es": "Museo: 10€",
       "price_zh": "博物馆：10 欧元",
       "price_fr": "Musée : 10 €",
-      "price_de": "Museum: 10 €"
+      "price_de": "Museum: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_7",
@@ -287,7 +305,10 @@
       "price_es": "Entrada: 15€",
       "price_zh": "入场费：15 欧元",
       "price_fr": "Entrée : 15 €",
-      "price_de": "Eintritt: 15 €"
+      "price_de": "Eintritt: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_8",
@@ -328,7 +349,10 @@
       "price_es": "Entrada: 7€–10€",
       "price_zh": "门票：7-10 欧元",
       "price_fr": "Entrée : 7 € – 10 €",
-      "price_de": "Eintritt: 7–10 €"
+      "price_de": "Eintritt: 7–10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_9",
@@ -369,7 +393,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "m_10",
@@ -410,7 +437,10 @@
       "price_es": "Cerveza Masa: 10,80€",
       "price_zh": "大众啤酒：10.80 欧元",
       "price_fr": "Bière de messe : 10,80 €",
-      "price_de": "Massenbier: 10,80 €"
+      "price_de": "Massenbier: 10,80 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_11",
@@ -451,7 +481,10 @@
       "price_es": "Plato principal: 14€–22€",
       "price_zh": "主电源：14 欧元–22 欧元",
       "price_fr": "Plats : 14 € – 22 €",
-      "price_de": "Hauptgericht: 14–22 €"
+      "price_de": "Hauptgericht: 14–22 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_12",
@@ -492,7 +525,10 @@
       "price_es": "Donuts: 2,80€",
       "price_zh": "甜甜圈：2.80 欧元",
       "price_fr": "Beignets : 2,80 €",
-      "price_de": "Donuts: 2,80 €"
+      "price_de": "Donuts: 2,80 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     }
   ]
 }

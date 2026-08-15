@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.6.0] - 2026-08-15 (Universal Multi-Tag Architecture: Rainy Day, Shopping & Free Entry Filters)
+
+### 🏷️ Rainy Day (☔), Shopping (🛍️) & Free Entry (🆓) Tagging Engine (`v4.6.0`)
+- **Automated 410-Spot Multi-Tag Enrichment**: Executed `scripts/add_tags_to_all_spots.py` across all 13 city modules in `data/cities/*.json`, populating `rain`, `shopping`, and `free` flags alongside existing `kids` flags.
+- **New Filter Chips**: Integrated `☔ 雨天OK`, `🛍️ ショッピング`, and `🆓 無料` filter chips in Step 2 for instant 1-click spot filtering across EN, JA, ES, ZH, FR, and DE.
+- **Card & Modal Badges**: Added visual badge chips (`☔ Rain`, `🛍️ Shop`, `🆓 Free`) to candidate spot cards and detail modals.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=75.0`.
+
+---
+
 ## 🏷️ [v4.5.0] - 2026-08-15 (Mascot Integration for Step 1, 2, 3 Headers & Emoji Cleanup)
 
 ### 🐘 Strawberry Elephant Mascot Companion Enhancement (`v4.5.0`)

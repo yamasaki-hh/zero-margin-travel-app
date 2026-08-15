@@ -41,7 +41,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_2",
@@ -82,7 +85,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_3",
@@ -123,7 +129,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_4",
@@ -164,7 +173,10 @@
       "price_es": "Entrada: 14,50€",
       "price_zh": "入场费：14.50 欧元",
       "price_fr": "Entrée : 14,50 €",
-      "price_de": "Eintritt: 14,50 €"
+      "price_de": "Eintritt: 14,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_5",
@@ -205,7 +217,10 @@
       "price_es": "Entrada: 13€",
       "price_zh": "入场费：13欧元",
       "price_fr": "Entry: €13",
-      "price_de": "Eintritt: 13 €"
+      "price_de": "Eintritt: 13 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "c_6",
@@ -246,7 +261,10 @@
       "price_es": "Kölsch: €2.20",
       "price_zh": "科尔施： € 2.20",
       "price_fr": "Kölsch : 2,20 €",
-      "price_de": "Kölsch: €2.20"
+      "price_de": "Kölsch: €2.20",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_7",
@@ -287,7 +305,10 @@
       "price_es": "Mains: €14–€24",
       "price_zh": "电源： € 14– € 24",
       "price_fr": "Mains: €14–€24",
-      "price_de": "Hauptgericht: 14–24 €"
+      "price_de": "Hauptgericht: 14–24 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_8",
@@ -328,7 +349,10 @@
       "price_es": "Schnitzel: €16–€24",
       "price_zh": "炸肉排：16欧元–24欧元",
       "price_fr": "Escalope : 16 € – 24 €",
-      "price_de": "Schnitzel: 16–24 €"
+      "price_de": "Schnitzel: 16–24 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "c_9",
@@ -369,7 +393,10 @@
       "price_es": "Tartas: 6,00 €",
       "price_zh": "蛋糕： €6.00",
       "price_fr": "Gâteaux : 6,00 €",
-      "price_de": "Cakes: €6.00"
+      "price_de": "Cakes: €6.00",
+      "rain": true,
+      "shopping": false,
+      "free": true
     }
   ]
 }

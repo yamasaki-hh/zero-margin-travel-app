@@ -41,7 +41,10 @@
       "price_es": "Gratis (Torre: 10€)",
       "price_zh": "免费（塔楼： € 10 ）",
       "price_fr": "Gratuit (Tour : 10 €)",
-      "price_de": "Kostenlos (Turm: 10 €)"
+      "price_de": "Kostenlos (Turm: 10 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_2",
@@ -82,7 +85,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_3",
@@ -123,7 +129,10 @@
       "price_es": "Gratis",
       "price_zh": "无消耗",
       "price_fr": "Free",
-      "price_de": "Free"
+      "price_de": "Free",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_4",
@@ -164,7 +173,10 @@
       "price_es": "Free",
       "price_zh": "无消耗",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_5",
@@ -205,7 +217,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Free",
-      "price_de": "Free"
+      "price_de": "Free",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_6",
@@ -246,7 +261,10 @@
       "price_es": "Free entry",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_7",
@@ -287,7 +305,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_8",
@@ -328,7 +349,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_9",
@@ -369,7 +393,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费： € 10",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_10",
@@ -410,7 +437,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_11",
@@ -451,7 +481,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_12",
@@ -492,7 +525,10 @@
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_13",
@@ -533,7 +569,10 @@
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_14",
@@ -574,7 +613,10 @@
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_15",
@@ -615,7 +657,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_16",
@@ -656,7 +701,10 @@
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_17",
@@ -697,7 +745,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_18",
@@ -738,7 +789,10 @@
       "price_es": "Entrada: 7€",
       "price_zh": "入场费：7欧元",
       "price_fr": "Entrée : 7 €",
-      "price_de": "Eintritt: 7 €"
+      "price_de": "Eintritt: 7 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_19",
@@ -779,7 +833,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_20",
@@ -820,7 +877,10 @@
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_21",
@@ -861,7 +921,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_22",
@@ -902,7 +965,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_23",
@@ -943,7 +1009,10 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_24",
@@ -984,7 +1053,10 @@
       "price_es": "Comida: 25€-40€",
       "price_zh": "膳食：25 欧元 - 40 欧元",
       "price_fr": "Repas : 25 – 40 €",
-      "price_de": "Mahlzeit: 25–40 €"
+      "price_de": "Mahlzeit: 25–40 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_25",
@@ -1025,7 +1097,10 @@
       "price_es": "Entrada: 7€",
       "price_zh": "入场费：7欧元",
       "price_fr": "Entrée : 7 €",
-      "price_de": "Eintritt: 7 €"
+      "price_de": "Eintritt: 7 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_26",
@@ -1066,7 +1141,10 @@
       "price_es": "Porción: 4,50 €",
       "price_zh": "切片：4.50 欧元",
       "price_fr": "Tranche : 4,50 €",
-      "price_de": "Stück: 4,50 €"
+      "price_de": "Stück: 4,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_27",
@@ -1107,7 +1185,10 @@
       "price_es": "Bombones: 12€–30€",
       "price_zh": "果仁糖：12 欧元 - 30 欧元",
       "price_fr": "Pralines : 12 à 30 €",
-      "price_de": "Pralinen: 12–30 €"
+      "price_de": "Pralinen: 12–30 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_28",
@@ -1148,7 +1229,10 @@
       "price_es": "Comida: 30€–45€",
       "price_zh": "膳食： 30 欧元 - 45 欧元",
       "price_fr": "Repas : 30 € – 45 €",
-      "price_de": "Mahlzeit: 30–45 €"
+      "price_de": "Mahlzeit: 30–45 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_29",
@@ -1189,7 +1273,10 @@
       "price_es": "Plato principal: 18€–28€",
       "price_zh": "主电源：18 欧元–28 欧元",
       "price_fr": "Plats : 18 € – 28 €",
-      "price_de": "Hauptgericht: 18–28 €"
+      "price_de": "Hauptgericht: 18–28 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_30",
@@ -1230,7 +1317,10 @@
       "price_es": "Menú: 185€–320€",
       "price_zh": "菜单：185 欧元–320 欧元",
       "price_fr": "Menus : 185 € – 320 €",
-      "price_de": "Menü: 185–320 €"
+      "price_de": "Menü: 185–320 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_31",
@@ -1271,7 +1361,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_32",
@@ -1312,7 +1405,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_33",
@@ -1353,7 +1449,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_34",
@@ -1394,7 +1493,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_35",
@@ -1435,7 +1537,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_36",
@@ -1476,7 +1581,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_37",
@@ -1517,7 +1625,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_38",
@@ -1558,7 +1669,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_39",
@@ -1599,7 +1713,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_40",
@@ -1640,7 +1757,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_41",
@@ -1681,7 +1801,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_42",
@@ -1722,7 +1845,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_43",
@@ -1763,7 +1889,10 @@
       "price_es": "Espectáculo: 11€",
       "price_zh": "演出：11 欧元",
       "price_fr": "Spectacle : 11 €",
-      "price_de": "Show: 11 €"
+      "price_de": "Show: 11 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_44",
@@ -1804,7 +1933,10 @@
       "price_es": "Entrada: 16,50€",
       "price_zh": "入场费：16.50 欧元",
       "price_fr": "Entrée : 16,50 €",
-      "price_de": "Eintritt: 16,50 €"
+      "price_de": "Eintritt: 16,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_45",
@@ -1845,7 +1977,10 @@
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_46",
@@ -1886,7 +2021,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     }
   ]
 }

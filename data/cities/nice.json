@@ -40,7 +40,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_2",
@@ -80,7 +83,10 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_3",
@@ -120,7 +126,10 @@
       "price_es": "paseo libre",
       "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "nice_4",
@@ -160,7 +169,10 @@
       "price_es": "paseo libre",
       "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "nice_5",
@@ -200,7 +212,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_6",
@@ -240,7 +255,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_7",
@@ -280,7 +298,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_8",
@@ -320,7 +341,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_9",
@@ -360,7 +384,10 @@
       "price_es": "Entrada: 5€",
       "price_zh": "入场费：5欧元",
       "price_fr": "Entrée : 5 €",
-      "price_de": "Eintritt: 5 €"
+      "price_de": "Eintritt: 5 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_10",
@@ -400,7 +427,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_11",
@@ -440,7 +470,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Free access",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_12",
@@ -480,7 +513,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_13",
@@ -520,7 +556,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_14",
@@ -560,7 +599,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_15",
@@ -600,7 +642,10 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_16",
@@ -640,7 +685,10 @@
       "price_es": "paseo libre",
       "price_zh": "潇洒的走。",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_17",
@@ -680,7 +728,10 @@
       "price_es": "Entrada: 5,40€",
       "price_zh": "入场费：5.40 欧元",
       "price_fr": "Entrée : 5,40 €",
-      "price_de": "Eintritt: 5,40 €"
+      "price_de": "Eintritt: 5,40 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_18",
@@ -720,7 +771,10 @@
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_19",
@@ -760,7 +814,10 @@
       "price_es": "Primicias: 3€–6€",
       "price_zh": "勺子： 3 欧元 - 6 欧元",
       "price_fr": "Scoops : 3 à 6 €",
-      "price_de": "Kugeln: 3–6 €"
+      "price_de": "Kugeln: 3–6 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_20",
@@ -800,7 +857,10 @@
       "price_es": "Aperitivos: 3€–10€",
       "price_zh": "小吃： € 3– € 10",
       "price_fr": "Snacks: €3–€10",
-      "price_de": "Snacks: 3–10 €"
+      "price_de": "Snacks: 3–10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_21",
@@ -840,7 +900,10 @@
       "price_es": "Plato principal: 40€–80€",
       "price_zh": "主食：40 欧元–80 欧元",
       "price_fr": "Plats : 40 à 80 €",
-      "price_de": "Hauptgericht: 40–80 €"
+      "price_de": "Hauptgericht: 40–80 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "nice_22",
@@ -880,7 +943,10 @@
       "price_es": "Plato principal: 25€–60€",
       "price_zh": "主电源：25 欧元–60 欧元",
       "price_fr": "Plats : 25 à 60 €",
-      "price_de": "Mains: €25–€60"
+      "price_de": "Mains: €25–€60",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_23",
@@ -920,7 +986,10 @@
       "price_es": "Jardín: 7€",
       "price_zh": "花园：7欧元",
       "price_fr": "Jardin : 7 €",
-      "price_de": "Garten: 7 €"
+      "price_de": "Garten: 7 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_24",
@@ -960,7 +1029,10 @@
       "price_es": "Entrada: 17€",
       "price_zh": "入场费：17 欧元",
       "price_fr": "Entrée : 17 €",
-      "price_de": "Eintritt: 17 €"
+      "price_de": "Eintritt: 17 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_25",
@@ -1000,7 +1072,10 @@
       "price_es": "Entrada: 13€",
       "price_zh": "入场费：13欧元",
       "price_fr": "Entrée : 13 €",
-      "price_de": "Eintritt: 13 €"
+      "price_de": "Eintritt: 13 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_26",
@@ -1040,7 +1115,10 @@
       "price_es": "paseo libre",
       "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_27",
@@ -1080,7 +1158,10 @@
       "price_es": "paseo libre",
       "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_28",
@@ -1120,7 +1201,10 @@
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_29",
@@ -1160,7 +1244,10 @@
       "price_es": "Acceso libre (10€ Palacio)",
       "price_zh": "免费参观（宫殿 10 欧元）",
       "price_fr": "Accès libre (10 € Château)",
-      "price_de": "Freier Zugang (10 € Palast)"
+      "price_de": "Freier Zugang (10 € Palast)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_30",
@@ -1200,7 +1287,10 @@
       "price_es": "Entrada: 19€",
       "price_zh": "入场费：19 欧元",
       "price_fr": "Entrée : 19 €",
-      "price_de": "Eintritt: 19 €"
+      "price_de": "Eintritt: 19 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_31",
@@ -1240,7 +1330,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_32",
@@ -1280,7 +1373,10 @@
       "price_es": "Visita: 18€",
       "price_zh": "旅游：18 欧元",
       "price_fr": "Visite : 18 €",
-      "price_de": "Führung: 18 €"
+      "price_de": "Führung: 18 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_33",
@@ -1320,7 +1416,10 @@
       "price_es": "paseo libre",
       "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_34",
@@ -1360,7 +1459,10 @@
       "price_es": "paseo libre",
       "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_35",
@@ -1400,7 +1502,10 @@
       "price_es": "Ferry: 16€",
       "price_zh": "渡轮：16 欧元",
       "price_fr": "Ferry : 16 €",
-      "price_de": "Fähre: 16 €"
+      "price_de": "Fähre: 16 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_36",
@@ -1440,7 +1545,10 @@
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ]
 }

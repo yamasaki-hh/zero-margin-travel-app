@@ -47,7 +47,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 22,50€",
       "price_zh": "入场费：22.50 欧元",
       "price_fr": "Entrée : 22,50 €",
-      "price_de": "Eintritt: 22,50 €"
+      "price_de": "Eintritt: 22,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_2",
@@ -88,7 +91,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 22,00 €",
       "price_zh": "入场费：22.00 欧元",
       "price_fr": "Entrée : 22,00 €",
-      "price_de": "Eintritt: 22,00 €"
+      "price_de": "Eintritt: 22,00 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_3",
@@ -129,7 +135,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "a_4",
@@ -170,7 +179,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "a_5",
@@ -211,7 +223,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso gratuito al pueblo",
       "price_zh": "免费进村",
       "price_fr": "Accès gratuit au village",
-      "price_de": "Kostenloser Dorfzugang"
+      "price_de": "Kostenloser Dorfzugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "a_6",
@@ -252,7 +267,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "a_7",
@@ -293,7 +311,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 12,50€",
       "price_zh": "入场费：12.50 欧元",
       "price_fr": "Entrée : 12,50 €",
-      "price_de": "Eintritt: 12,50 €"
+      "price_de": "Eintritt: 12,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "a_8",
@@ -334,7 +355,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "a_9",
@@ -375,7 +399,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "a_10",
@@ -416,7 +443,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "a_11",
@@ -457,7 +487,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 22,50€",
       "price_zh": "入场费：22.50 欧元",
       "price_fr": "Entrée : 22,50 €",
-      "price_de": "Eintritt: 22,50 €"
+      "price_de": "Eintritt: 22,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_12",
@@ -498,7 +531,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 17,50€",
       "price_zh": "入场费：17.50 欧元",
       "price_fr": "Entrée : 17,50 €",
-      "price_de": "Eintritt: 17,50 €"
+      "price_de": "Eintritt: 17,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_13",
@@ -539,7 +575,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 17,50€",
       "price_zh": "入场费：17.50 欧元",
       "price_fr": "Entrée : 17,50 €",
-      "price_de": "Eintritt: 17,50 €"
+      "price_de": "Eintritt: 17,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_14",
@@ -580,7 +619,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 21,95 €",
       "price_zh": "入场费：21.95 欧元",
       "price_fr": "Entrée : 21,95 €",
-      "price_de": "Eintritt: 21,95 €"
+      "price_de": "Eintritt: 21,95 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_15",
@@ -621,7 +663,10 @@ const candidateSpotsDatabase = {
       "price_es": "Costillas: 22€-28€",
       "price_zh": "排骨：22-28欧元",
       "price_fr": "Côtes levées : 22 € – 28 €",
-      "price_de": "Rippchen: 22–28 €"
+      "price_de": "Rippchen: 22–28 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_16",
@@ -662,7 +707,10 @@ const candidateSpotsDatabase = {
       "price_es": "Puestos: 8€–18€",
       "price_zh": "摊位：8欧元–18欧元",
       "price_fr": "Stands : 8 à 18 €",
-      "price_de": "Stände: 8–18 €"
+      "price_de": "Stände: 8–18 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "a_17",
@@ -703,7 +751,10 @@ const candidateSpotsDatabase = {
       "price_es": "Plato principal: 17€–24€",
       "price_zh": "主电源：17 欧元 - 24 欧元",
       "price_fr": "Plats : 17 € – 24 €",
-      "price_de": "Hauptgericht: 17–24 €"
+      "price_de": "Hauptgericht: 17–24 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_18",
@@ -744,7 +795,10 @@ const candidateSpotsDatabase = {
       "price_es": "Galleta: 3,00€",
       "price_zh": "饼干： €3.00",
       "price_fr": "Biscuit : 3,00 €",
-      "price_de": "Keks: 3,00 €"
+      "price_de": "Keks: 3,00 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "a_19",
@@ -785,7 +839,10 @@ const candidateSpotsDatabase = {
       "price_es": "Tarta: 5,00 €",
       "price_zh": "馅饼： €5.00",
       "price_fr": "Tarte : 5,00 €",
-      "price_de": "Kuchen: 5,00 €"
+      "price_de": "Kuchen: 5,00 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "a_20",
@@ -826,7 +883,10 @@ const candidateSpotsDatabase = {
       "price_es": "Vuelo Degustación: 12€",
       "price_zh": "品尝航班：12 欧元",
       "price_fr": "Vol Dégustation : 12 €",
-      "price_de": "Verkostungsflug: 12 €"
+      "price_de": "Verkostungsflug: 12 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     }
   ],
   "Berlin, Germany": [
@@ -869,7 +929,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b2",
@@ -910,7 +973,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis (se requiere reserva)",
       "price_zh": "免费（需预约）",
       "price_fr": "Gratuit (sur réservation)",
-      "price_de": "Kostenlos (Reservierung erforderlich)"
+      "price_de": "Kostenlos (Reservierung erforderlich)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b3",
@@ -951,7 +1017,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b4",
@@ -992,7 +1061,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b5",
@@ -1033,7 +1105,10 @@ const candidateSpotsDatabase = {
       "price_es": "Palacio: 12€",
       "price_zh": "宫殿：12欧元",
       "price_fr": "Palais : 12 €",
-      "price_de": "Palast: 12 €"
+      "price_de": "Palast: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b6",
@@ -1074,7 +1149,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b7",
@@ -1115,7 +1193,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b8",
@@ -1156,7 +1237,10 @@ const candidateSpotsDatabase = {
       "price_es": "Subida: 4€",
       "price_zh": "攀登：4欧元",
       "price_fr": "Montée : 4 €",
-      "price_de": "Aufstieg: 4 €"
+      "price_de": "Aufstieg: 4 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b9",
@@ -1197,7 +1281,10 @@ const candidateSpotsDatabase = {
       "price_es": "Observación: 22,50 €",
       "price_zh": "观察费：22.50 欧元",
       "price_fr": "Observation : 22,50 €",
-      "price_de": "Beobachtung: 22,50 €"
+      "price_de": "Beobachtung: 22,50 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b10",
@@ -1238,7 +1325,10 @@ const candidateSpotsDatabase = {
       "price_es": "Visualización gratuita al aire libre",
       "price_zh": "免费户外观赏",
       "price_fr": "Visite extérieure gratuite",
-      "price_de": "Kostenlose Besichtigung im Freien"
+      "price_de": "Kostenlose Besichtigung im Freien",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b11",
@@ -1279,7 +1369,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b12",
@@ -1320,7 +1413,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b13",
@@ -1361,7 +1457,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "b_b14",
@@ -1402,7 +1501,10 @@ const candidateSpotsDatabase = {
       "price_es": "Pase de un día: 19€",
       "price_zh": "日票：19 欧元",
       "price_fr": "Pass journée : 19 €",
-      "price_de": "Tageskarte: 19 €"
+      "price_de": "Tageskarte: 19 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b15",
@@ -1443,7 +1545,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "b_b16",
@@ -1484,7 +1589,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b17",
@@ -1525,7 +1633,10 @@ const candidateSpotsDatabase = {
       "price_es": "Exhibición permanente gratuita",
       "price_zh": "免费永久展示",
       "price_fr": "Exposition permanente gratuite",
-      "price_de": "Kostenlose Dauerausstellung"
+      "price_de": "Kostenlose Dauerausstellung",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b18",
@@ -1566,7 +1677,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b19",
@@ -1607,7 +1721,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b20",
@@ -1648,7 +1765,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 12,50€",
       "price_zh": "入场费：12.50 欧元",
       "price_fr": "Entrée : 12,50 €",
-      "price_de": "Eintritt: 12,50 €"
+      "price_de": "Eintritt: 12,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b21",
@@ -1689,7 +1809,10 @@ const candidateSpotsDatabase = {
       "price_es": "Brocheta: 7,00 €",
       "price_zh": "烤肉串：7.00 欧元",
       "price_fr": "Kebab : 7,00 €",
-      "price_de": "Kebab: 7,00 €"
+      "price_de": "Kebab: 7,00 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b22",
@@ -1730,7 +1853,10 @@ const candidateSpotsDatabase = {
       "price_es": "Salchicha de curry: 4,50 €",
       "price_zh": "咖喱香肠： €4.50",
       "price_fr": "Saucisse au curry : 4,50 €",
-      "price_de": "Currywurst: 4,50 €"
+      "price_de": "Currywurst: 4,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b23",
@@ -1771,7 +1897,10 @@ const candidateSpotsDatabase = {
       "price_es": "Cerveza y salchichas: 12€",
       "price_zh": "啤酒和香肠：12 欧元",
       "price_fr": "Bière & Bratwurst : 12 €",
-      "price_de": "Bier & Bratwurst: 12 €"
+      "price_de": "Bier & Bratwurst: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b24",
@@ -1812,7 +1941,10 @@ const candidateSpotsDatabase = {
       "price_es": "Plato principal: 18€–28€",
       "price_zh": "主电源：18 欧元–28 欧元",
       "price_fr": "Plats : 18 € – 28 €",
-      "price_de": "Hauptgericht: 18–28 €"
+      "price_de": "Hauptgericht: 18–28 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b25",
@@ -1853,7 +1985,10 @@ const candidateSpotsDatabase = {
       "price_es": "Plato principal: 24€–38€",
       "price_zh": "主电源：24 欧元–38 欧元",
       "price_fr": "Plats : 24 – 38 €",
-      "price_de": "Hauptgericht: 24–38 €"
+      "price_de": "Hauptgericht: 24–38 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "b_b26",
@@ -1894,7 +2029,10 @@ const candidateSpotsDatabase = {
       "price_es": "Escalope: 32€",
       "price_zh": "炸肉排：32 欧元",
       "price_fr": "Escalope : 32 €",
-      "price_de": "Schnitzel: 32 €"
+      "price_de": "Schnitzel: 32 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b27",
@@ -1935,7 +2073,10 @@ const candidateSpotsDatabase = {
       "price_es": "Filetes: 38€–75€",
       "price_zh": "牛排：38 欧元–75 欧元",
       "price_fr": "Steak : 38 € – 75 €",
-      "price_de": "Steaks: 38–75 €"
+      "price_de": "Steaks: 38–75 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b28",
@@ -1976,7 +2117,10 @@ const candidateSpotsDatabase = {
       "price_es": "Platos: 10€–16€",
       "price_zh": "菜肴： 10 欧元 - 16 欧元",
       "price_fr": "Plats : 10 € – 16 €",
-      "price_de": "Gerichte: 10–16 €"
+      "price_de": "Gerichte: 10–16 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b29",
@@ -2017,7 +2161,10 @@ const candidateSpotsDatabase = {
       "price_es": "Rollos: 3,80€–5€",
       "price_zh": "卷： €3.80 – €5",
       "price_fr": "Rouleaux : 3,80 € – 5 €",
-      "price_de": "Brötchen: 3,80 €–5 €"
+      "price_de": "Brötchen: 3,80 €–5 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "b_b30",
@@ -2058,7 +2205,10 @@ const candidateSpotsDatabase = {
       "price_es": "Café: 4,50€–7€",
       "price_zh": "咖啡：4.50 欧元–7 欧元",
       "price_fr": "Café : 4,50 € – 7 €",
-      "price_de": "Kaffee: 4,50 €–7 €"
+      "price_de": "Kaffee: 4,50 €–7 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "b_b31",
@@ -2099,7 +2249,10 @@ const candidateSpotsDatabase = {
       "price_es": "Almuerzo: 14€–20€",
       "price_zh": "早午餐：14 欧元至 20 欧元",
       "price_fr": "Brunch : 14 à 20 €",
-      "price_de": "Brunch: 14–20 €"
+      "price_de": "Brunch: 14–20 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "b_b32",
@@ -2140,7 +2293,10 @@ const candidateSpotsDatabase = {
       "price_es": "Platos: 6€–14€",
       "price_zh": "菜肴： 6 欧元 - 14 欧元",
       "price_fr": "Plats : 6 € – 14 €",
-      "price_de": "Gerichte: 6–14 €"
+      "price_de": "Gerichte: 6–14 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     }
   ],
   "Bordeaux, France": [
@@ -2183,7 +2339,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_2",
@@ -2224,7 +2383,10 @@ const candidateSpotsDatabase = {
       "price_es": "Exterior gratuito (Tours: 10€)",
       "price_zh": "免费外部参观（旅游：10 欧元）",
       "price_fr": "Extérieur gratuit (Visites : 10 €)",
-      "price_de": "Kostenloser Außenbereich (Führungen: 10 €)"
+      "price_de": "Kostenloser Außenbereich (Führungen: 10 €)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_3",
@@ -2265,7 +2427,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis Catedral (Torre: 6€)",
       "price_zh": "免费大教堂（塔楼：6 欧元）",
       "price_fr": "Cathédrale gratuite (Tour : 6 €)",
-      "price_de": "Freie Kathedrale (Turm: 6 €)"
+      "price_de": "Freie Kathedrale (Turm: 6 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_4",
@@ -2306,7 +2471,10 @@ const candidateSpotsDatabase = {
       "price_es": "Exterior gratuito (Entrada: 5€)",
       "price_zh": "免费外部（门票：5 欧元）",
       "price_fr": "Extérieur gratuit (Entrée : 5 €)",
-      "price_de": "Freier Außenbereich (Eintritt: 5 €)"
+      "price_de": "Freier Außenbereich (Eintritt: 5 €)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_5",
@@ -2347,7 +2515,10 @@ const candidateSpotsDatabase = {
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_6",
@@ -2388,7 +2559,10 @@ const candidateSpotsDatabase = {
       "price_es": "Basílica libre",
       "price_zh": "自由大教堂",
       "price_fr": "Basilique gratuite",
-      "price_de": "Freie Basilika"
+      "price_de": "Freie Basilika",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_7",
@@ -2429,7 +2603,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_8",
@@ -2470,7 +2647,10 @@ const candidateSpotsDatabase = {
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_9",
@@ -2511,7 +2691,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_10",
@@ -2552,7 +2735,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "bo_11",
@@ -2593,7 +2779,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_12",
@@ -2634,7 +2823,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 22€",
       "price_zh": "入场费：22 欧元",
       "price_fr": "Entrée : 22 €",
-      "price_de": "Eintritt: 22 €"
+      "price_de": "Eintritt: 22 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_13",
@@ -2675,7 +2867,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 15€",
       "price_zh": "入场费：15 欧元",
       "price_fr": "Entrée : 15 €",
-      "price_de": "Eintritt: 15 €"
+      "price_de": "Eintritt: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_14",
@@ -2716,7 +2911,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_15",
@@ -2757,7 +2955,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_16",
@@ -2798,7 +2999,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_17",
@@ -2839,7 +3043,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_18",
@@ -2880,7 +3087,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_19",
@@ -2921,7 +3131,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 5€",
       "price_zh": "入场费：5欧元",
       "price_fr": "Entrée : 5 €",
-      "price_de": "Eintritt: 5 €"
+      "price_de": "Eintritt: 5 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_20",
@@ -2962,7 +3175,10 @@ const candidateSpotsDatabase = {
       "price_es": "Platos de ostras: 10€-20€",
       "price_zh": "牡蛎拼盘：10欧元至20欧元",
       "price_fr": "Plateaux d'huîtres : 10 à 20 €",
-      "price_de": "Austernplatten: 10–20 €"
+      "price_de": "Austernplatten: 10–20 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "bo_21",
@@ -3003,7 +3219,10 @@ const candidateSpotsDatabase = {
       "price_es": "Plato principal: 20€–38€",
       "price_zh": "主电源：20 欧元–38 欧元",
       "price_fr": "Plats : 20 à 38 €",
-      "price_de": "Hauptgericht: 20–38 €"
+      "price_de": "Hauptgericht: 20–38 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_22",
@@ -3044,7 +3263,10 @@ const candidateSpotsDatabase = {
       "price_es": "Canelé: 1,50€ – 3€",
       "price_zh": "卡内莱：1.50欧元–3欧元",
       "price_fr": "Canelé : 1,50 à 3 €",
-      "price_de": "Canelé: 1,50–3 €"
+      "price_de": "Canelé: 1,50–3 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "bo_23",
@@ -3085,7 +3307,10 @@ const candidateSpotsDatabase = {
       "price_es": "Copa de vino: 3€–9€",
       "price_zh": "一杯酒：3欧元至9欧元",
       "price_fr": "Verre de vin : 3 à 9 €",
-      "price_de": "Glas Wein: 3–9 €"
+      "price_de": "Glas Wein: 3–9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_24",
@@ -3126,7 +3351,10 @@ const candidateSpotsDatabase = {
       "price_es": "Café y pastelería: 6€–12€",
       "price_zh": "咖啡和糕点：6 欧元–12 欧元",
       "price_fr": "Café & Pâtisserie : 6 € – 12 €",
-      "price_de": "Kaffee und Gebäck: 6–12 €"
+      "price_de": "Kaffee und Gebäck: 6–12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_25",
@@ -3167,7 +3395,10 @@ const candidateSpotsDatabase = {
       "price_es": "Menú fijo: 23€",
       "price_zh": "套餐：23 欧元",
       "price_fr": "Formule : 23 €",
-      "price_de": "Menü: 23 €"
+      "price_de": "Menü: 23 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_26",
@@ -3208,7 +3439,10 @@ const candidateSpotsDatabase = {
       "price_es": "Visitas guiadas: 25 €–75 €",
       "price_zh": "旅游：25 欧元–75 欧元",
       "price_fr": "Visites : 25 € – 75 €",
-      "price_de": "Führungen: 25–75 €"
+      "price_de": "Führungen: 25–75 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_27",
@@ -3249,7 +3483,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_28",
@@ -3290,7 +3527,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "bo_29",
@@ -3331,7 +3571,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_30",
@@ -3372,7 +3615,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "bo_31",
@@ -3413,7 +3659,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_32",
@@ -3454,7 +3703,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_33",
@@ -3495,7 +3747,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_34",
@@ -3536,7 +3791,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis (se aplica tarifa de estacionamiento)",
       "price_zh": "免费（需支付停车费）",
       "price_fr": "Gratuit (des frais de stationnement s'appliquent)",
-      "price_de": "Kostenlos (Parkgebühr fällt an)"
+      "price_de": "Kostenlos (Parkgebühr fällt an)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_35",
@@ -3577,7 +3835,10 @@ const candidateSpotsDatabase = {
       "price_es": "Parque gratuito (Museo: 8€)",
       "price_zh": "免费公园（博物馆：8 欧元）",
       "price_fr": "Parc gratuit (Musée : 8 €)",
-      "price_de": "Kostenloser Park (Museum: 8 €)"
+      "price_de": "Kostenloser Park (Museum: 8 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_36",
@@ -3618,7 +3879,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "bo_37",
@@ -3659,7 +3923,10 @@ const candidateSpotsDatabase = {
       "price_es": "Crucero: 15€–25€ (Bat3: 1,70€)",
       "price_zh": "游轮：15 欧元至 25 欧元（Bat3：1.70 欧元）",
       "price_fr": "Croisière : 15-25 € (Bat3 : 1,70 €)",
-      "price_de": "Kreuzfahrt: 15–25 € (Bat3: 1,70 €)"
+      "price_de": "Kreuzfahrt: 15–25 € (Bat3: 1,70 €)",
+      "rain": false,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_38",
@@ -3700,7 +3967,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_39",
@@ -3741,7 +4011,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 18€",
       "price_zh": "入场费：18 欧元",
       "price_fr": "Entrée : 18 €",
-      "price_de": "Eintritt: 18 €"
+      "price_de": "Eintritt: 18 €",
+      "rain": false,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_40",
@@ -3782,7 +4055,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 18€–24€",
       "price_zh": "门票： 18 欧元 - 24 欧元",
       "price_fr": "Entrée : 18 € – 24 €",
-      "price_de": "Eintritt: 18–24 €"
+      "price_de": "Eintritt: 18–24 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ],
   "Brussels, Belgium": [
@@ -3825,7 +4101,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "br_2",
@@ -3866,7 +4145,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "br_3",
@@ -3907,7 +4189,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "br_4",
@@ -3948,7 +4233,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "br_5",
@@ -3989,7 +4277,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "br_6",
@@ -4030,7 +4321,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "br_7",
@@ -4071,7 +4365,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "br_8",
@@ -4112,7 +4409,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "br_9",
@@ -4153,7 +4453,10 @@ const candidateSpotsDatabase = {
       "price_es": "Mejillones: 24€-29€",
       "price_zh": "贻贝：24-29 欧元",
       "price_fr": "Moules : 24-29 €",
-      "price_de": "Muscheln: 24–29 €"
+      "price_de": "Muscheln: 24–29 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "br_10",
@@ -4194,7 +4497,10 @@ const candidateSpotsDatabase = {
       "price_es": "Guiso: 16€–22€",
       "price_zh": "炖菜：16欧元–22欧元",
       "price_fr": "Ragoût : 16 € – 22 €",
-      "price_de": "Eintopf: 16–22 €"
+      "price_de": "Eintopf: 16–22 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "br_11",
@@ -4235,7 +4541,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gofres: 5€–8€",
       "price_zh": "华夫饼： € 5– € 8",
       "price_fr": "Gaufres : 5 à 8 €",
-      "price_de": "Waffeln: 5–8 €"
+      "price_de": "Waffeln: 5–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "br_12",
@@ -4276,7 +4585,10 @@ const candidateSpotsDatabase = {
       "price_es": "Trufas: 12€–25€",
       "price_zh": "松露：12 欧元至 25 欧元",
       "price_fr": "Truffes : 12-25 €",
-      "price_de": "Trüffel: 12–25 €"
+      "price_de": "Trüffel: 12–25 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "br_13",
@@ -4317,7 +4629,10 @@ const candidateSpotsDatabase = {
       "price_es": "Cervezas: 5€–10€",
       "price_zh": "啤酒：5 欧元至 10 欧元",
       "price_fr": "Bières : 5 à 10 €",
-      "price_de": "Beers: €5–€10"
+      "price_de": "Beers: €5–€10",
+      "rain": true,
+      "shopping": true,
+      "free": false
     }
   ],
   "Cologne, Germany": [
@@ -4360,7 +4675,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_2",
@@ -4401,7 +4719,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_3",
@@ -4442,7 +4763,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_4",
@@ -4483,7 +4807,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 14,50€",
       "price_zh": "入场费：14.50 欧元",
       "price_fr": "Entrée : 14,50 €",
-      "price_de": "Eintritt: 14,50 €"
+      "price_de": "Eintritt: 14,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_5",
@@ -4524,7 +4851,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 13€",
       "price_zh": "入场费：13欧元",
       "price_fr": "Entry: €13",
-      "price_de": "Eintritt: 13 €"
+      "price_de": "Eintritt: 13 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "c_6",
@@ -4565,7 +4895,10 @@ const candidateSpotsDatabase = {
       "price_es": "Kölsch: €2.20",
       "price_zh": "科尔施： € 2.20",
       "price_fr": "Kölsch : 2,20 €",
-      "price_de": "Kölsch: €2.20"
+      "price_de": "Kölsch: €2.20",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_7",
@@ -4606,7 +4939,10 @@ const candidateSpotsDatabase = {
       "price_es": "Mains: €14–€24",
       "price_zh": "电源： € 14– € 24",
       "price_fr": "Mains: €14–€24",
-      "price_de": "Hauptgericht: 14–24 €"
+      "price_de": "Hauptgericht: 14–24 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "c_8",
@@ -4647,7 +4983,10 @@ const candidateSpotsDatabase = {
       "price_es": "Schnitzel: €16–€24",
       "price_zh": "炸肉排：16欧元–24欧元",
       "price_fr": "Escalope : 16 € – 24 €",
-      "price_de": "Schnitzel: 16–24 €"
+      "price_de": "Schnitzel: 16–24 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "c_9",
@@ -4688,7 +5027,10 @@ const candidateSpotsDatabase = {
       "price_es": "Tartas: 6,00 €",
       "price_zh": "蛋糕： €6.00",
       "price_fr": "Gâteaux : 6,00 €",
-      "price_de": "Cakes: €6.00"
+      "price_de": "Cakes: €6.00",
+      "rain": true,
+      "shopping": false,
+      "free": true
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -4731,7 +5073,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entry: €8",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_2",
@@ -4772,7 +5117,10 @@ const candidateSpotsDatabase = {
       "price_es": "Free access",
       "price_zh": "免费账户",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_3",
@@ -4813,7 +5161,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_4",
@@ -4854,7 +5205,10 @@ const candidateSpotsDatabase = {
       "price_es": "Visita: 15€",
       "price_zh": "旅游：15 欧元",
       "price_fr": "Tour: €15",
-      "price_de": "Führung: 15 €"
+      "price_de": "Führung: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_5",
@@ -4895,7 +5249,10 @@ const candidateSpotsDatabase = {
       "price_es": "Free access",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_6",
@@ -4936,7 +5293,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entry: €8",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_7",
@@ -4977,7 +5337,10 @@ const candidateSpotsDatabase = {
       "price_es": "Exhibición permanente gratuita",
       "price_zh": "免费永久展示",
       "price_fr": "Exposition permanente gratuite",
-      "price_de": "Kostenlose Dauerausstellung"
+      "price_de": "Kostenlose Dauerausstellung",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_8",
@@ -5018,7 +5381,10 @@ const candidateSpotsDatabase = {
       "price_es": "Cuchara: 5,50 €",
       "price_zh": "勺子：5.50 欧元",
       "price_fr": "Cuillère : 5,50 €",
-      "price_de": "Löffel: 5,50 €"
+      "price_de": "Löffel: 5,50 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "l_9",
@@ -5059,7 +5425,10 @@ const candidateSpotsDatabase = {
       "price_es": "Bollería: 4€–8€",
       "price_zh": "糕点：4-8 欧元",
       "price_fr": "Pastries: €4–€8",
-      "price_de": "Gebäck: 4–8 €"
+      "price_de": "Gebäck: 4–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_10",
@@ -5100,7 +5469,10 @@ const candidateSpotsDatabase = {
       "price_es": "Platos: 18€–32€",
       "price_zh": "餐盘：18欧元–32欧元",
       "price_fr": "Assiettes : 18 € – 32 €",
-      "price_de": "Teller: 18–32 €"
+      "price_de": "Teller: 18–32 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_11",
@@ -5141,7 +5513,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_12",
@@ -5182,7 +5557,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_13",
@@ -5223,7 +5601,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_14",
@@ -5264,7 +5645,10 @@ const candidateSpotsDatabase = {
       "price_es": "Free access",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_15",
@@ -5305,7 +5689,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_16",
@@ -5346,7 +5733,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "l_17",
@@ -5387,7 +5777,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Free access",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_18",
@@ -5428,7 +5821,10 @@ const candidateSpotsDatabase = {
       "price_es": "Exhibición permanente gratuita",
       "price_zh": "免费永久展示",
       "price_fr": "Free permanent display",
-      "price_de": "Kostenlose Dauerausstellung"
+      "price_de": "Kostenlose Dauerausstellung",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "l_19",
@@ -5469,7 +5865,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 5€",
       "price_zh": "入场费： € 5",
       "price_fr": "Entrée : 5 €",
-      "price_de": "Eintritt: 5 €"
+      "price_de": "Eintritt: 5 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "l_20",
@@ -5510,7 +5909,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费账户",
       "price_fr": "Accès gratuit",
-      "price_de": "Free access"
+      "price_de": "Free access",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ],
   "Lyon, France": [
@@ -5534,26 +5936,29 @@ const candidateSpotsDatabase = {
       "desc_ja": "象徴的な 19 世紀の丘の上の聖堂。華麗なモザイクと市街のパノラマの景色でリヨンのスカイラインを支配している。",
       "desc_es": "Emblemática basílica del siglo XIX en lo alto de una colina que domina el horizonte de Lyon con mosaicos ornamentados y vistas panorámicas de la ciudad.",
       "desc_zh": "标志性的 19 世纪山顶大教堂以华丽的马赛克为主，俯瞰里昂的天际线，可欣赏城市全景。",
-      "desc_fr": "Basilique emblématique du XIXe siècle située au sommet d'une colline, dominant l'horizon de Lyon avec ses mosaïques ornées et sa vue panoramique sur la ville.",
+      "desc_fr": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
       "desc_de": "Berühmte Hügelbasilika aus dem 19. Jahrhundert, die mit kunstvollen Mosaiken und Panoramablick auf die Stadt die Skyline von Lyon dominiert.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Basilique Notre-Dame de Fourvière",
       "name_ja": "フルヴィエール ノートルダム大聖堂",
-      "name_es": "Basílica de Nuestra Señora de Fourvière",
-      "name_zh": "富维耶圣母大教堂",
+      "name_es": "Basilique Notre-Dame de Fourvière",
+      "name_zh": "富尔维耶圣母大殿",
       "name_fr": "Basilique Notre-Dame de Fourvière",
       "name_de": "Basilika Notre-Dame de Fourvière",
       "price_en": "Free (Tower: €10)",
-      "price_ja": "無料（タワー：10ユーロ）",
+      "price_ja": "Free (Tower: €10)",
       "price_es": "Gratis (Torre: 10€)",
-      "price_zh": "免费（塔楼：10 欧元）",
+      "price_zh": "免费（塔楼： € 10 ）",
       "price_fr": "Gratuit (Tour : 10 €)",
-      "price_de": "Kostenlos (Turm: 10 €)"
+      "price_de": "Kostenlos (Turm: 10 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_2",
@@ -5575,14 +5980,14 @@ const candidateSpotsDatabase = {
       "desc_ja": "ヴュー リヨンにある荘厳なゴシック様式の大聖堂。珍しい 14 世紀の天文時計がある。",
       "desc_es": "Majestuosa catedral gótica en Vieux Lyon con un raro reloj astronómico del siglo XIV.",
       "desc_zh": "位于里昂老城的雄伟哥特式大教堂，拥有罕见的 14 世纪天文钟。",
-      "desc_fr": "Majestueuse cathédrale gothique du Vieux Lyon abritant une rare horloge astronomique du XIVe siècle.",
-      "desc_de": "Majestätische gotische Kathedrale in Vieux Lyon mit einer seltenen astronomischen Uhr aus dem 14. Jahrhundert.",
+      "desc_fr": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "desc_de": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Cathédrale Saint-Jean-Baptiste",
       "name_ja": "サン ジャン バティスト大聖堂",
       "name_es": "Catedral de San Juan Bautista",
@@ -5594,7 +5999,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_3",
@@ -5613,29 +6021,32 @@ const candidateSpotsDatabase = {
       "lat": 45.7597,
       "lng": 4.8197,
       "desc_en": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
-      "desc_ja": "紀元前 15 年にフルヴィエールの丘の中腹に建てられたローマ時代の壮大な円形劇場。今でも夏の舞台芸術フェスティバルが開催されている。",
+      "desc_ja": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
       "desc_es": "Gran anfiteatro romano del siglo XV a.C. construido en la ladera de la colina de Fourvière, que todavía alberga festivales de artes escénicas de verano.",
       "desc_zh": "建于公元前 15 年的宏伟罗马圆形剧场，建于富维耶山坡上，至今仍举办夏季表演艺术节。",
-      "desc_fr": "Grand amphithéâtre romain du 15 avant J.-C. construit à flanc de colline de Fourvière et accueillant encore aujourd'hui des festivals d'arts du spectacle en été.",
+      "desc_fr": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
       "desc_de": "Prächtiges römisches Amphitheater aus dem 15. Jahrhundert v. Chr., erbaut in den Hügel von Fourvière, in dem noch immer im Sommer Festivals der darstellenden Künste stattfinden.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Ancient Theatre of Fourvière (Théâtres Romains)",
       "name_ja": "フルヴィエールの古代劇場 (ローマ劇場)",
-      "name_es": "Antiguo Teatro de Fourvière (Théâtres Romains)",
+      "name_es": "Ancient Theatre of Fourvière (Théâtres Romains)",
       "name_zh": "富维耶古剧院（罗马人剧院）",
       "name_fr": "Théâtre antique de Fourvière (Théâtres Romains)",
       "name_de": "Antikes Theater von Fourvière (Théâtres Romains)",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "自由的",
-      "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_zh": "无消耗",
+      "price_fr": "Free",
+      "price_de": "Free",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_4",
@@ -5661,22 +6072,25 @@ const candidateSpotsDatabase = {
       "desc_de": "Einer der größten Fußgängerplätze Europas, in dessen Mittelpunkt eine Reiterstatue von König Ludwig XIV. steht.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Place Bellecour",
       "name_ja": "ベルクール広場",
-      "name_es": "Plaza Bellecour",
+      "name_es": "Place Bellecour",
       "name_zh": "白莱果广场",
       "name_fr": "Place Bellecour",
       "name_de": "Place Bellecour",
       "price_en": "Free",
       "price_ja": "無料",
-      "price_es": "Gratis",
-      "price_zh": "自由的",
+      "price_es": "Free",
+      "price_zh": "无消耗",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_5",
@@ -5699,25 +6113,28 @@ const candidateSpotsDatabase = {
       "desc_es": "Animada plaza urbana enmarcada por el Hôtel de Ville y el Museo de Bellas Artes, que alberga la fuente monumental de Frédéric-Auguste Bartholdi.",
       "desc_zh": "充满活力的城市广场，周围有市政厅和美术博物馆，以弗雷德里克·奥古斯特·巴托尔迪的纪念喷泉为特色。",
       "desc_fr": "Place urbaine animée encadrée par l'Hôtel de Ville et le Musée des Beaux-Arts, avec la fontaine monumentale de Frédéric-Auguste Bartholdi.",
-      "desc_de": "Belebter Stadtplatz, eingerahmt vom Hôtel de Ville und dem Museum der Schönen Künste, mit dem monumentalen Brunnen von Frédéric-Auguste Bartholdi.",
+      "desc_de": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Place des Terreaux & Bartholdi Fountain",
-      "name_ja": "テロー広場とバルトルディの噴水",
+      "name_ja": "Place des Terreaux & Bartholdi Fountain",
       "name_es": "Plaza des Terreaux y fuente Bartholdi",
       "name_zh": "沃土广场和巴托尔迪喷泉",
       "name_fr": "Place des Terreaux et fontaine Bartholdi",
-      "name_de": "Place des Terreaux und Bartholdi-Brunnen",
+      "name_de": "Place des Terreaux & Bartholdi Fountain",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
       "price_zh": "自由的",
-      "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_fr": "Free",
+      "price_de": "Free",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_6",
@@ -5742,9 +6159,9 @@ const candidateSpotsDatabase = {
       "desc_fr": "Magnifique ancien hôpital du XIIe siècle restauré en un monument patrimonial de luxe avec cours, restaurants et boutiques.",
       "desc_de": "Prächtiges ehemaliges Krankenhaus aus dem 12. Jahrhundert, das zu einem luxuriösen historischen Wahrzeichen mit Innenhöfen, Restaurants und Geschäften umgebaut wurde.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Grand Hôtel-Dieu",
@@ -5755,10 +6172,13 @@ const candidateSpotsDatabase = {
       "name_de": "Grand Hôtel-Dieu",
       "price_en": "Free entry",
       "price_ja": "入場無料",
-      "price_es": "Entrada gratuita",
+      "price_es": "Free entry",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_7",
@@ -5777,11 +6197,11 @@ const candidateSpotsDatabase = {
       "lat": 45.7708,
       "lng": 4.83,
       "desc_en": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
-      "desc_ja": "古代にガリアの部族の代表者がクロワ ルッスの丘に集まった歴史あるローマの円形競技場。",
-      "desc_es": "Histórico anfiteatro romano donde en la antigüedad se reunían delegados de las tribus galas en la colina de Croix-Rousse.",
+      "desc_ja": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "desc_es": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
       "desc_zh": "历史悠久的罗马圆形剧场，古代高卢部落的代表聚集在克鲁瓦鲁斯山上。",
       "desc_fr": "Amphithéâtre romain historique où les délégués des tribus gauloises se réunissaient dans l'Antiquité sur la colline de la Croix-Rousse.",
-      "desc_de": "Historisches römisches Amphitheater, in dem sich in der Antike Delegierte gallischer Stämme auf dem Hügel Croix-Rousse versammelten.",
+      "desc_de": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
@@ -5792,14 +6212,17 @@ const candidateSpotsDatabase = {
       "name_ja": "三人のガリア人の円形劇場",
       "name_es": "Anfiteatro de los Tres Galos",
       "name_zh": "三高卢露天剧场",
-      "name_fr": "Amphithéâtre des Trois Gaules",
+      "name_fr": "Amphitheatre of the Three Gauls",
       "name_de": "Amphitheater der drei Gallier",
       "price_en": "Free",
-      "price_ja": "無料",
+      "price_ja": "Free",
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_8",
@@ -5822,11 +6245,11 @@ const candidateSpotsDatabase = {
       "desc_es": "Impresionante iglesia de estilo gótico flamígero en la península de Presqu'île con chapiteles asimétricos e historia de cripta.",
       "desc_zh": "位于普雷斯吉勒半岛的引人注目的华丽哥特式教堂，拥有不对称的尖塔和地下室的历史。",
       "desc_fr": "Remarquable église gothique flamboyante sur la presqu'île avec flèches asymétriques et crypte historique.",
-      "desc_de": "Beeindruckende extravagante gotische Kirche auf der Halbinsel Presqu'île mit asymmetrischen Türmen und Kryptageschichte.",
+      "desc_de": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Église Saint-Nizier",
@@ -5840,7 +6263,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_9",
@@ -5859,29 +6285,32 @@ const candidateSpotsDatabase = {
       "lat": 45.8192,
       "lng": 4.6222,
       "desc_en": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
-      "desc_ja": "ユネスコの世界遺産に登録されているドミニコ会修道院。エヴーにあるモダニズム建築家ル コルビュジエによって設計されました。",
+      "desc_ja": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
       "desc_es": "Priorato dominicano declarado Patrimonio de la Humanidad por la UNESCO diseñado por el arquitecto modernista Le Corbusier en Éveux.",
-      "desc_zh": "联合国教科文组织世界遗产多米尼加修道院由现代主义建筑师勒柯布西耶设计，位于埃沃。",
-      "desc_fr": "Prieuré dominicain inscrit au patrimoine mondial de l'UNESCO et conçu par l'architecte moderniste Le Corbusier à Éveux.",
+      "desc_zh": "由现代主义建筑师Le Corbusier在Éveux设计的联合国教科文组织世界遗产多米尼加修道院。",
+      "desc_fr": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
       "desc_de": "Dominikanisches Priorat, das zum UNESCO-Weltkulturerbe gehört und vom modernistischen Architekten Le Corbusier in Éveux entworfen wurde.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Sainte Marie de La Tourette Monastery",
       "name_ja": "サント マリー ド ラ トゥレット修道院",
       "name_es": "Monasterio de Santa María de La Tourette",
       "name_zh": "圣玛丽德拉图雷特修道院",
-      "name_fr": "Monastère Sainte Marie de La Tourette",
+      "name_fr": "Sainte Marie de La Tourette Monastery",
       "name_de": "Kloster Sainte Marie de La Tourette",
       "price_en": "Entry: €10",
       "price_ja": "入場料: €10",
       "price_es": "Entrada: 10€",
-      "price_zh": "入场费：10 欧元",
+      "price_zh": "入场费： € 10",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_10",
@@ -5912,7 +6341,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Château de Rochetaillée (Henri Malartre Museum)",
-      "name_ja": "ロシュタイユ城（アンリ・マラルトル美術館）",
+      "name_ja": "Château de Rochetaillée (Henri Malartre Museum)",
       "name_es": "Castillo de Rochetaillée (Museo Henri Malartre)",
       "name_zh": "Château de Rochetaillée（亨利·马拉特博物馆）",
       "name_fr": "Château de Rochetaillée (Musée Henri Malartre)",
@@ -5922,7 +6351,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_11",
@@ -5963,7 +6395,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_12",
@@ -6004,7 +6439,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_13",
@@ -6045,7 +6483,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_14",
@@ -6086,7 +6527,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_15",
@@ -6127,7 +6571,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_16",
@@ -6168,7 +6615,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_17",
@@ -6209,7 +6659,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_18",
@@ -6250,7 +6703,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7€",
       "price_zh": "入场费：7欧元",
       "price_fr": "Entrée : 7 €",
-      "price_de": "Eintritt: 7 €"
+      "price_de": "Eintritt: 7 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_19",
@@ -6291,7 +6747,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_20",
@@ -6332,7 +6791,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_21",
@@ -6373,7 +6835,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_22",
@@ -6414,7 +6879,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_23",
@@ -6455,7 +6923,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_24",
@@ -6496,7 +6967,10 @@ const candidateSpotsDatabase = {
       "price_es": "Comida: 25€-40€",
       "price_zh": "膳食：25 欧元 - 40 欧元",
       "price_fr": "Repas : 25 – 40 €",
-      "price_de": "Mahlzeit: 25–40 €"
+      "price_de": "Mahlzeit: 25–40 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_25",
@@ -6537,7 +7011,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7€",
       "price_zh": "入场费：7欧元",
       "price_fr": "Entrée : 7 €",
-      "price_de": "Eintritt: 7 €"
+      "price_de": "Eintritt: 7 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_26",
@@ -6578,7 +7055,10 @@ const candidateSpotsDatabase = {
       "price_es": "Porción: 4,50 €",
       "price_zh": "切片：4.50 欧元",
       "price_fr": "Tranche : 4,50 €",
-      "price_de": "Stück: 4,50 €"
+      "price_de": "Stück: 4,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_27",
@@ -6619,7 +7099,10 @@ const candidateSpotsDatabase = {
       "price_es": "Bombones: 12€–30€",
       "price_zh": "果仁糖：12 欧元 - 30 欧元",
       "price_fr": "Pralines : 12 à 30 €",
-      "price_de": "Pralinen: 12–30 €"
+      "price_de": "Pralinen: 12–30 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_28",
@@ -6660,7 +7143,10 @@ const candidateSpotsDatabase = {
       "price_es": "Comida: 30€–45€",
       "price_zh": "膳食： 30 欧元 - 45 欧元",
       "price_fr": "Repas : 30 € – 45 €",
-      "price_de": "Mahlzeit: 30–45 €"
+      "price_de": "Mahlzeit: 30–45 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_29",
@@ -6701,7 +7187,10 @@ const candidateSpotsDatabase = {
       "price_es": "Plato principal: 18€–28€",
       "price_zh": "主电源：18 欧元–28 欧元",
       "price_fr": "Plats : 18 € – 28 €",
-      "price_de": "Hauptgericht: 18–28 €"
+      "price_de": "Hauptgericht: 18–28 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "lyon_30",
@@ -6742,7 +7231,10 @@ const candidateSpotsDatabase = {
       "price_es": "Menú: 185€–320€",
       "price_zh": "菜单：185 欧元–320 欧元",
       "price_fr": "Menus : 185 € – 320 €",
-      "price_de": "Menü: 185–320 €"
+      "price_de": "Menü: 185–320 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_31",
@@ -6783,7 +7275,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "lyon_32",
@@ -6824,7 +7319,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_33",
@@ -6865,7 +7363,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_34",
@@ -6906,7 +7407,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_35",
@@ -6947,7 +7451,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_36",
@@ -6988,7 +7495,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_37",
@@ -7029,7 +7539,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_38",
@@ -7070,7 +7583,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_39",
@@ -7111,7 +7627,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_40",
@@ -7152,7 +7671,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_41",
@@ -7193,7 +7715,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_42",
@@ -7234,7 +7759,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_43",
@@ -7275,7 +7803,10 @@ const candidateSpotsDatabase = {
       "price_es": "Espectáculo: 11€",
       "price_zh": "演出：11 欧元",
       "price_fr": "Spectacle : 11 €",
-      "price_de": "Show: 11 €"
+      "price_de": "Show: 11 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_44",
@@ -7316,7 +7847,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16,50€",
       "price_zh": "入场费：16.50 欧元",
       "price_fr": "Entrée : 16,50 €",
-      "price_de": "Eintritt: 16,50 €"
+      "price_de": "Eintritt: 16,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "lyon_45",
@@ -7357,7 +7891,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "lyon_46",
@@ -7394,11 +7931,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Planétarium de Vaulx-en-Velin",
       "name_de": "Planétarium de Vaulx-en-Velin",
       "price_en": "Entry: €10",
-      "price_ja": "入場料: €10",
+      "price_ja": "Entry: €10",
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     }
   ],
   "Marseille, France": [
@@ -7432,7 +7972,7 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Basilique Notre-Dame de la Garde",
       "name_ja": "ノートルダム ド ラ ガルド大聖堂",
-      "name_es": "Basílica de Notre-Dame de la Garde",
+      "name_es": "Basilique Notre-Dame de la Garde",
       "name_zh": "守护圣母圣殿",
       "name_fr": "Basilique Notre-Dame de la Garde",
       "name_de": "Basilique Notre-Dame de la Garde",
@@ -7441,7 +7981,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_2",
@@ -7482,7 +8025,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_3",
@@ -7505,7 +8051,7 @@ const candidateSpotsDatabase = {
       "desc_es": "Monumental catedral neobizantina del siglo XIX adornada con distintivas franjas de mármol verde y blanco con vistas al mar.",
       "desc_zh": "宏伟的 19 世纪新拜占庭式大教堂，装饰着独特的绿色和白色大理石条纹，俯瞰着大海。",
       "desc_fr": "Cathédrale néo-byzantine monumentale du XIXe siècle ornée de rayures de marbre vert et blanc distinctives surplombant la mer.",
-      "desc_de": "Monumentale neobyzantinische Kathedrale aus dem 19. Jahrhundert mit markanten grünen und weißen Marmorstreifen und Blick auf das Meer.",
+      "desc_de": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
@@ -7523,7 +8069,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_4",
@@ -7563,8 +8112,11 @@ const candidateSpotsDatabase = {
       "price_ja": "無料の敷地",
       "price_es": "Terrenos libres",
       "price_zh": "免费场地",
-      "price_fr": "Terrain gratuit",
-      "price_de": "Kostenloses Gelände"
+      "price_fr": "Free grounds",
+      "price_de": "Kostenloses Gelände",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_5",
@@ -7605,7 +8157,10 @@ const candidateSpotsDatabase = {
       "price_es": "Terrenos libres",
       "price_zh": "免费场地",
       "price_fr": "Terrain gratuit",
-      "price_de": "Kostenloses Gelände"
+      "price_de": "Kostenloses Gelände",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_6",
@@ -7646,7 +8201,10 @@ const candidateSpotsDatabase = {
       "price_es": "Terrenos libres",
       "price_zh": "免费场地",
       "price_fr": "Terrain gratuit",
-      "price_de": "Kostenloses Gelände"
+      "price_de": "Kostenloses Gelände",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_7",
@@ -7668,7 +8226,7 @@ const candidateSpotsDatabase = {
       "desc_ja": "ユネスコ世界遺産に登録されている、ル コルビュジエ設計のモダニズム住宅街。公共の屋上テラス、ホテル、デザイン ショップが併設されています。",
       "desc_es": "Bloque de viviendas residenciales modernistas, declarado Patrimonio de la Humanidad por la UNESCO, diseñado por Le Corbusier, con terraza pública en la azotea, hotel y tiendas de diseño.",
       "desc_zh": "由勒柯布西耶设计的被联合国教科文组织列为世界遗产的现代主义住宅区，设有公共屋顶露台、酒店和设计商店。",
-      "desc_fr": "Immeuble résidentiel moderniste, classé au patrimoine mondial de l'UNESCO, conçu par Le Corbusier, comprenant un toit-terrasse public, un hôtel et des boutiques de design.",
+      "desc_fr": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
       "desc_de": "Von Le Corbusier entworfenes, zum UNESCO-Weltkulturerbe gehörendes, modernistisches Wohngebäude mit öffentlicher Dachterrasse, Hotel und Designgeschäften.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
@@ -7687,7 +8245,10 @@ const candidateSpotsDatabase = {
       "price_es": "Áreas públicas gratuitas",
       "price_zh": "免费公共区域",
       "price_fr": "Espaces publics gratuits",
-      "price_de": "Kostenlose öffentliche Bereiche"
+      "price_de": "Kostenlose öffentliche Bereiche",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_8",
@@ -7719,16 +8280,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Abbaye Saint-Victor",
       "name_ja": "サン ヴィクトール修道院",
-      "name_es": "Abadía de San Víctor",
+      "name_es": "Abbaye Saint-Victor",
       "name_zh": "圣维克多修道院",
       "name_fr": "Abbaye Saint-Victor",
       "name_de": "Abtei Saint-Victor",
       "price_en": "Free (Crypt: €2)",
       "price_ja": "無料 (暗号通貨: €2)",
-      "price_es": "Gratis (Cripta: 2€)",
+      "price_es": "Free (Crypt: €2)",
       "price_zh": "免费（地穴：2 欧元）",
       "price_fr": "Gratuit (Crypte : 2 €)",
-      "price_de": "Kostenlos (Krypta: 2 €)"
+      "price_de": "Kostenlos (Krypta: 2 €)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_9",
@@ -7766,10 +8330,13 @@ const candidateSpotsDatabase = {
       "name_de": "Orange Vélodrome-Stadion",
       "price_en": "Tour: €18",
       "price_ja": "ツアー: €18",
-      "price_es": "Visita: 18€",
+      "price_es": "Tour: €18",
       "price_zh": "旅游：18 欧元",
       "price_fr": "Visite : 18 €",
-      "price_de": "Führung: 18 €"
+      "price_de": "Führung: 18 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_10",
@@ -7801,16 +8368,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Château d'If (If Island Fortress)",
       "name_ja": "Château d'If (イフ島要塞)",
-      "name_es": "Castillo de If (Fortaleza de la isla de If)",
+      "name_es": "Château d'If (If Island Fortress)",
       "name_zh": "伊夫城堡（伊夫岛堡垒）",
       "name_fr": "Château d'If (Forteresse de l'île d'If)",
       "name_de": "Château d'If (Festung der If-Insel)",
       "price_en": "Entry: €7 (Ferry: €11)",
-      "price_ja": "入場料: 7 ユーロ (フェリー: 11 ユーロ)",
+      "price_ja": "Entry: €7 (Ferry: €11)",
       "price_es": "Entrada: 7€ (Ferry: 11€)",
       "price_zh": "门票：7 欧元（渡轮：11 欧元）",
       "price_fr": "Entrée : 7 € (Berry : 11 €)",
-      "price_de": "Eintritt: 7 € (Fähre: 11 €)"
+      "price_de": "Entry: €7 (Ferry: €11)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_11",
@@ -7831,27 +8401,30 @@ const candidateSpotsDatabase = {
       "desc_en": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
       "desc_ja": "作家マルセル パニョルの回想録で有名になった 19 世紀の邸宅。現在は地中海映画を専門とする文化センターとなっている。",
       "desc_es": "Finca del siglo XIX que se hizo famosa gracias a las memorias del escritor Marcel Pagnol y ahora es un centro cultural dedicado al cine mediterráneo.",
-      "desc_zh": "这座 19 世纪的庄园因作家马塞尔·帕尼奥尔的回忆录而闻名，现在是一个致力于地中海电影的文化中心。",
-      "desc_fr": "Domaine du XIXe siècle rendu célèbre par les mémoires de l'écrivain Marcel Pagnol, aujourd'hui centre culturel dédié au cinéma méditerranéen.",
+      "desc_zh": "19世纪的庄园因作家马塞尔·帕尼奥尔（ Marcel Pagnol ）的回忆录而闻名，现在是一个致力于地中海电影的文化中心。",
+      "desc_fr": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
       "desc_de": "Anwesen aus dem 19. Jahrhundert, das durch die Memoiren des Schriftstellers Marcel Pagnol berühmt wurde, heute ein Kulturzentrum für mediterranes Kino.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Château de la Buzine ('My Mother's Castle')",
       "name_ja": "Château de la Buzine (「母の城」)",
       "name_es": "Château de la Buzine ('El castillo de mi madre')",
       "name_zh": "Château de la Buzine（“我母亲的城堡”）",
-      "name_fr": "Château de la Buzine",
-      "name_de": "Château de la Buzine („Das Schloss meiner Mutter“)",
+      "name_fr": "Château de la Buzine ('My Mother's Castle')",
+      "name_de": "Château de la Buzine ('My Mother's Castle')",
       "price_en": "Entry: €6",
-      "price_ja": "入場料: €6",
+      "price_ja": "Entry: €6",
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_12",
@@ -7872,27 +8445,30 @@ const candidateSpotsDatabase = {
       "desc_en": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
       "desc_ja": "ルディ リッチョッティが設計した、複雑な格子状のコンクリートの壁を持つ印象的な海辺の博物館。地中海文化を専門としています。",
       "desc_es": "Impresionante museo frente al mar diseñado por Rudy Ricciotti con intrincados muros de hormigón enrejados, dedicado a la cultura mediterránea.",
-      "desc_zh": "由 Rudy Ricciotti 设计的引人注目的海滨博物馆，拥有复杂的格子混凝土墙，致力于地中海文化。",
-      "desc_fr": "Remarquable musée en bord de mer conçu par Rudy Ricciotti avec des murs en béton à treillis complexes, dédié à la culture méditerranéenne.",
-      "desc_de": "Beeindruckendes, von Rudy Ricciotti entworfenes Museum am Meer mit komplizierten Gitterbetonwänden, das der mediterranen Kultur gewidmet ist.",
+      "desc_zh": "由Rudy Ricciotti设计的引人注目的海滨博物馆，拥有复杂的格子混凝土墙，致力于地中海文化。",
+      "desc_fr": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "desc_de": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "MuCEM (Museum of European and Mediterranean Civilisations)",
       "name_ja": "MuCEM (ヨーロッパ地中海文明博物館)",
-      "name_es": "MuCEM (Museo de las Civilizaciones Europeas y Mediterráneas)",
-      "name_zh": "MuCEM（欧洲和地中海文明博物馆）",
+      "name_es": "MuCEM (Museum of European and Mediterranean Civilisations)",
+      "name_zh": "MuCEM （欧洲和地中海文明博物馆）",
       "name_fr": "MuCEM (Musée des Civilisations de l'Europe et de la Méditerranée)",
-      "name_de": "MuCEM (Museum für europäische und mediterrane Zivilisationen)",
+      "name_de": "MuCEM (Museum of European and Mediterranean Civilisations)",
       "price_en": "Entry: €11",
       "price_ja": "入場料: €11",
       "price_es": "Entrada: 11€",
       "price_zh": "入场费：11 欧元",
-      "price_fr": "Entrée : 11 €",
-      "price_de": "Eintritt: 11 €"
+      "price_fr": "Entry: €11",
+      "price_de": "Entry: €11",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_13",
@@ -7913,7 +8489,7 @@ const candidateSpotsDatabase = {
       "desc_en": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
       "desc_ja": "先史時代のコスケ洞窟のハイテク没入型レプリカ。カランク山脈の深さ 37 メートルで発見された水中洞窟壁画を展示しています。",
       "desc_es": "Réplica inmersiva de alta tecnología de la cueva prehistórica de Cosquer, que muestra pinturas rupestres submarinas descubiertas a 37 m de profundidad en las Calanques.",
-      "desc_zh": "史前 Cosquer 洞穴的高科技沉浸式复制品，展示在卡朗格群岛 37m 深处发现的水下洞穴壁画。",
+      "desc_zh": "史前Cosquer洞穴的高科技沉浸式复制品，展示在Calanques深37米处发现的水下洞穴壁画。",
       "desc_fr": "Réplique immersive high-tech de la grotte préhistorique de Cosquer, présentant des peintures rupestres sous-marines découvertes à 37 m de profondeur dans les Calanques.",
       "desc_de": "Immersive High-Tech-Nachbildung der prähistorischen Cosquer-Höhle mit Unterwasser-Höhlenmalereien, die 37 m tief in den Calanques entdeckt wurden.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
@@ -7932,8 +8508,11 @@ const candidateSpotsDatabase = {
       "price_ja": "入場料: 16 ユーロ",
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
-      "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_fr": "Entry: €16",
+      "price_de": "Entry: €16",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_14",
@@ -7955,7 +8534,7 @@ const candidateSpotsDatabase = {
       "desc_ja": "古代ギリシャとローマの港跡に併設された市歴史博物館。2,600 年にわたるマルセイユの都市考古学が展示されている。",
       "desc_es": "Museo de historia de la ciudad adjunto a las ruinas del antiguo puerto griego y romano, que muestra 2600 años de arqueología urbana de Marsella.",
       "desc_zh": "附属于古希腊和罗马港口遗址的城市历史博物馆，展示了马赛2600年来的城市考古。",
-      "desc_fr": "Musée d'histoire de la ville rattaché aux ruines portuaires grecques et romaines antiques, présentant 2 600 ans d'archéologie urbaine de Marseille.",
+      "desc_fr": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
       "desc_de": "Stadtgeschichtliches Museum, das an antike griechische und römische Hafenruinen angeschlossen ist und 2.600 Jahre Stadtarchäologie von Marseille zeigt.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
@@ -7974,7 +8553,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Entry: €6",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_15",
@@ -7999,13 +8581,13 @@ const candidateSpotsDatabase = {
       "desc_fr": "Musée des Beaux-Arts dans l'aile du Palais Longchamp exposant des peintures de maîtres français et italiens des XVIe et XIXe siècles.",
       "desc_de": "Museum der schönen Künste im Flügel des Palais Longchamp mit französischen und italienischen Meistergemälden aus dem 16.–19. Jahrhundert.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Musée des Beaux-Arts de Marseille",
-      "name_ja": "マルセイユ美術館",
+      "name_ja": "Musée des Beaux-Arts de Marseille",
       "name_es": "Museo de Bellas Artes de Marsella",
       "name_zh": "马赛美术博物馆",
       "name_fr": "Musée des Beaux-Arts de Marseille",
@@ -8015,7 +8597,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_16",
@@ -8035,7 +8620,7 @@ const candidateSpotsDatabase = {
       "lng": 5.3778,
       "desc_en": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
       "desc_ja": "17 世紀の邸宅内にあり、ピカソ、エルンスト、ミロ、ジャコメッティによるモダンアートとシュルレアリスムのコレクションが展示されています。",
-      "desc_es": "Ubicado en una mansión del siglo XVII, presenta arte moderno y colecciones surrealistas de Picasso, Ernst, Miró y Giacometti.",
+      "desc_es": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
       "desc_zh": "坐落在一座 17 世纪的宅邸内，收藏有毕加索、恩斯特、米罗和贾科梅蒂的现代艺术作品和超现实主义收藏品。",
       "desc_fr": "Installé dans un manoir du XVIIe siècle, présentant des collections d'art moderne et surréalistes de Picasso, Ernst, Miró et Giacometti.",
       "desc_de": "Untergebracht in einem Herrenhaus aus dem 17. Jahrhundert mit moderner Kunst und surrealistischen Sammlungen von Picasso, Ernst, Miró und Giacometti.",
@@ -8052,11 +8637,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée Cantini",
       "name_de": "Musée Cantini",
       "price_en": "Entry: €6",
-      "price_ja": "入場料: €6",
+      "price_ja": "Entry: €6",
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_17",
@@ -8075,16 +8663,16 @@ const candidateSpotsDatabase = {
       "lat": 43.2506,
       "lng": 5.3942,
       "desc_en": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
-      "desc_ja": "1960 年代以降のポップ アート、ヌーボー レアリスム、アルテ ポーヴェラの主要な運動を展示する現代美術館。",
+      "desc_ja": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
       "desc_es": "Museo de arte contemporáneo que expone los principales movimientos del pop art, el nouveau realisme y el arte povera desde los años 60 en adelante.",
-      "desc_zh": "当代艺术博物馆，展出 20 世纪 60 年代以来的主要波普艺术、新现实主义和贫穷艺术运动。",
+      "desc_zh": "当代艺术博物馆展示了20世纪60年代以来的主要波普艺术、新现实主义和波韦拉艺术运动。",
       "desc_fr": "Musée d'Art contemporain exposant les principaux mouvements Pop Art, Nouveau Réalisme et Arte Povera des années 1960.",
       "desc_de": "Museum für zeitgenössische Kunst mit bedeutenden Pop-Art-, Nouveau Réalisme- und Arte Povera-Bewegungen ab den 1960er-Jahren.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "MAC (Musée d'Art Contemporain)",
       "name_ja": "MAC (現代美術館)",
@@ -8094,10 +8682,13 @@ const candidateSpotsDatabase = {
       "name_de": "MAC (Musée d'Art Contemporain)",
       "price_en": "Entry: €6",
       "price_ja": "入場料: €6",
-      "price_es": "Entrada: 6€",
+      "price_es": "Entry: €6",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_18",
@@ -8119,7 +8710,7 @@ const candidateSpotsDatabase = {
       "desc_ja": "パレ ロンシャン内にある自然史博物館。プロヴァンスの古生物学の標本、鉱物、動物学を豊富に展示。",
       "desc_es": "Museo de historia natural dentro del Palacio Longchamp que exhibe ricos especímenes de paleontología, minerales y zoología provenzales.",
       "desc_zh": "隆尚宫内的自然历史博物馆展示丰富的普罗旺斯古生物学标本、矿物和动物学。",
-      "desc_fr": "Musée d'Histoire naturelle à l'intérieur du Palais Longchamp présentant de riches spécimens de paléontologie provençale, de minéraux et de zoologie.",
+      "desc_fr": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
       "desc_de": "Naturhistorisches Museum im Palais Longchamp mit reichhaltigen paläontologischen Exemplaren, Mineralien und Zoologie aus der Provence.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
@@ -8138,7 +8729,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_19",
@@ -8159,17 +8753,17 @@ const candidateSpotsDatabase = {
       "desc_en": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
       "desc_ja": "元タバコ工場を利用した広大なクリエイティブ アート複合施設。アート ギャラリー、屋上テラス バー、スケートパークを備えている。",
       "desc_es": "Gran complejo de artes creativas dentro de una antigua fábrica de tabaco, con galerías de arte, un bar en la terraza en la azotea y una pista de patinaje.",
-      "desc_zh": "大型创意艺术综合体，位于前烟草工厂内，设有艺术画廊、屋顶露台酒吧和滑板公园。",
+      "desc_zh": "前烟草工厂内的大型创意艺术综合体，设有艺术画廊、屋顶露台酒吧和滑板公园。",
       "desc_fr": "Vaste complexe artistique installé dans une ancienne usine de tabac, comprenant des galeries d'art, un bar sur le toit-terrasse et un skatepark.",
-      "desc_de": "Riesiger kreativer Kunstkomplex in einer ehemaligen Tabakfabrik mit Kunstgalerien, Bar auf der Dachterrasse und Skatepark.",
+      "desc_de": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Friche la Belle de Mai",
-      "name_ja": "フリッシュ・ラ・ベル・ド・メ",
+      "name_ja": "Friche la Belle de Mai",
       "name_es": "Friche la Bella de Mai",
       "name_zh": "五月之美",
       "name_fr": "Friche la Belle de Mai",
@@ -8178,8 +8772,11 @@ const candidateSpotsDatabase = {
       "price_ja": "入場無料（展示品：5ユーロ）",
       "price_es": "Entrada gratuita (Exposiciones: 5 €)",
       "price_zh": "免费入场（展品：5 欧元）",
-      "price_fr": "Entrée gratuite (Expositions : 5 €)",
-      "price_de": "Freier Eintritt (Ausstellungen: 5 €)"
+      "price_fr": "Free entry (Exhibits: €5)",
+      "price_de": "Freier Eintritt (Ausstellungen: 5 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_20",
@@ -8198,19 +8795,19 @@ const candidateSpotsDatabase = {
       "lat": 43.2569,
       "lng": 5.3814,
       "desc_en": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
-      "desc_ja": "シャトー ボレリーにある陶磁器博物館。17 ～ 18 世紀のマルセイユの錫釉ファイアンス陶器や土器を展示。",
+      "desc_ja": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
       "desc_es": "Museo de cerámica en el castillo Borély, que exhibe cerámica y loza de Marsella de los siglos XVII y XVIII.",
       "desc_zh": "博雷利城堡的陶瓷博物馆展示 17 至 18 世纪马赛的锡釉彩陶器和陶器。",
       "desc_fr": "Musée de la céramique du château Borély présentant des poteries et faïences de Marseille en faïence émaillée d'étain des XVIIe et XVIIIe siècles.",
       "desc_de": "Keramikmuseum im Château Borély mit zinnglasierter Fayence-Keramik und Steingut aus Marseille aus dem 17.–18. Jahrhundert.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée de la Faïence (Château Borély)",
-      "name_ja": "ファイアンス美術館 (シャトー ボレリー)",
+      "name_ja": "Musée de la Faïence (Château Borély)",
       "name_es": "Museo de la Faïence (Château Borély)",
       "name_zh": "Musée de la Faïence（博雷利城堡）",
       "name_fr": "Musée de la Faïence (Château Borély)",
@@ -8220,7 +8817,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_21",
@@ -8257,11 +8857,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Chez Fonfon (Vallon des Auffes)",
       "name_de": "Chez Fonfon (Vallon des Auffes)",
       "price_en": "Bouillabaisse: €65–€85",
-      "price_ja": "ブイヤベース: €65–€85",
-      "price_es": "Bullabesa: 65€–85€",
+      "price_ja": "Bouillabaisse: €65–€85",
+      "price_es": "Bouillabaisse: €65–€85",
       "price_zh": "马赛鱼汤：65 欧元–85 欧元",
       "price_fr": "Bouillabaisse : 65 € – 85 €",
-      "price_de": "Bouillabaisse: 65–85 €"
+      "price_de": "Bouillabaisse: €65–€85",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_22",
@@ -8302,7 +8905,10 @@ const candidateSpotsDatabase = {
       "price_es": "Bullabesa: 70€",
       "price_zh": "马赛鱼汤：70 欧元",
       "price_fr": "Bouillabaisse : 70€",
-      "price_de": "Bouillabaisse: 70 €"
+      "price_de": "Bouillabaisse: €70",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_23",
@@ -8328,12 +8934,12 @@ const candidateSpotsDatabase = {
       "desc_de": "Lebhafter traditioneller Fischmarkt am Morgen entlang des Alten Hafens, wo lokale Fischer frischen Fang direkt von Booten verkaufen.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Marché aux Poissons du Vieux-Port",
-      "name_ja": "マルシェ オ ポワソン デュ ヴューポール",
+      "name_ja": "Marché aux Poissons du Vieux-Port",
       "name_es": "Mercado aux Poissons du Vieux-Port",
       "name_zh": "老港口市场",
       "name_fr": "Marché aux Poissons du Vieux-Port",
@@ -8342,8 +8948,11 @@ const candidateSpotsDatabase = {
       "price_ja": "見学無料",
       "price_es": "Gratis para visitar",
       "price_zh": "免费参观",
-      "price_fr": "Visite gratuite",
-      "price_de": "Kostenloser Besuch"
+      "price_fr": "Free to visit",
+      "price_de": "Kostenloser Besuch",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_24",
@@ -8369,7 +8978,7 @@ const candidateSpotsDatabase = {
       "desc_de": "Multiethnischer Straßenmarkt mit dem Duft nordafrikanischer Gewürze, frischer Minze, Kräutern und nahöstlichem Baklava-Gebäck.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
@@ -8384,7 +8993,10 @@ const candidateSpotsDatabase = {
       "price_es": "Comida callejera: 3€–10€",
       "price_zh": "街头小吃： €3 - €10",
       "price_fr": "Cuisine de rue : 3 à 10 €",
-      "price_de": "Streetfood: 3–10 €"
+      "price_de": "Streetfood: 3–10 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "ma_25",
@@ -8411,7 +9023,7 @@ const candidateSpotsDatabase = {
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Four des Navettes",
@@ -8425,7 +9037,10 @@ const candidateSpotsDatabase = {
       "price_es": "Navettes: 5€–10€",
       "price_zh": "纳维茨：5 欧元至 10 欧元",
       "price_fr": "Navettes : 5 à 10 €",
-      "price_de": "Navettes: 5–10 €"
+      "price_de": "Navettes: 5–10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_26",
@@ -8456,7 +9071,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "La Samaritaine & Café de la Banque",
-      "name_ja": "ラ・サマリテーヌ＆カフェ・ド・ラ・バンク",
+      "name_ja": "La Samaritaine & Café de la Banque",
       "name_es": "La Samaritaine y Café de la Banque",
       "name_zh": "莎玛丽丹银行 (La Samaritaine) 和银行咖啡馆",
       "name_fr": "La Samaritaine & Café de la Banque",
@@ -8466,7 +9081,10 @@ const candidateSpotsDatabase = {
       "price_es": "Pastis y bebidas: 4€–8€",
       "price_zh": "茴香酒和饮料： €4–€8",
       "price_fr": "Pastis & Boissons : 4 à 8 €",
-      "price_de": "Pastis & Getränke: 4–8 €"
+      "price_de": "Pastis & Getränke: 4–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_27",
@@ -8485,7 +9103,7 @@ const candidateSpotsDatabase = {
       "lat": 43.2981,
       "lng": 5.3689,
       "desc_en": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
-      "desc_ja": "ル パニエの職人ブティックでは、ペタンク ボールの歴史や本物のオリーブ オイル サボン ド マルセイユ石鹸を展示しています。",
+      "desc_ja": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
       "desc_es": "Boutiques artesanales en Le Panier que exhiben la historia de las bolas de petanca y auténticos jabones Savon de Marseille de aceite de oliva.",
       "desc_zh": "Le Panier 的手工精品店展示滚球历史和正宗的橄榄油 Savon de Marseille 香皂。",
       "desc_fr": "Boutiques artisanales du Panier présentant l'histoire des boules de pétanque et d'authentiques savons de Marseille à l'huile d'olive.",
@@ -8503,11 +9121,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Maison de la Boule & Savonneries Marseillaises",
       "name_de": "Maison de la Boule & Savonneries Marseillaises",
       "price_en": "Soaps: €3–€8",
-      "price_ja": "石鹸：3ユーロ～8ユーロ",
+      "price_ja": "Soaps: €3–€8",
       "price_es": "Jabones: 3€–8€",
       "price_zh": "肥皂： 3 欧元 - 8 欧元",
       "price_fr": "Savons : 3 à 8 €",
-      "price_de": "Seifen: 3–8 €"
+      "price_de": "Seifen: 3–8 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "ma_28",
@@ -8536,10 +9157,10 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "L'Épuisette",
       "name_ja": "レピュイゼット",
-      "name_es": "El Puisette",
+      "name_es": "L'Épuisette",
       "name_zh": "埃普塞特",
       "name_fr": "L'Épuisette",
       "name_de": "L'Épuisette",
@@ -8548,7 +9169,10 @@ const candidateSpotsDatabase = {
       "price_es": "Menú Degustación: 95€ – 160€",
       "price_zh": "品尝菜单：95 欧元–160 欧元",
       "price_fr": "Menu Dégustation : 95 € – 160 €",
-      "price_de": "Degustationsmenü: 95–160 €"
+      "price_de": "Degustationsmenü: 95–160 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_29",
@@ -8589,7 +9213,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_30",
@@ -8620,7 +9247,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Vallon des Auffes",
-      "name_ja": "ヴァロン・デ・オーフ",
+      "name_ja": "Vallon des Auffes",
       "name_es": "Vallon des Auffes",
       "name_zh": "瓦隆德奥菲斯",
       "name_fr": "Vallon des Auffes",
@@ -8630,7 +9257,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_31",
@@ -8658,7 +9288,7 @@ const candidateSpotsDatabase = {
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Corniche du Président John F. Kennedy",
       "name_ja": "コーニッシュ デュ プレジデント ジョン F. ケネディ",
@@ -8671,7 +9301,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_32",
@@ -8700,7 +9333,7 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Cours Julien",
       "name_ja": "クール ジュリアン",
       "name_es": "Curso Julien",
@@ -8712,7 +9345,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_33",
@@ -8753,7 +9389,10 @@ const candidateSpotsDatabase = {
       "price_es": "Patio libre",
       "price_zh": "庭院免费",
       "price_fr": "Cour gratuite",
-      "price_de": "Hof frei"
+      "price_de": "Hof frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "ma_34",
@@ -8794,7 +9433,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_35",
@@ -8835,7 +9477,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_36",
@@ -8876,7 +9521,10 @@ const candidateSpotsDatabase = {
       "price_es": "Ferry: 11€",
       "price_zh": "渡轮：11 欧元",
       "price_fr": "Ferry : 11 €",
-      "price_de": "Fähre: 11 €"
+      "price_de": "Fähre: 11 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_37",
@@ -8917,7 +9565,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_38",
@@ -8958,7 +9609,10 @@ const candidateSpotsDatabase = {
       "price_es": "Parque gratuito",
       "price_zh": "免费公园",
       "price_fr": "Parc gratuit",
-      "price_de": "Kostenloser Park"
+      "price_de": "Kostenloser Park",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_39",
@@ -8999,7 +9653,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 9€",
       "price_zh": "门票：9欧元",
       "price_fr": "Billet : 9 €",
-      "price_de": "Ticket: 9 €"
+      "price_de": "Ticket: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_40",
@@ -9040,7 +9697,10 @@ const candidateSpotsDatabase = {
       "price_es": "Crucero: 16€–30€",
       "price_zh": "游轮：16 欧元至 30 欧元",
       "price_fr": "Croisière : 16 – 30 €",
-      "price_de": "Kreuzfahrt: 16–30 €"
+      "price_de": "Kreuzfahrt: 16–30 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "ma_41",
@@ -9081,7 +9741,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_42",
@@ -9122,7 +9785,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 22€",
       "price_zh": "门票：22欧元",
       "price_fr": "Billet : 22 €",
-      "price_de": "Ticket: 22 €"
+      "price_de": "Ticket: 22 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "ma_43",
@@ -9163,7 +9829,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita al parque",
       "price_zh": "免费公园入场",
       "price_fr": "Entrée gratuite au parc",
-      "price_de": "Kostenloser Parkeintritt"
+      "price_de": "Kostenloser Parkeintritt",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ],
   "Munich, Germany": [
@@ -9206,7 +9875,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_2",
@@ -9247,7 +9919,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_3",
@@ -9288,7 +9963,10 @@ const candidateSpotsDatabase = {
       "price_es": "Palacio: 10€",
       "price_zh": "宫殿：10欧元",
       "price_fr": "Palais : 10 €",
-      "price_de": "Palast: 10 €"
+      "price_de": "Palast: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_4",
@@ -9329,7 +10007,10 @@ const candidateSpotsDatabase = {
       "price_es": "Residencia: 10€",
       "price_zh": "宫殿：10 欧元",
       "price_fr": "Résidence : 10 €",
-      "price_de": "Residenz: 10 €"
+      "price_de": "Residenz: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_5",
@@ -9370,7 +10051,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_6",
@@ -9411,7 +10095,10 @@ const candidateSpotsDatabase = {
       "price_es": "Museo: 10€",
       "price_zh": "博物馆：10 欧元",
       "price_fr": "Musée : 10 €",
-      "price_de": "Museum: 10 €"
+      "price_de": "Museum: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_7",
@@ -9452,7 +10139,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 15€",
       "price_zh": "入场费：15 欧元",
       "price_fr": "Entrée : 15 €",
-      "price_de": "Eintritt: 15 €"
+      "price_de": "Eintritt: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_8",
@@ -9493,7 +10183,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7€–10€",
       "price_zh": "门票：7-10 欧元",
       "price_fr": "Entrée : 7 € – 10 €",
-      "price_de": "Eintritt: 7–10 €"
+      "price_de": "Eintritt: 7–10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_9",
@@ -9534,7 +10227,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "m_10",
@@ -9575,7 +10271,10 @@ const candidateSpotsDatabase = {
       "price_es": "Cerveza Masa: 10,80€",
       "price_zh": "大众啤酒：10.80 欧元",
       "price_fr": "Bière de messe : 10,80 €",
-      "price_de": "Massenbier: 10,80 €"
+      "price_de": "Massenbier: 10,80 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "m_11",
@@ -9616,7 +10315,10 @@ const candidateSpotsDatabase = {
       "price_es": "Plato principal: 14€–22€",
       "price_zh": "主电源：14 欧元–22 欧元",
       "price_fr": "Plats : 14 € – 22 €",
-      "price_de": "Hauptgericht: 14–22 €"
+      "price_de": "Hauptgericht: 14–22 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "m_12",
@@ -9657,7 +10359,10 @@ const candidateSpotsDatabase = {
       "price_es": "Donuts: 2,80€",
       "price_zh": "甜甜圈：2.80 欧元",
       "price_fr": "Beignets : 2,80 €",
-      "price_de": "Donuts: 2,80 €"
+      "price_de": "Donuts: 2,80 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     }
   ],
   "Nice, France": [
@@ -9696,10 +10401,13 @@ const candidateSpotsDatabase = {
       "name_de": "Promenade des Anglais",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_2",
@@ -9733,13 +10441,16 @@ const candidateSpotsDatabase = {
       "name_es": "Parque de la Colina del Castillo (Colline du Château)",
       "name_zh": "城堡山公园 (Colline du Château)",
       "name_fr": "Parc de la Colline du Château (Colline du Château)",
-      "name_de": "Castle Hill Park (Colline du Château)",
+      "name_de": "Schlossbergpark (Colline du Château)",
       "price_en": "Free entry",
       "price_ja": "入場無料",
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_3",
@@ -9769,17 +10480,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Old Town Nice (Vieux Nice)",
-      "name_ja": "ニース旧市街 (ヴューニース)",
+      "name_ja": "ニース旧市街 (ヴュー・ニース)",
       "name_es": "Casco antiguo de Niza (Vieux Nice)",
       "name_zh": "尼斯老城 (Vieux Nice)",
-      "name_fr": "Vieille Ville de Nice (Vieux Nice)",
+      "name_fr": "Vieille ville de Nice",
       "name_de": "Altstadt von Nizza (Vieux Nice)",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "nice_4",
@@ -9812,14 +10526,17 @@ const candidateSpotsDatabase = {
       "name_ja": "クール サレヤ フラワー マーケット",
       "name_es": "Mercado de flores de Cours Saleya",
       "name_zh": "萨莱亚大道花卉市场",
-      "name_fr": "Marché aux fleurs du Cours Saleya",
+      "name_fr": "Marché aux fleurs du cours Saleya",
       "name_de": "Cours Saleya Blumenmarkt",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "nice_5",
@@ -9850,16 +10567,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Place Masséna",
       "name_ja": "マセナ広場",
-      "name_es": "Plaza Masséna",
+      "name_es": "Plaza Massena",
       "name_zh": "马塞纳广场",
       "name_fr": "Place Masséna",
       "name_de": "Place Masséna",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_6",
@@ -9889,17 +10609,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Marc Chagall National Museum",
-      "name_ja": "マルク シャガール国立美術館",
+      "name_ja": "マルク・シャガール国立美術館",
       "name_es": "Museo Nacional Marc Chagall",
       "name_zh": "马克·夏加尔国家博物馆",
       "name_fr": "Musée National Marc Chagall",
       "name_de": "Marc-Chagall-Nationalmuseum",
       "price_en": "Entry: €10",
-      "price_ja": "入場料: 10 ユーロ",
+      "price_ja": "入場料: €10",
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_7",
@@ -9935,11 +10658,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée Matisse",
       "name_de": "Matisse-Museum",
       "price_en": "Entry: €10",
-      "price_ja": "入場料: 10 ユーロ",
+      "price_ja": "入場料: €10",
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_8",
@@ -9969,17 +10695,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Museum of Modern & Contemporary Art (MAMAC)",
-      "name_ja": "近代 & 現代美術館 (MAMAC)",
+      "name_ja": "近現代美術館 (MAMAC)",
       "name_es": "Museo de Arte Moderno y Contemporáneo (MAMAC)",
       "name_zh": "现代及当代艺术博物馆 (MAMAC)",
       "name_fr": "Musée d'Art Moderne et Contemporain (MAMAC)",
       "name_de": "Museum für moderne und zeitgenössische Kunst (MAMAC)",
       "price_en": "Entry: €10",
-      "price_ja": "入場料: 10 ユーロ",
+      "price_ja": "入場料: €10",
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_9",
@@ -10015,11 +10744,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Cathédrale orthodoxe russe Saint-Nicolas",
       "name_de": "Russisch-orthodoxe St.-Nikolaus-Kathedrale",
       "price_en": "Entry: €5",
-      "price_ja": "入場料: 5 ユーロ",
+      "price_ja": "入場料: €5",
       "price_es": "Entrada: 5€",
       "price_zh": "入场费：5欧元",
       "price_fr": "Entrée : 5 €",
-      "price_de": "Eintritt: 5 €"
+      "price_de": "Eintritt: 5 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_10",
@@ -10056,10 +10788,13 @@ const candidateSpotsDatabase = {
       "name_de": "Promenade du Paillon",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_11",
@@ -10096,10 +10831,13 @@ const candidateSpotsDatabase = {
       "name_de": "Cimiez-Arenen und Klostergärten",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
-      "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
+      "price_fr": "Free access",
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_12",
@@ -10135,11 +10873,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée Masséna (Villa Masséna)",
       "name_de": "Masséna-Museum (Villa Masséna)",
       "price_en": "Entry: €10",
-      "price_ja": "入場料: 10 ユーロ",
+      "price_ja": "入場料: €10",
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_13",
@@ -10171,15 +10912,18 @@ const candidateSpotsDatabase = {
       "name_en": "Jules Chéret Fine Arts Museum",
       "name_ja": "ジュール シェレ美術館",
       "name_es": "Museo de Bellas Artes Jules Chéret",
-      "name_zh": "Jules Chéret 美术馆",
+      "name_zh": "儒勒·谢雷美术馆",
       "name_fr": "Musée des Beaux-Arts Jules Chéret",
       "name_de": "Jules Chéret Museum der Schönen Künste",
       "price_en": "Entry: €10",
-      "price_ja": "入場料: 10 ユーロ",
+      "price_ja": "入場料: €10",
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_14",
@@ -10213,13 +10957,16 @@ const candidateSpotsDatabase = {
       "name_es": "Plaza Garibaldi",
       "name_zh": "加里波第广场",
       "name_fr": "Place Garibaldi",
-      "name_de": "Platzieren Sie Garibaldi",
+      "name_de": "Place Garibaldi",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_15",
@@ -10237,7 +10984,7 @@ const candidateSpotsDatabase = {
       "lat": 43.6972,
       "lng": 7.2758,
       "desc_en": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
-      "desc_ja": "ロセッティ広場にある 17 世紀のローマ バロック様式の大聖堂。色とりどりのマジョリカ タイルのドームと 10 の側面礼拝堂がある。",
+      "desc_ja": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
       "desc_es": "Catedral barroca romana del siglo XVII en la Place Rossetti con una colorida cúpula de mayólica y diez capillas laterales.",
       "desc_zh": "罗塞蒂广场上的 17 世纪罗马巴洛克大教堂，拥有色彩缤纷的陶器瓷砖圆顶和十个侧教堂。",
       "desc_fr": "Cathédrale baroque romaine du XVIIe siècle sur la place Rossetti avec un dôme en faïences colorées et dix chapelles latérales.",
@@ -10251,15 +10998,18 @@ const candidateSpotsDatabase = {
       "name_en": "Nice Cathedral (Cathédrale Sainte-Réparate)",
       "name_ja": "ニース大聖堂 (Cathédrale Sainte-Réparate)",
       "name_es": "Catedral de Niza (Cathédrale Sainte-Réparate)",
-      "name_zh": "尼斯大教堂 (Cathédrale Sainte-Réparate)",
+      "name_zh": "尼斯大教堂（Cathédrale Sainte-Réparate）",
       "name_fr": "Cathédrale de Nice (Cathédrale Sainte-Réparate)",
       "name_de": "Kathedrale von Nizza (Cathédrale Sainte-Réparate)",
       "price_en": "Free entry",
-      "price_ja": "入場無料",
+      "price_ja": "Free entry",
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_16",
@@ -10277,9 +11027,9 @@ const candidateSpotsDatabase = {
       "lat": 43.6942,
       "lng": 7.2858,
       "desc_en": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
-      "desc_ja": "パステルカラーのベネチア風のファサード、伝統的なポイントゥ漁船、豪華ヨットが並ぶ写真映えする港。",
+      "desc_ja": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
       "desc_es": "Puerto fotogénico repleto de fachadas venecianas en colores pastel, tradicionales barcos de pesca pointu y yates de lujo.",
-      "desc_zh": "风景如画的港口，两旁排列着柔和的威尼斯风格外墙、传统的尖角渔船和豪华游艇。",
+      "desc_zh": "风景如画的港口两旁环绕着柔和的威尼斯外观、传统的波因图渔船和豪华游艇。",
       "desc_fr": "Port photogénique bordé de façades vénitiennes pastel, de bateaux de pêche pointus traditionnels et de yachts de luxe.",
       "desc_de": "Fotogener Hafen mit pastellfarbenen venezianischen Fassaden, traditionellen Pointu-Fischerbooten und Luxusyachten.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
@@ -10289,17 +11039,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Port Lympia (Old Port of Nice)",
-      "name_ja": "ポート リンピア (ニースの旧港)",
+      "name_ja": "Port Lympia (Old Port of Nice)",
       "name_es": "Port Lympia (Puerto Antiguo de Niza)",
       "name_zh": "林匹亚港（尼斯旧港）",
       "name_fr": "Port Lympia (Vieux Port de Nice)",
       "name_de": "Port Lympia (Alter Hafen von Nizza)",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "潇洒的走。",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_17",
@@ -10329,17 +11082,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
-      "name_ja": "フェニックス植物動物園 (パーク フェニックス)",
+      "name_ja": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
       "name_es": "Parque Zoológico y Botánico de Phoenix (Parc Phoenix)",
-      "name_zh": "凤凰城植物与动物园（Parc Phoenix）",
+      "name_zh": "凤凰城植物和动物园（Parc Phoenix）",
       "name_fr": "Parc botanique et zoologique de Phoenix (Parc Phoenix)",
       "name_de": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
       "price_en": "Entry: €5.40",
       "price_ja": "入場料: €5.40",
-      "price_es": "Entrada: 5,40 €",
+      "price_es": "Entrada: 5,40€",
       "price_zh": "入场费：5.40 欧元",
       "price_fr": "Entrée : 5,40 €",
-      "price_de": "Eintritt: 5,40 €"
+      "price_de": "Eintritt: 5,40 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_18",
@@ -10367,19 +11123,22 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Mont Boron Forest Park",
       "name_ja": "モンボロン森林公園",
-      "name_es": "Parque forestal Mont Boron",
+      "name_es": "Mont Boron Forest Park",
       "name_zh": "博隆山森林公园",
-      "name_fr": "Parc forestier du Mont Boron",
+      "name_fr": "Mont Boron Forest Park",
       "name_de": "Waldpark Mont Boron",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_19",
@@ -10398,7 +11157,7 @@ const candidateSpotsDatabase = {
       "lng": 7.2759,
       "desc_en": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
       "desc_ja": "1966 年からロセッティ広場にある伝説的なアイスクリーム パーラー。ラベンダー、ローズ、タイムなど、90 以上の職人のフレーバーを提供しています。",
-      "desc_es": "Heladería legendaria en Place Rossetti desde 1966, que sirve más de 90 sabores artesanales, incluidos lavanda, rosa y tomillo.",
+      "desc_es": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
       "desc_zh": "罗塞蒂广场 (Place Rossetti) 的传奇冰淇淋店，自 1966 年开业以来，提供 90 多种手工口味，包括薰衣草、玫瑰和百里香。",
       "desc_fr": "Glacier légendaire de la place Rossetti depuis 1966, proposant plus de 90 parfums artisanaux dont la lavande, la rose et le thym.",
       "desc_de": "Legendäre Eisdiele am Place Rossetti seit 1966, die über 90 handgemachte Eissorten serviert, darunter Lavendel, Rose und Thymian.",
@@ -10409,17 +11168,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Glacier Fenocchio",
-      "name_ja": "フェノッキオ氷河",
+      "name_ja": "フェノキオ氷河",
       "name_es": "Glaciar Fenocchio",
-      "name_zh": "费诺奇奥冰川",
+      "name_zh": "费诺基奥冰川",
       "name_fr": "Glacier Fenocchio",
       "name_de": "Gletscher Fenocchio",
       "price_en": "Scoops: €3–€6",
       "price_ja": "スクープ: €3–€6",
       "price_es": "Primicias: 3€–6€",
-      "price_zh": "勺子： €3–€6",
+      "price_zh": "勺子： 3 欧元 - 6 欧元",
       "price_fr": "Scoops : 3 à 6 €",
-      "price_de": "Kugeln: 3–6 €"
+      "price_de": "Kugeln: 3–6 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_20",
@@ -10437,7 +11199,7 @@ const candidateSpotsDatabase = {
       "lat": 43.6989,
       "lng": 7.2781,
       "desc_en": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
-      "desc_ja": "オールド ニースの有名なストリート フード スポット。熱々の薪で焼いたソッカ (ひよこ豆のパンケーキ) やニース風ストリート フードを提供。",
+      "desc_ja": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
       "desc_es": "Famoso local de comida callejera del casco antiguo de Niza que sirve socca (panqueque de garbanzos) al horno de leña y comida callejera Nicoise.",
       "desc_zh": "著名的老尼斯街头小吃店，供应热腾腾的木火 socca（鹰嘴豆煎饼）和尼斯街头小吃。",
       "desc_fr": "Célèbre restaurant de street food du Vieux-Nice servant de la socca (crêpe de pois chiches) au feu de bois très chaude et de la cuisine de rue niçoise.",
@@ -10457,9 +11219,12 @@ const candidateSpotsDatabase = {
       "price_en": "Snacks: €3–€10",
       "price_ja": "スナック: €3–€10",
       "price_es": "Aperitivos: 3€–10€",
-      "price_zh": "小吃： 3 欧元 - 10 欧元",
-      "price_fr": "Snacks : 3 à 10 €",
-      "price_de": "Snacks: 3–10 €"
+      "price_zh": "小吃： € 3– € 10",
+      "price_fr": "Snacks: €3–€10",
+      "price_de": "Snacks: 3–10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_21",
@@ -10490,16 +11255,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Le Plongeoir",
       "name_ja": "ル・プロンジョワール",
-      "name_es": "El Plongeoir",
-      "name_zh": "普朗格瓦",
+      "name_es": "Le Plongéoir",
+      "name_zh": "勒普隆格瓦",
       "name_fr": "Le Plongeoir",
       "name_de": "Le Plongeoir",
       "price_en": "Mains: €40–€80",
-      "price_ja": "メイン: €40–€80",
+      "price_ja": "Mains: €40–€80",
       "price_es": "Plato principal: 40€–80€",
-      "price_zh": "主电源：40 欧元–80 欧元",
-      "price_fr": "Plat : 40 – 80 €",
-      "price_de": "Hauptspeisen: 40–80 €"
+      "price_zh": "主食：40 欧元–80 欧元",
+      "price_fr": "Plats : 40 à 80 €",
+      "price_de": "Hauptgericht: 40–80 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "nice_22",
@@ -10519,7 +11287,7 @@ const candidateSpotsDatabase = {
       "desc_en": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
       "desc_ja": "ガリバルディ広場にある 1908 年創業の歴史あるシーフード店。新鮮な牡蠣の盛り合わせやウニのタワーで有名。",
       "desc_es": "Histórica institución de mariscos de 1908 en Place Garibaldi, famosa por sus platos de ostras frescas y sus torres de erizos de mar.",
-      "desc_zh": "历史悠久的海鲜餐厅，建于 1908 年，位于加里波第广场，以新鲜牡蛎拼盘和海胆塔而闻名。",
+      "desc_zh": "加里波第广场（ Place Garibaldi ）历史悠久的1908年海鲜店以新鲜的牡蛎拼盘和海胆塔而闻名。",
       "desc_fr": "Institution historique de fruits de mer datant de 1908, sur la place Garibaldi, célèbre pour ses plateaux d'huîtres fraîches et ses tours d'oursins.",
       "desc_de": "Historische Meeresfrüchte-Institution aus dem Jahr 1908 am Place Garibaldi, berühmt für frische Austernplatten und Seeigeltürme.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
@@ -10529,7 +11297,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Grand Café de Turin",
-      "name_ja": "グラン カフェ ド トリノ",
+      "name_ja": "グラン カフェ ドゥ トリノ",
       "name_es": "Gran Café de Turín",
       "name_zh": "都灵大咖啡馆",
       "name_fr": "Grand Café de Turin",
@@ -10538,8 +11306,11 @@ const candidateSpotsDatabase = {
       "price_ja": "メイン: €25–€60",
       "price_es": "Plato principal: 25€–60€",
       "price_zh": "主电源：25 欧元–60 欧元",
-      "price_fr": "Plat : 25 € – 60 €",
-      "price_de": "Hauptspeisen: 25–60 €"
+      "price_fr": "Plats : 25 à 60 €",
+      "price_de": "Mains: €25–€60",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_23",
@@ -10575,11 +11346,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Jardin Exotique d'Èze & Village Médiéval",
       "name_de": "Exotischer Garten von Èze und mittelalterliches Dorf",
       "price_en": "Garden: €7",
-      "price_ja": "庭園: 7 ユーロ",
+      "price_ja": "庭園: €7",
       "price_es": "Jardín: 7€",
       "price_zh": "花园：7欧元",
       "price_fr": "Jardin : 7 €",
-      "price_de": "Garten: 7 €"
+      "price_de": "Garten: 7 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_24",
@@ -10615,11 +11389,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Villa Ephrussi de Rothschild",
       "name_de": "Villa Ephrussi de Rothschild",
       "price_en": "Entry: €17",
-      "price_ja": "入場料: 17 ユーロ",
+      "price_ja": "入場料: €17",
       "price_es": "Entrada: 17€",
       "price_zh": "入场费：17 欧元",
       "price_fr": "Entrée : 17 €",
-      "price_de": "Eintritt: 17 €"
+      "price_de": "Eintritt: 17 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_25",
@@ -10643,7 +11420,7 @@ const candidateSpotsDatabase = {
       "desc_fr": "Ancienne demeure noble grecque reconstruite au bord de l'eau à Beaulieu-sur-Mer.",
       "desc_de": "Rekonstruiertes antikes griechisches Adelshaus direkt am Meer in Beaulieu-sur-Mer.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
@@ -10655,11 +11432,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Villa Kérylos",
       "name_de": "Villa Kérylos",
       "price_en": "Entry: €13",
-      "price_ja": "入場料: 13 ユーロ",
+      "price_ja": "入場料: €13",
       "price_es": "Entrada: 13€",
-      "price_zh": "入场费：13 欧元",
+      "price_zh": "入场费：13欧元",
       "price_fr": "Entrée : 13 €",
-      "price_de": "Eintritt: 13 €"
+      "price_de": "Eintritt: 13 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_26",
@@ -10695,11 +11475,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Vieille ville et citadelle de Villefranche-sur-Mer",
       "name_de": "Altstadt und Zitadelle von Villefranche-sur-Mer",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_27",
@@ -10729,17 +11512,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Saint-Paul-de-Vence Medieval Village",
-      "name_ja": "サン ポール ド ヴァンスの中世の村",
+      "name_ja": "サン ポール ド ヴァンス中世の村",
       "name_es": "Pueblo medieval de Saint-Paul-de-Vence",
       "name_zh": "圣保罗德旺斯中世纪村庄",
       "name_fr": "Village Médiéval de Saint-Paul-de-Vence",
       "name_de": "Mittelalterliches Dorf Saint-Paul-de-Vence",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_28",
@@ -10769,7 +11555,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Fondation Maeght",
-      "name_ja": "マーグ財団財団",
+      "name_ja": "マーグト財団",
       "name_es": "Fundación Maeght",
       "name_zh": "玛格基金会",
       "name_fr": "Fondation Maeght",
@@ -10779,7 +11565,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_29",
@@ -10811,7 +11600,7 @@ const candidateSpotsDatabase = {
       "name_en": "Prince's Palace of Monaco & The Rock",
       "name_ja": "モナコ大公宮殿とザ ロック",
       "name_es": "Palacio del Príncipe de Mónaco y La Roca",
-      "name_zh": "摩纳哥王子宫殿和岩石",
+      "name_zh": "摩纳哥王子宫殿和岩石区",
       "name_fr": "Palais Princier de Monaco et Le Rocher",
       "name_de": "Fürstenpalast von Monaco und der Felsen",
       "price_en": "Free access (€10 Palace)",
@@ -10819,7 +11608,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre (10€ Palacio)",
       "price_zh": "免费参观（宫殿 10 欧元）",
       "price_fr": "Accès libre (10 € Château)",
-      "price_de": "Freier Zugang (10 € Palast)"
+      "price_de": "Freier Zugang (10 € Palast)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_30",
@@ -10855,11 +11647,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée océanographique de Monaco",
       "name_de": "Ozeanographisches Museum von Monaco",
       "price_en": "Entry: €19",
-      "price_ja": "入場料: 19 ユーロ",
+      "price_ja": "入場料: €19",
       "price_es": "Entrada: 19€",
       "price_zh": "入场费：19 欧元",
       "price_fr": "Entrée : 19 €",
-      "price_de": "Eintritt: 19 €"
+      "price_de": "Eintritt: 19 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_31",
@@ -10897,9 +11692,12 @@ const candidateSpotsDatabase = {
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8 欧元",
+      "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "nice_32",
@@ -10926,20 +11724,23 @@ const candidateSpotsDatabase = {
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Casino de Monte-Carlo",
-      "name_ja": "モンテカルロのカジノ",
+      "name_ja": "カジノ デ モンテカルロ",
       "name_es": "Casino de Montecarlo",
       "name_zh": "蒙特卡洛赌场",
-      "name_fr": "Casino de Monte-Carlo",
+      "name_fr": "Casino de Monte Carlo",
       "name_de": "Casino von Monte-Carlo",
       "price_en": "Tour: €18",
-      "price_ja": "ツアー: 18 ユーロ",
+      "price_ja": "ツアー: €18",
       "price_es": "Visita: 18€",
       "price_zh": "旅游：18 欧元",
       "price_fr": "Visite : 18 €",
-      "price_de": "Führung: 18 €"
+      "price_de": "Führung: 18 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_33",
@@ -10969,17 +11770,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Basilique Saint-Michel Archange & Menton Old Town",
-      "name_ja": "サン ミシェル大聖堂とマントン旧市街",
-      "name_es": "Basílica de Saint-Michel Arcánge y casco antiguo de Menton",
-      "name_zh": "圣米歇尔大教堂拱门和芒通老城",
+      "name_ja": "サン ミッシェル大聖堂とマントン旧市街",
+      "name_es": "Basilique Saint-Michel Archange & Menton Old Town",
+      "name_zh": "圣米歇尔大教堂拱门和芒通老城区",
       "name_fr": "Basilique Saint-Michel Archange et vieille ville de Menton",
-      "name_de": "Basilique Saint-Michel Archange & Altstadt von Menton",
+      "name_de": "Basilique Saint-Michel Archange und Altstadt von Menton",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_34",
@@ -11015,11 +11819,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Le Sentier du Littoral (Cap d'Antibes)",
       "name_de": "Le Sentier du Littoral (Cap d'Antibes)",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_35",
@@ -11051,15 +11858,18 @@ const candidateSpotsDatabase = {
       "name_en": "Abbaye de Lérins (Saint-Honorat Island)",
       "name_ja": "レランス修道院 (サントノラ島)",
       "name_es": "Abbaye de Lérins (Isla Saint-Honorat)",
-      "name_zh": "Abbaye de Lérins（圣奥诺拉特岛）",
+      "name_zh": "Abbaye de Lérins （圣奥诺拉岛）",
       "name_fr": "Abbaye de Lérins (Île Saint-Honorat)",
       "name_de": "Abbaye de Lérins (Insel Saint-Honorat)",
       "price_en": "Ferry: €16",
-      "price_ja": "フェリー: 16 ユーロ",
+      "price_ja": "フェリー：16ユーロ",
       "price_es": "Ferry: 16€",
       "price_zh": "渡轮：16 欧元",
       "price_fr": "Ferry : 16 €",
-      "price_de": "Fähre: 16 €"
+      "price_de": "Fähre: 16 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "nice_36",
@@ -11078,19 +11888,19 @@ const candidateSpotsDatabase = {
       "lng": 7.3003,
       "desc_en": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
       "desc_ja": "1560 年の丘の上にある軍事要塞。ニースとヴィルフランシュ湾を見下ろし、イタリアまで続くパノラマの景色を望む。",
-      "desc_es": "Fortaleza militar de 1560 en la cima de una colina con vistas a Niza y la bahía de Villefranche con vistas panorámicas que se extienden hasta Italia.",
+      "desc_es": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
       "desc_zh": "建于 1560 年的山顶军事堡垒，俯瞰尼斯和自由城湾，可欣赏到意大利的全景。",
       "desc_fr": "Forteresse militaire de 1560 au sommet d'une colline surplombant Nice et la baie de Villefranche avec vue panoramique s'étendant jusqu'à l'Italie.",
       "desc_de": "Militärfestung aus dem Jahr 1560 auf einem Hügel mit Blick auf Nizza und die Bucht von Villefranche sowie Panoramablick bis nach Italien.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Fort du Mont Alban",
       "name_ja": "モンアルバン要塞",
-      "name_es": "Fuerte del Mont Alban",
+      "name_es": "Fort du Mont Alban",
       "name_zh": "阿尔班山堡",
       "name_fr": "Fort du Mont-Alban",
       "name_de": "Fort du Mont Alban",
@@ -11099,7 +11909,10 @@ const candidateSpotsDatabase = {
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ],
   "Paris, France": [
@@ -11138,11 +11951,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Tour Eiffel",
       "name_de": "Eiffelturm",
       "price_en": "Tickets: €18–€28",
-      "price_ja": "チケット: 18 ユーロ – 28 ユーロ",
+      "price_ja": "チケット: €18–€28",
       "price_es": "Entradas: 18€–28€",
-      "price_zh": "门票： 18 欧元 - 28 欧元",
+      "price_zh": "门票： € 18– € 28",
       "price_fr": "Billets : 18 € – 28 €",
-      "price_de": "Tickets: 18–28 €"
+      "price_de": "Tickets: 18–28 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_2",
@@ -11169,9 +11985,9 @@ const candidateSpotsDatabase = {
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Arc de Triomphe",
       "name_ja": "凱旋門",
       "name_es": "Arco de Triunfo",
@@ -11179,11 +11995,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Arc de Triomphe",
       "name_de": "Arc de Triomphe",
       "price_en": "Rooftop: €13",
-      "price_ja": "屋上: 13 ユーロ",
+      "price_ja": "屋上: €13",
       "price_es": "Azotea: 13€",
       "price_zh": "屋顶：13欧元",
-      "price_fr": "Toit : 13 €",
-      "price_de": "Dachterrasse: 13 €"
+      "price_fr": "Rooftop: €13",
+      "price_de": "Rooftop: €13",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_3",
@@ -11214,17 +12033,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Sainte-Chapelle",
-      "name_ja": "サント シャペル",
+      "name_ja": "サント・シャペル",
       "name_es": "Santa Capilla",
       "name_zh": "圣礼拜堂",
       "name_fr": "Sainte-Chapelle",
       "name_de": "Sainte-Chapelle",
       "price_en": "Entry: €11.50",
       "price_ja": "入場料: €11.50",
-      "price_es": "Entrada: 11,50 €",
-      "price_zh": "入场费：11.50 欧元",
+      "price_es": "Entrada: 11,50€",
+      "price_zh": "入场费： € 11.50",
       "price_fr": "Entrée : 11,50 €",
-      "price_de": "Eintritt: 11,50 €"
+      "price_de": "Eintritt: 11,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_4",
@@ -11252,12 +12074,12 @@ const candidateSpotsDatabase = {
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Sacré-Cœur Basilica & Montmartre",
-      "name_ja": "サクレ クール寺院とモンマルトル",
+      "name_ja": "サクレクール寺院とモンマルトル",
       "name_es": "Basílica del Sagrado Corazón y Montmartre",
-      "name_zh": "圣心大教堂和蒙马特",
+      "name_zh": "圣心大教堂和蒙马特高地",
       "name_fr": "Basilique du Sacré-Cœur et Montmartre",
       "name_de": "Basilika Sacré-Cœur und Montmartre",
       "price_en": "Free entry",
@@ -11265,7 +12087,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Free entry",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_5",
@@ -11290,13 +12115,13 @@ const candidateSpotsDatabase = {
       "desc_fr": "Chef-d'œuvre de l'architecture gothique française sur l'Île de la Cité.",
       "desc_de": "Meisterwerk französischer Gotik auf der Île de la Cité.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Notre-Dame Cathedral",
-      "name_ja": "ノートルダム大聖堂",
+      "name_ja": "Notre-Dame Cathedral",
       "name_es": "Catedral de Notre Dame",
       "name_zh": "巴黎圣母院",
       "name_fr": "Cathédrale Notre-Dame",
@@ -11304,9 +12129,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free parvis access",
       "price_ja": "パービスへの無料アクセス",
       "price_es": "Acceso gratuito a la plaza",
-      "price_zh": "免费访问parvis",
+      "price_zh": "免费进入帕尔维斯",
       "price_fr": "Accès gratuit au parvis",
-      "price_de": "Kostenloser Zugang zum Vorplatz"
+      "price_de": "Kostenloser Zugang zum Vorplatz",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_6",
@@ -11327,7 +12155,7 @@ const candidateSpotsDatabase = {
       "desc_en": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
       "desc_ja": "17 世紀の宮殿の中庭。ビューレンの縞模様の柱とバラ園が特徴。",
       "desc_es": "Patio de palacio del siglo XVII con columnas rayadas y jardines de rosas de Buren.",
-      "desc_zh": "17 世纪的宫殿庭院，拥有布伦的条纹柱和玫瑰花园。",
+      "desc_zh": "17世纪的宫殿庭院，设有布伦的条纹柱和玫瑰花园。",
       "desc_fr": "Cour de palais du XVIIe siècle avec colonnes rayées de Buren et roseraies.",
       "desc_de": "Palasthof aus dem 17. Jahrhundert mit gestreiften Säulen und Rosengärten von Buren.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
@@ -11343,11 +12171,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Cour et jardins du Palais-Royal",
       "name_de": "Palais-Royal Courtyard & Gardens",
       "price_en": "Free access",
-      "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_ja": "Free access",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Free access",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_7",
@@ -11376,19 +12207,22 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Panthéon Paris",
       "name_ja": "パンテオン パリ",
       "name_es": "Panteón de París",
-      "name_zh": "巴黎万神殿",
+      "name_zh": "巴黎先贤祠",
       "name_fr": "Panthéon Paris",
       "name_de": "Panthéon Paris",
       "price_en": "Entry: €11.50",
       "price_ja": "入場料: €11.50",
-      "price_es": "Entrada: 11,50 €",
+      "price_es": "Entrada: 11,50€",
       "price_zh": "入场费：11.50 欧元",
-      "price_fr": "Entrée : 11,50 €",
-      "price_de": "Eintritt: 11,50 €"
+      "price_fr": "Entry: €11.50",
+      "price_de": "Eintritt: 11,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_8",
@@ -11415,21 +12249,24 @@ const candidateSpotsDatabase = {
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Jardin du Luxembourg",
       "name_ja": "リュクサンブール公園",
-      "name_es": "Jardín de Luxemburgo",
+      "name_es": "Jardin du Luxembourg",
       "name_zh": "卢森堡公园",
       "name_fr": "Jardin du Luxembourg",
       "name_de": "Jardin du Luxembourg",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
-      "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_es": "Free access",
+      "price_zh": "免费使用",
+      "price_fr": "Free access",
+      "price_de": "Free access",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_9",
@@ -11458,19 +12295,22 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Opéra Garnier (Palais Garnier)",
-      "name_ja": "オペラ ガルニエ (ガルニエ宮)",
-      "name_es": "Ópera Garnier (Palacio Garnier)",
-      "name_zh": "卡尼尔歌剧院 (Palais Garnier)",
+      "name_ja": "オペラ・ガルニエ (ガルニエ宮)",
+      "name_es": "Opéra Garnier (Palais Garnier)",
+      "name_zh": "卡尼尔歌剧院（Palais Garnier）",
       "name_fr": "Opéra Garnier (Palais Garnier)",
       "name_de": "Opéra Garnier (Palais Garnier)",
       "price_en": "Self-tour: €14",
-      "price_ja": "セルフツアー: 14 ユーロ",
-      "price_es": "Auto-tour: 14€",
+      "price_ja": "セルフツアー: €14",
+      "price_es": "Self-tour: €14",
       "price_zh": "自助游：14欧元",
       "price_fr": "Auto-visite : 14 €",
-      "price_de": "Selbsttour: 14 €"
+      "price_de": "Selbsttour: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_10",
@@ -11498,7 +12338,7 @@ const candidateSpotsDatabase = {
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Pont Alexandre III",
       "name_ja": "アレクサンドル 3 世橋",
@@ -11508,10 +12348,13 @@ const candidateSpotsDatabase = {
       "name_de": "Pont Alexandre III",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_11",
@@ -11533,26 +12376,29 @@ const candidateSpotsDatabase = {
       "desc_ja": "フランス軍事博物館とナポレオンの墓を収容する黄金のドームの複合施設。",
       "desc_es": "Complejo con cúpulas doradas que alberga el Museo Militar de Francia y la tumba de Napoleón.",
       "desc_zh": "金色圆顶建筑群，内有法国军事博物馆和拿破仑墓。",
-      "desc_fr": "Complexe au dôme doré abritant le musée militaire français et le tombeau de Napoléon.",
+      "desc_fr": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
       "desc_de": "Komplex mit goldener Kuppel, in dem sich das französische Militärmuseum und Napoleons Grab befinden.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Les Invalides & Napoleon's Tomb",
       "name_ja": "アンヴァリッドとナポレオンの墓",
       "name_es": "Los Inválidos y la Tumba de Napoleón",
       "name_zh": "荣军院和拿破仑墓",
       "name_fr": "Les Invalides et le Tombeau de Napoléon",
-      "name_de": "Les Invalides & Napoleons Grab",
+      "name_de": "Les Invalides und Napoleons Grab",
       "price_en": "Entry: €14",
-      "price_ja": "入場料: 14 ユーロ",
+      "price_ja": "入場料: €14",
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_12",
@@ -11571,7 +12417,7 @@ const candidateSpotsDatabase = {
       "lat": 48.85833,
       "lng": 2.3375,
       "desc_en": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
-      "desc_ja": "ルーブル美術館とフランス学士院を結ぶ象徴的な歩行者専用の木製の橋。",
+      "desc_ja": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
       "desc_es": "Emblemático puente peatonal de madera que conecta el Louvre y el Instituto de Francia.",
       "desc_zh": "连接卢浮宫和法兰西学院的标志性步行木桥。",
       "desc_fr": "Pont piétonnier emblématique en bois reliant le Louvre et l'Institut de France.",
@@ -11583,17 +12429,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Pont des Arts",
-      "name_ja": "ポンデザール",
+      "name_ja": "ポン・デ・ザール",
       "name_es": "Puente de las Artes",
       "name_zh": "艺术桥",
       "name_fr": "Pont des Arts",
       "name_de": "Pont des Arts",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_13",
@@ -11613,10 +12462,10 @@ const candidateSpotsDatabase = {
       "lng": 2.33222,
       "desc_en": "Underground ossuary holding the remains of over six million Parisians.",
       "desc_ja": "600 万人を超えるパリ市民の遺骨を保管する地下納骨堂。",
-      "desc_es": "Osario subterráneo que alberga los restos de más de seis millones de parisinos.",
-      "desc_zh": "地下骨库保存着超过 600 万巴黎人的遗体。",
+      "desc_es": "Underground ossuary holding the remains of over six million Parisians.",
+      "desc_zh": "藏有600多万巴黎人遗骸的地下骨灰盒。",
       "desc_fr": "Ossuaire souterrain abritant les restes de plus de six millions de Parisiens.",
-      "desc_de": "Unterirdisches Beinhaus mit den Überresten von über sechs Millionen Parisern.",
+      "desc_de": "Underground ossuary holding the remains of over six million Parisians.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
@@ -11630,11 +12479,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Catacombes de Paris",
       "name_de": "Katakomben von Paris",
       "price_en": "Entry: €29",
-      "price_ja": "入場料: 29 ユーロ",
+      "price_ja": "入場料: €29",
       "price_es": "Entrada: 29€",
-      "price_zh": "入场费：29 欧元",
+      "price_zh": "入场费： € 29",
       "price_fr": "Entrée : 29 €",
-      "price_de": "Eintritt: 29 €"
+      "price_de": "Eintritt: 29 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_14",
@@ -11666,16 +12518,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Louvre Museum & Glass Pyramid",
       "name_ja": "ルーブル美術館とガラスのピラミッド",
-      "name_es": "Museo del Louvre y Pirámide de Cristal",
+      "name_es": "Museo del Louvre y pirámide de cristal",
       "name_zh": "卢浮宫博物馆和玻璃金字塔",
       "name_fr": "Musée du Louvre et pyramide de verre",
       "name_de": "Louvre-Museum und Glaspyramide",
       "price_en": "Entry: €17–€22",
       "price_ja": "入場料: €17–€22",
       "price_es": "Entrada: 17€–22€",
-      "price_zh": "入场费： 17 欧元 - 22 欧元",
-      "price_fr": "Entrée : 17 € – 22 €",
-      "price_de": "Eintritt: 17–22 €"
+      "price_zh": "门票： 17 欧元 - 22 欧元",
+      "price_fr": "Entrée : 17 – 22 €",
+      "price_de": "Eintritt: 17–22 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_15",
@@ -11716,7 +12571,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_16",
@@ -11753,11 +12611,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Centre Pompidou",
       "name_de": "Centre Pompidou",
       "price_en": "Entry: €15",
-      "price_ja": "入場料: 15 ユーロ",
+      "price_ja": "入場料: 15ユーロ",
       "price_es": "Entrada: 15€",
       "price_zh": "入场费：15 欧元",
       "price_fr": "Entrée : 15 €",
-      "price_de": "Eintritt: 15 €"
+      "price_de": "Eintritt: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_17",
@@ -11798,7 +12659,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 12,50€",
       "price_zh": "入场费：12.50 欧元",
       "price_fr": "Entrée : 12,50 €",
-      "price_de": "Eintritt: 12,50 €"
+      "price_de": "Eintritt: 12,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_18",
@@ -11835,11 +12699,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée Rodin",
       "name_de": "Musée Rodin",
       "price_en": "Entry: €13",
-      "price_ja": "入場料: 13 ユーロ",
+      "price_ja": "入場料: €13",
       "price_es": "Entrada: 13€",
-      "price_zh": "入场费：13 欧元",
+      "price_zh": "入场费：13欧元",
       "price_fr": "Entrée : 13 €",
-      "price_de": "Eintritt: 13 €"
+      "price_de": "Eintritt: 13 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_19",
@@ -11870,17 +12737,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée Picasso Paris",
-      "name_ja": "パリのピカソ美術館",
+      "name_ja": "パリ・ピカソ美術館",
       "name_es": "Museo Picasso París",
       "name_zh": "巴黎毕加索博物馆",
       "name_fr": "Musée Picasso Paris",
       "name_de": "Musée Picasso Paris",
       "price_en": "Entry: €14",
-      "price_ja": "入場料: 14 ユーロ",
+      "price_ja": "入場料: €14",
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_20",
@@ -11921,7 +12791,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso permanente gratuito",
       "price_zh": "免费永久访问",
       "price_fr": "Accès permanent gratuit",
-      "price_de": "Kostenloser dauerhafter Zugang"
+      "price_de": "Kostenloser dauerhafter Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_21",
@@ -11952,7 +12825,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Le Petit Marché",
-      "name_ja": "ル プチ マルシェ",
+      "name_ja": "ル・プティ・マルシェ",
       "name_es": "El pequeño mercado",
       "name_zh": "小市场",
       "name_fr": "Le Petit Marché",
@@ -11961,8 +12834,11 @@ const candidateSpotsDatabase = {
       "price_ja": "メイン: €18–€26",
       "price_es": "Plato principal: 18€–26€",
       "price_zh": "主电源： 18 欧元 - 26 欧元",
-      "price_fr": "Plat : 18 € – 26 €",
-      "price_de": "Hauptspeisen: 18–26 €"
+      "price_fr": "Plats : 18 € – 26 €",
+      "price_de": "Hauptgericht: 18–26 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "p_22",
@@ -12001,9 +12877,12 @@ const candidateSpotsDatabase = {
       "price_en": "Mains: €34–€52",
       "price_ja": "メイン: €34–€52",
       "price_es": "Plato principal: 34€–52€",
-      "price_zh": "主电源： €34–€52",
-      "price_fr": "Plat : 34 € – 52 €",
-      "price_de": "Hauptspeisen: 34–52 €"
+      "price_zh": "电源： €34–€52",
+      "price_fr": "Plats : 34 € – 52 €",
+      "price_de": "Hauptgericht: 34–52 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_23",
@@ -12042,9 +12921,12 @@ const candidateSpotsDatabase = {
       "price_en": "Mains: €18–€24",
       "price_ja": "メイン: €18–€24",
       "price_es": "Plato principal: 18€–24€",
-      "price_zh": "电源： 18 欧元 - 24 欧元",
-      "price_fr": "Plat : 18 € – 24 €",
-      "price_de": "Hauptspeisen: 18–24 €"
+      "price_zh": "主电源：18 欧元 - 24 欧元",
+      "price_fr": "Plats : 18 € – 24 €",
+      "price_de": "Hauptgericht: 18–24 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_24",
@@ -12077,15 +12959,18 @@ const candidateSpotsDatabase = {
       "name_en": "Bouillon Chartier",
       "name_ja": "ブイヨン シャルティエ",
       "name_es": "Caldo Chartier",
-      "name_zh": "肉汤沙蒂埃",
+      "name_zh": "沙蒂耶肉汤",
       "name_fr": "Bouillon Chartier",
       "name_de": "Bouillon Chartier",
       "price_en": "Mains: €9–€14",
       "price_ja": "メイン: €9–€14",
       "price_es": "Plato principal: 9€–14€",
-      "price_zh": "主电源： 9 欧元 - 14 欧元",
-      "price_fr": "Plat : 9 € – 14 €",
-      "price_de": "Hauptspeisen: 9–14 €"
+      "price_zh": "主电源：9 欧元–14 欧元",
+      "price_fr": "Plats : 9 € – 14 €",
+      "price_de": "Hauptgericht: 9–14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_25",
@@ -12117,8 +13002,8 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Frenchie Bar à Vins",
       "name_ja": "フレンチ バー ア ヴァン",
-      "name_es": "Frenchie Bar à Vins",
-      "name_zh": "法式酒吧 à Vins",
+      "name_es": "Frenchie Bar a Vins",
+      "name_zh": "法式酒吧和葡萄酒",
       "name_fr": "Frenchie Bar à Vins",
       "name_de": "Frenchie Bar à Vins",
       "price_en": "Plates: €14–€24",
@@ -12126,7 +13011,10 @@ const candidateSpotsDatabase = {
       "price_es": "Platos: 14€–24€",
       "price_zh": "餐盘：14欧元–24欧元",
       "price_fr": "Assiettes : 14 € – 24 €",
-      "price_de": "Teller: 14–24 €"
+      "price_de": "Teller: 14–24 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "p_26",
@@ -12157,17 +13045,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Les Deux Magots",
-      "name_ja": "レ ドゥ マゴ",
+      "name_ja": "レ・ドゥ・マゴ",
       "name_es": "Los dos magos",
       "name_zh": "双叟",
       "name_fr": "Les Deux Magots",
       "name_de": "Les Deux Magots",
       "price_en": "Coffee: €6–€10",
-      "price_ja": "コーヒー: €6 – €10",
-      "price_es": "Café: 6€–10€",
-      "price_zh": "咖啡： 6 欧元 - 10 欧元",
-      "price_fr": "Café : 6 € – 10 €",
-      "price_de": "Kaffee: 6–10 €"
+      "price_ja": "コーヒー: €6–€10",
+      "price_es": "Café: 6€-10€",
+      "price_zh": "咖啡：6 欧元至 10 欧元",
+      "price_fr": "Café : 6 à 10 €",
+      "price_de": "Kaffee: 6–10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_27",
@@ -12198,17 +13089,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "L'As du Fallafel",
-      "name_ja": "ラズ デュ ファラフェル",
-      "name_es": "El As del Fallafel",
-      "name_zh": "L'As du Fallafel",
+      "name_ja": "ラス・デュ・ファラフェル",
+      "name_es": "L'As du Fallafel",
+      "name_zh": "法拉菲尔之家",
       "name_fr": "L'As du Fallafel",
       "name_de": "L'As du Fallafel",
       "price_en": "Pita: €9.50",
       "price_ja": "ピタ: €9.50",
       "price_es": "Pita: 9,50 €",
-      "price_zh": "皮塔饼： €9.50",
+      "price_zh": "皮塔饼：9.50 欧元",
       "price_fr": "Pita : 9,50 €",
-      "price_de": "Pita: 9,50 €"
+      "price_de": "Pita: 9,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_28",
@@ -12240,16 +13134,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Pink Mamma",
       "name_ja": "ピンクマンマ",
-      "name_es": "Mamá rosada",
+      "name_es": "Mamá rosa",
       "name_zh": "粉红妈妈",
       "name_fr": "Maman rose",
       "name_de": "Rosa Mama",
       "price_en": "Mains: €16–€28",
       "price_ja": "メイン: €16–€28",
       "price_es": "Plato principal: 16€–28€",
-      "price_zh": "主电源： 16 欧元 - 28 欧元",
-      "price_fr": "Plat : 16 € – 28 €",
-      "price_de": "Hauptspeisen: 16–28 €"
+      "price_zh": "主电源：16 欧元–28 欧元",
+      "price_fr": "Plats : 16 € – 28 €",
+      "price_de": "Hauptgericht: 16–28 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_29",
@@ -12288,9 +13185,12 @@ const candidateSpotsDatabase = {
       "price_en": "Dishes: €8–€15",
       "price_ja": "料理: €8–€15",
       "price_es": "Platos: 8€–15€",
-      "price_zh": "菜肴： €8–€15",
+      "price_zh": "菜肴： 8 欧元 - 15 欧元",
       "price_fr": "Plats : 8 € – 15 €",
-      "price_de": "Gerichte: 8–15 €"
+      "price_de": "Gerichte: 8–15 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "p_30",
@@ -12327,11 +13227,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Cédric Grolet Le Meurice",
       "name_de": "Cédric Grolet Le Meurice",
       "price_en": "Pastries: €14–€18",
-      "price_ja": "ペストリー: 14 ユーロ～18 ユーロ",
-      "price_es": "Pastelería: 14€–18€",
-      "price_zh": "糕点： €14–€18",
-      "price_fr": "Pâtisseries : 14–18 €",
-      "price_de": "Gebäck: 14–18 €"
+      "price_ja": "ペストリー: €14–€18",
+      "price_es": "Bollería: 14€–18€",
+      "price_zh": "糕点：14-18欧元",
+      "price_fr": "Pâtisseries : 14-18 €",
+      "price_de": "Gebäck: 14–18 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "p_31",
@@ -12362,17 +13265,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Angelina Paris",
-      "name_ja": "アンジェリーナ・パリ",
+      "name_ja": "アンジェリーナ・パリス",
       "name_es": "Angelina París",
-      "name_zh": "安吉丽娜巴黎",
+      "name_zh": "安吉丽娜·帕里斯",
       "name_fr": "Angélina Paris",
       "name_de": "Angelina Paris",
       "price_en": "Hot Choc: €9.50",
       "price_ja": "ホットチョコレート: €9.50",
       "price_es": "Chocolate caliente: 9,50 €",
-      "price_zh": "热巧克力： €9.50",
+      "price_zh": "热巧克力：9.50 欧元",
       "price_fr": "Choc Chaud : 9,50 €",
-      "price_de": "Heiße Schokolade: 9,50 €"
+      "price_de": "Heiße Schokolade: 9,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_32",
@@ -12411,9 +13317,12 @@ const candidateSpotsDatabase = {
       "price_en": "Pastries: €3.50–€6",
       "price_ja": "ペストリー: €3.50–€6",
       "price_es": "Bollería: 3,50€–6€",
-      "price_zh": "糕点： €3.50–€6",
+      "price_zh": "糕点：3.50 欧元–6 欧元",
       "price_fr": "Pâtisseries : 3,50 € – 6 €",
-      "price_de": "Gebäck: 3,50 €–6 €"
+      "price_de": "Gebäck: 3,50 €–6 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "p_33",
@@ -12450,11 +13359,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Carette Trocadéro",
       "name_de": "Carette Trocadéro",
       "price_en": "Hot Choc: €10",
-      "price_ja": "ホットチョコレート: 10 ユーロ",
+      "price_ja": "ホットチョコレート: €10",
       "price_es": "Chocolate Caliente: 10€",
       "price_zh": "热巧克力：10 欧元",
-      "price_fr": "Choc Chaud : 10€",
-      "price_de": "Heiße Schokolade: 10 €"
+      "price_fr": "Choc Chaud : 10 €",
+      "price_de": "Heiße Schokolade: 10 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "p_34",
@@ -12490,11 +13402,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée du Quai Branly",
       "name_de": "Musée du Quai Branly",
       "price_en": "Entry: €12",
-      "price_ja": "入場料: 12 ユーロ",
+      "price_ja": "入場料: €12",
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_35",
@@ -12526,15 +13441,18 @@ const candidateSpotsDatabase = {
       "name_en": "Covered Passages (Galerie Vivienne)",
       "name_ja": "屋根付き通路 (ギャラリー ヴィヴィエンヌ)",
       "name_es": "Pasajes cubiertos (Galerie Vivienne)",
-      "name_zh": "遮盖通道（薇薇安画廊）",
-      "name_fr": "Passages Couverts (Galerie Vivienne)",
+      "name_zh": "遮盖通道（Galerie Vivienne）",
+      "name_fr": "Passages couverts (Galerie Vivienne)",
       "name_de": "Überdachte Passagen (Galerie Vivienne)",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "p_36",
@@ -12572,9 +13490,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free rooftop access",
       "price_ja": "屋上への無料アクセス",
       "price_es": "Acceso gratuito a la azotea",
-      "price_zh": "免费屋顶访问",
+      "price_zh": "免费进入屋顶",
       "price_fr": "Accès gratuit au toit",
-      "price_de": "Kostenloser Zugang zur Dachterrasse"
+      "price_de": "Kostenloser Zugang zur Dachterrasse",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "p_37",
@@ -12610,11 +13531,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Croisière sur la Seine (Bateaux-Mouches)",
       "name_de": "Bootsfahrt auf der Seine (Bateaux-Mouches)",
       "price_en": "Cruise: €15",
-      "price_ja": "クルーズ: 15 ユーロ",
+      "price_ja": "クルーズ: €15",
       "price_es": "Crucero: 15€",
       "price_zh": "游轮：15 欧元",
       "price_fr": "Croisière : 15 €",
-      "price_de": "Kreuzfahrt: 15 €"
+      "price_de": "Kreuzfahrt: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_38",
@@ -12648,13 +13572,16 @@ const candidateSpotsDatabase = {
       "name_es": "Canal San Martín",
       "name_zh": "圣马丁运河",
       "name_fr": "Canal Saint-Martin",
-      "name_de": "Kanal Saint-Martin",
+      "name_de": "Canal Saint-Martin",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_27",
@@ -12686,7 +13613,7 @@ const candidateSpotsDatabase = {
       "name_en": "Palace of Versailles (Château de Versailles)",
       "name_ja": "ベルサイユ宮殿 (ベルサイユ宮殿)",
       "name_es": "Palacio de Versalles (Castillo de Versalles)",
-      "name_zh": "凡尔赛宫 (Château de Versailles)",
+      "name_zh": "凡尔赛宫（Château de Versailles）",
       "name_fr": "Château de Versailles (Château de Versailles)",
       "name_de": "Schloss Versailles (Château de Versailles)",
       "price_en": "Palace: €19.50",
@@ -12694,7 +13621,10 @@ const candidateSpotsDatabase = {
       "price_es": "Palacio: 19,50€",
       "price_zh": "宫殿：19.50 欧元",
       "price_fr": "Palais : 19,50 €",
-      "price_de": "Palast: 19,50 €"
+      "price_de": "Palast: 19,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_28",
@@ -12734,7 +13664,10 @@ const candidateSpotsDatabase = {
       "price_es": "Acceso libre",
       "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_29",
@@ -12771,10 +13704,13 @@ const candidateSpotsDatabase = {
       "name_de": "Concierge",
       "price_en": "Entry: €11.50",
       "price_ja": "入場料: €11.50",
-      "price_es": "Entrada: 11,50 €",
+      "price_es": "Entrada: 11,50€",
       "price_zh": "入场费：11.50 欧元",
       "price_fr": "Entrée : 11,50 €",
-      "price_de": "Eintritt: 11,50 €"
+      "price_de": "Eintritt: 11,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_30",
@@ -12814,7 +13750,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "p_31",
@@ -12847,14 +13786,17 @@ const candidateSpotsDatabase = {
       "name_ja": "マルモッタン モネ美術館",
       "name_es": "Museo Marmottan Monet",
       "name_zh": "莫奈博物馆",
-      "name_fr": "Musée Marmottan Monet",
-      "name_de": "Musée Marmottan Monet",
+      "name_fr": "Musée Marmottan-Monet",
+      "name_de": "Museum Marmottan Monet",
       "price_en": "Entry: €14",
-      "price_ja": "入場料: 14 ユーロ",
+      "price_ja": "入場料: €14",
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_32",
@@ -12894,7 +13836,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_33",
@@ -12930,11 +13875,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée de Cluny (Moyen Âge)",
       "name_de": "Musée de Cluny (Mittelalter)",
       "price_en": "Entry: €12",
-      "price_ja": "入場料: 12 ユーロ",
+      "price_ja": "入場料: €12",
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_46",
@@ -12964,17 +13912,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Disneyland Paris",
-      "name_ja": "ディズニーランド パリ",
+      "name_ja": "ディズニーランド・パリ",
       "name_es": "Disneylandia París",
       "name_zh": "巴黎迪士尼乐园",
       "name_fr": "Disneyland Paris",
       "name_de": "Disneyland Paris",
       "price_en": "Entry: €56–€99",
-      "price_ja": "入場料: 56 – 99 ユーロ",
+      "price_ja": "入場料: €56–€99",
       "price_es": "Entrada: 56€–99€",
-      "price_zh": "入场费：56 欧元–99 欧元",
+      "price_zh": "门票：56 欧元 - 99 欧元",
       "price_fr": "Entrée : 56 € – 99 €",
-      "price_de": "Eintritt: 56–99 €"
+      "price_de": "Eintritt: 56–99 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_47",
@@ -13004,17 +13955,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Grande Galerie de l'Évolution",
-      "name_ja": "進化の大ギャラリー",
-      "name_es": "Grande Galerie de l'Évolution",
+      "name_ja": "進化大ギャラリー",
+      "name_es": "Gran Galería de la Evolución",
       "name_zh": "进化大画廊",
       "name_fr": "Grande Galerie de l'Évolution",
       "name_de": "Grande Galerie de l'Évolution",
       "price_en": "Entry: €13",
-      "price_ja": "入場料: 13 ユーロ",
+      "price_ja": "入場料: €13",
       "price_es": "Entrada: 13€",
-      "price_zh": "入场费：13 欧元",
+      "price_zh": "入场费：13欧元",
       "price_fr": "Entrée : 13 €",
-      "price_de": "Eintritt: 13 €"
+      "price_de": "Eintritt: 13 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "p_48",
@@ -13044,17 +13998,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Cité des Sciences et de l'Industrie",
-      "name_ja": "科学および産業分野",
+      "name_ja": "科学産業産業博物館",
       "name_es": "Ciudad de las Ciencias y de la Industria",
       "name_zh": "科学与工业城",
       "name_fr": "Cité des Sciences et de l'Industrie",
       "name_de": "Cité des Sciences et de l'Industrie",
       "price_en": "Entry: €13",
-      "price_ja": "入場料: 13 ユーロ",
+      "price_ja": "入場料: €13",
       "price_es": "Entrada: 13€",
-      "price_zh": "入场费：13 欧元",
+      "price_zh": "入场费：13欧元",
       "price_fr": "Entrée : 13 €",
-      "price_de": "Eintritt: 13 €"
+      "price_de": "Eintritt: 13 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_49",
@@ -13094,7 +14051,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7,00 €",
       "price_zh": "入场费：7.00 欧元",
       "price_fr": "Entrée : 7,00 €",
-      "price_de": "Eintritt: 7,00 €"
+      "price_de": "Eintritt: 7,00 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_50",
@@ -13130,11 +14090,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Parc Zoologique de Paris",
       "name_de": "Parc Zoologique de Paris",
       "price_en": "Entry: €22",
-      "price_ja": "入場料: 22 ユーロ",
+      "price_ja": "入場料: €22",
       "price_es": "Entrada: 22€",
       "price_zh": "入场费：22 欧元",
       "price_fr": "Entrée : 22 €",
-      "price_de": "Eintritt: 22 €"
+      "price_de": "Eintritt: 22 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "p_51",
@@ -13170,11 +14133,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Aquarium de Paris",
       "name_de": "Aquarium de Paris",
       "price_en": "Entry: €26",
-      "price_ja": "入場料: 26 ユーロ",
+      "price_ja": "入場料: €26",
       "price_es": "Entrada: 26€",
       "price_zh": "入场费：26 欧元",
       "price_fr": "Entrée : 26 €",
-      "price_de": "Eintritt: 26 €"
+      "price_de": "Eintritt: 26 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_52",
@@ -13214,7 +14180,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 20€",
       "price_zh": "入场费：20 欧元",
       "price_fr": "Entrée : 20 €",
-      "price_de": "Eintritt: 20 €"
+      "price_de": "Eintritt: 20 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_53",
@@ -13251,10 +14220,13 @@ const candidateSpotsDatabase = {
       "name_de": "Jardin des Tuileries",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "p_54",
@@ -13294,7 +14266,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 16€",
       "price_zh": "入场费：16 欧元",
       "price_fr": "Entrée : 16 €",
-      "price_de": "Eintritt: 16 €"
+      "price_de": "Eintritt: 16 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "p_55",
@@ -13334,7 +14309,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 15€",
       "price_zh": "入场费：15 欧元",
       "price_fr": "Entrée : 15 €",
-      "price_de": "Eintritt: 15 €"
+      "price_de": "Eintritt: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     }
   ],
   "Strasbourg, France": [
@@ -13373,11 +14351,14 @@ const candidateSpotsDatabase = {
       "name_fr": "Cathédrale de Strasbourg (Cathédrale Notre-Dame)",
       "name_de": "Straßburger Münster (Cathédrale Notre-Dame)",
       "price_en": "Free (Tower: €8)",
-      "price_ja": "無料 (タワー: €8)",
+      "price_ja": "無料（タワー：8ユーロ）",
       "price_es": "Gratis (Torre: 8€)",
       "price_zh": "免费（塔楼：8 欧元）",
       "price_fr": "Gratuit (Tour : 8 €)",
-      "price_de": "Kostenlos (Turm: 8 €)"
+      "price_de": "Kostenlos (Turm: 8 €)",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_2",
@@ -13409,16 +14390,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Barrage Vauban",
       "name_ja": "弾幕ヴォーバン",
-      "name_es": "Bombardeo Vauban",
-      "name_zh": "弹幕沃邦",
+      "name_es": "Aluvión Vauban",
+      "name_zh": "沃邦拦河坝",
       "name_fr": "Barrage Vauban",
       "name_de": "Sperrfeuer Vauban",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_3",
@@ -13449,7 +14433,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Ponts Couverts",
-      "name_ja": "ポン・クベール",
+      "name_ja": "ポン・クヴェール",
       "name_es": "Puentes cubiertos",
       "name_zh": "蓬库韦尔",
       "name_fr": "Ponts Couverts",
@@ -13457,9 +14441,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_4",
@@ -13490,7 +14477,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Palais Rohan",
-      "name_ja": "パレ・ロアン",
+      "name_ja": "パレ ロアン",
       "name_es": "Palacio Rohan",
       "name_zh": "罗汉宫",
       "name_fr": "Palais Rohan",
@@ -13500,7 +14487,10 @@ const candidateSpotsDatabase = {
       "price_es": "Patio libre",
       "price_zh": "免费庭院",
       "price_fr": "Cour libre",
-      "price_de": "Freier Hof"
+      "price_de": "Freier Innenhof",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_5",
@@ -13533,15 +14523,18 @@ const candidateSpotsDatabase = {
       "name_en": "Maison Kammerzell",
       "name_ja": "メゾン カマーツェル",
       "name_es": "Casa Kammerzell",
-      "name_zh": "Maison Kammerzell",
+      "name_zh": "卡默泽尔庄园",
       "name_fr": "Maison Kammerzell",
       "name_de": "Maison Kammerzell",
       "price_en": "Free exterior",
-      "price_ja": "無料の外装",
-      "price_es": "Exterior libre",
+      "price_ja": "自由な外装",
+      "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_6",
@@ -13576,13 +14569,16 @@ const candidateSpotsDatabase = {
       "name_es": "Plaza Kléber",
       "name_zh": "克勒贝尔广场",
       "name_fr": "Place Kléber",
-      "name_de": "Place Kléber",
+      "name_de": "Platzieren Sie Kléber",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_7",
@@ -13617,13 +14613,16 @@ const candidateSpotsDatabase = {
       "name_es": "Plaza Gutenberg",
       "name_zh": "古腾堡广场",
       "name_fr": "Place Gutenberg",
-      "name_de": "Platzieren Sie Gutenberg",
+      "name_de": "Platz Gutenberg",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_8",
@@ -13657,14 +14656,17 @@ const candidateSpotsDatabase = {
       "name_ja": "欧州議会ストラスブール",
       "name_es": "Parlamento Europeo Estrasburgo",
       "name_zh": "欧洲议会斯特拉斯堡",
-      "name_fr": "Parlement européen Strasbourg",
+      "name_fr": "European Parliament Strasbourg",
       "name_de": "Europäisches Parlament Straßburg",
       "price_en": "Free (Reservation required)",
       "price_ja": "無料（要予約）",
       "price_es": "Gratis (Se requiere reservación)",
       "price_zh": "免费（需预约）",
       "price_fr": "Gratuit (Réservation obligatoire)",
-      "price_de": "Kostenlos (Reservierung erforderlich)"
+      "price_de": "Kostenlos (Reservierung erforderlich)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_9",
@@ -13696,16 +14698,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Palais du Rhin & Place de la République",
       "name_ja": "ラン宮殿とレピュブリック広場",
-      "name_es": "Palacio del Rin y Plaza de la República",
+      "name_es": "Palacio del Rin y plaza de la República",
       "name_zh": "莱茵宫和共和广场",
-      "name_fr": "Palais du Rhin et Place de la République",
-      "name_de": "Palais du Rhin & Place de la République",
+      "name_fr": "Palais du Rhin et place de la République",
+      "name_de": "Palais du Rhin und Place de la République",
       "price_en": "Free grounds",
       "price_ja": "無料の敷地",
       "price_es": "Terrenos libres",
-      "price_zh": "免费理由",
+      "price_zh": "免费场地",
       "price_fr": "Terrain gratuit",
-      "price_de": "Freigelände"
+      "price_de": "Kostenloses Gelände",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_10",
@@ -13730,13 +14735,13 @@ const candidateSpotsDatabase = {
       "desc_fr": "Principale église protestante d'Alsace, abritant l'orgue historique Silbermann joué par Mozart.",
       "desc_de": "Wichtigste protestantische Kirche des Elsass mit der historischen Silbermann-Orgel von Mozart.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Église Saint-Thomas",
-      "name_ja": "サントーマス教会",
+      "name_ja": "Église Saint-Thomas",
       "name_es": "Iglesia de Santo Tomás",
       "name_zh": "圣托马斯教堂",
       "name_fr": "Église Saint-Thomas",
@@ -13744,9 +14749,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_11",
@@ -13768,7 +14776,7 @@ const candidateSpotsDatabase = {
       "desc_ja": "イル川と運河の合流点に印象的に立つネオゴシック様式の双尖塔教会。",
       "desc_es": "Iglesia neogótica de dos torres que se alza espectacular en el cruce del río Ill y los canales.",
       "desc_zh": "新哥特式双塔教堂矗立在伊尔河和运河的交汇处。",
-      "desc_fr": "Église néogothique à deux clochers se dressant de façon spectaculaire à la jonction de l'Ill et des canaux.",
+      "desc_fr": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
       "desc_de": "Neugotische Kirche mit zwei Türmen, die eindrucksvoll am Zusammenfluss von Ill und Kanälen steht.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
@@ -13777,7 +14785,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Église Réformée Saint-Paul",
-      "name_ja": "サン ポール教会レフォルメ",
+      "name_ja": "サン ポール教会レフォルメ教会",
       "name_es": "Iglesia reformada de Saint-Paul",
       "name_zh": "圣保罗改革教堂",
       "name_fr": "Église Réformée Saint-Paul",
@@ -13785,9 +14793,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_12",
@@ -13813,22 +14824,25 @@ const candidateSpotsDatabase = {
       "desc_de": "Beeindruckende Bergfestung aus dem 12. Jahrhundert auf einem Vogesenkamm mit Panoramablick über das Elsass.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Château du Haut-Kœnigsbourg",
       "name_ja": "シャトー デュ オー ケニヒスブール",
-      "name_es": "Castillo del Alto Kœnigsbourg",
-      "name_zh": "上柯尼斯堡城堡",
+      "name_es": "Castillo del Alto Koenigsbourg",
+      "name_zh": "上国王堡城堡",
       "name_fr": "Château du Haut-Kœnigsbourg",
       "name_de": "Château du Haut-Kœnigsbourg",
       "price_en": "Entry: €12",
-      "price_ja": "入場料: 12 ユーロ",
+      "price_ja": "入場料: €12",
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_13",
@@ -13849,27 +14863,30 @@ const candidateSpotsDatabase = {
       "desc_en": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
       "desc_ja": "アルザスの守護聖人を祀った丘の上の修道院。崖の上からライン平原の景色を眺めることができる。",
       "desc_es": "Convento en lo alto de una colina dedicado al santo patrón de Alsacia, con vistas desde un acantilado a la llanura del Rin.",
-      "desc_zh": "山顶修道院供奉着阿尔萨斯的守护神，可欣赏莱茵平原的悬崖边景色。",
-      "desc_fr": "Couvent perché sur une colline dédié au saint patron de l'Alsace, offrant une vue à flanc de falaise sur la plaine du Rhin.",
+      "desc_zh": "山顶修道院致力于阿尔萨斯的守护神，可俯瞰莱茵平原的悬崖景观。",
+      "desc_fr": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
       "desc_de": "Auf einem Hügel gelegenes Kloster, das der Schutzpatronin des Elsass gewidmet ist und einen Blick auf die Rheinebene von der Klippe bietet.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Mont Sainte-Odile Monastery",
       "name_ja": "モン サント ディール修道院",
-      "name_es": "Monasterio del Monte Santa Odilia",
+      "name_es": "Mont Sainte-Odile Monastery",
       "name_zh": "圣奥迪尔山修道院",
       "name_fr": "Monastère du Mont Sainte-Odile",
       "name_de": "Kloster Mont Sainte-Odile",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "无消耗",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_14",
@@ -13910,7 +14927,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Entry: €7.50",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_15",
@@ -13937,7 +14957,7 @@ const candidateSpotsDatabase = {
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée de l'Œuvre Notre-Dame",
@@ -13948,10 +14968,13 @@ const candidateSpotsDatabase = {
       "name_de": "Musée de l'Œuvre Notre-Dame",
       "price_en": "Entry: €7.50",
       "price_ja": "入場料: €7.50",
-      "price_es": "Entrada: 7,50€",
+      "price_es": "Entry: €7.50",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_16",
@@ -13977,12 +15000,12 @@ const candidateSpotsDatabase = {
       "desc_de": "Die Kunstsammlung im Palais Rohan zeigt europäische Meister der Malerei von Giotto und Botticelli bis Goya.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée des Beaux-Arts de Strasbourg",
-      "name_ja": "ストラスブール美術館",
+      "name_ja": "Musée des Beaux-Arts de Strasbourg",
       "name_es": "Museo de Bellas Artes de Estrasburgo",
       "name_zh": "斯特拉斯堡美术博物馆",
       "name_fr": "Musée des Beaux-Arts de Strasbourg",
@@ -13992,7 +15015,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_17",
@@ -14013,15 +15039,15 @@ const candidateSpotsDatabase = {
       "desc_en": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
       "desc_ja": "パレ ロアン内にある装飾美術館。豪華な枢機卿のアパートやストラスブルジョワの陶器が展示されています。",
       "desc_es": "Museo de artes decorativas en el interior del Palais Rohan, que exhibe lujosos apartamentos cardinales y cerámica estrasburguesa.",
-      "desc_zh": "罗汉宫内的装饰艺术博物馆，展示豪华的主教公寓和斯特拉斯堡陶瓷。",
-      "desc_fr": "Musée des Arts décoratifs à l'intérieur du palais Rohan exposant de somptueux appartements cardinaux et des céramiques strasbourgeoises.",
+      "desc_zh": "罗汉宫（ Palais Rohan ）内的装饰艺术博物馆（ Decorative Arts Museum ）展示奢华的红衣主教公寓和斯特拉斯堡陶瓷（ Strasbourgeois ceramics",
+      "desc_fr": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
       "desc_de": "Museum für dekorative Kunst im Palais Rohan mit prächtigen Kardinalsgemächern und Straßburger Keramik.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Musée des Arts Décoratifs",
       "name_ja": "装飾芸術美術館",
       "name_es": "Museo de Artes Decorativas",
@@ -14033,7 +15059,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_18",
@@ -14052,29 +15081,32 @@ const candidateSpotsDatabase = {
       "lat": 48.5794,
       "lng": 7.7358,
       "desc_en": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
-      "desc_ja": "イル川沿いにあるおしゃれなガラス美術館。モネ、ピカソ、カンディンスキー、ギュスターヴ ドレの作品を収蔵している。",
+      "desc_ja": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
       "desc_es": "Elegante museo del vidrio a lo largo del río Ill que alberga obras de Monet, Picasso, Kandinsky y Gustave Doré.",
       "desc_zh": "伊尔河沿岸的时尚玻璃博物馆收藏着莫奈、毕加索、康定斯基和古斯塔夫·多雷的作品。",
       "desc_fr": "Musée du verre élégant au bord de l'Ill abritant des œuvres de Monet, Picasso, Kandinsky et Gustave Doré.",
       "desc_de": "Elegantes Glasmuseum am Fluss Ill mit Werken von Monet, Picasso, Kandinsky und Gustave Doré.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "MAMCS (Museum of Modern & Contemporary Art)",
       "name_ja": "MAMCS (近現代美術館)",
-      "name_es": "MAMCS (Museo de Arte Moderno y Contemporáneo)",
+      "name_es": "MAMCS (Museum of Modern & Contemporary Art)",
       "name_zh": "MAMCS（现当代艺术博物馆）",
       "name_fr": "MAMCS (Musée d'Art Moderne et Contemporain)",
       "name_de": "MAMCS (Museum für moderne und zeitgenössische Kunst)",
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8 欧元",
+      "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Entry: €8",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_19",
@@ -14093,7 +15125,7 @@ const candidateSpotsDatabase = {
       "lat": 48.5858,
       "lng": 7.7558,
       "desc_en": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
-      "desc_ja": "ストラスブルジョワのイラストレーター トミ ウンゲラーを記念した美術館。児童書のオリジナル アートや風刺画を展示している。",
+      "desc_ja": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
       "desc_es": "Museo dedicado al ilustrador estrasburgués Tomi Ungerer, que muestra libros infantiles originales y dibujos satíricos.",
       "desc_zh": "纪念斯特拉斯堡插画家托米·安格尔 (Tomi Ungerer) 的博物馆，展示原创儿童书籍艺术和讽刺画。",
       "desc_fr": "Musée dédié à l'illustrateur strasbourgeois Tomi Ungerer, présentant des œuvres originales de livres pour enfants et des dessins satiriques.",
@@ -14105,9 +15137,9 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée Tomi Ungerer (Illustration Center)",
-      "name_ja": "トミ・ウンゲラー美術館 (イラスト センター)",
-      "name_es": "Musée Tomi Ungerer (Centro de Ilustración)",
-      "name_zh": "Tomi Ungerer 博物馆（插图中心）",
+      "name_ja": "Musée Tomi Ungerer (Illustration Center)",
+      "name_es": "Museo Tomi Ungerer (Centro de Ilustración)",
+      "name_zh": "托米·安格尔博物馆（插图中心）",
       "name_fr": "Musée Tomi Ungerer (Centre de l'Illustration)",
       "name_de": "Musée Tomi Ungerer (Illustrationszentrum)",
       "price_en": "Entry: €7.50",
@@ -14115,7 +15147,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_20",
@@ -14135,28 +15170,31 @@ const candidateSpotsDatabase = {
       "lng": 7.7514,
       "desc_en": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
       "desc_ja": "16 世紀のかつて屠殺場だった建物を利用しており、中世の自由都市から EU の首都までのストラスブールの旅を詳しく描いています。",
-      "desc_es": "Ubicado en un antiguo matadero del siglo XVI, detalla el viaje de Estrasburgo desde la ciudad libre medieval hasta la capital de la UE.",
+      "desc_es": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
       "desc_zh": "位于一座 16 世纪的前屠宰场内，详细介绍了斯特拉斯堡从中世纪自由城市到欧盟首都的旅程。",
-      "desc_fr": "Installé dans un ancien abattoir du XVIe siècle, il raconte le parcours de Strasbourg, de ville libre médiévale à capitale de l'UE.",
+      "desc_fr": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
       "desc_de": "Untergebracht in einem ehemaligen Schlachthof aus dem 16. Jahrhundert, wird die Reise Straßburgs von der mittelalterlichen Freistadt zur EU-Hauptstadt detailliert beschrieben.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
-      "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_zh": "最好在清晨或黄金时段参观，以拍摄出色的照片，减少人群。",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Musée Historique de la Ville de Strasbourg",
       "name_ja": "ストラスブール市歴史博物館",
       "name_es": "Museo Histórico de la Ciudad de Estrasburgo",
       "name_zh": "斯特拉斯堡市历史博物馆",
-      "name_fr": "Musée historique de la ville de Strasbourg",
+      "name_fr": "Musée Historique de la Ville de Strasbourg",
       "name_de": "Historisches Museum der Stadt Straßburg",
       "price_en": "Entry: €7.50",
       "price_ja": "入場料: €7.50",
       "price_es": "Entrada: 7,50€",
       "price_zh": "入场费：7.50 欧元",
       "price_fr": "Entrée : 7,50 €",
-      "price_de": "Eintritt: 7,50 €"
+      "price_de": "Eintritt: 7,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_21",
@@ -14187,17 +15225,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Château Musée Vodou",
-      "name_ja": "シャトー ミュゼ ヴドゥー",
-      "name_es": "Castillo Museo Vudú",
-      "name_zh": "伏都博物馆城堡",
+      "name_ja": "ヴドゥー城博物館",
+      "name_es": "Castillo-museo vudú",
+      "name_zh": "伏杜城堡博物馆",
       "name_fr": "Château Musée Vodou",
       "name_de": "Château Musée Vodou",
       "price_en": "Entry: €14",
-      "price_ja": "入場料: 14 ユーロ",
+      "price_ja": "入場料: €14",
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_22",
@@ -14217,15 +15258,15 @@ const candidateSpotsDatabase = {
       "lng": 7.3622,
       "desc_en": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
       "desc_ja": "ルネ・ラリックのアールヌーボーとアールデコのガラスの傑作を展示するヴィンゲン・シュル・モダーの専用美術館。",
-      "desc_es": "Museo dedicado en Wingen-sur-Moder que exhibe las obras maestras del vidrio Art Nouveau y Art Déco de René Lalique.",
-      "desc_zh": "位于莫德尔河畔温根的专用博物馆，展示雷内·拉里克的新艺术风格和装饰艺术玻璃杰作。",
-      "desc_fr": "Musée dédié à Wingen-sur-Moder présentant les chefs-d'œuvre du verre Art nouveau et Art déco de René Lalique.",
+      "desc_es": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "desc_zh": "莫代尔河畔温根（ Wingen-sur-Moder ）的专属博物馆，展示勒内·拉利克（ René Lalique ）的新艺术风格和装饰艺术玻璃杰作。",
+      "desc_fr": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
       "desc_de": "Spezielles Museum in Wingen-sur-Moder, das René Laliques Jugendstil- und Art-Déco-Glasmeisterwerke zeigt.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée Lalique",
       "name_ja": "ラリック美術館",
@@ -14236,9 +15277,12 @@ const candidateSpotsDatabase = {
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8 欧元",
+      "price_zh": "入场费： € 8",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Entry: €8",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_23",
@@ -14258,28 +15302,31 @@ const candidateSpotsDatabase = {
       "lng": 7.7492,
       "desc_en": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
       "desc_ja": "1395 年に建てられた病院のワインセラーには古代のオーク樽が保管されており、その中には 1472 年からの世界最古の樽貯蔵ワインも含まれています。",
-      "desc_es": "Bodega de hospital de 1395 que alberga antiguas barricas de roble, incluido el vino almacenado en barricas más antiguo del mundo, de 1472.",
-      "desc_zh": "建于 1395 年的医院酒窖内装有古老的橡木桶，其中包括 1472 年世界上最古老的桶装葡萄酒。",
-      "desc_fr": "Cave à vin d'hôpital de 1395 abritant d'anciens fûts de chêne, dont le plus vieux vin stocké en fûts au monde datant de 1472.",
-      "desc_de": "Der Weinkeller des Krankenhauses aus dem Jahr 1395 beherbergt alte Eichenfässer, darunter den ältesten in Fässern gelagerten Wein der Welt aus dem Jahr 1472.",
+      "desc_es": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_zh": "1395医院酒窖装有古老的橡木桶，包括世界上最古老的1472年桶装葡萄酒。",
+      "desc_fr": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_de": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Cave Historique des Hospices de Strasbourg",
       "name_ja": "ストラスブールのオスピス歴史洞窟",
       "name_es": "Cueva Histórica de los Hospices de Estrasburgo",
       "name_zh": "斯特拉斯堡临终关怀洞穴历史",
       "name_fr": "Cave Historique des Hospices de Strasbourg",
-      "name_de": "Historische Höhle des Hospices de Straßburg",
+      "name_de": "Cave Historique des Hospices de Straßburg",
       "price_en": "Free entry",
       "price_ja": "入場無料",
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
-      "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_fr": "Free entry",
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_24",
@@ -14298,29 +15345,32 @@ const candidateSpotsDatabase = {
       "lat": 48.5814,
       "lng": 7.7425,
       "desc_en": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
-      "desc_ja": "プティ フランスにある 1572 年創業の象徴的な木骨造りのレストラン。伝統的なアルザスのシュークルート ガルニーで有名。",
+      "desc_ja": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
       "desc_es": "Icónico restaurante con entramado de madera de 1572 en Petite France, famoso por la tradicional choucroute garnie alsaciana.",
       "desc_zh": "位于小法国的标志性半木结构餐厅，建于 1572 年，以传统的阿尔萨斯 choucroute garnie 闻名。",
       "desc_fr": "Restaurant à colombages emblématique de 1572 dans la Petite France, célèbre pour sa choucroute garnie alsacienne traditionnelle.",
       "desc_de": "Ikonisches Fachwerkrestaurant aus dem Jahr 1572 in Petite France, berühmt für seine traditionelle elsässische Sauerkraut-Garnie.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Maison des Tanneurs",
       "name_ja": "メゾン デ タヌール",
       "name_es": "Casa de los curtidores",
-      "name_zh": "Maison des Tanneurs",
+      "name_zh": "制革厂",
       "name_fr": "Maison des Tanneurs",
       "name_de": "Maison des Tanneurs",
       "price_en": "Mains: €22–€38",
       "price_ja": "メイン: €22–€38",
       "price_es": "Plato principal: 22€–38€",
       "price_zh": "主电源：22 欧元–38 欧元",
-      "price_fr": "Plat : 22 € – 38 €",
-      "price_de": "Hauptspeisen: 22–38 €"
+      "price_fr": "Plats : 22 – 38 €",
+      "price_de": "Hauptgericht: 22–38 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_25",
@@ -14339,7 +15389,7 @@ const candidateSpotsDatabase = {
       "lat": 48.5828,
       "lng": 7.7511,
       "desc_en": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
-      "desc_ja": "大統領や王族も頻繁に訪れるアルザスの歴史あるウィンストゥブでは、本格的なバッケオッフェやポークナックルを提供しています。",
+      "desc_ja": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
       "desc_es": "Winstub histórico alsaciano frecuentado por presidentes y miembros de la realeza, que sirve auténtico baeckeoffe y codillo de cerdo.",
       "desc_zh": "历史悠久的阿尔萨斯温斯塔布餐厅是总统和皇室成员经常光顾的地方，供应正宗的奶酪和猪肘。",
       "desc_fr": "Winstub alsacienne historique fréquentée par les présidents et la royauté, servant d'authentiques baeckeoffe et jarret de porc.",
@@ -14351,17 +15401,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Winstub Chez Yvonne",
-      "name_ja": "ウィンスタブ シェ イヴォンヌ",
+      "name_ja": "ウィンストゥブ シェ イヴォンヌ",
       "name_es": "Winstub Chez Yvonne",
-      "name_zh": "温斯图布·伊冯之家",
+      "name_zh": "温斯图布·伊冯娜之家",
       "name_fr": "Winstub Chez Yvonne",
       "name_de": "Winstub Chez Yvonne",
       "price_en": "Mains: €20–€35",
       "price_ja": "メイン: €20–€35",
-      "price_es": "Plato principal: 20€–35€",
+      "price_es": "Mains: €20–€35",
       "price_zh": "主电源：20 欧元–35 欧元",
-      "price_fr": "Plat : 20 – 35 €",
-      "price_de": "Hauptspeisen: 20–35 €"
+      "price_fr": "Plats : 20 à 35 €",
+      "price_de": "Hauptgericht: 20–35 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_26",
@@ -14392,7 +15445,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Winstub Le Tire-Bouchon",
-      "name_ja": "ウィンスタブ ル タイヤ ブション",
+      "name_ja": "ウィンスタブ ル ティレ ブション",
       "name_es": "Winstub Le Tire-Bouchon",
       "name_zh": "温斯图布·勒·泰尔·布雄",
       "name_fr": "Winstub Le Tire-Bouchon",
@@ -14400,9 +15453,12 @@ const candidateSpotsDatabase = {
       "price_en": "Mains: €18–€32",
       "price_ja": "メイン: €18–€32",
       "price_es": "Plato principal: 18€–32€",
-      "price_zh": "主电源： 18 欧元 - 32 欧元",
-      "price_fr": "Plat : 18 € – 32 €",
-      "price_de": "Hauptspeisen: 18–32 €"
+      "price_zh": "主电源：18 欧元 - 32 欧元",
+      "price_fr": "Plats : 18 € – 32 €",
+      "price_de": "Hauptgericht: 18–32 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_27",
@@ -14428,22 +15484,25 @@ const candidateSpotsDatabase = {
       "desc_de": "Eleganter Teesalon mit kunstvoller Fassade, bekannt für heiße Schokolade, Kugelhopf und exquisite elsässische Törtchen.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Pâtisserie Christian",
       "name_ja": "パティスリー クリスチャン",
-      "name_es": "Pastelería Cristiana",
-      "name_zh": "基督教糕点",
+      "name_es": "pastelería cristiana",
+      "name_zh": "基督教糕点店",
       "name_fr": "Pâtisserie Christian",
       "name_de": "Pâtisserie Christian",
       "price_en": "Pastry: €5–€8",
-      "price_ja": "ペストリー: 5 ～ 8 ユーロ",
+      "price_ja": "Pastry: €5–€8",
       "price_es": "Pastelería: 5€–8€",
-      "price_zh": "糕点：5–8 欧元",
+      "price_zh": "糕点：5-8 欧元",
       "price_fr": "Pâtisserie : 5 à 8 €",
-      "price_de": "Gebäck: 5–8 €"
+      "price_de": "Gebäck: 5–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_28",
@@ -14468,7 +15527,7 @@ const candidateSpotsDatabase = {
       "desc_fr": "Boulangeries artisanales autour de la place de la cathédrale vendant des gâteaux à la levure fraîche Kugelhopf, des pains d'épices et des bretzels.",
       "desc_de": "Handwerkliche Bäckereien rund um den Domplatz verkaufen frische Kugelhopf-Hefekuchen, Pain d'épices und Brezeln.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
@@ -14476,15 +15535,18 @@ const candidateSpotsDatabase = {
       "name_en": "Traditional Kugelhopf & Gingerbread Bakeries",
       "name_ja": "伝統的なクーゲルホップとジンジャーブレッドのパン屋",
       "name_es": "Panaderías tradicionales Kugelhopf y pan de jengibre",
-      "name_zh": "传统 Kugelhopf 和姜饼面包店",
+      "name_zh": "传统库格霍夫和姜饼面包店",
       "name_fr": "Boulangeries traditionnelles Kugelhopf et pain d'épices",
       "name_de": "Traditionelle Kugelhopf- und Lebkuchenbäckereien",
       "price_en": "Pastry: €3–€7",
-      "price_ja": "ペストリー: 3 ユーロ～7 ユーロ",
+      "price_ja": "ペストリー: €3–€7",
       "price_es": "Pastelería: 3€–7€",
-      "price_zh": "糕点： €3–€7",
+      "price_zh": "糕点：€3–€7",
       "price_fr": "Pâtisserie : 3 à 7 €",
-      "price_de": "Gebäck: 3–7 €"
+      "price_de": "Gebäck: 3–7 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_29",
@@ -14515,17 +15577,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Brasserie Les Haras",
-      "name_ja": "ブラッセリー レハラ",
+      "name_ja": "ブラッスリー レ アラ",
       "name_es": "Brasserie Les Haras",
-      "name_zh": "Les Haras 啤酒店",
+      "name_zh": "哈拉斯啤酒店",
       "name_fr": "Brasserie Les Haras",
       "name_de": "Brasserie Les Haras",
       "price_en": "Mains: €24–€42",
       "price_ja": "メイン: €24–€42",
       "price_es": "Plato principal: 24€–42€",
       "price_zh": "主电源：24 欧元–42 欧元",
-      "price_fr": "Plat : 24 € – 42 €",
-      "price_de": "Hauptspeisen: 24–42 €"
+      "price_fr": "Plats : 24 € – 42 €",
+      "price_de": "Hauptgericht: 24–42 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_30",
@@ -14557,16 +15622,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Route des Vins d'Alsace Wineries",
       "name_ja": "ルート デ ヴァン ダルザス ワイナリー",
-      "name_es": "Bodegas Route des Vins d'Alsace",
+      "name_es": "Bodegas Ruta de los Vinos de Alsacia",
       "name_zh": "阿尔萨斯葡萄酒之路酒庄",
-      "name_fr": "Domaines de la Route des Vins d'Alsace",
+      "name_fr": "Domaines viticoles de la Route des Vins d'Alsace",
       "name_de": "Weingüter Route des Vins d'Alsace",
       "price_en": "Tasting: €10–€25",
       "price_ja": "テイスティング: €10–€25",
       "price_es": "Degustación: 10€–25€",
-      "price_zh": "品尝：10 – 25 欧元",
+      "price_zh": "品尝：10 欧元 - 25 欧元",
       "price_fr": "Dégustation : 10 – 25 €",
-      "price_de": "Verkostung: 10–25 €"
+      "price_de": "Verkostung: 10–25 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_31",
@@ -14598,16 +15666,19 @@ const candidateSpotsDatabase = {
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "La Petite France",
       "name_ja": "ラ プティット フランス",
-      "name_es": "La Pequeña Francia",
+      "name_es": "La pequeña Francia",
       "name_zh": "小法兰西",
       "name_fr": "La Petite France",
       "name_de": "La Petite France",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_32",
@@ -14632,23 +15703,26 @@ const candidateSpotsDatabase = {
       "desc_fr": "Île classée au patrimoine mondial de l'UNESCO, entourée par la rivière Ill, formant le noyau piétonnier historique de Strasbourg.",
       "desc_de": "UNESCO-Weltkulturerbeinsel, umgeben vom Fluss Ill, die den historischen Fußgängerkern Straßburgs bildet.",
       "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
-      "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
-      "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
+      "tip_ja": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_es": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "La Grande Île (UNESCO Historic Island)",
-      "name_ja": "ラ グランド イル (ユネスコ歴史的島)",
-      "name_es": "La Grande Île (Isla histórica de la UNESCO)",
-      "name_zh": "拉格兰德岛（联合国教科文组织历史岛屿）",
-      "name_fr": "La Grande Île (Île historique de l'UNESCO)",
+      "name_ja": "ラ グランド イル (ユネスコ歴史島)",
+      "name_es": "La Grande Île (UNESCO Historic Island)",
+      "name_zh": "拉格兰德岛（联合国教科文组织历史悠久的岛屿）",
+      "name_fr": "La Grande Île (UNESCO Historic Island)",
       "name_de": "La Grande Île (UNESCO-historische Insel)",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_33",
@@ -14687,9 +15761,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_34",
@@ -14720,17 +15797,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Quai des Bateliers & Berges de l'Ill",
-      "name_ja": "ケ デ バトリエとベルジュ ドゥ リル",
-      "name_es": "Quai des Bateliers y Berges de l'Ill",
-      "name_zh": "Quai des Bateliers & Berges de l'Ill",
-      "name_fr": "Quai des Bateliers & Berges de l'Ill",
+      "name_ja": "ケ デ バトリエ & ベルジュ ドゥ リル",
+      "name_es": "Muelle de los Bateliers y Berges de l'Ill",
+      "name_zh": "巴特利耶码头和伊尔山",
+      "name_fr": "Quai des Bateliers et Berges de l'Ill",
       "name_de": "Quai des Bateliers & Berges de l'Ill",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_35",
@@ -14759,19 +15839,22 @@ const candidateSpotsDatabase = {
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_de": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "name_en": "Lycée des Pontonniers & Canal View",
       "name_ja": "リセ デ ポントニエとカナル ビュー",
-      "name_es": "Lycée des Pontonniers y vista al canal",
+      "name_es": "Lycée des Pontonniers y vistas al canal",
       "name_zh": "Lycée des Pontonniers 和运河景观",
       "name_fr": "Lycée des Pontonniers & Vue Canal",
       "name_de": "Lycée des Pontonniers & Blick auf den Kanal",
       "price_en": "Free exterior",
-      "price_ja": "無料の外装",
-      "price_es": "Exterior libre",
+      "price_ja": "自由な外装",
+      "price_es": "Free exterior",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_36",
@@ -14799,20 +15882,23 @@ const candidateSpotsDatabase = {
       "tip_ja": "素晴らしい写真を撮り、混雑が少ない早朝またはゴールデンアワーに訪れるのが最適です。",
       "tip_es": "Es mejor visitarlo temprano en la mañana o en la hora dorada para obtener excelentes fotografías y menos multitudes.",
       "tip_zh": "最好在清晨或黄金时段参观，可以拍出精彩的照片，而且人群较少。",
-      "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
+      "tip_fr": "Best visited in early morning or golden hour for great photos and fewer crowds.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Quartier de la Krutenau",
       "name_ja": "ラ クルトゥノー地区",
-      "name_es": "Barrio de la Krutenau",
-      "name_zh": "克鲁特瑙区",
+      "name_es": "Quartier de la Krutenau",
+      "name_zh": "Quartier de la Krutenau",
       "name_fr": "Quartier de la Krutenau",
       "name_de": "Quartier de la Krutenau",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "st_37",
@@ -14847,13 +15933,16 @@ const candidateSpotsDatabase = {
       "name_es": "Paseo en barco por Batorama",
       "name_zh": "巴托拉马乘船游览",
       "name_fr": "Excursion en bateau à Batorama",
-      "name_de": "Batorama-Bootstour",
+      "name_de": "Batorama Boat Tour",
       "price_en": "Ticket: €15",
-      "price_ja": "チケット: 15 ユーロ",
+      "price_ja": "チケット: €15",
       "price_es": "Entrada: 15€",
-      "price_zh": "门票：15 欧元",
+      "price_zh": "门票：15欧元",
       "price_fr": "Billet : 15 €",
-      "price_de": "Ticket: 15 €"
+      "price_de": "Ticket: 15 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_38",
@@ -14892,9 +15981,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_39",
@@ -14927,15 +16019,18 @@ const candidateSpotsDatabase = {
       "name_en": "Riquewihr & Kaysersberg Medieval Villages",
       "name_ja": "リクヴィールとケゼルスベールの中世の村",
       "name_es": "Pueblos medievales de Riquewihr y Kaysersberg",
-      "name_zh": "利克维和凯泽贝尔中世纪村庄",
-      "name_fr": "Villages Médiévaux de Riquewihr et Kaysersberg",
+      "name_zh": "利克威尔和凯泽贝尔中世纪村庄",
+      "name_fr": "Villages médiévaux de Riquewihr et Kaysersberg",
       "name_de": "Mittelalterliche Dörfer Riquewihr und Kaysersberg",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_40",
@@ -14976,7 +16071,10 @@ const candidateSpotsDatabase = {
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_41",
@@ -15007,17 +16105,20 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Le Vaisseau Science Center",
-      "name_ja": "ル ヴァイソー科学センター",
+      "name_ja": "ル ヴェソー科学センター",
       "name_es": "Centro de Ciencias Le Vaisseau",
-      "name_zh": "Le Vaisseau 科学中心",
+      "name_zh": "勒维索科学中心",
       "name_fr": "Centre des sciences Le Vaisseau",
       "name_de": "Wissenschaftszentrum Le Vaisseau",
       "price_en": "Entry: €12",
-      "price_ja": "入場料: 12 ユーロ",
+      "price_ja": "入場料: €12",
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
-      "price_de": "Eintritt: 12 €"
+      "price_de": "Eintritt: 12 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "st_42",
@@ -15056,9 +16157,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_43",
@@ -15089,7 +16193,7 @@ const candidateSpotsDatabase = {
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Jardin des Deux Rives (Two Banks Garden)",
-      "name_ja": "Jardin des Deux Rives (トゥー バンクス ガーデン)",
+      "name_ja": "ジャルダン デ ドゥ リーヴ (ツー バンクス ガーデン)",
       "name_es": "Jardin des Deux Rives (Jardín de las dos orillas)",
       "name_zh": "Jardin des Deux Rives（两岸花园）",
       "name_fr": "Jardin des Deux Rives",
@@ -15097,9 +16201,12 @@ const candidateSpotsDatabase = {
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "st_44",
@@ -15132,15 +16239,18 @@ const candidateSpotsDatabase = {
       "name_en": "Écomusée d'Alsace",
       "name_ja": "アルザス エコムゼ",
       "name_es": "Museo de Alsacia",
-      "name_zh": "阿尔萨斯国立博物馆",
+      "name_zh": "阿尔萨斯生态博物馆",
       "name_fr": "Écomusée d'Alsace",
       "name_de": "Écomusée d'Alsace",
       "price_en": "Entry: €16.50",
       "price_ja": "入場料: €16.50",
-      "price_es": "Entrada: 16,50 €",
+      "price_es": "Entrada: 16,50€",
       "price_zh": "入场费：16.50 欧元",
       "price_fr": "Entrée : 16,50 €",
-      "price_de": "Eintritt: 16,50 €"
+      "price_de": "Eintritt: 16,50 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "st_45",
@@ -15181,7 +16291,10 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada: 61,50 €",
       "price_zh": "门票：61.50 欧元",
       "price_fr": "Billet : 61,50 €",
-      "price_de": "Ticket: 61,50 €"
+      "price_de": "Ticket: 61,50 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ],
   "Toulouse, France": [
@@ -15209,16 +16322,20 @@ const candidateSpotsDatabase = {
       "hasWiki": false,
       "name_en": "Place du Capitole & Capitole de Toulouse",
       "name_ja": "キャピトル広場とトゥールーズ キャピトル",
-      "name_es": "Plaza del Capitole y Capitolio de Toulouse",
+      "name_es": "Plaza del Capitolio y Capitolio de Toulouse",
       "name_zh": "卡皮托勒广场和图卢兹卡皮托勒",
       "name_fr": "Place du Capitole et Capitole de Toulouse",
       "name_de": "Place du Capitole und Capitole de Toulouse",
       "price_en": "Free square / €5 tour",
-      "price_ja": "無料の広場 / €5 ツアー",
+      "price_ja": "無料の広場 / ツアー €5",
       "price_es": "Plaza gratis / visita 5€",
-      "price_zh": "免费广场/5 欧元游览",
-      "price_fr": "Place gratuite / Visite 5€",
-      "price_de": "Kostenloser Platz / 5-€-Tour"
+      "price_zh": "免费广场 / 5 欧元游览",
+      "price_fr": "Place gratuite / visite 5€",
+      "price_de": "Kostenloser Platz / 5 € Tour",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_2",
@@ -15245,15 +16362,19 @@ const candidateSpotsDatabase = {
       "name_en": "Basilique Saint-Sernin",
       "name_ja": "サン・セルナン大聖堂",
       "name_es": "Basílica de San Sernín",
-      "name_zh": "圣舍宁大教堂",
-      "name_fr": "Basilique Saint-Sernin",
+      "name_zh": "圣舍宁教堂",
+      "name_fr": "Basilique Saint Sernin",
       "name_de": "Basilique Saint-Sernin",
       "price_en": "Free entry / €2.50 crypt",
       "price_ja": "入場無料 / 暗号通貨 €2.50",
-      "price_es": "Entrada gratuita / 2,50€ cripta",
-      "price_zh": "免费入场 / 2.50 欧元地穴",
+      "price_es": "Entrada gratuita / cripta 2,50€",
+      "price_zh": "免费入场 / 地穴 2.50 欧元",
       "price_fr": "Entrée gratuite / 2,50 € crypte",
-      "price_de": "Freier Eintritt / 2,50 € Krypta"
+      "price_de": "Freier Eintritt / 2,50 € Krypta",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_3",
@@ -15284,11 +16405,15 @@ const candidateSpotsDatabase = {
       "name_fr": "Couvent des Jacobins",
       "name_de": "Couvent des Jacobins",
       "price_en": "Free church / €5 cloister",
-      "price_ja": "無料の教会 / €5 の回廊",
+      "price_ja": "教会無料 / 回廊 €5",
       "price_es": "Iglesia gratis / claustro 5€",
       "price_zh": "免费教堂 / 5 欧元回廊",
       "price_fr": "Église gratuite / cloître 5 €",
-      "price_de": "Freie Kirche / 5 € Kreuzgang"
+      "price_de": "Freie Kirche / 5 € Kreuzgang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_4",
@@ -15320,10 +16445,14 @@ const candidateSpotsDatabase = {
       "name_de": "Pont Neuf Toulouse",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_5",
@@ -15358,7 +16487,11 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_6",
@@ -15384,16 +16517,20 @@ const candidateSpotsDatabase = {
       "hasWiki": true,
       "name_en": "Hôtel d'Assézat",
       "name_ja": "オテル ダセザ",
-      "name_es": "Hotel de Assézat",
-      "name_zh": "阿塞扎酒店",
+      "name_es": "Hotel d'Assézat",
+      "name_zh": "阿塞扎特酒店",
       "name_fr": "Hôtel d'Assézat",
       "name_de": "Hôtel d'Assézat",
       "price_en": "Free courtyard / €10 museum",
-      "price_ja": "無料の中庭 / 10 ユーロの博物館",
-      "price_es": "Patio gratuito / Museo 10€",
+      "price_ja": "無料の中庭 / 博物館 €10",
+      "price_es": "Patio gratuito / museo 10€",
       "price_zh": "免费庭院 / 10 欧元博物馆",
       "price_fr": "Cour gratuite / 10 € musée",
-      "price_de": "Kostenloser Innenhof / 10 € Museum"
+      "price_de": "Kostenloser Innenhof / 10 € Museum",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_7",
@@ -15428,7 +16565,11 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_8",
@@ -15459,11 +16600,15 @@ const candidateSpotsDatabase = {
       "name_fr": "Hôtel-Dieu Saint-Jacques",
       "name_de": "Hôtel-Dieu Saint-Jacques",
       "price_en": "Free exterior",
-      "price_ja": "無料の外装",
-      "price_es": "Exterior libre",
+      "price_ja": "自由な外装",
+      "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_9",
@@ -15495,10 +16640,14 @@ const candidateSpotsDatabase = {
       "name_de": "Cité de Carcassonne",
       "price_en": "Free citadel / €9.50 castle",
       "price_ja": "無料の城塞 / €9.50 城",
-      "price_es": "Ciudadela gratis / Castillo 9,50€",
+      "price_es": "Ciudadela gratis / castillo 9,50€",
       "price_zh": "免费城堡 / €9.50 城堡",
       "price_fr": "Citadelle gratuite / Château 9,50 €",
-      "price_de": "Kostenlose Zitadelle / 9,50 € Burg"
+      "price_de": "Kostenlose Zitadelle / 9,50 € Burg",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_10",
@@ -15526,14 +16675,18 @@ const candidateSpotsDatabase = {
       "name_ja": "アルビ司教座聖堂とサント セシル大聖堂",
       "name_es": "Ciudad Épiscopale d'Albi y Catedral Sainte-Cécile",
       "name_zh": "阿尔比主教城和圣塞西尔大教堂",
-      "name_fr": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
+      "name_fr": "Cité épiscopale d'Albi et cathédrale Sainte-Cécile",
       "name_de": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
       "price_en": "Free cathedral / €10 Lautrec museum",
-      "price_ja": "大聖堂無料 / ロートレック美術館 10 ユーロ",
+      "price_ja": "大聖堂無料 / ロートレック美術館 €10",
       "price_es": "Catedral gratis / 10€ Museo Lautrec",
       "price_zh": "免费大教堂 / 10 欧元 劳特累克博物馆",
       "price_fr": "Cathédrale gratuite / 10 € Musée Lautrec",
-      "price_de": "Kostenlose Kathedrale / 10 € Lautrec-Museum"
+      "price_de": "Kostenlose Kathedrale / 10 € Lautrec-Museum",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_11",
@@ -15564,11 +16717,15 @@ const candidateSpotsDatabase = {
       "name_fr": "Musée des Augustins",
       "name_de": "Musée des Augustins",
       "price_en": "€6–€8",
-      "price_ja": "6 ユーロ～8 ユーロ",
+      "price_ja": "6ユーロ～8ユーロ",
       "price_es": "6€–8€",
       "price_zh": "6 欧元–8 欧元",
       "price_fr": "6€–8€",
-      "price_de": "6–8 €"
+      "price_de": "6–8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_12",
@@ -15595,7 +16752,7 @@ const candidateSpotsDatabase = {
       "name_en": "Fondation Bemberg",
       "name_ja": "ベンベルク財団",
       "name_es": "Fundación Bemberg",
-      "name_zh": "宾霸基金会",
+      "name_zh": "本贝格基金会",
       "name_fr": "Fondation Bemberg",
       "name_de": "Fondation Bemberg",
       "price_en": "€10",
@@ -15603,7 +16760,11 @@ const candidateSpotsDatabase = {
       "price_es": "10€",
       "price_zh": "10 欧元",
       "price_fr": "10 €",
-      "price_de": "10 €"
+      "price_de": "10 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_13",
@@ -15628,17 +16789,21 @@ const candidateSpotsDatabase = {
       "image": "",
       "hasWiki": false,
       "name_en": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
-      "name_ja": "Les Abattoirs、美術館 - Frac Occitanie トゥールーズ",
+      "name_ja": "レ アバトワール、ミュゼ - Frac Occitanie トゥールーズ",
       "name_es": "Les Abattoirs, Museo - Frac Occitanie Toulouse",
-      "name_zh": "Les Abattoirs，博物馆 - Frac Occitanie 图卢兹",
+      "name_zh": "屠宰场，博物馆 - Frac Occitanie 图卢兹",
       "name_fr": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
       "name_de": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
       "price_en": "€9",
       "price_ja": "9ユーロ",
-      "price_es": "9€",
+      "price_es": "9 €",
       "price_zh": "9 欧元",
       "price_fr": "9 €",
-      "price_de": "9 €"
+      "price_de": "9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_14",
@@ -15663,7 +16828,7 @@ const candidateSpotsDatabase = {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mus%C3%A9e_Saint-Raymond_-_Toulouse.jpg/330px-Mus%C3%A9e_Saint-Raymond_-_Toulouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "name_en": "Musée Saint-Raymond",
-      "name_ja": "サン レーモン美術館",
+      "name_ja": "サン・レーモン美術館",
       "name_es": "Museo Saint-Raymond",
       "name_zh": "圣雷蒙博物馆",
       "name_fr": "Musée Saint-Raymond",
@@ -15672,8 +16837,12 @@ const candidateSpotsDatabase = {
       "price_ja": "5ユーロ",
       "price_es": "5€",
       "price_zh": "5 欧元",
-      "price_fr": "5 €",
-      "price_de": "5 €"
+      "price_fr": "5€",
+      "price_de": "5 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_15",
@@ -15702,13 +16871,17 @@ const candidateSpotsDatabase = {
       "name_es": "Museo de Toulouse",
       "name_zh": "图卢兹博物馆",
       "name_fr": "Musée de Toulouse",
-      "name_de": "Muséum de Toulouse",
+      "name_de": "Museum von Toulouse",
       "price_en": "€9 (Includes Botanical Garden)",
       "price_ja": "€9 (植物園を含む)",
       "price_es": "9€ (Incluye Jardín Botánico)",
       "price_zh": "€9（包括植物园）",
-      "price_fr": "9 € (inclut le jardin botanique)",
-      "price_de": "9 € (inklusive Botanischer Garten)"
+      "price_fr": "9 € (Comprend le Jardin Botanique)",
+      "price_de": "9 € (inklusive Botanischer Garten)",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_16",
@@ -15736,14 +16909,18 @@ const candidateSpotsDatabase = {
       "name_ja": "ポール・デュピュイ美術館",
       "name_es": "Museo Paul-Dupuy",
       "name_zh": "保罗杜皮博物馆",
-      "name_fr": "Musée Paul-Dupuy",
+      "name_fr": "Musée Paul Dupuy",
       "name_de": "Musée Paul-Dupuy",
       "price_en": "€5",
       "price_ja": "5ユーロ",
       "price_es": "5€",
       "price_zh": "5 欧元",
-      "price_fr": "5 €",
-      "price_de": "5 €"
+      "price_fr": "5€",
+      "price_de": "5 €",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_17",
@@ -15770,15 +16947,19 @@ const candidateSpotsDatabase = {
       "name_en": "Aeroscopia Aviation Museum",
       "name_ja": "アエロスコピア航空博物館",
       "name_es": "Museo de Aviación Aeroscopia",
-      "name_zh": "Aeroscopia 航空博物馆",
+      "name_zh": "航空博物馆",
       "name_fr": "Musée de l'aviation Aeroscopia",
       "name_de": "Luftfahrtmuseum Aeroscopia",
       "price_en": "€14",
-      "price_ja": "14 ユーロ",
+      "price_ja": "14ユーロ",
       "price_es": "14€",
       "price_zh": "14 欧元",
       "price_fr": "14 €",
-      "price_de": "14 €"
+      "price_de": "14 €",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_18",
@@ -15806,14 +16987,18 @@ const candidateSpotsDatabase = {
       "name_ja": "エアバスツアーに行ってみよう",
       "name_es": "Visitemos el tour Airbus",
       "name_zh": "让我们参观空中客车之旅",
-      "name_fr": "Visitons la tournée Airbus",
+      "name_fr": "Visitons Airbus Tour",
       "name_de": "Besuchen Sie uns bei der Airbus-Tour",
       "price_en": "€16 (Advance booking mandatory)",
       "price_ja": "€16 (事前予約必須)",
-      "price_es": "16€ (Reserva anticipada obligatoria)",
+      "price_es": "16€ (Obligatoria reserva anticipada)",
       "price_zh": "€16（必须提前预订）",
-      "price_fr": "16 € (Réservation préalable obligatoire)",
-      "price_de": "16 € (Voranmeldung erforderlich)"
+      "price_fr": "16 € (Réservation obligatoire)",
+      "price_de": "16 € (Voranmeldung erforderlich)",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_19",
@@ -15844,11 +17029,15 @@ const candidateSpotsDatabase = {
       "name_fr": "Marché Victor Hugo",
       "name_de": "Marché Victor Hugo",
       "price_en": "€15–€30 lunch",
-      "price_ja": "ランチ €15 ～ €30",
-      "price_es": "15€–30€ almuerzo",
+      "price_ja": "ランチ €15～€30",
+      "price_es": "15€-30€ almuerzo",
       "price_zh": "午餐 15 欧元至 30 欧元",
       "price_fr": "15 à 30 € le déjeuner",
-      "price_de": "15–30 € Mittagessen"
+      "price_de": "15–30 € Mittagessen",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_20",
@@ -15883,7 +17072,11 @@ const candidateSpotsDatabase = {
       "price_es": "5€ café / 35€ comida",
       "price_zh": "咖啡 5 欧元/餐 35 欧元",
       "price_fr": "Café 5 € / Repas 35 €",
-      "price_de": "5 € Kaffee / 35 € Mahlzeit"
+      "price_de": "5 € Kaffee / 35 € Mahlzeit",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_21",
@@ -15911,14 +17104,18 @@ const candidateSpotsDatabase = {
       "name_ja": "ル コロンビエ カスレ",
       "name_es": "Le Colombier Cassoulet",
       "name_zh": "Le Colombier 卡酥来砂锅",
-      "name_fr": "Le Colombier Cassoulet",
+      "name_fr": "Cassoulet du Colombier",
       "name_de": "Le Colombier Cassoulet",
       "price_en": "€24–€32",
-      "price_ja": "24 ユーロ～32 ユーロ",
+      "price_ja": "24ユーロ～32ユーロ",
       "price_es": "24€–32€",
       "price_zh": "24 欧元–32 欧元",
       "price_fr": "24€–32€",
-      "price_de": "24–32 €"
+      "price_de": "24–32 €",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_22",
@@ -15943,7 +17140,7 @@ const candidateSpotsDatabase = {
       "image": "",
       "hasWiki": false,
       "name_en": "La Maison de la Violette",
-      "name_ja": "ラ メゾン ド ラ ヴィオレット",
+      "name_ja": "ラ メゾン ドゥ ラ ヴィオレット",
       "name_es": "La Casa de la Violette",
       "name_zh": "紫罗兰之家",
       "name_fr": "La Maison de la Violette",
@@ -15952,8 +17149,12 @@ const candidateSpotsDatabase = {
       "price_ja": "3 ユーロ～15 ユーロのバイオレット製品",
       "price_es": "3€–15€ productos violetas",
       "price_zh": "€3–€15 紫罗兰产品",
-      "price_fr": "3 à 15 € de produits à la violette",
-      "price_de": "3–15 € violette Produkte"
+      "price_fr": "Produits à la violette de 3 à 15 €",
+      "price_de": "3–15 € violette Produkte",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_23",
@@ -15984,11 +17185,15 @@ const candidateSpotsDatabase = {
       "name_fr": "Marché des Carmes",
       "name_de": "Marché des Carmes",
       "price_en": "€5–€20",
-      "price_ja": "5 ユーロ～20 ユーロ",
+      "price_ja": "5ユーロ～20ユーロ",
       "price_es": "5€–20€",
       "price_zh": "5 欧元–20 欧元",
-      "price_fr": "5€–20€",
-      "price_de": "5–20 €"
+      "price_fr": "5 € – 20 €",
+      "price_de": "5–20 €",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_24",
@@ -16014,16 +17219,20 @@ const candidateSpotsDatabase = {
       "hasWiki": false,
       "name_en": "Maison Pillon & Pâtisserie Bault",
       "name_ja": "メゾン ピヨン & パティスリー ボー",
-      "name_es": "Maison Pillon y pastelería Bault",
+      "name_es": "Maison Pillon & Pastelería Bault",
       "name_zh": "Maison Pillon 和 Pâtisserie Bault",
       "name_fr": "Maison Pillon & Pâtisserie Bault",
       "name_de": "Maison Pillon & Pâtisserie Bault",
       "price_en": "€4–€8 pastries",
       "price_ja": "4 ユーロ～8 ユーロのペストリー",
       "price_es": "4€–8€ bollería",
-      "price_zh": "4–8 欧元糕点",
+      "price_zh": "4-8 欧元糕点",
       "price_fr": "4 à 8 € de pâtisseries",
-      "price_de": "4–8 € Gebäck"
+      "price_de": "4–8 € Gebäck",
+      "rain": true,
+      "shopping": true,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_25",
@@ -16049,16 +17258,20 @@ const candidateSpotsDatabase = {
       "hasWiki": false,
       "name_en": "Domaine de Montjoie & Fronton Wineries",
       "name_ja": "ドメーヌ ド モンジョワ & フロントン ワイナリー",
-      "name_es": "Domaine de Montjoie y Bodegas Fronton",
+      "name_es": "Domaine de Montjoie y bodegas Fronton",
       "name_zh": "蒙茹瓦酒庄和弗龙顿酒庄",
-      "name_fr": "Domaine de Montjoie et Caves Fronton",
-      "name_de": "Domaine de Montjoie & Fronton Wineries",
+      "name_fr": "Domaine de Montjoie et caves Fronton",
+      "name_de": "Domaine de Montjoie & Fronton Weingüter",
       "price_en": "€10–€25 tasting",
-      "price_ja": "10 ～ 25 ユーロのテイスティング",
-      "price_es": "Degustación entre 10€ y 25€",
+      "price_ja": "10 ユーロ～25 ユーロのテイスティング",
+      "price_es": "10€–25€ degustación",
       "price_zh": "品尝 10-25 欧元",
       "price_fr": "10 à 25 € dégustation",
-      "price_de": "10–25 € Verkostung"
+      "price_de": "10–25 € Verkostung",
+      "rain": true,
+      "shopping": false,
+      "free": false,
+      "kids": false
     },
     {
       "id": "to_26",
@@ -16083,17 +17296,21 @@ const candidateSpotsDatabase = {
       "image": "",
       "hasWiki": false,
       "name_en": "Quai de la Daurade & Promenade de la Garonne",
-      "name_ja": "ケ ド ラ ドラードとプロムナード ドゥ ラ ガロンヌ",
+      "name_ja": "ドラード通りとガロンヌ プロムナード",
       "name_es": "Muelle de la Daurade y Paseo de la Garona",
-      "name_zh": "Quai de la Daurade 和 Promenade de la Garonne",
+      "name_zh": "道拉德码头和加龙河长廊",
       "name_fr": "Quai de la Daurade et Promenade de la Garonne",
       "name_de": "Quai de la Daurade und Promenade de la Garonne",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_27",
@@ -16121,14 +17338,18 @@ const candidateSpotsDatabase = {
       "name_ja": "カルティエ デ カルムとカルティエ サンテティエンヌ",
       "name_es": "Barrio des Carmes y Barrio Saint-Étienne",
       "name_zh": "卡姆斯区和圣艾蒂安区",
-      "name_fr": "Quartier des Carmes & Quartier Saint-Étienne",
-      "name_de": "Quartier des Carmes & Quartier Saint-Étienne",
+      "name_fr": "Quartier des Carmes et Quartier Saint-Étienne",
+      "name_de": "Quartier des Carmes und Quartier Saint-Étienne",
       "price_en": "Free walk",
-      "price_ja": "自由散歩",
-      "price_es": "Paseo libre",
-      "price_zh": "自由行走",
+      "price_ja": "自由散策",
+      "price_es": "paseo libre",
+      "price_zh": "自由步行",
       "price_fr": "Promenade gratuite",
-      "price_de": "Freier Spaziergang"
+      "price_de": "Freier Spaziergang",
+      "rain": true,
+      "shopping": true,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_28",
@@ -16160,10 +17381,14 @@ const candidateSpotsDatabase = {
       "name_de": "Canal du Midi (Port de l'Embouchure)",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_29",
@@ -16189,16 +17414,20 @@ const candidateSpotsDatabase = {
       "hasWiki": false,
       "name_en": "Place Saint-Georges",
       "name_ja": "サンジョルジュ広場",
-      "name_es": "Plaza Saint-Georges",
+      "name_es": "Plaza Saint Georges",
       "name_zh": "圣乔治广场",
       "name_fr": "Place Saint-Georges",
       "name_de": "Place Saint-Georges",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_30",
@@ -16223,9 +17452,9 @@ const candidateSpotsDatabase = {
       "image": "",
       "hasWiki": false,
       "name_en": "Jardin Japonais Pierre Baudis",
-      "name_ja": "日本庭園ピエール・ボーディ",
+      "name_ja": "日本庭園 ピエール・ボーディ",
       "name_es": "Jardín Japonés Pierre Baudis",
-      "name_zh": "日本花园 Pierre Baudis",
+      "name_zh": "日本花园皮埃尔·鲍迪斯",
       "name_fr": "Jardin Japonais Pierre Baudis",
       "name_de": "Jardin Japonais Pierre Baudis",
       "price_en": "Free entry",
@@ -16233,7 +17462,11 @@ const candidateSpotsDatabase = {
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_31",
@@ -16259,16 +17492,20 @@ const candidateSpotsDatabase = {
       "hasWiki": false,
       "name_en": "Bateaux Toulousains Cruise",
       "name_ja": "バトー トゥールーザン クルーズ",
-      "name_es": "Crucero Bateaux Toulousains",
+      "name_es": "Crucero Bateaux Toulouseins",
       "name_zh": "图卢桑游船",
       "name_fr": "Croisière Bateaux Toulousains",
       "name_de": "Bateaux-Toulousains-Kreuzfahrt",
       "price_en": "€12–€16 cruise",
       "price_ja": "12 ユーロ～16 ユーロのクルーズ",
       "price_es": "Crucero entre 12 y 16 €",
-      "price_zh": "12 欧元–16 欧元游轮",
+      "price_zh": "游轮 12 欧元至 16 欧元",
       "price_fr": "Croisière de 12 à 16 €",
-      "price_de": "12–16 € Kreuzfahrt"
+      "price_de": "12–16 € Kreuzfahrt",
+      "rain": true,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_32",
@@ -16300,10 +17537,14 @@ const candidateSpotsDatabase = {
       "name_de": "Canal de Brienne",
       "price_en": "Free access",
       "price_ja": "無料アクセス",
-      "price_es": "Acceso gratuito",
-      "price_zh": "免费访问",
+      "price_es": "Acceso libre",
+      "price_zh": "免费使用",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_33",
@@ -16329,16 +17570,20 @@ const candidateSpotsDatabase = {
       "hasWiki": true,
       "name_en": "Cordes-sur-Ciel",
       "name_ja": "コルド・シュル・シエル",
-      "name_es": "Cordès-sur-Ciel",
+      "name_es": "Cordes-sur-Ciel",
       "name_zh": "谢河畔科尔德",
-      "name_fr": "Cordes-sur-Ciel",
+      "name_fr": "Cordes sur Ciel",
       "name_de": "Cordes-sur-Ciel",
       "price_en": "Free village entry",
-      "price_ja": "村への入場は無料",
+      "price_ja": "村への入場無料",
       "price_es": "Entrada gratuita al pueblo",
-      "price_zh": "免费进入村庄",
+      "price_zh": "免费进村",
       "price_fr": "Entrée gratuite au village",
-      "price_de": "Kostenloser Dorfeintritt"
+      "price_de": "Kostenloser Dorfeintritt",
+      "rain": false,
+      "shopping": false,
+      "free": true,
+      "kids": false
     },
     {
       "id": "to_34",
@@ -16372,9 +17617,12 @@ const candidateSpotsDatabase = {
       "price_en": "€24.50 adults / €18 kids",
       "price_ja": "大人 24.50 ユーロ / 子供 18 ユーロ",
       "price_es": "24,50€ adultos / 18€ niños",
-      "price_zh": "成人 24.50 欧元/儿童 18 欧元",
+      "price_zh": "成人 €24.50 / 儿童 €18",
       "price_fr": "24,50 € adultes / 18 € enfants",
-      "price_de": "24,50 € Erwachsene / 18 € Kinder"
+      "price_de": "24,50 € Erwachsene / 18 € Kinder",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_35",
@@ -16400,8 +17648,8 @@ const candidateSpotsDatabase = {
       "image": "",
       "hasWiki": false,
       "name_en": "La Halle de la Machine",
-      "name_ja": "ラ・アル・ド・ラ・マシン",
-      "name_es": "La Sala de la Máquina",
+      "name_ja": "ラ・アル・ドゥ・ラ・マシン",
+      "name_es": "La Halle de la Machine",
       "name_zh": "机器大厅",
       "name_fr": "La Halle de la Machine",
       "name_de": "La Halle de la Machine",
@@ -16410,7 +17658,10 @@ const candidateSpotsDatabase = {
       "price_es": "9,50€ exposición / 14€ con paseo en Minotauro",
       "price_zh": "展览 9.50 欧元/乘坐牛头怪 14 欧元",
       "price_fr": "9,50 € exposition / 14 € avec balade Minotaure",
-      "price_de": "9,50 € Ausstellung / 14 € mit Minotaurus-Fahrt"
+      "price_de": "9,50 € Ausstellung / 14 € mit Minotaurus-Fahrt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_36",
@@ -16429,7 +17680,7 @@ const candidateSpotsDatabase = {
       "desc_de": "Interaktives Museum zur Luftfahrtgeschichte, das die heroische Geschichte der Postpiloten der Aéropostale (Saint-Exupéry) erzählt.",
       "tip_en": "Kids love trying the flight simulator and morse code telegraph stations.",
       "tip_ja": "子供たちはフライト シミュレーターやモールス信号電信局を試すのが大好きです。",
-      "tip_es": "A los niños les encanta probar el simulador de vuelo y las estaciones de telégrafo en código morse.",
+      "tip_es": "Kids love trying the flight simulator and morse code telegraph stations.",
       "tip_zh": "孩子们喜欢尝试飞行模拟器和莫尔斯电码电报站。",
       "tip_fr": "Les enfants adorent essayer le simulateur de vol et les stations télégraphiques en code morse.",
       "tip_de": "Kinder lieben es, den Flugsimulator und die Morsecode-Telegrafenstationen auszuprobieren.",
@@ -16437,16 +17688,19 @@ const candidateSpotsDatabase = {
       "hasWiki": false,
       "name_en": "L'Envol des Pionniers",
       "name_ja": "ランヴォル デ ピオニエ",
-      "name_es": "El Envoltorio de los Pioneros",
+      "name_es": "L'Envol des Pionniers",
       "name_zh": "先锋队",
       "name_fr": "L'Envol des Pionniers",
       "name_de": "L'Envol des Pionniers",
       "price_en": "€8.50",
       "price_ja": "€8.50",
       "price_es": "8,50 €",
-      "price_zh": "€8.50",
+      "price_zh": "8.50 欧元",
       "price_fr": "8,50 €",
-      "price_de": "8,50 €"
+      "price_de": "8,50 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "to_37",
@@ -16476,13 +17730,16 @@ const candidateSpotsDatabase = {
       "name_es": "Jardín des Plantes y Le Grand Rond",
       "name_zh": "植物园和大圆",
       "name_fr": "Jardin des Plantes & Le Grand Rond",
-      "name_de": "Jardin des Plantes & Le Grand Rond",
+      "name_de": "Jardin des Plantes und Le Grand Rond",
       "price_en": "Free park / €2 pony rides",
-      "price_ja": "無料の公園 / 2 ユーロのポニー乗馬",
-      "price_es": "Parque gratuito / paseos en pony 2€",
-      "price_zh": "免费公园/2 欧元骑小马",
-      "price_fr": "Parc gratuit / balade à poney 2€",
-      "price_de": "Kostenloser Park / 2 € Ponyreiten"
+      "price_ja": "公園無料 / ポニー乗馬料 €2",
+      "price_es": "Parque gratuito / paseos en pony por 2 €",
+      "price_zh": "免费公园/骑小马 2 欧元",
+      "price_fr": "Free park / €2 pony rides",
+      "price_de": "Kostenloser Park / 2 € Ponyreiten",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_38",
@@ -16497,28 +17754,31 @@ const candidateSpotsDatabase = {
       "desc_ja": "実物大の動く恐竜の森、ふれあい牧場、30 種類以上の子供向け乗り物を組み合わせたファミリー テーマ パーク（郊外）。",
       "desc_es": "Parque temático familiar que combina un bosque de dinosaurios en movimiento de tamaño natural, una granja de mascotas y más de 30 atracciones para niños (Suburban).",
       "desc_zh": "家庭主题公园，结合了真人大小的移动恐龙森林、宠物农场和 30 多个适合儿童的游乐设施（郊区）。",
-      "desc_fr": "Parc à thème familial comprenant une forêt de dinosaures en mouvement grandeur nature, une ferme pour enfants et plus de 30 manèges adaptés aux enfants (banlieue).",
+      "desc_fr": "Family theme park combining a life-size moving Dinosaur Forest, petting farm & 30+ kid-friendly rides (Suburban).",
       "desc_de": "Familien-Themenpark mit einem lebensgroßen, sich bewegenden Dinosaurierwald, einem Streichelzoo und über 30 kinderfreundlichen Fahrgeschäften (Vorort).",
       "tip_en": "35 minutes drive west of Toulouse; ideal for young children aged 2–12.",
       "tip_ja": "トゥールーズから西へ車で 35 分。 2 ～ 12 歳の小さなお子様に最適です。",
-      "tip_es": "35 minutos en coche al oeste de Toulouse; ideal para niños pequeños de 2 a 12 años.",
+      "tip_es": "35 minutes drive west of Toulouse; ideal for young children aged 2–12.",
       "tip_zh": "图卢兹以西 35 分钟车程；非常适合 2 至 12 岁的幼儿。",
       "tip_fr": "35 minutes en voiture à l'ouest de Toulouse ; idéal pour les jeunes enfants âgés de 2 à 12 ans.",
-      "tip_de": "35 Autominuten westlich von Toulouse; Ideal für kleine Kinder im Alter von 2–12 Jahren.",
+      "tip_de": "35 minutes drive west of Toulouse; ideal for young children aged 2–12.",
       "image": "",
       "hasWiki": false,
       "name_en": "Animaparc Occitanie",
       "name_ja": "アニマパーク オクシタニー",
       "name_es": "Animaparc Occitania",
-      "name_zh": "奥西塔尼阿尼马帕克",
+      "name_zh": "奥克西塔尼阿尼玛帕克",
       "name_fr": "Animaparc Occitanie",
       "name_de": "Animaparc Okzitanien",
       "price_en": "€16.50",
-      "price_ja": "€16.50",
-      "price_es": "16,50 €",
-      "price_zh": "€16.50",
-      "price_fr": "16,50 €",
-      "price_de": "16,50 €"
+      "price_ja": "16.50ユーロ",
+      "price_es": "16,50€",
+      "price_zh": "16.50 欧元",
+      "price_fr": "€16.50",
+      "price_de": "€16.50",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "to_39",
@@ -16530,14 +17790,14 @@ const candidateSpotsDatabase = {
       "price": "€10.50 adults / €8.50 kids",
       "wikipediaTitle": "Château de Merville (Haute-Garonne)",
       "desc_en": "Europe's largest boxwood hedge maze spanning 10km of shaded trails around a 18th-century château (Suburban).",
-      "desc_ja": "ヨーロッパ最大のツゲの生け垣の迷路。18 世紀の城（郊外）の周囲にある 10 km の日陰の小道にまたがる。",
+      "desc_ja": "Europe's largest boxwood hedge maze spanning 10km of shaded trails around a 18th-century château (Suburban).",
       "desc_es": "El laberinto de setos de boj más grande de Europa, con 10 km de senderos sombreados alrededor de un castillo del siglo XVIII (suburbano).",
       "desc_zh": "欧洲最大的黄杨木树篱迷宫，横跨 10 公里的荫凉小径，围绕着一座 18 世纪的城堡（郊区）。",
       "desc_fr": "Le plus grand labyrinthe de haies de buis d'Europe s'étendant sur 10 km de sentiers ombragés autour d'un château du XVIIIe siècle (banlieue).",
-      "desc_de": "Europas größtes Buchsbaumheckenlabyrinth mit 10 km schattigen Wegen rund um ein Schloss aus dem 18. Jahrhundert (Suburban).",
+      "desc_de": "Europe's largest boxwood hedge maze spanning 10km of shaded trails around a 18th-century château (Suburban).",
       "tip_en": "Includes interactive treasure hunt riddles to solve as you navigate the maze.",
       "tip_ja": "迷路をナビゲートしながら解決できるインタラクティブな宝探しの謎が含まれています。",
-      "tip_es": "Incluye acertijos interactivos de búsqueda del tesoro para resolver mientras navegas por el laberinto.",
+      "tip_es": "Includes interactive treasure hunt riddles to solve as you navigate the maze.",
       "tip_zh": "包括互动寻宝谜语，供您在迷宫中导航时解决。",
       "tip_fr": "Comprend des énigmes interactives de chasse au trésor à résoudre pendant que vous parcourez le labyrinthe.",
       "tip_de": "Enthält interaktive Schatzsuche-Rätsel, die Sie lösen müssen, während Sie durch das Labyrinth navigieren.",
@@ -16548,13 +17808,16 @@ const candidateSpotsDatabase = {
       "name_es": "El laberinto de Merville",
       "name_zh": "梅尔维尔迷宫",
       "name_fr": "Le Labyrinthe de Merville",
-      "name_de": "Das Labyrinth von Merville",
+      "name_de": "Le Labyrinthe de Merville",
       "price_en": "€10.50 adults / €8.50 kids",
       "price_ja": "大人 €10.50 / 子供 €8.50",
       "price_es": "10,50€ adultos / 8,50€ niños",
       "price_zh": "成人 10.50 欧元/儿童 8.50 欧元",
       "price_fr": "10,50 € adultes / 8,50 € enfants",
-      "price_de": "10,50 € Erwachsene / 8,50 € Kinder"
+      "price_de": "10,50 € Erwachsene / 8,50 € Kinder",
+      "rain": true,
+      "shopping": false,
+      "free": false
     }
   ]
 };
@@ -16816,6 +18079,9 @@ const AITravelEngine = {
   isCategoryMatch(spot, filterGroup) {
     if (!spot || !filterGroup || filterGroup === 'ALL') return true;
     if (filterGroup === 'Kids') return spot.kids === true;
+    if (filterGroup === 'Rain') return spot.rain === true;
+    if (filterGroup === 'Shopping') return spot.shopping === true;
+    if (filterGroup === 'Free') return spot.free === true;
     const c = String(spot.category || '').toLowerCase();
     if (filterGroup === 'Landmark') return c.includes('landmark');
     if (filterGroup === 'Museum') return c.includes('museum') || c.includes('art');
@@ -16923,6 +18189,9 @@ const AITravelEngine = {
               ${activeZone}
             </span>
             ${spot.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
+            ${spot.rain ? `<span style="font-size:0.72rem; font-weight:800; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #BAE6FD;">☔ Rain</span>` : ''}
+            ${spot.shopping ? `<span style="font-size:0.72rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FDE68A;">🛍️ Shop</span>` : ''}
+            ${spot.free ? `<span style="font-size:0.72rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #A7F3D0;">🆓 Free</span>` : ''}
           </div>
 
           <h3 style="font-size:1.2rem; margin-bottom:0.4rem; font-family:var(--font-sans); color:var(--text-primary); word-break:break-word;">
@@ -17040,6 +18309,9 @@ const AITravelEngine = {
       const countCafes = spots.filter(s => this.isCategoryMatch(s, 'Café')).length;
       const countScenery = spots.filter(s => this.isCategoryMatch(s, 'Scenery')).length;
       const countKids = spots.filter(s => this.isCategoryMatch(s, 'Kids')).length;
+      const countRain = spots.filter(s => this.isCategoryMatch(s, 'Rain')).length;
+      const countShopping = spots.filter(s => this.isCategoryMatch(s, 'Shopping')).length;
+      const countFree = spots.filter(s => this.isCategoryMatch(s, 'Free')).length;
 
       const categoryFilterBarHtml = `
         <div class="category-filter-bar" style="grid-column:1 / -1; width:100%; display:flex; gap:0.4rem; flex-wrap:wrap; margin-bottom:0.75rem;">
@@ -17060,6 +18332,15 @@ const AITravelEngine = {
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Kids' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Kids')">
             ${t('filter.kids')} (${countKids})
+          </button>
+          <button type="button" class="filter-chip ${this.categoryFilter === 'Rain' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Rain')">
+            ${t('filter.rain')} (${countRain})
+          </button>
+          <button type="button" class="filter-chip ${this.categoryFilter === 'Shopping' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Shopping')">
+            ${t('filter.shopping')} (${countShopping})
+          </button>
+          <button type="button" class="filter-chip ${this.categoryFilter === 'Free' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Free')">
+            ${t('filter.free')} (${countFree})
           </button>
         </div>
       `;
@@ -17188,6 +18469,9 @@ const AITravelEngine = {
                       ${cardZone}
                     </span>
                     ${s.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
+                    ${s.rain ? `<span style="font-size:0.72rem; font-weight:800; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #BAE6FD;">☔ Rain</span>` : ''}
+                    ${s.shopping ? `<span style="font-size:0.72rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FDE68A;">🛍️ Shop</span>` : ''}
+                    ${s.free ? `<span style="font-size:0.72rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #A7F3D0;">🆓 Free</span>` : ''}
                   </div>
                 </div>
 

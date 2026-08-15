@@ -41,7 +41,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_2",
@@ -82,7 +85,10 @@
       "price_es": "Exterior gratuito (Tours: 10€)",
       "price_zh": "免费外部参观（旅游：10 欧元）",
       "price_fr": "Extérieur gratuit (Visites : 10 €)",
-      "price_de": "Kostenloser Außenbereich (Führungen: 10 €)"
+      "price_de": "Kostenloser Außenbereich (Führungen: 10 €)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_3",
@@ -123,7 +129,10 @@
       "price_es": "Gratis Catedral (Torre: 6€)",
       "price_zh": "免费大教堂（塔楼：6 欧元）",
       "price_fr": "Cathédrale gratuite (Tour : 6 €)",
-      "price_de": "Freie Kathedrale (Turm: 6 €)"
+      "price_de": "Freie Kathedrale (Turm: 6 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_4",
@@ -164,7 +173,10 @@
       "price_es": "Exterior gratuito (Entrada: 5€)",
       "price_zh": "免费外部（门票：5 欧元）",
       "price_fr": "Extérieur gratuit (Entrée : 5 €)",
-      "price_de": "Freier Außenbereich (Eintritt: 5 €)"
+      "price_de": "Freier Außenbereich (Eintritt: 5 €)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_5",
@@ -205,7 +217,10 @@
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_6",
@@ -246,7 +261,10 @@
       "price_es": "Basílica libre",
       "price_zh": "自由大教堂",
       "price_fr": "Basilique gratuite",
-      "price_de": "Freie Basilika"
+      "price_de": "Freie Basilika",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_7",
@@ -287,7 +305,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_8",
@@ -328,7 +349,10 @@
       "price_es": "exterior libre",
       "price_zh": "免费外观",
       "price_fr": "Extérieur gratuit",
-      "price_de": "Freier Außenbereich"
+      "price_de": "Freier Außenbereich",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_9",
@@ -369,7 +393,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_10",
@@ -410,7 +437,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "bo_11",
@@ -451,7 +481,10 @@
       "price_es": "Entrada: 9€",
       "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
-      "price_de": "Eintritt: 9 €"
+      "price_de": "Eintritt: 9 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_12",
@@ -492,7 +525,10 @@
       "price_es": "Entrada: 22€",
       "price_zh": "入场费：22 欧元",
       "price_fr": "Entrée : 22 €",
-      "price_de": "Eintritt: 22 €"
+      "price_de": "Eintritt: 22 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_13",
@@ -533,7 +569,10 @@
       "price_es": "Entrada: 15€",
       "price_zh": "入场费：15 欧元",
       "price_fr": "Entrée : 15 €",
-      "price_de": "Eintritt: 15 €"
+      "price_de": "Eintritt: 15 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_14",
@@ -574,7 +613,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_15",
@@ -615,7 +657,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_16",
@@ -656,7 +701,10 @@
       "price_es": "Entrada: 8€",
       "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
-      "price_de": "Eintritt: 8 €"
+      "price_de": "Eintritt: 8 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_17",
@@ -697,7 +745,10 @@
       "price_es": "Entrada: 6€",
       "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
-      "price_de": "Eintritt: 6 €"
+      "price_de": "Eintritt: 6 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_18",
@@ -738,7 +789,10 @@
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
-      "price_de": "Eintritt: 14 €"
+      "price_de": "Eintritt: 14 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_19",
@@ -779,7 +833,10 @@
       "price_es": "Entrada: 5€",
       "price_zh": "入场费：5欧元",
       "price_fr": "Entrée : 5 €",
-      "price_de": "Eintritt: 5 €"
+      "price_de": "Eintritt: 5 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_20",
@@ -820,7 +877,10 @@
       "price_es": "Platos de ostras: 10€-20€",
       "price_zh": "牡蛎拼盘：10欧元至20欧元",
       "price_fr": "Plateaux d'huîtres : 10 à 20 €",
-      "price_de": "Austernplatten: 10–20 €"
+      "price_de": "Austernplatten: 10–20 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "bo_21",
@@ -861,7 +921,10 @@
       "price_es": "Plato principal: 20€–38€",
       "price_zh": "主电源：20 欧元–38 欧元",
       "price_fr": "Plats : 20 à 38 €",
-      "price_de": "Hauptgericht: 20–38 €"
+      "price_de": "Hauptgericht: 20–38 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_22",
@@ -902,7 +965,10 @@
       "price_es": "Canelé: 1,50€ – 3€",
       "price_zh": "卡内莱：1.50欧元–3欧元",
       "price_fr": "Canelé : 1,50 à 3 €",
-      "price_de": "Canelé: 1,50–3 €"
+      "price_de": "Canelé: 1,50–3 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "bo_23",
@@ -943,7 +1009,10 @@
       "price_es": "Copa de vino: 3€–9€",
       "price_zh": "一杯酒：3欧元至9欧元",
       "price_fr": "Verre de vin : 3 à 9 €",
-      "price_de": "Glas Wein: 3–9 €"
+      "price_de": "Glas Wein: 3–9 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_24",
@@ -984,7 +1053,10 @@
       "price_es": "Café y pastelería: 6€–12€",
       "price_zh": "咖啡和糕点：6 欧元–12 欧元",
       "price_fr": "Café & Pâtisserie : 6 € – 12 €",
-      "price_de": "Kaffee und Gebäck: 6–12 €"
+      "price_de": "Kaffee und Gebäck: 6–12 €",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_25",
@@ -1025,7 +1097,10 @@
       "price_es": "Menú fijo: 23€",
       "price_zh": "套餐：23 欧元",
       "price_fr": "Formule : 23 €",
-      "price_de": "Menü: 23 €"
+      "price_de": "Menü: 23 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_26",
@@ -1066,7 +1141,10 @@
       "price_es": "Visitas guiadas: 25 €–75 €",
       "price_zh": "旅游：25 欧元–75 欧元",
       "price_fr": "Visites : 25 € – 75 €",
-      "price_de": "Führungen: 25–75 €"
+      "price_de": "Führungen: 25–75 €",
+      "rain": true,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_27",
@@ -1107,7 +1185,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_28",
@@ -1148,7 +1229,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "bo_29",
@@ -1189,7 +1273,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_30",
@@ -1230,7 +1317,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": true,
+      "free": true
     },
     {
       "id": "bo_31",
@@ -1271,7 +1361,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_32",
@@ -1312,7 +1405,10 @@
       "price_es": "Entrada gratuita",
       "price_zh": "免费入场",
       "price_fr": "Entrée gratuite",
-      "price_de": "Freier Eintritt"
+      "price_de": "Freier Eintritt",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_33",
@@ -1353,7 +1449,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_34",
@@ -1394,7 +1493,10 @@
       "price_es": "Gratis (se aplica tarifa de estacionamiento)",
       "price_zh": "免费（需支付停车费）",
       "price_fr": "Gratuit (des frais de stationnement s'appliquent)",
-      "price_de": "Kostenlos (Parkgebühr fällt an)"
+      "price_de": "Kostenlos (Parkgebühr fällt an)",
+      "rain": false,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_35",
@@ -1435,7 +1537,10 @@
       "price_es": "Parque gratuito (Museo: 8€)",
       "price_zh": "免费公园（博物馆：8 欧元）",
       "price_fr": "Parc gratuit (Musée : 8 €)",
-      "price_de": "Kostenloser Park (Museum: 8 €)"
+      "price_de": "Kostenloser Park (Museum: 8 €)",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_36",
@@ -1476,7 +1581,10 @@
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
-      "price_de": "Eintritt: 10 €"
+      "price_de": "Eintritt: 10 €",
+      "rain": true,
+      "shopping": true,
+      "free": false
     },
     {
       "id": "bo_37",
@@ -1517,7 +1625,10 @@
       "price_es": "Crucero: 15€–25€ (Bat3: 1,70€)",
       "price_zh": "游轮：15 欧元至 25 欧元（Bat3：1.70 欧元）",
       "price_fr": "Croisière : 15-25 € (Bat3 : 1,70 €)",
-      "price_de": "Kreuzfahrt: 15–25 € (Bat3: 1,70 €)"
+      "price_de": "Kreuzfahrt: 15–25 € (Bat3: 1,70 €)",
+      "rain": false,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_38",
@@ -1558,7 +1669,10 @@
       "price_es": "Gratis",
       "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Frei"
+      "price_de": "Frei",
+      "rain": true,
+      "shopping": false,
+      "free": true
     },
     {
       "id": "bo_39",
@@ -1599,7 +1713,10 @@
       "price_es": "Entrada: 18€",
       "price_zh": "入场费：18 欧元",
       "price_fr": "Entrée : 18 €",
-      "price_de": "Eintritt: 18 €"
+      "price_de": "Eintritt: 18 €",
+      "rain": false,
+      "shopping": false,
+      "free": false
     },
     {
       "id": "bo_40",
@@ -1640,7 +1757,10 @@
       "price_es": "Entrada: 18€–24€",
       "price_zh": "门票： 18 欧元 - 24 欧元",
       "price_fr": "Entrée : 18 € – 24 €",
-      "price_de": "Eintritt: 18–24 €"
+      "price_de": "Eintritt: 18–24 €",
+      "rain": false,
+      "shopping": false,
+      "free": true
     }
   ]
 }
