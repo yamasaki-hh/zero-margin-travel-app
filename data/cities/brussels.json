@@ -17,7 +17,19 @@
       "locationZone": "city",
       "kids": true,
       "lat": 50.84667,
-      "lng": 4.3525
+      "lng": 4.3525,
+      "desc_en": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_ja": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_es": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_zh": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_fr": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_de": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_2",
@@ -34,7 +46,19 @@
       "locationZone": "city",
       "kids": true,
       "lat": 50.8353,
-      "lng": 4.3217
+      "lng": 4.3217,
+      "desc_en": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_ja": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_es": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_zh": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_fr": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_de": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_3",
@@ -51,7 +75,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.89472,
-      "lng": 4.34111
+      "lng": 4.34111,
+      "desc_en": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_ja": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_es": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_zh": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_fr": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_de": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_4",
@@ -68,7 +104,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.8653,
-      "lng": 4.3217
+      "lng": 4.3217,
+      "desc_en": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_ja": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_es": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_zh": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_fr": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_de": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_5",
@@ -85,7 +133,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.84389,
-      "lng": 4.35667
+      "lng": 4.35667,
+      "desc_en": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_ja": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_es": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_zh": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_fr": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_de": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_6",
@@ -102,7 +162,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.8203,
-      "lng": 4.3367
+      "lng": 4.3367,
+      "desc_en": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_ja": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_es": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_zh": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_fr": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_de": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_7",
@@ -119,7 +191,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.84499,
-      "lng": 4.34999
+      "lng": 4.34999,
+      "desc_en": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_ja": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_es": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_zh": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_fr": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_de": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_8",
@@ -136,7 +220,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.84194,
-      "lng": 4.35861
+      "lng": 4.35861,
+      "desc_en": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_ja": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_es": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_zh": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_fr": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_de": "World's largest surrealist collection of René Magritte paintings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_9",
@@ -153,7 +249,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.8653,
-      "lng": 4.3367
+      "lng": 4.3367,
+      "desc_en": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_ja": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_es": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_zh": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_fr": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_de": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_10",
@@ -170,7 +278,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.8803,
-      "lng": 4.3367
+      "lng": 4.3367,
+      "desc_en": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_ja": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_es": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_zh": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_fr": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_de": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_11",
@@ -187,7 +307,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.8203,
-      "lng": 4.3517
+      "lng": 4.3517,
+      "desc_en": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_ja": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_es": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_zh": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_fr": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_de": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_12",
@@ -204,7 +336,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.8353,
-      "lng": 4.3517
+      "lng": 4.3517,
+      "desc_en": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_ja": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_es": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_zh": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_fr": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_de": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_13",
@@ -221,7 +365,19 @@
       "locationZone": "city",
       "kids": false,
       "lat": 50.84841,
-      "lng": 4.35393
+      "lng": 4.35393,
+      "desc_en": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_ja": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_es": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_zh": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_fr": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_de": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ]
 }

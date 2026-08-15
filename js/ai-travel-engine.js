@@ -23,7 +23,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 52.36,
-      "lng": 4.8853
+      "lng": 4.8853,
+      "desc_en": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
+      "desc_ja": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
+      "desc_es": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
+      "desc_zh": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
+      "desc_fr": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
+      "desc_de": "Dutch National Museum housing Rembrandt's 'Night Watch' & Vermeer masterpieces.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_2",
@@ -40,7 +52,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3583,
-      "lng": 4.8811
+      "lng": 4.8811,
+      "desc_en": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
+      "desc_ja": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
+      "desc_es": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
+      "desc_zh": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
+      "desc_fr": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
+      "desc_de": "World's largest collection of Vincent van Gogh paintings including Sunflowers.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_3",
@@ -57,7 +81,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.37525,
-      "lng": 4.88432
+      "lng": 4.88432,
+      "desc_en": "Biographical museum at the secret annex where Anne Frank wrote her diary.",
+      "desc_ja": "Biographical museum at the secret annex where Anne Frank wrote her diary.",
+      "desc_es": "Biographical museum at the secret annex where Anne Frank wrote her diary.",
+      "desc_zh": "Biographical museum at the secret annex where Anne Frank wrote her diary.",
+      "desc_fr": "Biographical museum at the secret annex where Anne Frank wrote her diary.",
+      "desc_de": "Biographical museum at the secret annex where Anne Frank wrote her diary.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_4",
@@ -74,7 +110,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3826,
-      "lng": 4.8741
+      "lng": 4.8741,
+      "desc_en": "Picturesque canal belt quarters packed with vintage shops, design stores & cafes.",
+      "desc_ja": "Picturesque canal belt quarters packed with vintage shops, design stores & cafes.",
+      "desc_es": "Picturesque canal belt quarters packed with vintage shops, design stores & cafes.",
+      "desc_zh": "Picturesque canal belt quarters packed with vintage shops, design stores & cafes.",
+      "desc_fr": "Picturesque canal belt quarters packed with vintage shops, design stores & cafes.",
+      "desc_de": "Picturesque canal belt quarters packed with vintage shops, design stores & cafes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_5",
@@ -91,7 +139,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 52.3976,
-      "lng": 4.8741
+      "lng": 4.8741,
+      "desc_en": "Historic windmill village showcasing wooden clogs, cheese making & green houses.",
+      "desc_ja": "Historic windmill village showcasing wooden clogs, cheese making & green houses.",
+      "desc_es": "Historic windmill village showcasing wooden clogs, cheese making & green houses.",
+      "desc_zh": "Historic windmill village showcasing wooden clogs, cheese making & green houses.",
+      "desc_fr": "Historic windmill village showcasing wooden clogs, cheese making & green houses.",
+      "desc_de": "Historic windmill village showcasing wooden clogs, cheese making & green houses.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_6",
@@ -108,7 +168,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.358,
-      "lng": 4.868
+      "lng": 4.868,
+      "desc_en": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
+      "desc_ja": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
+      "desc_es": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
+      "desc_zh": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
+      "desc_fr": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
+      "desc_de": "Amsterdam's largest public park featuring rose gardens and open-air theaters.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_7",
@@ -125,7 +197,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.37317,
-      "lng": 4.89136
+      "lng": 4.89136,
+      "desc_en": "17th-century Golden Age palace on Dam Square used for official royal events.",
+      "desc_ja": "17th-century Golden Age palace on Dam Square used for official royal events.",
+      "desc_es": "17th-century Golden Age palace on Dam Square used for official royal events.",
+      "desc_zh": "17th-century Golden Age palace on Dam Square used for official royal events.",
+      "desc_fr": "17th-century Golden Age palace on Dam Square used for official royal events.",
+      "desc_de": "17th-century Golden Age palace on Dam Square used for official royal events.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_8",
@@ -142,7 +226,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3676,
-      "lng": 4.8891
+      "lng": 4.8891,
+      "desc_en": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
+      "desc_ja": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
+      "desc_es": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
+      "desc_zh": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
+      "desc_fr": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
+      "desc_de": "Amsterdam's oldest parish church (1306) standing in the historic city center.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_9",
@@ -159,7 +255,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3826,
-      "lng": 4.8891
+      "lng": 4.8891,
+      "desc_en": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
+      "desc_ja": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
+      "desc_es": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
+      "desc_zh": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
+      "desc_fr": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
+      "desc_de": "Tranquil 14th-century courtyard sanctuary holding Amsterdam's oldest wooden house.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_10",
@@ -176,7 +284,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 52.36667,
-      "lng": 4.89194
+      "lng": 4.89194,
+      "desc_en": "World's only floating flower market selling tulip bulbs along Singel canal.",
+      "desc_ja": "World's only floating flower market selling tulip bulbs along Singel canal.",
+      "desc_es": "World's only floating flower market selling tulip bulbs along Singel canal.",
+      "desc_zh": "World's only floating flower market selling tulip bulbs along Singel canal.",
+      "desc_fr": "World's only floating flower market selling tulip bulbs along Singel canal.",
+      "desc_de": "World's only floating flower market selling tulip bulbs along Singel canal.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_11",
@@ -193,7 +313,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.35806,
-      "lng": 4.87972
+      "lng": 4.87972,
+      "desc_en": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
+      "desc_ja": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
+      "desc_es": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
+      "desc_zh": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
+      "desc_fr": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
+      "desc_de": "Modern and contemporary art museum housing works by Matisse, Warhol & Mondrian.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_12",
@@ -210,7 +342,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 52.3694,
-      "lng": 4.90129
+      "lng": 4.90129,
+      "desc_en": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
+      "desc_ja": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
+      "desc_es": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
+      "desc_zh": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
+      "desc_fr": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
+      "desc_de": "Reconstructed 17th-century home & studio where Rembrandt painted for 20 years.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_13",
@@ -227,7 +371,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3676,
-      "lng": 4.9041
+      "lng": 4.9041,
+      "desc_en": "Green copper ship building featuring 5 floors of interactive science exhibits.",
+      "desc_ja": "Green copper ship building featuring 5 floors of interactive science exhibits.",
+      "desc_es": "Green copper ship building featuring 5 floors of interactive science exhibits.",
+      "desc_zh": "Green copper ship building featuring 5 floors of interactive science exhibits.",
+      "desc_fr": "Green copper ship building featuring 5 floors of interactive science exhibits.",
+      "desc_de": "Green copper ship building featuring 5 floors of interactive science exhibits.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_14",
@@ -244,7 +400,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3826,
-      "lng": 4.9041
+      "lng": 4.9041,
+      "desc_en": "Independent museum displaying modern street art by Banksy, KAWS & Basquiat.",
+      "desc_ja": "Independent museum displaying modern street art by Banksy, KAWS & Basquiat.",
+      "desc_es": "Independent museum displaying modern street art by Banksy, KAWS & Basquiat.",
+      "desc_zh": "Independent museum displaying modern street art by Banksy, KAWS & Basquiat.",
+      "desc_fr": "Independent museum displaying modern street art by Banksy, KAWS & Basquiat.",
+      "desc_de": "Independent museum displaying modern street art by Banksy, KAWS & Basquiat.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_15",
@@ -261,7 +429,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3976,
-      "lng": 4.9041
+      "lng": 4.9041,
+      "desc_en": "Legendary Dutch rib house serving flame-grilled smoked spare ribs & lamb chops.",
+      "desc_ja": "Legendary Dutch rib house serving flame-grilled smoked spare ribs & lamb chops.",
+      "desc_es": "Legendary Dutch rib house serving flame-grilled smoked spare ribs & lamb chops.",
+      "desc_zh": "Legendary Dutch rib house serving flame-grilled smoked spare ribs & lamb chops.",
+      "desc_fr": "Legendary Dutch rib house serving flame-grilled smoked spare ribs & lamb chops.",
+      "desc_de": "Legendary Dutch rib house serving flame-grilled smoked spare ribs & lamb chops.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_16",
@@ -278,7 +458,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3376,
-      "lng": 4.9191
+      "lng": 4.9191,
+      "desc_en": "Indoor food hall inside converted tram depot featuring 20 gourmet food stalls.",
+      "desc_ja": "Indoor food hall inside converted tram depot featuring 20 gourmet food stalls.",
+      "desc_es": "Indoor food hall inside converted tram depot featuring 20 gourmet food stalls.",
+      "desc_zh": "Indoor food hall inside converted tram depot featuring 20 gourmet food stalls.",
+      "desc_fr": "Indoor food hall inside converted tram depot featuring 20 gourmet food stalls.",
+      "desc_de": "Indoor food hall inside converted tram depot featuring 20 gourmet food stalls.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_17",
@@ -295,7 +487,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3526,
-      "lng": 4.9191
+      "lng": 4.9191,
+      "desc_en": "Cozy Dutch eatery serving authentic stampot, hotchpotch & traditional stews.",
+      "desc_ja": "Cozy Dutch eatery serving authentic stampot, hotchpotch & traditional stews.",
+      "desc_es": "Cozy Dutch eatery serving authentic stampot, hotchpotch & traditional stews.",
+      "desc_zh": "Cozy Dutch eatery serving authentic stampot, hotchpotch & traditional stews.",
+      "desc_fr": "Cozy Dutch eatery serving authentic stampot, hotchpotch & traditional stews.",
+      "desc_de": "Cozy Dutch eatery serving authentic stampot, hotchpotch & traditional stews.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_18",
@@ -312,7 +516,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3676,
-      "lng": 4.9191
+      "lng": 4.9191,
+      "desc_en": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
+      "desc_ja": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
+      "desc_es": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
+      "desc_zh": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
+      "desc_fr": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
+      "desc_de": "Famous bakery crafting a single item: warm chocolate cookie with white chocolate core.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_19",
@@ -329,7 +545,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.3826,
-      "lng": 4.9191
+      "lng": 4.9191,
+      "desc_en": "Jordaan district cafe famous across Europe for warm deep-dish Dutch apple pie.",
+      "desc_ja": "Jordaan district cafe famous across Europe for warm deep-dish Dutch apple pie.",
+      "desc_es": "Jordaan district cafe famous across Europe for warm deep-dish Dutch apple pie.",
+      "desc_zh": "Jordaan district cafe famous across Europe for warm deep-dish Dutch apple pie.",
+      "desc_fr": "Jordaan district cafe famous across Europe for warm deep-dish Dutch apple pie.",
+      "desc_de": "Jordaan district cafe famous across Europe for warm deep-dish Dutch apple pie.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "a_20",
@@ -346,7 +574,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.36667,
-      "lng": 4.92639
+      "lng": 4.92639,
+      "desc_en": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
+      "desc_ja": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
+      "desc_es": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
+      "desc_zh": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
+      "desc_fr": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
+      "desc_de": "Craft brewery set directly under Amsterdam's iconic De Gooyer windmill.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Berlin, Germany": [
@@ -365,7 +605,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.5163,
-      "lng": 13.3777
+      "lng": 13.3777,
+      "desc_en": "18th-century neoclassical monument and universal symbol of German unity.",
+      "desc_ja": "18th-century neoclassical monument and universal symbol of German unity.",
+      "desc_es": "18th-century neoclassical monument and universal symbol of German unity.",
+      "desc_zh": "18th-century neoclassical monument and universal symbol of German unity.",
+      "desc_fr": "18th-century neoclassical monument and universal symbol of German unity.",
+      "desc_de": "18th-century neoclassical monument and universal symbol of German unity.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b2",
@@ -382,7 +634,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 52.505,
-      "lng": 13.375
+      "lng": 13.375,
+      "desc_en": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
+      "desc_ja": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
+      "desc_es": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
+      "desc_zh": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
+      "desc_fr": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
+      "desc_de": "German parliament building featuring Norman Foster's glass dome overlooking Berlin.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b3",
@@ -399,7 +663,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.52,
-      "lng": 13.375
+      "lng": 13.375,
+      "desc_en": "1.3km open-air gallery painted directly on the remaining Berlin Wall.",
+      "desc_ja": "1.3km open-air gallery painted directly on the remaining Berlin Wall.",
+      "desc_es": "1.3km open-air gallery painted directly on the remaining Berlin Wall.",
+      "desc_zh": "1.3km open-air gallery painted directly on the remaining Berlin Wall.",
+      "desc_fr": "1.3km open-air gallery painted directly on the remaining Berlin Wall.",
+      "desc_de": "1.3km open-air gallery painted directly on the remaining Berlin Wall.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b4",
@@ -416,7 +692,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.51917,
-      "lng": 13.40111
+      "lng": 13.40111,
+      "desc_en": "Monumental Italian Renaissance-style Protestant cathedral with dome climb.",
+      "desc_ja": "Monumental Italian Renaissance-style Protestant cathedral with dome climb.",
+      "desc_es": "Monumental Italian Renaissance-style Protestant cathedral with dome climb.",
+      "desc_zh": "Monumental Italian Renaissance-style Protestant cathedral with dome climb.",
+      "desc_fr": "Monumental Italian Renaissance-style Protestant cathedral with dome climb.",
+      "desc_de": "Monumental Italian Renaissance-style Protestant cathedral with dome climb.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b5",
@@ -433,7 +721,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.5209,
-      "lng": 13.2957
+      "lng": 13.2957,
+      "desc_en": "Largest Baroque royal palace in Berlin surrounded by formal gardens.",
+      "desc_ja": "Largest Baroque royal palace in Berlin surrounded by formal gardens.",
+      "desc_es": "Largest Baroque royal palace in Berlin surrounded by formal gardens.",
+      "desc_zh": "Largest Baroque royal palace in Berlin surrounded by formal gardens.",
+      "desc_fr": "Largest Baroque royal palace in Berlin surrounded by formal gardens.",
+      "desc_de": "Largest Baroque royal palace in Berlin surrounded by formal gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b6",
@@ -450,7 +750,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.49,
-      "lng": 13.39
+      "lng": 13.39,
+      "desc_en": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
+      "desc_ja": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
+      "desc_es": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
+      "desc_zh": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
+      "desc_fr": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
+      "desc_de": "Field of 2,711 concrete slabs honoring murdered Jews of Europe.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b7",
@@ -467,7 +779,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.505,
-      "lng": 13.39
+      "lng": 13.39,
+      "desc_en": "Historic plaza flanked by French and German Cathedrals & Konzerthaus.",
+      "desc_ja": "Historic plaza flanked by French and German Cathedrals & Konzerthaus.",
+      "desc_es": "Historic plaza flanked by French and German Cathedrals & Konzerthaus.",
+      "desc_zh": "Historic plaza flanked by French and German Cathedrals & Konzerthaus.",
+      "desc_fr": "Historic plaza flanked by French and German Cathedrals & Konzerthaus.",
+      "desc_de": "Historic plaza flanked by French and German Cathedrals & Konzerthaus.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b8",
@@ -484,7 +808,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.52,
-      "lng": 13.39
+      "lng": 13.39,
+      "desc_en": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
+      "desc_ja": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
+      "desc_es": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
+      "desc_zh": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
+      "desc_fr": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
+      "desc_de": "Golden Victoria statue crowning 67m monument at Tiergarten center.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b9",
@@ -501,7 +837,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.52083,
-      "lng": 13.40944
+      "lng": 13.40944,
+      "desc_en": "368m television tower offering 360-degree panorama of Berlin.",
+      "desc_ja": "368m television tower offering 360-degree panorama of Berlin.",
+      "desc_es": "368m television tower offering 360-degree panorama of Berlin.",
+      "desc_zh": "368m television tower offering 360-degree panorama of Berlin.",
+      "desc_fr": "368m television tower offering 360-degree panorama of Berlin.",
+      "desc_de": "368m television tower offering 360-degree panorama of Berlin.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b10",
@@ -518,7 +866,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.5075,
-      "lng": 13.39028
+      "lng": 13.39028,
+      "desc_en": "Famous Cold War border crossing checkpoint between American & Soviet sectors.",
+      "desc_ja": "Famous Cold War border crossing checkpoint between American & Soviet sectors.",
+      "desc_es": "Famous Cold War border crossing checkpoint between American & Soviet sectors.",
+      "desc_zh": "Famous Cold War border crossing checkpoint between American & Soviet sectors.",
+      "desc_fr": "Famous Cold War border crossing checkpoint between American & Soviet sectors.",
+      "desc_de": "Famous Cold War border crossing checkpoint between American & Soviet sectors.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b11",
@@ -535,7 +895,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.505,
-      "lng": 13.335
+      "lng": 13.335,
+      "desc_en": "War-damaged spire memorial standing alongside modern blue glass chapel.",
+      "desc_ja": "War-damaged spire memorial standing alongside modern blue glass chapel.",
+      "desc_es": "War-damaged spire memorial standing alongside modern blue glass chapel.",
+      "desc_zh": "War-damaged spire memorial standing alongside modern blue glass chapel.",
+      "desc_fr": "War-damaged spire memorial standing alongside modern blue glass chapel.",
+      "desc_de": "War-damaged spire memorial standing alongside modern blue glass chapel.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b12",
@@ -552,7 +924,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.51389,
-      "lng": 13.35694
+      "lng": 13.35694,
+      "desc_en": "Sprawling 520-acre urban forest park in the heart of Berlin.",
+      "desc_ja": "Sprawling 520-acre urban forest park in the heart of Berlin.",
+      "desc_es": "Sprawling 520-acre urban forest park in the heart of Berlin.",
+      "desc_zh": "Sprawling 520-acre urban forest park in the heart of Berlin.",
+      "desc_fr": "Sprawling 520-acre urban forest park in the heart of Berlin.",
+      "desc_de": "Sprawling 520-acre urban forest park in the heart of Berlin.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b13",
@@ -569,7 +953,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.52417,
-      "lng": 13.40222
+      "lng": 13.40222,
+      "desc_en": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
+      "desc_ja": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
+      "desc_es": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
+      "desc_zh": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
+      "desc_fr": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
+      "desc_de": "Eight restored Art Nouveau courtyards filled with boutiques & cafes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b14",
@@ -586,7 +982,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.535,
-      "lng": 13.405
+      "lng": 13.405,
+      "desc_en": "UNESCO World Heritage island housing 5 world-class museum complexes.",
+      "desc_ja": "UNESCO World Heritage island housing 5 world-class museum complexes.",
+      "desc_es": "UNESCO World Heritage island housing 5 world-class museum complexes.",
+      "desc_zh": "UNESCO World Heritage island housing 5 world-class museum complexes.",
+      "desc_fr": "UNESCO World Heritage island housing 5 world-class museum complexes.",
+      "desc_de": "UNESCO World Heritage island housing 5 world-class museum complexes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b15",
@@ -603,7 +1011,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.521,
-      "lng": 13.396
+      "lng": 13.396,
+      "desc_en": "Famed for Ishtar Gate of Babylon and Market Gate of Miletus.",
+      "desc_ja": "Famed for Ishtar Gate of Babylon and Market Gate of Miletus.",
+      "desc_es": "Famed for Ishtar Gate of Babylon and Market Gate of Miletus.",
+      "desc_zh": "Famed for Ishtar Gate of Babylon and Market Gate of Miletus.",
+      "desc_fr": "Famed for Ishtar Gate of Babylon and Market Gate of Miletus.",
+      "desc_de": "Famed for Ishtar Gate of Babylon and Market Gate of Miletus.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b16",
@@ -620,7 +1040,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.52056,
-      "lng": 13.39778
+      "lng": 13.39778,
+      "desc_en": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
+      "desc_ja": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
+      "desc_es": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
+      "desc_zh": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
+      "desc_fr": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
+      "desc_de": "Housing the iconic 3,300-year-old limestone bust of Queen Nefertiti.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b17",
@@ -637,7 +1069,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.502,
-      "lng": 13.395
+      "lng": 13.395,
+      "desc_en": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
+      "desc_ja": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
+      "desc_es": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
+      "desc_zh": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
+      "desc_fr": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
+      "desc_de": "Daniel Libeskind-designed zigzag building documenting German Jewish history.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b18",
@@ -654,7 +1098,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 52.52833,
-      "lng": 13.37222
+      "lng": 13.37222,
+      "desc_en": "Former train station converted into Berlin's premier contemporary art museum.",
+      "desc_ja": "Former train station converted into Berlin's premier contemporary art museum.",
+      "desc_es": "Former train station converted into Berlin's premier contemporary art museum.",
+      "desc_zh": "Former train station converted into Berlin's premier contemporary art museum.",
+      "desc_fr": "Former train station converted into Berlin's premier contemporary art museum.",
+      "desc_de": "Former train station converted into Berlin's premier contemporary art museum.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b19",
@@ -671,7 +1127,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.50694,
-      "lng": 13.38278
+      "lng": 13.38278,
+      "desc_en": "History museum located on the site of Gestapo and SS headquarters.",
+      "desc_ja": "History museum located on the site of Gestapo and SS headquarters.",
+      "desc_es": "History museum located on the site of Gestapo and SS headquarters.",
+      "desc_zh": "History museum located on the site of Gestapo and SS headquarters.",
+      "desc_fr": "History museum located on the site of Gestapo and SS headquarters.",
+      "desc_de": "History museum located on the site of Gestapo and SS headquarters.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b20",
@@ -688,7 +1156,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.51903,
-      "lng": 13.40222
+      "lng": 13.40222,
+      "desc_en": "Interactive museum depicting daily life under East German communist rule.",
+      "desc_ja": "Interactive museum depicting daily life under East German communist rule.",
+      "desc_es": "Interactive museum depicting daily life under East German communist rule.",
+      "desc_zh": "Interactive museum depicting daily life under East German communist rule.",
+      "desc_fr": "Interactive museum depicting daily life under East German communist rule.",
+      "desc_de": "Interactive museum depicting daily life under East German communist rule.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b21",
@@ -705,7 +1185,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.49,
-      "lng": 13.435
+      "lng": 13.435,
+      "desc_en": "Berlin's most famous street food stand for roasted vegetable & chicken döner.",
+      "desc_ja": "Berlin's most famous street food stand for roasted vegetable & chicken döner.",
+      "desc_es": "Berlin's most famous street food stand for roasted vegetable & chicken döner.",
+      "desc_zh": "Berlin's most famous street food stand for roasted vegetable & chicken döner.",
+      "desc_fr": "Berlin's most famous street food stand for roasted vegetable & chicken döner.",
+      "desc_de": "Berlin's most famous street food stand for roasted vegetable & chicken döner.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b22",
@@ -722,7 +1214,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 52.49349,
-      "lng": 13.38772
+      "lng": 13.38772,
+      "desc_en": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
+      "desc_ja": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
+      "desc_es": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
+      "desc_zh": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
+      "desc_fr": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
+      "desc_de": "Iconic Mehringdamm food stand serving authentic Berlin Currywurst with fries.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b23",
@@ -739,7 +1243,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.52,
-      "lng": 13.435
+      "lng": 13.435,
+      "desc_en": "Berlin's oldest beer garden shaded by giant chestnut trees in Prenzlauer Berg.",
+      "desc_ja": "Berlin's oldest beer garden shaded by giant chestnut trees in Prenzlauer Berg.",
+      "desc_es": "Berlin's oldest beer garden shaded by giant chestnut trees in Prenzlauer Berg.",
+      "desc_zh": "Berlin's oldest beer garden shaded by giant chestnut trees in Prenzlauer Berg.",
+      "desc_fr": "Berlin's oldest beer garden shaded by giant chestnut trees in Prenzlauer Berg.",
+      "desc_de": "Berlin's oldest beer garden shaded by giant chestnut trees in Prenzlauer Berg.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b24",
@@ -756,7 +1272,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.535,
-      "lng": 13.435
+      "lng": 13.435,
+      "desc_en": "Berlin's oldest tavern (1621) serving pork knuckle & traditional German lager.",
+      "desc_ja": "Berlin's oldest tavern (1621) serving pork knuckle & traditional German lager.",
+      "desc_es": "Berlin's oldest tavern (1621) serving pork knuckle & traditional German lager.",
+      "desc_zh": "Berlin's oldest tavern (1621) serving pork knuckle & traditional German lager.",
+      "desc_fr": "Berlin's oldest tavern (1621) serving pork knuckle & traditional German lager.",
+      "desc_de": "Berlin's oldest tavern (1621) serving pork knuckle & traditional German lager.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b25",
@@ -773,7 +1301,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.55,
-      "lng": 13.435
+      "lng": 13.435,
+      "desc_en": "Farm-to-table organic dining inside a 19th-century brick courtyard in Mitte.",
+      "desc_ja": "Farm-to-table organic dining inside a 19th-century brick courtyard in Mitte.",
+      "desc_es": "Farm-to-table organic dining inside a 19th-century brick courtyard in Mitte.",
+      "desc_zh": "Farm-to-table organic dining inside a 19th-century brick courtyard in Mitte.",
+      "desc_fr": "Farm-to-table organic dining inside a 19th-century brick courtyard in Mitte.",
+      "desc_de": "Farm-to-table organic dining inside a 19th-century brick courtyard in Mitte.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b26",
@@ -790,7 +1330,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.49,
-      "lng": 13.45
+      "lng": 13.45,
+      "desc_en": "Grand high-society French-German brasserie famous for golden Wiener Schnitzel.",
+      "desc_ja": "Grand high-society French-German brasserie famous for golden Wiener Schnitzel.",
+      "desc_es": "Grand high-society French-German brasserie famous for golden Wiener Schnitzel.",
+      "desc_zh": "Grand high-society French-German brasserie famous for golden Wiener Schnitzel.",
+      "desc_fr": "Grand high-society French-German brasserie famous for golden Wiener Schnitzel.",
+      "desc_de": "Grand high-society French-German brasserie famous for golden Wiener Schnitzel.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b27",
@@ -807,7 +1359,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.505,
-      "lng": 13.45
+      "lng": 13.45,
+      "desc_en": "Riverside steakhouse overlooking the Spree frequented by international artists.",
+      "desc_ja": "Riverside steakhouse overlooking the Spree frequented by international artists.",
+      "desc_es": "Riverside steakhouse overlooking the Spree frequented by international artists.",
+      "desc_zh": "Riverside steakhouse overlooking the Spree frequented by international artists.",
+      "desc_fr": "Riverside steakhouse overlooking the Spree frequented by international artists.",
+      "desc_de": "Riverside steakhouse overlooking the Spree frequented by international artists.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b28",
@@ -824,7 +1388,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.52,
-      "lng": 13.45
+      "lng": 13.45,
+      "desc_en": "Vibrant Vietnamese pho & spring roll spot in stylish Mitte neighborhood.",
+      "desc_ja": "Vibrant Vietnamese pho & spring roll spot in stylish Mitte neighborhood.",
+      "desc_es": "Vibrant Vietnamese pho & spring roll spot in stylish Mitte neighborhood.",
+      "desc_zh": "Vibrant Vietnamese pho & spring roll spot in stylish Mitte neighborhood.",
+      "desc_fr": "Vibrant Vietnamese pho & spring roll spot in stylish Mitte neighborhood.",
+      "desc_de": "Vibrant Vietnamese pho & spring roll spot in stylish Mitte neighborhood.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b29",
@@ -841,7 +1417,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.535,
-      "lng": 13.45
+      "lng": 13.45,
+      "desc_en": "Organic bakery crafting giant warm cinnamon rolls (Schnecken) in glass kitchen.",
+      "desc_ja": "Organic bakery crafting giant warm cinnamon rolls (Schnecken) in glass kitchen.",
+      "desc_es": "Organic bakery crafting giant warm cinnamon rolls (Schnecken) in glass kitchen.",
+      "desc_zh": "Organic bakery crafting giant warm cinnamon rolls (Schnecken) in glass kitchen.",
+      "desc_fr": "Organic bakery crafting giant warm cinnamon rolls (Schnecken) in glass kitchen.",
+      "desc_de": "Organic bakery crafting giant warm cinnamon rolls (Schnecken) in glass kitchen.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b30",
@@ -858,7 +1446,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.55,
-      "lng": 13.45
+      "lng": 13.45,
+      "desc_en": "Pioneer of Europe's specialty coffee scene roasting single-origin beans.",
+      "desc_ja": "Pioneer of Europe's specialty coffee scene roasting single-origin beans.",
+      "desc_es": "Pioneer of Europe's specialty coffee scene roasting single-origin beans.",
+      "desc_zh": "Pioneer of Europe's specialty coffee scene roasting single-origin beans.",
+      "desc_fr": "Pioneer of Europe's specialty coffee scene roasting single-origin beans.",
+      "desc_de": "Pioneer of Europe's specialty coffee scene roasting single-origin beans.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b31",
@@ -875,7 +1475,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.49,
-      "lng": 13.465
+      "lng": 13.465,
+      "desc_en": "Japanese-influenced greenhouse cafe featuring spiral wooden staircase brunch spot.",
+      "desc_ja": "Japanese-influenced greenhouse cafe featuring spiral wooden staircase brunch spot.",
+      "desc_es": "Japanese-influenced greenhouse cafe featuring spiral wooden staircase brunch spot.",
+      "desc_zh": "Japanese-influenced greenhouse cafe featuring spiral wooden staircase brunch spot.",
+      "desc_fr": "Japanese-influenced greenhouse cafe featuring spiral wooden staircase brunch spot.",
+      "desc_de": "Japanese-influenced greenhouse cafe featuring spiral wooden staircase brunch spot.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "b_b32",
@@ -892,7 +1504,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 52.505,
-      "lng": 13.465
+      "lng": 13.465,
+      "desc_en": "Historic 1891 market hall host to Thursday Street Food Thursday fairs.",
+      "desc_ja": "Historic 1891 market hall host to Thursday Street Food Thursday fairs.",
+      "desc_es": "Historic 1891 market hall host to Thursday Street Food Thursday fairs.",
+      "desc_zh": "Historic 1891 market hall host to Thursday Street Food Thursday fairs.",
+      "desc_fr": "Historic 1891 market hall host to Thursday Street Food Thursday fairs.",
+      "desc_de": "Historic 1891 market hall host to Thursday Street Food Thursday fairs.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Bordeaux, France": [
@@ -911,7 +1535,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 44.8417,
-      "lng": -0.5703
+      "lng": -0.5703,
+      "desc_en": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
+      "desc_ja": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
+      "desc_es": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
+      "desc_zh": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
+      "desc_fr": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
+      "desc_de": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_2",
@@ -928,7 +1564,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8428,
-      "lng": -0.5744
+      "lng": -0.5744,
+      "desc_en": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
+      "desc_ja": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
+      "desc_es": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
+      "desc_zh": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
+      "desc_fr": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
+      "desc_de": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_3",
@@ -945,7 +1593,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8378,
-      "lng": -0.5775
+      "lng": -0.5775,
+      "desc_en": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
+      "desc_ja": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
+      "desc_es": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
+      "desc_zh": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
+      "desc_fr": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
+      "desc_de": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_4",
@@ -962,7 +1622,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8389,
-      "lng": -0.5686
+      "lng": -0.5686,
+      "desc_en": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
+      "desc_ja": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
+      "desc_es": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
+      "desc_zh": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
+      "desc_fr": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
+      "desc_de": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_5",
@@ -979,7 +1651,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8356,
-      "lng": -0.5714
+      "lng": -0.5714,
+      "desc_en": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
+      "desc_ja": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
+      "desc_es": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
+      "desc_zh": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
+      "desc_fr": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
+      "desc_de": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_6",
@@ -996,7 +1680,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8344,
-      "lng": -0.5653
+      "lng": -0.5653,
+      "desc_en": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
+      "desc_ja": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
+      "desc_es": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
+      "desc_zh": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
+      "desc_fr": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
+      "desc_de": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_7",
@@ -1013,7 +1709,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8456,
-      "lng": -0.5747
+      "lng": -0.5747,
+      "desc_en": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
+      "desc_ja": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
+      "desc_es": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
+      "desc_zh": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
+      "desc_fr": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
+      "desc_de": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_8",
@@ -1030,7 +1738,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8483,
-      "lng": -0.5819
+      "lng": -0.5819,
+      "desc_en": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
+      "desc_ja": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
+      "desc_es": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
+      "desc_zh": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
+      "desc_fr": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
+      "desc_de": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_9",
@@ -1047,7 +1767,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8386,
-      "lng": -0.5636
+      "lng": -0.5636,
+      "desc_en": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
+      "desc_ja": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
+      "desc_es": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
+      "desc_zh": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
+      "desc_fr": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
+      "desc_de": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_10",
@@ -1064,7 +1796,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 44.4925,
-      "lng": -0.3703
+      "lng": -0.3703,
+      "desc_en": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
+      "desc_ja": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
+      "desc_es": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
+      "desc_zh": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
+      "desc_fr": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
+      "desc_de": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_11",
@@ -1081,7 +1825,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 44.6797,
-      "lng": -0.5239
+      "lng": -0.5239,
+      "desc_en": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
+      "desc_ja": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
+      "desc_es": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
+      "desc_zh": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
+      "desc_fr": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
+      "desc_de": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_12",
@@ -1098,7 +1854,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8625,
-      "lng": -0.55
+      "lng": -0.55,
+      "desc_en": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
+      "desc_ja": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
+      "desc_es": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
+      "desc_zh": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
+      "desc_fr": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
+      "desc_de": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_13",
@@ -1115,7 +1883,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 44.8708,
-      "lng": -0.5572
+      "lng": -0.5572,
+      "desc_en": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
+      "desc_ja": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
+      "desc_es": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
+      "desc_zh": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
+      "desc_fr": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
+      "desc_de": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_14",
@@ -1132,7 +1912,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8367,
-      "lng": -0.5742
+      "lng": -0.5742,
+      "desc_en": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
+      "desc_ja": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
+      "desc_es": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
+      "desc_zh": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
+      "desc_fr": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
+      "desc_de": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_15",
@@ -1149,7 +1941,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8375,
-      "lng": -0.5806
+      "lng": -0.5806,
+      "desc_en": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
+      "desc_ja": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
+      "desc_es": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
+      "desc_zh": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
+      "desc_fr": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
+      "desc_de": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_16",
@@ -1166,7 +1970,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8481,
-      "lng": -0.5719
+      "lng": -0.5719,
+      "desc_en": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
+      "desc_ja": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
+      "desc_es": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
+      "desc_zh": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
+      "desc_fr": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
+      "desc_de": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_17",
@@ -1183,7 +1999,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8378,
-      "lng": -0.5794
+      "lng": -0.5794,
+      "desc_en": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
+      "desc_ja": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
+      "desc_es": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
+      "desc_zh": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
+      "desc_fr": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
+      "desc_de": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_18",
@@ -1200,7 +2028,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8647,
-      "lng": -0.5528
+      "lng": -0.5528,
+      "desc_en": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
+      "desc_ja": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
+      "desc_es": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
+      "desc_zh": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
+      "desc_fr": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
+      "desc_de": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_19",
@@ -1217,7 +2057,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8414,
-      "lng": -0.57
+      "lng": -0.57,
+      "desc_en": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
+      "desc_ja": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
+      "desc_es": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
+      "desc_zh": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
+      "desc_fr": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
+      "desc_de": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_20",
@@ -1234,7 +2086,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8308,
-      "lng": -0.5678
+      "lng": -0.5678,
+      "desc_en": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
+      "desc_ja": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
+      "desc_es": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
+      "desc_zh": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
+      "desc_fr": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
+      "desc_de": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_21",
@@ -1251,7 +2115,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8406,
-      "lng": -0.5731
+      "lng": -0.5731,
+      "desc_en": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
+      "desc_ja": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
+      "desc_es": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
+      "desc_zh": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
+      "desc_fr": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
+      "desc_de": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_22",
@@ -1268,7 +2144,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8428,
-      "lng": -0.5744
+      "lng": -0.5744,
+      "desc_en": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
+      "desc_ja": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
+      "desc_es": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
+      "desc_zh": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
+      "desc_fr": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
+      "desc_de": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_23",
@@ -1285,7 +2173,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8433,
-      "lng": -0.575
+      "lng": -0.575,
+      "desc_en": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
+      "desc_ja": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
+      "desc_es": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
+      "desc_zh": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
+      "desc_fr": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
+      "desc_de": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_24",
@@ -1302,7 +2202,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8378,
-      "lng": -0.5786
+      "lng": -0.5786,
+      "desc_en": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
+      "desc_ja": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
+      "desc_es": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
+      "desc_zh": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
+      "desc_fr": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
+      "desc_de": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_25",
@@ -1319,7 +2231,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8439,
-      "lng": -0.5747
+      "lng": -0.5747,
+      "desc_en": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
+      "desc_ja": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
+      "desc_es": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
+      "desc_zh": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
+      "desc_fr": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
+      "desc_de": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_26",
@@ -1336,7 +2260,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 44.8931,
-      "lng": -0.1558
+      "lng": -0.1558,
+      "desc_en": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
+      "desc_ja": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
+      "desc_es": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
+      "desc_zh": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
+      "desc_fr": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
+      "desc_de": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_27",
@@ -1353,7 +2289,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8403,
-      "lng": -0.5708
+      "lng": -0.5708,
+      "desc_en": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
+      "desc_ja": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
+      "desc_es": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
+      "desc_zh": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
+      "desc_fr": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
+      "desc_de": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_28",
@@ -1370,7 +2318,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8519,
-      "lng": -0.5708
+      "lng": -0.5708,
+      "desc_en": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
+      "desc_ja": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
+      "desc_es": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
+      "desc_zh": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
+      "desc_fr": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
+      "desc_de": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_29",
@@ -1387,7 +2347,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8447,
-      "lng": -0.5678
+      "lng": -0.5678,
+      "desc_en": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
+      "desc_ja": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
+      "desc_es": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
+      "desc_zh": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
+      "desc_fr": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
+      "desc_de": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_30",
@@ -1404,7 +2376,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8389,
-      "lng": -0.5739
+      "lng": -0.5739,
+      "desc_en": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
+      "desc_ja": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
+      "desc_es": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
+      "desc_zh": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
+      "desc_fr": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
+      "desc_de": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_31",
@@ -1421,7 +2405,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8456,
-      "lng": -0.5747
+      "lng": -0.5747,
+      "desc_en": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
+      "desc_ja": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
+      "desc_es": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
+      "desc_zh": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
+      "desc_fr": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
+      "desc_de": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_32",
@@ -1438,7 +2434,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8483,
-      "lng": -0.5581
+      "lng": -0.5581,
+      "desc_en": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
+      "desc_ja": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
+      "desc_es": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
+      "desc_zh": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
+      "desc_fr": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
+      "desc_de": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_33",
@@ -1455,7 +2463,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 44.8931,
-      "lng": -0.1558
+      "lng": -0.1558,
+      "desc_en": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
+      "desc_ja": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
+      "desc_es": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
+      "desc_zh": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
+      "desc_fr": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
+      "desc_de": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_34",
@@ -1472,7 +2492,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 44.5897,
-      "lng": -1.2136
+      "lng": -1.2136,
+      "desc_en": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
+      "desc_ja": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
+      "desc_es": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
+      "desc_zh": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
+      "desc_fr": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
+      "desc_de": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_35",
@@ -1489,7 +2521,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 44.8481,
-      "lng": -0.5772
+      "lng": -0.5772,
+      "desc_en": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
+      "desc_ja": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
+      "desc_es": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
+      "desc_zh": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
+      "desc_fr": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
+      "desc_de": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_36",
@@ -1506,7 +2550,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 44.8594,
-      "lng": -0.5539
+      "lng": -0.5539,
+      "desc_en": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
+      "desc_ja": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
+      "desc_es": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
+      "desc_zh": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
+      "desc_fr": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
+      "desc_de": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_37",
@@ -1523,7 +2579,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8425,
-      "lng": -0.5678
+      "lng": -0.5678,
+      "desc_en": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
+      "desc_ja": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
+      "desc_es": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
+      "desc_zh": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
+      "desc_fr": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
+      "desc_de": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_38",
@@ -1540,7 +2608,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 44.8533,
-      "lng": -0.5969
+      "lng": -0.5969,
+      "desc_en": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
+      "desc_ja": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
+      "desc_es": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
+      "desc_zh": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
+      "desc_fr": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
+      "desc_de": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_39",
@@ -1557,7 +2637,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 44.7894,
-      "lng": -0.6869
+      "lng": -0.6869,
+      "desc_en": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
+      "desc_ja": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
+      "desc_es": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
+      "desc_zh": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
+      "desc_fr": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
+      "desc_de": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "bo_40",
@@ -1574,7 +2666,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 44.6617,
-      "lng": -1.0664
+      "lng": -1.0664,
+      "desc_en": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
+      "desc_ja": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
+      "desc_es": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
+      "desc_zh": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
+      "desc_fr": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
+      "desc_de": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Brussels, Belgium": [
@@ -1593,7 +2697,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 50.84667,
-      "lng": 4.3525
+      "lng": 4.3525,
+      "desc_en": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_ja": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_es": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_zh": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_fr": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "desc_de": "UNESCO World Heritage central square surrounded by opulent 17th-century guildhouses.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_2",
@@ -1610,7 +2726,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 50.8353,
-      "lng": 4.3217
+      "lng": 4.3217,
+      "desc_en": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_ja": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_es": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_zh": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_fr": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "desc_de": "Glazed 19th-century shopping arcade housing luxury chocolatiers & historic cafes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_3",
@@ -1627,7 +2755,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.89472,
-      "lng": 4.34111
+      "lng": 4.34111,
+      "desc_en": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_ja": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_es": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_zh": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_fr": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "desc_de": "Iconic 102m steel structure built for 1958 World Expo depicting an iron crystal.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_4",
@@ -1644,7 +2784,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.8653,
-      "lng": 4.3217
+      "lng": 4.3217,
+      "desc_en": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_ja": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_es": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_zh": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_fr": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "desc_de": "Gothic cathedral towering over Brussels with stained glass windows.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_5",
@@ -1661,7 +2813,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.84389,
-      "lng": 4.35667
+      "lng": 4.35667,
+      "desc_en": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_ja": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_es": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_zh": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_fr": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "desc_de": "Elevated urban garden promenade offering iconic views of Brussels spire.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_6",
@@ -1678,7 +2842,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.8203,
-      "lng": 4.3367
+      "lng": 4.3367,
+      "desc_en": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_ja": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_es": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_zh": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_fr": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "desc_de": "U-shaped palace complex featuring monumental triumphal arch & gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_7",
@@ -1695,7 +2871,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.84499,
-      "lng": 4.34999
+      "lng": 4.34999,
+      "desc_en": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_ja": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_es": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_zh": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_fr": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "desc_de": "Famous 61cm bronze fountain statue of a peeing boy in Brussels center.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_8",
@@ -1712,7 +2900,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.84194,
-      "lng": 4.35861
+      "lng": 4.35861,
+      "desc_en": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_ja": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_es": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_zh": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_fr": "World's largest surrealist collection of René Magritte paintings.",
+      "desc_de": "World's largest surrealist collection of René Magritte paintings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_9",
@@ -1729,7 +2929,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.8653,
-      "lng": 4.3367
+      "lng": 4.3367,
+      "desc_en": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_ja": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_es": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_zh": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_fr": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "desc_de": "1893 Belgian dining institution serving classic moules-frites (mussels & fries).",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_10",
@@ -1746,7 +2958,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.8803,
-      "lng": 4.3367
+      "lng": 4.3367,
+      "desc_en": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_ja": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_es": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_zh": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_fr": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "desc_de": "Lively communal-table restaurant serving carbonnade flamande beef stew & Belgian ales.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_11",
@@ -1763,7 +2987,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.8203,
-      "lng": 4.3517
+      "lng": 4.3517,
+      "desc_en": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_ja": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_es": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_zh": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_fr": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "desc_de": "Historic 1829 artisan bakery famous for crispy Liege & Brussels waffles & speculoos.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_12",
@@ -1780,7 +3016,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.8353,
-      "lng": 4.3517
+      "lng": 4.3517,
+      "desc_en": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_ja": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_es": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_zh": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_fr": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "desc_de": "Haute chocolaterie crafting bean-to-bar praline truffles & macarons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "br_13",
@@ -1797,7 +3045,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.84841,
-      "lng": 4.35393
+      "lng": 4.35393,
+      "desc_en": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_ja": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_es": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_zh": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_fr": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "desc_de": "Guinness World Record beer hall stocking over 2,000 global craft beers.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Cologne, Germany": [
@@ -1816,7 +3076,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.94139,
-      "lng": 6.95833
+      "lng": 6.95833,
+      "desc_en": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
+      "desc_ja": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
+      "desc_es": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
+      "desc_zh": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
+      "desc_fr": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
+      "desc_de": "Monmental 157m Gothic twin-spired cathedral housing Shrine of the Three Kings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_2",
@@ -1833,7 +3105,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.94139,
-      "lng": 6.96556
+      "lng": 6.96556,
+      "desc_en": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
+      "desc_ja": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
+      "desc_es": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
+      "desc_zh": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
+      "desc_fr": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
+      "desc_de": "Pedestrian rail bridge covered in 500,000 padlock love tokens across Rhine.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_3",
@@ -1850,7 +3134,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.9386,
-      "lng": 6.9618
+      "lng": 6.9618,
+      "desc_en": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
+      "desc_ja": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
+      "desc_es": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
+      "desc_zh": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
+      "desc_fr": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
+      "desc_de": "Romanesque church towering over Cologne's colorful historic Old Town waterfront.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_4",
@@ -1867,7 +3163,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.9322,
-      "lng": 6.96427
+      "lng": 6.96427,
+      "desc_en": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
+      "desc_ja": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
+      "desc_es": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
+      "desc_zh": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
+      "desc_fr": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
+      "desc_de": "Riverside museum featuring 3-meter golden chocolate fountain & live factory line.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_5",
@@ -1884,7 +3192,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.94083,
-      "lng": 6.96028
+      "lng": 6.96028,
+      "desc_en": "World-leading modern art museum featuring third-largest Picasso collection.",
+      "desc_ja": "World-leading modern art museum featuring third-largest Picasso collection.",
+      "desc_es": "World-leading modern art museum featuring third-largest Picasso collection.",
+      "desc_zh": "World-leading modern art museum featuring third-largest Picasso collection.",
+      "desc_fr": "World-leading modern art museum featuring third-largest Picasso collection.",
+      "desc_de": "World-leading modern art museum featuring third-largest Picasso collection.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_6",
@@ -1901,7 +3221,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.93942,
-      "lng": 6.95942
+      "lng": 6.95942,
+      "desc_en": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
+      "desc_ja": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
+      "desc_es": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
+      "desc_zh": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
+      "desc_fr": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
+      "desc_de": "Historic 1904 brewery hall serving cold Kölsch beer & pork knuckle near Cathedral.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_7",
@@ -1918,7 +3250,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 50.9225,
-      "lng": 6.9453
+      "lng": 6.9453,
+      "desc_en": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
+      "desc_ja": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
+      "desc_es": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
+      "desc_zh": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
+      "desc_fr": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
+      "desc_de": "Traditional Kölsch brewhouse right under Cologne Cathedral spires.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_8",
@@ -1935,7 +3279,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.9375,
-      "lng": 6.9453
+      "lng": 6.9453,
+      "desc_en": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
+      "desc_ja": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
+      "desc_es": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
+      "desc_zh": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
+      "desc_fr": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
+      "desc_de": "Beloved student quarter pub famous for massive golden Schnitzels with 10 sauces.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "c_9",
@@ -1952,7 +3308,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 50.9525,
-      "lng": 6.9453
+      "lng": 6.9453,
+      "desc_en": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
+      "desc_ja": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
+      "desc_es": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
+      "desc_zh": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
+      "desc_fr": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
+      "desc_de": "Grand traditional cafe terrace offering views of Cologne Cathedral facade.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -1971,7 +3339,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.5816,
-      "lng": 6.1019
+      "lng": 6.1019,
+      "desc_en": "Subterranean cliffside defense tunnels carved into solid rock overlooking the Alzette.",
+      "desc_ja": "Subterranean cliffside defense tunnels carved into solid rock overlooking the Alzette.",
+      "desc_es": "Subterranean cliffside defense tunnels carved into solid rock overlooking the Alzette.",
+      "desc_zh": "Subterranean cliffside defense tunnels carved into solid rock overlooking the Alzette.",
+      "desc_fr": "Subterranean cliffside defense tunnels carved into solid rock overlooking the Alzette.",
+      "desc_de": "Subterranean cliffside defense tunnels carved into solid rock overlooking the Alzette.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_2",
@@ -1988,7 +3368,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.63503,
-      "lng": -2.02751
+      "lng": -2.02751,
+      "desc_en": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
+      "desc_ja": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
+      "desc_es": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
+      "desc_zh": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
+      "desc_fr": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
+      "desc_de": "Dubbed 'Europe's most beautiful balcony', a scenic rampart walk over Grund valley.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_3",
@@ -2005,7 +3397,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.6116,
-      "lng": 6.1019
+      "lng": 6.1019,
+      "desc_en": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
+      "desc_ja": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
+      "desc_es": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
+      "desc_zh": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
+      "desc_fr": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
+      "desc_de": "Picturesque lower town quarter with stone bridges, cobblestones & riverside bistros.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_4",
@@ -2022,7 +3426,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.61089,
-      "lng": 6.13283
+      "lng": 6.13283,
+      "desc_en": "Official Renaissance residence of the Grand Duke of Luxembourg in city center.",
+      "desc_ja": "Official Renaissance residence of the Grand Duke of Luxembourg in city center.",
+      "desc_es": "Official Renaissance residence of the Grand Duke of Luxembourg in city center.",
+      "desc_zh": "Official Renaissance residence of the Grand Duke of Luxembourg in city center.",
+      "desc_fr": "Official Renaissance residence of the Grand Duke of Luxembourg in city center.",
+      "desc_de": "Official Renaissance residence of the Grand Duke of Luxembourg in city center.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_5",
@@ -2039,7 +3455,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.6416,
-      "lng": 6.1019
+      "lng": 6.1019,
+      "desc_en": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
+      "desc_ja": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
+      "desc_es": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
+      "desc_zh": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
+      "desc_fr": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
+      "desc_de": "17th-century Gothic cathedral featuring stained glass and royal crypts.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_6",
@@ -2056,7 +3484,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.5816,
-      "lng": 6.1169
+      "lng": 6.1169,
+      "desc_en": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
+      "desc_ja": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
+      "desc_es": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
+      "desc_zh": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
+      "desc_fr": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
+      "desc_de": "Grand Duke Jean Museum of Modern Art designed by I.M. Pei atop Fort Thüngen.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_7",
@@ -2073,7 +3513,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.5966,
-      "lng": 6.1169
+      "lng": 6.1169,
+      "desc_en": "National Museum of History and Art displaying Gallo-Roman mosaics.",
+      "desc_ja": "National Museum of History and Art displaying Gallo-Roman mosaics.",
+      "desc_es": "National Museum of History and Art displaying Gallo-Roman mosaics.",
+      "desc_zh": "National Museum of History and Art displaying Gallo-Roman mosaics.",
+      "desc_fr": "National Museum of History and Art displaying Gallo-Roman mosaics.",
+      "desc_de": "National Museum of History and Art displaying Gallo-Roman mosaics.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_8",
@@ -2090,7 +3542,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.6116,
-      "lng": 6.1169
+      "lng": 6.1169,
+      "desc_en": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
+      "desc_ja": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
+      "desc_es": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
+      "desc_zh": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
+      "desc_fr": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
+      "desc_de": "Famed chocolate shop opposite Grand Ducal Palace for hot chocolate spoons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_9",
@@ -2107,7 +3571,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.6266,
-      "lng": 6.1169
+      "lng": 6.1169,
+      "desc_en": "Official royal court supplier of Luxembourgish pastries & pralines.",
+      "desc_ja": "Official royal court supplier of Luxembourgish pastries & pralines.",
+      "desc_es": "Official royal court supplier of Luxembourgish pastries & pralines.",
+      "desc_zh": "Official royal court supplier of Luxembourgish pastries & pralines.",
+      "desc_fr": "Official royal court supplier of Luxembourgish pastries & pralines.",
+      "desc_de": "Official royal court supplier of Luxembourgish pastries & pralines.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_10",
@@ -2124,7 +3600,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 49.6416,
-      "lng": 6.1169
+      "lng": 6.1169,
+      "desc_en": "Sophisticated dining room serving modern European sharing plates & cocktails.",
+      "desc_ja": "Sophisticated dining room serving modern European sharing plates & cocktails.",
+      "desc_es": "Sophisticated dining room serving modern European sharing plates & cocktails.",
+      "desc_zh": "Sophisticated dining room serving modern European sharing plates & cocktails.",
+      "desc_fr": "Sophisticated dining room serving modern European sharing plates & cocktails.",
+      "desc_de": "Sophisticated dining room serving modern European sharing plates & cocktails.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_11",
@@ -2141,7 +3629,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.61552,
-      "lng": 6.13065
+      "lng": 6.13065,
+      "desc_en": "71m glass elevator providing sweeping views over Alzette valley & Pfaffenthal quarter.",
+      "desc_ja": "71m glass elevator providing sweeping views over Alzette valley & Pfaffenthal quarter.",
+      "desc_es": "71m glass elevator providing sweeping views over Alzette valley & Pfaffenthal quarter.",
+      "desc_zh": "71m glass elevator providing sweeping views over Alzette valley & Pfaffenthal quarter.",
+      "desc_fr": "71m glass elevator providing sweeping views over Alzette valley & Pfaffenthal quarter.",
+      "desc_de": "71m glass elevator providing sweeping views over Alzette valley & Pfaffenthal quarter.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_12",
@@ -2158,7 +3658,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 49.935,
-      "lng": 6.20222
+      "lng": 6.20222,
+      "desc_en": "Breathtaking 11th-century feudal castle perched atop rocky promontory in Vianden valley.",
+      "desc_ja": "Breathtaking 11th-century feudal castle perched atop rocky promontory in Vianden valley.",
+      "desc_es": "Breathtaking 11th-century feudal castle perched atop rocky promontory in Vianden valley.",
+      "desc_zh": "Breathtaking 11th-century feudal castle perched atop rocky promontory in Vianden valley.",
+      "desc_fr": "Breathtaking 11th-century feudal castle perched atop rocky promontory in Vianden valley.",
+      "desc_de": "Breathtaking 11th-century feudal castle perched atop rocky promontory in Vianden valley.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_13",
@@ -2175,7 +3687,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.6083,
-      "lng": 6.127
+      "lng": 6.127,
+      "desc_en": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
+      "desc_ja": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
+      "desc_es": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
+      "desc_zh": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
+      "desc_fr": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
+      "desc_de": "Monumental double-arched stone bridge spanning 42-meter deep Petrusse Valley with glass footbridge.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_14",
@@ -2192,7 +3716,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 18.46611,
-      "lng": -66.10589
+      "lng": -66.10589,
+      "desc_en": "Golden Lady statue on Place de la Constitution overlooking Petrusse Valley & Adolphe Bridge.",
+      "desc_ja": "Golden Lady statue on Place de la Constitution overlooking Petrusse Valley & Adolphe Bridge.",
+      "desc_es": "Golden Lady statue on Place de la Constitution overlooking Petrusse Valley & Adolphe Bridge.",
+      "desc_zh": "Golden Lady statue on Place de la Constitution overlooking Petrusse Valley & Adolphe Bridge.",
+      "desc_fr": "Golden Lady statue on Place de la Constitution overlooking Petrusse Valley & Adolphe Bridge.",
+      "desc_de": "Golden Lady statue on Place de la Constitution overlooking Petrusse Valley & Adolphe Bridge.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_15",
@@ -2209,7 +3745,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.50472,
-      "lng": -73.55722
+      "lng": -73.55722,
+      "desc_en": "Tree-lined 'City Living Room' square packed with lively outdoor cafe terraces & bandstands.",
+      "desc_ja": "Tree-lined 'City Living Room' square packed with lively outdoor cafe terraces & bandstands.",
+      "desc_es": "Tree-lined 'City Living Room' square packed with lively outdoor cafe terraces & bandstands.",
+      "desc_zh": "Tree-lined 'City Living Room' square packed with lively outdoor cafe terraces & bandstands.",
+      "desc_fr": "Tree-lined 'City Living Room' square packed with lively outdoor cafe terraces & bandstands.",
+      "desc_de": "Tree-lined 'City Living Room' square packed with lively outdoor cafe terraces & bandstands.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_16",
@@ -2226,7 +3774,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.61083,
-      "lng": 6.13028
+      "lng": 6.13028,
+      "desc_en": "Historic equestrian square hosting open-air farmers markets & Luxembourg City Hall.",
+      "desc_ja": "Historic equestrian square hosting open-air farmers markets & Luxembourg City Hall.",
+      "desc_es": "Historic equestrian square hosting open-air farmers markets & Luxembourg City Hall.",
+      "desc_zh": "Historic equestrian square hosting open-air farmers markets & Luxembourg City Hall.",
+      "desc_fr": "Historic equestrian square hosting open-air farmers markets & Luxembourg City Hall.",
+      "desc_de": "Historic equestrian square hosting open-air farmers markets & Luxembourg City Hall.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_17",
@@ -2243,7 +3803,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.61028,
-      "lng": 6.13639
+      "lng": 6.13639,
+      "desc_en": "17th-century Benedictine abbey along Alzette River, now a vibrant cultural center.",
+      "desc_ja": "17th-century Benedictine abbey along Alzette River, now a vibrant cultural center.",
+      "desc_es": "17th-century Benedictine abbey along Alzette River, now a vibrant cultural center.",
+      "desc_zh": "17th-century Benedictine abbey along Alzette River, now a vibrant cultural center.",
+      "desc_fr": "17th-century Benedictine abbey along Alzette River, now a vibrant cultural center.",
+      "desc_de": "17th-century Benedictine abbey along Alzette River, now a vibrant cultural center.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_18",
@@ -2260,7 +3832,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 49.61639,
-      "lng": 6.13889
+      "lng": 6.13889,
+      "desc_en": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
+      "desc_ja": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
+      "desc_es": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
+      "desc_zh": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
+      "desc_fr": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
+      "desc_de": "1732 stone fortress with acorn towers housing Luxembourg's fortification history.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_19",
@@ -2277,7 +3861,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 49.6099,
-      "lng": 6.1335
+      "lng": 6.1335,
+      "desc_en": "Innovative urban history museum featuring a massive glass elevator cutting through rock strata.",
+      "desc_ja": "Innovative urban history museum featuring a massive glass elevator cutting through rock strata.",
+      "desc_es": "Innovative urban history museum featuring a massive glass elevator cutting through rock strata.",
+      "desc_zh": "Innovative urban history museum featuring a massive glass elevator cutting through rock strata.",
+      "desc_fr": "Innovative urban history museum featuring a massive glass elevator cutting through rock strata.",
+      "desc_de": "Innovative urban history museum featuring a massive glass elevator cutting through rock strata.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "l_20",
@@ -2294,7 +3890,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 49.6416,
-      "lng": 6.1469
+      "lng": 6.1469,
+      "desc_en": "Romantic stone bridge & triple waterfall in 'Luxembourg's Little Switzerland'.",
+      "desc_ja": "Romantic stone bridge & triple waterfall in 'Luxembourg's Little Switzerland'.",
+      "desc_es": "Romantic stone bridge & triple waterfall in 'Luxembourg's Little Switzerland'.",
+      "desc_zh": "Romantic stone bridge & triple waterfall in 'Luxembourg's Little Switzerland'.",
+      "desc_fr": "Romantic stone bridge & triple waterfall in 'Luxembourg's Little Switzerland'.",
+      "desc_de": "Romantic stone bridge & triple waterfall in 'Luxembourg's Little Switzerland'.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Lyon, France": [
@@ -2313,7 +3921,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7623,
-      "lng": 4.8226
+      "lng": 4.8226,
+      "desc_en": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
+      "desc_ja": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
+      "desc_es": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
+      "desc_zh": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
+      "desc_fr": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
+      "desc_de": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_2",
@@ -2330,7 +3950,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7607,
-      "lng": 4.8275
+      "lng": 4.8275,
+      "desc_en": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "desc_ja": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "desc_es": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "desc_zh": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "desc_fr": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "desc_de": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_3",
@@ -2347,7 +3979,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7597,
-      "lng": 4.8197
+      "lng": 4.8197,
+      "desc_en": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
+      "desc_ja": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
+      "desc_es": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
+      "desc_zh": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
+      "desc_fr": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
+      "desc_de": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_4",
@@ -2364,7 +4008,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7578,
-      "lng": 4.8321
+      "lng": 4.8321,
+      "desc_en": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
+      "desc_ja": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
+      "desc_es": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
+      "desc_zh": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
+      "desc_fr": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
+      "desc_de": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_5",
@@ -2381,7 +4037,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7675,
-      "lng": 4.8335
+      "lng": 4.8335,
+      "desc_en": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
+      "desc_ja": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
+      "desc_es": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
+      "desc_zh": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
+      "desc_fr": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
+      "desc_de": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_6",
@@ -2398,7 +4066,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.76,
-      "lng": 4.8367
+      "lng": 4.8367,
+      "desc_en": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
+      "desc_ja": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
+      "desc_es": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
+      "desc_zh": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
+      "desc_fr": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
+      "desc_de": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_7",
@@ -2415,7 +4095,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7708,
-      "lng": 4.83
+      "lng": 4.83,
+      "desc_en": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "desc_ja": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "desc_es": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "desc_zh": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "desc_fr": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "desc_de": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_8",
@@ -2432,7 +4124,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7644,
-      "lng": 4.8336
+      "lng": 4.8336,
+      "desc_en": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
+      "desc_ja": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
+      "desc_es": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
+      "desc_zh": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
+      "desc_fr": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
+      "desc_de": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_9",
@@ -2449,7 +4153,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 45.8192,
-      "lng": 4.6222
+      "lng": 4.6222,
+      "desc_en": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
+      "desc_ja": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
+      "desc_es": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
+      "desc_zh": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
+      "desc_fr": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
+      "desc_de": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_10",
@@ -2466,7 +4182,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 45.8436,
-      "lng": 4.8378
+      "lng": 4.8378,
+      "desc_en": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
+      "desc_ja": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
+      "desc_es": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
+      "desc_zh": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
+      "desc_fr": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
+      "desc_de": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_11",
@@ -2483,7 +4211,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7672,
-      "lng": 4.8336
+      "lng": 4.8336,
+      "desc_en": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
+      "desc_ja": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
+      "desc_es": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
+      "desc_zh": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
+      "desc_fr": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
+      "desc_de": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_12",
@@ -2500,7 +4240,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7328,
-      "lng": 4.8183
+      "lng": 4.8183,
+      "desc_en": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
+      "desc_ja": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
+      "desc_es": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
+      "desc_zh": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
+      "desc_fr": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
+      "desc_de": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_13",
@@ -2517,7 +4269,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 45.7622,
-      "lng": 4.8272
+      "lng": 4.8272,
+      "desc_en": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
+      "desc_ja": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
+      "desc_es": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
+      "desc_zh": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
+      "desc_fr": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
+      "desc_de": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_14",
@@ -2534,7 +4298,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7456,
-      "lng": 4.8711
+      "lng": 4.8711,
+      "desc_en": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
+      "desc_ja": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
+      "desc_es": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
+      "desc_zh": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
+      "desc_fr": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
+      "desc_de": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_15",
@@ -2551,7 +4327,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7636,
-      "lng": 4.8275
+      "lng": 4.8275,
+      "desc_en": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
+      "desc_ja": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
+      "desc_es": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
+      "desc_zh": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
+      "desc_fr": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
+      "desc_de": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_16",
@@ -2568,7 +4356,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7533,
-      "lng": 4.8319
+      "lng": 4.8319,
+      "desc_en": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
+      "desc_ja": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
+      "desc_es": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
+      "desc_zh": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
+      "desc_fr": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
+      "desc_de": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_17",
@@ -2585,7 +4385,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7639,
-      "lng": 4.8358
+      "lng": 4.8358,
+      "desc_en": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
+      "desc_ja": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
+      "desc_es": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
+      "desc_zh": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
+      "desc_fr": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
+      "desc_de": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_18",
@@ -2602,7 +4414,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.76,
-      "lng": 4.8194
+      "lng": 4.8194,
+      "desc_en": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
+      "desc_ja": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
+      "desc_es": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
+      "desc_zh": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
+      "desc_fr": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
+      "desc_de": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_19",
@@ -2619,7 +4443,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7472,
-      "lng": 4.8361
+      "lng": 4.8361,
+      "desc_en": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
+      "desc_ja": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
+      "desc_es": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
+      "desc_zh": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
+      "desc_fr": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
+      "desc_de": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_20",
@@ -2636,7 +4472,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7847,
-      "lng": 4.8522
+      "lng": 4.8522,
+      "desc_en": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
+      "desc_ja": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
+      "desc_es": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
+      "desc_zh": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
+      "desc_fr": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
+      "desc_de": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_21",
@@ -2653,7 +4501,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7381,
-      "lng": 4.8683
+      "lng": 4.8683,
+      "desc_en": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
+      "desc_ja": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
+      "desc_es": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
+      "desc_zh": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
+      "desc_fr": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
+      "desc_de": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_22",
@@ -2670,7 +4530,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 45.6569,
-      "lng": 4.9042
+      "lng": 4.9042,
+      "desc_en": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
+      "desc_ja": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
+      "desc_es": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
+      "desc_zh": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
+      "desc_fr": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
+      "desc_de": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_23",
@@ -2687,7 +4559,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7628,
-      "lng": 4.8519
+      "lng": 4.8519,
+      "desc_en": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
+      "desc_ja": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
+      "desc_es": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
+      "desc_zh": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
+      "desc_fr": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
+      "desc_de": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_24",
@@ -2704,7 +4588,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7661,
-      "lng": 4.8336
+      "lng": 4.8336,
+      "desc_en": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
+      "desc_ja": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
+      "desc_es": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
+      "desc_zh": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
+      "desc_fr": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
+      "desc_de": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_25",
@@ -2721,7 +4617,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.76,
-      "lng": 4.8367
+      "lng": 4.8367,
+      "desc_en": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
+      "desc_ja": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
+      "desc_es": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
+      "desc_zh": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
+      "desc_fr": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
+      "desc_de": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_26",
@@ -2738,7 +4646,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7675,
-      "lng": 4.8319
+      "lng": 4.8319,
+      "desc_en": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
+      "desc_ja": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
+      "desc_es": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
+      "desc_zh": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
+      "desc_fr": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
+      "desc_de": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_27",
@@ -2755,7 +4675,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7686,
-      "lng": 4.8456
+      "lng": 4.8456,
+      "desc_en": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
+      "desc_ja": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
+      "desc_es": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
+      "desc_zh": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
+      "desc_fr": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
+      "desc_de": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_28",
@@ -2772,7 +4704,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7519,
-      "lng": 4.8267
+      "lng": 4.8267,
+      "desc_en": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
+      "desc_ja": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
+      "desc_es": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
+      "desc_zh": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
+      "desc_fr": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
+      "desc_de": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_29",
@@ -2789,7 +4733,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7483,
-      "lng": 4.8275
+      "lng": 4.8275,
+      "desc_en": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
+      "desc_ja": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
+      "desc_es": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
+      "desc_zh": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
+      "desc_fr": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
+      "desc_de": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_30",
@@ -2806,7 +4762,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 45.8156,
-      "lng": 4.8469
+      "lng": 4.8469,
+      "desc_en": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
+      "desc_ja": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
+      "desc_es": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
+      "desc_zh": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
+      "desc_fr": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
+      "desc_de": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_31",
@@ -2823,7 +4791,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7622,
-      "lng": 4.8272
+      "lng": 4.8272,
+      "desc_en": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
+      "desc_ja": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
+      "desc_es": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
+      "desc_zh": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
+      "desc_fr": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
+      "desc_de": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_32",
@@ -2840,7 +4820,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7744,
-      "lng": 4.8322
+      "lng": 4.8322,
+      "desc_en": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
+      "desc_ja": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
+      "desc_es": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
+      "desc_zh": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
+      "desc_fr": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
+      "desc_de": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_33",
@@ -2857,7 +4849,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7722,
-      "lng": 4.8344
+      "lng": 4.8344,
+      "desc_en": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
+      "desc_ja": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
+      "desc_es": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
+      "desc_zh": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
+      "desc_fr": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
+      "desc_de": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_34",
@@ -2874,7 +4878,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7675,
-      "lng": 4.83
+      "lng": 4.83,
+      "desc_en": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
+      "desc_ja": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
+      "desc_es": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
+      "desc_zh": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
+      "desc_fr": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
+      "desc_de": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_35",
@@ -2891,7 +4907,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7781,
-      "lng": 4.8325
+      "lng": 4.8325,
+      "desc_en": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
+      "desc_ja": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
+      "desc_es": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
+      "desc_zh": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
+      "desc_fr": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
+      "desc_de": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_36",
@@ -2908,7 +4936,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7572,
-      "lng": 4.8258
+      "lng": 4.8258,
+      "desc_en": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
+      "desc_ja": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
+      "desc_es": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
+      "desc_zh": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
+      "desc_fr": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
+      "desc_de": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_37",
@@ -2925,7 +4965,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7583,
-      "lng": 4.8361
+      "lng": 4.8361,
+      "desc_en": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
+      "desc_ja": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
+      "desc_es": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
+      "desc_zh": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
+      "desc_fr": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
+      "desc_de": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_38",
@@ -2942,7 +4994,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7553,
-      "lng": 4.8206
+      "lng": 4.8206,
+      "desc_en": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
+      "desc_ja": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
+      "desc_es": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
+      "desc_zh": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
+      "desc_fr": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
+      "desc_de": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_39",
@@ -2959,7 +5023,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 45.7411,
-      "lng": 4.8197
+      "lng": 4.8197,
+      "desc_en": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
+      "desc_ja": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
+      "desc_es": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
+      "desc_zh": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
+      "desc_fr": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
+      "desc_de": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_40",
@@ -2976,7 +5052,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 45.7981,
-      "lng": 4.8394
+      "lng": 4.8394,
+      "desc_en": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
+      "desc_ja": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
+      "desc_es": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
+      "desc_zh": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
+      "desc_fr": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
+      "desc_de": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_41",
@@ -2993,7 +5081,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 45.9033,
-      "lng": 5.1783
+      "lng": 5.1783,
+      "desc_en": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
+      "desc_ja": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
+      "desc_es": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
+      "desc_zh": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
+      "desc_fr": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
+      "desc_de": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_42",
@@ -3010,7 +5110,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 45.7772,
-      "lng": 4.855
+      "lng": 4.855,
+      "desc_en": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
+      "desc_ja": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
+      "desc_es": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
+      "desc_zh": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
+      "desc_fr": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
+      "desc_de": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_43",
@@ -3027,7 +5139,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 45.7606,
-      "lng": 4.8256
+      "lng": 4.8256,
+      "desc_en": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
+      "desc_ja": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
+      "desc_es": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
+      "desc_zh": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
+      "desc_fr": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
+      "desc_de": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_44",
@@ -3044,7 +5168,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 45.7275,
-      "lng": 4.8164
+      "lng": 4.8164,
+      "desc_en": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
+      "desc_ja": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
+      "desc_es": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
+      "desc_zh": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
+      "desc_fr": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
+      "desc_de": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_45",
@@ -3061,7 +5197,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 45.7611,
-      "lng": 4.9228
+      "lng": 4.9228,
+      "desc_en": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
+      "desc_ja": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
+      "desc_es": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
+      "desc_zh": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
+      "desc_fr": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
+      "desc_de": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "lyon_46",
@@ -3078,7 +5226,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 45.7761,
-      "lng": 4.9222
+      "lng": 4.9222,
+      "desc_en": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
+      "desc_ja": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
+      "desc_es": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
+      "desc_zh": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
+      "desc_fr": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
+      "desc_de": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Marseille, France": [
@@ -3097,7 +5257,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2842,
-      "lng": 5.3714
+      "lng": 5.3714,
+      "desc_en": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
+      "desc_ja": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
+      "desc_es": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
+      "desc_zh": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
+      "desc_fr": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
+      "desc_de": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_2",
@@ -3114,7 +5286,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2953,
-      "lng": 5.3744
+      "lng": 5.3744,
+      "desc_en": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
+      "desc_ja": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
+      "desc_es": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
+      "desc_zh": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
+      "desc_fr": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
+      "desc_de": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_3",
@@ -3131,7 +5315,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2997,
-      "lng": 5.3647
+      "lng": 5.3647,
+      "desc_en": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
+      "desc_ja": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
+      "desc_es": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
+      "desc_zh": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
+      "desc_fr": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
+      "desc_de": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_4",
@@ -3148,7 +5344,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2969,
-      "lng": 5.3622
+      "lng": 5.3622,
+      "desc_en": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
+      "desc_ja": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
+      "desc_es": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
+      "desc_zh": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
+      "desc_fr": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
+      "desc_de": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_5",
@@ -3165,7 +5373,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2933,
-      "lng": 5.3619
+      "lng": 5.3619,
+      "desc_en": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
+      "desc_ja": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
+      "desc_es": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
+      "desc_zh": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
+      "desc_fr": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
+      "desc_de": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_6",
@@ -3182,7 +5402,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.3044,
-      "lng": 5.3944
+      "lng": 5.3944,
+      "desc_en": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
+      "desc_ja": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
+      "desc_es": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
+      "desc_zh": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
+      "desc_fr": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
+      "desc_de": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_7",
@@ -3199,7 +5431,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2614,
-      "lng": 5.3964
+      "lng": 5.3964,
+      "desc_en": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
+      "desc_ja": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
+      "desc_es": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
+      "desc_zh": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
+      "desc_fr": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
+      "desc_de": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_8",
@@ -3216,7 +5460,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2906,
-      "lng": 5.3658
+      "lng": 5.3658,
+      "desc_en": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
+      "desc_ja": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
+      "desc_es": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
+      "desc_zh": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
+      "desc_fr": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
+      "desc_de": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_9",
@@ -3233,7 +5489,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2697,
-      "lng": 5.3958
+      "lng": 5.3958,
+      "desc_en": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
+      "desc_ja": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
+      "desc_es": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
+      "desc_zh": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
+      "desc_fr": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
+      "desc_de": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_10",
@@ -3250,7 +5518,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.28,
-      "lng": 5.3253
+      "lng": 5.3253,
+      "desc_en": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
+      "desc_ja": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
+      "desc_es": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
+      "desc_zh": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
+      "desc_fr": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
+      "desc_de": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_11",
@@ -3267,7 +5547,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.2944,
-      "lng": 5.5103
+      "lng": 5.5103,
+      "desc_en": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
+      "desc_ja": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
+      "desc_es": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
+      "desc_zh": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
+      "desc_fr": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
+      "desc_de": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_12",
@@ -3284,7 +5576,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2969,
-      "lng": 5.3611
+      "lng": 5.3611,
+      "desc_en": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "desc_ja": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "desc_es": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "desc_zh": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "desc_fr": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "desc_de": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_13",
@@ -3301,7 +5605,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.2981,
-      "lng": 5.3614
+      "lng": 5.3614,
+      "desc_en": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
+      "desc_ja": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
+      "desc_es": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
+      "desc_zh": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
+      "desc_fr": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
+      "desc_de": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_14",
@@ -3318,7 +5634,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2975,
-      "lng": 5.3756
+      "lng": 5.3756,
+      "desc_en": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
+      "desc_ja": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
+      "desc_es": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
+      "desc_zh": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
+      "desc_fr": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
+      "desc_de": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_15",
@@ -3335,7 +5663,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.3044,
-      "lng": 5.3944
+      "lng": 5.3944,
+      "desc_en": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
+      "desc_ja": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
+      "desc_es": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
+      "desc_zh": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
+      "desc_fr": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
+      "desc_de": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_16",
@@ -3352,7 +5692,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2917,
-      "lng": 5.3778
+      "lng": 5.3778,
+      "desc_en": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
+      "desc_ja": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
+      "desc_es": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
+      "desc_zh": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
+      "desc_fr": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
+      "desc_de": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_17",
@@ -3369,7 +5721,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2506,
-      "lng": 5.3942
+      "lng": 5.3942,
+      "desc_en": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
+      "desc_ja": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
+      "desc_es": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
+      "desc_zh": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
+      "desc_fr": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
+      "desc_de": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_18",
@@ -3386,7 +5750,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.3044,
-      "lng": 5.3944
+      "lng": 5.3944,
+      "desc_en": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
+      "desc_ja": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
+      "desc_es": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
+      "desc_zh": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
+      "desc_fr": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
+      "desc_de": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_19",
@@ -3403,7 +5779,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.3103,
-      "lng": 5.3906
+      "lng": 5.3906,
+      "desc_en": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
+      "desc_ja": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
+      "desc_es": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
+      "desc_zh": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
+      "desc_fr": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
+      "desc_de": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_20",
@@ -3420,7 +5808,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.2569,
-      "lng": 5.3814
+      "lng": 5.3814,
+      "desc_en": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
+      "desc_ja": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
+      "desc_es": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
+      "desc_zh": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
+      "desc_fr": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
+      "desc_de": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_21",
@@ -3437,7 +5837,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2847,
-      "lng": 5.3508
+      "lng": 5.3508,
+      "desc_en": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
+      "desc_ja": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
+      "desc_es": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
+      "desc_zh": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
+      "desc_fr": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
+      "desc_de": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_22",
@@ -3454,7 +5866,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2958,
-      "lng": 5.3742
+      "lng": 5.3742,
+      "desc_en": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
+      "desc_ja": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
+      "desc_es": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
+      "desc_zh": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
+      "desc_fr": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
+      "desc_de": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_23",
@@ -3471,7 +5895,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2953,
-      "lng": 5.3744
+      "lng": 5.3744,
+      "desc_en": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
+      "desc_ja": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
+      "desc_es": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
+      "desc_zh": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
+      "desc_fr": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
+      "desc_de": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_24",
@@ -3488,7 +5924,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2961,
-      "lng": 5.3794
+      "lng": 5.3794,
+      "desc_en": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
+      "desc_ja": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
+      "desc_es": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
+      "desc_zh": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
+      "desc_fr": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
+      "desc_de": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_25",
@@ -3505,7 +5953,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.29,
-      "lng": 5.3658
+      "lng": 5.3658,
+      "desc_en": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
+      "desc_ja": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
+      "desc_es": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
+      "desc_zh": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
+      "desc_fr": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
+      "desc_de": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_26",
@@ -3522,7 +5982,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2953,
-      "lng": 5.3747
+      "lng": 5.3747,
+      "desc_en": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
+      "desc_ja": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
+      "desc_es": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
+      "desc_zh": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
+      "desc_fr": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
+      "desc_de": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_27",
@@ -3539,7 +6011,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2981,
-      "lng": 5.3689
+      "lng": 5.3689,
+      "desc_en": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
+      "desc_ja": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
+      "desc_es": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
+      "desc_zh": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
+      "desc_fr": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
+      "desc_de": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_28",
@@ -3556,7 +6040,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.2847,
-      "lng": 5.3508
+      "lng": 5.3508,
+      "desc_en": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
+      "desc_ja": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
+      "desc_es": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
+      "desc_zh": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
+      "desc_fr": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
+      "desc_de": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_29",
@@ -3573,7 +6069,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2983,
-      "lng": 5.3681
+      "lng": 5.3681,
+      "desc_en": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
+      "desc_ja": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
+      "desc_es": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
+      "desc_zh": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
+      "desc_fr": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
+      "desc_de": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_30",
@@ -3590,7 +6098,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2847,
-      "lng": 5.3508
+      "lng": 5.3508,
+      "desc_en": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
+      "desc_ja": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
+      "desc_es": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
+      "desc_zh": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
+      "desc_fr": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
+      "desc_de": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_31",
@@ -3607,7 +6127,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2778,
-      "lng": 5.3528
+      "lng": 5.3528,
+      "desc_en": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
+      "desc_ja": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
+      "desc_es": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
+      "desc_zh": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
+      "desc_fr": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
+      "desc_de": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_32",
@@ -3624,7 +6156,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2936,
-      "lng": 5.3836
+      "lng": 5.3836,
+      "desc_en": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
+      "desc_ja": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
+      "desc_es": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
+      "desc_zh": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
+      "desc_fr": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
+      "desc_de": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_33",
@@ -3641,7 +6185,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2994,
-      "lng": 5.3683
+      "lng": 5.3683,
+      "desc_en": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
+      "desc_ja": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
+      "desc_es": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
+      "desc_zh": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
+      "desc_fr": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
+      "desc_de": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_34",
@@ -3658,7 +6214,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2936,
-      "lng": 5.3739
+      "lng": 5.3739,
+      "desc_en": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
+      "desc_ja": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
+      "desc_es": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
+      "desc_zh": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
+      "desc_fr": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
+      "desc_de": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_35",
@@ -3675,7 +6243,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.2117,
-      "lng": 5.4528
+      "lng": 5.4528,
+      "desc_en": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
+      "desc_ja": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
+      "desc_es": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
+      "desc_zh": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
+      "desc_fr": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
+      "desc_de": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_36",
@@ -3692,7 +6272,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.28,
-      "lng": 5.3
+      "lng": 5.3,
+      "desc_en": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
+      "desc_ja": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
+      "desc_es": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
+      "desc_zh": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
+      "desc_fr": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
+      "desc_de": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_37",
@@ -3709,7 +6301,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.2167,
-      "lng": 5.3472
+      "lng": 5.3472,
+      "desc_en": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
+      "desc_ja": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
+      "desc_es": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
+      "desc_zh": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
+      "desc_fr": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
+      "desc_de": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_38",
@@ -3726,7 +6330,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.2569,
-      "lng": 5.3814
+      "lng": 5.3814,
+      "desc_en": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
+      "desc_ja": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
+      "desc_es": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
+      "desc_zh": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
+      "desc_fr": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
+      "desc_de": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_39",
@@ -3743,7 +6359,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.2953,
-      "lng": 5.3744
+      "lng": 5.3744,
+      "desc_en": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
+      "desc_ja": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
+      "desc_es": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
+      "desc_zh": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
+      "desc_fr": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
+      "desc_de": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_40",
@@ -3760,7 +6388,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.2953,
-      "lng": 5.3744
+      "lng": 5.3744,
+      "desc_en": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
+      "desc_ja": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
+      "desc_es": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
+      "desc_zh": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
+      "desc_fr": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
+      "desc_de": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_41",
@@ -3777,7 +6417,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.2575,
-      "lng": 5.3719
+      "lng": 5.3719,
+      "desc_en": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
+      "desc_ja": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
+      "desc_es": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
+      "desc_zh": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
+      "desc_fr": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
+      "desc_de": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_42",
@@ -3794,7 +6446,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 43.3444,
-      "lng": 5.0833
+      "lng": 5.0833,
+      "desc_en": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
+      "desc_ja": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
+      "desc_es": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
+      "desc_zh": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
+      "desc_fr": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
+      "desc_de": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "ma_43",
@@ -3811,7 +6475,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 43.4083,
-      "lng": 5.0389
+      "lng": 5.0389,
+      "desc_en": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
+      "desc_ja": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
+      "desc_es": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
+      "desc_zh": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
+      "desc_fr": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
+      "desc_de": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Munich, Germany": [
@@ -3830,7 +6506,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.1051,
-      "lng": 11.552
+      "lng": 11.552,
+      "desc_en": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
+      "desc_ja": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
+      "desc_es": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
+      "desc_zh": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
+      "desc_fr": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
+      "desc_de": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_2",
@@ -3847,7 +6535,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.1201,
-      "lng": 11.552
+      "lng": 11.552,
+      "desc_en": "500-acre park featuring river surfers riding perpetual standing wave.",
+      "desc_ja": "500-acre park featuring river surfers riding perpetual standing wave.",
+      "desc_es": "500-acre park featuring river surfers riding perpetual standing wave.",
+      "desc_zh": "500-acre park featuring river surfers riding perpetual standing wave.",
+      "desc_fr": "500-acre park featuring river surfers riding perpetual standing wave.",
+      "desc_de": "500-acre park featuring river surfers riding perpetual standing wave.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_3",
@@ -3864,7 +6564,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.15806,
-      "lng": 11.50361
+      "lng": 11.50361,
+      "desc_en": "Grand Baroque summer palace of Bavarian monarchs with canal swan gardens.",
+      "desc_ja": "Grand Baroque summer palace of Bavarian monarchs with canal swan gardens.",
+      "desc_es": "Grand Baroque summer palace of Bavarian monarchs with canal swan gardens.",
+      "desc_zh": "Grand Baroque summer palace of Bavarian monarchs with canal swan gardens.",
+      "desc_fr": "Grand Baroque summer palace of Bavarian monarchs with canal swan gardens.",
+      "desc_de": "Grand Baroque summer palace of Bavarian monarchs with canal swan gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_4",
@@ -3881,7 +6593,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.14111,
-      "lng": 11.57806
+      "lng": 11.57806,
+      "desc_en": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
+      "desc_ja": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
+      "desc_es": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
+      "desc_zh": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
+      "desc_fr": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
+      "desc_de": "Former royal palace featuring Antiquarium hall of antiquities & Treasury.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_5",
@@ -3898,7 +6622,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.1651,
-      "lng": 11.552
+      "lng": 11.552,
+      "desc_en": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
+      "desc_ja": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
+      "desc_es": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
+      "desc_zh": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
+      "desc_fr": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
+      "desc_de": "Gothic brick cathedral featuring twin onion domes dominating Munich skyline.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_6",
@@ -3915,7 +6651,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.1051,
-      "lng": 11.567
+      "lng": 11.567,
+      "desc_en": "Futuristic exhibition hall showcasing automotive innovation & classic cars.",
+      "desc_ja": "Futuristic exhibition hall showcasing automotive innovation & classic cars.",
+      "desc_es": "Futuristic exhibition hall showcasing automotive innovation & classic cars.",
+      "desc_zh": "Futuristic exhibition hall showcasing automotive innovation & classic cars.",
+      "desc_fr": "Futuristic exhibition hall showcasing automotive innovation & classic cars.",
+      "desc_de": "Futuristic exhibition hall showcasing automotive innovation & classic cars.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_7",
@@ -3932,7 +6680,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.13,
-      "lng": 11.5833
+      "lng": 11.5833,
+      "desc_en": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_ja": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_es": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_zh": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_fr": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_de": "World's largest museum of science and technology located on an island in the Isar.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_8",
@@ -3949,7 +6709,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.1351,
-      "lng": 11.567
+      "lng": 11.567,
+      "desc_en": "Renowned art complex featuring European masters from Dürer to Van Gogh.",
+      "desc_ja": "Renowned art complex featuring European masters from Dürer to Van Gogh.",
+      "desc_es": "Renowned art complex featuring European masters from Dürer to Van Gogh.",
+      "desc_zh": "Renowned art complex featuring European masters from Dürer to Van Gogh.",
+      "desc_fr": "Renowned art complex featuring European masters from Dürer to Van Gogh.",
+      "desc_de": "Renowned art complex featuring European masters from Dürer to Van Gogh.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_9",
@@ -3966,7 +6738,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.13528,
-      "lng": 11.57611
+      "lng": 11.57611,
+      "desc_en": "Bustling 200-year-old gourmet open-air food market with chestnut beer garden.",
+      "desc_ja": "Bustling 200-year-old gourmet open-air food market with chestnut beer garden.",
+      "desc_es": "Bustling 200-year-old gourmet open-air food market with chestnut beer garden.",
+      "desc_zh": "Bustling 200-year-old gourmet open-air food market with chestnut beer garden.",
+      "desc_fr": "Bustling 200-year-old gourmet open-air food market with chestnut beer garden.",
+      "desc_de": "Bustling 200-year-old gourmet open-air food market with chestnut beer garden.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_10",
@@ -3983,7 +6767,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.14353,
-      "lng": 11.55147
+      "lng": 11.55147,
+      "desc_en": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
+      "desc_ja": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
+      "desc_es": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
+      "desc_zh": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
+      "desc_fr": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
+      "desc_de": "Munich's historic 5,000-seat beer garden serving classic Bavarian pretzels & lager.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_11",
@@ -4000,7 +6796,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.1051,
-      "lng": 11.582
+      "lng": 11.582,
+      "desc_en": "World-famous 3-story Bavarian beer hall with brass oompah bands & steins.",
+      "desc_ja": "World-famous 3-story Bavarian beer hall with brass oompah bands & steins.",
+      "desc_es": "World-famous 3-story Bavarian beer hall with brass oompah bands & steins.",
+      "desc_zh": "World-famous 3-story Bavarian beer hall with brass oompah bands & steins.",
+      "desc_fr": "World-famous 3-story Bavarian beer hall with brass oompah bands & steins.",
+      "desc_de": "World-famous 3-story Bavarian beer hall with brass oompah bands & steins.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "m_12",
@@ -4017,7 +6825,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.1201,
-      "lng": 11.582
+      "lng": 11.582,
+      "desc_en": "Traditional bakery near Viktualienmarkt frying hot Bavarian donuts in lard.",
+      "desc_ja": "Traditional bakery near Viktualienmarkt frying hot Bavarian donuts in lard.",
+      "desc_es": "Traditional bakery near Viktualienmarkt frying hot Bavarian donuts in lard.",
+      "desc_zh": "Traditional bakery near Viktualienmarkt frying hot Bavarian donuts in lard.",
+      "desc_fr": "Traditional bakery near Viktualienmarkt frying hot Bavarian donuts in lard.",
+      "desc_de": "Traditional bakery near Viktualienmarkt frying hot Bavarian donuts in lard.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Nice, France": [
@@ -4035,7 +6855,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6953,
-      "lng": 7.2651
+      "lng": 7.2651,
+      "desc_en": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
+      "desc_ja": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
+      "desc_es": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
+      "desc_zh": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
+      "desc_fr": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
+      "desc_de": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_2",
@@ -4051,7 +6883,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.6958,
-      "lng": 7.2801
+      "lng": 7.2801,
+      "desc_en": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
+      "desc_ja": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
+      "desc_es": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
+      "desc_zh": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
+      "desc_fr": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
+      "desc_de": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_3",
@@ -4067,7 +6911,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6975,
-      "lng": 7.2764
+      "lng": 7.2764,
+      "desc_en": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
+      "desc_ja": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
+      "desc_es": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
+      "desc_zh": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
+      "desc_fr": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
+      "desc_de": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_4",
@@ -4083,7 +6939,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6958,
-      "lng": 7.2753
+      "lng": 7.2753,
+      "desc_en": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
+      "desc_ja": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
+      "desc_es": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
+      "desc_zh": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
+      "desc_fr": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
+      "desc_de": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_5",
@@ -4099,7 +6967,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6972,
-      "lng": 7.2704
+      "lng": 7.2704,
+      "desc_en": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
+      "desc_ja": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
+      "desc_es": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
+      "desc_zh": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
+      "desc_fr": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
+      "desc_de": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_6",
@@ -4115,7 +6995,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.7095,
-      "lng": 7.2697
+      "lng": 7.2697,
+      "desc_en": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
+      "desc_ja": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
+      "desc_es": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
+      "desc_zh": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
+      "desc_fr": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
+      "desc_de": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_7",
@@ -4131,7 +7023,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.7194,
-      "lng": 7.2761
+      "lng": 7.2761,
+      "desc_en": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
+      "desc_ja": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
+      "desc_es": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
+      "desc_zh": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
+      "desc_fr": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
+      "desc_de": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_8",
@@ -4147,7 +7051,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.7011,
-      "lng": 7.2783
+      "lng": 7.2783,
+      "desc_en": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
+      "desc_ja": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
+      "desc_es": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
+      "desc_zh": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
+      "desc_fr": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
+      "desc_de": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_9",
@@ -4163,7 +7079,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.7036,
-      "lng": 7.2539
+      "lng": 7.2539,
+      "desc_en": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
+      "desc_ja": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
+      "desc_es": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
+      "desc_zh": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
+      "desc_fr": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
+      "desc_de": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_10",
@@ -4179,7 +7107,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.6994,
-      "lng": 7.2731
+      "lng": 7.2731,
+      "desc_en": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
+      "desc_ja": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
+      "desc_es": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
+      "desc_zh": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
+      "desc_fr": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
+      "desc_de": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_11",
@@ -4195,7 +7135,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.72,
-      "lng": 7.2789
+      "lng": 7.2789,
+      "desc_en": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
+      "desc_ja": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
+      "desc_es": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
+      "desc_zh": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
+      "desc_fr": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
+      "desc_de": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_12",
@@ -4211,7 +7163,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6951,
-      "lng": 7.2581
+      "lng": 7.2581,
+      "desc_en": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
+      "desc_ja": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
+      "desc_es": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
+      "desc_zh": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
+      "desc_fr": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
+      "desc_de": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_13",
@@ -4227,7 +7191,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6947,
-      "lng": 7.2486
+      "lng": 7.2486,
+      "desc_en": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
+      "desc_ja": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
+      "desc_es": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
+      "desc_zh": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
+      "desc_fr": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
+      "desc_de": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_14",
@@ -4243,7 +7219,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.7006,
-      "lng": 7.2801
+      "lng": 7.2801,
+      "desc_en": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
+      "desc_ja": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
+      "desc_es": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
+      "desc_zh": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
+      "desc_fr": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
+      "desc_de": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_15",
@@ -4259,7 +7247,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6972,
-      "lng": 7.2758
+      "lng": 7.2758,
+      "desc_en": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
+      "desc_ja": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
+      "desc_es": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
+      "desc_zh": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
+      "desc_fr": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
+      "desc_de": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_16",
@@ -4275,7 +7275,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6942,
-      "lng": 7.2858
+      "lng": 7.2858,
+      "desc_en": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
+      "desc_ja": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
+      "desc_es": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
+      "desc_zh": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
+      "desc_fr": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
+      "desc_de": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_17",
@@ -4291,7 +7303,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.6686,
-      "lng": 7.2178
+      "lng": 7.2178,
+      "desc_en": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
+      "desc_ja": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
+      "desc_es": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
+      "desc_zh": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
+      "desc_fr": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
+      "desc_de": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_18",
@@ -4307,7 +7331,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6933,
-      "lng": 7.2961
+      "lng": 7.2961,
+      "desc_en": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
+      "desc_ja": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
+      "desc_es": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
+      "desc_zh": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
+      "desc_fr": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
+      "desc_de": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_19",
@@ -4323,7 +7359,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 43.6971,
-      "lng": 7.2759
+      "lng": 7.2759,
+      "desc_en": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
+      "desc_ja": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
+      "desc_es": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
+      "desc_zh": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
+      "desc_fr": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
+      "desc_de": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_20",
@@ -4339,7 +7387,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6989,
-      "lng": 7.2781
+      "lng": 7.2781,
+      "desc_en": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
+      "desc_ja": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
+      "desc_es": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
+      "desc_zh": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
+      "desc_fr": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
+      "desc_de": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_21",
@@ -4355,7 +7415,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.6897,
-      "lng": 7.2883
+      "lng": 7.2883,
+      "desc_en": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
+      "desc_ja": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
+      "desc_es": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
+      "desc_zh": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
+      "desc_fr": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
+      "desc_de": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_22",
@@ -4371,7 +7443,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 43.7008,
-      "lng": 7.28
+      "lng": 7.28,
+      "desc_en": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
+      "desc_ja": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
+      "desc_es": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
+      "desc_zh": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
+      "desc_fr": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
+      "desc_de": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_23",
@@ -4387,7 +7471,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7278,
-      "lng": 7.3619
+      "lng": 7.3619,
+      "desc_en": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
+      "desc_ja": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
+      "desc_es": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
+      "desc_zh": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
+      "desc_fr": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
+      "desc_de": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_24",
@@ -4403,7 +7499,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.6953,
-      "lng": 7.3328
+      "lng": 7.3328,
+      "desc_en": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
+      "desc_ja": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
+      "desc_es": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
+      "desc_zh": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
+      "desc_fr": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
+      "desc_de": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_25",
@@ -4419,7 +7527,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7067,
-      "lng": 7.3347
+      "lng": 7.3347,
+      "desc_en": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
+      "desc_ja": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
+      "desc_es": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
+      "desc_zh": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
+      "desc_fr": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
+      "desc_de": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_26",
@@ -4435,7 +7555,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7042,
-      "lng": 7.3117
+      "lng": 7.3117,
+      "desc_en": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
+      "desc_ja": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
+      "desc_es": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
+      "desc_zh": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
+      "desc_fr": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
+      "desc_de": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_27",
@@ -4451,7 +7583,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.6969,
-      "lng": 7.1222
+      "lng": 7.1222,
+      "desc_en": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
+      "desc_ja": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
+      "desc_es": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
+      "desc_zh": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
+      "desc_fr": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
+      "desc_de": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_28",
@@ -4467,7 +7611,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7006,
-      "lng": 7.1153
+      "lng": 7.1153,
+      "desc_en": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
+      "desc_ja": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
+      "desc_es": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
+      "desc_zh": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
+      "desc_fr": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
+      "desc_de": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_29",
@@ -4483,7 +7639,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7308,
-      "lng": 7.4244
+      "lng": 7.4244,
+      "desc_en": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
+      "desc_ja": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
+      "desc_es": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
+      "desc_zh": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
+      "desc_fr": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
+      "desc_de": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_30",
@@ -4499,7 +7667,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 43.7306,
-      "lng": 7.4256
+      "lng": 7.4256,
+      "desc_en": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
+      "desc_ja": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
+      "desc_es": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
+      "desc_zh": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
+      "desc_fr": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
+      "desc_de": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_31",
@@ -4515,7 +7695,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.5808,
-      "lng": 7.1283
+      "lng": 7.1283,
+      "desc_en": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
+      "desc_ja": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
+      "desc_es": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
+      "desc_zh": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
+      "desc_fr": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
+      "desc_de": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_32",
@@ -4531,7 +7723,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7392,
-      "lng": 7.4281
+      "lng": 7.4281,
+      "desc_en": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
+      "desc_ja": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
+      "desc_es": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
+      "desc_zh": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
+      "desc_fr": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
+      "desc_de": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_33",
@@ -4547,7 +7751,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7758,
-      "lng": 7.5064
+      "lng": 7.5064,
+      "desc_en": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
+      "desc_ja": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
+      "desc_es": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
+      "desc_zh": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
+      "desc_fr": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
+      "desc_de": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_34",
@@ -4563,7 +7779,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.5508,
-      "lng": 7.1264
+      "lng": 7.1264,
+      "desc_en": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
+      "desc_ja": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
+      "desc_es": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
+      "desc_zh": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
+      "desc_fr": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
+      "desc_de": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_35",
@@ -4579,7 +7807,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.5061,
-      "lng": 7.0469
+      "lng": 7.0469,
+      "desc_en": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
+      "desc_ja": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
+      "desc_es": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
+      "desc_zh": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
+      "desc_fr": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
+      "desc_de": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "nice_36",
@@ -4595,7 +7835,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 43.7017,
-      "lng": 7.3003
+      "lng": 7.3003,
+      "desc_en": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
+      "desc_ja": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
+      "desc_es": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
+      "desc_zh": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
+      "desc_fr": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
+      "desc_de": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Paris, France": [
@@ -4614,7 +7866,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.85822,
-      "lng": 2.2945
+      "lng": 2.2945,
+      "desc_en": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
+      "desc_ja": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
+      "desc_es": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
+      "desc_zh": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
+      "desc_fr": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
+      "desc_de": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_2",
@@ -4631,7 +7895,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.87378,
-      "lng": 2.29503
+      "lng": 2.29503,
+      "desc_en": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
+      "desc_ja": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
+      "desc_es": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
+      "desc_zh": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
+      "desc_fr": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
+      "desc_de": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_3",
@@ -4648,7 +7924,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85528,
-      "lng": 2.345
+      "lng": 2.345,
+      "desc_en": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
+      "desc_ja": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
+      "desc_es": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
+      "desc_zh": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
+      "desc_fr": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
+      "desc_de": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_4",
@@ -4665,7 +7953,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8716,
-      "lng": 2.3222
+      "lng": 2.3222,
+      "desc_en": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
+      "desc_ja": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
+      "desc_es": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
+      "desc_zh": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
+      "desc_fr": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
+      "desc_de": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_5",
@@ -4682,7 +7982,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85306,
-      "lng": 2.35
+      "lng": 2.35,
+      "desc_en": "Masterpiece of French Gothic architecture on Île de la Cité.",
+      "desc_ja": "Masterpiece of French Gothic architecture on Île de la Cité.",
+      "desc_es": "Masterpiece of French Gothic architecture on Île de la Cité.",
+      "desc_zh": "Masterpiece of French Gothic architecture on Île de la Cité.",
+      "desc_fr": "Masterpiece of French Gothic architecture on Île de la Cité.",
+      "desc_de": "Masterpiece of French Gothic architecture on Île de la Cité.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_6",
@@ -4699,7 +8011,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8266,
-      "lng": 2.3372
+      "lng": 2.3372,
+      "desc_en": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
+      "desc_ja": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
+      "desc_es": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
+      "desc_zh": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
+      "desc_fr": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
+      "desc_de": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_7",
@@ -4716,7 +8040,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8416,
-      "lng": 2.3372
+      "lng": 2.3372,
+      "desc_en": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
+      "desc_ja": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
+      "desc_es": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
+      "desc_zh": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
+      "desc_fr": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
+      "desc_de": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_8",
@@ -4733,7 +8069,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.84694,
-      "lng": 2.33722
+      "lng": 2.33722,
+      "desc_en": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
+      "desc_ja": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
+      "desc_es": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
+      "desc_zh": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
+      "desc_fr": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
+      "desc_de": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_9",
@@ -4750,7 +8098,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.87194,
-      "lng": 2.33167
+      "lng": 2.33167,
+      "desc_en": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
+      "desc_ja": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
+      "desc_es": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
+      "desc_zh": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
+      "desc_fr": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
+      "desc_de": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_10",
@@ -4767,7 +8127,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.86361,
-      "lng": 2.31361
+      "lng": 2.31361,
+      "desc_en": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
+      "desc_ja": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
+      "desc_es": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
+      "desc_zh": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
+      "desc_fr": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
+      "desc_de": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_11",
@@ -4784,7 +8156,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8266,
-      "lng": 2.3522
+      "lng": 2.3522,
+      "desc_en": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
+      "desc_ja": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
+      "desc_es": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
+      "desc_zh": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
+      "desc_fr": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
+      "desc_de": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_12",
@@ -4801,7 +8185,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85833,
-      "lng": 2.3375
+      "lng": 2.3375,
+      "desc_en": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
+      "desc_ja": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
+      "desc_es": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
+      "desc_zh": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
+      "desc_fr": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
+      "desc_de": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_13",
@@ -4818,7 +8214,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.83389,
-      "lng": 2.33222
+      "lng": 2.33222,
+      "desc_en": "Underground ossuary holding the remains of over six million Parisians.",
+      "desc_ja": "Underground ossuary holding the remains of over six million Parisians.",
+      "desc_es": "Underground ossuary holding the remains of over six million Parisians.",
+      "desc_zh": "Underground ossuary holding the remains of over six million Parisians.",
+      "desc_fr": "Underground ossuary holding the remains of over six million Parisians.",
+      "desc_de": "Underground ossuary holding the remains of over six million Parisians.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_14",
@@ -4835,7 +8243,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8716,
-      "lng": 2.3522
+      "lng": 2.3522,
+      "desc_en": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
+      "desc_ja": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
+      "desc_es": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
+      "desc_zh": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
+      "desc_fr": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
+      "desc_de": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_15",
@@ -4852,7 +8272,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85997,
-      "lng": 2.32653
+      "lng": 2.32653,
+      "desc_en": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
+      "desc_ja": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
+      "desc_es": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
+      "desc_zh": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
+      "desc_fr": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
+      "desc_de": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_16",
@@ -4869,7 +8301,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.86064,
-      "lng": 2.35224
+      "lng": 2.35224,
+      "desc_en": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
+      "desc_ja": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
+      "desc_es": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
+      "desc_zh": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
+      "desc_fr": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
+      "desc_de": "High-tech colored pipe architecture housing Europe's largest modern art collection.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_17",
@@ -4886,7 +8330,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.86385,
-      "lng": 2.32254
+      "lng": 2.32254,
+      "desc_en": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
+      "desc_ja": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
+      "desc_es": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
+      "desc_zh": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
+      "desc_fr": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
+      "desc_de": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_18",
@@ -4903,7 +8359,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85528,
-      "lng": 2.31583
+      "lng": 2.31583,
+      "desc_en": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
+      "desc_ja": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
+      "desc_es": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
+      "desc_zh": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
+      "desc_fr": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
+      "desc_de": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_19",
@@ -4920,7 +8388,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85973,
-      "lng": 2.36244
+      "lng": 2.36244,
+      "desc_en": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
+      "desc_ja": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
+      "desc_es": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
+      "desc_zh": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
+      "desc_fr": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
+      "desc_de": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_20",
@@ -4937,7 +8417,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8575,
-      "lng": 2.36222
+      "lng": 2.36222,
+      "desc_en": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
+      "desc_ja": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
+      "desc_es": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
+      "desc_zh": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
+      "desc_fr": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
+      "desc_de": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_21",
@@ -4954,7 +8446,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8266,
-      "lng": 2.3822
+      "lng": 2.3822,
+      "desc_en": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
+      "desc_ja": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
+      "desc_es": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
+      "desc_zh": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
+      "desc_fr": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
+      "desc_de": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_22",
@@ -4971,7 +8475,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8416,
-      "lng": 2.3822
+      "lng": 2.3822,
+      "desc_en": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
+      "desc_ja": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
+      "desc_es": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
+      "desc_zh": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
+      "desc_fr": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
+      "desc_de": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_23",
@@ -4988,7 +8504,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8566,
-      "lng": 2.3822
+      "lng": 2.3822,
+      "desc_en": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
+      "desc_ja": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
+      "desc_es": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
+      "desc_zh": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
+      "desc_fr": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
+      "desc_de": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_24",
@@ -5005,7 +8533,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.87333,
-      "lng": 2.34361
+      "lng": 2.34361,
+      "desc_en": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
+      "desc_ja": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
+      "desc_es": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
+      "desc_zh": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
+      "desc_fr": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
+      "desc_de": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_25",
@@ -5022,7 +8562,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8866,
-      "lng": 2.3822
+      "lng": 2.3822,
+      "desc_en": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
+      "desc_ja": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
+      "desc_es": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
+      "desc_zh": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
+      "desc_fr": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
+      "desc_de": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_26",
@@ -5039,7 +8591,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.854,
-      "lng": 2.3332
+      "lng": 2.3332,
+      "desc_en": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
+      "desc_ja": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
+      "desc_es": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
+      "desc_zh": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
+      "desc_fr": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
+      "desc_de": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_27",
@@ -5056,7 +8620,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85742,
-      "lng": 2.35907
+      "lng": 2.35907,
+      "desc_en": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
+      "desc_ja": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
+      "desc_es": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
+      "desc_zh": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
+      "desc_fr": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
+      "desc_de": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_28",
@@ -5073,7 +8649,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.86938,
-      "lng": 2.34596
+      "lng": 2.34596,
+      "desc_en": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
+      "desc_ja": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
+      "desc_es": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
+      "desc_zh": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
+      "desc_fr": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
+      "desc_de": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_29",
@@ -5090,7 +8678,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8628,
-      "lng": 2.362
+      "lng": 2.362,
+      "desc_en": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
+      "desc_ja": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
+      "desc_es": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
+      "desc_zh": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
+      "desc_fr": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
+      "desc_de": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_30",
@@ -5107,7 +8707,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8866,
-      "lng": 2.3972
+      "lng": 2.3972,
+      "desc_en": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
+      "desc_ja": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
+      "desc_es": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
+      "desc_zh": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
+      "desc_fr": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
+      "desc_de": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_31",
@@ -5124,7 +8736,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8266,
-      "lng": 2.4122
+      "lng": 2.4122,
+      "desc_en": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
+      "desc_ja": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
+      "desc_es": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
+      "desc_zh": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
+      "desc_fr": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
+      "desc_de": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_32",
@@ -5141,7 +8765,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8416,
-      "lng": 2.4122
+      "lng": 2.4122,
+      "desc_en": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
+      "desc_ja": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
+      "desc_es": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
+      "desc_zh": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
+      "desc_fr": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
+      "desc_de": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_33",
@@ -5158,7 +8794,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8566,
-      "lng": 2.4122
+      "lng": 2.4122,
+      "desc_en": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
+      "desc_ja": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
+      "desc_es": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
+      "desc_zh": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
+      "desc_fr": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
+      "desc_de": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_34",
@@ -5174,7 +8822,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8608,
-      "lng": 2.2975
+      "lng": 2.2975,
+      "desc_en": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "desc_ja": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "desc_es": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "desc_zh": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "desc_fr": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "desc_de": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_35",
@@ -5190,7 +8850,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8866,
-      "lng": 2.4122
+      "lng": 2.4122,
+      "desc_en": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "desc_ja": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "desc_es": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "desc_zh": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "desc_fr": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "desc_de": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_36",
@@ -5206,7 +8878,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8733,
-      "lng": 2.33222
+      "lng": 2.33222,
+      "desc_en": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "desc_ja": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "desc_es": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "desc_zh": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "desc_fr": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "desc_de": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_37",
@@ -5222,7 +8906,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.8416,
-      "lng": 2.4272
+      "lng": 2.4272,
+      "desc_en": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "desc_ja": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "desc_es": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "desc_zh": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "desc_fr": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "desc_de": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_38",
@@ -5238,7 +8934,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.84722,
-      "lng": 2.36667
+      "lng": 2.36667,
+      "desc_en": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "desc_ja": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "desc_es": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "desc_zh": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "desc_fr": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "desc_de": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_27",
@@ -5254,7 +8962,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 48.8047,
-      "lng": 2.1203
+      "lng": 2.1203,
+      "desc_en": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "desc_ja": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "desc_es": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "desc_zh": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "desc_fr": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "desc_de": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_28",
@@ -5270,7 +8990,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8866,
-      "lng": 2.4272
+      "lng": 2.4272,
+      "desc_en": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "desc_ja": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "desc_es": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "desc_zh": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "desc_fr": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "desc_de": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_29",
@@ -5286,7 +9018,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8564,
-      "lng": 2.3456
+      "lng": 2.3456,
+      "desc_en": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "desc_ja": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "desc_es": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "desc_zh": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "desc_fr": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "desc_de": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_30",
@@ -5302,7 +9046,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85556,
-      "lng": 2.36556
+      "lng": 2.36556,
+      "desc_en": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "desc_ja": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "desc_es": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "desc_zh": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "desc_fr": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "desc_de": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_31",
@@ -5318,7 +9074,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.8593,
-      "lng": 2.2673
+      "lng": 2.2673,
+      "desc_en": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "desc_ja": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "desc_es": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "desc_zh": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "desc_fr": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "desc_de": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_32",
@@ -5334,7 +9102,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.87667,
-      "lng": 2.26333
+      "lng": 2.26333,
+      "desc_en": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "desc_ja": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "desc_es": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "desc_zh": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "desc_fr": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "desc_de": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_33",
@@ -5350,7 +9130,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.85056,
-      "lng": 2.34333
+      "lng": 2.34333,
+      "desc_en": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "desc_ja": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "desc_es": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "desc_zh": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "desc_fr": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "desc_de": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_46",
@@ -5366,7 +9158,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 48.86861,
-      "lng": 2.78167
+      "lng": 2.78167,
+      "desc_en": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
+      "desc_ja": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
+      "desc_es": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
+      "desc_zh": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
+      "desc_fr": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
+      "desc_de": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_47",
@@ -5382,7 +9186,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.8416,
-      "lng": 2.4572
+      "lng": 2.4572,
+      "desc_en": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
+      "desc_ja": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
+      "desc_es": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
+      "desc_zh": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
+      "desc_fr": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
+      "desc_de": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_48",
@@ -5398,7 +9214,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.8956,
-      "lng": 2.3881
+      "lng": 2.3881,
+      "desc_en": "Europe's largest science museum featuring interactive Cité des Enfants & Geode IMAX sphere.",
+      "desc_ja": "Europe's largest science museum featuring interactive Cité des Enfants & Geode IMAX sphere.",
+      "desc_es": "Europe's largest science museum featuring interactive Cité des Enfants & Geode IMAX sphere.",
+      "desc_zh": "Europe's largest science museum featuring interactive Cité des Enfants & Geode IMAX sphere.",
+      "desc_fr": "Europe's largest science museum featuring interactive Cité des Enfants & Geode IMAX sphere.",
+      "desc_de": "Europe's largest science museum featuring interactive Cité des Enfants & Geode IMAX sphere.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_49",
@@ -5414,7 +9242,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.8775,
-      "lng": 2.26306
+      "lng": 2.26306,
+      "desc_en": "Historic 45-acre children's amusement park in Bois de Boulogne with rollercoasters & farm animals.",
+      "desc_ja": "Historic 45-acre children's amusement park in Bois de Boulogne with rollercoasters & farm animals.",
+      "desc_es": "Historic 45-acre children's amusement park in Bois de Boulogne with rollercoasters & farm animals.",
+      "desc_zh": "Historic 45-acre children's amusement park in Bois de Boulogne with rollercoasters & farm animals.",
+      "desc_fr": "Historic 45-acre children's amusement park in Bois de Boulogne with rollercoasters & farm animals.",
+      "desc_de": "Historic 45-acre children's amusement park in Bois de Boulogne with rollercoasters & farm animals.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_50",
@@ -5430,7 +9270,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.8322,
-      "lng": 2.4186
+      "lng": 2.4186,
+      "desc_en": "Modern 36-acre zoo in Bois de Vincennes featuring a 65-meter artificial Great Rock & 5 biozones.",
+      "desc_ja": "Modern 36-acre zoo in Bois de Vincennes featuring a 65-meter artificial Great Rock & 5 biozones.",
+      "desc_es": "Modern 36-acre zoo in Bois de Vincennes featuring a 65-meter artificial Great Rock & 5 biozones.",
+      "desc_zh": "Modern 36-acre zoo in Bois de Vincennes featuring a 65-meter artificial Great Rock & 5 biozones.",
+      "desc_fr": "Modern 36-acre zoo in Bois de Vincennes featuring a 65-meter artificial Great Rock & 5 biozones.",
+      "desc_de": "Modern 36-acre zoo in Bois de Vincennes featuring a 65-meter artificial Great Rock & 5 biozones.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_51",
@@ -5446,7 +9298,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.86222,
-      "lng": 2.29083
+      "lng": 2.29083,
+      "desc_en": "Underground aquarium at Trocadéro featuring 13,000 sea creatures & shark touching pool.",
+      "desc_ja": "Underground aquarium at Trocadéro featuring 13,000 sea creatures & shark touching pool.",
+      "desc_es": "Underground aquarium at Trocadéro featuring 13,000 sea creatures & shark touching pool.",
+      "desc_zh": "Underground aquarium at Trocadéro featuring 13,000 sea creatures & shark touching pool.",
+      "desc_fr": "Underground aquarium at Trocadéro featuring 13,000 sea creatures & shark touching pool.",
+      "desc_de": "Underground aquarium at Trocadéro featuring 13,000 sea creatures & shark touching pool.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_52",
@@ -5462,7 +9326,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.87183,
-      "lng": 2.3421
+      "lng": 2.3421,
+      "desc_en": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
+      "desc_ja": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
+      "desc_es": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
+      "desc_zh": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
+      "desc_fr": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
+      "desc_de": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_53",
@@ -5478,7 +9354,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.8639,
-      "lng": 2.3261
+      "lng": 2.3261,
+      "desc_en": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
+      "desc_ja": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
+      "desc_es": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
+      "desc_zh": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
+      "desc_fr": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
+      "desc_de": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_54",
@@ -5494,7 +9382,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 48.9471,
-      "lng": 2.4349
+      "lng": 2.4349,
+      "desc_en": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
+      "desc_ja": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
+      "desc_es": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
+      "desc_zh": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
+      "desc_fr": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
+      "desc_de": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "p_55",
@@ -5510,7 +9410,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.8866,
-      "lng": 2.4722
+      "lng": 2.4722,
+      "desc_en": "Interactive chocolate museum tracing 4,000 years of cacao history with live chocolate tastings.",
+      "desc_ja": "Interactive chocolate museum tracing 4,000 years of cacao history with live chocolate tastings.",
+      "desc_es": "Interactive chocolate museum tracing 4,000 years of cacao history with live chocolate tastings.",
+      "desc_zh": "Interactive chocolate museum tracing 4,000 years of cacao history with live chocolate tastings.",
+      "desc_fr": "Interactive chocolate museum tracing 4,000 years of cacao history with live chocolate tastings.",
+      "desc_de": "Interactive chocolate museum tracing 4,000 years of cacao history with live chocolate tastings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ],
   "Strasbourg, France": [
@@ -5529,7 +9441,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5818,
-      "lng": 7.7508
+      "lng": 7.7508,
+      "desc_en": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
+      "desc_ja": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
+      "desc_es": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
+      "desc_zh": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
+      "desc_fr": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
+      "desc_de": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_2",
@@ -5546,7 +9470,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5794,
-      "lng": 7.7375
+      "lng": 7.7375,
+      "desc_en": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
+      "desc_ja": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
+      "desc_es": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
+      "desc_zh": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
+      "desc_fr": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
+      "desc_de": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_3",
@@ -5563,7 +9499,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5797,
-      "lng": 7.7392
+      "lng": 7.7392,
+      "desc_en": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
+      "desc_ja": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
+      "desc_es": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
+      "desc_zh": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
+      "desc_fr": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
+      "desc_de": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_4",
@@ -5580,7 +9528,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5811,
-      "lng": 7.7522
+      "lng": 7.7522,
+      "desc_en": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
+      "desc_ja": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
+      "desc_es": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
+      "desc_zh": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
+      "desc_fr": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
+      "desc_de": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_5",
@@ -5597,7 +9557,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5819,
-      "lng": 7.7497
+      "lng": 7.7497,
+      "desc_en": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
+      "desc_ja": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
+      "desc_es": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
+      "desc_zh": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
+      "desc_fr": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
+      "desc_de": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_6",
@@ -5614,7 +9586,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5833,
-      "lng": 7.7456
+      "lng": 7.7456,
+      "desc_en": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
+      "desc_ja": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
+      "desc_es": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
+      "desc_zh": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
+      "desc_fr": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
+      "desc_de": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_7",
@@ -5631,7 +9615,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5814,
-      "lng": 7.7486
+      "lng": 7.7486,
+      "desc_en": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
+      "desc_ja": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
+      "desc_es": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
+      "desc_zh": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
+      "desc_fr": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
+      "desc_de": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_8",
@@ -5648,7 +9644,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5975,
-      "lng": 7.7689
+      "lng": 7.7689,
+      "desc_en": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
+      "desc_ja": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
+      "desc_es": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
+      "desc_zh": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
+      "desc_fr": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
+      "desc_de": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_9",
@@ -5665,7 +9673,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5875,
-      "lng": 7.7533
+      "lng": 7.7533,
+      "desc_en": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
+      "desc_ja": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
+      "desc_es": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
+      "desc_zh": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
+      "desc_fr": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
+      "desc_de": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_10",
@@ -5682,7 +9702,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5797,
-      "lng": 7.7453
+      "lng": 7.7453,
+      "desc_en": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
+      "desc_ja": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
+      "desc_es": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
+      "desc_zh": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
+      "desc_fr": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
+      "desc_de": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_11",
@@ -5699,7 +9731,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5867,
-      "lng": 7.76
+      "lng": 7.76,
+      "desc_en": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
+      "desc_ja": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
+      "desc_es": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
+      "desc_zh": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
+      "desc_fr": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
+      "desc_de": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_12",
@@ -5716,7 +9760,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 48.2494,
-      "lng": 7.3444
+      "lng": 7.3444,
+      "desc_en": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
+      "desc_ja": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
+      "desc_es": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
+      "desc_zh": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
+      "desc_fr": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
+      "desc_de": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_13",
@@ -5733,7 +9789,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 48.4372,
-      "lng": 7.4044
+      "lng": 7.4044,
+      "desc_en": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
+      "desc_ja": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
+      "desc_es": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
+      "desc_zh": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
+      "desc_fr": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
+      "desc_de": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_14",
@@ -5750,7 +9818,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5792,
-      "lng": 7.7506
+      "lng": 7.7506,
+      "desc_en": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
+      "desc_ja": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
+      "desc_es": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
+      "desc_zh": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
+      "desc_fr": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
+      "desc_de": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_15",
@@ -5767,7 +9847,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5811,
-      "lng": 7.7508
+      "lng": 7.7508,
+      "desc_en": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
+      "desc_ja": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
+      "desc_es": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
+      "desc_zh": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
+      "desc_fr": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
+      "desc_de": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_16",
@@ -5784,7 +9876,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5811,
-      "lng": 7.7522
+      "lng": 7.7522,
+      "desc_en": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
+      "desc_ja": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
+      "desc_es": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
+      "desc_zh": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
+      "desc_fr": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
+      "desc_de": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_17",
@@ -5801,7 +9905,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5811,
-      "lng": 7.7522
+      "lng": 7.7522,
+      "desc_en": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
+      "desc_ja": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
+      "desc_es": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
+      "desc_zh": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
+      "desc_fr": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
+      "desc_de": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_18",
@@ -5818,7 +9934,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5794,
-      "lng": 7.7358
+      "lng": 7.7358,
+      "desc_en": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
+      "desc_ja": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
+      "desc_es": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
+      "desc_zh": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
+      "desc_fr": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
+      "desc_de": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_19",
@@ -5835,7 +9963,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.5858,
-      "lng": 7.7558
+      "lng": 7.7558,
+      "desc_en": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
+      "desc_ja": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
+      "desc_es": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
+      "desc_zh": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
+      "desc_fr": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
+      "desc_de": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_20",
@@ -5852,7 +9992,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5797,
-      "lng": 7.7514
+      "lng": 7.7514,
+      "desc_en": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
+      "desc_ja": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
+      "desc_es": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
+      "desc_zh": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
+      "desc_fr": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
+      "desc_de": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_21",
@@ -5869,7 +10021,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5811,
-      "lng": 7.7289
+      "lng": 7.7289,
+      "desc_en": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
+      "desc_ja": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
+      "desc_es": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
+      "desc_zh": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
+      "desc_fr": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
+      "desc_de": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_22",
@@ -5886,7 +10050,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 48.9567,
-      "lng": 7.3622
+      "lng": 7.3622,
+      "desc_en": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "desc_ja": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "desc_es": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "desc_zh": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "desc_fr": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "desc_de": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_23",
@@ -5903,7 +10079,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5778,
-      "lng": 7.7492
+      "lng": 7.7492,
+      "desc_en": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_ja": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_es": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_zh": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_fr": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "desc_de": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_24",
@@ -5920,7 +10108,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5814,
-      "lng": 7.7425
+      "lng": 7.7425,
+      "desc_en": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
+      "desc_ja": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
+      "desc_es": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
+      "desc_zh": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
+      "desc_fr": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
+      "desc_de": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_25",
@@ -5937,7 +10137,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5828,
-      "lng": 7.7511
+      "lng": 7.7511,
+      "desc_en": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
+      "desc_ja": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
+      "desc_es": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
+      "desc_zh": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
+      "desc_fr": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
+      "desc_de": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_26",
@@ -5954,7 +10166,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5819,
-      "lng": 7.7494
+      "lng": 7.7494,
+      "desc_en": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
+      "desc_ja": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
+      "desc_es": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
+      "desc_zh": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
+      "desc_fr": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
+      "desc_de": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_27",
@@ -5971,7 +10195,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5817,
-      "lng": 7.7486
+      "lng": 7.7486,
+      "desc_en": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
+      "desc_ja": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
+      "desc_es": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
+      "desc_zh": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
+      "desc_fr": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
+      "desc_de": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_28",
@@ -5988,7 +10224,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5819,
-      "lng": 7.7497
+      "lng": 7.7497,
+      "desc_en": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
+      "desc_ja": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
+      "desc_es": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
+      "desc_zh": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
+      "desc_fr": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
+      "desc_de": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_29",
@@ -6005,7 +10253,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5769,
-      "lng": 7.7431
+      "lng": 7.7431,
+      "desc_en": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
+      "desc_ja": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
+      "desc_es": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
+      "desc_zh": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
+      "desc_fr": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
+      "desc_de": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_30",
@@ -6022,7 +10282,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 48.4619,
-      "lng": 7.4819
+      "lng": 7.4819,
+      "desc_en": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
+      "desc_ja": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
+      "desc_es": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
+      "desc_zh": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
+      "desc_fr": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
+      "desc_de": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_31",
@@ -6039,7 +10311,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5808,
-      "lng": 7.7419
+      "lng": 7.7419,
+      "desc_en": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
+      "desc_ja": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
+      "desc_es": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
+      "desc_zh": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
+      "desc_fr": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
+      "desc_de": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_32",
@@ -6056,7 +10340,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5819,
-      "lng": 7.7481
+      "lng": 7.7481,
+      "desc_en": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
+      "desc_ja": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
+      "desc_es": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
+      "desc_zh": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
+      "desc_fr": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
+      "desc_de": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_33",
@@ -6073,7 +10369,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5875,
-      "lng": 7.7533
+      "lng": 7.7533,
+      "desc_en": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
+      "desc_ja": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
+      "desc_es": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
+      "desc_zh": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
+      "desc_fr": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
+      "desc_de": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_34",
@@ -6090,7 +10398,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5803,
-      "lng": 7.7539
+      "lng": 7.7539,
+      "desc_en": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
+      "desc_ja": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
+      "desc_es": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
+      "desc_zh": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
+      "desc_fr": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
+      "desc_de": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_35",
@@ -6107,7 +10427,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5847,
-      "lng": 7.7569
+      "lng": 7.7569,
+      "desc_en": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
+      "desc_ja": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
+      "desc_es": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
+      "desc_zh": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
+      "desc_fr": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
+      "desc_de": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_36",
@@ -6124,7 +10456,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.58,
-      "lng": 7.7578
+      "lng": 7.7578,
+      "desc_en": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
+      "desc_ja": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
+      "desc_es": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
+      "desc_zh": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
+      "desc_fr": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
+      "desc_de": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_37",
@@ -6141,7 +10485,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.5808,
-      "lng": 7.7519
+      "lng": 7.7519,
+      "desc_en": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
+      "desc_ja": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
+      "desc_es": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
+      "desc_zh": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
+      "desc_fr": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
+      "desc_de": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_38",
@@ -6158,7 +10514,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 48.4619,
-      "lng": 7.4819
+      "lng": 7.4819,
+      "desc_en": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
+      "desc_ja": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
+      "desc_es": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
+      "desc_zh": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
+      "desc_fr": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
+      "desc_de": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_39",
@@ -6175,7 +10543,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": false,
       "lat": 48.1667,
-      "lng": 7.2975
+      "lng": 7.2975,
+      "desc_en": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
+      "desc_ja": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
+      "desc_es": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
+      "desc_zh": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
+      "desc_fr": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
+      "desc_de": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_40",
@@ -6192,7 +10572,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.5908,
-      "lng": 7.7719
+      "lng": 7.7719,
+      "desc_en": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
+      "desc_ja": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
+      "desc_es": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
+      "desc_zh": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
+      "desc_fr": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
+      "desc_de": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_41",
@@ -6209,7 +10601,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.5731,
-      "lng": 7.7719
+      "lng": 7.7719,
+      "desc_en": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
+      "desc_ja": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
+      "desc_es": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
+      "desc_zh": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
+      "desc_fr": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
+      "desc_de": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_42",
@@ -6226,7 +10630,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": true,
       "lat": 48.5772,
-      "lng": 7.7708
+      "lng": 7.7708,
+      "desc_en": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
+      "desc_ja": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
+      "desc_es": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
+      "desc_zh": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
+      "desc_fr": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
+      "desc_de": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_43",
@@ -6243,7 +10659,19 @@ const candidateSpotsDatabase = {
       "locationZone": "city",
       "kids": false,
       "lat": 48.57,
-      "lng": 7.7981
+      "lng": 7.7981,
+      "desc_en": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
+      "desc_ja": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
+      "desc_es": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
+      "desc_zh": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
+      "desc_fr": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
+      "desc_de": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_44",
@@ -6260,7 +10688,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 47.8528,
-      "lng": 7.2858
+      "lng": 7.2858,
+      "desc_en": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
+      "desc_ja": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
+      "desc_es": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
+      "desc_zh": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
+      "desc_fr": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
+      "desc_de": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     },
     {
       "id": "st_45",
@@ -6277,7 +10717,19 @@ const candidateSpotsDatabase = {
       "locationZone": "suburban",
       "kids": true,
       "lat": 48.2689,
-      "lng": 7.7219
+      "lng": 7.7219,
+      "desc_en": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
+      "desc_ja": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
+      "desc_es": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
+      "desc_zh": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
+      "desc_fr": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
+      "desc_de": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
+      "tip_en": "Best visited in early morning or golden hour for great photos and fewer crowds.",
+      "tip_ja": "混雑を避け美しい写真を撮るには、早朝または夕方のゴールデンタイムの訪問がおすすめです。",
+      "tip_es": "Es mejor visitar temprano en la mañana o durante la hora dorada para tomar excelentes fotos.",
+      "tip_zh": "建议在清晨或黄金时段游览，可以避开人群并拍摄出绝佳照片。",
+      "tip_fr": "Visitez tôt le matin ou au coucher du soleil pour profiter de superbes photos et éviter la foule.",
+      "tip_de": "Am besten früh morgens oder zur goldenen Stunde besuchen für Fotos und weniger Andrang."
     }
   ]
 };
@@ -6566,17 +11018,21 @@ const AITravelEngine = {
       document.body.appendChild(modal);
     }
 
+    const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+    const activeDesc = spot['desc_' + lang] || spot.desc_ja || spot.desc_en || spot.desc;
+    const activeTip = spot['tip_' + lang] || spot.tip_ja || spot.tip_en;
+
     const hasPhoto = Boolean(spot.image);
     const cleanRating = String(spot.rating || '').startsWith('★') ? spot.rating : `★${spot.rating}`;
     const cityClean = (this.lastCity || 'Paris, France').split(',')[0].trim();
 
     modal.innerHTML = `
-      <div class="modal-content" onclick="event.stopPropagation();" style="max-width:440px; padding:1.25rem; border-radius:20px; animation:fadeIn 0.2s ease;">
+      <div class="modal-content" onclick="event.stopPropagation();" style="max-width:460px; padding:1.25rem; border-radius:20px; animation:fadeIn 0.2s ease;">
         <button type="button" class="modal-close" onclick="AITravelEngine.closeSpotModal()" style="top:0.6rem; right:0.6rem;">&times;</button>
         
         <div>
           ${hasPhoto ? `
-            <div style="width:100%; height:180px; overflow:hidden; border-radius:14px; margin-bottom:0.85rem; background:#FAF7F2; position:relative;">
+            <div style="width:100%; height:190px; overflow:hidden; border-radius:14px; margin-bottom:0.85rem; background:#FAF7F2; position:relative;">
               <img src="${spot.image}" alt="${escapeHtml(spot.name)}" style="width:100%; height:100%; object-fit:cover; display:block;">
               <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7;">🌐 Wikipedia</span>
               <span style="position:absolute; top:8px; right:8px; font-size:0.8rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857;">${cleanRating}</span>
@@ -6602,13 +11058,20 @@ const AITravelEngine = {
             ${spot.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
           </div>
 
-          <h3 style="font-size:1.15rem; margin-bottom:0.4rem; font-family:var(--font-sans); color:var(--text-primary); word-break:break-word;">
+          <h3 style="font-size:1.2rem; margin-bottom:0.4rem; font-family:var(--font-sans); color:var(--text-primary); word-break:break-word;">
             ${escapeHtml(spot.name)}
           </h3>
 
-          <p style="font-size:0.88rem; color:var(--text-secondary); line-height:1.55; margin-bottom:1rem; word-break:break-word;">
-            ${escapeHtml(spot.desc)}
+          <p style="font-size:0.9rem; color:var(--text-secondary); line-height:1.55; margin-bottom:0.85rem; word-break:break-word;">
+            ${escapeHtml(activeDesc)}
           </p>
+
+          ${activeTip ? `
+            <div style="background:#FFFBEB; border:1.5px solid #FCD34D; padding:0.65rem 0.85rem; border-radius:10px; font-size:0.82rem; color:#92400E; margin-bottom:1rem; line-height:1.45;">
+              <strong style="display:block; margin-bottom:0.2rem; color:#78350F;">${window.I18nEngine ? window.I18nEngine.getText('modal.insiderTip') : '💡 Insider Tip:'}</strong>
+              ${escapeHtml(activeTip)}
+            </div>
+          ` : ''}
 
           <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.85rem; border-top:1px dashed #EADEC9; padding-top:0.75rem; margin-top:0.5rem; flex-wrap:wrap; gap:0.5rem;">
             <span style="font-weight:700; color:var(--primary-wood);">${escapeHtml(spot.price)}</span>
@@ -6694,9 +11157,11 @@ const AITravelEngine = {
         filteredSpots = spots;
       }
 
+      const t = (k) => window.I18nEngine ? window.I18nEngine.getText(k) : k;
+
       if (counterBadge) {
         const selectedCount = this.selectedMustVisitIds.size;
-        counterBadge.innerHTML = `Selected: <strong>${selectedCount} / 8</strong> (Max 8 Must-Visit Spots)`;
+        counterBadge.innerHTML = `${t('badge.selected')} <strong>${selectedCount} / 8</strong> ${t('badge.maxNotice')}`;
         counterBadge.style.color = selectedCount >= 8 ? '#C2410C' : '#047857';
       }
 
@@ -6709,22 +11174,22 @@ const AITravelEngine = {
       const categoryFilterBarHtml = `
         <div class="category-filter-bar" style="grid-column:1 / -1; width:100%; display:flex; gap:0.4rem; flex-wrap:wrap; margin-bottom:0.75rem;">
           <button type="button" class="filter-chip ${this.categoryFilter === 'ALL' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('ALL')">
-            ✨ ALL (${spots.length})
+            ${t('filter.all')} (${spots.length})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Landmark' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Landmark')">
-            🏛️ Landmarks (${countLandmarks})
+            ${t('filter.landmark')} (${countLandmarks})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Museum' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Museum')">
-            🎨 Museums (${countMuseums})
+            ${t('filter.museum')} (${countMuseums})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Café' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Café')">
-            ☕ Cafés & Dining (${countCafes})
+            ${t('filter.cafe')} (${countCafes})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Scenery' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Scenery')">
-            🌆 Scenery & Walks (${countScenery})
+            ${t('filter.scenery')} (${countScenery})
           </button>
           <button type="button" class="filter-chip ${this.categoryFilter === 'Kids' ? 'active' : ''}" onclick="AITravelEngine.setCategoryFilter('Kids')">
-            🧸 Kids & Family (${countKids})
+            ${t('filter.kids')} (${countKids})
           </button>
         </div>
       `;
@@ -6732,19 +11197,21 @@ const AITravelEngine = {
       const viewModeBarHtml = categoryFilterBarHtml + `
         <div class="view-mode-bar" style="grid-column:1 / -1; width:100%; margin-bottom:0.5rem;">
           <div style="display:flex; align-items:center; gap:0.4rem;">
-            <span style="font-size:0.88rem; font-weight:800; color:var(--text-primary);">📱 View Mode:</span>
-            <span style="font-size:0.8rem; color:var(--text-secondary);">(${filteredSpots.length} matching)</span>
+            <span style="font-size:0.88rem; font-weight:800; color:var(--text-primary);">${t('view.label')}</span>
+            <span style="font-size:0.8rem; color:var(--text-secondary);">(${filteredSpots.length} ${t('view.matching')})</span>
           </div>
           <div style="display:flex; gap:0.4rem; flex-wrap:wrap;">
             <button type="button" class="view-mode-btn ${this.viewMode === 'compact' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('compact')">
-              ⚡ Compact List (Fast)
+              ${t('view.compact')}
             </button>
             <button type="button" class="view-mode-btn ${this.viewMode === 'grid' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('grid')">
-              🖼️ Visual Cards (Photos)
+              ${t('view.grid')}
             </button>
           </div>
         </div>
       `;
+
+      const activeLang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
 
       if (this.viewMode === 'compact') {
         container.style.display = 'flex';
@@ -6757,6 +11224,7 @@ const AITravelEngine = {
           const rawRating = String(s.rating || '');
           const cleanRating = rawRating.startsWith('★') ? rawRating : `★${rawRating}`;
           const cleanPrice = this.formatCompactPrice(s.price);
+          const cardDesc = s['desc_' + activeLang] || s.desc_ja || s.desc_en || s.desc;
 
           return `
             <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; padding:0.45rem 0.55rem; display:flex; align-items:center; justify-content:space-between; gap:0.4rem; border-radius:10px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 0 2px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
@@ -6771,7 +11239,7 @@ const AITravelEngine = {
 
                   <!-- Line 2: Description (Up to 3 lines clamped) -->
                   <p style="font-size:0.77rem; color:var(--text-secondary); line-height:1.35; margin-top:2px; margin-bottom:0; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; text-overflow:ellipsis;">
-                    ${escapeHtml(s.desc)}
+                    ${escapeHtml(cardDesc)}
                   </p>
                 </div>
               </div>
@@ -6807,6 +11275,7 @@ const AITravelEngine = {
         container.innerHTML = viewModeBarHtml + filteredSpots.map(s => {
           const isChecked = this.selectedMustVisitIds.has(s.id);
           const hasPhoto = Boolean(s.image);
+          const cardDesc = s['desc_' + activeLang] || s.desc_ja || s.desc_en || s.desc;
 
           return `
             <div class="card spot-candidate-card" style="border:2.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; transition:all 0.2s ease; display:flex; flex-direction:column; justify-content:space-between; position:relative; box-shadow:${isChecked ? '0 0 0 3px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
@@ -6851,7 +11320,7 @@ const AITravelEngine = {
                   <span>${escapeHtml(s.name)}</span>
                 </h4>
 
-                <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.75rem; word-break:break-word;">${escapeHtml(s.desc)}</p>
+                <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.75rem; word-break:break-word;">${escapeHtml(cardDesc)}</p>
               </div>
 
               <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.8rem; border-top:1px dashed #EADEC9; padding-top:0.5rem; margin-top:auto; gap:0.5rem; flex-wrap:wrap;">

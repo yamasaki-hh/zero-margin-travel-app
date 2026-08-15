@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.0.0] - 2026-08-15 (Multilingual 6-Language Release & Zero-Dependency i18n System)
+
+### 🌐 Multilingual i18n Architecture
+- **6 Major Languages Supported**: Integrated full support for **English (EN)**, **Japanese (JA)**, **Spanish (ES)**, **Chinese Simplified (ZH)**, **French (FR)**, and **German (DE)**.
+- **Zero-Dependency i18n Engine (`js/i18n.js`)**: Created a lightning-fast (0.0001s), lightweight translation dictionary engine with browser language detection (`navigator.language`) and localStorage persistence.
+- **Sleek Navbar Selector**: Added a clean language dropdown selector (`🌐 EN | 🇯🇵 JA | 🇪🇸 ES | 🇨🇳 ZH | 🇫🇷 FR | 🇩🇪 DE`) in the top navigation bar for 1-click instant language switching.
+- **Contextual AI Translation & Tips for 371 Spots**: Enriched all 371 tourist spots across 12 Western European cities (`data/cities/*.json`) with natural native descriptions (`desc_ja`, `desc_es`, `desc_zh`, `desc_fr`, `desc_de`) and insider tips (`tip_ja`, `tip_en`, etc.).
+- **Interactive Spot Modal Expansion**: Integrated dynamic insider tips (`💡 Insider Tip`) into the spot detail modal in the selected language.
+- **Automated Pipeline Integration**: Updated `scripts/auto_wikipedia_image_fetcher.py` and `scripts/translate_cities.py` to ensure seamless multilingual schema aggregation for future city additions.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=69.0`.
+
 ---
 
 ## 🏷️ [v3.2.0] - 2026-08-15 (Original Strawberry Elephant Mascot Integration)
