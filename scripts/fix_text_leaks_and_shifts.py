@@ -60,6 +60,22 @@ munich_fixes = {
         "desc_fr": "Principale rue commerçante piétonne de Munich s'étendant de Karlsplatz à Marienplatz.",
         "desc_de": "Münchens zentrale Fußgängerzone und Einkaufsmeile vom Karlsplatz zum Marienplatz."
     },
+    "m_5": {
+        "desc_fr": "Le plus grand musée de sciences et de technologies au monde, situé sur une île de l'Isar.",
+        "desc_de": "Das weltweit größte Museum für Wissenschaft und Technik auf der Isarinsel in München."
+    },
+    "m_33": {
+        "desc_fr": "Charmant musée du jouet situé dans la tour gothique de l'ancien hôtel de ville sur la Marienplatz.",
+        "desc_de": "Nostalgisches Spielzeugmuseum im gotischen Turm des Alten Rathauses am Marienplatz."
+    },
+    "m_34": {
+        "desc_fr": "Terrain officiel de l'Oktoberfest dominé par la statue en bronze de la Bavaria et le Hall de la Renommée.",
+        "desc_de": "Das offizielle Festgelände des Oktoberfests mit der riesigen Bavaria-Bronze Statue und Ruhmeshalle."
+    },
+    "m_46": {
+        "desc_fr": "Château féerique du roi Louis II qui a inspiré le château de la Belle au bois dormant de Disney.",
+        "desc_de": "Weltberühmtes Märchenschloss von König Ludwig II., das als Vorbild für das Disney-Schloss diente."
+    },
     "m_38": {
         "desc_fr": "Taverne de brasserie historique mondialement connue pour sa bière Schneider Weisse et sa cuisine bavaroise.",
         "desc_de": "Historisches Brauhaus, weltweit bekannt für Schneider Weisse Weißbier und bayerische Spezialitäten."

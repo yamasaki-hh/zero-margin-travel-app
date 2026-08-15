@@ -947,7 +947,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Brandenburger Tor (Brandenburg Gate)",
       "name_de": "Brandenburger Tor",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BerlinBrandenburgerTor1985.jpg/330px-BerlinBrandenburgerTor1985.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Brandenburg Gate in City district."
     },
     {
       "id": "b_2",
@@ -986,7 +987,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Reichstagsgebäude (Reichstag Building & Dome)",
       "name_de": "Reichstagsgebäude",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/330px-Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Reichstag Building & Dome in City district."
     },
     {
       "id": "b_3",
@@ -1025,7 +1027,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museumsinsel (UNESCO)",
       "name_de": "Museumsinsel (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum Island (UNESCO) in City district."
     },
     {
       "id": "b_4",
@@ -1064,7 +1067,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Pergamonmuseum (Pergamon Museum)",
       "name_de": "Pergamonmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Pergamon Museum in City district."
     },
     {
       "id": "b_5",
@@ -1103,7 +1107,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Neues Museum",
       "name_de": "Neues Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Neues Museum in City district."
     },
     {
       "id": "b_6",
@@ -1142,7 +1147,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Alte Nationalgalerie",
       "name_de": "Alte Nationalgalerie",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/330px-AlteNationalgalerie_1a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Alte Nationalgalerie in City district."
     },
     {
       "id": "b_7",
@@ -1181,7 +1187,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Bode-Museum (Bode Museum)",
       "name_de": "Bode-Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Bode Museum in City district."
     },
     {
       "id": "b_8",
@@ -1220,7 +1227,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Altes Museum",
       "name_de": "Altes Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Altes_Museum%2C_Berlin_2012.jpg/330px-Altes_Museum%2C_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Altes Museum in City district."
     },
     {
       "id": "b_9",
@@ -1259,7 +1267,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Berliner Dom (Berlin Cathedral)",
       "name_de": "Berliner Dom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Berliner_Dom_-_Westfassade_--_01.jpg/330px-2023_Berliner_Dom_-_Westfassade_--_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Berlin Cathedral in City district."
     },
     {
       "id": "b_10",
@@ -1298,7 +1307,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
       "name_de": "Humboldt Forum & Berliner Schloss",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Humboldt Forum in City district."
     },
     {
       "id": "b_11",
@@ -1337,7 +1347,8 @@ const candidateSpotsDatabase = {
       "name_fr": "East Side Gallery",
       "name_de": "East Side Gallery",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg/330px-Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "East Side Gallery in City district."
     },
     {
       "id": "b_12",
@@ -1376,7 +1387,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
       "name_de": "Gedenkstätte Berliner Mauer (Bernauer Straße)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg/330px-Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Berlin Wall Memorial in City district."
     },
     {
       "id": "b_13",
@@ -1415,7 +1427,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
       "name_de": "Checkpoint Charlie & Mauermuseum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Checkpoint Charlie in City district."
     },
     {
       "id": "b_14",
@@ -1454,7 +1467,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Topographie des Terrors (Topography of Terror)",
       "name_de": "Topographie des Terrors",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dokumentationszentrum_Topographie_des_Terrors.jpg/330px-Dokumentationszentrum_Topographie_des_Terrors.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Topography of Terror in City district."
     },
     {
       "id": "b_15",
@@ -1493,7 +1507,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
       "name_de": "Denkmal für die ermordeten Juden Europas",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Holocaust Memorial in City district."
     },
     {
       "id": "b_16",
@@ -1532,7 +1547,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Berliner Fernsehturm (Berlin TV Tower)",
       "name_de": "Berliner Fernsehturm",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Berlin TV Tower in City district."
     },
     {
       "id": "b_17",
@@ -1571,7 +1587,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
       "name_de": "Alexanderplatz & Weltzeituhr",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Alexanderplatz & World Clock in City district."
     },
     {
       "id": "b_18",
@@ -1610,7 +1627,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Gendarmenmarkt",
       "name_de": "Gendarmenmarkt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg/330px-150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Gendarmenmarkt in City district."
     },
     {
       "id": "b_19",
@@ -1649,7 +1667,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
       "name_de": "Kaiser-Wilhelm-Gedächtniskirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Kaiser Wilhelm Memorial Church in City district."
     },
     {
       "id": "b_20",
@@ -1688,7 +1707,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schloss Charlottenburg (Charlottenburg Palace)",
       "name_de": "Schloss Charlottenburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin_Charlottenburger_Schloss_Strassenseite.jpg/330px-Berlin_Charlottenburger_Schloss_Strassenseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Charlottenburg Palace in City district."
     },
     {
       "id": "b_21",
@@ -1727,7 +1747,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
       "name_de": "Kulturforum & Gemäldegalerie） (Kulturforum & Gemäldegalerie)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Gemäldegalerie Art Gallery in City district."
     },
     {
       "id": "b_22",
@@ -1766,7 +1787,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Neue Nationalgalerie",
       "name_de": "Neue Nationalgalerie",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/330px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Neue Nationalgalerie in City district."
     },
     {
       "id": "b_23",
@@ -1805,7 +1827,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
       "name_de": "Hamburger Bahnhof",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hamburger Bahnhof Contemporary Art in City district."
     },
     {
       "id": "b_24",
@@ -1844,7 +1867,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
       "name_de": "Jüdisches Museum Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jewish_Museum_Berlin_-_panoramio_%282%29.jpg/330px-Jewish_Museum_Berlin_-_panoramio_%282%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Jewish Museum Berlin in City district."
     },
     {
       "id": "b_25",
@@ -1883,7 +1907,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Deutsches Historisches Museum (German Historical Museum)",
       "name_de": "Deutsches Historisches Museum (DHM)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zeughaus_Berlin_2012.jpg/330px-Zeughaus_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "German Historical Museum in City district."
     },
     {
       "id": "b_26",
@@ -1922,7 +1947,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Deutsches Technikmuseum (German Museum of Technology)",
       "name_de": "Deutsches Technikmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Deutsches_technikmuseum_berlin_20080429.jpg/330px-Deutsches_technikmuseum_berlin_20080429.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "German Museum of Technology in City district."
     },
     {
       "id": "b_27",
@@ -1961,7 +1987,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum für Naturkunde (Berlin Natural History Museum)",
       "name_de": "Museum für Naturkunde",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg/330px-Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Berlin Natural History Museum in City district."
     },
     {
       "id": "b_28",
@@ -2000,7 +2027,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Futurium",
       "name_de": "Futurium",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FuturiumBerlin2021.jpg/330px-FuturiumBerlin2021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Futurium in City district."
     },
     {
       "id": "b_29",
@@ -2039,7 +2067,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Computerspielemuseum (Computer Games Museum)",
       "name_de": "Computerspielemuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ausstellung_Computerspielemuseum_2.JPG/330px-Ausstellung_Computerspielemuseum_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Computer Games Museum in City district."
     },
     {
       "id": "b_30",
@@ -2078,7 +2107,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Spionagemuseum (German Spy Museum)",
       "name_de": "Spionagemuseum (German Spy Museum)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "German Spy Museum in City district."
     },
     {
       "id": "b_31",
@@ -2117,7 +2147,8 @@ const candidateSpotsDatabase = {
       "name_fr": "DDR Museum",
       "name_de": "DDR Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "DDR Museum in City district."
     },
     {
       "id": "b_32",
@@ -2156,7 +2187,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Berliner Unterwelten (Berlin Underground Tours)",
       "name_de": "Berliner Unterwelten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ticketshop_Berliner_Unterwelten.jpg/330px-Ticketshop_Berliner_Unterwelten.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Berlin Underground Tours in City district."
     },
     {
       "id": "b_33",
@@ -2195,7 +2227,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
       "name_de": "Siegessäule & Großer Tiergarten",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Victory Column & Tiergarten in City district."
     },
     {
       "id": "b_34",
@@ -2234,7 +2267,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Potsdamer Platz & Sony Center",
       "name_de": "Potsdamer Platz & Sony Center",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Potsdamer Platz & Sony Center in City district."
     },
     {
       "id": "b_35",
@@ -2273,7 +2307,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
       "name_de": "Kurfürstendamm  & Tauentzienstraße (Ku'damm)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Kurfürstendamm Shopping Street in City district."
     },
     {
       "id": "b_36",
@@ -2312,7 +2347,8 @@ const candidateSpotsDatabase = {
       "name_fr": "KaDeWe (KaDeWe Department Store)",
       "name_de": "KaDeWe (Kaufhaus des Westens)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg/330px-Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "KaDeWe Department Store in City district."
     },
     {
       "id": "b_37",
@@ -2351,7 +2387,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Mall of Berlin",
       "name_de": "Mall of Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg/330px-18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Mall of Berlin in City district."
     },
     {
       "id": "b_38",
@@ -2390,7 +2427,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Bikini Berlin (Bikini Berlin Concept Mall)",
       "name_de": "Bikini Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg/330px-Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Bikini Berlin Concept Mall in City district."
     },
     {
       "id": "b_39",
@@ -2429,7 +2467,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
       "name_de": "Hackesche Höfe & Hackescher Markt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hackesche Höfe Courtyards in City district."
     },
     {
       "id": "b_40",
@@ -2468,7 +2507,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
       "name_de": "Mauerpark & Flohmarkt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Mauerpark & Sunday Market in City district."
     },
     {
       "id": "b_41",
@@ -2507,7 +2547,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Markthalle Neun (Markthalle Neun Market)",
       "name_de": "Markthalle Neun",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Markthalle Neun Market in City district."
     },
     {
       "id": "b_42",
@@ -2546,7 +2587,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
       "name_de": "Kollwitzplatz & Prenzlauer Berg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Kollwitzplatz Quarter in City district."
     },
     {
       "id": "b_43",
@@ -2585,7 +2627,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
       "name_de": "Bergmannstraße & Kreuzberg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bergmannstraße Quarter in City district."
     },
     {
       "id": "b_44",
@@ -2624,7 +2667,8 @@ const candidateSpotsDatabase = {
       "name_fr": "RAW-Gelände (RAW Complex Cultural Center)",
       "name_de": "RAW-Gelände",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RAW_Berlin_Tor1.jpg/330px-RAW_Berlin_Tor1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "RAW Complex Cultural Center in City district."
     },
     {
       "id": "b_45",
@@ -2663,7 +2707,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
       "name_de": "Holzmarkt 25",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg/330px-Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Holzmarkt 25 Creative Village in City district."
     },
     {
       "id": "b_46",
@@ -2702,7 +2747,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
       "name_de": "Zoologischer Garten Berlin & Aquarium Berlin",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Berlin Zoo & Aquarium in City district."
     },
     {
       "id": "b_47",
@@ -2741,7 +2787,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
       "name_de": "Tierpark Berlin & Schloss Friedrichsfelde",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Tierpark Berlin in City district."
     },
     {
       "id": "b_48",
@@ -2780,7 +2827,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Tempelhofer Feld (Tempelhof Airport Park)",
       "name_de": "Tempelhofer Feld",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial%2C_Berlin_%28_1090064%29.jpg/330px-Aerial%2C_Berlin_%28_1090064%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Tempelhof Airport Park in City district."
     },
     {
       "id": "b_49",
@@ -2819,7 +2867,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Gärten der Welt (Gardens of the World)",
       "name_de": "Gärten der Welt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/330px-Erholungspark_Marzahn_2009.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Gardens of the World in City district."
     },
     {
       "id": "b_50",
@@ -2858,7 +2907,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Spree-Schifffahrt (Spree River Cruise)",
       "name_de": "Spree-Schifffahrt (Spree River Cruise)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Spree River Cruise in City district."
     },
     {
       "id": "b_51",
@@ -2897,7 +2947,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Badeschiff (Badeschiff Floating Pool)",
       "name_de": "Badeschiff",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Badeschiff_Kohl.jpg/330px-Badeschiff_Kohl.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Badeschiff Floating Pool in City district."
     },
     {
       "id": "b_52",
@@ -2936,7 +2987,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
       "name_de": "Curry 36 & Konnopke's Imbiß",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Curry 36 & Konnopke's Currywurst in City district."
     },
     {
       "id": "b_53",
@@ -2975,7 +3027,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
       "name_de": "Mustafa's Gemüsedöner",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Mustafa's Vegetable Kebab in City district."
     },
     {
       "id": "b_54",
@@ -3014,7 +3067,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Café Einstein Stammhaus",
       "name_de": "Café Einstein Stammhaus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg/330px-TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Café Einstein Stammhaus in City district."
     },
     {
       "id": "b_55",
@@ -3053,7 +3107,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Prater Biergarten (Prater Beer Garden)",
       "name_de": "Prater Biergarten",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Prater Beer Garden in City district."
     },
     {
       "id": "b_56",
@@ -3092,7 +3147,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
       "name_de": "Brauhaus Georgbræu & Nikolaiviertel",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Nikolaiviertel & Georgbræu Brewery in City district."
     },
     {
       "id": "b_57",
@@ -3131,7 +3187,8 @@ const candidateSpotsDatabase = {
       "name_fr": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
       "name_de": "ANOHA - Die Kinderwelt des Jüdischen Museums",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "ANOHA Children's World in City district."
     },
     {
       "id": "b_58",
@@ -3170,7 +3227,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
       "name_de": "Loxx / Lego Discovery Centre Berlin",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Lego Discovery Centre Berlin in City district."
     },
     {
       "id": "b_59",
@@ -3209,7 +3267,8 @@ const candidateSpotsDatabase = {
       "name_fr": "AquaDom & SEA LIFE Berlin (SEA LIFE Berlin)",
       "name_de": "AquaDom & SEA LIFE Berlin",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "SEA LIFE Berlin in City district."
     },
     {
       "id": "b_60",
@@ -3248,7 +3307,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Liquidrom (Liquidrom Thermal Bath)",
       "name_de": "Liquidrom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/330px-Tempodrom.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Liquidrom Thermal Bath in City district."
     },
     {
       "id": "b_61",
@@ -3287,7 +3347,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
       "name_de": "Schloss Sanssouci & Park Sanssouci (Potsdam / UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Sanssouci Palace & Park in Suburban district."
     },
     {
       "id": "b_62",
@@ -3326,7 +3387,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Neues Palais ） (New Palace in Sanssouci)",
       "name_de": "Neues Palais ） (Potsdam)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "New Palace in Sanssouci in Suburban district."
     },
     {
       "id": "b_63",
@@ -3365,7 +3427,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schloss Cecilienhof (Cecilienhof Palace)",
       "name_de": "Schloss Cecilienhof (Potsdam)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg/330px-La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Cecilienhof Palace in Suburban district."
     },
     {
       "id": "b_64",
@@ -3404,7 +3467,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
       "name_de": "Holländisches Viertel ） (Potsdam)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Dutch Quarter Potsdam in Suburban district."
     },
     {
       "id": "b_65",
@@ -3443,7 +3507,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum Barberini ） (Museum Barberini Potsdam)",
       "name_de": "Museum Barberini ） (Potsdam)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Museum Barberini Potsdam in Suburban district."
     },
     {
       "id": "b_66",
@@ -3482,7 +3547,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Glienicker Brücke ） (Glienicke Bridge)",
       "name_de": "Glienicker Brücke ） (Potsdam / Berlin)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bridge of Spies (Glienicke Bridge) in Suburban district."
     },
     {
       "id": "b_67",
@@ -3521,7 +3587,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Filmpark Babelsberg",
       "name_de": "Filmpark Babelsberg (Potsdam)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg/330px-Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Filmpark Babelsberg in Suburban district."
     },
     {
       "id": "b_68",
@@ -3560,7 +3627,8 @@ const candidateSpotsDatabase = {
       "name_fr": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
       "name_de": "KZ-Gedenkstätte Sachsenhausen (Oranienburg)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Sachsenhausen Concentration Camp Memorial in Suburban district."
     },
     {
       "id": "b_69",
@@ -3599,7 +3667,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Spreewald (Spreewald Biosphere Reserve)",
       "name_de": "Spreewald (Lübbenau / Lehde - UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg/330px-Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Spreewald Biosphere Reserve in Suburban district."
     },
     {
       "id": "b_70",
@@ -3638,7 +3707,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Tropical Islands Resort",
       "name_de": "Tropical Islands Resort (Krausnick)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_06_TropicalIslands_IMG_2078.jpg/330px-2018_06_TropicalIslands_IMG_2078.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Tropical Islands Resort in Suburban district."
     },
     {
       "id": "b_71",
@@ -3677,7 +3747,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Pfaueninsel (UNESCO)",
       "name_de": "Pfaueninsel (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%9Cbersichtskarte_Pfaueninsel.png/330px-%C3%9Cbersichtskarte_Pfaueninsel.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Peacock Island (UNESCO) in Suburban district."
     },
     {
       "id": "b_72",
@@ -3716,7 +3787,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
       "name_de": "Wannsee & Haus der Wannsee-Konferenz",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Wannsee & Conference House in Suburban district."
     },
     {
       "id": "b_73",
@@ -3755,7 +3827,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Teufelsberg (Teufelsberg Field Station)",
       "name_de": "Teufelsberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Teufelsberg_ehem_Radaranlage.jpg/330px-Teufelsberg_ehem_Radaranlage.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Teufelsberg Field Station in Suburban district."
     },
     {
       "id": "b_74",
@@ -3794,7 +3867,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Zitadelle Spandau (Spandau Citadel)",
       "name_de": "Zitadelle Spandau",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Spandau Citadel in Suburban district."
     },
     {
       "id": "b_75",
@@ -3833,7 +3907,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Designer Outlet Berlin",
       "name_de": "Designer Outlet Berlin (Wustermark)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Designer Outlet Berlin in Suburban district."
     }
   ],
   "Bordeaux, France": [
@@ -6263,7 +6338,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kölner Dom (Cologne Cathedral)",
       "name_de": "Kölner Dom (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/330px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Cologne Cathedral in City district."
     },
     {
       "id": "c_2",
@@ -6302,7 +6378,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hohenzollernbrücke (Hohenzollern Bridge)",
       "name_de": "Hohenzollernbrücke",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hohenzollern Bridge in City district."
     },
     {
       "id": "c_3",
@@ -6381,7 +6458,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Heumarkt (Heumarkt Square)",
       "name_de": "Heumarkt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Heumarkt Square in City district."
     },
     {
       "id": "c_5",
@@ -6420,7 +6498,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
       "name_de": "Kölner Rathaus & Historische Ratslaube",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Cologne City Hall in City district."
     },
     {
       "id": "c_6",
@@ -6459,7 +6538,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Groß St. Martin (Great St. Martin Church)",
       "name_de": "Groß St. Martin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fischmarkt.jpg/330px-Fischmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Great St. Martin Church in City district."
     },
     {
       "id": "c_7",
@@ -6498,7 +6578,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
       "name_de": "Rheinauhafen & Kranhäuser",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Rheinauhafen & Crane Houses in City district."
     },
     {
       "id": "c_8",
@@ -6537,7 +6618,8 @@ const candidateSpotsDatabase = {
       "name_fr": "KölnTriangle (KölnTriangle Panorama Deck)",
       "name_de": "KölnTriangle (Panorama-Plattform)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "KölnTriangle Panorama Deck in City district."
     },
     {
       "id": "c_9",
@@ -6616,7 +6698,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum Ludwig",
       "name_de": "Museum Ludwig",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg/330px-Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum Ludwig in City district."
     },
     {
       "id": "c_11",
@@ -6655,7 +6738,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
       "name_de": "Wallraf-Richartz-Museum & Fondation Corboud",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg/330px-Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Wallraf-Richartz-Museum in City district."
     },
     {
       "id": "c_12",
@@ -6694,7 +6778,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
       "name_de": "Römisch-Germanisches Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg/330px-R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Romano-Germanic Museum in City district."
     },
     {
       "id": "c_13",
@@ -6733,7 +6818,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Farina Duftmuseum (Farina Fragrance Museum)",
       "name_de": "Farina Duftmuseum (Duftmuseum im Farina-Haus)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Farina Fragrance Museum in City district."
     },
     {
       "id": "c_14",
@@ -6772,7 +6858,8 @@ const candidateSpotsDatabase = {
       "name_fr": "4711 Stammhaus (4711 Flagship Store)",
       "name_de": "4711 Stammhaus (Glockengasse)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "4711 Flagship Store in City district."
     },
     {
       "id": "c_15",
@@ -6811,7 +6898,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kolumba (Kolumba Art Museum)",
       "name_de": "Kolumba (Kunstmuseum des Erzbistums Köln)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kolumba.jpg/330px-Kolumba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Kolumba Art Museum in City district."
     },
     {
       "id": "c_16",
@@ -6850,7 +6938,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
       "name_de": "Museum für Angewandte Kunst Köln (MAKK)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg/330px-Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum of Applied Arts Cologne in City district."
     },
     {
       "id": "c_17",
@@ -6889,7 +6978,8 @@ const candidateSpotsDatabase = {
       "name_fr": "NS-Dokumentationszentrum (NS Documentation Center)",
       "name_de": "NS-Dokumentationszentrum (EL-DE-Haus)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "NS Documentation Center in City district."
     },
     {
       "id": "c_18",
@@ -6928,7 +7018,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Rautenstrauch-Joest-Museum",
       "name_de": "Rautenstrauch-Joest-Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg/330px-Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Rautenstrauch-Joest-Museum in City district."
     },
     {
       "id": "c_19",
@@ -6967,7 +7058,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum Schnütgen",
       "name_de": "Museum Schnütgen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg/330px-Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum Schnütgen in City district."
     },
     {
       "id": "c_20",
@@ -7006,7 +7098,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
       "name_de": "Deutsches Sport & Olympia Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/K%C3%B6ln_012_020.jpg/330px-K%C3%B6ln_012_020.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "German Sport & Olympic Museum in City district."
     },
     {
       "id": "c_21",
@@ -7045,7 +7138,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kölner Seilbahn (Cologne Cable Car)",
       "name_de": "Kölner Seilbahn",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/K%C3%B6lner_Seilbahn_logo.svg/langde-330px-K%C3%B6lner_Seilbahn_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Cologne Cable Car in City district."
     },
     {
       "id": "c_22",
@@ -7084,7 +7178,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kölner Zoo (Cologne Zoo)",
       "name_de": "Kölner Zoo",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Cologne Zoo in City district."
     },
     {
       "id": "c_23",
@@ -7123,7 +7218,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Aquarium Köln (Cologne Aquarium)",
       "name_de": "Aquarium Köln",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Cologne Aquarium in City district."
     },
     {
       "id": "c_24",
@@ -7162,7 +7258,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
       "name_de": "Flora Köln & Botanischer Garten",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Flora & Botanical Garden Cologne in City district."
     },
     {
       "id": "c_25",
@@ -7201,7 +7298,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schildergasse & Hohe Straße",
       "name_de": "Schildergasse & Hohe Straße",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Schildergasse & Hohe Straße in City district."
     },
     {
       "id": "c_26",
@@ -7240,7 +7338,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
       "name_de": "Ehrenstraße & Belgisches Viertel",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Ehrenstraße & Belgian Quarter in City district."
     },
     {
       "id": "c_27",
@@ -7279,7 +7378,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
       "name_de": "Neumarkt & Neumarkt Passage",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Neumarkt Square & Passage in City district."
     },
     {
       "id": "c_28",
@@ -7318,7 +7418,8 @@ const candidateSpotsDatabase = {
       "name_fr": "DuMont Carré & Opern Passagen",
       "name_de": "DuMont Carré & Opern Passagen",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "DuMont Carré & Opern Passagen in City district."
     },
     {
       "id": "c_29",
@@ -7357,7 +7458,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Brauhaus Früh am Dom",
       "name_de": "Brauhaus Früh am Dom",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Brauhaus Früh am Dom in City district."
     },
     {
       "id": "c_30",
@@ -7396,7 +7498,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Brauhaus Sion",
       "name_de": "Brauhaus Sion",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/330px-Brauhaus_Sion_Front_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Brauhaus Sion in City district."
     },
     {
       "id": "c_31",
@@ -7435,7 +7538,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
       "name_de": "Gilden im Zims \"Heimat kölscher Helden\"",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Gilden im Zims in City district."
     },
     {
       "id": "c_32",
@@ -7474,7 +7578,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Brauerei Päffgen",
       "name_de": "Brauerei Päffgen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg/330px-P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Brauerei Päffgen in City district."
     },
     {
       "id": "c_33",
@@ -7513,7 +7618,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Peters Brauhaus",
       "name_de": "Peters Brauhaus",
       "image": "https://upload.wikimedia.org/wikipedia/de/thumb/7/71/HKB-Logo.jpg/330px-HKB-Logo.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Peters Brauhaus in City district."
     },
     {
       "id": "c_34",
@@ -7552,7 +7658,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Lommerzheim (Lommerzheim Pub)",
       "name_de": "Lommerzheim (Lommi)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2019-11-15-Lommerzheim-7697.jpg/330px-2019-11-15-Lommerzheim-7697.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Lommerzheim Pub in City district."
     },
     {
       "id": "c_35",
@@ -7591,7 +7698,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Café Reichard",
       "name_de": "Café Reichard",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Café Reichard in City district."
     },
     {
       "id": "c_36",
@@ -7630,7 +7738,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Odonien (Odonien Outdoor Art Park)",
       "name_de": "Odonien",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg/330px-Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Odonien Outdoor Art Park in City district."
     },
     {
       "id": "c_37",
@@ -7669,7 +7778,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Claudius Therme (Claudius Therme Thermal Bath)",
       "name_de": "Claudius Therme",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Claudius Therme Thermal Bath in City district."
     },
     {
       "id": "c_38",
@@ -7708,7 +7818,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Rheinpark & Kleinbahn",
       "name_de": "Rheinpark & Kleinbahn",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Rheinpark & Kleinbahn in City district."
     },
     {
       "id": "c_39",
@@ -7747,7 +7858,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
       "name_de": "Stadtwald Köln & Lindenthaler Tierpark",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Stadtwald & Lindenthal Zoo in City district."
     },
     {
       "id": "c_40",
@@ -7786,7 +7898,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Melaten-Friedhof (Melaten Cemetery)",
       "name_de": "Melaten-Friedhof",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg/330px-2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Melaten Cemetery in City district."
     },
     {
       "id": "c_41",
@@ -7825,7 +7938,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Odysseum Science Center",
       "name_de": "Odysseum Science Center",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Odysseum Science Center in City district."
     },
     {
       "id": "c_42",
@@ -7864,7 +7978,8 @@ const candidateSpotsDatabase = {
       "name_fr": "RheinSchiffahrt (KD Rhine River Cruise)",
       "name_de": "RheinSchiffahrt (Köln-Düsseldorfer / KD River Cruises)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "KD Rhine River Cruise in City district."
     },
     {
       "id": "c_43",
@@ -7903,7 +8018,8 @@ const candidateSpotsDatabase = {
       "name_fr": "St. Gereon (St. Gereon Basilica)",
       "name_de": "St. Gereon",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "St. Gereon Basilica in City district."
     },
     {
       "id": "c_44",
@@ -7942,7 +8058,8 @@ const candidateSpotsDatabase = {
       "name_fr": "St. Ursula (St. Ursula Basilica)",
       "name_de": "St. Ursula",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wappen_Koeln.svg/langde-330px-Wappen_Koeln.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "St. Ursula Basilica in City district."
     },
     {
       "id": "c_45",
@@ -7981,7 +8098,8 @@ const candidateSpotsDatabase = {
       "name_fr": "St. Aposteln (St. Apostles Church)",
       "name_de": "St. Aposteln",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/St._Aposteln_K%C3%B6ln_-_Ostseite_%284539%29.jpg/330px-St._Aposteln_K%C3%B6ln_-_Ostseite_%284539%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "St. Apostles Church in City district."
     },
     {
       "id": "c_46",
@@ -8020,7 +8138,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
       "name_de": "Schlösser Augustusburg und Falkenlust (Brühl / UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg/330px-Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Augustusburg & Falkenlust Palaces in Suburban district."
     },
     {
       "id": "c_47",
@@ -8059,7 +8178,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Phantasialand (Phantasialand Theme Park)",
       "name_de": "Phantasialand (Brühl)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Phantasialand_Logo.svg/langde-330px-Phantasialand_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Phantasialand Theme Park in Suburban district."
     },
     {
       "id": "c_48",
@@ -8098,7 +8218,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
       "name_de": "Aachener Dom & Domschatzkammer (Aachen / UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Aachen Cathedral & Treasury in Suburban district."
     },
     {
       "id": "c_49",
@@ -8137,7 +8258,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Drachenburg Castle & Drachenfels",
       "name_de": "Drachenburg Castle & Drachenfels (Königswinter)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Drachenburg Castle & Drachenfels in Suburban district."
     },
     {
       "id": "c_50",
@@ -8176,7 +8298,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schloss Benrath (Benrath Palace)",
       "name_de": "Schloss Benrath (Düsseldorf)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Benrath_Jan2012.jpg/330px-Schloss_Benrath_Jan2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Benrath Palace in Suburban district."
     },
     {
       "id": "c_51",
@@ -8215,7 +8338,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Burg Satzvey (Satzvey Castle)",
       "name_de": "Burg Satzvey (Mechernich)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/330px-Burg_Satzvey_HDR.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Satzvey Castle in Suburban district."
     },
     {
       "id": "c_52",
@@ -8254,7 +8378,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum Insel Hombroich",
       "name_de": "Museum Insel Hombroich (Neuss)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Auenlandschaft_Museumsinsel_Hombroich_Neuss_2006.jpg/330px-Auenlandschaft_Museumsinsel_Hombroich_Neuss_2006.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum Insel Hombroich in Suburban district."
     },
     {
       "id": "c_53",
@@ -8293,7 +8418,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Neanderthal Museum",
       "name_de": "Neanderthal Museum (Mettmann)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mus%C3%A9e_de_Neanderthal.jpg/330px-Mus%C3%A9e_de_Neanderthal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Neanderthal Museum in Suburban district."
     },
     {
       "id": "c_54",
@@ -8332,7 +8458,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Freilichtmuseum Kommern (Kommern Open-Air Museum)",
       "name_de": "Freilichtmuseum Kommern (LVR-Freilichtmuseum Kommern)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Freilichtmuseum_Kommern_-_Haus_aus_Rhinschenschmidthausen%2C_Bergisches_Land_%2812903341704%29.jpg/330px-Freilichtmuseum_Kommern_-_Haus_aus_Rhinschenschmidthausen%2C_Bergisches_Land_%2812903341704%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Kommern Open-Air Museum in Suburban district."
     },
     {
       "id": "c_55",
@@ -8371,7 +8498,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Brühler Wasserski / Heider Bergsee (Heider Bergsee Lake)",
       "name_de": "Brühler Wasserski / Heider Bergsee",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Heider Bergsee Lake in Suburban district."
     },
     {
       "id": "c_56",
@@ -8410,7 +8538,8 @@ const candidateSpotsDatabase = {
       "name_fr": "City Outlet Bad Münstereifel (Bad Münstereifel City Outlet)",
       "name_de": "City Outlet Bad Münstereifel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DEU_Bad_Muenstereifel_COA.svg/langde-330px-DEU_Bad_Muenstereifel_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Bad Münstereifel City Outlet in Suburban district."
     }
   ],
   "Frankfurt, Germany": [
@@ -8451,7 +8580,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Römerberg & Rathaus Römer (Römerberg & City Hall)",
       "name_de": "Römerberg & Rathaus Römer",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Römerberg & City Hall in City district."
     },
     {
       "id": "f_2",
@@ -8490,7 +8620,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kaiserdom St. Bartholomäus (Frankfurt Cathedral)",
       "name_de": "Kaiserdom St. Bartholomäus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg/330px-Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt Cathedral in City district."
     },
     {
       "id": "f_3",
@@ -8529,7 +8660,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Goethe-Haus (Goethe House & Museum)",
       "name_de": "Goethe-Haus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/330px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Goethe House & Museum in City district."
     },
     {
       "id": "f_4",
@@ -8568,7 +8700,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Städel Museum",
       "name_de": "Städel Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg/330px-St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Städel Museum in City district."
     },
     {
       "id": "f_5",
@@ -8607,7 +8740,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Main Tower (Main Tower Observatory)",
       "name_de": "Main Tower",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Maintower_Frankfurt.jpg/330px-Maintower_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Main Tower Observatory in City district."
     },
     {
       "id": "f_6",
@@ -8646,7 +8780,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Eiserner Steg (Iron Footbridge)",
       "name_de": "Eiserner Steg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg/330px-Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Iron Footbridge in City district."
     },
     {
       "id": "f_7",
@@ -8685,7 +8820,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Paulskirche (St. Paul's Church)",
       "name_de": "Paulskirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg/330px-Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "St. Paul's Church in City district."
     },
     {
       "id": "f_8",
@@ -8724,7 +8860,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Alte Oper (Old Opera House)",
       "name_de": "Alte Oper",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/330px-Alte_Oper_Frankfurt_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Old Opera House in City district."
     },
     {
       "id": "f_9",
@@ -8763,7 +8900,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Palmengarten (Palmengarten Botanical Garden)",
       "name_de": "Palmengarten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NOI_Techpark_S%C3%BCdtirol_3.jpg/330px-NOI_Techpark_S%C3%BCdtirol_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Palmengarten Botanical Garden in City district."
     },
     {
       "id": "f_10",
@@ -8802,7 +8940,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Historisches Museum Frankfurt (Frankfurt History Museum)",
       "name_de": "Historisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg/330px-Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt History Museum in City district."
     },
     {
       "id": "f_11",
@@ -8841,7 +8980,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Liebieghaus Skulpturensammlung (Liebieghaus Sculpture Museum)",
       "name_de": "Liebieghaus Skulpturensammlung",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Liebieghaus.jpg/330px-Liebieghaus.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Liebieghaus Sculpture Museum in City district."
     },
     {
       "id": "f_12",
@@ -8880,7 +9020,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum Angewandte Kunst (Museum of Applied Arts)",
       "name_de": "Museum Angewandte Kunst",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg/330px-Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum of Applied Arts in City district."
     },
     {
       "id": "f_13",
@@ -8919,7 +9060,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Deutsches Filminstitut & Filmmuseum (DFF - German Film Institute & Film Museum)",
       "name_de": "Deutsches Filminstitut & Filmmuseum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "DFF - German Film Institute & Film Museum in City district."
     },
     {
       "id": "f_14",
@@ -8958,7 +9100,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum für Moderne Kunst (Museum of Modern Art)",
       "name_de": "Museum für Moderne Kunst (MMK)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/330px-Museum_fuer_Moderne_Kunst_Portalseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum of Modern Art in City district."
     },
     {
       "id": "f_15",
@@ -8997,7 +9140,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schirn Kunsthalle Frankfurt",
       "name_de": "Schirn Kunsthalle Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Schirn-ffm001.jpg/330px-Schirn-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Schirn Kunsthalle Frankfurt in City district."
     },
     {
       "id": "f_16",
@@ -9036,7 +9180,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museumsufer (Museumsufer River Bank)",
       "name_de": "Museumsufer",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Museumsufer-teil1-ffm001.jpg/330px-Museumsufer-teil1-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museumsufer River Bank in City district."
     },
     {
       "id": "f_17",
@@ -9075,7 +9220,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kleinmarkthalle (Kleinmarkthalle Market)",
       "name_de": "Kleinmarkthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg/330px-Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Kleinmarkthalle Market in City district."
     },
     {
       "id": "f_18",
@@ -9114,7 +9260,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Neue Altstadt (New Old Town)",
       "name_de": "Neue Altstadt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "New Old Town in City district."
     },
     {
       "id": "f_19",
@@ -9153,7 +9300,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Sachsenhausen (Sachsenhausen Cider District)",
       "name_de": "Sachsenhausen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg/330px-Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Sachsenhausen Cider District in City district."
     },
     {
       "id": "f_20",
@@ -9192,7 +9340,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Zur Sonne / Zum Gemalten Haus / Atschel (Historic Apple Wine Taverns)",
       "name_de": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Historic Apple Wine Taverns in City district."
     },
     {
       "id": "f_21",
@@ -9231,7 +9380,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Zeil & MyZeil (Zeil Shopping Street & MyZeil)",
       "name_de": "Zeil & MyZeil",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Zeil Shopping Street & MyZeil in City district."
     },
     {
       "id": "f_22",
@@ -9270,7 +9420,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Goethestraße (Goethestraße Luxury Street)",
       "name_de": "Goethestraße",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goethestrasse_Rothofstrasse_Ffm.jpg/330px-Goethestrasse_Rothofstrasse_Ffm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Goethestraße Luxury Street in City district."
     },
     {
       "id": "f_23",
@@ -9309,7 +9460,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Große Bockenheimer Straße (Fressgass Culinary Street)",
       "name_de": "Große Bockenheimer Straße (Fressgass)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Fressgass Culinary Street in City district."
     },
     {
       "id": "f_24",
@@ -9348,7 +9500,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hauptwache & Katharinenkirche (Hauptwache Square & St. Catherine's)",
       "name_de": "Hauptwache & Katharinenkirche",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hauptwache Square & St. Catherine's in City district."
     },
     {
       "id": "f_25",
@@ -9387,7 +9540,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Mainufer-Promenade (Main River Promenade)",
       "name_de": "Mainufer-Promenade",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Main River Promenade in City district."
     },
     {
       "id": "f_26",
@@ -9426,7 +9580,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Zoo Frankfurt (Frankfurt Zoo)",
       "name_de": "Zoo Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Zoo-Frankfurt-Gesellschaftshaus-a.jpg/330px-Zoo-Frankfurt-Gesellschaftshaus-a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt Zoo in City district."
     },
     {
       "id": "f_27",
@@ -9465,7 +9620,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Senckenberg Naturmuseum (Senckenberg Natural History Museum)",
       "name_de": "Senckenberg Naturmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg/330px-Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Senckenberg Natural History Museum in City district."
     },
     {
       "id": "f_28",
@@ -9504,7 +9660,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Frankfurter Wertpapierbörse (Frankfurt Stock Exchange)",
       "name_de": "Frankfurter Wertpapierbörse (Börse)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg/330px-Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankfurt Stock Exchange in City district."
     },
     {
       "id": "f_29",
@@ -9543,7 +9700,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Euro-Skulptur (Euro Sculpture)",
       "name_de": "Euro-Skulptur (Willy-Brandt-Platz)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg/330px-Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Euro Sculpture in City district."
     },
     {
       "id": "f_30",
@@ -9582,7 +9740,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Europaviertel & Skyline Plaza",
       "name_de": "Europaviertel & Skyline Plaza",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Europaviertel & Skyline Plaza in City district."
     },
     {
       "id": "f_31",
@@ -9621,7 +9780,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Grüneburgpark (Grüneburgpark & Botanical Garden)",
       "name_de": "Grüneburgpark",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/FFM_Grueneburg_1864_Delkeskamp.jpg/330px-FFM_Grueneburg_1864_Delkeskamp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Grüneburgpark & Botanical Garden in City district."
     },
     {
       "id": "f_32",
@@ -9660,7 +9820,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hafenpark & Ostpark",
       "name_de": "Hafenpark & Ostpark",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hafenpark & Ostpark in City district."
     },
     {
       "id": "f_33",
@@ -9699,7 +9860,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Europäische Zentralbank (European Central Bank Headquarters)",
       "name_de": "Europäische Zentralbank (ECB / EZB)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/330px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "European Central Bank Headquarters in City district."
     },
     {
       "id": "f_34",
@@ -9738,7 +9900,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Jüdisches Museum Frankfurt (Jewish Museum Frankfurt)",
       "name_de": "Jüdisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Jewish Museum Frankfurt in City district."
     },
     {
       "id": "f_35",
@@ -9777,7 +9940,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum Judengasse",
       "name_de": "Museum Judengasse",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum Judengasse in City district."
     },
     {
       "id": "f_36",
@@ -9816,7 +9980,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Eschenheimer Turm (Eschenheim Tower)",
       "name_de": "Eschenheimer Turm",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Frankfurt_Nextower.20130514.jpg/330px-Frankfurt_Nextower.20130514.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Eschenheim Tower in City district."
     },
     {
       "id": "f_37",
@@ -9855,7 +10020,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Café Hauptwache",
       "name_de": "Café Hauptwache",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Café Hauptwache in City district."
     },
     {
       "id": "f_38",
@@ -9894,7 +10060,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Wacker's Kaffee",
       "name_de": "Wacker's Kaffee",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Wacker's Kaffee in City district."
     },
     {
       "id": "f_39",
@@ -9933,7 +10100,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Lohrberg (Lohrberg Park)",
       "name_de": "Lohrberg (Lohrpark)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Lohrberg Park in City district."
     },
     {
       "id": "f_40",
@@ -9972,7 +10140,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Nizza Gärten (Nizza Gardens)",
       "name_de": "Nizza Gärten",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Nizza Gardens in City district."
     },
     {
       "id": "f_41",
@@ -10011,7 +10180,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Rebstockbad (Rebstockbad Water Park)",
       "name_de": "Rebstockbad",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rebstockbad_Innenansicht.jpg/330px-Rebstockbad_Innenansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Rebstockbad Water Park in City district."
     },
     {
       "id": "f_42",
@@ -10050,7 +10220,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Experiminta ScienceCenter",
       "name_de": "Experiminta ScienceCenter",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Experiminta ScienceCenter in City district."
     },
     {
       "id": "f_43",
@@ -10089,7 +10260,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Bibelhaus Erlebnis Museum (Bibelhaus Experience Museum)",
       "name_de": "Bibelhaus Erlebnis Museum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bibelhaus Experience Museum in City district."
     },
     {
       "id": "f_44",
@@ -10128,7 +10300,8 @@ const candidateSpotsDatabase = {
       "name_fr": "DialogMuseum",
       "name_de": "DialogMuseum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "DialogMuseum in City district."
     },
     {
       "id": "f_45",
@@ -10167,7 +10340,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Historische Straßenbahn Frankfurt (Ebbelwei-Express Tram)",
       "name_de": "Historische Straßenbahn Frankfurt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Ebbelwei-Express Tram in City district."
     },
     {
       "id": "f_46",
@@ -10206,7 +10380,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Rüdesheim am Rhein & Drosselgasse (Rüdesheim Rhine Valley)",
       "name_de": "Rüdesheim am Rhein & Drosselgasse",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Rüdesheim Rhine Valley in Suburban district."
     },
     {
       "id": "f_47",
@@ -10245,7 +10420,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Burg Eltz (Eltz Castle)",
       "name_de": "Burg Eltz",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg/330px-Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Eltz Castle in Suburban district."
     },
     {
       "id": "f_48",
@@ -10284,7 +10460,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Mainz: Dom St. Martin & Gutenberg-Museum (Mainz Cathedral & Museum)",
       "name_de": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Mainz Cathedral & Museum in Suburban district."
     },
     {
       "id": "f_49",
@@ -10323,7 +10500,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Wiesbaden: Kurhaus & Nerobergbahn (Wiesbaden Kurhaus & Nerobergbahn)",
       "name_de": "Wiesbaden: Kurhaus & Nerobergbahn",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Wiesbaden Kurhaus & Nerobergbahn in Suburban district."
     },
     {
       "id": "f_50",
@@ -10362,7 +10540,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kaiserpfalz Ingelheim (Ingelheim Imperial Palace)",
       "name_de": "Kaiserpfalz Ingelheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/330px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Ingelheim Imperial Palace in Suburban district."
     },
     {
       "id": "f_51",
@@ -10401,7 +10580,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Burg Kronberg & Kronberg im Taunus (Kronberg Castle & Old Town)",
       "name_de": "Burg Kronberg & Kronberg im Taunus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Kronberg Castle & Old Town in Suburban district."
     },
     {
       "id": "f_52",
@@ -10440,7 +10620,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Großer Feldberg (Großer Feldberg Summit)",
       "name_de": "Großer Feldberg (Taunus)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg/330px-Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Großer Feldberg Summit in Suburban district."
     },
     {
       "id": "f_53",
@@ -10479,7 +10660,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Freilichtmuseum Hessenpark (Hessenpark Open-Air Museum)",
       "name_de": "Freilichtmuseum Hessenpark",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hessenpark%2C_Marktplatz.jpg/330px-Hessenpark%2C_Marktplatz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hessenpark Open-Air Museum in Suburban district."
     },
     {
       "id": "f_54",
@@ -10518,7 +10700,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Römerkastell Saalburg (Saalburg Roman Fort)",
       "name_de": "Römerkastell Saalburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg/330px-The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Saalburg Roman Fort in Suburban district."
     },
     {
       "id": "f_55",
@@ -10557,7 +10740,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Bad Homburg: Kurpark & Schloss (Bad Homburg Kurpark & Palace)",
       "name_de": "Bad Homburg: Kurpark & Schloss",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bad Homburg Kurpark & Palace in Suburban district."
     },
     {
       "id": "f_56",
@@ -10596,7 +10780,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Taunus Wunderland (Taunus Wunderland Amusement Park)",
       "name_de": "Taunus Wunderland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Eingang_Taunus_Wunderland_2019.jpg/330px-Eingang_Taunus_Wunderland_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Taunus Wunderland Amusement Park in Suburban district."
     },
     {
       "id": "f_57",
@@ -10635,7 +10820,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Opel-Zoo (Opel-Zoo Kronberg)",
       "name_de": "Opel-Zoo (Kronberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg/330px-Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Opel-Zoo Kronberg in Suburban district."
     },
     {
       "id": "f_58",
@@ -10674,7 +10860,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kloster Eberbach (Eberbach Abbey)",
       "name_de": "Kloster Eberbach",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/330px-Kloster_Eberbach_fg01.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Eberbach Abbey in Suburban district."
     },
     {
       "id": "f_59",
@@ -10713,7 +10900,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Darmstadt: Mathildenhöhe (Darmstadt Mathildenhöhe)",
       "name_de": "Darmstadt: Mathildenhöhe (UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Darmstadt Mathildenhöhe in Suburban district."
     },
     {
       "id": "f_60",
@@ -10752,7 +10940,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Burg Frankenstein (Frankenstein Castle)",
       "name_de": "Burg Frankenstein",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/330px-InnerCastle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Frankenstein Castle in Suburban district."
     },
     {
       "id": "f_61",
@@ -10791,7 +10980,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Wertheim Village (Wertheim Village Outlet)",
       "name_de": "Wertheim Village",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg/330px-Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Wertheim Village Outlet in Suburban district."
     }
   ],
   "Hamburg, Germany": [
@@ -10832,7 +11022,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Miniatur Wunderland",
       "name_de": "Miniatur Wunderland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Miniatur Wunderland in City district."
     },
     {
       "id": "h_2",
@@ -10871,7 +11062,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
       "name_de": "Elbphilharmonie Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elbphilharmonie%2C_Hamburg.jpg/330px-Elbphilharmonie%2C_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Elbphilharmonie Concert Hall in City district."
     },
     {
       "id": "h_3",
@@ -10910,7 +11102,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Speicherstadt (Speicherstadt Warehouse District)",
       "name_de": "Speicherstadt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Wasserschloss_at_sunset.jpg/330px-The_Wasserschloss_at_sunset.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Speicherstadt Warehouse District in City district."
     },
     {
       "id": "h_4",
@@ -10949,7 +11142,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
       "name_de": "Kontorhausviertel & Chilehaus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Chilehaus & Kontorhaus District in City district."
     },
     {
       "id": "h_5",
@@ -10988,7 +11182,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
       "name_de": "Hamburger Rathaus & Rathausmarkt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hamburg City Hall in City district."
     },
     {
       "id": "h_6",
@@ -11027,7 +11222,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hauptkirche St. Michaelis (St. Michael's Church)",
       "name_de": "Hauptkirche St. Michaelis (Michel)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "St. Michael's Church in City district."
     },
     {
       "id": "h_7",
@@ -11066,7 +11262,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
       "name_de": "Hamburger Hafen & Landungsbrücken",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Hamburg Harbor & St. Pauli Piers in City district."
     },
     {
       "id": "h_8",
@@ -11105,7 +11302,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Alter Elbtunnel (Old Elbe Tunnel)",
       "name_de": "Alter Elbtunnel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg/330px-Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Old Elbe Tunnel in City district."
     },
     {
       "id": "h_9",
@@ -11144,7 +11342,8 @@ const candidateSpotsDatabase = {
       "name_fr": "HafenCity (HafenCity District)",
       "name_de": "HafenCity",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HafenCity_in_HH.svg/langde-330px-HafenCity_in_HH.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "HafenCity District in City district."
     },
     {
       "id": "h_10",
@@ -11183,7 +11382,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Binnenalster & Außenalster (Alster Lakes)",
       "name_de": "Binnenalster & Außenalster",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Alster Lakes in City district."
     },
     {
       "id": "h_11",
@@ -11222,7 +11422,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hamburger Kunsthalle (Hamburg Art Museum)",
       "name_de": "Hamburger Kunsthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/330px-Hamburger_Kunsthalle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hamburg Art Museum in City district."
     },
     {
       "id": "h_12",
@@ -11261,7 +11462,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Internationales Maritimes Museum Hamburg (International Maritime Museum)",
       "name_de": "Internationales Maritimes Museum Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hamburg-090613-0286-DSC_8383.jpg/330px-Hamburg-090613-0286-DSC_8383.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "International Maritime Museum in City district."
     },
     {
       "id": "h_13",
@@ -11300,7 +11502,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
       "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg/330px-Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Museum of Arts and Crafts Hamburg in City district."
     },
     {
       "id": "h_14",
@@ -11339,7 +11542,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
       "name_de": "Deichtorhallen Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_der_Deichtorhallen.png/330px-Logo_der_Deichtorhallen.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Deichtorhallen Contemporary Art in City district."
     },
     {
       "id": "h_15",
@@ -11378,7 +11582,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Cap San Diego (Cap San Diego Museum Ship)",
       "name_de": "Cap San Diego",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cap_San_Diego_07.jpg/330px-Cap_San_Diego_07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Cap San Diego Museum Ship in City district."
     },
     {
       "id": "h_16",
@@ -11417,7 +11622,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
       "name_de": "Rickmer Rickmers",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg/330px-Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Rickmer Rickmers Sailing Ship in City district."
     },
     {
       "id": "h_17",
@@ -11456,7 +11662,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Submarine Museum U-434",
       "name_de": "Submarine Museum U-434",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Submarine Museum U-434 in City district."
     },
     {
       "id": "h_18",
@@ -11495,7 +11702,8 @@ const candidateSpotsDatabase = {
       "name_fr": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
       "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "St. Nikolai Memorial Spire in City district."
     },
     {
       "id": "h_19",
@@ -11534,7 +11742,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Planten un Blomen (Planten un Blomen Park)",
       "name_de": "Planten un Blomen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hh-dammtordamm_fig.jpg/330px-Hh-dammtordamm_fig.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Planten un Blomen Park in City district."
     },
     {
       "id": "h_20",
@@ -11573,7 +11782,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
       "name_de": "Tierpark Hagenbeck & Tropen-Aquarium",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Tierpark Hagenbeck in City district."
     },
     {
       "id": "h_21",
@@ -11612,7 +11822,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Fischmarkt (Altona Fish Market)",
       "name_de": "Fischmarkt (Altona)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Altona Fish Market in City district."
     },
     {
       "id": "h_22",
@@ -11651,7 +11862,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
       "name_de": "Reeperbahn & St. Pauli",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Reeperbahn Nightlife District in City district."
     },
     {
       "id": "h_23",
@@ -11690,7 +11902,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
       "name_de": "Beatles-Platz & Indra Club / Kaiserkeller",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Beatles-Platz & Indra / Kaiserkeller in City district."
     },
     {
       "id": "h_24",
@@ -11729,7 +11942,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Jungfernstieg (Jungfernstieg Boulevard)",
       "name_de": "Jungfernstieg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jungfernstieg.wmt.jpg/330px-Jungfernstieg.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Jungfernstieg Boulevard in City district."
     },
     {
       "id": "h_25",
@@ -11768,7 +11982,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Alsterarkaden (Alster Arcades)",
       "name_de": "Alsterarkaden",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg/330px-The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Alster Arcades in City district."
     },
     {
       "id": "h_26",
@@ -11807,7 +12022,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
       "name_de": "Mönckebergstraße & Spitalerstraße",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Mönckebergstraße Shopping Street in City district."
     },
     {
       "id": "h_27",
@@ -11846,7 +12062,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
       "name_de": "Neuer Wall & Große Bleichen",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Neuer Wall Luxury Shopping in City district."
     },
     {
       "id": "h_28",
@@ -11885,7 +12102,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
       "name_de": "Hanse-Viertel & Europa Passage",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Europa Passage & Hanse-Viertel in City district."
     },
     {
       "id": "h_29",
@@ -11924,7 +12142,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Sternschanze (Sternschanze Quarter)",
       "name_de": "Sternschanze (Schanzenviertel)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/330px-Hh-schanze-susannen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Sternschanze Quarter in City district."
     },
     {
       "id": "h_30",
@@ -11963,7 +12182,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Karolinenviertel (Karolinenviertel District)",
       "name_de": "Karolinenviertel (Karoviertel)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Karolinenviertel District in City district."
     },
     {
       "id": "h_31",
@@ -12002,7 +12222,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museum der Natur - Hamburg (Museum of Nature - Zoology)",
       "name_de": "Museum der Natur - Hamburg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Museum of Nature - Zoology in City district."
     },
     {
       "id": "h_32",
@@ -12041,7 +12262,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Hamburg Dungeon",
       "name_de": "Hamburg Dungeon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/330px-HamburgDungeon.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Hamburg Dungeon in City district."
     },
     {
       "id": "h_33",
@@ -12080,7 +12302,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Dialog im Dunkeln (Dialog in the Dark)",
       "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Dialog in the Dark in City district."
     },
     {
       "id": "h_34",
@@ -12119,7 +12342,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
       "name_de": "Chocoversum by Hachez",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Chocoversum Chocolate Museum in City district."
     },
     {
       "id": "h_35",
@@ -12158,7 +12382,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
       "name_de": "Spicy's Gewürzmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gew%C3%BCrzmuseum_Hamburg_01.jpg/330px-Gew%C3%BCrzmuseum_Hamburg_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Spicy's Spice Museum in City district."
     },
     {
       "id": "h_36",
@@ -12197,7 +12422,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Zollmuseum (German Customs Museum)",
       "name_de": "Zollmuseum (Deutsches Zollmuseum)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "German Customs Museum in City district."
     },
     {
       "id": "h_37",
@@ -12236,7 +12462,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
       "name_de": "Krameramtsstuben",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/330px-Krameramtsstuben.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Krameramtsstuben Guild Houses in City district."
     },
     {
       "id": "h_38",
@@ -12275,7 +12502,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
       "name_de": "Fischbrötchen-Buden an den Landungsbrücken",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Landungsbrücken Fish Roll Stalls in City district."
     },
     {
       "id": "h_39",
@@ -12314,7 +12542,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Old Commercial Room (Old Commercial Room Restaurant)",
       "name_de": "Old Commercial Room",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_Commercial_Room_Hamburg.jpg/330px-Old_Commercial_Room_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Old Commercial Room Restaurant in City district."
     },
     {
       "id": "h_40",
@@ -12353,7 +12582,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Café Paris (Café Paris Hamburg)",
       "name_de": "Café Paris (Hamburg)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Café Paris Hamburg in City district."
     },
     {
       "id": "h_41",
@@ -12392,7 +12622,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
       "name_de": "Rive Fisch & Fischereihafen Restaurant",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Fischereihafen Restaurant in City district."
     },
     {
       "id": "h_42",
@@ -12431,7 +12662,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
       "name_de": "Gröninger Privatbrauerei",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Gröninger Private Brewery in City district."
     },
     {
       "id": "h_43",
@@ -12470,7 +12702,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Elbstrand (Elbstrand Beach Övelgönne)",
       "name_de": "Elbstrand (Övelgönne)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Elbstrand Beach Övelgönne in City district."
     },
     {
       "id": "h_44",
@@ -12509,7 +12742,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
       "name_de": "Museumshafen Övelgönne",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbe.Anleger_Neum%C3%BChlen.wmt.jpg/330px-Elbe.Anleger_Neum%C3%BChlen.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Övelgönne Museum Harbor in City district."
     },
     {
       "id": "h_45",
@@ -12548,7 +12782,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
       "name_de": "Stadtpark Hamburg & Planetarium Hamburg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Stadtpark & Planetarium in City district."
     },
     {
       "id": "h_46",
@@ -12587,7 +12822,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
       "name_de": "Jenischpark & Jenisch Haus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Jenisch Park & House in City district."
     },
     {
       "id": "h_47",
@@ -12626,7 +12862,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
       "name_de": "Energiebunker Wilhelmsburg",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Wilhelmsburg Energy Bunker in City district."
     },
     {
       "id": "h_48",
@@ -12665,7 +12902,8 @@ const candidateSpotsDatabase = {
       "name_fr": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
       "name_de": "HADAG-Hafenfähren (Linie 62)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "HADAG Harbor Ferry Line 62 in City district."
     },
     {
       "id": "h_49",
@@ -12704,7 +12942,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
       "name_de": "Bäderland Holthusenbad",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Holthusenbad Historic Spa in City district."
     },
     {
       "id": "h_50",
@@ -12743,7 +12982,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
       "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Lübeck Old Town & Holsten Gate in Suburban district."
     },
     {
       "id": "h_51",
@@ -12782,7 +13022,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
       "name_de": "Lüneburg: Historische Altstadt",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Lüneburg Old Town & Salt Museum in Suburban district."
     },
     {
       "id": "h_52",
@@ -12821,7 +13062,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schloss Schwerin (Schwerin Castle)",
       "name_de": "Schloss Schwerin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/330px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Schwerin Castle in Suburban district."
     },
     {
       "id": "h_53",
@@ -12860,7 +13102,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Stade & Altes Land (Stade & Altes Land Orchards)",
       "name_de": "Stade & Altes Land",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Stade & Altes Land Orchards in Suburban district."
     },
     {
       "id": "h_54",
@@ -12899,7 +13142,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
       "name_de": "Cuxhaven & Wattenmeer (UNESCO)",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Cuxhaven & Wadden Sea in Suburban district."
     },
     {
       "id": "h_55",
@@ -12938,7 +13182,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Helgoland (Heligoland Island)",
       "name_de": "Helgoland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DEU_Helgoland_COA.svg/langde-330px-DEU_Helgoland_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Heligoland Island in Suburban district."
     },
     {
       "id": "h_56",
@@ -12977,7 +13222,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Bremerhaven: Auswandererhaus & Klimahaus (Bremerhaven Emigration & Climate House)",
       "name_de": "Bremerhaven: Auswandererhaus & Klimahaus",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Bremerhaven Emigration & Climate House in Suburban district."
     },
     {
       "id": "h_57",
@@ -13016,7 +13262,8 @@ const candidateSpotsDatabase = {
       "name_fr": "KZ-Gedenkstätte Neuengamme (Neuengamme Concentration Camp Memorial)",
       "name_de": "KZ-Gedenkstätte Neuengamme",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gestaltung_des_Haeftlingslagers.jpg/330px-Gestaltung_des_Haeftlingslagers.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Neuengamme Concentration Camp Memorial in Suburban district."
     },
     {
       "id": "h_58",
@@ -13055,7 +13302,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Schloss Ahrensburg (Ahrensburg Palace)",
       "name_de": "Schloss Ahrensburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg-msu-1507-.jpg/330px-Schloss_Ahrensburg-msu-1507-.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Ahrensburg Palace in Suburban district."
     },
     {
       "id": "h_59",
@@ -13094,7 +13342,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Wildpark Schwarze Berge (Black Mountains Wildlife Park)",
       "name_de": "Wildpark Schwarze Berge",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eingang_Wildpark_Schwarze_Berge.jpg/330px-Eingang_Wildpark_Schwarze_Berge.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Black Mountains Wildlife Park in Suburban district."
     },
     {
       "id": "h_60",
@@ -13133,7 +13382,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Heide Park Resort",
       "name_de": "Heide Park Resort",
       "image": "https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/Heide-Park%28fern%29.tif/lossy-page1-330px-Heide-Park%28fern%29.tif.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Heide Park Resort in Suburban district."
     },
     {
       "id": "h_61",
@@ -13172,7 +13422,8 @@ const candidateSpotsDatabase = {
       "name_fr": "Designer Outlet Neumünster / Soltau (Neumünster Designer Outlet)",
       "name_de": "Designer Outlet Neumünster / Soltau",
       "image": "",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Neumünster Designer Outlet in Suburban district."
     }
   ],
   "Luxembourg City, Luxembourg": [
@@ -18272,7 +18523,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "📸 Walk past the grand front canal to photograph swans gliding with the palace in the background. Don't miss King Ludwig I's Gallery of Beauties inside."
+      "tip": "📸 Walk past the grand front canal to photograph swans gliding with the palace in the background. Don't miss King Ludwig I's Gallery of Beauties inside.",
+      "desc_de": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain.",
+      "desc_fr": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain.",
+      "desc_zh": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain."
     },
     {
       "id": "m_5",
@@ -18317,7 +18571,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🏄 Watch urban surfers ride the permanent standing wave on the Eisbach river at the southern tip near Haus der Kunst day or night!"
+      "tip": "🏄 Watch urban surfers ride the permanent standing wave on the Eisbach river at the southern tip near Haus der Kunst day or night!",
+      "desc_de": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_fr": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_zh": "World's largest museum of science and technology located on an island in the Isar."
     },
     {
       "id": "m_6",
@@ -18362,7 +18619,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🍽️ Buy fresh pretzels, Obatzda (Bavarian spiced cheese spread), and Weisswurst sausages from stalls, then sit at the central beer garden under the Maypole!"
+      "tip": "🍽️ Buy fresh pretzels, Obatzda (Bavarian spiced cheese spread), and Weisswurst sausages from stalls, then sit at the central beer garden under the Maypole!",
+      "desc_fr": "Galerie de classe mondiale abritant des chefs-d'œuvre de la peinture européenne du XIVe au XVIIIe siècle.",
+      "desc_de": "Weltberühmte Gemäldegalerie mit Meisterwerken europäischer Malerei vom 14. bis zum 18. Jahrhundert.",
+      "desc_zh": "World-class gallery housing Old Master paintings from Da Vinci to Dürer & Rubens."
     },
     {
       "id": "m_7",
@@ -18407,7 +18667,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🍺 Grab an unreserved wooden table in the ground floor 'Schwammerl' hall; order a 1-liter Maß of Hofbräu Original beer and pork knuckle (Schweinshaxe)!"
+      "tip": "🍺 Grab an unreserved wooden table in the ground floor 'Schwammerl' hall; order a 1-liter Maß of Hofbräu Original beer and pork knuckle (Schweinshaxe)!",
+      "desc_de": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner).",
+      "desc_fr": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner).",
+      "desc_zh": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner)."
     },
     {
       "id": "m_8",
@@ -18452,7 +18715,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🎟️ Prioritize the Mining Exhibit (underground tunnels) and High Voltage Demonstration (lightning shows at 11:00 AM & 2:00 PM). Plan at least 4 hours!"
+      "tip": "🎟️ Prioritize the Mining Exhibit (underground tunnels) and High Voltage Demonstration (lightning shows at 11:00 AM & 2:00 PM). Plan at least 4 hours!",
+      "desc_de": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper.",
+      "desc_fr": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper.",
+      "desc_zh": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper."
     },
     {
       "id": "m_9",
@@ -18496,7 +18762,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 7 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_fr": "Musée à la façade céramique colorée abritant des œuvres d'Andy Warhol et Cy Twombly.",
+      "desc_de": "Museum mit verkleideter Keramikfassade und Werken von Andy Warhol und Cy Twombly.",
+      "desc_zh": "Colorful ceramic facade museum housing Andy Warhol & Cy Twombly masterworks."
     },
     {
       "id": "m_10",
@@ -18540,7 +18809,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 10 €",
       "rain": true,
       "shopping": true,
-      "free": false
+      "free": false,
+      "desc_fr": "Musée dans une villa florentine célèbre pour sa collection du mouvement Le Cavalier Bleu.",
+      "desc_de": "Museum in einer Florentiner Villa, weltweit bekannt für die Kunstsammlung des Blauen Reiters.",
+      "desc_zh": "Florentine villa museum world-famous for Blue Rider (Der Blaue Reiter) & Kandinsky art."
     },
     {
       "id": "m_11",
@@ -18584,7 +18856,10 @@ const candidateSpotsDatabase = {
       "price_de": "Welt kostenlos (Museum: 10 €)",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles.",
+      "desc_fr": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles.",
+      "desc_zh": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles."
     },
     {
       "id": "m_12",
@@ -18628,7 +18903,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Vaste parc urbain célèbre pour les surfeurs de la rivière Eisbach et sa tour chinoise.",
+      "desc_de": "Riesiger Stadtpark mit der berühmten Eisbach-Flusswelle und dem Biergarten am Chinesischen Turm.",
+      "desc_zh": "Vast urban park featuring Eisbach river surfers & Chinese Tower beer garden."
     },
     {
       "id": "m_13",
@@ -18672,7 +18950,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_de": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden.",
+      "desc_fr": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden.",
+      "desc_zh": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden."
     },
     {
       "id": "m_14",
@@ -18716,7 +18997,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt frei (Maß Bier: ca. 10 €)",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs.",
+      "desc_fr": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs.",
+      "desc_zh": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs."
     },
     {
       "id": "m_15",
@@ -18761,7 +19045,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "📸 Climb the 306 steep wooden steps of the tower for THE top photospot looking straight down over Marienplatz and the Glockenspiel."
+      "tip": "📸 Climb the 306 steep wooden steps of the tower for THE top photospot looking straight down over Marienplatz and the Glockenspiel.",
+      "desc_de": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden.",
+      "desc_fr": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden.",
+      "desc_zh": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden."
     },
     {
       "id": "m_16",
@@ -18805,7 +19092,10 @@ const candidateSpotsDatabase = {
       "price_de": "Park kostenlos (Turm: 13 €)",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Parc olympique de 1972 à l'architecture emblématique avec toits en tôle tendue et tour panoramique.",
+      "desc_de": "Olympiapark von 1972 mit berühmter Zeltdacharchitektur und dem 291 m hohen Olympiaturm.",
+      "desc_zh": "1972 Olympic park with iconic tent roof architecture & 291m observation tower."
     },
     {
       "id": "m_17",
@@ -18849,7 +19139,10 @@ const candidateSpotsDatabase = {
       "price_de": "Tour & Museum: 25 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Futuristic color-changing stadium home to FC Bayern Munich with club museum.",
+      "desc_fr": "Futuristic color-changing stadium home to FC Bayern Munich with club museum.",
+      "desc_zh": "Futuristic color-changing stadium home to FC Bayern Munich with club museum."
     },
     {
       "id": "m_18",
@@ -18893,7 +19186,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 18 €",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve.",
+      "desc_fr": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve.",
+      "desc_zh": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve."
     },
     {
       "id": "m_19",
@@ -18937,7 +19233,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 20 €",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Aquarium couvert dans le parc olympique présentant des créatures marines et un tunnel sous-marin.",
+      "desc_de": "Großaquarium im Olympiapark mit tropischen Meeresbewohnern und Unterwassertunnel.",
+      "desc_zh": "Indoor aquarium in Olympiapark featuring tropical sharks, rays & ocean tunnel."
     },
     {
       "id": "m_20",
@@ -18981,7 +19280,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kirche gratis (Turm: 5 €)",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views.",
+      "desc_fr": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views.",
+      "desc_zh": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views."
     },
     {
       "id": "m_21",
@@ -19025,7 +19327,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses.",
+      "desc_fr": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses.",
+      "desc_zh": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses."
     },
     {
       "id": "m_22",
@@ -19069,7 +19374,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Striking yellow Italian High Baroque church facing Odeonsplatz.",
+      "desc_fr": "Striking yellow Italian High Baroque church facing Odeonsplatz.",
+      "desc_zh": "Striking yellow Italian High Baroque church facing Odeonsplatz."
     },
     {
       "id": "m_23",
@@ -19113,7 +19421,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_fr": "Place de style italien abritant le monument de la Feldherrnhalle et l'église des Théatins.",
+      "desc_de": "Italienisch geprägter Platz mit der Feldherrnhalle und der imposanten Theatinerkirche.",
+      "desc_zh": "Italianate plaza featuring Feldherrnhalle monument & Hofgarten palace gardens."
     },
     {
       "id": "m_24",
@@ -19157,7 +19468,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_fr": "Principale rue commerçante piétonne de Munich s'étendant de Karlsplatz à Marienplatz.",
+      "desc_de": "Münchens zentrale Fußgängerzone und Einkaufsmeile vom Karlsplatz zum Marienplatz.",
+      "desc_zh": "Munich's primary pedestrian shopping boulevard stretching between Karlsplatz & Marienplatz."
     },
     {
       "id": "m_25",
@@ -19201,7 +19515,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_de": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum.",
+      "desc_fr": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum.",
+      "desc_zh": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum."
     },
     {
       "id": "m_26",
@@ -19245,7 +19562,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": true,
       "shopping": true,
-      "free": true
+      "free": true,
+      "desc_de": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants.",
+      "desc_fr": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants.",
+      "desc_zh": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants."
     },
     {
       "id": "m_27",
@@ -19289,7 +19609,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 5,50 €",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses.",
+      "desc_fr": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses.",
+      "desc_zh": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses."
     },
     {
       "id": "m_28",
@@ -19333,7 +19656,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt frei",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Modern documentation center on site of Nazi party headquarters providing free historical education.",
+      "desc_fr": "Modern documentation center on site of Nazi party headquarters providing free historical education.",
+      "desc_zh": "Modern documentation center on site of Nazi party headquarters providing free historical education."
     },
     {
       "id": "m_29",
@@ -19377,7 +19703,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 7 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes.",
+      "desc_fr": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes.",
+      "desc_zh": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes."
     },
     {
       "id": "m_30",
@@ -19421,7 +19750,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 7 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri.",
+      "desc_fr": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri.",
+      "desc_zh": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri."
     },
     {
       "id": "m_31",
@@ -19465,7 +19797,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 3,50 € (Sonntags nur 1 €)",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain.",
+      "desc_fr": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain.",
+      "desc_zh": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain."
     },
     {
       "id": "m_32",
@@ -19509,7 +19844,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt inkl. Probe: 7 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting.",
+      "desc_fr": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting.",
+      "desc_zh": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting."
     },
     {
       "id": "m_33",
@@ -19553,7 +19891,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 6 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
+      "desc_fr": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
+      "desc_zh": "Charming toy museum inside the Gothic tower of the Old Town Hall."
     },
     {
       "id": "m_34",
@@ -19597,7 +19938,10 @@ const candidateSpotsDatabase = {
       "price_de": "Wiese kostenlos (Statue: 5 €)",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
+      "desc_fr": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
+      "desc_zh": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue."
     },
     {
       "id": "m_35",
@@ -19642,7 +19986,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🛷 In summer, kids splash in the giant fountain jets; in winter (Nov–Jan), the entire square turns into an open-air ice skating rink!"
+      "tip": "🛷 In summer, kids splash in the giant fountain jets; in winter (Nov–Jan), the entire square turns into an open-air ice skating rink!",
+      "desc_de": "Historic 14th-century Gothic city gates bounding Munich's inner old town.",
+      "desc_fr": "Historic 14th-century Gothic city gates bounding Munich's inner old town.",
+      "desc_zh": "Historic 14th-century Gothic city gates bounding Munich's inner old town."
     },
     {
       "id": "m_36",
@@ -19687,7 +20034,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🧺 Pack a blanket, snacks, and cold beers to join locals relaxing on the natural gravel banks along the Isar river for a sunny afternoon."
+      "tip": "🧺 Pack a blanket, snacks, and cold beers to join locals relaxing on the natural gravel banks along the Isar river for a sunny afternoon.",
+      "desc_de": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs.",
+      "desc_fr": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs.",
+      "desc_zh": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs."
     },
     {
       "id": "m_37",
@@ -19732,7 +20082,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🛍️ Head to the ground floor coffee counter where baristas weigh freshly roasted coffee beans in antique porcelain scales for premium souvenirs."
+      "tip": "🛍️ Head to the ground floor coffee counter where baristas weigh freshly roasted coffee beans in antique porcelain scales for premium souvenirs.",
+      "desc_de": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen.",
+      "desc_fr": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen.",
+      "desc_zh": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen."
     },
     {
       "id": "m_38",
@@ -19777,7 +20130,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🍽️ Pair Schneider Weisse TAP7 beer with a traditional warm Weisswurst (white sausage) served in hot water with sweet Bavarian mustard and pretzels before 12 PM!"
+      "tip": "🍽️ Pair Schneider Weisse TAP7 beer with a traditional warm Weisswurst (white sausage) served in hot water with sweet Bavarian mustard and pretzels before 12 PM!",
+      "desc_de": "Historisches Brauhaus, weltweit bekannt für Schneider Weisse Weißbier und bayerische Spezialitäten.",
+      "desc_fr": "Taverne de brasserie historique mondialement connue pour sa bière Schneider Weisse et sa cuisine bavaroise.",
+      "desc_zh": "Historic brewery tavern world-renowned for Schneider Weisse wheat beer & traditional cuisine."
     },
     {
       "id": "m_39",
@@ -19822,7 +20178,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🍽️ Order hot piping-hot 'Schmalznudel' (traditional Bavarian lard-fried doughnut) straight out of the bubbling oil pan with a warm Milchkaffee!"
+      "tip": "🍽️ Order hot piping-hot 'Schmalznudel' (traditional Bavarian lard-fried doughnut) straight out of the bubbling oil pan with a warm Milchkaffee!",
+      "desc_de": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973.",
+      "desc_fr": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973.",
+      "desc_zh": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973."
     },
     {
       "id": "m_40",
@@ -19867,7 +20226,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🍽️ Sit under the glass palm atrium to sample their signature 'Luitpold-Torte' (layered dark chocolate & marzipan cake) with freshly brewed espresso."
+      "tip": "🍽️ Sit under the glass palm atrium to sample their signature 'Luitpold-Torte' (layered dark chocolate & marzipan cake) with freshly brewed espresso.",
+      "desc_de": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium.",
+      "desc_fr": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium.",
+      "desc_zh": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium."
     },
     {
       "id": "m_41",
@@ -19911,7 +20273,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 8 €",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls.",
+      "desc_fr": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls.",
+      "desc_zh": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls."
     },
     {
       "id": "m_42",
@@ -19955,7 +20320,10 @@ const candidateSpotsDatabase = {
       "price_de": "Kostenlos",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Weitläufiger Stadtpark mit authentischem Japanischem Garten, Ostasien-Ensemble und Biergarten.",
+      "desc_fr": "Vaste parc urbain comprenant des jardins asiatiques authentiques, un jardin japonais et un pavillon chinois.",
+      "desc_zh": "Sprawling park featuring authentic Japanese garden, Chinese garden & Thai Buddha Sala."
     },
     {
       "id": "m_43",
@@ -19999,7 +20367,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt frei",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure.",
+      "desc_fr": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure.",
+      "desc_zh": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure."
     },
     {
       "id": "m_44",
@@ -20044,7 +20415,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "👙 Swim under soaring neo-baroque stucco ceilings in the 30°C main pool or relax in the Roman-Irish steam baths (swimming caps not required)."
+      "tip": "👙 Swim under soaring neo-baroque stucco ceilings in the 30°C main pool or relax in the Roman-Irish steam baths (swimming caps not required).",
+      "desc_de": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas.",
+      "desc_fr": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas.",
+      "desc_zh": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas."
     },
     {
       "id": "m_45",
@@ -20089,7 +20463,10 @@ const candidateSpotsDatabase = {
       "shopping": false,
       "free": true,
       "tip": " Ride the 78-meter 'Umadum' giant Ferris wheel for clear views extending to the Bavarian Alps, then check out the rooftop urban sheep farm!",
-      "name_de": "Werksviertel-Mitte & Umadum Ferris Wheel"
+      "name_de": "Werksviertel-Mitte & Umadum Ferris Wheel",
+      "desc_de": "Trendiges Werksviertel mit Street-Art, Gastronomie, Eventlocations und dem Umadum-Riesenrad.",
+      "desc_fr": "Quartier industriel branché reconverti avec de l'art urbain, de la gastronomie et la grande roue Umadum.",
+      "desc_zh": "Trendy converted industrial district featuring street art, container bars & world's largest mobile Ferris wheel."
     },
     {
       "id": "m_46",
@@ -20134,7 +20511,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🎟️ Book interior castle tickets on the official website 3-4 weeks in advance! Walk 15 minutes beyond Marienbrücke bridge for uncrowded postcard views."
+      "tip": "🎟️ Book interior castle tickets on the official website 3-4 weeks in advance! Walk 15 minutes beyond Marienbrücke bridge for uncrowded postcard views.",
+      "desc_de": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
+      "desc_fr": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
+      "desc_zh": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps."
     },
     {
       "id": "m_47",
@@ -20179,7 +20559,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "⛪ Free entrance to admire the world-class Rococo ceiling frescos. Respectful quiet is required; avoid visiting during active Sunday mass services."
+      "tip": "⛪ Free entrance to admire the world-class Rococo ceiling frescos. Respectful quiet is required; avoid visiting during active Sunday mass services.",
+      "desc_de": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows.",
+      "desc_fr": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows.",
+      "desc_zh": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows."
     },
     {
       "id": "m_48",
@@ -20223,7 +20606,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt frei",
       "rain": true,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933).",
+      "desc_fr": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933).",
+      "desc_zh": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933)."
     },
     {
       "id": "m_49",
@@ -20267,7 +20653,10 @@ const candidateSpotsDatabase = {
       "price_de": "Park kostenlos (Schloss: 10 €)",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens.",
+      "desc_fr": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens.",
+      "desc_zh": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens."
     },
     {
       "id": "m_50",
@@ -20311,7 +20700,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 8 €",
       "rain": true,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets.",
+      "desc_fr": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets.",
+      "desc_zh": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets."
     },
     {
       "id": "m_51",
@@ -20356,7 +20748,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🚆 Take the S6 train from Munich Central (30 min) directly to Starnberg station on the lake shore. Rent an electric boat or board the passenger cruise!"
+      "tip": "🚆 Take the S6 train from Munich Central (30 min) directly to Starnberg station on the lake shore. Rent an electric boat or board the passenger cruise!",
+      "desc_de": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island.",
+      "desc_fr": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island.",
+      "desc_zh": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island."
     },
     {
       "id": "m_52",
@@ -20400,7 +20795,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt frei",
       "rain": false,
       "shopping": false,
-      "free": true
+      "free": true,
+      "desc_de": "Malerischer See und Benediktinerkloster auf dem Heiligen Berg mit berühmter Klosterbrauerei.",
+      "desc_fr": "Lac pittoresque et abbaye bénédictine sacrée réputée pour sa brasserie monastique et sa vue panoramique.",
+      "desc_zh": "Scenic lake & sacred hilltop Benedictine monastery famous for dark Doppelbock beer."
     },
     {
       "id": "m_53",
@@ -20445,7 +20843,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "⛲ Watch the 25-meter golden Flora fountain shoot water into the air directly in front of the palace every hour on the hour!"
+      "tip": "⛲ Watch the 25-meter golden Flora fountain shoot water into the air directly in front of the palace every hour on the hour!",
+      "desc_de": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto.",
+      "desc_fr": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto.",
+      "desc_zh": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto."
     },
     {
       "id": "m_54",
@@ -20490,7 +20891,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🛍️ Visit the monastery shop to sample authentic 'Ettaler Klosterlikör' distilled by monks using 50 secret alpine herbs since medieval times."
+      "tip": "🛍️ Visit the monastery shop to sample authentic 'Ettaler Klosterlikör' distilled by monks using 50 secret alpine herbs since medieval times.",
+      "desc_de": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making.",
+      "desc_fr": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making.",
+      "desc_zh": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making."
     },
     {
       "id": "m_55",
@@ -20534,7 +20938,10 @@ const candidateSpotsDatabase = {
       "price_de": "Eintritt: 7,50 €",
       "rain": false,
       "shopping": false,
-      "free": false
+      "free": false,
+      "desc_de": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls.",
+      "desc_fr": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls.",
+      "desc_zh": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls."
     },
     {
       "id": "m_56",
@@ -20579,7 +20986,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🎟️ Take the Cable Car Zugspitze up to the 2,962m summit for 4-country views, then descend via the Cogwheel mountain train for a complete loop pass!"
+      "tip": "🎟️ Take the Cable Car Zugspitze up to the 2,962m summit for 4-country views, then descend via the Cogwheel mountain train for a complete loop pass!",
+      "desc_de": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee.",
+      "desc_fr": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee.",
+      "desc_zh": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee."
     },
     {
       "id": "m_57",
@@ -20624,7 +21034,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🍺 Head to Herzogliches Bräustüberl Tegernsee right next to the lake for unpasteurized Tegernseer Hell beer on the outdoor water-view terrace!"
+      "tip": "🍺 Head to Herzogliches Bräustüberl Tegernsee right next to the lake for unpasteurized Tegernseer Hell beer on the outdoor water-view terrace!",
+      "desc_de": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer.",
+      "desc_fr": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer.",
+      "desc_zh": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer."
     },
     {
       "id": "m_58",
@@ -20669,7 +21082,10 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "👙 Bring your swimsuit & flip-flops! Relax in 34°C thermal pools under real palm trees or try the virtual reality water slides at Galaxy Water Park."
+      "tip": "👙 Bring your swimsuit & flip-flops! Relax in 34°C thermal pools under real palm trees or try the virtual reality water slides at Galaxy Water Park.",
+      "desc_de": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world.",
+      "desc_fr": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world.",
+      "desc_zh": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world."
     },
     {
       "id": "m_59",
@@ -20714,7 +21130,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "🍺 Dine at the hilltop Bräustüberl Weihenstephan—the world's oldest active brewery (since AD 1040)—for fresh unfiltered Hefeweissbier and sausage platters!"
+      "tip": "🍺 Dine at the hilltop Bräustüberl Weihenstephan—the world's oldest active brewery (since AD 1040)—for fresh unfiltered Hefeweissbier and sausage platters!",
+      "desc_de": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040).",
+      "desc_fr": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040).",
+      "desc_zh": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040)."
     },
     {
       "id": "m_60",
@@ -20759,7 +21178,10 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🎬 Step inside the real 55-meter submarine film set used in 'Das Boot' or ride on the back of Falkor the Luckdragon from 'The NeverEnding Story'!"
+      "tip": "🎬 Step inside the real 55-meter submarine film set used in 'Das Boot' or ride on the back of Falkor the Luckdragon from 'The NeverEnding Story'!",
+      "desc_de": "Berühmte Filmstadt-Führung mit Original-Kulissen aus Das Boot und interaktiven Stunt-Shows.",
+      "desc_fr": "Visite guidée des studios de cinéma célèbres présentant les décors réels du film Das Boot.",
+      "desc_zh": "Famous film studio tour featuring real props from 'Das Boot', 'The Neverending Story' & 4D cinema."
     }
   ],
   "Nice, France": [
@@ -24967,12 +25389,12 @@ const candidateSpotsDatabase = {
       "desc_zh": "宏伟的 18 世纪巴洛克风格王子主教宫殿，现设有斯特拉斯堡的三座顶级博物馆。",
       "desc_fr": "Magnifique palais baroque des princes-évêques du XVIIIe siècle, abritant aujourd'hui trois des plus grands musées de Strasbourg.",
       "desc_de": "Prächtiger Barockpalast der Fürstbischöfe aus dem 18. Jahrhundert, der heute drei der bedeutendsten Museen Straßburgs beherbergt.",
-      "tip_en": "Walk past the 1572 timber-framed tanners' houses during magic hour when canal reflections and floral window boxes light up.",
-      "tip_ja": "1572年建築の皮なめし職人の木造家屋（Maison des Tanneurs）前。夕暮れ時に運河の水面と窓辺の赤いゼラニウムがライトアップされる景色は必見。",
-      "tip_es": "Contempla las casas de entramado de madera de 1572 al atardecer, cuando las flores de las ventanas se reflejan en el agua.",
-      "tip_zh": "漫步在1572年建成的制皮匠木构木屋旁。黄昏时刻运河水倒映着窗前鲜艳的天竺葵花海，梦幻唯美。",
-      "tip_fr": "Admirez les maisons à colombages du XVIe siècle au bord de l'eau aux dernières lumières du jour.",
-      "tip_de": "Die malerischen Fachwerkhäuser von 1572spiegeln sich am späten Nachmittag wunderschön im Wasser der Ill.",
+      "tip_en": "🎟️ A combined ticket gives access to all 3 museums inside (Archaeology, Decorative Arts, Fine Arts). The best exterior photos are taken from a Batorama boat tour on the Ill River.",
+      "tip_ja": "🎟️ パレ・ロアン内部の考古学・応用美術・絵画の3美術館セット券がお得！イル川を運河船（Batorama）で巡る際、水上からのバロック様式ファサード撮影が最高のフォトロケーションです。",
+      "tip_es": "🎟️ La entrada combinada incluye el acceso a los 3 museos interiores (Arqueología, Artes Decorativas y Bellas Artes). La mejor foto exterior se toma desde el barco Batorama.",
+      "tip_zh": "🎟️ 通票可同时参观宫内三大博物馆（考古、装饰艺术、美术）。拍摄水上巴洛克立面的最佳视角在 Batorama 游船上。",
+      "tip_fr": "🎟️ Le billet combiné donne accès aux 3 musées du palais (Archéologie, Arts décoratifs, Beaux-Arts). La meilleure vue s'admire depuis les bateaux Batorama.",
+      "tip_de": "🎟️ Das Kombiticket gilt für alle 3 Museen im Schloss (Archäologie, Kunstgewerbe, Bildende Kunst). Der beste Blick bietet sich von den Batorama-Booten.",
       "name_en": "Palais Rohan",
       "name_ja": "Palais Rohan（パレ ロアン）",
       "name_es": "Palais Rohan (Palacio Rohan)",
@@ -24988,7 +25410,7 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Walk past the 1572 timber-framed tanners' houses during magic hour when canal reflections and floral window boxes light up."
+      "tip": "🎟️ A combined ticket gives access to all 3 museums inside (Archaeology, Decorative Arts, Fine Arts). The best exterior photos are taken from a Batorama boat tour on the Ill River."
     },
     {
       "id": "st_5",
