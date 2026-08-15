@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v6.0.0] - 2026-08-15 (Batch 1 French Riviera & Riviera Cities Fresh Insider Tips Integration)
+
+### 🥖 Batch 1 Insider Tips Integration (`v6.0.0`)
+- **122 Spots Across Nice, Lyon & Bordeaux**: Populated authentic, 6-language insider tips (`tip_en`, `tip_ja`, `tip_es`, `tip_zh`, `tip_fr`, `tip_de`) for 36 Nice spots, 46 Lyon spots, and 40 Bordeaux spots in `data/cities/nice.json`, `data/cities/lyon.json`, and `data/cities/bordeaux.json`.
+- **Zero-Overlap & Pure Practical Value**: Ensured zero formulaic overlap with spot descriptions, incorporating real local hints (e.g. Fenocchio's 90 ice cream flavors in Nice, Paul Bocuse 3-star VGE soup in Lyon, and CIVB €3 wine glasses in Bordeaux).
+- **Guarded Build Verification**: Passed the 2-Layer Language Compliance Guard across all 458 spots in 13 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=81.0`.
+
+---
+
 ## 🏷️ [v5.1.0] - 2026-08-15 (Multilingual Compliance Guard & Local/Translated Spot Name Standard)
 
 ### 🛡️ Permanent 2-Layer Language Compliance Guard & Spot Naming Unification (`v5.1.0`)
