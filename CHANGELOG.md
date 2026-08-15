@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.1.0] - 2026-08-15 (Toulouse, France City Addition — 39 Curated Spots & 6-Language Translations)
+
+### 🏛️ New City Module: Toulouse ("La Ville Rose")
+- **39 Curated Spots Added**: Built `data/cities/toulouse.json` with 39 spots across Landmarks (10), Museums (8), Cafes & Dining (7), Scenery & Walks (8), and Kids & Family (6).
+- **Strict Kids Curation**: Enforced strict rules for `kids: true` tag (Cité de l'Espace, La Halle de la Machine, L'Envol des Pionniers, Jardin des Plantes playground, Animaparc, and Le Labyrinthe de Merville).
+- **Full 6-Language Support & Tips**: Enriched all 39 Toulouse spots with EN, JA, ES, ZH, FR, DE descriptions & insider tips.
+- **Universal Aggregation Pipeline**: Ran `scripts/auto_wikipedia_image_fetcher.py` to bump database to **410 spots total across 13 Western European cities**.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=70.0`.
+
+---
+
 ## 🏷️ [v4.0.0] - 2026-08-15 (Multilingual 6-Language Release & Zero-Dependency i18n System)
 
 ### 🌐 Multilingual i18n Architecture
