@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v10.0.0] - 2026-08-15 (Berlin Database Expansion & Zero-Overlap Insider Tips)
+
+### 🐻 Berlin Database Expansion & Zero-Overlap Overhaul (`v10.0.0`)
+- **Berlin Comprehensive Database Expansion**: Expanded Berlin (`berlin.json`) to 40 curated spots (including Museum Island UNESCO museums, Reichstag, East Side Gallery, Charlottenburg Palace, Potsdam Sanssouci, Cecilienhof, Glienicke Bridge, Spreewald, and Tropical Islands).
+- **0% Description Overlap & Pure Actionable Tips**: Audited and eliminated 100% of description overlap across 6 languages (`tip_en`, `tip_ja`, `tip_es`, `tip_zh`, `tip_fr`, `tip_de`). Populated practical hints (e.g. Reichstag 2-4 week advance free web registration, Brandenburger Tor blue hour photos, Curry 36 'mit Pommes Mayo' order phrase, Unterwelten 10°C warm jacket warning).
+- **Guarded Build Verification**: Passed the 2-Layer Language Compliance Guard across all 466 spots in 13 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=85.0`.
+
+---
+
 ## 🏷️ [v9.0.0] - 2026-08-15 (Munich 60-Spot Zero-Overlap Insider Tips Refinement)
 
 ### 🍺 Munich Zero-Overlap Insider Tips Overhaul (`v9.0.0`)
