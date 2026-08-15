@@ -757,10 +757,10 @@
       "name_zh": "Sachsenhausen (ザクセンハウゼン地区＆居酒屋街)",
       "name_fr": "Sachsenhausen (Sachsenhausen Cider District)",
       "name_de": "Sachsenhausen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg/330px-Prisoners_in_the_concentration_camp_at_Sachsenhausen%2C_Germany%2C_12-19-1938_-_NARA_-_540175_%28cleanup%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stadtteil_Sachsenhausen.svg/330px-Frankfurt_Stadtteil_Sachsenhausen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Sachsenhausen Cider District in City district.",
-      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Frankfurt_Am_Main-Sachsenhausen-Schweizer_Strasse-Grosse_Rittergasse-Klappergasse-Bembel-20110904.jpg/330px-Frankfurt_Am_Main-Sachsenhausen-Schweizer_Strasse-Grosse_Rittergasse-Klappergasse-Bembel-20110904.jpg",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stadtteil_Sachsenhausen.svg/330px-Frankfurt_Stadtteil_Sachsenhausen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "tip": "🎟️ Order traditional Apfelwein served from an earthenware jug (Bembel) paired with Grüne Soße (green sauce) and Handkäs mit Musik cheese."
     },
     {
@@ -1559,9 +1559,10 @@
       "name_zh": "Lohrberg (ロールベルク展望公園)",
       "name_fr": "Lohrberg (Lohrberg Park)",
       "name_de": "Lohrberg (Lohrpark)",
-      "image": "",
-      "hasWiki": false,
-      "desc_de": "Lohrberg Park in City district."
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lohrberg_3.jpg/330px-Lohrberg_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true,
+      "desc_de": "Lohrberg Park in City district.",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lohrberg_3.jpg/330px-Lohrberg_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "f_40",

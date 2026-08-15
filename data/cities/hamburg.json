@@ -239,9 +239,10 @@
       "name_zh": "Hauptkirche St. Michaelis (聖ミヒャエリス教会)",
       "name_fr": "Hauptkirche St. Michaelis (St. Michael's Church)",
       "name_de": "Hauptkirche St. Michaelis (Michel)",
-      "image": "",
-      "hasWiki": false,
-      "desc_de": "St. Michael's Church in City district."
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/330px-Sankt-Michaelis-Kirche_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true,
+      "desc_de": "St. Michael's Church in City district.",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/330px-Sankt-Michaelis-Kirche_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "h_7",
@@ -839,9 +840,10 @@
       "name_zh": "Fischmarkt (アルトナの魚市場＆フィッシュオークションホール)",
       "name_fr": "Fischmarkt (Altona Fish Market)",
       "name_de": "Fischmarkt (Altona)",
-      "image": "",
-      "hasWiki": false,
-      "desc_de": "Altona Fish Market in City district."
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hamburg.Fischmarkt.wmt.jpg/330px-Hamburg.Fischmarkt.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "hasWiki": true,
+      "desc_de": "Altona Fish Market in City district.",
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hamburg.Fischmarkt.wmt.jpg/330px-Hamburg.Fischmarkt.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "h_22",

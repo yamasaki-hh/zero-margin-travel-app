@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v24.0.0] - 2026-08-15 (Heidelberg 50 Spots City Module Release)
+
+### 🏰 Heidelberg City Module Integration (`v24.0.0`)
+- **New City Integration**: Added complete 50-spot module for **Heidelberg, Germany** (`data/cities/heidelberg.json`), bringing total database coverage to **16 cities and 720 verified spots**.
+- **City Spots (`hd_1`–`hd_35`)**: Heidelberg Castle, Big Vat, Pharmacy Museum, Castle Gardens, Old Bridge, Bridge Monkey, Philosophenweg, Holy Spirit Church, Hauptstraße, Marktplatz, Kornmarkt, Student Prison, University Library, Knight House, Bergbahn, Königstuhl, Fairytale Paradise, Kurpfälzisches Museum, Falconry, Zoo, Botanical Garden, Neckarwiese, Thingstätte, Neckar Cruises, Kulturbrauerei, Vetter 33, Studentenkuß, Café Schafheutle, Sinti & Roma Centre, Prinzhorn Collection, Body Worlds, Exploratorium, Bahnstadt & Halle02, Plöck & Untere Straße.
+- **Suburban & Regional Day Trips (`hd_36`–`hd_50`)**: Schwetzingen Palace & Gardens, Speyer Cathedral (UNESCO), Technik Museum Speyer, Technik Museum Sinsheim (Concorde), Mannheim Baroque Palace, Mannheim Water Tower & Friedrichsplatz, Luisenpark Mannheim, Neckarsteinach Four Castles, Dilsberg Fortress, Hirschhorn Castle, Burg Guttenberg & Raptor Center, Ladenburg & Carl Benz House, Hockenheimring F1 Circuit, Holiday Park Haßloch, Thermen & Badewelt Sinsheim.
+- **Master Rulebook Compliance**: 100% 6-language hybrid naming, strict 0% overlap between `desc` and `tip`, verified decimal coordinates, and 50 live Wikipedia photos (0 fallbacks).
+- **Cache Busters**: Updated version parameters in `index.html` to `v=100.0`.
+
+---
+
 ## 🏷️ [v23.0.0] - 2026-08-15 (Fundamental Disambiguation Architecture & ID-Keyed Guard System)
 
 ### 🛡️ Systemic Fundamental Architecture Upgrade (`v23.0.0`)
