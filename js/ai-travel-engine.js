@@ -18572,8 +18572,8 @@ const candidateSpotsDatabase = {
       "shopping": false,
       "free": false,
       "tip": "🏄 Watch urban surfers ride the permanent standing wave on the Eisbach river at the southern tip near Haus der Kunst day or night!",
-      "desc_de": "World's largest museum of science and technology located on an island in the Isar.",
-      "desc_fr": "World's largest museum of science and technology located on an island in the Isar.",
+      "desc_de": "Das weltweit größte Museum für Wissenschaft und Technik auf der Isarinsel in München.",
+      "desc_fr": "Le plus grand musée de sciences et de technologies au monde, situé sur une île de l'Isar.",
       "desc_zh": "World's largest museum of science and technology located on an island in the Isar."
     },
     {
@@ -19892,8 +19892,8 @@ const candidateSpotsDatabase = {
       "rain": true,
       "shopping": false,
       "free": false,
-      "desc_de": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
-      "desc_fr": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
+      "desc_de": "Nostalgisches Spielzeugmuseum im gotischen Turm des Alten Rathauses am Marienplatz.",
+      "desc_fr": "Charmant musée du jouet situé dans la tour gothique de l'ancien hôtel de ville sur la Marienplatz.",
       "desc_zh": "Charming toy museum inside the Gothic tower of the Old Town Hall."
     },
     {
@@ -19939,8 +19939,8 @@ const candidateSpotsDatabase = {
       "rain": false,
       "shopping": false,
       "free": true,
-      "desc_de": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
-      "desc_fr": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
+      "desc_de": "Das offizielle Festgelände des Oktoberfests mit der riesigen Bavaria-Bronze Statue und Ruhmeshalle.",
+      "desc_fr": "Terrain officiel de l'Oktoberfest dominé par la statue en bronze de la Bavaria et le Hall de la Renommée.",
       "desc_zh": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue."
     },
     {
@@ -20512,8 +20512,8 @@ const candidateSpotsDatabase = {
       "shopping": false,
       "free": true,
       "tip": "🎟️ Book interior castle tickets on the official website 3-4 weeks in advance! Walk 15 minutes beyond Marienbrücke bridge for uncrowded postcard views.",
-      "desc_de": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
-      "desc_fr": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
+      "desc_de": "Weltberühmtes Märchenschloss von König Ludwig II., das als Vorbild für das Disney-Schloss diente.",
+      "desc_fr": "Château féerique du roi Louis II qui a inspiré le château de la Belle au bois dormant de Disney.",
       "desc_zh": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps."
     },
     {
