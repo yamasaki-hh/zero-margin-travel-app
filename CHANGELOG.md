@@ -2,6 +2,15 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.5.0] - 2026-08-15 (Mascot Integration for Step 1, 2, 3 Headers & Emoji Cleanup)
+
+### 🐘 Strawberry Elephant Mascot Companion Enhancement (`v4.5.0`)
+- **Step Header Mascot Icons**: Embedded the Strawberry Elephant mascot icon (`assets/mascot.png`) alongside Step 1, Step 2, and Step 3 headers in `index.html` for a cohesive and friendly step-by-step visual experience.
+- **Header Emoji Removal**: Removed the raw `🍓🐉` text emojis from the top hero mascot badge across all 6 language dictionaries in `js/i18n.js` (`en`, `ja`, `es`, `zh`, `fr`, `de`).
+- **Cache Busters**: Updated version parameters in `index.html` to `v=74.0`.
+
+---
+
 ## 🏷️ [v4.4.0] - 2026-08-15 (100% Genuine Multilingual Spot Descriptions & Price Prefix Localization Fix)
 
 ### 🌐 Spot Descriptions & Titles Real i18n Translation (`v4.4.0`)
