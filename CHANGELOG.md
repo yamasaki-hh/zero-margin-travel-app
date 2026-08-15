@@ -2,6 +2,15 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.8.0] - 2026-08-15 (Mascot Named Aarfantino & Hero Greeting Update)
+
+### 🐘 Mascot Official Naming: Aarfantino (`v4.8.0`)
+- **Hero Badge Greeting**: Updated opening mascot greeting to: `"Hi! I'm your Travel Buddy, Aarfantino — Let's explore together!"` in `index.html`.
+- **Multilingual Naming & Translation**: Updated `hero.badge` in `js/i18n.js` across all 6 supported languages (`en`, `ja`, `es`, `zh`, `fr`, `de`), introducing the character name **Aarfantino** (アールファンティーノ).
+- **Cache Busters**: Updated version parameters in `index.html` to `v=77.0`.
+
+---
+
 ## 🏷️ [v4.7.0] - 2026-08-15 (Tag Quality Purification & Hybrid Free/Paid Price Text Localization)
 
 ### 🧼 Tag Quality Refinement & Pricing Precision (`v4.7.0`)
