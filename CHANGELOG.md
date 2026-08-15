@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v4.9.0] - 2026-08-15 (Paris Fresh Insider Tips & Visual Card Tip Button Integration)
+
+### 💡 Paris Insider Tips & UI Enhancement (`v4.9.0`)
+- **Paris 52-Spot Fresh Insider Tips**: Populated tailored, authentic, 6-language insider tips (`tip_en`, `tip_ja`, `tip_es`, `tip_zh`, `tip_fr`, `tip_de`) for all Paris spots in `data/cities/paris.json` without formulaic overlap with spot descriptions.
+- **Visual Cards Tip Button**: Added `💡 Insider Tip` button to the left of `📍 Maps` button on visual cards in `js/ai-travel-engine.js`.
+- **Smart Omit Modal Logic**: Maintained clean omission of the yellow tip box in the Spot Details Modal when a spot has no special tip, avoiding cold placeholders like 'N/A'.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=78.0`.
+
+---
+
 ## 🏷️ [v4.8.0] - 2026-08-15 (Mascot Named Aarfantino & Hero Greeting Update)
 
 ### 🐘 Mascot Official Naming: Aarfantino (`v4.8.0`)
