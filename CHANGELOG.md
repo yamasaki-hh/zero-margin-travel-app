@@ -2,6 +2,16 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v8.0.0] - 2026-08-15 (Vibrant Red Close Button & All France Spots Zero-Overlap Tip Sanitization)
+
+### 🔴 Red Circle Modal Close Button & France Tips Sanitization (`v8.0.0`)
+- **Vibrant Red Circle `✕` Close Button**: Redesigned `.modal-close` with a high-contrast red circular badge (`linear-gradient(135deg, #EF4444, #DC2626)`), white border, drop shadow, 44px touch hit area, and smooth active/hover micro-animations. Fully accessible on both mobile and PC.
+- **France Spots Zero-Overlap Overhaul (304 Spots)**: Audited and sanitized all 304 spots across the 7 French cities (`paris.json`, `nice.json`, `lyon.json`, `bordeaux.json`, `strasbourg.json`, `toulouse.json`, `marseille.json`). Removed any description overlap and replaced with strictly actionable practical tips (Tickets 🎟️, Photo spots/timing 📸, Dress/Weather warnings 👚, Food/drink pairings 🍽️).
+- **Guarded Build Verification**: Passed the 2-Layer Language Compliance Guard across all 458 spots in 13 cities without warnings.
+- **Cache Busters**: Updated version parameters in `index.html` to `v=83.0`.
+
+---
+
 ## 🏷️ [v7.0.0] - 2026-08-15 (Batch 2 Regional French & Historic Cities Fresh Insider Tips Integration)
 
 ### 🏰 Batch 2 Insider Tips Integration (`v7.0.0`)

@@ -429,12 +429,12 @@
       "desc_zh": "阿尔萨斯的主要新教教堂，内有莫扎特演奏的历史悠久的西尔伯曼管风琴。",
       "desc_fr": "Principale église protestante d'Alsace, abritant l'orgue historique Silbermann joué par Mozart.",
       "desc_de": "Wichtigste protestantische Kirche des Elsass mit der historischen Silbermann-Orgel von Mozart.",
-      "tip_en": "Houses the famous 1741 Silbermann organ that Wolfgang Amadeus Mozart played in 1778. Free entry to admire the baroque mausoleum.",
+      "tip_en": "Mozart played the 1741 Silbermann organ here in 1778. Step inside for free to admire the magnificent baroque marble mausoleum of Marshal de Saxe.",
       "tip_ja": "アルザス・プロテスタントの主要教会。モーツァルトが試奏した名器ジルバーマン・オルガンを所蔵。",
-      "tip_es": "Alberga el órgano Silbermann de 1741 que tocó Mozart en 1778. Entrada libre para ver el mausoleo barroco.",
-      "tip_zh": "收藏有莫扎特于1778年曾倾情演奏的1741年名管风琴Silbermann。大理石雕凿的萨克森伯爵陵墓艺术感十足。免费开放。",
-      "tip_fr": "Abrite le célèbre orgue Silbermann de 1741 joué par Mozart. Entrée libre pour admirer le mausolée du Maréchal de Saxe.",
-      "tip_de": "Beherbergt die berühmte Silbermann-Orgel von 1741, auf der Mozart 1778 spielte. Eintritt frei.",
+      "tip_es": "Mozart tocó el órgano Silbermann de 1741 en 1778. Entra gratis para admirar el mausoleo de mármol barroco del Mariscal de Saxe.",
+      "tip_zh": "莫扎特于1778年曾倾情演奏1741年Silbermann名管风琴。免费入内观赏萨克森伯爵壮丽的大理石巴洛克陵墓雕塑。",
+      "tip_fr": "Mozart a joué sur l'orgue Silbermann de 1741 en 1778. Entrée libre pour admirer el mausolée en marbre du Maréchal de Saxe.",
+      "tip_de": "Mozart spielte 1778 auf der Silbermann-Orgel von 1741. Freier Eintritt zur Besichtigung des Barock-Mausoleums.",
       "name_en": "Église Saint-Thomas",
       "name_ja": "Église Saint-Thomas",
       "name_es": "Iglesia de Santo Tomás",
@@ -450,7 +450,7 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Houses the famous 1741 Silbermann organ that Wolfgang Amadeus Mozart played in 1778. Free entry to admire the baroque mausoleum."
+      "tip": "Mozart played the 1741 Silbermann organ here in 1778. Step inside for free to admire the magnificent baroque marble mausoleum of Marshal de Saxe."
     },
     {
       "id": "st_11",
@@ -1419,12 +1419,12 @@
       "desc_zh": "联合国教科文组织世界遗产岛屿，被伊尔河环绕，形成斯特拉斯堡历史悠久的步行核心。",
       "desc_fr": "Île classée au patrimoine mondial de l'UNESCO, entourée par la rivière Ill, formant le noyau piétonnier historique de Strasbourg.",
       "desc_de": "UNESCO-Weltkulturerbeinsel, umgeben vom Fluss Ill, die den historischen Fußgängerkern Straßburgs bildet.",
-      "tip_en": "Explore the UNESCO World Heritage historic center entirely on foot—cars are banned on most bridges leading into the island.",
+      "tip_en": "Cars are banned on most bridges entering the island. Explore the medieval cobblestone paths on foot or take the Batorama glass boat around the perimeter.",
       "tip_ja": "ユネスコ世界遺産の旧市街島。徒歩での街歩きやイル川を巡るバトーラマ観光船での周遊がベスト。",
-      "tip_es": "Explora el centro histórico UNESCO a pie; la mayoría de los puentes de acceso son peatonales.",
-      "tip_zh": "整座老城岛屿均属于联合国教科文组织世界遗产。多数进入岛屿的桥梁均禁止汽车通行，最宜步行探秘。",
-      "tip_fr": "Explorez à pied ce centre historique classé UNESCO entouré par les bras de la rivière Ill.",
-      "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
+      "tip_es": "La mayoría de los puentes de acceso son peatonales. Recorre las calles empedradas a pie o en el barco panorámico Batorama.",
+      "tip_zh": "多数进入岛屿的桥梁均禁止汽车通行。最推荐徒步穿行于石板步道，或乘坐Batorama全景水上游船环岛。",
+      "tip_fr": "La plupart des ponts menant à l'île sont piétons. Explorez les ruelles pavées à pied ou en bateau panoramique Batorama.",
+      "tip_de": "Die meisten Brücken zur Insel sind für Autos gesperrt. Erkunden Sie die Gassen zu Fuß oder mit dem Batorama-Boot.",
       "name_en": "La Grande Île (UNESCO Historic Island)",
       "name_ja": "La Grande Île（ラ グランド イル (ユネスコ歴史島）",
       "name_es": "La Grande Île (UNESCO Historic Island)",
@@ -1440,7 +1440,7 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Explore the UNESCO World Heritage historic center entirely on foot—cars are banned on most bridges leading into the island."
+      "tip": "Cars are banned on most bridges entering the island. Explore the medieval cobblestone paths on foot or take the Batorama glass boat around the perimeter."
     },
     {
       "id": "st_33",

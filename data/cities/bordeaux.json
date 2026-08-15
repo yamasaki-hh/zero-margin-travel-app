@@ -564,12 +564,12 @@
       "desc_zh": "世界上最大的数字艺术中心位于二战德国潜艇基地内，在水面上投射出不朽的杰作。",
       "desc_fr": "Le plus grand centre d'art numérique au monde installé dans une base sous-marine allemande de la Seconde Guerre mondiale, projetant des chefs-d'œuvre monumentaux au-dessus de bassins d'eau.",
       "desc_de": "Das größte digitale Kunstzentrum der Welt befindet sich in einem deutschen U-Boot-Stützpunkt aus dem Zweiten Weltkrieg und projiziert monumentale Meisterwerke über Wasserbecken.",
-      "tip_en": "World's largest digital art center inside a WWII submarine base. Immersive 360-degree light projections of Klimt, Monet, and Dalí onto water basins.",
-      "tip_ja": "第二次大戦中の潜水艦基地を利用した世界最大のデジタルアート空間！巨大な水槽にクリムトやモネの光の絵画が映し出されます。",
-      "tip_es": "El centro de arte digital más grande del mundo en una base de submarinos de la II Guerra Mundial con luz sobre el agua.",
-      "tip_zh": "利用二战时期建造的潜艇基地打造的全球最大数字艺术中心！克里姆特与莫奈的名画被光影投射在巨大的水槽与水泥巨墙之上。",
-      "tip_fr": "Le plus grand centre d'art numérique au monde dans una ancienne base sous-marine de la Seconde Guerre mondiale.",
-      "tip_de": "Größtes Zentrum für digitale Kunst der Welt in einer ehemaligen U-Boot-Basis der WWII mit Projektionen auf Wasserbecken.",
+      "tip_en": "Book time-slot tickets online in advance! The unheated concrete submarine bunker can get chilly inside even during summer, so bring a light jacket.",
+      "tip_ja": "【見学のコツ】公式サイトでの日時指定チケット事前予約が必須！無暖房のコンクリート潜水艦ドック内は夏でもひんやり冷え込むため、羽織る上着を持参するのがおすすめです。",
+      "tip_es": "¡Imprescindible reservar entrada con hora en línea! El búnker de hormigón no tiene calefacción y hace frío incluso en verano: lleva una chaqueta ligera.",
+      "tip_zh": "必看提示：请务必提前在官网预约入场时段！潜艇混凝土要塞内部无暖气，即便是夏季也十分凉爽甚至发凉，建议带一件薄外套。",
+      "tip_fr": "Réservation en ligne à l'avance obligatoire ! Le bunker sous-marin en béton n'est pas chauffé et reste frais même en été : prévoyez une veste légère.",
+      "tip_de": "Zeitfenster-Tickets unbedingt vorab online buchen! Der ungeheizte Betonbunker ist auch im Sommer recht kühl – unbedingt eine Leichte Jacke mitnehmen.",
       "name_en": "Bassins des Lumières",
       "name_ja": "Bassins des Lumières（バッサン デ リュミエール）",
       "name_es": "Cuencas de las Lumières",
@@ -585,7 +585,7 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "World's largest digital art center inside a WWII submarine base. Immersive 360-degree light projections of Klimt, Monet, and Dalí onto water basins."
+      "tip": "Book time-slot tickets online in advance! The unheated concrete submarine bunker can get chilly inside even during summer, so bring a light jacket."
     },
     {
       "id": "bo_14",
