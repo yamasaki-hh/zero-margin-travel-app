@@ -35,9 +35,9 @@
       "name_es": "Basílica de Nuestra Señora de Fourvière",
       "name_zh": "富维耶圣母大教堂",
       "name_fr": "Basilique Notre-Dame de Fourvière",
-      "name_de": "Basilique Notre-Dame de Fourvière",
+      "name_de": "Basilika Notre-Dame de Fourvière",
       "price_en": "Free (Tower: €10)",
-      "price_ja": "無料 (タワー: €10)",
+      "price_ja": "無料（タワー：10ユーロ）",
       "price_es": "Gratis (Torre: 10€)",
       "price_zh": "免费（塔楼：10 欧元）",
       "price_fr": "Gratuit (Tour : 10 €)",
@@ -80,9 +80,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_3",
@@ -121,9 +121,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_4",
@@ -162,9 +162,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_5",
@@ -198,14 +198,14 @@
       "name_ja": "テロー広場とバルトルディの噴水",
       "name_es": "Plaza des Terreaux y fuente Bartholdi",
       "name_zh": "沃土广场和巴托尔迪喷泉",
-      "name_fr": "Place des Terreaux & Fontaine Bartholdi",
+      "name_fr": "Place des Terreaux et fontaine Bartholdi",
       "name_de": "Place des Terreaux und Bartholdi-Brunnen",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_6",
@@ -277,7 +277,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Amphitheatre of the Three Gauls",
-      "name_ja": "三人のガリア人の円形闘技場",
+      "name_ja": "三人のガリア人の円形劇場",
       "name_es": "Anfiteatro de los Tres Galos",
       "name_zh": "三高卢露天剧场",
       "name_fr": "Amphithéâtre des Trois Gaules",
@@ -285,9 +285,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_8",
@@ -320,15 +320,15 @@
       "name_en": "Église Saint-Nizier",
       "name_ja": "サン ニジエ教会",
       "name_es": "Iglesia de Saint-Nizier",
-      "name_zh": "圣尼齐尔教堂",
+      "name_zh": "圣尼济尔教堂",
       "name_fr": "Église Saint-Nizier",
       "name_de": "Église Saint-Nizier",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_9",
@@ -365,7 +365,7 @@
       "name_fr": "Monastère Sainte Marie de La Tourette",
       "name_de": "Kloster Sainte Marie de La Tourette",
       "price_en": "Entry: €10",
-      "price_ja": "入場料: 10 ユーロ",
+      "price_ja": "入場料: €10",
       "price_es": "Entrada: 10€",
       "price_zh": "入场费：10 欧元",
       "price_fr": "Entrée : 10 €",
@@ -400,15 +400,15 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Château de Rochetaillée (Henri Malartre Museum)",
-      "name_ja": "ロシュタイユ城 (アンリ マラルトル美術館)",
+      "name_ja": "ロシュタイユ城（アンリ・マラルトル美術館）",
       "name_es": "Castillo de Rochetaillée (Museo Henri Malartre)",
       "name_zh": "Château de Rochetaillée（亨利·马拉特博物馆）",
       "name_fr": "Château de Rochetaillée (Musée Henri Malartre)",
       "name_de": "Château de Rochetaillée (Henri-Malartre-Museum)",
       "price_en": "Entry: €6",
-      "price_ja": "入場料: 6 ユーロ",
+      "price_ja": "入場料: €6",
       "price_es": "Entrada: 6€",
-      "price_zh": "入场费：6 欧元",
+      "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
       "price_de": "Eintritt: 6 €"
     },
@@ -449,7 +449,7 @@
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8 欧元",
+      "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
       "price_de": "Eintritt: 8 €"
     },
@@ -490,7 +490,7 @@
       "price_en": "Entry: €9",
       "price_ja": "入場料: €9",
       "price_es": "Entrada: 9€",
-      "price_zh": "入场费：9 欧元",
+      "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
       "price_de": "Eintritt: 9 €"
     },
@@ -529,7 +529,7 @@
       "name_fr": "Musée Cinéma et Miniature",
       "name_de": "Kino- und Miniaturmuseum (Musée Cinéma et Miniature)",
       "price_en": "Entry: €14",
-      "price_ja": "入場料: 14 ユーロ",
+      "price_ja": "入場料: €14",
       "price_es": "Entrada: 14€",
       "price_zh": "入场费：14 欧元",
       "price_fr": "Entrée : 14 €",
@@ -564,7 +564,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Institut Lumière (Film Museum)",
-      "name_ja": "Institut Lumière (映画博物館)",
+      "name_ja": "インスティテュート リュミエール (映画博物館)",
       "name_es": "Institut Lumière (Museo del Cine)",
       "name_zh": "Institut Lumière（电影博物馆）",
       "name_fr": "Institut Lumière (Musée du Cinéma)",
@@ -572,7 +572,7 @@
       "price_en": "Entry: €9",
       "price_ja": "入場料: €9",
       "price_es": "Entrada: 9€",
-      "price_zh": "入场费：9 欧元",
+      "price_zh": "入场费：9欧元",
       "price_fr": "Entrée : 9 €",
       "price_de": "Eintritt: 9 €"
     },
@@ -613,7 +613,7 @@
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8 欧元",
+      "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
       "price_de": "Eintritt: 8 €"
     },
@@ -647,12 +647,12 @@
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée des Tissus et des Arts Décoratifs",
       "name_ja": "織物装飾芸術美術館",
-      "name_es": "Museo de Tissus et des Arts Décoratifs",
-      "name_zh": "纺织及装饰艺术博物馆",
+      "name_es": "Museo de tejidos y artes decorativas",
+      "name_zh": "织物与装饰艺术博物馆",
       "name_fr": "Musée des Tissus et des Arts Décoratifs",
       "name_de": "Musée des Tissus et des Arts Décoratifs",
       "price_en": "Entry: €12",
-      "price_ja": "入場料: 12 ユーロ",
+      "price_ja": "入場料: €12",
       "price_es": "Entrada: 12€",
       "price_zh": "入场费：12 欧元",
       "price_fr": "Entrée : 12 €",
@@ -689,13 +689,13 @@
       "name_en": "Museum of Printing and Graphic Communication",
       "name_ja": "印刷とグラフィック コミュニケーションの博物館",
       "name_es": "Museo de la Imprenta y la Comunicación Gráfica",
-      "name_zh": "印刷与图形传播博物馆",
+      "name_zh": "印刷与图文传播博物馆",
       "name_fr": "Musée de l'Impression et de la Communication Graphique",
       "name_de": "Museum für Druck und grafische Kommunikation",
       "price_en": "Entry: €6",
-      "price_ja": "入場料: 6 ユーロ",
+      "price_ja": "入場料: €6",
       "price_es": "Entrada: 6€",
-      "price_zh": "入场费：6 欧元",
+      "price_zh": "入场费：6欧元",
       "price_fr": "Entrée : 6 €",
       "price_de": "Eintritt: 6 €"
     },
@@ -736,7 +736,7 @@
       "price_en": "Entry: €7",
       "price_ja": "入場料: €7",
       "price_es": "Entrada: 7€",
-      "price_zh": "入场费：7 欧元",
+      "price_zh": "入场费：7欧元",
       "price_fr": "Entrée : 7 €",
       "price_de": "Eintritt: 7 €"
     },
@@ -777,7 +777,7 @@
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8 欧元",
+      "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
       "price_de": "Eintritt: 8 €"
     },
@@ -859,9 +859,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_22",
@@ -892,7 +892,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Clément Ader Aviation Museum",
-      "name_ja": "クレマン アデール航空博物館",
+      "name_ja": "クレマン・アデール航空博物館",
       "name_es": "Museo de la Aviación Clément Ader",
       "name_zh": "克莱门特阿德航空博物馆",
       "name_fr": "Musée de l'Aviation Clément Ader",
@@ -900,7 +900,7 @@
       "price_en": "Entry: €8",
       "price_ja": "入場料: €8",
       "price_es": "Entrada: 8€",
-      "price_zh": "入场费：8 欧元",
+      "price_zh": "入场费：8欧元",
       "price_fr": "Entrée : 8 €",
       "price_de": "Eintritt: 8 €"
     },
@@ -935,8 +935,8 @@
       "name_en": "Les Halles de Lyon Paul Bocuse",
       "name_ja": "レ アール ドゥ リヨン ポール ボキューズ",
       "name_es": "Las Halles de Lyon Paul Bocuse",
-      "name_zh": "里昂大厅 Paul Bocuse",
-      "name_fr": "Les Halles de Lyon Paul Bocuse",
+      "name_zh": "里昂大厅保罗·博古斯",
+      "name_fr": "Halles de Lyon Paul Bocuse",
       "name_de": "Les Halles de Lyon Paul Bocuse",
       "price_en": "Free entry",
       "price_ja": "入場無料",
@@ -974,15 +974,15 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Historic Bouchon Lyonnais (Café des Fédérations)",
-      "name_ja": "歴史あるブション・リヨネ (カフェ・デ・フェデレーション)",
-      "name_es": "Histórico Bouchon Lyonnais (Café des Fédérations)",
+      "name_ja": "歴史あるブション・リヨネ（カフェ・デ・フェデレーション）",
+      "name_es": "Bouchon Lyonnais histórico (Café des Fédérations)",
       "name_zh": "历史悠久的 Bouchon Lyonnais（Café des Fédérations）",
       "name_fr": "Bouchon Lyonnais historique (Café des Fédérations)",
       "name_de": "Historisches Bouchon Lyonnais (Café des Fédérations)",
       "price_en": "Meal: €25–€40",
-      "price_ja": "食事: 25 ～ 40 ユーロ",
-      "price_es": "Comida: 25€–40€",
-      "price_zh": "餐食：25 欧元 - 40 欧元",
+      "price_ja": "食事：25ユーロ～40ユーロ",
+      "price_es": "Comida: 25€-40€",
+      "price_zh": "膳食：25 欧元 - 40 欧元",
       "price_fr": "Repas : 25 – 40 €",
       "price_de": "Mahlzeit: 25–40 €"
     },
@@ -1023,7 +1023,7 @@
       "price_en": "Entry: €7",
       "price_ja": "入場料: €7",
       "price_es": "Entrada: 7€",
-      "price_zh": "入场费：7 欧元",
+      "price_zh": "入场费：7欧元",
       "price_fr": "Entrée : 7 €",
       "price_de": "Eintritt: 7 €"
     },
@@ -1064,7 +1064,7 @@
       "price_en": "Slice: €4.50",
       "price_ja": "スライス: €4.50",
       "price_es": "Porción: 4,50 €",
-      "price_zh": "切片：4.50欧元",
+      "price_zh": "切片：4.50 欧元",
       "price_fr": "Tranche : 4,50 €",
       "price_de": "Stück: 4,50 €"
     },
@@ -1097,15 +1097,15 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Maison Bernachon (Chocolatier)",
-      "name_ja": "メゾン ベルナション (ショコラティエ)",
-      "name_es": "Maison Bernachon (Chocolatero)",
+      "name_ja": "メゾン ベルナション（ショコラティエ）",
+      "name_es": "Maison Bernachon (chocolatero)",
       "name_zh": "Maison Bernachon（巧克力店）",
       "name_fr": "Maison Bernachon (Chocolatier)",
       "name_de": "Maison Bernachon (Chocolatier)",
       "price_en": "Pralines: €12–€30",
-      "price_ja": "プラリネ: €12–€30",
+      "price_ja": "プラリネ：12ユーロ～30ユーロ",
       "price_es": "Bombones: 12€–30€",
-      "price_zh": "果仁糖： €12–€30",
+      "price_zh": "果仁糖：12 欧元 - 30 欧元",
       "price_fr": "Pralines : 12 à 30 €",
       "price_de": "Pralinen: 12–30 €"
     },
@@ -1140,14 +1140,14 @@
       "name_en": "Café Comptoir Abel",
       "name_ja": "カフェ コントワール アベル",
       "name_es": "Café Comptoir Abel",
-      "name_zh": "Comptoir Abel 咖啡馆",
+      "name_zh": "康普托阿贝尔咖啡馆",
       "name_fr": "Café Comptoir Abel",
       "name_de": "Café Comptoir Abel",
       "price_en": "Meal: €30–€45",
       "price_ja": "食事: €30–€45",
       "price_es": "Comida: 30€–45€",
       "price_zh": "膳食： 30 欧元 - 45 欧元",
-      "price_fr": "Repas : 30–45 €",
+      "price_fr": "Repas : 30 € – 45 €",
       "price_de": "Mahlzeit: 30–45 €"
     },
     {
@@ -1180,16 +1180,16 @@
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Brasserie Georges",
       "name_ja": "ブラッスリー ジョルジュ",
-      "name_es": "Cervecería Georges",
+      "name_es": "Brasserie Georges",
       "name_zh": "乔治啤酒店",
       "name_fr": "Brasserie Georges",
       "name_de": "Brasserie Georges",
       "price_en": "Mains: €18–€28",
       "price_ja": "メイン: €18–€28",
       "price_es": "Plato principal: 18€–28€",
-      "price_zh": "主电源： 18 欧元 - 28 欧元",
-      "price_fr": "Plat : 18 € – 28 €",
-      "price_de": "Hauptspeisen: 18–28 €"
+      "price_zh": "主电源：18 欧元–28 欧元",
+      "price_fr": "Plats : 18 € – 28 €",
+      "price_de": "Hauptgericht: 18–28 €"
     },
     {
       "id": "lyon_30",
@@ -1228,7 +1228,7 @@
       "price_en": "Menu: €185–€320",
       "price_ja": "メニュー: €185–€320",
       "price_es": "Menú: 185€–320€",
-      "price_zh": "菜单： 185 欧元 - 320 欧元",
+      "price_zh": "菜单：185 欧元–320 欧元",
       "price_fr": "Menus : 185 € – 320 €",
       "price_de": "Menü: 185–320 €"
     },
@@ -1269,9 +1269,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_32",
@@ -1303,16 +1303,16 @@
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Croix-Rousse Hill & Pentes",
       "name_ja": "クロワ・ルースの丘とペント",
-      "name_es": "Colina de Croix-Rousse y Pentes",
-      "name_zh": "克鲁瓦鲁斯山和彭特斯",
-      "name_fr": "Colline de la Croix-Rousse & Pentes",
+      "name_es": "Colina de la Cruz Roja y Pentes",
+      "name_zh": "克罗瓦鲁斯山和彭特斯",
+      "name_fr": "Colline de la Croix-Rousse et Pentes",
       "name_de": "Croix-Rousse-Hügel und Pentes",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_33",
@@ -1343,7 +1343,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Cour des Voraces (Historic Traboule)",
-      "name_ja": "クール デ ヴォラセス (歴史的トラブール)",
+      "name_ja": "クール・デ・ヴォラセス (歴史的トラブール)",
       "name_es": "Cour des Voraces (Traboule histórico)",
       "name_zh": "Cour des Voraces（历史特拉布勒）",
       "name_fr": "Cour des Voraces (Traboule Historique)",
@@ -1351,9 +1351,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_34",
@@ -1384,17 +1384,17 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Fresque des Lyonnais (Mural)",
-      "name_ja": "フレスク デ リヨン (壁画)",
+      "name_ja": "フレスク・デ・リヨネ (壁画)",
       "name_es": "Fresque des Lyonnais (Mural)",
       "name_zh": "Fresque des Lyonnais（壁画）",
       "name_fr": "Fresque des Lyonnais (Murale)",
-      "name_de": "Fresque des Lyonnais (Wandbild)",
+      "name_de": "Fresque des Lyonnais (Wandgemälde)",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_35",
@@ -1428,14 +1428,14 @@
       "name_ja": "Mur des Canuts (製糸労働者の壁画)",
       "name_es": "Mur des Canuts (Mural de los trabajadores de la seda)",
       "name_zh": "Mur des Canuts（丝绸工人壁画）",
-      "name_fr": "Mur des Canuts (Murale des Travailleurs de la Soie)",
+      "name_fr": "Mur des Canuts",
       "name_de": "Mur des Canuts (Wandbild der Seidenarbeiter)",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_36",
@@ -1474,9 +1474,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_37",
@@ -1507,7 +1507,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Saône & Rhône Riverbanks Promenade",
-      "name_ja": "ソーヌ川とローヌ川岸の遊歩道",
+      "name_ja": "ソーヌ＆ローヌ川岸のプロムナード",
       "name_es": "Paseo a orillas de los ríos Saona y Ródano",
       "name_zh": "索恩和罗纳河岸长廊",
       "name_fr": "Promenade des Bords de Saône et du Rhône",
@@ -1515,9 +1515,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_38",
@@ -1548,7 +1548,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Jardin des Curiosités (Bellevue Park)",
-      "name_ja": "Jardin des Curiosités (ベルビュー公園)",
+      "name_ja": "好奇心庭園 (ベルビュー公園)",
       "name_es": "Jardín de Curiosités (Parque Bellevue)",
       "name_zh": "Jardin des Curiosités（贝尔维尤公园）",
       "name_fr": "Jardin des Curiosités (Parc Bellevue)",
@@ -1556,9 +1556,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_39",
@@ -1589,7 +1589,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Confluence Waterfront District",
-      "name_ja": "合流ウォーターフロント地区",
+      "name_ja": "コンフルエンス ウォーターフロント地区",
       "name_es": "Distrito costero de Confluence",
       "name_zh": "汇合海滨区",
       "name_fr": "Quartier riverain de Confluence",
@@ -1597,9 +1597,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_40",
@@ -1673,15 +1673,15 @@
       "name_en": "Medieval Village of Pérouges",
       "name_ja": "ペルージュの中世の村",
       "name_es": "Pueblo medieval de Pérouges",
-      "name_zh": "佩鲁日的中世纪村​​庄",
+      "name_zh": "佩鲁日中世纪村庄",
       "name_fr": "Village Médiéval de Pérouges",
       "name_de": "Mittelalterliches Dorf Pérouges",
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_42",
@@ -1712,7 +1712,7 @@
       "tip_fr": "Il est préférable de le visiter tôt le matin ou à l'heure dorée pour de superbes photos et moins de monde.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Parc de la Tête d'Or",
-      "name_ja": "テット ドール公園",
+      "name_ja": "テットドール公園",
       "name_es": "Parque de la Tête d'Or",
       "name_zh": "金头公园",
       "name_fr": "Parc de la Tête d'Or",
@@ -1720,9 +1720,9 @@
       "price_en": "Free",
       "price_ja": "無料",
       "price_es": "Gratis",
-      "price_zh": "免费",
+      "price_zh": "自由的",
       "price_fr": "Gratuit",
-      "price_de": "Kostenlos"
+      "price_de": "Frei"
     },
     {
       "id": "lyon_43",
@@ -1801,7 +1801,7 @@
       "name_de": "Aquarium de Lyon",
       "price_en": "Entry: €16.50",
       "price_ja": "入場料: €16.50",
-      "price_es": "Entrada: 16,50 €",
+      "price_es": "Entrada: 16,50€",
       "price_zh": "入场费：16.50 欧元",
       "price_fr": "Entrée : 16,50 €",
       "price_de": "Eintritt: 16,50 €"
