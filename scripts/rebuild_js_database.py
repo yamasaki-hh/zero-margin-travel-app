@@ -14,8 +14,8 @@ if os.environ.get('FETCH_WIKI') == '1':
     if os.path.exists(fetcher_script):
         subprocess.run(['python3', fetcher_script], check=True)
 
-# 2. Universal Multilingual Hybrid Name Standard
-hybrid_script = os.path.join(base_dir, 'make_all_names_hybrid.py')
+# 2. Universal Multilingual Hybrid Name Standard (Pattern A)
+hybrid_script = os.path.join(base_dir, 'unify_hybrid_names_pattern_a.py')
 if os.path.exists(hybrid_script):
     subprocess.run(['python3', hybrid_script], check=True)
 

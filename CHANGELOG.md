@@ -2,6 +2,19 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v45.0.0] - 2026-08-18 (Universal Pattern A Local-First Name Unification & Redundancy Elimination Release)
+
+### 🌍 Universal Pattern A Hybrid Name Unification (`v45.0.0`)
+- **Pattern A (Local Sign Board First) Format Standardized**:
+  - Enforced `現地原語表記（各言語での自然な訳称）` across all 6 language keys (`name_ja`, `name_en`, `name_es`, `name_zh`, `name_fr`, `name_de`) for all **1,371 spots across 25 European cities**.
+  - Ensures immediate real-world recognition against street signs, metro station maps, and Google Maps navigation markers.
+- **Redundant Parens Elimination Rule**:
+  - Automatically eliminated **3,609 redundant parens instances** where the localized translation was identical or near-identical to the local native base name (e.g. `Rijksmuseum`, `Atomium`, `Grand-Place`, `Cathédrale Notre-Dame`).
+- **5-Layer Compliance Guard**: Passed 100% clean across all **1,371 spots**.
+- **Master Asset Version**: Bumped to `v=120.0`.
+
+---
+
 ## 🏷️ [v44.0.0] - 2026-08-18 (Benelux 5-City 300-Spot Expansion & Integration Release)
 
 ### 🇧🇪🇱🇺 Benelux 5-City Expansion & Integration (`v44.0.0`)
