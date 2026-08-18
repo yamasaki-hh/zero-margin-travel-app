@@ -132,8 +132,15 @@ def process_all_city_modules(data_cities_dir, js_file_path):
         with open(fpath, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        cityName = data.get('cityName', fname)
-        spots = data.get('spots', [])
+        if isinstance(data, dict):
+            cityName = data.get('cityName', fname.replace('.json', ''))
+            spots = data.get('spots', [])
+        elif isinstance(data, list):
+            cityName = fname.replace('.json', '').replace('_', ' ').title()
+            spots = data
+        else:
+            spots = []
+            cityName = fname
         verified_in_city = 0
         fallbacks_in_city = 0
 
