@@ -2,6 +2,24 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v41.0.0] - 2026-08-18 (Netherlands 5-City Empirical Fact-Check & Quality Alignment Release)
+
+### 🇳🇱 Netherlands 5-City Fact-Check & Quality Enhancements (`v41.0.0`)
+- **Factual Corrections**:
+  - **Rembrandtplein (`a_19`)**: Removed outdated text describing 3D *The Night Watch* bronze militia statues; updated text to reflect the central 1852 Rembrandt statue with historic removal note.
+  - **Kinderdijk (`ro_6`)**: Updated Waterbus transport guidance to Waterbus Line 20 with Ridderkerk (Driehoeksveer ferry) transfer / seasonal direct ferries.
+  - **Plaswijckpark (`ro_47`)**: Clarified the park's local *Dierenwijck* mini-zoo to avoid confusion with Arnhem's Burgers' Zoo.
+- **2026 Price Normalization**:
+  - **Keukenhof (`a_8`)**: Updated price to `オンライン €21.50 / 当日 €25.00`.
+  - **Zaanse Schans (`a_7`)**: Updated windmill entry to `風車1基 約€7.00 / 共通カード €17.50`.
+  - **Mauritshuis (`dh_1`)**: Normalized ticket price across all languages to `€19.50`.
+- **Wording & Terminology Refinement**:
+  - Refined Museumkaart wording across Rijksmuseum, Van Gogh Museum, & Mauritshuis from informal "ハック" to professional `「主要4館以上の見学で十分にお得になる定番のミュージアムカード」`.
+- **5-Layer Compliance**: Passed across all **1,104 spots in 22 cities**.
+- **Master Asset Version**: Bumped to `v=116.0`.
+
+---
+
 ## 🏷️ [v40.1.0] - 2026-08-18 (Netherlands 5-City & Germany Full Dropdown RFind Fix Release)
 
 ### 🇳🇱 Netherlands 5-City & Germany Dropdown Replacement Fix (`v40.1.0`)
