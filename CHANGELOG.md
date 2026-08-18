@@ -2,6 +2,29 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v42.0.0] - 2026-08-18 (Netherlands 5-City 2026 Comprehensive Fact-Check & Venue Reopening Release)
+
+### 🇳🇱 Netherlands 5-City 2026 Upgrades (`v42.0.0`)
+- **2025–2026 Major Venue Status & Reopening Updates**:
+  - **Portlantis (`ro_44`)**: Updated FutureLand entry to **Portlantis**, the futuristic new port experience center at Maasvlakte 2 opened in 2025.
+  - **Nederlands Fotomuseum (`ro_29`)**: Updated status to celebrate its official **February 7, 2026 reopening at Pakhuis Santos** in Katendrecht.
+  - **Fenix Migration Museum (`ro_35`)**: Updated to active 2025 opened museum featuring MAD Architects' *Tornado* structure.
+  - **Museum Boijmans Van Beuningen (`ro_13` vs `ro_4`)**: Clarified main building closure (~2029) with explicit visitor guidance to **Depot Boijmans Van Beuningen** (`ro_4`, 155,000+ objects, €20.00).
+  - **Museum Prinsenhof Delft (`dh_45`)**: Added clear renovation closure notice with focus on Delft historic city center.
+- **2026 Official Ticket Price Adjustments**:
+  - **Amsterdam**: Van Gogh Museum `€25.00`, Anne Frank House `€16.50`, Heineken `€24.95〜`, NEMO `€21.50`, Rembrandt House `€23.50`, ARTIS `€29.50〜`.
+  - **Rotterdam**: Euromast `一般 €13.50〜 / Euroscoop含 €19.00`, Maritime Museum `€19.00`.
+  - **The Hague**: Mauritshuis `€21.00`, Escher in Het Paleis `€14.50`.
+  - **Utrecht**: Domtoren `€14.50`, Centraal Museum `€18.00`.
+  - **Maastricht**: St. Servaas `€7.00`, Bonnefanten `€22.00`, Caves/Fort `€9.95〜`.
+- **Wording & Conduct Guidance**:
+  - Softened Witte Huis (`ro_20`) to `「1898年建設、アール・ヌーヴォー様式によるヨーロッパ最古級の高層建築」`.
+  - Added polite community conduct note for Begijnhof (`a_23`).
+- **5-Layer Compliance Guard**: Passed 100% clean across all **1,104 spots in 22 cities**.
+- **Master Asset Version**: Bumped to `v=117.0`.
+
+---
+
 ## 🏷️ [v41.0.0] - 2026-08-18 (Netherlands 5-City Empirical Fact-Check & Quality Alignment Release)
 
 ### 🇳🇱 Netherlands 5-City Fact-Check & Quality Enhancements (`v41.0.0`)
