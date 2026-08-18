@@ -873,7 +873,8 @@
       "name_de": "Sommerpalais",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sommerresidenz01.jpg/330px-Sommerresidenz01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sommerresidenz01.jpg/330px-Sommerresidenz01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Refined early Baroque pleasure palace built 1678–1683 by Johann Georg Starcke at the center of the Grand Garden, recognized as Saxony's earliest secular Baroque structure."
     },
     {
       "id": "dr_22",
@@ -915,7 +916,8 @@
       "name_de": "Zoo Dresden",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Dresden-Zoo-openstreetmap.png/330px-Dresden-Zoo-openstreetmap.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Dresden-Zoo-openstreetmap.png/330px-Dresden-Zoo-openstreetmap.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Germany's fourth-oldest zoo opened in 1861 on the southern border of the Großer Garten, housing over 1,500 animals across 12 hectares including Asian elephants and red pandas."
     },
     {
       "id": "dr_23",
@@ -1081,7 +1083,8 @@
       "name_de": "Panometer Dresden (360°-Panorama im Gasometer)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/330px-Dresden-Panometer.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/330px-Dresden-Panometer.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Cultural venue set inside a restored 1909 industrial gasometer, exhibiting Yadegar Asisi's monumental 360-degree hyper-realistic 27-meter-tall panoramas of Dresden's history."
     },
     {
       "id": "dr_27",
@@ -1693,7 +1696,8 @@
       "name_zh": "Nationalpark Sächsische Schweiz & Basteibrücke (萨克森小瑞士国家公园与巴斯泰石桥)",
       "name_fr": "Nationalpark Sächsische Schweiz & Basteibrücke (Parc National de la Suisse Saxonne et Pont de Bastei)",
       "name_de": "Nationalpark Sächsische Schweiz & Basteibrücke",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Famed national park in the Elbe Sandstone Mountains, featuring the iconic 76-meter stone Bastei Bridge built in 1851 across soaring rock pinnacles 194 meters above the Elbe River."
     },
     {
       "id": "dr_42",
@@ -1735,7 +1739,8 @@
       "name_de": "Festung Königstein",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg/330px-Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg/330px-Aerial_photo_of_Festung_K%C3%B6nigstein%2C_October_2008.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Unconquered 9.5-hectare hilltop fortress atop a table mountain 240 meters above the Elbe, featuring over 50 historic military buildings, 42-meter high rampart walls, and Germany's second-deepest well."
     },
     {
       "id": "dr_43",
@@ -1777,7 +1782,8 @@
       "name_de": "Schloss Moritzburg & Fasanenschlösschen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG/330px-Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG/330px-Luftbild_Schloss_Moritzburg_2014-03-29_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Fairytale four-towered Baroque hunting palace 13 km north of Dresden, built on an artificial island in a lake for Augustus the Strong, famed film location of 'Three Wishes for Cinderella'."
     },
     {
       "id": "dr_44",
@@ -1819,7 +1825,8 @@
       "name_de": "Porzellanmanufaktur Meissen & Erlebniswelt (Erlebniswelt MEISSEN)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg/langde-330px-Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg/langde-330px-Staatliche_Porzellan-Manufaktur_MEISSEN_2018_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "The birthplace of European hard-paste porcelain founded in 1710, featuring live artisan demonstration workshops, a two-story museum of historical porcelain, and a factory outlet."
     },
     {
       "id": "dr_45",
@@ -1859,7 +1866,8 @@
       "name_zh": "Albrechtsburg Meißen & Dom zu Meißen (阿尔布雷希特城与迈森大教堂)",
       "name_fr": "Albrechtsburg Meißen & Dom zu Meißen (Albrechtsburg Meißen & Cathédrale de Meissen)",
       "name_de": "Albrechtsburg Meißen & Dom zu Meißen",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Germany's oldest residential castle built in 1471 in Late Gothic style atop a cliff overlooking the Elbe in Meissen, adjoining the pure High Gothic Meissen Cathedral."
     },
     {
       "id": "dr_46",
@@ -1899,7 +1907,8 @@
       "name_zh": "Schloss und Park Pillnitz (皮尔尼茨宫殿与皇家花园)",
       "name_fr": "Schloss und Park Pillnitz (Château et Parc de Pillnitz)",
       "name_de": "Schloss und Park Pillnitz",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Restorative riverside royal summer residence 15 km upstream on the Elbe, blending Chinoiserie Baroque architecture with a 28-hectare botanical park housing a famous 250-year-old Japanese camellia."
     },
     {
       "id": "dr_47",
@@ -1941,7 +1950,8 @@
       "name_de": "Radebeul: Karl-May-Museum & Schloss Wackerbarth (Karl-May-Museum & Schloss Wackerbarth)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen_Radebeul.svg/langde-330px-Wappen_Radebeul.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen_Radebeul.svg/langde-330px-Wappen_Radebeul.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Picturesque vineyard town on Dresden's western border, featuring Schloss Wackerbarth—Europe's first transparent sparkling wine estate—and Villa Shatterhand, home of adventure author Karl May."
     },
     {
       "id": "dr_48",
@@ -1983,7 +1993,8 @@
       "name_de": "Dampfbahn Lößnitzgrundbahn (Lößnitzdackel)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radebeul_Loessnitzdackel.jpg/330px-Radebeul_Loessnitzdackel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radebeul_Loessnitzdackel.jpg/330px-Radebeul_Loessnitzdackel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Historic 750mm narrow-gauge steam railway operating daily since 1884, running 16.5 km from Radebeul Ost through romantic forest valleys and across lake dams to Moritzburg and Radeburg."
     },
     {
       "id": "dr_49",
@@ -2023,7 +2034,8 @@
       "name_zh": "Kirnitzschtalbahn & Bad Schandau (吉尔尼茨谷森林电车与巴特尚道温泉镇)",
       "name_fr": "Kirnitzschtalbahn & Bad Schandau (Tramway de la Vallée de Kirnitzsch)",
       "name_de": "Kirnitzschtalbahn & Bad Schandau (Traditionelle Kirnitzschtalbahn)",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Historic 7.9-km yellow overland electric tramway operating since 1898 from the spa town of Bad Schandau along the scenic Kirnitzsch river canyon to the Lichtenhain Waterfall."
     },
     {
       "id": "dr_50",
@@ -2065,7 +2077,8 @@
       "name_de": "Burg Stolpen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stolpen_Burg.jpg/330px-Stolpen_Burg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stolpen_Burg.jpg/330px-Stolpen_Burg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Dramatic medieval basalt-top fortress 25 km east of Dresden, famous as the site where Augustus the Strong's exiled mistress Countess Cosel was imprisoned for 49 years."
     },
     {
       "id": "dr_51",
@@ -2107,7 +2120,8 @@
       "name_de": "Schloss Weesenstein (Müglitztal)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Weesenstein_-_panoramio_%283%29.jpg/330px-Schloss_Weesenstein_-_panoramio_%283%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Weesenstein_-_panoramio_%283%29.jpg/330px-Schloss_Weesenstein_-_panoramio_%283%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "desc_de": "Striking 800-year-old rock-perched castle built 'upside down' into the cliffside of the Müglitz Valley, with medieval horse stables at the top level and 19th-century royal living rooms below."
     },
     {
       "id": "dr_52",
@@ -2147,7 +2161,8 @@
       "name_zh": "Toskana Therme Bad Schandau (托斯卡纳声光温泉水疗中心)",
       "name_fr": "Toskana Therme Bad Schandau (Thermes Toskana Therme)",
       "name_de": "Toskana Therme Bad Schandau",
-      "hasWiki": false
+      "hasWiki": false,
+      "desc_de": "Therapeutic liquid-sound saltwater thermal bath resort on the banks of the Elbe River in Bad Schandau, famous for its 'Liquid Sound' pool with underwater classical music and laser shows."
     }
   ]
 }
