@@ -108,7 +108,8 @@ for fpath in city_files:
 
         total_spots_modified += 1
 
-    data['spots'] = spots
+    if isinstance(data, dict):
+        data['spots'] = spots
     with open(fpath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
