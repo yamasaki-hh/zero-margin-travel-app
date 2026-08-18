@@ -2,6 +2,20 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v32.0.0] - 2026-08-18 (Dutch Expansion: Rotterdam, The Hague, Utrecht & Maastricht Integration)
+
+### 🇳🇱 Netherlands Expansion & New Dutch City Integration (`v32.0.0`)
+- **Expanded Coverage across 5 Dutch Cities (22 Cities Total, 837 Verified Spots)**:
+  - **Rotterdam (`rotterdam.json`)**: Added 5 landmark spots (`ro_1`..`ro_5`): Erasmusbrug ("De Zwaan"), Markthal Rotterdam (Horn of Plenty ceiling art), Kubuswoningen & Kijk-Kubus, Depot Boijmans Van Beuningen (1,664 mirror panels & birch rooftop), Kinderdijk Windmills (UNESCO).
+  - **The Hague / Den Haag (`the_hague.json`)**: Added 2 landmark spots (`dh_1`, `dh_2`): The Mauritshuis (*Girl with a Pearl Earring*), Het Binnenhof & Hofvijver (noting multi-year renovation through 2028+).
+  - **Utrecht (`utrecht.json`)**: Added 2 landmark spots (`ut_1`, `ut_2`): Domtoren (112.5m tallest NL spire, 465 steps, 50 carillon bells), Rietveld Schröderhuis (1924 De Stijl UNESCO sliding-wall masterpiece).
+  - **Maastricht (`maastricht.json`)**: Added 4 landmark spots (`maa_1`..`maa_4`): Vrijthof Square (red tower of Sint-Janskerk), Sint-Servaasbrug (13th-century limestone bridge), Grotten van Sint-Pieter (10-12°C limestone labyrinth, WWII hiding place of *The Night Watch*), Hoge Brug ("Hoeg Brögk").
+  - **Amsterdam (`amsterdam.json`)**: Refined 20 spots with rich 6-language tips (e.g., Keukenhof tulip rental bike tips, Anne Frank House Tuesday 10 AM ticket release rules, Bloemenmarkt phytosanitary certificate guidance).
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 837 spots across 22 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Cache Busters**: Updated asset version string in `index.html` to `v=107.0`.
+
+---
+
 ## 🏷️ [v30.0.0] - 2026-08-18 (Editorial Statement Refinement & Timeless Data Reliability Release)
 
 ### ✍️ Editorial Statement Refinement & Timeless Reliability (`v30.0.0`)

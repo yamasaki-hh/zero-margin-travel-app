@@ -56,8 +56,12 @@ city_name_map = {
     "nice.json": "Nice, France",
     "nuremberg.json": "Nuremberg, Germany",
     "paris.json": "Paris, France",
+    "rotterdam.json": "Rotterdam, Netherlands",
     "strasbourg.json": "Strasbourg, France",
-    "toulouse.json": "Toulouse, France"
+    "the_hague.json": "The Hague, Netherlands",
+    "toulouse.json": "Toulouse, France",
+    "utrecht.json": "Utrecht, Netherlands",
+    "maastricht.json": "Maastricht, Netherlands"
 }
 
 for fpath in city_files:
