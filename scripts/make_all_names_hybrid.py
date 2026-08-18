@@ -45,7 +45,10 @@ for filepath in city_files:
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    spots = data['spots']
+    if isinstance(data, list):
+        spots = data
+    else:
+        spots = data.get('spots', [])
     updated_in_file = 0
 
     for s in spots:

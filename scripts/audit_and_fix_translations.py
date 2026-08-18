@@ -54,7 +54,10 @@ for fpath in city_files:
     with open(fpath, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    spots = data.get('spots', [])
+    if isinstance(data, list):
+        spots = data
+    else:
+        spots = data.get('spots', [])
 
     for s in spots:
         sid = s.get('id')
