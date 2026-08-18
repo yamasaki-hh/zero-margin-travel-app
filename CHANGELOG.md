@@ -2,6 +2,24 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v29.0.0] - 2026-08-18 (8 Aha! Content Insights & Zero-Empty-Tip Database Enforcement)
+
+### ✨ Aha! Content Insights & Zero-Empty-Tip Enforcement (`v29.0.0`)
+- **8 High-Value Content Insights Integrated**:
+  - **Fürstenzug Dresden (`dr_9`)**: Added WWII miraculous firestorm survival story (23,000 heat-resistant Meissen porcelain tiles survived almost undamaged).
+  - **Manneken Pis Brussels (`br_7`)**: Added famous Brussels "Peeing Trio" scavenger hunt guide (Jeanneke Pis & Zinneke Pis).
+  - **Dune du Pilat Bordeaux (`bo_34`)**: Added living geological migration phenomenon (dune moving 1-5m inland yearly, swallowing pine forests).
+  - **Computerspielemuseum Berlin (`b_29`)**: Added rare tactile hardware feature (*PainStation* sensory feedback during gameplay).
+  - **Holocaust Memorial Berlin (`b_15`)**: Added Peter Eisenman's acoustic disorientation design details (block out city noise as ground slopes down).
+  - **Main Tower Frankfurt (`f_5`)**: Added open-air glass-glare-free rooftop photography perk.
+  - **Liquidrom Berlin (`b_60`)**: Added underwater DJ music event sets inside saltwater dome.
+  - **Fresque des Lyonnais Lyon (`lyon_34`)**: Added ground-floor street-level optical illusion shopfront integration.
+- **Zero-Empty-Tip Database Enforcement**: Populated all 288 remaining empty `tip_*` fields across `amsterdam.json`, `luxembourg.json`, `paris.json`, `brussels.json`, ensuring 100% of 824 spots have actionable, category-specific visitor tips.
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 824 spots across 18 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Cache Busters**: Updated asset version string in `index.html` to `v=105.0`.
+
+---
+
 ## 🏷️ [v28.0.0] - 2026-08-15 (2025–2026 European Ticket Price Hikes, Closures & Translation Remediation)
 
 ### 💶 2025–2026 European Data Remediation (`v28.0.0`)
