@@ -2,6 +2,20 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v37.0.0] - 2026-08-18 (The Hague 60 Spots Deep Verification & Systemic Integration Release)
+
+### 🇳🇱 The Hague 60 Verified Spots Expansion (`v37.0.0`)
+- **Multi-Agent Deep Research & The Hague Integration**:
+  - Expanded `the_hague.json` to **60 100% unique, verified spots** (`dh_1` to `dh_60`).
+  - Added royal & international landmarks: Mauritshuis (`dh_1`), Het Binnenhof (`dh_2`, noting renovation through 2028+), Vredespaleis Peace Palace (`dh_3`), Paleis Noordeinde (`dh_11`), Escher in Het Paleis (`dh_6`), Louwman Museum (`dh_14`), De Passage Arcade (`dh_15`), and Koninklijke Stallen (`dh_60`).
+  - Integrated Scheveningen beach & resort icons: De Pier & Ferris Wheel (`dh_7`), Scheveningen Strand (`dh_8`), Kurhaus (`dh_9`), Beelden aan Zee (`dh_13`), SEA LIFE (`dh_16`), Harbor seafood (`dh_33`), Zipline (`dh_51`), and Kijkduin (`dh_59`).
+  - Added suburban day-trips: Historisch Leiden (`dh_41`), CORPUS Human Body (`dh_42`), Museum Voorlinden (`dh_43`), Kasteel Duivenvoorde (`dh_44`), Historisch Delft (`dh_45`), Hollandse Duinen (`dh_46`), Meijendel (`dh_47`), Westland Greenhouses (`dh_48`), Hofwijck (`dh_49`), and Westfield Mall of NL (`dh_50`).
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 999 spots across 22 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Total System Count**: **22 Cities, 999 Verified Spots**.
+- **Cache Busters**: Updated asset version string in `index.html` to `v=111.0`.
+
+---
+
 ## 🏷️ [v36.0.0] - 2026-08-18 (Rotterdam 60 Spots Deep Verification & Systemic Integration Release)
 
 ### 🇳🇱 Rotterdam 60 Verified Spots Expansion (`v36.0.0`)
