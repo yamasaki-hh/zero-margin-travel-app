@@ -70,10 +70,18 @@ for fpath in city_files:
     with open(fpath, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    if not cname:
-        cname = data.get('cityName', fname.replace('.json', '').title())
+    if isinstance(data, dict):
+        spots = data.get('spots', [])
+        if not cname:
+            cname = data.get('cityName', fname.replace('.json', '').title())
+    elif isinstance(data, list):
+        spots = data
+    else:
+        spots = []
     
-    spots = data.get('spots', [])
+    if not cname:
+        cname = fname.replace('.json', '').replace('_', ' ').title()
+
     db[cname] = spots
     print(f" -> Loaded {cname}: {len(spots)} spots")
 
@@ -136,7 +144,52 @@ if start_idx != -1:
     end_idx = js_code.find(';\n', start_idx)
     if end_idx != -1:
         new_db_json = json.dumps(db, indent=2, ensure_ascii=False)
-        new_js_code = js_code[:start_idx + len(db_marker)] + new_db_json + js_code[end_idx:]
-        with open(js_path, 'w', encoding='utf-8') as f:
-            f.write(new_js_code)
-        print(f"🎉 Successfully rebuilt {js_path} with 100% verified multilingual data across {len(db)} cities!")
+        js_code = js_code[:start_idx + len(db_marker)] + new_db_json + js_code[end_idx:]
+
+# Update countryCityMap dynamically in js/ai-travel-engine.js
+new_country_map = {
+    'France': [
+        {'value': 'Paris, France', 'label': '🇫🇷 Paris'},
+        {'value': 'Bordeaux, France', 'label': '🇫🇷 Bordeaux'},
+        {'value': 'Lyon, France', 'label': '🇫🇷 Lyon'},
+        {'value': 'Marseille, France', 'label': '🇫🇷 Marseille'},
+        {'value': 'Nice, France', 'label': "🇫🇷 Nice & Côte d'Azur"},
+        {'value': 'Strasbourg, France', 'label': '🇫🇷 Strasbourg'},
+        {'value': 'Toulouse, France', 'label': '🇫🇷 Toulouse'}
+    ],
+    'Germany': [
+        {'value': 'Berlin, Germany', 'label': '🇩🇪 Berlin'},
+        {'value': 'Cologne, Germany', 'label': '🇩🇪 Cologne'},
+        {'value': 'Dresden, Germany', 'label': '🇩🇪 Dresden'},
+        {'value': 'Frankfurt, Germany', 'label': '🇩🇪 Frankfurt'},
+        {'value': 'Hamburg, Germany', 'label': '🇩🇪 Hamburg'},
+        {'value': 'Heidelberg, Germany', 'label': '🇩🇪 Heidelberg'},
+        {'value': 'Munich, Germany', 'label': '🇩🇪 Munich'},
+        {'value': 'Nuremberg, Germany', 'label': '🇩🇪 Nuremberg'}
+    ],
+    'Netherlands': [
+        {'value': 'Amsterdam, Netherlands', 'label': '🇳🇱 Amsterdam'},
+        {'value': 'Rotterdam, Netherlands', 'label': '🇳🇱 Rotterdam'},
+        {'value': 'The Hague, Netherlands', 'label': '🇳🇱 The Hague'},
+        {'value': 'Utrecht, Netherlands', 'label': '🇳🇱 Utrecht'},
+        {'value': 'Maastricht, Netherlands', 'label': '🇳🇱 Maastricht'}
+    ],
+    'Belgium': [
+        {'value': 'Brussels, Belgium', 'label': '🇧🇪 Brussels'}
+    ],
+    'Luxembourg': [
+        {'value': 'Luxembourg City, Luxembourg', 'label': '🇱🇺 Luxembourg'}
+    ]
+}
+
+map_marker = 'countryCityMap: '
+m_start = js_code.find(map_marker)
+if m_start != -1:
+    m_end = js_code.find(',\n\n  onCountryChange()', m_start)
+    if m_end != -1:
+        map_json = json.dumps(new_country_map, indent=4, ensure_ascii=False)
+        js_code = js_code[:m_start + len(map_marker)] + map_json + js_code[m_end:]
+
+with open(js_path, 'w', encoding='utf-8') as f:
+    f.write(js_code)
+print(f"🎉 Successfully rebuilt {js_path} with 100% verified multilingual data and full countryCityMap across {len(db)} cities!")

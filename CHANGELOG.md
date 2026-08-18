@@ -2,6 +2,20 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v40.0.0] - 2026-08-18 (Netherlands 5-City Full Dropdown & 60-Spot Render Engine Fix Release)
+
+### 🇳🇱 Netherlands 5-City UI Dropdown & Data Binding Fix (`v40.0.0`)
+- **Root Cause Fix**:
+  - Resolved build script parsing bug in `scripts/rebuild_js_database.py` where list-structured JSON files (`[...]`) were loaded as `[]` empty arrays for JS bundle output.
+  - Updated `countryCityMap['Netherlands']` in `js/ai-travel-engine.js` to register all 5 Dutch cities: **Amsterdam** (60 spots), **Rotterdam** (60 spots), **The Hague** (60 spots), **Utrecht** (60 spots), and **Maastricht** (60 spots).
+  - Also registered **Dresden**, **Heidelberg**, and **Nuremberg** into `countryCityMap['Germany']`.
+- **Systemic Verification**:
+  - `rebuild_js_database.py` verified: `-> Loaded Amsterdam: 60 spots`, `-> Loaded Rotterdam: 60 spots`, `-> Loaded The Hague: 60 spots`, `-> Loaded Utrecht: 60 spots`, `-> Loaded Maastricht: 60 spots`.
+  - Passed **5-Layer Compliance Guard** across all **1,104 spots in 22 cities**.
+- **Cache Busters**: Updated asset version string in `index.html` to `v=114.0`.
+
+---
+
 ## 🏷️ [v39.0.0] - 2026-08-18 (Maastricht 60 Spots Deep Verification & All 5 Dutch Cities 60-Spot Completion Release)
 
 ### 🇳🇱 Maastricht 60 Verified Spots Expansion & All 5 Dutch Cities Completion (`v39.0.0`)
