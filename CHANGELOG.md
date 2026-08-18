@@ -2,6 +2,21 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v30.0.0] - 2026-08-18 (Editorial Statement Refinement & Timeless Data Reliability Release)
+
+### ✍️ Editorial Statement Refinement & Timeless Reliability (`v30.0.0`)
+- **Systemic Screening of Absolute Claims**: Audited and refined absolute/overstated phrases ("the oldest", "the only", "completely free", "every 30 minutes") across all **824 spots in 18 cities** into reliable, timeless, highly accurate editorial copy.
+- **Specific Spot Refinements**:
+  - **Zum Gulden Stern (`nu_33`)**: Toned down "world's oldest sausage kitchen" to "1419年創業の歴史的ブラートヴルスト専門店" (*historic medieval sausage kitchen operating since 1419*).
+  - **Main Tower Frankfurt (`f_5`)**: Toned down "the only skyscraper" to "フランクフルト金融街を360度見渡せるオープンエア野外屋上展望台" (*iconic banking district skyscraper with open-air outdoor viewing platform*).
+  - **Nuremberg Castle (`nu_1`)**: Refined "demonstrations every 30 minutes" to "定期的な深井戸の水滴落ち実演" (*regular live demonstrations of the 47m Deep Well*).
+  - **Free Access Formatting**: Standardized "完全無料" to "入場無料（敷地散策自由）" (*Free Admission / Free Grounds Access*) to maintain accuracy for venues with ticketed interiors or special exhibitions.
+- **UI Design Optimization**: Retained clean 1-3 line card tips without cluttering mobile card UI with heavy structured metadata, keeping the user interface visually crisp, punchy, and fast-scrolling.
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 824 spots across 18 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Cache Busters**: Updated asset version string in `index.html` to `v=106.0`.
+
+---
+
 ## 🏷️ [v29.0.0] - 2026-08-18 (8 Aha! Content Insights & Zero-Empty-Tip Database Enforcement)
 
 ### ✨ Aha! Content Insights & Zero-Empty-Tip Enforcement (`v29.0.0`)
