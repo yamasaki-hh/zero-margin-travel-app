@@ -19,7 +19,7 @@ FAMILY_KEYWORDS = [
     'zoo', 'aquarium', 'planetarium', 'science', 'theme park', 'amusement', 'dinosaur',
     'miniatur', 'water park', 'playground', 'tierpark', 'kindermuseum', 'freizeitpark',
     'wildpark', 'schokolade', 'chocolat', 'lido', 'disney', 'parc astérix', 'europa-park',
-    'phantasialand', 'futuroscope', 'legoland', 'fairytale', '童話', '動物園', '水族館', '科学', 'テーマパーク', '水上'
+    'phantasialand', 'futuroscope', 'legoland', 'fairytale', '童話', '動物園', '水族館', '科学', 'テーマパーク'
 ]
 
 # Keywords that FORBID a spot from being tagged as 'kids': true

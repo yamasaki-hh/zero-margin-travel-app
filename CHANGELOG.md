@@ -2,6 +2,24 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v43.0.0] - 2026-08-18 (Netherlands 5-City Kids Tag Rebalancing & Quality Audit Release)
+
+### 🇳🇱 Netherlands 5-City Kids Tag Rebalancing (`v43.0.0`)
+- **Strict Kids Tag Standardization**:
+  - Removed overmatching `'水上'` keyword from build script to eliminate false-positive tagging of canals, rivers, and historic bridges.
+  - Restricted `kids: true` exclusively to genuine child-oriented hands-on science museums, zoos/aquariums, theme/amusement parks, model train worlds, interactive workshops, and petting zoo parks.
+  - Excluded all historic churches, adult art galleries, brown cafes, fine dining, luxury arcades, and silent historic courtyards.
+- **Rebalanced City Distribution (8〜13 spots per city / 13%〜22% ratio)**:
+  - **Amsterdam**: Rebalanced to **13 spots** (NEMO, ARTIS, Keukenhof, Zaanse Schans, Vondelpark, Scheepvaartmuseum, Tropenmuseum Junior, Amsterdamse Bos goat farm, Muiderslot Castle, A'DAM Lookout, Volendam, Body Worlds, Dungeon).
+  - **Rotterdam**: Rebalanced to **11 spots** (Diergaarde Blijdorp Zoo, Miniworld, Plaswijckpark, Splashtours, Pannekoekenboot, Portlantis, Maritiem Museum Professor Plons, Remastered, Watertaxi, Floating Farm, Spido).
+  - **The Hague**: Rebalanced to **8 spots** (Madurodam, Sea Life, Museon-Omniversum, Drievliet, CORPUS, Meijendel Tapuit, Uithof, Clingendael Playground).
+  - **Utrecht**: Rebalanced to **10 spots** (Nijntje Museum, Spoorwegmuseum, Museum Speelklok, Universiteitsmuseum, Kasteel de Haar, DOMunder, DierenPark Amersfoort, Pyramid of Austerlitz, Castellum Hoge Woerd, Griftpark).
+  - **Maastricht**: Rebalanced to **12 spots** (GaiaZOO, Discovery Museum, Sprookjesbos, Kabelbaan/Rodelbaan, Miljoenenlijn Steam Train, Kasteel Hoensbroek, Mondo Verde, MergelRijk, St Pietersberg Caves, Natural History Museum, Steenkolenmijn, SnowWorld).
+- **5-Layer Compliance Guard**: Passed 100% clean across all **1,104 spots in 22 cities**.
+- **Master Asset Version**: Bumped to `v=118.0`.
+
+---
+
 ## 🏷️ [v42.0.0] - 2026-08-18 (Netherlands 5-City 2026 Comprehensive Fact-Check & Venue Reopening Release)
 
 ### 🇳🇱 Netherlands 5-City 2026 Upgrades (`v42.0.0`)
