@@ -1,6 +1,0 @@
-<USER_REQUEST>
-この資料を参考にできる？
-</USER_REQUEST>
-<ADDITIONAL_METADATA>
-The current local time is: 2026-08-18T19:54:45+02:00.
-</ADDITIONAL_METADATA>

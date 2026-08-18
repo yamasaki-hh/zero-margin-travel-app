@@ -2,6 +2,24 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v35.0.0] - 2026-08-18 (Amsterdam 60 Spots Deep Verification & Systemic Integration Release)
+
+### 🇳🇱 Amsterdam 60 Verified Spots Expansion (`v35.0.0`)
+- **Multi-Agent Deep Research & Cross-City Overlap Cleanup**:
+  - Expanded `amsterdam.json` to **60 100% unique, verified spots** (`a_1` to `a_60`).
+  - Systematically resolved cross-city duplication (moved *De Haar Castle* to Utrecht, *Mauritshuis* & *Madurodam* to The Hague, *Markthal* to Rotterdam, *Efteling* to Tilburg/Brabant).
+  - Replaced duplicate spots with iconic Amsterdam cultural landmarks: Concertgebouw (`a_60`), Kattenkabinet (`a_55`), Museum Van Loon (`a_57`), Willet-Holthuysen (`a_56`), Electric Ladyland (`a_54`), House of Bols (`a_59`), Singel & Herengracht Canal Ring (`a_53`), and Amsterdam Museum (`a_58`).
+- **2025–2026 Fact-Checking Verification**:
+  - Anne Frank House (`a_3`): Tuesday 10:00 AM (CEST) online release rule exactly 6 weeks in advance.
+  - Van Gogh Museum (`a_2`) & Rijksmuseum (`a_1`): 100% online advance booking rules and 9:00 AM Gallery of Honour routing.
+  - NEMO Science Museum (`a_15`): Free cascading rooftop terrace entry via outdoor stairs.
+  - OBA Oosterdok (`a_40`): Free 7th-floor library terrace panoramic view.
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 894 spots across 22 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Total System Count**: **22 Cities, 894 Verified Spots**.
+- **Cache Busters**: Updated asset version string in `index.html` to `v=109.0`.
+
+---
+
 ## 🏷️ [v34.0.0] - 2026-08-18 (Dutch 300 Spots Integration & The Hague Expansion Release)
 
 ### 🇳🇱 Netherlands Master Dataset Integration (`v34.0.0`)
