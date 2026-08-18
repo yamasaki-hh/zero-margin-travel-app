@@ -138,15 +138,18 @@ js_path = os.path.join(base_dir, '..', 'js', 'ai-travel-engine.js')
 with open(js_path, 'r', encoding='utf-8') as f:
     js_code = f.read()
 
+# 1. Update candidateSpotsDatabase
 db_marker = 'const candidateSpotsDatabase = '
-start_idx = js_code.find(db_marker)
-if start_idx != -1:
-    end_idx = js_code.find(';\n', start_idx)
-    if end_idx != -1:
-        new_db_json = json.dumps(db, indent=2, ensure_ascii=False)
-        js_code = js_code[:start_idx + len(db_marker)] + new_db_json + js_code[end_idx:]
+func_marker = '\nfunction getCategoryIcon(cat)'
 
-# Update countryCityMap dynamically in js/ai-travel-engine.js
+start_idx = js_code.find(db_marker)
+func_idx = js_code.find(func_marker)
+
+if start_idx != -1 and func_idx != -1:
+    new_db_json = json.dumps(db, indent=2, ensure_ascii=False)
+    js_code = js_code[:start_idx + len(db_marker)] + new_db_json + ';\n\n' + js_code[func_idx:]
+
+# 2. Update countryCityMap dynamically in js/ai-travel-engine.js
 new_country_map = {
     'France': [
         {'value': 'Paris, France', 'label': '🇫🇷 Paris'},
@@ -183,12 +186,14 @@ new_country_map = {
 }
 
 map_marker = 'countryCityMap: '
-m_start = js_code.find(map_marker)
-if m_start != -1:
-    m_end = js_code.find(',\n\n  onCountryChange()', m_start)
-    if m_end != -1:
-        map_json = json.dumps(new_country_map, indent=4, ensure_ascii=False)
-        js_code = js_code[:m_start + len(map_marker)] + map_json + js_code[m_end:]
+on_country_marker = '\n  onCountryChange()'
+
+m_start = js_code.rfind(map_marker)
+m_end = js_code.find(on_country_marker, m_start if m_start != -1 else 0)
+
+if m_start != -1 and m_end != -1:
+    map_json = json.dumps(new_country_map, indent=4, ensure_ascii=False)
+    js_code = js_code[:m_start + len(map_marker)] + map_json + ',\n' + js_code[m_end:]
 
 with open(js_path, 'w', encoding='utf-8') as f:
     f.write(js_code)

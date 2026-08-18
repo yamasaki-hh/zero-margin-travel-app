@@ -2,6 +2,18 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v40.1.0] - 2026-08-18 (Netherlands 5-City & Germany Full Dropdown RFind Fix Release)
+
+### 🇳🇱 Netherlands 5-City & Germany Dropdown Replacement Fix (`v40.1.0`)
+- **True Root Cause Resolved**:
+  - Found that `js/ai-travel-engine.js` had multiple `countryCityMap` declarations and `rebuild_js_database.py` used `js_code.find('countryCityMap: ')` which matched the wrong early block instead of the live object inside `AITravelEngine`.
+  - Switched `rebuild_js_database.py` to `js_code.rfind('countryCityMap: ')`, successfully injecting **Rotterdam**, **The Hague**, **Utrecht**, and **Maastricht** into the active UI dropdown object.
+- **Verification**:
+  - Confirmed all 5 Netherlands cities and all 8 Germany cities are present in `AITravelEngine.countryCityMap`.
+  - Master Asset Version bumped to `v=115.0`.
+
+---
+
 ## 🏷️ [v40.0.0] - 2026-08-18 (Netherlands 5-City Full Dropdown & 60-Spot Render Engine Fix Release)
 
 ### 🇳🇱 Netherlands 5-City UI Dropdown & Data Binding Fix (`v40.0.0`)
