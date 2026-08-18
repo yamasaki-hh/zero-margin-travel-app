@@ -2,6 +2,20 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v38.0.0] - 2026-08-18 (Utrecht 60 Spots Deep Verification & Systemic Integration Release)
+
+### 🇳🇱 Utrecht 60 Verified Spots Expansion (`v38.0.0`)
+- **Multi-Agent Deep Research & Utrecht Integration**:
+  - Expanded `utrecht.json` to **60 100% unique, verified spots** (`ut_1` to `ut_60`).
+  - Added iconic medieval landmarks: Domtoren (`ut_1`, noting 2024 restoration completion & new illumination), Domkerk & Pandhof (`ut_2`), Oudegracht & Werfkelder (`ut_3`), Nijntje/Miffy Museum (`ut_4`), Rietveld Schröderhuis (`ut_5`, UNESCO), Centraal Museum (`ut_6`), Museum Speelklok (`ut_7`), Spoorwegmuseum (`ut_8`), Kasteel de Haar (`ut_9`), and DOMunder (`ut_10`).
+  - Integrated urban & cultural spots: TivoliVredenburg (`ut_11`), Bibliotheek Neude (`ut_13`), Museum Catharijneconvent (`ut_14`), Sonnenborgh Observatory (`ut_15`), Zocherpark (`ut_16`), Janskerkhof Flower Market (`ut_17`), Nieuwegracht (`ut_18`), Miffy Statue (`ut_20`), and Stadskasteel Oudaen (`ut_25`).
+  - Integrated suburban day-trips: Pyramide van Austerlitz (`ut_31`), Utrechtse Heuvelrug National Park (`ut_32`), Kasteel Amerongen (`ut_33`), Slot Zeist (`ut_34`), Historisch Amersfoort (`ut_35`), Mondriaanhuis (`ut_36`), DierenPark Amersfoort (`ut_37`), National Military Museum Soesterberg (`ut_38`), Paleis Soestdijk (`ut_39`), and Woerden Cheese Market (`ut_41`).
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 1,042 spots across 22 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Total System Count**: **22 Cities, 1,049 Verified Spots**.
+- **Cache Busters**: Updated asset version string in `index.html` to `v=112.0`.
+
+---
+
 ## 🏷️ [v37.0.0] - 2026-08-18 (The Hague 60 Spots Deep Verification & Systemic Integration Release)
 
 ### 🇳🇱 The Hague 60 Verified Spots Expansion (`v37.0.0`)
