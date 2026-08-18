@@ -2,6 +2,20 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v36.0.0] - 2026-08-18 (Rotterdam 60 Spots Deep Verification & Systemic Integration Release)
+
+### 🇳🇱 Rotterdam 60 Verified Spots Expansion (`v36.0.0`)
+- **Multi-Agent Deep Research & Rotterdam Integration**:
+  - Expanded `rotterdam.json` to **60 100% unique, verified spots** (`ro_1` to `ro_60`).
+  - Added modern architecture landmarks: Erasmusbrug (`ro_1`), Markthal (`ro_2`), Kijk-Kubus (`ro_3`), Depot Boijmans (`ro_4`), Euromast (`ro_5`), De Rotterdam (`ro_9`), Van Nelle Fabriek (`ro_48`), and Floating Farm (`ro_49`).
+  - Added maritime & cultural icons: SS Rotterdam (`ro_8`), Water Taxi (`ro_10`), Hotel New York (`ro_11`), Fenix Food Factory (`ro_12`), Fenix Migration Museum (`ro_35`), Maritime Museum (`ro_16`), Witte de Withstraat (`ro_17`), and Remastered Rotterdam (`ro_27`).
+  - Integrated suburban day-trips: Kinderdijk Windmills (`ro_6`), Gouda (`ro_41`), Dordrecht (`ro_42`), De Biesbosch National Park (`ro_43`), FutureLand Maasvlakte 2 (`ro_44`), Schiedam Windmills (`ro_45`), and Hook of Holland Beach (`ro_46`).
+- **5-Layer Compliance Guard PASSED**: `🛡️ 5-Layer Compliance Guard PASSED: All 949 spots across 22 cities pass Language Hygiene, Non-Empty, Category & Hybrid Name checks!`
+- **Total System Count**: **22 Cities, 949 Verified Spots**.
+- **Cache Busters**: Updated asset version string in `index.html` to `v=110.0`.
+
+---
+
 ## 🏷️ [v35.0.0] - 2026-08-18 (Amsterdam 60 Spots Deep Verification & Systemic Integration Release)
 
 ### 🇳🇱 Amsterdam 60 Verified Spots Expansion (`v35.0.0`)
