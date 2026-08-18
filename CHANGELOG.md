@@ -2,6 +2,21 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v44.0.0] - 2026-08-18 (Benelux 5-City 300-Spot Expansion & Integration Release)
+
+### 🇧🇪🇱🇺 Benelux 5-City Expansion & Integration (`v44.0.0`)
+- **300 Benelux Spots Added Across 5 Cities**:
+  - **Brussels (ブリュッセル, `b_1`..`b_60`)**: Capital expansion to 60 spots (Grand Place, Manneken Pis, Atomium, Mini-Europe, Cantillon Brewery, Horta Museum, Royal Palace, Belgian Comic Strip Center, etc.).
+  - **Bruges (ブルージュ, `bg_1`..`bg_60`)**: New 60-spot medieval canal city (Belfry, Church of Our Lady, Minnewater, De Halve Maan 3.2km beer pipeline, Groeningemuseum, Frietmuseum, etc.).
+  - **Antwerp (アントワープ, `ant_1`..`ant_60`)**: New 60-spot port & fashion capital (Central Station, Cathedral of Our Lady & Rubens altarpieces, MAS free 10th-floor roof, Plantin-Moretus Museum, Port House, St. Anna Wooden Escalator Tunnel, etc.).
+  - **Ghent (ゲント, `gh_1`..`gh_60`)**: New 60-spot guildhall city (Gravensteen Castle, St. Bavo's Cathedral & Van Eyck *Ghent Altarpiece*, Belfry Dragon, St. Michael's Bridge 3-Towers view, Graffiti Street, Dulle Griet shoe pub, etc.).
+  - **Luxembourg City (ルクセンブルク市, `lux_1`..`lux_60`)**: Capital & nationwide expansion to 60 spots (Bock Casemates, Chemin de la Corniche, Pfaffenthal Glass Elevator, Adolphe Bridge, 100% Free Nationwide Transit guide, Vianden Castle, Mullerthal Little Switzerland, Schengen, etc.).
+- **Total European Database Expansion**: Expanded from 1,104 spots (22 cities) to **1,371 spots across 25 cities in 5 European nations** (France, Germany, Netherlands, Belgium, Luxembourg).
+- **5-Layer Compliance Guard**: Passed 100% clean across all **1,371 spots** (Language Hygiene, Non-Empty Fields, Category Rules, Universal 6-Language Hybrid Names).
+- **Master Asset Version**: Bumped to `v=119.0`.
+
+---
+
 ## 🏷️ [v43.0.0] - 2026-08-18 (Netherlands 5-City Kids Tag Rebalancing & Quality Audit Release)
 
 ### 🇳🇱 Netherlands 5-City Kids Tag Rebalancing (`v43.0.0`)

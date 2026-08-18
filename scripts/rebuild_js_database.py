@@ -8,10 +8,11 @@ base_dir = os.path.dirname(os.path.abspath(__file__))
 
 print("🚀 Running Integrated End-to-End Build Pipeline (v3.0.0)...")
 
-# 1. Fetch & verify all Wikipedia photos
-fetcher_script = os.path.join(base_dir, 'auto_wikipedia_image_fetcher.py')
-if os.path.exists(fetcher_script):
-    subprocess.run(['python3', fetcher_script], check=True)
+# 1. Fetch & verify all Wikipedia photos (optional via FETCH_WIKI=1)
+if os.environ.get('FETCH_WIKI') == '1':
+    fetcher_script = os.path.join(base_dir, 'auto_wikipedia_image_fetcher.py')
+    if os.path.exists(fetcher_script):
+        subprocess.run(['python3', fetcher_script], check=True)
 
 # 2. Universal Multilingual Hybrid Name Standard
 hybrid_script = os.path.join(base_dir, 'make_all_names_hybrid.py')
@@ -41,12 +42,15 @@ db = {}
 
 city_name_map = {
     "amsterdam.json": "Amsterdam, Netherlands",
+    "antwerp.json": "Antwerp, Belgium",
     "berlin.json": "Berlin, Germany",
     "bordeaux.json": "Bordeaux, France",
+    "bruges.json": "Bruges, Belgium",
     "brussels.json": "Brussels, Belgium",
     "cologne.json": "Cologne, Germany",
     "dresden.json": "Dresden, Germany",
     "frankfurt.json": "Frankfurt, Germany",
+    "ghent.json": "Ghent, Belgium",
     "hamburg.json": "Hamburg, Germany",
     "heidelberg.json": "Heidelberg, Germany",
     "luxembourg.json": "Luxembourg City, Luxembourg",
@@ -178,7 +182,10 @@ new_country_map = {
         {'value': 'Maastricht, Netherlands', 'label': '🇳🇱 Maastricht'}
     ],
     'Belgium': [
-        {'value': 'Brussels, Belgium', 'label': '🇧🇪 Brussels'}
+        {'value': 'Brussels, Belgium', 'label': '🇧🇪 Brussels'},
+        {'value': 'Bruges, Belgium', 'label': '🇧🇪 Bruges'},
+        {'value': 'Antwerp, Belgium', 'label': '🇧🇪 Antwerp'},
+        {'value': 'Ghent, Belgium', 'label': '🇧🇪 Ghent'}
     ],
     'Luxembourg': [
         {'value': 'Luxembourg City, Luxembourg', 'label': '🇱🇺 Luxembourg'}

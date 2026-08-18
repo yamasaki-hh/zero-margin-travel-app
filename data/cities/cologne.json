@@ -2171,7 +2171,7 @@
       "locationZone": "suburban",
       "lat": 50.8306,
       "lng": 6.8778,
-      "kids": true,
+      "kids": false,
       "rain": false,
       "shopping": false,
       "free": true,
