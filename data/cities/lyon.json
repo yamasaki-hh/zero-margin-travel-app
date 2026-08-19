@@ -52,7 +52,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_2",
@@ -104,7 +105,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_3",
@@ -156,7 +158,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_4",
@@ -208,7 +211,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_5",
@@ -263,7 +267,8 @@
         "Landmark",
         "Museum",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "lyon_6",
@@ -317,7 +322,8 @@
         "Café",
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_7",
@@ -369,7 +375,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_8",
@@ -421,7 +428,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_9",
@@ -473,7 +481,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_10",
@@ -526,7 +535,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_11",
@@ -578,7 +588,8 @@
       "price_nl": "Entry: €8",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_12",
@@ -631,7 +642,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_13",
@@ -684,7 +696,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_14",
@@ -736,7 +749,8 @@
       "price_nl": "Admission: €9–€10",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_15",
@@ -789,7 +803,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_16",
@@ -841,7 +856,8 @@
       "price_nl": "Entry: €12",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_17",
@@ -893,7 +909,8 @@
       "price_nl": "Entry: €6",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_18",
@@ -945,7 +962,8 @@
       "price_nl": "Entry: €7",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_19",
@@ -997,7 +1015,8 @@
       "price_nl": "Entry: €8",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_20",
@@ -1051,7 +1070,8 @@
         "Kids",
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_21",
@@ -1103,7 +1123,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_22",
@@ -1155,7 +1176,8 @@
       "price_nl": "Entry: €8",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_23",
@@ -1207,7 +1229,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Café"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_24",
@@ -1259,7 +1282,8 @@
       "price_nl": "Meal: €25–€40",
       "categories": [
         "Café"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_25",
@@ -1312,7 +1336,8 @@
       "categories": [
         "Café",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_26",
@@ -1364,7 +1389,8 @@
       "price_nl": "Slice: €4.50",
       "categories": [
         "Café"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_27",
@@ -1417,7 +1443,8 @@
       "categories": [
         "Café",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "lyon_28",
@@ -1469,7 +1496,8 @@
       "price_nl": "Meal: €30–€45",
       "categories": [
         "Café"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_29",
@@ -1522,7 +1550,8 @@
       "categories": [
         "Café",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "lyon_30",
@@ -1574,7 +1603,8 @@
       "price_nl": "Menu: €185–€320",
       "categories": [
         "Café"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_31",
@@ -1627,7 +1657,8 @@
       "categories": [
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_32",
@@ -1680,7 +1711,8 @@
       "categories": [
         "Café",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_33",
@@ -1732,7 +1764,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_34",
@@ -1784,7 +1817,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_35",
@@ -1836,7 +1870,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_36",
@@ -1889,7 +1924,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_37",
@@ -1943,7 +1979,8 @@
         "Café",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "lyon_38",
@@ -1996,7 +2033,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_39",
@@ -2049,7 +2087,8 @@
       "categories": [
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_40",
@@ -2104,7 +2143,8 @@
         "Landmark",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "lyon_41",
@@ -2157,7 +2197,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_42",
@@ -2210,7 +2251,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_43",
@@ -2262,7 +2304,8 @@
       "price_nl": "Show: €11",
       "categories": [
         "Kids"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_44",
@@ -2315,7 +2358,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_45",
@@ -2368,7 +2412,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "lyon_46",
@@ -2421,7 +2466,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     }
   ]
 }

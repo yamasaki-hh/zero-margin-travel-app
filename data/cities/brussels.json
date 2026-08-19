@@ -48,7 +48,8 @@
       "Café",
       "Landmark",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_2",
@@ -97,7 +98,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_3",
@@ -147,7 +149,8 @@
     "categories": [
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_4",
@@ -196,7 +199,8 @@
     "price_nl": "Entry: €15.00",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_5",
@@ -246,7 +250,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_6",
@@ -295,7 +300,8 @@
     "price_nl": "Nave Free / Crypt: €3.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_7",
@@ -346,7 +352,8 @@
       "Café",
       "Kids",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_8",
@@ -396,8 +403,10 @@
     "categories": [
       "Kids",
       "Landmark",
-      "Scenery"
-    ]
+      "Scenery",
+      "Night"
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_9",
@@ -448,7 +457,8 @@
       "Kids",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_10",
@@ -501,7 +511,8 @@
       "Landmark",
       "Night",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_11",
@@ -553,7 +564,8 @@
       "Landmark",
       "Night",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_12",
@@ -602,7 +614,8 @@
     "price_nl": "Entry: €15.00",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_13",
@@ -651,7 +664,8 @@
     "price_nl": "Entry: €13.00",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_14",
@@ -700,7 +714,8 @@
     "price_nl": "Free Walk",
     "categories": [
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_15",
@@ -750,7 +765,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_16",
@@ -801,7 +817,8 @@
       "Kids",
       "Museum",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_17",
@@ -852,7 +869,8 @@
       "Kids",
       "Museum",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_18",
@@ -904,7 +922,8 @@
       "Kids",
       "Night",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_19",
@@ -953,7 +972,8 @@
     "price_nl": "Free Entry (Passport Required)",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_20",
@@ -1005,7 +1025,8 @@
       "Museum",
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_21",
@@ -1054,7 +1075,8 @@
     "price_nl": "Free (Beer ~€5-18)",
     "categories": [
       "Café"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_22",
@@ -1103,7 +1125,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_23",
@@ -1154,7 +1177,8 @@
       "Café",
       "Night",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_24",
@@ -1206,7 +1230,8 @@
       "Landmark",
       "Night",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_25",
@@ -1256,7 +1281,8 @@
     "categories": [
       "Landmark",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_26",
@@ -1305,7 +1331,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_27",
@@ -1356,7 +1383,8 @@
       "Café",
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_28",
@@ -1405,7 +1433,8 @@
     "price_nl": "Show Tickets Var / Tour ~€12.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_29",
@@ -1454,7 +1483,8 @@
     "price_nl": "Entry: €5.00 (Advance Booking Required)",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_30",
@@ -1506,7 +1536,8 @@
       "Kids",
       "Museum",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_31",
@@ -1556,7 +1587,8 @@
     "categories": [
       "Kids",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_32",
@@ -1607,7 +1639,8 @@
       "Café",
       "Landmark",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_33",
@@ -1657,7 +1690,8 @@
     "categories": [
       "Café",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_34",
@@ -1706,7 +1740,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_35",
@@ -1759,7 +1794,8 @@
       "Landmark",
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_36",
@@ -1808,7 +1844,8 @@
     "price_nl": "Entry: €15.00",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_37",
@@ -1859,7 +1896,8 @@
       "Kids",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_38",
@@ -1909,7 +1947,8 @@
     "categories": [
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_39",
@@ -1959,7 +1998,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_40",
@@ -2008,7 +2048,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_41",
@@ -2060,7 +2101,8 @@
       "Kids",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_42",
@@ -2110,7 +2152,8 @@
     "categories": [
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_43",
@@ -2160,7 +2203,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_44",
@@ -2212,7 +2256,8 @@
       "Landmark",
       "Night",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_45",
@@ -2263,7 +2308,8 @@
       "Kids",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_46",
@@ -2314,7 +2360,8 @@
       "Café",
       "Night",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_47",
@@ -2366,7 +2413,8 @@
       "Landmark",
       "Night",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_48",
@@ -2416,7 +2464,8 @@
     "categories": [
       "Café",
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_49",
@@ -2465,7 +2514,8 @@
     "price_nl": "Entry: €10.00",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_50",
@@ -2515,7 +2565,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_51",
@@ -2564,7 +2615,8 @@
     "price_nl": "Entry: €10.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_52",
@@ -2615,7 +2667,8 @@
       "Café",
       "Museum",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "b_53",
@@ -2664,7 +2717,8 @@
     "price_nl": "Free Walk",
     "categories": [
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_54",
@@ -2715,7 +2769,8 @@
       "Café",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "b_55",
@@ -2768,6 +2823,7 @@
       "Night",
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": true
   }
 ]

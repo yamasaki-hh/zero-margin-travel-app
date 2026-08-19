@@ -51,7 +51,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_2",
@@ -101,7 +102,8 @@
       "categories": [
         "Café",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_3",
@@ -151,7 +153,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_4",
@@ -200,7 +203,8 @@
       "price_nl": "Entry: €20.00",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_5",
@@ -250,7 +254,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_6",
@@ -300,7 +305,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_7",
@@ -349,7 +355,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_8",
@@ -398,7 +405,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_9",
@@ -447,7 +455,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_10",
@@ -496,7 +505,8 @@
       "price_nl": "Entry: 1回乗船: €4.50〜€10.00",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_11",
@@ -547,7 +557,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "ro_12",
@@ -596,7 +607,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Café"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_13",
@@ -647,7 +659,8 @@
         "Landmark",
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_14",
@@ -697,7 +710,8 @@
       "categories": [
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_15",
@@ -746,7 +760,8 @@
       "price_nl": "Entry: €14.00 (Huis Sonneveld共通)",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_16",
@@ -795,7 +810,8 @@
       "price_nl": "Toegang: €19.00",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_17",
@@ -846,7 +862,8 @@
         "Café",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "ro_18",
@@ -895,7 +912,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_19",
@@ -944,7 +962,8 @@
       "price_nl": "Entry: 聖堂入場: €3.00 / 塔登攀: €7.50",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_20",
@@ -993,7 +1012,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_21",
@@ -1042,7 +1062,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_22",
@@ -1092,7 +1113,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_23",
@@ -1142,7 +1164,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_24",
@@ -1190,8 +1213,10 @@
       "tip_nl": "⛴️ Sit on the upper open-air deck for views of supertankers and automated container cranes in action.",
       "price_nl": "Entry: €17.25",
       "categories": [
-        "Landmark"
-      ]
+        "Landmark",
+        "Night"
+      ],
+      "is_night_spot": true
     },
     {
       "id": "ro_25",
@@ -1242,7 +1267,8 @@
         "Café",
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "a_26",
@@ -1294,7 +1320,8 @@
         "Night",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "ro_27",
@@ -1343,7 +1370,8 @@
       "price_nl": "Entry: €24.50",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_28",
@@ -1396,7 +1424,8 @@
         "Night",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "ro_29",
@@ -1446,7 +1475,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_30",
@@ -1495,7 +1525,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_31",
@@ -1544,7 +1575,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_32",
@@ -1593,7 +1625,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_33",
@@ -1642,7 +1675,8 @@
       "price_nl": "Entry: €11.00",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_34",
@@ -1691,7 +1725,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_35",
@@ -1740,7 +1775,8 @@
       "price_nl": "Toegang: €15.00",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_36",
@@ -1789,7 +1825,8 @@
       "price_nl": "Entry: €27.50",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_37",
@@ -1838,7 +1875,8 @@
       "price_nl": "Entry: イベント入場料に準ずる (通常: 約€15〜€30)",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_38",
@@ -1889,7 +1927,8 @@
         "Café",
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_39",
@@ -1939,7 +1978,8 @@
       "categories": [
         "Café",
         "Kids"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_40",
@@ -1988,7 +2028,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_41",
@@ -2039,7 +2080,8 @@
         "Landmark",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_42",
@@ -2088,7 +2130,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_43",
@@ -2140,7 +2183,8 @@
         "Kids",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "ro_44",
@@ -2189,7 +2233,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_45",
@@ -2239,7 +2284,8 @@
       "categories": [
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_46",
@@ -2290,7 +2336,8 @@
         "Café",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "ro_47",
@@ -2340,7 +2387,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "ro_48",
@@ -2389,7 +2437,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     }
   ],
   "spotCount": 48

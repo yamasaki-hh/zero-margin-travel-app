@@ -52,7 +52,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_2",
@@ -102,7 +103,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_3",
@@ -151,7 +153,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_4",
@@ -201,7 +204,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_5",
@@ -250,7 +254,8 @@
       "price_nl": "Entry: €16.00",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_6",
@@ -300,7 +305,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_7",
@@ -351,7 +357,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dh_8",
@@ -400,7 +407,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_9",
@@ -450,7 +458,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_10",
@@ -500,7 +509,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_11",
@@ -552,7 +562,8 @@
         "Landmark",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dh_12",
@@ -603,7 +614,8 @@
         "Kids",
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_13",
@@ -652,7 +664,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_14",
@@ -701,7 +714,8 @@
       "price_nl": "Entry: €19.00",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_15",
@@ -751,7 +765,8 @@
       "categories": [
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_16",
@@ -801,7 +816,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_17",
@@ -851,7 +867,8 @@
       "categories": [
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_18",
@@ -900,7 +917,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_19",
@@ -949,7 +967,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_20",
@@ -999,7 +1018,8 @@
       "categories": [
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_21",
@@ -1050,7 +1070,8 @@
         "Café",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_22",
@@ -1101,7 +1122,8 @@
         "Landmark",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_23",
@@ -1151,7 +1173,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_24",
@@ -1200,7 +1223,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_25",
@@ -1249,7 +1273,8 @@
       "price_nl": "Entry: €12.50",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_26",
@@ -1299,7 +1324,8 @@
       "categories": [
         "Café",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_27",
@@ -1349,7 +1375,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_28",
@@ -1399,7 +1426,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_29",
@@ -1448,7 +1476,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_30",
@@ -1500,7 +1529,8 @@
         "Kids",
         "Museum",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dh_31",
@@ -1549,7 +1579,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_32",
@@ -1599,7 +1630,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_33",
@@ -1650,7 +1682,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dh_34",
@@ -1699,7 +1732,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_35",
@@ -1748,7 +1782,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_36",
@@ -1798,7 +1833,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_37",
@@ -1847,7 +1883,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_38",
@@ -1896,7 +1933,8 @@
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_39",
@@ -1947,7 +1985,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dh_40",
@@ -1997,7 +2036,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_41",
@@ -2048,7 +2088,8 @@
         "Landmark",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_42",
@@ -2098,7 +2139,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_43",
@@ -2148,7 +2190,8 @@
       "categories": [
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_44",
@@ -2198,7 +2241,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dh_45",
@@ -2248,7 +2292,8 @@
       "categories": [
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     }
   ],
   "spotCount": 45

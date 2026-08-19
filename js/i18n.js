@@ -39,6 +39,7 @@ const I18nEngine = {
         "step2.title": "Step 2: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places",
         "step2.subtitle": "Check the boxes for spots you definitely want to visit. The AI engine will generate both Route A (Selected Spots Only) and Route B (Full 1-Day AI Course) for Google Maps navigation!",
         "filter.presetGroup": "Scope:",
+        "filter.nightPreset": "🌙 奇妙夜景地标",
         "filter.night": "🌙 奇妙夜景",
         "filter.catAll": "🌐 全部类型",
         "filter.allPreset": "✨ 全部",

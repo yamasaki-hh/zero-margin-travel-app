@@ -46,7 +46,8 @@
     "price_nl": "Entry: €8.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_2",
@@ -96,7 +97,8 @@
     "categories": [
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_3",
@@ -145,7 +147,8 @@
     "price_nl": "Exterior/Guards Free / Tour ~€15.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_4",
@@ -194,7 +197,8 @@
     "price_nl": "Entry: €15.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_5",
@@ -243,7 +247,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_6",
@@ -293,7 +298,8 @@
     "categories": [
       "Café",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_7",
@@ -342,7 +348,8 @@
     "price_nl": "Grounds Free",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_8",
@@ -394,7 +401,8 @@
       "Kids",
       "Landmark",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "lux_9",
@@ -445,7 +453,8 @@
       "Landmark",
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_10",
@@ -495,7 +504,8 @@
     "categories": [
       "Café",
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_11",
@@ -545,7 +555,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_12",
@@ -596,7 +607,8 @@
       "Landmark",
       "Museum",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_13",
@@ -645,7 +657,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_14",
@@ -695,7 +708,8 @@
     "categories": [
       "Kids",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_15",
@@ -744,7 +758,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_16",
@@ -794,7 +809,8 @@
     "categories": [
       "Museum",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_17",
@@ -845,7 +861,8 @@
       "Landmark",
       "Museum",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_18",
@@ -895,7 +912,8 @@
     "categories": [
       "Café",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "lux_19",
@@ -944,7 +962,8 @@
     "price_nl": "Walk & Free Transit",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_20",
@@ -993,7 +1012,8 @@
     "price_nl": "Show Tickets Var / Lobby Concerts Free",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_21",
@@ -1042,7 +1062,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_22",
@@ -1092,7 +1113,8 @@
     "categories": [
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_23",
@@ -1143,7 +1165,8 @@
       "Kids",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_24",
@@ -1191,8 +1214,10 @@
     "tip_nl": "☕ Admission to all exhibitions is completely free. Visit Casino Café-Restaurant for specialty coffee in an artistic setting.",
     "price_nl": "Free Entry",
     "categories": [
-      "Museum"
-    ]
+      "Museum",
+      "Night"
+    ],
+    "is_night_spot": true
   },
   {
     "id": "lux_25",
@@ -1241,7 +1266,8 @@
     "price_nl": "Entry: €5.00 (Under 26 Free)",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_26",
@@ -1292,7 +1318,8 @@
       "Café",
       "Landmark",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "lux_27",
@@ -1343,7 +1370,8 @@
       "Café",
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_28",
@@ -1394,7 +1422,8 @@
       "Café",
       "Landmark",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "lux_29",
@@ -1443,7 +1472,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_30",
@@ -1495,7 +1525,8 @@
       "Landmark",
       "Night",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "lux_31",
@@ -1544,7 +1575,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_32",
@@ -1595,7 +1627,8 @@
       "Kids",
       "Museum",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_33",
@@ -1644,7 +1677,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_34",
@@ -1693,7 +1727,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_35",
@@ -1744,7 +1779,8 @@
       "Kids",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_36",
@@ -1793,11 +1829,12 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_37",
-    "name": "Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
+    "name": "Fontaine Amélie & Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
     "category": "Scenery & Walk",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1812,12 +1849,12 @@
     "image": "",
     "wikiImage": "",
     "hasWiki": false,
-    "name_en": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
-    "name_ja": "Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
-    "name_es": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
-    "name_zh": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
-    "name_fr": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
-    "name_de": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
+    "name_en": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
+    "name_ja": "Fontaine Amélie & Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
+    "name_es": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
+    "name_zh": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
+    "name_fr": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
+    "name_de": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
     "desc_en": "Cobblestone square tucked between Place d'Armes and Grand-Rue featuring outdoor cafe seating, memorials, and Fontaine Amélie.",
     "desc_ja": "ダルム広場とグラン通りの間にひっそりと佇む石畳の隠れ広場。アメリーの噴水と落ち着いたカフェテラスが並ぶ。",
     "desc_es": "Cobblestone square tucked between Place d'Armes and Grand-Rue featuring outdoor cafe seating, memorials, and Fontaine Amélie.",
@@ -1836,7 +1873,7 @@
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
     "price_de": "Free Walk",
-    "name_nl": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
+    "name_nl": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
     "desc_nl": "Cobblestone square tucked between Place d'Armes and Grand-Rue featuring outdoor cafe seating, memorials, and Fontaine Amélie.",
     "tip_nl": "☕ A quieter alternative to the main squares for enjoying a morning coffee with a warm Luxembourgish pastry.",
     "price_nl": "Free Walk",
@@ -1844,7 +1881,8 @@
       "Café",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_38",
@@ -1893,7 +1931,8 @@
     "price_nl": "Free (Advance Registration)",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_39",
@@ -1942,7 +1981,8 @@
     "price_nl": "Pool ~€6.00 / Sauna ~€20.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_40",
@@ -1993,7 +2033,8 @@
       "Café",
       "Landmark",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_41",
@@ -2042,7 +2083,8 @@
     "price_nl": "Castle €10.00 / Lift ~€8.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "lux_42",
@@ -2091,6 +2133,7 @@
     "price_nl": "Free Walk",
     "categories": [
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   }
 ]

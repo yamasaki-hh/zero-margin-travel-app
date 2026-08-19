@@ -48,7 +48,8 @@
       "Café",
       "Landmark",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_2",
@@ -97,7 +98,8 @@
     "price_nl": "Entry: €7.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_3",
@@ -147,7 +149,8 @@
     "categories": [
       "Landmark",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_4",
@@ -196,7 +199,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_5",
@@ -245,7 +249,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_6",
@@ -294,7 +299,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_7",
@@ -344,7 +350,8 @@
     "categories": [
       "Museum",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "ma_8",
@@ -397,7 +404,8 @@
       "Landmark",
       "Museum",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_9",
@@ -446,7 +454,8 @@
     "price_nl": "Toegang: €22.00",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_10",
@@ -496,7 +505,8 @@
     "categories": [
       "Café",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_11",
@@ -545,7 +555,8 @@
     "price_nl": "Toegang: Rondleiding vanaf €9.95",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_12",
@@ -595,7 +606,8 @@
     "categories": [
       "Landmark",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_13",
@@ -644,7 +656,8 @@
     "price_nl": "Gratis kerk / Toren €4.00",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_14",
@@ -693,7 +706,8 @@
     "price_nl": "Entry: €9.50",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_15",
@@ -745,7 +759,8 @@
       "Landmark",
       "Night",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "ma_16",
@@ -795,7 +810,8 @@
     "categories": [
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_17",
@@ -845,7 +861,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_18",
@@ -896,7 +913,8 @@
       "Café",
       "Night",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "ma_19",
@@ -945,7 +963,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_20",
@@ -995,7 +1014,8 @@
     "categories": [
       "Café",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_21",
@@ -1045,7 +1065,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_22",
@@ -1096,7 +1117,8 @@
       "Café",
       "Night",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "ma_23",
@@ -1146,7 +1168,8 @@
     "categories": [
       "Café",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_24",
@@ -1195,7 +1218,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_25",
@@ -1245,7 +1269,8 @@
     "categories": [
       "Café",
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_26",
@@ -1295,7 +1320,8 @@
     "categories": [
       "Landmark",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_27",
@@ -1345,7 +1371,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_28",
@@ -1394,7 +1421,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_29",
@@ -1445,7 +1473,8 @@
       "Café",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_30",
@@ -1494,7 +1523,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_31",
@@ -1545,7 +1575,8 @@
       "Landmark",
       "Scenery",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_32",
@@ -1594,7 +1625,8 @@
     "price_nl": "Entry: €14.50 (洞窟共通券)",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_33",
@@ -1644,7 +1676,8 @@
     "categories": [
       "Landmark",
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_34",
@@ -1693,7 +1726,8 @@
     "price_nl": "Entry: €42.50 (全日スパパス)",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_35",
@@ -1744,7 +1778,8 @@
       "Kids",
       "Museum",
       "Night"
-    ]
+    ],
+    "is_night_spot": true
   },
   {
     "id": "ma_36",
@@ -1793,7 +1828,8 @@
     "price_nl": "Entry: €13.00",
     "categories": [
       "Museum"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_37",
@@ -1844,7 +1880,8 @@
       "Café",
       "Landmark",
       "Scenery"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_38",
@@ -1893,7 +1930,8 @@
     "price_nl": "Free Entry",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_39",
@@ -1942,7 +1980,8 @@
     "price_nl": "Entry: €14.50",
     "categories": [
       "Landmark"
-    ]
+    ],
+    "is_night_spot": false
   },
   {
     "id": "ma_40",
@@ -1992,6 +2031,7 @@
     "categories": [
       "Landmark",
       "Shopping"
-    ]
+    ],
+    "is_night_spot": false
   }
 ]

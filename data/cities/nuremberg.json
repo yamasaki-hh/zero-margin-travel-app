@@ -51,7 +51,8 @@
       "price_nl": "Castle & Sinwell Tower Combo: €10",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_2",
@@ -100,7 +101,8 @@
         "Landmark",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_3",
@@ -149,7 +151,8 @@
       "price_nl": "Free Access",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_4",
@@ -196,7 +199,8 @@
       "price_nl": "Church Access Free / Organ Concerts & Tower: €3.50",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_5",
@@ -243,7 +247,8 @@
       "price_nl": "Church Access Free / Small Donation €2 Suggested",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_6",
@@ -290,7 +295,8 @@
       "price_nl": "Church Access Free / Small Donation Suggested",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_7",
@@ -339,7 +345,8 @@
       "price_nl": "Adults: €10 / Reduced: €6 / Free Wednesday 17:30–20:30",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_8",
@@ -388,7 +395,8 @@
       "price_nl": "Adults: €7.50 / Reduced: €2.50 / Under 18 Free",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_9",
@@ -438,7 +446,8 @@
       "categories": [
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_10",
@@ -485,7 +494,8 @@
       "price_nl": "Bridge & Area Walk: Free",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_11",
@@ -534,7 +544,8 @@
       "price_nl": "Courtyard & View Free / Restaurant Dining Variable",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_12",
@@ -585,7 +596,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_13",
@@ -635,7 +647,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_14",
@@ -685,7 +698,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_15",
@@ -734,7 +748,8 @@
       "price_nl": "Adults: €9 / Reduced: €5 / Family: €18",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_16",
@@ -784,7 +799,8 @@
       "categories": [
         "Museum",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_17",
@@ -833,7 +849,8 @@
       "price_nl": "Guided Tour: €11 / Reduced: €9.50 (Online booking mandatory)",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_18",
@@ -883,7 +900,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_19",
@@ -930,7 +948,8 @@
       "price_nl": "Guided Tour: €5 / Reduced: €2.50",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_20",
@@ -980,7 +999,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_21",
@@ -1029,7 +1049,8 @@
       "price_nl": "Adults: €7 / Reduced: €6 / Sundays Only €1",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_22",
@@ -1077,7 +1098,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_23",
@@ -1129,7 +1151,8 @@
         "Night",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "nu_24",
@@ -1179,7 +1202,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_25",
@@ -1228,7 +1252,8 @@
       "price_nl": "Free Access",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_26",
@@ -1275,7 +1300,8 @@
       "price_nl": "Bridge Walk: Free",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_27",
@@ -1322,7 +1348,8 @@
       "price_nl": "Moat & Wall Walk: Free",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_28",
@@ -1371,7 +1398,8 @@
       "price_nl": "Free Access (Respectful Silence Required)",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_29",
@@ -1419,7 +1447,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_30",
@@ -1469,7 +1498,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_31",
@@ -1517,7 +1547,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_32",
@@ -1566,7 +1597,8 @@
         "Café",
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_33",
@@ -1614,7 +1646,8 @@
       "categories": [
         "Café",
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_34",
@@ -1663,7 +1696,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "nu_35",
@@ -1713,7 +1747,8 @@
       "categories": [
         "Café",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_36",
@@ -1763,7 +1798,8 @@
         "Landmark",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_37",
@@ -1813,7 +1849,8 @@
       "categories": [
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_38",
@@ -1863,7 +1900,8 @@
         "Night",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "nu_39",
@@ -1911,7 +1949,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_40",
@@ -1962,7 +2001,8 @@
         "Kids",
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_41",
@@ -2015,7 +2055,8 @@
         "Museum",
         "Night",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "nu_42",
@@ -2068,7 +2109,8 @@
         "Night",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "nu_43",
@@ -2116,7 +2158,8 @@
       "categories": [
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "nu_44",
@@ -2167,7 +2210,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "nu_45",
@@ -2217,7 +2261,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     }
   ],
   "spotCount": 45

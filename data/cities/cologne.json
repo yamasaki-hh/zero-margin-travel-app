@@ -47,7 +47,8 @@
       "price_nl": "Tourist Entry: €12 / Tower Climb: €8 (Prayer & Services Free)",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_2",
@@ -94,7 +95,8 @@
       "price_nl": "通行無料",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_3",
@@ -141,7 +143,8 @@
       "price_nl": "散策無料",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_4",
@@ -188,7 +191,8 @@
       "price_nl": "広場無料",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_5",
@@ -235,7 +239,8 @@
       "price_nl": "外観無料",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_6",
@@ -284,7 +289,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_7",
@@ -333,7 +339,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_8",
@@ -381,7 +388,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_9",
@@ -430,7 +438,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_10",
@@ -478,7 +487,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_11",
@@ -525,7 +535,8 @@
       "price_nl": "入場料: 13€",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_12",
@@ -573,7 +584,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_13",
@@ -620,7 +632,8 @@
       "price_nl": "ツアー料: 9€",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_14",
@@ -667,7 +680,8 @@
       "price_nl": "入館無料",
       "categories": [
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_15",
@@ -715,7 +729,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_16",
@@ -762,7 +777,8 @@
       "price_nl": "入場料: 6€",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_17",
@@ -809,7 +825,8 @@
       "price_nl": "入場料: 4.50€",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_18",
@@ -856,7 +873,8 @@
       "price_nl": "入場料: 10€",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_19",
@@ -904,7 +922,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_20",
@@ -951,7 +970,8 @@
       "price_nl": "入場料: 9.50€",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_21",
@@ -1000,7 +1020,8 @@
         "Kids",
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_22",
@@ -1048,7 +1069,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_23",
@@ -1097,7 +1119,8 @@
         "Kids",
         "Museum",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_24",
@@ -1145,7 +1168,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_25",
@@ -1193,7 +1217,8 @@
       "categories": [
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_26",
@@ -1242,7 +1267,8 @@
         "Café",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_27",
@@ -1290,7 +1316,8 @@
       "categories": [
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_28",
@@ -1338,7 +1365,8 @@
       "categories": [
         "Café",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_29",
@@ -1387,7 +1415,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_30",
@@ -1435,7 +1464,8 @@
       "categories": [
         "Café",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_31",
@@ -1483,7 +1513,8 @@
       "categories": [
         "Café",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_32",
@@ -1532,7 +1563,8 @@
         "Café",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_33",
@@ -1579,7 +1611,8 @@
       "price_nl": "ケルシュ: 2.40€",
       "categories": [
         "Café"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_34",
@@ -1627,7 +1660,8 @@
       "categories": [
         "Café",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_35",
@@ -1675,7 +1709,8 @@
       "categories": [
         "Café",
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_36",
@@ -1722,7 +1757,8 @@
       "price_nl": "入場無料（イベント時別）",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_37",
@@ -1771,7 +1807,8 @@
         "Kids",
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_38",
@@ -1819,7 +1856,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_39",
@@ -1867,7 +1905,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_40",
@@ -1915,7 +1954,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_41",
@@ -1963,7 +2003,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_42",
@@ -2010,8 +2051,10 @@
       "price_nl": "クルーズ: 15€",
       "categories": [
         "Landmark",
-        "Scenery"
-      ]
+        "Scenery",
+        "Night"
+      ],
+      "is_night_spot": true
     },
     {
       "id": "c_43",
@@ -2058,7 +2101,8 @@
       "price_nl": "拝観料無料",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_44",
@@ -2105,7 +2149,8 @@
       "price_nl": "拝観無料（黄金の部屋2€）",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_45",
@@ -2152,7 +2197,8 @@
       "price_nl": "拝観料無料",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_46",
@@ -2200,7 +2246,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_47",
@@ -2248,7 +2295,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_48",
@@ -2295,7 +2343,8 @@
       "price_nl": "大聖堂無料（ガイド5€）",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_49",
@@ -2343,7 +2392,8 @@
       "price_nl": "登山鉄道: 12€往復",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "c_50",
@@ -2390,7 +2440,8 @@
       "price_nl": "庭園無料（宮殿10€）",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     }
   ],
   "spotCount": 50

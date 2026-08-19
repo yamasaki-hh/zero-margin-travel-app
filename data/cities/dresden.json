@@ -52,7 +52,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_2",
@@ -104,7 +105,8 @@
         "Landmark",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_3",
@@ -154,7 +156,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_4",
@@ -204,7 +207,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_5",
@@ -252,7 +256,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_6",
@@ -303,7 +308,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_7",
@@ -354,7 +360,8 @@
         "Café",
         "Museum",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_8",
@@ -402,7 +409,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_9",
@@ -453,7 +461,8 @@
         "Kids",
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_10",
@@ -502,7 +511,8 @@
       "price_nl": "Guided Tour ~€13 (Performance tickets vary)",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_11",
@@ -553,7 +563,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_12",
@@ -603,7 +614,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_13",
@@ -655,7 +667,8 @@
         "Landmark",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_14",
@@ -703,7 +716,8 @@
       "categories": [
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_15",
@@ -752,7 +766,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_16",
@@ -802,7 +817,8 @@
       "categories": [
         "Café",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_17",
@@ -852,7 +868,8 @@
       "categories": [
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_18",
@@ -903,7 +920,8 @@
         "Café",
         "Night",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_19",
@@ -952,7 +970,8 @@
       "price_nl": "Free Public Access",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_20",
@@ -1002,7 +1021,8 @@
         "Kids",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_21",
@@ -1055,7 +1075,8 @@
         "Landmark",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_22",
@@ -1106,7 +1127,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_23",
@@ -1153,7 +1175,8 @@
       "price_nl": "Free Entry (Gardens & Greenhouses)",
       "categories": [
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_24",
@@ -1203,7 +1226,8 @@
       "categories": [
         "Kids",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_25",
@@ -1252,7 +1276,8 @@
       "price_nl": "Adults: €5 / Reduced: €3 / Free Mondays 18:00–21:00",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_26",
@@ -1303,7 +1328,8 @@
       "categories": [
         "Museum",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_27",
@@ -1352,7 +1378,8 @@
       "price_nl": "Adults: €12 / Reduced: €9.50 / Under 17 Free",
       "categories": [
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_28",
@@ -1402,7 +1429,8 @@
       "categories": [
         "Landmark",
         "Museum"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_29",
@@ -1451,7 +1479,8 @@
       "price_nl": "Guided Tour: €9 / Reduced: €6 / Family: €20",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_30",
@@ -1500,8 +1529,10 @@
       "price_nl": "City Cruise: €22 / Castle Cruise to Pillnitz: €28",
       "categories": [
         "Landmark",
-        "Scenery"
-      ]
+        "Scenery",
+        "Night"
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_31",
@@ -1549,7 +1580,8 @@
       "categories": [
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_32",
@@ -1596,7 +1628,8 @@
       "price_nl": "Single Ride: €5 / Return Trip: €6.50",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_33",
@@ -1644,7 +1677,8 @@
       "categories": [
         "Landmark",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_34",
@@ -1695,7 +1729,8 @@
         "Landmark",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_35",
@@ -1744,7 +1779,8 @@
         "Café",
         "Landmark",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_36",
@@ -1793,7 +1829,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_37",
@@ -1842,7 +1879,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_38",
@@ -1891,7 +1929,8 @@
         "Café",
         "Scenery",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_39",
@@ -1940,7 +1979,8 @@
       "price_nl": "Rooftop Terrace Access: Free / Restaurant Dining Variable",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_40",
@@ -1992,7 +2032,8 @@
         "Museum",
         "Night",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_41",
@@ -2041,7 +2082,8 @@
       "categories": [
         "Kids",
         "Scenery"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_42",
@@ -2091,7 +2133,8 @@
       "price_nl": "Adults: €15 / Reduced: €12 / Family: €38",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_43",
@@ -2143,7 +2186,8 @@
         "Café",
         "Landmark",
         "Night"
-      ]
+      ],
+      "is_night_spot": true
     },
     {
       "id": "dr_44",
@@ -2194,7 +2238,8 @@
       "categories": [
         "Museum",
         "Shopping"
-      ]
+      ],
+      "is_night_spot": false
     },
     {
       "id": "dr_45",
@@ -2242,7 +2287,8 @@
       "price_nl": "Castle: €10 / Cathedral: €6.50 / Combined: €14.50",
       "categories": [
         "Landmark"
-      ]
+      ],
+      "is_night_spot": false
     }
   ],
   "spotCount": 45
