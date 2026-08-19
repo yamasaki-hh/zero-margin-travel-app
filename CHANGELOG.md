@@ -2,6 +2,22 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v51.0.0] - 2026-08-19 (Top7 & HiddenGems Planning Fatigue Reduction Release)
+
+### 🌟 Universal Top7 & HiddenGems Tag System (`v51.0.0`)
+- **Dataset Tagging Across All 1,371 Spots in 25 Cities**:
+  - **Top 7**: Exactly 7 iconic spots tagged per city (`top7: true`, 175 total) consisting of 5 top landmarks/museums + 1 top cafe + 1 top restaurant.
+  - **HiddenGems**: Exactly 5 authentic off-the-beaten-path spots tagged per city (`hiddenGem: true`, 125 total) consisting of 3 hidden sights/viewpoints + 1 local cafe/bakery + 1 local bistro/restaurant.
+  - **Zero Paid API Cost**: Curated and annotated with 100% clean passage across all 25 cities via automated dataset analysis script.
+- **UI Quick Filter Buttons & Visual Card Badges**:
+  - Added `[ 👑 Top 7 ]` and `[ 💎 Hidden Gems ]` quick filter chips to candidate spots filter bar.
+  - Added visual badges (`👑 Top 7` / `💎 Hidden`) to spot cards in both compact list and visual card grid views.
+- **7-Language Internationalization (`js/i18n.js`)**:
+  - Added localized filter dictionary keys (`filter.top7` / `filter.hiddenGems`) across all 7 supported languages (`en`, `nl`, `ja`, `es`, `zh`, `fr`, `de`).
+- **Master Asset Version**: Bumped cache busters in `index.html` to `v=126.0`.
+
+---
+
 ## 🏷️ [v50.0.0] - 2026-08-19 (Google Maps Mandatory Driving Mode & Universal Parameter Fix)
 
 ### 🚗 Google Maps Driving Route Parameter Enforcement (`v50.0.0`)
