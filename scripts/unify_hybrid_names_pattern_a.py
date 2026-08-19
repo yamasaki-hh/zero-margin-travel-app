@@ -120,8 +120,8 @@ def process_city_files(cities_dir):
             total_spots += 1
             local_base = get_best_local_base(s, native_lang)
             
-            # Process 6 languages
-            langs = ['ja', 'en', 'es', 'zh', 'fr', 'de']
+            # Process 7 languages (including Dutch)
+            langs = ['ja', 'en', 'es', 'zh', 'fr', 'de', 'nl']
             for lang in langs:
                 key = f'name_{lang}'
                 raw_val = s.get(key, '')

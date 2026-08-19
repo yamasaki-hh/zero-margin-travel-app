@@ -39,7 +39,11 @@
       "name_de": "Brandenburger Tor",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BerlinBrandenburgerTor1985.jpg/330px-BerlinBrandenburgerTor1985.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Brandenburg Gate in City district."
+      "desc_de": "Brandenburg Gate in City district.",
+      "name_nl": "Brandenburger Tor",
+      "desc_nl": "Brandenburg Gate in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "b_2",
@@ -79,7 +83,11 @@
       "name_de": "Reichstagsgebäude",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/330px-Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Reichstag Building & Dome in City district."
+      "desc_de": "Reichstag Building & Dome in City district.",
+      "name_nl": "Reichstagsgebäude",
+      "desc_nl": "Reichstag Building & Dome in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "無料（要事前Web予約）"
     },
     {
       "id": "b_3",
@@ -120,7 +128,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Museum Island (UNESCO) in City district.",
-      "price": "Day Ticket: €24"
+      "price": "Day Ticket: €24",
+      "name_nl": "Museumsinsel",
+      "desc_nl": "Museum Island (UNESCO) in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Museumsinsel Day Pass: €24"
     },
     {
       "id": "b_4",
@@ -161,7 +173,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Pergamon Museum in City district.",
-      "tip": "⚠️ Main Pergamon Museum building is closed for major renovation (until 2027+). Only the temporary 'Pergamonmuseum. Das Panorama' exhibition hall is open (timed web booking required)."
+      "tip": "⚠️ Main Pergamon Museum building is closed for major renovation (until 2027+). Only the temporary 'Pergamonmuseum. Das Panorama' exhibition hall is open (timed web booking required).",
+      "name_nl": "Pergamonmuseum",
+      "desc_nl": "Pergamon Museum in City district.",
+      "tip_nl": "⚠️ Main Pergamon Museum building is closed for major renovation (until 2027+). Only the temporary 'Pergamonmuseum. Das Panorama' exhibition hall is open (timed web booking required).",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "b_5",
@@ -201,7 +217,11 @@
       "name_de": "Neues Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/330px-Berlin_Neues_Museum_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Neues Museum in City district."
+      "desc_de": "Neues Museum in City district.",
+      "name_nl": "Neues Museum",
+      "desc_nl": "Neues Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "b_6",
@@ -242,7 +262,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/330px-AlteNationalgalerie_1a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Alte Nationalgalerie in City district.",
-      "price": "Entry: €14"
+      "price": "Entry: €14",
+      "name_nl": "Alte Nationalgalerie",
+      "desc_nl": "Alte Nationalgalerie in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Entry: €14"
     },
     {
       "id": "b_7",
@@ -283,7 +307,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Bode Museum in City district.",
-      "price": "Entry: €14"
+      "price": "Entry: €14",
+      "name_nl": "Bode-Museum",
+      "desc_nl": "Bode Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Entry: €14"
     },
     {
       "id": "b_8",
@@ -324,7 +352,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Altes_Museum%2C_Berlin_2012.jpg/330px-Altes_Museum%2C_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Altes Museum in City district.",
-      "price": "Entry: €14"
+      "price": "Entry: €14",
+      "name_nl": "Altes Museum",
+      "desc_nl": "Altes Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Entry: €14"
     },
     {
       "id": "b_9",
@@ -365,7 +397,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Berliner_Dom_-_Westfassade_--_01.jpg/330px-2023_Berliner_Dom_-_Westfassade_--_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Berlin Cathedral in City district.",
-      "price": "Entry: €15"
+      "price": "Entry: €15",
+      "name_nl": "Berliner Dom",
+      "desc_nl": "Berlin Cathedral in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Entry: €15 (Incl. Audioguide & Crypt)"
     },
     {
       "id": "b_10",
@@ -406,7 +442,11 @@
       "image": "",
       "hasWiki": false,
       "desc_de": "Humboldt Forum in City district.",
-      "price": "Courtyard Free / Exhibitions: €9 / Roof: €3"
+      "price": "Courtyard Free / Exhibitions: €9 / Roof: €3",
+      "name_nl": "Humboldt Forum & Berliner Schloss",
+      "desc_nl": "Humboldt Forum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Courtyard Free / Exhibitions: €9 / Roof Terrace: €3"
     },
     {
       "id": "b_11",
@@ -446,7 +486,11 @@
       "name_de": "East Side Gallery",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg/330px-Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "East Side Gallery in City district."
+      "desc_de": "East Side Gallery in City district.",
+      "name_nl": "East Side Gallery",
+      "desc_nl": "East Side Gallery in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "b_12",
@@ -486,7 +530,11 @@
       "name_de": "Gedenkstätte Berliner Mauer (Bernauer Straße)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg/330px-Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Berlin Wall Memorial in City district."
+      "desc_de": "Berlin Wall Memorial in City district.",
+      "name_nl": "Gedenkstätte Berliner Mauer",
+      "desc_nl": "Berlin Wall Memorial in City district.",
+      "tip_nl": "🧱 Visit the free observation deck inside the Documentation Center across Bernauer Straße to view the intact border strip and watchtower from above.",
+      "price_nl": "見学無料"
     },
     {
       "id": "b_13",
@@ -528,7 +576,11 @@
       "hasWiki": false,
       "desc_de": "Checkpoint Charlie in City district.",
       "tip": "📸 Fake soldier actors were banned by city authorities in 2019. Focus on the cobblestone Cold War border line on the ground, Frank Thiel's giant portraits, and Mauermuseum.",
-      "price": "Outdoor Free / Museum: €18.50"
+      "price": "Outdoor Free / Museum: €18.50",
+      "name_nl": "Checkpoint Charlie & Mauermuseum",
+      "desc_nl": "Checkpoint Charlie in City district.",
+      "tip_nl": "📸 Fake soldier actors were banned by city authorities in 2019. Focus on the cobblestone Cold War border line on the ground, Frank Thiel's giant portraits, and Mauermuseum.",
+      "price_nl": "Outdoor Free / Museum: €18.50"
     },
     {
       "id": "b_14",
@@ -568,7 +620,11 @@
       "name_de": "Topographie des Terrors",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dokumentationszentrum_Topographie_des_Terrors.jpg/330px-Dokumentationszentrum_Topographie_des_Terrors.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Topography of Terror in City district."
+      "desc_de": "Topography of Terror in City district.",
+      "name_nl": "Topographie des Terrors",
+      "desc_nl": "Topography of Terror in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "b_15",
@@ -608,7 +664,11 @@
       "name_de": "Denkmal für die ermordeten Juden Europas",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Holocaust Memorial in City district."
+      "desc_de": "Holocaust Memorial in City district.",
+      "name_nl": "Denkmal für die ermordeten Juden Europas",
+      "desc_nl": "Holocaust Memorial in City district.",
+      "tip_nl": "🕯️ Peter Eisenman's grid design uses sloping ground and rising pillars to block out city noise, creating a unique acoustic and psychological sense of disorientation as you walk deeper inside.",
+      "price_nl": "入場無料"
     },
     {
       "id": "b_16",
@@ -649,7 +709,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Berlin TV Tower in City district.",
-      "price": "Observation: €25.50+"
+      "price": "Observation: €25.50+",
+      "name_nl": "Berliner Fernsehturm",
+      "desc_nl": "Berlin TV Tower in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Observation Deck: €25.50+ (Dynamic Pricing)"
     },
     {
       "id": "b_17",
@@ -689,7 +753,11 @@
       "name_de": "Alexanderplatz & Weltzeituhr",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Alexanderplatz & World Clock in City district."
+      "desc_de": "Alexanderplatz & World Clock in City district.",
+      "name_nl": "Alexanderplatz & Weltzeituhr",
+      "desc_nl": "Alexanderplatz & World Clock in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_18",
@@ -729,7 +797,11 @@
       "name_de": "Gendarmenmarkt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg/330px-150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Gendarmenmarkt in City district."
+      "desc_de": "Gendarmenmarkt in City district.",
+      "name_nl": "Gendarmenmarkt",
+      "desc_nl": "Gendarmenmarkt in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "b_19",
@@ -769,7 +841,11 @@
       "name_de": "Kaiser-Wilhelm-Gedächtniskirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Kaiser Wilhelm Memorial Church in City district."
+      "desc_de": "Kaiser Wilhelm Memorial Church in City district.",
+      "name_nl": "Kaiser-Wilhelm-Gedächtniskirche",
+      "desc_nl": "Kaiser Wilhelm Memorial Church in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "b_20",
@@ -809,7 +885,11 @@
       "name_de": "Schloss Charlottenburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin_Charlottenburger_Schloss_Strassenseite.jpg/330px-Berlin_Charlottenburger_Schloss_Strassenseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Charlottenburg Palace in City district."
+      "desc_de": "Charlottenburg Palace in City district.",
+      "name_nl": "Schloss Charlottenburg",
+      "desc_nl": "Charlottenburg Palace in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "宮殿: 12€（庭園無料）"
     },
     {
       "id": "b_21",
@@ -849,7 +929,11 @@
       "name_de": "Kulturforum & Gemäldegalerie）",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Gemäldegalerie Art Gallery in City district."
+      "desc_de": "Gemäldegalerie Art Gallery in City district.",
+      "name_nl": "Kulturforum & Gemäldegalerie）",
+      "desc_nl": "Gemäldegalerie Art Gallery in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "b_22",
@@ -889,7 +973,11 @@
       "name_de": "Neue Nationalgalerie",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/330px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Neue Nationalgalerie in City district."
+      "desc_de": "Neue Nationalgalerie in City district.",
+      "name_nl": "Neue Nationalgalerie",
+      "desc_nl": "Neue Nationalgalerie in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "b_23",
@@ -929,7 +1017,11 @@
       "name_de": "Hamburger Bahnhof",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Hamburger Bahnhof Contemporary Art in City district."
+      "desc_de": "Hamburger Bahnhof Contemporary Art in City district.",
+      "name_nl": "Hamburger Bahnhof",
+      "desc_nl": "Hamburger Bahnhof Contemporary Art in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "b_24",
@@ -969,7 +1061,11 @@
       "name_de": "Jüdisches Museum Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jewish_Museum_Berlin_-_panoramio_%282%29.jpg/330px-Jewish_Museum_Berlin_-_panoramio_%282%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Jewish Museum Berlin in City district."
+      "desc_de": "Jewish Museum Berlin in City district.",
+      "name_nl": "Jüdisches Museum Berlin",
+      "desc_nl": "Jewish Museum Berlin in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 10€"
     },
     {
       "id": "b_25",
@@ -1009,7 +1105,11 @@
       "name_de": "Deutsches Historisches Museum (DHM)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zeughaus_Berlin_2012.jpg/330px-Zeughaus_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "German Historical Museum in City district."
+      "desc_de": "German Historical Museum in City district.",
+      "name_nl": "Deutsches Historisches Museum",
+      "desc_nl": "German Historical Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 10€"
     },
     {
       "id": "b_26",
@@ -1049,7 +1149,11 @@
       "name_de": "Deutsches Technikmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Deutsches_technikmuseum_berlin_20080429.jpg/330px-Deutsches_technikmuseum_berlin_20080429.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "German Museum of Technology in City district."
+      "desc_de": "German Museum of Technology in City district.",
+      "name_nl": "Deutsches Technikmuseum",
+      "desc_nl": "German Museum of Technology in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "b_27",
@@ -1089,7 +1193,11 @@
       "name_de": "Museum für Naturkunde",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg/330px-Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Berlin Natural History Museum in City district."
+      "desc_de": "Berlin Natural History Museum in City district.",
+      "name_nl": "Museum für Naturkunde",
+      "desc_nl": "Berlin Natural History Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 11€"
     },
     {
       "id": "b_28",
@@ -1129,7 +1237,11 @@
       "name_de": "Futurium",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FuturiumBerlin2021.jpg/330px-FuturiumBerlin2021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Futurium in City district."
+      "desc_de": "Futurium in City district.",
+      "name_nl": "Futurium",
+      "desc_nl": "Futurium in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "b_29",
@@ -1170,7 +1282,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ausstellung_Computerspielemuseum_2.JPG/330px-Ausstellung_Computerspielemuseum_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Computer Games Museum in City district.",
-      "price": "Entry: €12"
+      "price": "Entry: €12",
+      "name_nl": "Computerspielemuseum",
+      "desc_nl": "Computer Games Museum in City district.",
+      "tip_nl": "🎮 Try 1970s retro arcades on free-play and check out rare custom hardware like the 'PainStation' which delivers heat, air blasts, and mild sensory feedback during gameplay!",
+      "price_nl": "Entry: €12"
     },
     {
       "id": "b_30",
@@ -1210,7 +1326,11 @@
       "name_de": "Spionagemuseum (German Spy Museum)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "German Spy Museum in City district."
+      "desc_de": "German Spy Museum in City district.",
+      "name_nl": "Spionagemuseum",
+      "desc_nl": "German Spy Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 15€"
     },
     {
       "id": "b_31",
@@ -1250,7 +1370,11 @@
       "name_de": "DDR Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DDR-Museum_%28Berlin%29_Schriftzug.jpg/330px-DDR-Museum_%28Berlin%29_Schriftzug.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "DDR Museum in City district."
+      "desc_de": "DDR Museum in City district.",
+      "name_nl": "DDR Museum",
+      "desc_nl": "DDR Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12.50€"
     },
     {
       "id": "b_32",
@@ -1290,7 +1414,11 @@
       "name_de": "Berliner Unterwelten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ticketshop_Berliner_Unterwelten.jpg/330px-Ticketshop_Berliner_Unterwelten.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Berlin Underground Tours in City district."
+      "desc_de": "Berlin Underground Tours in City district.",
+      "name_nl": "Berliner Unterwelten",
+      "desc_nl": "Berlin Underground Tours in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "ツアー: 16€"
     },
     {
       "id": "b_33",
@@ -1330,7 +1458,11 @@
       "name_de": "Siegessäule & Großer Tiergarten",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Victory Column & Tiergarten in City district."
+      "desc_de": "Victory Column & Tiergarten in City district.",
+      "name_nl": "Siegessäule & Großer Tiergarten",
+      "desc_nl": "Victory Column & Tiergarten in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "公園無料（塔4€）"
     },
     {
       "id": "b_34",
@@ -1370,7 +1502,11 @@
       "name_de": "Potsdamer Platz & Sony Center",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Potsdamer Platz & Sony Center in City district."
+      "desc_de": "Potsdamer Platz & Sony Center in City district.",
+      "name_nl": "Potsdamer Platz & Sony Center",
+      "desc_nl": "Potsdamer Platz & Sony Center in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "b_35",
@@ -1410,7 +1546,11 @@
       "name_de": "Kurfürstendamm  & Tauentzienstraße (Ku'damm)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Kurfürstendamm Shopping Street in City district."
+      "desc_de": "Kurfürstendamm Shopping Street in City district.",
+      "name_nl": "Kurfürstendamm  & Tauentzienstraße",
+      "desc_nl": "Kurfürstendamm Shopping Street in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_36",
@@ -1450,7 +1590,11 @@
       "name_de": "KaDeWe (Kaufhaus des Westens)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg/330px-Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "KaDeWe Department Store in City district."
+      "desc_de": "KaDeWe Department Store in City district.",
+      "name_nl": "KaDeWe",
+      "desc_nl": "KaDeWe Department Store in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入館無料"
     },
     {
       "id": "b_37",
@@ -1490,7 +1634,11 @@
       "name_de": "Mall of Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg/330px-18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Mall of Berlin in City district."
+      "desc_de": "Mall of Berlin in City district.",
+      "name_nl": "Mall of Berlin",
+      "desc_nl": "Mall of Berlin in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入館無料"
     },
     {
       "id": "b_38",
@@ -1530,7 +1678,11 @@
       "name_de": "Bikini Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg/330px-Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Bikini Berlin Concept Mall in City district."
+      "desc_de": "Bikini Berlin Concept Mall in City district.",
+      "name_nl": "Bikini Berlin",
+      "desc_nl": "Bikini Berlin Concept Mall in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入館無料"
     },
     {
       "id": "b_39",
@@ -1570,7 +1722,11 @@
       "name_de": "Hackesche Höfe & Hackescher Markt",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Hackesche Höfe Courtyards in City district."
+      "desc_de": "Hackesche Höfe Courtyards in City district.",
+      "name_nl": "Hackesche Höfe & Hackescher Markt",
+      "desc_nl": "Hackesche Höfe Courtyards in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_40",
@@ -1610,7 +1766,11 @@
       "name_de": "Mauerpark & Flohmarkt",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Mauerpark & Sunday Market in City district."
+      "desc_de": "Mauerpark & Sunday Market in City district.",
+      "name_nl": "Mauerpark & Flohmarkt",
+      "desc_nl": "Mauerpark & Sunday Market in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入園無料"
     },
     {
       "id": "b_41",
@@ -1650,7 +1810,11 @@
       "name_de": "Markthalle Neun",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Markthalle Neun Market in City district."
+      "desc_de": "Markthalle Neun Market in City district.",
+      "name_nl": "Markthalle Neun",
+      "desc_nl": "Markthalle Neun Market in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "b_42",
@@ -1690,7 +1854,11 @@
       "name_de": "Kollwitzplatz & Prenzlauer Berg",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Kollwitzplatz Quarter in City district."
+      "desc_de": "Kollwitzplatz Quarter in City district.",
+      "name_nl": "Kollwitzplatz & Prenzlauer Berg",
+      "desc_nl": "Kollwitzplatz Quarter in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_43",
@@ -1730,7 +1898,11 @@
       "name_de": "Bergmannstraße & Kreuzberg",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Bergmannstraße Quarter in City district."
+      "desc_de": "Bergmannstraße Quarter in City district.",
+      "name_nl": "Bergmannstraße & Kreuzberg",
+      "desc_nl": "Bergmannstraße Quarter in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_44",
@@ -1770,7 +1942,11 @@
       "name_de": "RAW-Gelände",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RAW_Berlin_Tor1.jpg/330px-RAW_Berlin_Tor1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "RAW Complex Cultural Center in City district."
+      "desc_de": "RAW Complex Cultural Center in City district.",
+      "name_nl": "RAW-Gelände",
+      "desc_nl": "RAW Complex Cultural Center in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "b_45",
@@ -1810,7 +1986,11 @@
       "name_de": "Holzmarkt 25",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg/330px-Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Holzmarkt 25 Creative Village in City district."
+      "desc_de": "Holzmarkt 25 Creative Village in City district.",
+      "name_nl": "Holzmarkt 25",
+      "desc_nl": "Holzmarkt 25 Creative Village in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_46",
@@ -1850,7 +2030,11 @@
       "name_de": "Zoologischer Garten Berlin & Aquarium Berlin",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Berlin Zoo & Aquarium in City district."
+      "desc_de": "Berlin Zoo & Aquarium in City district.",
+      "name_nl": "Zoologischer Garten Berlin & Aquarium Berlin",
+      "desc_nl": "Berlin Zoo & Aquarium in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "動物園: 17.50€"
     },
     {
       "id": "b_47",
@@ -1890,7 +2074,11 @@
       "name_de": "Tierpark Berlin & Schloss Friedrichsfelde",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Tierpark Berlin in City district."
+      "desc_de": "Tierpark Berlin in City district.",
+      "name_nl": "Tierpark Berlin & Schloss Friedrichsfelde",
+      "desc_nl": "Tierpark Berlin in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 17.50€"
     },
     {
       "id": "b_48",
@@ -1930,7 +2118,11 @@
       "name_de": "Tempelhofer Feld",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial%2C_Berlin_%28_1090064%29.jpg/330px-Aerial%2C_Berlin_%28_1090064%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Tempelhof Airport Park in City district."
+      "desc_de": "Tempelhof Airport Park in City district.",
+      "name_nl": "Tempelhofer Feld",
+      "desc_nl": "Tempelhof Airport Park in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入園無料"
     },
     {
       "id": "b_49",
@@ -1970,7 +2162,11 @@
       "name_de": "Gärten der Welt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/330px-Erholungspark_Marzahn_2009.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Weitläufiger Landschaftspark in Berlin-Marzahn mit traditionellen Gartenkünsten aus Asien, dem Orient und Europa sowie Seilbahn."
+      "desc_de": "Weitläufiger Landschaftspark in Berlin-Marzahn mit traditionellen Gartenkünsten aus Asien, dem Orient und Europa sowie Seilbahn.",
+      "name_nl": "Gärten der Welt",
+      "desc_nl": "Gardens of the World in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 7€"
     },
     {
       "id": "b_50",
@@ -2010,7 +2206,11 @@
       "name_de": "Spree-Schifffahrt (Spree River Cruise)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Spree River Cruise in City district."
+      "desc_de": "Spree River Cruise in City district.",
+      "name_nl": "Spree-Schifffahrt",
+      "desc_nl": "Spree River Cruise in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "クルーズ: 19€"
     },
     {
       "id": "b_51",
@@ -2050,7 +2250,11 @@
       "name_de": "Badeschiff",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Badeschiff_Kohl.jpg/330px-Badeschiff_Kohl.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Badeschiff Floating Pool in City district."
+      "desc_de": "Badeschiff Floating Pool in City district.",
+      "name_nl": "Badeschiff",
+      "desc_nl": "Badeschiff Floating Pool in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "プール: 8€"
     },
     {
       "id": "b_52",
@@ -2090,7 +2294,11 @@
       "name_de": "Curry 36 & Konnopke's Imbiß",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Curry 36 & Konnopke's Currywurst in City district."
+      "desc_de": "Curry 36 & Konnopke's Currywurst in City district.",
+      "name_nl": "Curry 36 & Konnopke's Imbiß",
+      "desc_nl": "Curry 36 & Konnopke's Currywurst in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "カリーヴルスト: 4.50€"
     },
     {
       "id": "b_53",
@@ -2130,7 +2338,11 @@
       "name_de": "Mustafa's Gemüsedöner",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Mustafa's Vegetable Kebab in City district."
+      "desc_de": "Mustafa's Vegetable Kebab in City district.",
+      "name_nl": "Mustafa's Gemüsedöner",
+      "desc_nl": "Mustafa's Vegetable Kebab in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "ケバブ: 7.10€"
     },
     {
       "id": "b_54",
@@ -2170,7 +2382,11 @@
       "name_de": "Café Einstein Stammhaus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg/330px-TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Café Einstein Stammhaus in City district."
+      "desc_de": "Café Einstein Stammhaus in City district.",
+      "name_nl": "Café Einstein Stammhaus",
+      "desc_nl": "Café Einstein Stammhaus in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "コーヒー: 5€"
     },
     {
       "id": "b_55",
@@ -2210,7 +2426,11 @@
       "name_de": "Prater Biergarten",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Prater Beer Garden in City district."
+      "desc_de": "Prater Beer Garden in City district.",
+      "name_nl": "Prater Biergarten",
+      "desc_nl": "Prater Beer Garden in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "ビール: 4.50€"
     },
     {
       "id": "b_56",
@@ -2250,7 +2470,11 @@
       "name_de": "Brauhaus Georgbræu & Nikolaiviertel",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Nikolaiviertel & Georgbræu Brewery in City district."
+      "desc_de": "Nikolaiviertel & Georgbræu Brewery in City district.",
+      "name_nl": "Brauhaus Georgbræu & Nikolaiviertel",
+      "desc_nl": "Nikolaiviertel & Georgbræu Brewery in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_57",
@@ -2290,7 +2514,11 @@
       "name_de": "ANOHA - Die Kinderwelt des Jüdischen Museums",
       "image": "",
       "hasWiki": false,
-      "desc_de": "ANOHA Children's World in City district."
+      "desc_de": "ANOHA Children's World in City district.",
+      "name_nl": "ANOHA - Die Kinderwelt des Jüdischen Museums",
+      "desc_nl": "ANOHA Children's World in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料（要予約）"
     },
     {
       "id": "b_58",
@@ -2330,7 +2558,11 @@
       "name_de": "Loxx / Lego Discovery Centre Berlin",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Lego Discovery Centre Berlin in City district."
+      "desc_de": "Lego Discovery Centre Berlin in City district.",
+      "name_nl": "Loxx / Lego Discovery Centre Berlin",
+      "desc_nl": "Lego Discovery Centre Berlin in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 21€"
     },
     {
       "id": "b_59",
@@ -2371,7 +2603,11 @@
       "image": "",
       "hasWiki": false,
       "desc_de": "SEA LIFE Berlin in City district.",
-      "tip": "🎟️ The AquaDom glass cylinder collapsed in 2022 and was removed. SEA LIFE aquarium itself is open; book online advance tickets to bypass lines."
+      "tip": "🎟️ The AquaDom glass cylinder collapsed in 2022 and was removed. SEA LIFE aquarium itself is open; book online advance tickets to bypass lines.",
+      "name_nl": "SEA LIFE Berlin",
+      "desc_nl": "Indoor aquarium near Alexanderplatz featuring tropical shark tanks and interactive touch pools.",
+      "tip_nl": "🎟️ The AquaDom glass cylinder collapsed in 2022 and was removed. SEA LIFE aquarium itself is open; book online advance tickets to bypass lines.",
+      "price_nl": "入場料: 19€"
     },
     {
       "id": "b_60",
@@ -2411,7 +2647,11 @@
       "name_de": "Liquidrom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/330px-Tempodrom.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Liquidrom Thermal Bath in City district."
+      "desc_de": "Liquidrom Thermal Bath in City district.",
+      "name_nl": "Liquidrom",
+      "desc_nl": "Liquidrom Thermal Bath in City district.",
+      "tip_nl": "♨️ Floating in the saltwater dome pool features sound-under-water technology; weekend evenings broadcast live ambient and electronic DJ sets directly through underwater speakers.",
+      "price_nl": "スパ: 24.50€"
     },
     {
       "id": "b_61",
@@ -2451,7 +2691,11 @@
       "name_de": "Schloss Sanssouci & Park Sanssouci (Potsdam / UNESCO)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Sanssouci Palace & Park in Suburban district."
+      "desc_de": "Sanssouci Palace & Park in Suburban district.",
+      "name_nl": "Schloss Sanssouci & Park Sanssouci",
+      "desc_nl": "Sanssouci Palace & Park in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "宮殿: 14€（公園無料）"
     },
     {
       "id": "b_62",
@@ -2491,7 +2735,11 @@
       "name_de": "Neues Palais ） (Potsdam)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "New Palace in Sanssouci in Suburban district."
+      "desc_de": "New Palace in Sanssouci in Suburban district.",
+      "name_nl": "Neues Palais ）",
+      "desc_nl": "New Palace in Sanssouci in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "宮殿: 14€"
     },
     {
       "id": "b_63",
@@ -2531,7 +2779,11 @@
       "name_de": "Schloss Cecilienhof (Potsdam)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg/330px-La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Cecilienhof Palace in Suburban district."
+      "desc_de": "Cecilienhof Palace in Suburban district.",
+      "name_nl": "Schloss Cecilienhof",
+      "desc_nl": "Cecilienhof Palace in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "b_64",
@@ -2571,7 +2823,11 @@
       "name_de": "Holländisches Viertel ） (Potsdam)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Dutch Quarter Potsdam in Suburban district."
+      "desc_de": "Dutch Quarter Potsdam in Suburban district.",
+      "name_nl": "Holländisches Viertel ）",
+      "desc_nl": "Dutch Quarter Potsdam in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_65",
@@ -2611,7 +2867,11 @@
       "name_de": "Museum Barberini ） (Potsdam)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Museum Barberini Potsdam in Suburban district."
+      "desc_de": "Museum Barberini Potsdam in Suburban district.",
+      "name_nl": "Museum Barberini ）",
+      "desc_nl": "Museum Barberini Potsdam in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 16€"
     },
     {
       "id": "b_66",
@@ -2651,7 +2911,11 @@
       "name_de": "Glienicker Brücke ） (Potsdam / Berlin)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Bridge of Spies (Glienicke Bridge) in Suburban district."
+      "desc_de": "Bridge of Spies (Glienicke Bridge) in Suburban district.",
+      "name_nl": "Glienicker Brücke ）",
+      "desc_nl": "Bridge of Spies (Glienicke Bridge) in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "通行無料"
     },
     {
       "id": "b_67",
@@ -2691,7 +2955,11 @@
       "name_de": "Filmpark Babelsberg (Potsdam)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg/330px-Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Filmpark Babelsberg in Suburban district."
+      "desc_de": "Filmpark Babelsberg in Suburban district.",
+      "name_nl": "Filmpark Babelsberg",
+      "desc_nl": "Filmpark Babelsberg in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 23€"
     },
     {
       "id": "b_68",
@@ -2731,7 +2999,11 @@
       "name_de": "KZ-Gedenkstätte Sachsenhausen (Oranienburg)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Sachsenhausen Concentration Camp Memorial in Suburban district."
+      "desc_de": "Sachsenhausen Concentration Camp Memorial in Suburban district.",
+      "name_nl": "KZ-Gedenkstätte Sachsenhausen",
+      "desc_nl": "Sachsenhausen Concentration Camp Memorial in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "b_69",
@@ -2771,7 +3043,11 @@
       "name_de": "Spreewald (Lübbenau / Lehde - UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg/330px-Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Spreewald Biosphere Reserve in Suburban district."
+      "desc_de": "Spreewald Biosphere Reserve in Suburban district.",
+      "name_nl": "Spreewald",
+      "desc_nl": "Spreewald Biosphere Reserve in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "b_70",
@@ -2811,7 +3087,11 @@
       "name_de": "Tropical Islands Resort (Krausnick)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_06_TropicalIslands_IMG_2078.jpg/330px-2018_06_TropicalIslands_IMG_2078.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Tropical Islands Resort in Suburban district."
+      "desc_de": "Tropical Islands Resort in Suburban district.",
+      "name_nl": "Tropical Islands Resort",
+      "desc_nl": "Tropical Islands Resort in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "1日券: 47.90€"
     },
     {
       "id": "b_71",
@@ -2851,7 +3131,11 @@
       "name_de": "Pfaueninsel (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%9Cbersichtskarte_Pfaueninsel.png/330px-%C3%9Cbersichtskarte_Pfaueninsel.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Peacock Island (UNESCO) in Suburban district."
+      "desc_de": "Peacock Island (UNESCO) in Suburban district.",
+      "name_nl": "Pfaueninsel",
+      "desc_nl": "Peacock Island (UNESCO) in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "渡し船: 6€"
     },
     {
       "id": "b_72",
@@ -2891,7 +3175,11 @@
       "name_de": "Wannsee & Haus der Wannsee-Konferenz",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Wannsee & Conference House in Suburban district."
+      "desc_de": "Wannsee & Conference House in Suburban district.",
+      "name_nl": "Wannsee & Haus der Wannsee-Konferenz",
+      "desc_nl": "Wannsee & Conference House in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "記念館無料"
     },
     {
       "id": "b_73",
@@ -2931,7 +3219,11 @@
       "name_de": "Teufelsberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Teufelsberg_ehem_Radaranlage.jpg/330px-Teufelsberg_ehem_Radaranlage.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Teufelsberg Field Station in Suburban district."
+      "desc_de": "Teufelsberg Field Station in Suburban district.",
+      "name_nl": "Teufelsberg",
+      "desc_nl": "Teufelsberg Field Station in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 10€"
     },
     {
       "id": "b_74",
@@ -2971,7 +3263,11 @@
       "name_de": "Zitadelle Spandau",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Spandau Citadel in Suburban district."
+      "desc_de": "Spandau Citadel in Suburban district.",
+      "name_nl": "Zitadelle Spandau",
+      "desc_nl": "Spandau Citadel in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 4.50€"
     },
     {
       "id": "b_75",
@@ -3011,7 +3307,11 @@
       "name_de": "Designer Outlet Berlin (Wustermark)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Designer Outlet Berlin in Suburban district."
+      "desc_de": "Designer Outlet Berlin in Suburban district.",
+      "name_nl": "Designer Outlet Berlin",
+      "desc_nl": "Designer Outlet Berlin in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入館無料"
     }
   ],
   "spotCount": 75

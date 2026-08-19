@@ -45,7 +45,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Take the funicular railway 'Funiculaire de Fourvière' up the hill. The panoramic view over Lyon's red roofs from the basilica terrace is unbeatable."
+      "tip": "Take the funicular railway 'Funiculaire de Fourvière' up the hill. The panoramic view over Lyon's red roofs from the basilica terrace is unbeatable.",
+      "name_nl": "Basilique Notre-Dame de Fourvière",
+      "desc_nl": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
+      "tip_nl": "Take the funicular railway 'Funiculaire de Fourvière' up the hill. The panoramic view over Lyon's red roofs from the basilica terrace is unbeatable.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_2",
@@ -90,7 +94,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Visit at 12:00, 14:00, 15:00, or 16:00 to see the 14th-century astronomical clock chime and activate its mechanical wooden figures."
+      "tip": "Visit at 12:00, 14:00, 15:00, or 16:00 to see the 14th-century astronomical clock chime and activate its mechanical wooden figures.",
+      "name_nl": "Cathédrale Saint-Jean-Baptiste",
+      "desc_nl": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
+      "tip_nl": "Visit at 12:00, 14:00, 15:00, or 16:00 to see the 14th-century astronomical clock chime and activate its mechanical wooden figures.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_3",
@@ -135,7 +143,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Look for small brass plaques marked 'Traboule' next to heavy wooden doorways. The Longue Traboule (54 Rue Saint-Jean) passes through 4 courtyards!"
+      "tip": "Look for small brass plaques marked 'Traboule' next to heavy wooden doorways. The Longue Traboule (54 Rue Saint-Jean) passes through 4 courtyards!",
+      "name_nl": "Ancient Theatre of Fourvière",
+      "desc_nl": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
+      "tip_nl": "Look for small brass plaques marked 'Traboule' next to heavy wooden doorways. The Longue Traboule (54 Rue Saint-Jean) passes through 4 courtyards!",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_4",
@@ -180,7 +192,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "The two grand Roman theatres are completely free to explore. Catch the Nuits de Fourvière outdoor festival if visiting in summer!"
+      "tip": "The two grand Roman theatres are completely free to explore. Catch the Nuits de Fourvière outdoor festival if visiting in summer!",
+      "name_nl": "Place Bellecour",
+      "desc_nl": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
+      "tip_nl": "The two grand Roman theatres are completely free to explore. Catch the Nuits de Fourvière outdoor festival if visiting in summer!",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_5",
@@ -225,7 +241,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Stroll down Lyon's main pedestrian shopping street stretching between Place Bellecour and Place des Terreaux past Haussmann facades."
+      "tip": "Stroll down Lyon's main pedestrian shopping street stretching between Place Bellecour and Place des Terreaux past Haussmann facades.",
+      "name_nl": "Place des Terreaux & Bartholdi Fountain",
+      "desc_nl": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
+      "tip_nl": "Stroll down Lyon's main pedestrian shopping street stretching between Place Bellecour and Place des Terreaux past Haussmann facades.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_6",
@@ -270,7 +290,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Stroll the inner cloisters of this 18th-century hospital converted into a luxury shopping arcade and grand dome cocktail bar."
+      "tip": "Stroll the inner cloisters of this 18th-century hospital converted into a luxury shopping arcade and grand dome cocktail bar.",
+      "name_nl": "Grand Hôtel-Dieu",
+      "desc_nl": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
+      "tip_nl": "Stroll the inner cloisters of this 18th-century hospital converted into a luxury shopping arcade and grand dome cocktail bar.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_7",
@@ -315,7 +339,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Built in 19 BC where delegates of the 64 Gallic tribes met. Free to view from the street on the slopes of Croix-Rousse."
+      "tip": "Built in 19 BC where delegates of the 64 Gallic tribes met. Free to view from the street on the slopes of Croix-Rousse.",
+      "name_nl": "Amphitheatre of the Three Gauls",
+      "desc_nl": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
+      "tip_nl": "Built in 19 BC where delegates of the 64 Gallic tribes met. Free to view from the street on the slopes of Croix-Rousse.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_8",
@@ -360,7 +388,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Admire the two contrasting Gothic steeples (one stone, one brick) and the glowing white interior on Place Jacobins."
+      "tip": "Admire the two contrasting Gothic steeples (one stone, one brick) and the glowing white interior on Place Jacobins.",
+      "name_nl": "Église Saint-Nizier",
+      "desc_nl": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
+      "tip_nl": "Admire the two contrasting Gothic steeples (one stone, one brick) and the glowing white interior on Place Jacobins.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_9",
@@ -405,7 +437,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Europe's largest mural (1,200 m²) updated every decade. Look closely at the stairs and people—they are all 3D optical illusions!"
+      "tip": "Europe's largest mural (1,200 m²) updated every decade. Look closely at the stairs and people—they are all 3D optical illusions!",
+      "name_nl": "Fresque des Canuts",
+      "desc_nl": "Europe's largest trompe-l'œil mural spanning 1,200 m² in Lyon's historic Croix-Rousse district.",
+      "tip_nl": "🖼️ The mural is updated every decade to reflect neighborhood changes. Step close to inspect the 3D optical illusion stairs and painted figures!",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_10",
@@ -450,7 +486,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Relax in the peaceful central garden courtyard surrounded by 17th-century sculpture arcades right off Place des Terreaux."
+      "tip": "Relax in the peaceful central garden courtyard surrounded by 17th-century sculpture arcades right off Place des Terreaux.",
+      "name_nl": "Château de Rochetaillée",
+      "desc_nl": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
+      "tip_nl": "Relax in the peaceful central garden courtyard surrounded by 17th-century sculpture arcades right off Place des Terreaux.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "lyon_11",
@@ -495,7 +535,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Features ultra-detailed 1:43 scale movie sets (including Alien, Star Wars, and Grand Budapest Hotel) & original props made by film miniaturists."
+      "tip": "Features ultra-detailed 1:43 scale movie sets (including Alien, Star Wars, and Grand Budapest Hotel) & original props made by film miniaturists.",
+      "name_nl": "Musée des Beaux-Arts de Lyon",
+      "desc_nl": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
+      "tip_nl": "Features ultra-detailed 1:43 scale movie sets (including Alien, Star Wars, and Grand Budapest Hotel) & original props made by film miniaturists.",
+      "price_nl": "Entry: €8"
     },
     {
       "id": "lyon_12",
@@ -540,7 +584,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Futuristic glass architecture at the tip of the Presqu'île where the Rhône and Saône rivers merge. The rooftop bar has great river views."
+      "tip": "Futuristic glass architecture at the tip of the Presqu'île where the Rhône and Saône rivers merge. The rooftop bar has great river views.",
+      "name_nl": "Musée des Confluences",
+      "desc_nl": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
+      "tip_nl": "Futuristic glass architecture at the tip of the Presqu'île where the Rhône and Saône rivers merge. The rooftop bar has great river views.",
+      "price_nl": "Entry: €9"
     },
     {
       "id": "lyon_13",
@@ -585,7 +633,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Houses the world's finest collection of Lyon silk fabrics and 2,000-year-old textiles. (Check opening hours as it undergoes partial renovations)."
+      "tip": "Houses the world's finest collection of Lyon silk fabrics and 2,000-year-old textiles. (Check opening hours as it undergoes partial renovations).",
+      "name_nl": "Cinema and Miniature Museum",
+      "desc_nl": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
+      "tip_nl": "Houses the world's finest collection of Lyon silk fabrics and 2,000-year-old textiles. (Check opening hours as it undergoes partial renovations).",
+      "price_nl": "Entry: €14"
     },
     {
       "id": "lyon_14",
@@ -630,7 +682,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Housed in the former Printing House where Auguste and Louis Lumière invented the Cinématographe camera in 1895. Daily film screenings available."
+      "tip": "Housed in the former Printing House where Auguste and Louis Lumière invented the Cinématographe camera in 1895. Daily film screenings available.",
+      "name_nl": "Institut Lumière",
+      "desc_nl": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
+      "tip_nl": "Housed in the former Printing House where Auguste and Louis Lumière invented the Cinématographe camera in 1895. Daily film screenings available.",
+      "price_nl": "Admission: €9–€10"
     },
     {
       "id": "lyon_15",
@@ -675,7 +731,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Housed in a 14th-century mansion exploring puppet theatre history and Guignol, Lyon's iconic 1808 satirical wooden puppet."
+      "tip": "Housed in a 14th-century mansion exploring puppet theatre history and Guignol, Lyon's iconic 1808 satirical wooden puppet.",
+      "name_nl": "Gadagne Museum",
+      "desc_nl": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
+      "tip_nl": "Housed in a 14th-century mansion exploring puppet theatre history and Guignol, Lyon's iconic 1808 satirical wooden puppet.",
+      "price_nl": "Entry: €8"
     },
     {
       "id": "lyon_16",
@@ -720,7 +780,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Located inside Palais Saint-Jean showcasing 2,000 items on Lyon's urban development, silk trade, and resistance history."
+      "tip": "Located inside Palais Saint-Jean showcasing 2,000 items on Lyon's urban development, silk trade, and resistance history.",
+      "name_nl": "Musée des Tissus et des Arts Décoratifs",
+      "desc_nl": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
+      "tip_nl": "Located inside Palais Saint-Jean showcasing 2,000 items on Lyon's urban development, silk trade, and resistance history.",
+      "price_nl": "Entry: €12"
     },
     {
       "id": "lyon_17",
@@ -765,7 +829,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Former headquarters of the Gestapo in Lyon during WWII. Moving exhibition honoring Resistance hero Jean Moulin."
+      "tip": "Former headquarters of the Gestapo in Lyon during WWII. Moving exhibition honoring Resistance hero Jean Moulin.",
+      "name_nl": "Museum of Printing and Graphic Communication",
+      "desc_nl": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
+      "tip_nl": "Former headquarters of the Gestapo in Lyon during WWII. Moving exhibition honoring Resistance hero Jean Moulin.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "lyon_18",
@@ -810,7 +878,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Features Auguste Rodin's 'The Thinker' and 'The Gates of Hell' bronzes inside a serene 17th-century cloister garden."
+      "tip": "Features Auguste Rodin's 'The Thinker' and 'The Gates of Hell' bronzes inside a serene 17th-century cloister garden.",
+      "name_nl": "Lugdunum Museum & Roman Theatres",
+      "desc_nl": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
+      "tip_nl": "Features Auguste Rodin's 'The Thinker' and 'The Gates of Hell' bronzes inside a serene 17th-century cloister garden.",
+      "price_nl": "Entry: €7"
     },
     {
       "id": "lyon_19",
@@ -855,7 +927,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Designed by architect Renzo Piano; features temporary exhibitions of contemporary international art near Parc de la Tête d'Or."
+      "tip": "Designed by architect Renzo Piano; features temporary exhibitions of contemporary international art near Parc de la Tête d'Or.",
+      "name_nl": "Centre d'Histoire de la Résistance et de la Déportation",
+      "desc_nl": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
+      "tip_nl": "Designed by architect Renzo Piano; features temporary exhibitions of contemporary international art near Parc de la Tête d'Or.",
+      "price_nl": "Entry: €8"
     },
     {
       "id": "lyon_20",
@@ -900,7 +976,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Known for hosting the Lyon Biennale of Contemporary Art. Located in a sleek building right by the Rhône riverbank."
+      "tip": "Known for hosting the Lyon Biennale of Contemporary Art. Located in a sleek building right by the Rhône riverbank.",
+      "name_nl": "macLYON",
+      "desc_nl": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
+      "tip_nl": "Known for hosting the Lyon Biennale of Contemporary Art. Located in a sleek building right by the Rhône riverbank.",
+      "price_nl": "Free Gardens (Interior: €9)"
     },
     {
       "id": "lyon_21",
@@ -945,7 +1025,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Open-air housing estate featuring 25 giant outdoor wall murals painted on 1930s social housing blocks by architect Tony Garnier."
+      "tip": "Open-air housing estate featuring 25 giant outdoor wall murals painted on 1930s social housing blocks by architect Tony Garnier.",
+      "name_nl": "Tony Garnier Open-Air Urban Museum",
+      "desc_nl": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
+      "tip_nl": "Open-air housing estate featuring 25 giant outdoor wall murals painted on 1930s social housing blocks by architect Tony Garnier.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_22",
@@ -990,7 +1074,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Located at Lyon-Corbas airfield with 30+ historic military and civilian aircraft, helicopters, and engines on display."
+      "tip": "Located at Lyon-Corbas airfield with 30+ historic military and civilian aircraft, helicopters, and engines on display.",
+      "name_nl": "Clément Ader Aviation Museum",
+      "desc_nl": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
+      "tip_nl": "Located at Lyon-Corbas airfield with 30+ historic military and civilian aircraft, helicopters, and engines on display.",
+      "price_nl": "Entry: €8"
     },
     {
       "id": "lyon_23",
@@ -1035,7 +1123,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "The ultimate indoor food temple of Lyon! Sample Saint-Marcellin cheese from Mère Richard, oysters, and Praline tarts."
+      "tip": "The ultimate indoor food temple of Lyon! Sample Saint-Marcellin cheese from Mère Richard, oysters, and Praline tarts.",
+      "name_nl": "Les Halles de Lyon Paul Bocuse",
+      "desc_nl": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
+      "tip_nl": "The ultimate indoor food temple of Lyon! Sample Saint-Marcellin cheese from Mère Richard, oysters, and Praline tarts.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_24",
@@ -1080,7 +1172,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Authentic certified 'Bouchon Lyonnais'. Order the classic Tablier de sapeur (tripe), quenelle de brochet, and Beaujolais wine."
+      "tip": "Authentic certified 'Bouchon Lyonnais'. Order the classic Tablier de sapeur (tripe), quenelle de brochet, and Beaujolais wine.",
+      "name_nl": "Historic Bouchon Lyonnais",
+      "desc_nl": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
+      "tip_nl": "Authentic certified 'Bouchon Lyonnais'. Order the classic Tablier de sapeur (tripe), quenelle de brochet, and Beaujolais wine.",
+      "price_nl": "Meal: €25–€40"
     },
     {
       "id": "lyon_25",
@@ -1125,7 +1221,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Located inside Grand Hôtel-Dieu exploring French culinary heritage, gastronomy workshops, and food tasting exhibitions."
+      "tip": "Located inside Grand Hôtel-Dieu exploring French culinary heritage, gastronomy workshops, and food tasting exhibitions.",
+      "name_nl": "Cité Internationale de la Gastronomie de Lyon",
+      "desc_nl": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
+      "tip_nl": "Located inside Grand Hôtel-Dieu exploring French culinary heritage, gastronomy workshops, and food tasting exhibitions.",
+      "price_nl": "Entry: €7"
     },
     {
       "id": "lyon_26",
@@ -1170,7 +1270,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Famous for the 'Tarte à la Praline'—a crunchy pastry filled with crushed pink sugar-coated almonds."
+      "tip": "Famous for the 'Tarte à la Praline'—a crunchy pastry filled with crushed pink sugar-coated almonds.",
+      "name_nl": "La Maison Sève",
+      "desc_nl": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
+      "tip_nl": "Famous for the 'Tarte à la Praline'—a crunchy pastry filled with crushed pink sugar-coated almonds.",
+      "price_nl": "Slice: €4.50"
     },
     {
       "id": "lyon_27",
@@ -1215,7 +1319,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Legendary bean-to-bar chocolatier since 1953 famed for 'Le Président' chocolate cake created for French President Valéry Giscard d'Estaing."
+      "tip": "Legendary bean-to-bar chocolatier since 1953 famed for 'Le Président' chocolate cake created for French President Valéry Giscard d'Estaing.",
+      "name_nl": "Maison Bernachon",
+      "desc_nl": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
+      "tip_nl": "Legendary bean-to-bar chocolatier since 1953 famed for 'Le Président' chocolate cake created for French President Valéry Giscard d'Estaing.",
+      "price_nl": "Pralines: €12–€30"
     },
     {
       "id": "lyon_28",
@@ -1260,7 +1368,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "One of Lyon's oldest bouchons operating since 1726 with wooden paneling, red-checked tablecloths, and authentic home-style tripe & sausage."
+      "tip": "One of Lyon's oldest bouchons operating since 1726 with wooden paneling, red-checked tablecloths, and authentic home-style tripe & sausage.",
+      "name_nl": "Café Comptoir Abel",
+      "desc_nl": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
+      "tip_nl": "One of Lyon's oldest bouchons operating since 1726 with wooden paneling, red-checked tablecloths, and authentic home-style tripe & sausage.",
+      "price_nl": "Meal: €30–€45"
     },
     {
       "id": "lyon_29",
@@ -1305,7 +1417,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Grand 1836 Art Deco brasserie by Perrache train station. Order the Alsatian Choucroute flambéed with Marc de Bourgogne at your table!"
+      "tip": "Grand 1836 Art Deco brasserie by Perrache train station. Order the Alsatian Choucroute flambéed with Marc de Bourgogne at your table!",
+      "name_nl": "Brasserie Georges",
+      "desc_nl": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
+      "tip_nl": "Grand 1836 Art Deco brasserie by Perrache train station. Order the Alsatian Choucroute flambéed with Marc de Bourgogne at your table!",
+      "price_nl": "Mains: €18–€28"
     },
     {
       "id": "lyon_30",
@@ -1350,7 +1466,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "The 3-Michelin-star temple of French cuisine by Paul Bocuse on the banks of the Saône. Book months in advance for the truffle soup VGE!"
+      "tip": "The 3-Michelin-star temple of French cuisine by Paul Bocuse on the banks of the Saône. Book months in advance for the truffle soup VGE!",
+      "name_nl": "Restaurant Paul Bocuse",
+      "desc_nl": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
+      "tip_nl": "The 3-Michelin-star temple of French cuisine by Paul Bocuse on the banks of the Saône. Book months in advance for the truffle soup VGE!",
+      "price_nl": "Menu: €185–€320"
     },
     {
       "id": "lyon_31",
@@ -1395,7 +1515,11 @@
       "rain": false,
       "shopping": true,
       "free": true,
-      "tip": "Explore the Renaissance courtyards hidden behind heavy doors along Rue Saint-Jean and Place du Gouvernement."
+      "tip": "Explore the Renaissance courtyards hidden behind heavy doors along Rue Saint-Jean and Place du Gouvernement.",
+      "name_nl": "Vieux Lyon & Secret Traboules",
+      "desc_nl": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
+      "tip_nl": "Explore the Renaissance courtyards hidden behind heavy doors along Rue Saint-Jean and Place du Gouvernement.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_32",
@@ -1440,7 +1564,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Walk up the 'Pentes' steep stone staircases lined with indie designer shops, artisan cafes, and street art murals."
+      "tip": "Walk up the 'Pentes' steep stone staircases lined with indie designer shops, artisan cafes, and street art murals.",
+      "name_nl": "Croix-Rousse Hill & Pentes",
+      "desc_nl": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
+      "tip_nl": "Walk up the 'Pentes' steep stone staircases lined with indie designer shops, artisan cafes, and street art murals.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_33",
@@ -1485,7 +1613,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "The iconic 6-story open-air staircase traboule built in 1840 at 9 Place Colbert—a symbol of the Canut silk workers' revolt."
+      "tip": "The iconic 6-story open-air staircase traboule built in 1840 at 9 Place Colbert—a symbol of the Canut silk workers' revolt.",
+      "name_nl": "Cour des Voraces",
+      "desc_nl": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
+      "tip_nl": "The iconic 6-story open-air staircase traboule built in 1840 at 9 Place Colbert—a symbol of the Canut silk workers' revolt.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_34",
@@ -1530,7 +1662,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Features 30 famous historical and modern figures of Lyon (including Paul Bocuse and Saint-Exupéry) painted on a 800 m² building facade."
+      "tip": "Features 30 famous historical and modern figures of Lyon (including Paul Bocuse and Saint-Exupéry) painted on a 800 m² building facade.",
+      "name_nl": "Fresque des Lyonnais",
+      "desc_nl": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
+      "tip_nl": "🎨 Features 30 historic Lyonnais figures like Paul Bocuse and Saint-Exupéry. Notice the ground floor optical illusion shops that blend seamlessly with real pedestrians on the sidewalk!",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_35",
@@ -1575,7 +1711,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Walk to Boulevard de la Croix-Rousse to view this vibrant giant mural showing neighbourhood life in the silk-weaving district."
+      "tip": "Walk to Boulevard de la Croix-Rousse to view this vibrant giant mural showing neighbourhood life in the silk-weaving district.",
+      "name_nl": "Mur des Canuts",
+      "desc_nl": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
+      "tip_nl": "Walk to Boulevard de la Croix-Rousse to view this vibrant giant mural showing neighbourhood life in the silk-weaving district.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_36",
@@ -1620,7 +1760,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Walk across this striking red suspension footbridge over the Saône river for great photo angles of Saint-Georges church tower."
+      "tip": "Walk across this striking red suspension footbridge over the Saône river for great photo angles of Saint-Georges church tower.",
+      "name_nl": "Passerelle Saint-Georges",
+      "desc_nl": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
+      "tip_nl": "Walk across this striking red suspension footbridge over the Saône river for great photo angles of Saint-Georges church tower.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_37",
@@ -1665,7 +1809,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Rent a Vélo'v public bike for just €1.80 to ride down the landscaped traffic-free Rhône riverbanks past barge bars and parks."
+      "tip": "Rent a Vélo'v public bike for just €1.80 to ride down the landscaped traffic-free Rhône riverbanks past barge bars and parks.",
+      "name_nl": "Saône & Rhône Riverbanks Promenade",
+      "desc_nl": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
+      "tip_nl": "Rent a Vélo'v public bike for just €1.80 to ride down the landscaped traffic-free Rhône riverbanks past barge bars and parks.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_38",
@@ -1710,7 +1858,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Hidden hilltop park gifted by the city of Montreal. Offers the most quiet, uncrowded sunset view over Lyon."
+      "tip": "Hidden hilltop park gifted by the city of Montreal. Offers the most quiet, uncrowded sunset view over Lyon.",
+      "name_nl": "Jardin des Curiosités",
+      "desc_nl": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
+      "tip_nl": "Hidden hilltop park gifted by the city of Montreal. Offers the most quiet, uncrowded sunset view over Lyon.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_39",
@@ -1755,7 +1907,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Modern eco-district at the southern tip featuring striking colorful contemporary architecture, water basins, and shopping mall."
+      "tip": "Modern eco-district at the southern tip featuring striking colorful contemporary architecture, water basins, and shopping mall.",
+      "name_nl": "Confluence Waterfront District",
+      "desc_nl": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
+      "tip_nl": "Modern eco-district at the southern tip featuring striking colorful contemporary architecture, water basins, and shopping mall.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_40",
@@ -1800,7 +1956,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Peaceful river island on the Saône with a 5th-century monastery ruin and famous gourmet restaurant Auberge de l'Île."
+      "tip": "Peaceful river island on the Saône with a 5th-century monastery ruin and famous gourmet restaurant Auberge de l'Île.",
+      "name_nl": "Île Barbe",
+      "desc_nl": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
+      "tip_nl": "Peaceful river island on the Saône with a 5th-century monastery ruin and famous gourmet restaurant Auberge de l'Île.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_41",
@@ -1845,7 +2005,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Ranked among France's most beautiful villages (30 min drive from Lyon). Famous for its Galette au sucre (warm sugar-butter tart)."
+      "tip": "Ranked among France's most beautiful villages (30 min drive from Lyon). Famous for its Galette au sucre (warm sugar-butter tart).",
+      "name_nl": "Medieval Village of Pérouges",
+      "desc_nl": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
+      "tip_nl": "Ranked among France's most beautiful villages (30 min drive from Lyon). Famous for its Galette au sucre (warm sugar-butter tart).",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_42",
@@ -1890,7 +2054,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "France's largest urban park featuring a FREE zoo with giraffes and zebras, a lake with rowboats, and giant botanical greenhouses."
+      "tip": "France's largest urban park featuring a FREE zoo with giraffes and zebras, a lake with rowboats, and giant botanical greenhouses.",
+      "name_nl": "Parc de la Tête d'Or",
+      "desc_nl": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
+      "tip_nl": "France's largest urban park featuring a FREE zoo with giraffes and zebras, a lake with rowboats, and giant botanical greenhouses.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "lyon_43",
@@ -1935,7 +2103,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Catch a live traditional Guignol puppet show in Vieux Lyon—hilarious fun for both kids and adults (performed in French)."
+      "tip": "Catch a live traditional Guignol puppet show in Vieux Lyon—hilarious fun for both kids and adults (performed in French).",
+      "name_nl": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "desc_nl": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
+      "tip_nl": "Catch a live traditional Guignol puppet show in Vieux Lyon—hilarious fun for both kids and adults (performed in French).",
+      "price_nl": "Show: €11"
     },
     {
       "id": "lyon_44",
@@ -1980,7 +2152,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Located along the Rhône featuring 40+ aquariums with tropical sharks, piranhas, and tactile pools for kids."
+      "tip": "Located along the Rhône featuring 40+ aquariums with tropical sharks, piranhas, and tactile pools for kids.",
+      "name_nl": "Aquarium de Lyon",
+      "desc_nl": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
+      "tip_nl": "Located along the Rhône featuring 40+ aquariums with tropical sharks, piranhas, and tactile pools for kids.",
+      "price_nl": "Entry: €16.50"
     },
     {
       "id": "lyon_45",
@@ -2025,7 +2201,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Huge indoor miniature world featuring 70,000 mini residents, moving trains, cars, and animated day-night lighting cycles."
+      "tip": "Huge indoor miniature world featuring 70,000 mini residents, moving trains, cars, and animated day-night lighting cycles.",
+      "name_nl": "Mini World Lyon",
+      "desc_nl": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
+      "tip_nl": "Huge indoor miniature world featuring 70,000 mini residents, moving trains, cars, and animated day-night lighting cycles.",
+      "price_nl": "Admission: €16"
     },
     {
       "id": "lyon_46",
@@ -2070,7 +2250,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Features an immersive 360-degree digital dome projector for astronomy shows and space exploration exhibits."
+      "tip": "Features an immersive 360-degree digital dome projector for astronomy shows and space exploration exhibits.",
+      "name_nl": "Planétarium de Vaulx-en-Velin",
+      "desc_nl": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
+      "tip_nl": "Features an immersive 360-degree digital dome projector for astronomy shows and space exploration exhibits.",
+      "price_nl": "Entry: €10"
     }
   ]
 }

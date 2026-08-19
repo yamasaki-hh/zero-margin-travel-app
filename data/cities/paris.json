@@ -45,7 +45,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🎟️ Book summit tickets online 60 days in advance! If sold out, walk up the stairs to 2nd floor for shorter lines, then buy the summit elevator ticket there."
+      "tip": "🎟️ Book summit tickets online 60 days in advance! If sold out, walk up the stairs to 2nd floor for shorter lines, then buy the summit elevator ticket there.",
+      "name_nl": "Tour Eiffel",
+      "desc_nl": "Iconic 330m iron lattice tower offering panoramic views of Paris.",
+      "tip_nl": "🎟️ Book summit tickets online 60 days in advance! If sold out, walk up the stairs to 2nd floor for shorter lines, then buy the summit elevator ticket there.",
+      "price_nl": "Top Lift: €35.30 / Stairs: €14.20"
     },
     {
       "id": "p_2",
@@ -90,7 +94,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "🎟️ Access via the underground pedestrian tunnel (never attempt to cross the chaotic roundabout above ground)! Climb to the rooftop 30 minutes before sunset for breathtaking 360° views down the 12 radiating avenues and the sparkling Eiffel Tower."
+      "tip": "🎟️ Access via the underground pedestrian tunnel (never attempt to cross the chaotic roundabout above ground)! Climb to the rooftop 30 minutes before sunset for breathtaking 360° views down the 12 radiating avenues and the sparkling Eiffel Tower.",
+      "name_nl": "Arc de Triomphe",
+      "desc_nl": "Triumphal arch honoring those who fought for France, set atop Champs-Élysées.",
+      "tip_nl": "🎟️ Access via the underground pedestrian tunnel (never attempt to cross the chaotic roundabout above ground)! Climb to the rooftop 30 minutes before sunset for breathtaking 360° views down the 12 radiating avenues and the sparkling Eiffel Tower.",
+      "price_nl": "Rooftop Entry: €16"
     },
     {
       "id": "p_3",
@@ -135,7 +143,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "🎟️ Visit between 11:00 AM and 2:00 PM on a sunny day when sunlight floods the 1,113 13th-century stained glass windows. Mandatory timed online security ticket."
+      "tip": "🎟️ Visit between 11:00 AM and 2:00 PM on a sunny day when sunlight floods the 1,113 13th-century stained glass windows. Mandatory timed online security ticket.",
+      "name_nl": "Sainte-Chapelle",
+      "desc_nl": "13th-century Gothic royal chapel famed for 1,113 soaring stained glass windows.",
+      "tip_nl": "🎟️ Visit between 11:00 AM and 2:00 PM on a sunny day when sunlight floods the 1,113 13th-century stained glass windows. Mandatory timed online security ticket.",
+      "price_nl": "Entry: €16 (Combo Conciergerie: €26)"
     },
     {
       "id": "p_4",
@@ -180,7 +192,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "🎟️ Use the Montmartre Funicular (accepts standard Metro ticket) to skip the 222 steps. Beware of string scammers at the base; climb the dome for Paris's 2nd highest view."
+      "tip": "🎟️ Use the Montmartre Funicular (accepts standard Metro ticket) to skip the 222 steps. Beware of string scammers at the base; climb the dome for Paris's 2nd highest view.",
+      "name_nl": "Sacré-Cœur Basilica & Montmartre",
+      "desc_nl": "Domed white basilica atop Montmartre hill overlooking bohemian artist squares.",
+      "tip_nl": "🎟️ Use the Montmartre Funicular (accepts standard Metro ticket) to skip the 222 steps. Beware of string scammers at the base; climb the dome for Paris's 2nd highest view.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_5",
@@ -226,7 +242,11 @@
       "shopping": false,
       "free": true,
       "tip": "🎟️ Fully reopened in December 2024! Reserve free timed entry tickets via the official app. Best facade photography is from Pont Saint-Louis or Pont de l'Archevêché.",
-      "de": "🎟️ Die Standseilbahn fährt mit normalen Metro-Tickets. Am Fuß der Treppe Verkäufer ignoriert weitergehen."
+      "de": "🎟️ Die Standseilbahn fährt mit normalen Metro-Tickets. Am Fuß der Treppe Verkäufer ignoriert weitergehen.",
+      "name_nl": "Cathédrale Notre-Dame de Paris",
+      "desc_nl": "Masterpiece of French Gothic architecture on Île de la Cité.",
+      "tip_nl": "🎟️ Fully reopened in December 2024! Reserve free timed entry tickets via the official app. Best facade photography is from Pont Saint-Louis or Pont de l'Archevêché.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_6",
@@ -271,7 +291,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "📸 Walk across Pont de l'Archevêché or Square Jean-XXIII behind the cathedral for the best restored Gothic facade view along the Seine."
+      "tip": "📸 Walk across Pont de l'Archevêché or Square Jean-XXIII behind the cathedral for the best restored Gothic facade view along the Seine.",
+      "name_nl": "Palais-Royal Courtyard & Gardens",
+      "desc_nl": "17th-century palace courtyard featuring Buren's striped columns and rose gardens.",
+      "tip_nl": "📸 Walk across Pont de l'Archevêché or Square Jean-XXIII behind the cathedral for the best restored Gothic facade view along the Seine.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_7",
@@ -316,7 +340,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "☀️ Visit on a sunny day between 11:00 AM and 2:00 PM when sunlight directly penetrates the 15-meter 13th-century stained glass windows upstairs."
+      "tip": "☀️ Visit on a sunny day between 11:00 AM and 2:00 PM when sunlight directly penetrates the 15-meter 13th-century stained glass windows upstairs.",
+      "name_nl": "Panthéon Paris",
+      "desc_nl": "Neoclassical mausoleum containing tombs of Victor Hugo, Voltaire & Marie Curie.",
+      "tip_nl": "☀️ Visit on a sunny day between 11:00 AM and 2:00 PM when sunlight directly penetrates the 15-meter 13th-century stained glass windows upstairs.",
+      "price_nl": "Entry: €11.50"
     },
     {
       "id": "p_8",
@@ -362,7 +390,11 @@
       "shopping": false,
       "free": true,
       "tip": " Escalator access to the top floor offers a sweeping rooftop view over Paris including Notre-Dame and Montmartre.",
-      "de": " Mit der transparenten Außen-Rolltreppe ins oberste Stockwerk fahren für den Ausblick über die Dächer von Paris."
+      "de": " Mit der transparenten Außen-Rolltreppe ins oberste Stockwerk fahren für den Ausblick über die Dächer von Paris.",
+      "name_nl": "Jardin du Luxembourg",
+      "desc_nl": "60-acre park featuring Medici Fountain, tree-lined promenades and sailboat basin.",
+      "tip_nl": " Escalator access to the top floor offers a sweeping rooftop view over Paris including Notre-Dame and Montmartre.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_9",
@@ -408,7 +440,11 @@
       "shopping": false,
       "free": false,
       "tip": " Pull up iconic green metal chairs ('Chaises du Luxembourg') around the central Medici Fountain for a relaxing afternoon read or picnic.",
-      "de": " Die grünen Metallstühle frei am Medici-Brunnen aufstellen und das entspannte Pariser Parkleben genießen."
+      "de": " Die grünen Metallstühle frei am Medici-Brunnen aufstellen und das entspannte Pariser Parkleben genießen.",
+      "name_nl": "Opéra Garnier",
+      "desc_nl": "Opulent 1,979-seat opera house featuring Chagall ceiling and grand marble staircase.",
+      "tip_nl": " Pull up iconic green metal chairs ('Chaises du Luxembourg') around the central Medici Fountain for a relaxing afternoon read or picnic.",
+      "price_nl": "Self-tour: €14"
     },
     {
       "id": "p_10",
@@ -453,7 +489,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🎟️ Buy the dome access option during summer months to climb 206 stairs for a rare high-altitude view of the Latin Quarter."
+      "tip": "🎟️ Buy the dome access option during summer months to climb 206 stairs for a rare high-altitude view of the Latin Quarter.",
+      "name_nl": "Pont Alexandre III",
+      "desc_nl": "Beaux-Arts bridge decorated with gilded nymph statues over the Seine.",
+      "tip_nl": "🎟️ Buy the dome access option during summer months to climb 206 stairs for a rare high-altitude view of the Latin Quarter.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_11",
@@ -498,7 +538,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "If visiting specifically for Napoleon's Tomb, enter via the South Gate (Dome Church entrance) to bypass the main military museum queues."
+      "tip": "If visiting specifically for Napoleon's Tomb, enter via the South Gate (Dome Church entrance) to bypass the main military museum queues.",
+      "name_nl": "Les Invalides & Napoleon's Tomb",
+      "desc_nl": "Golden-domed complex housing France's Military Museum and Napoleon's tomb.",
+      "tip_nl": "If visiting specifically for Napoleon's Tomb, enter via the South Gate (Dome Church entrance) to bypass the main military museum queues.",
+      "price_nl": "Entry: €14"
     },
     {
       "id": "p_12",
@@ -543,7 +587,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "While the love locks were removed for safety, it remains one of Paris's best pedestrian spots for watching the sunset over Île de la Cité."
+      "tip": "While the love locks were removed for safety, it remains one of Paris's best pedestrian spots for watching the sunset over Île de la Cité.",
+      "name_nl": "Pont des Arts",
+      "desc_nl": "Iconic pedestrian wooden bridge connecting the Louvre and Institut de France.",
+      "tip_nl": "While the love locks were removed for safety, it remains one of Paris's best pedestrian spots for watching the sunset over Île de la Cité.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_13",
@@ -588,7 +636,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Constant 14°C temperature underground means a light jacket is needed year-round. The exit is several blocks away from the entrance, so do not leave luggage in lockers nearby."
+      "tip": "Constant 14°C temperature underground means a light jacket is needed year-round. The exit is several blocks away from the entrance, so do not leave luggage in lockers nearby.",
+      "name_nl": "Catacombes de Paris",
+      "desc_nl": "Underground ossuary holding the remains of over six million Parisians.",
+      "tip_nl": "Constant 14°C temperature underground means a light jacket is needed year-round. The exit is several blocks away from the entrance, so do not leave luggage in lockers nearby.",
+      "price_nl": "Entry: €31 (Audio Guide Included)"
     },
     {
       "id": "p_14",
@@ -633,7 +685,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Skip the main pyramid line by entering through the Carrousel du Louvre underground mall. Night openings on Wednesday and Friday (until 9:45 PM) offer quieter galleries."
+      "tip": "Skip the main pyramid line by entering through the Carrousel du Louvre underground mall. Night openings on Wednesday and Friday (until 9:45 PM) offer quieter galleries.",
+      "name_nl": "Louvre Museum & Glass Pyramid",
+      "desc_nl": "World's largest art museum housing Mona Lisa, Venus de Milo & Winged Victory.",
+      "tip_nl": "Skip the main pyramid line by entering through the Carrousel du Louvre underground mall. Night openings on Wednesday and Friday (until 9:45 PM) offer quieter galleries.",
+      "price_nl": "Entry: €22–€32 (Online Booking Required)"
     },
     {
       "id": "p_15",
@@ -678,7 +734,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Head to the 5th floor clock face for an iconic silhouette photo overlooking the Seine. Start your visit on the 5th floor (Monet, Van Gogh) and work your way down."
+      "tip": "Head to the 5th floor clock face for an iconic silhouette photo overlooking the Seine. Start your visit on the 5th floor (Monet, Van Gogh) and work your way down.",
+      "name_nl": "Musée d'Orsay",
+      "desc_nl": "Beaux-Arts railway station featuring Impressionist masterpieces by Monet, Degas & Van Gogh.",
+      "tip_nl": "Head to the 5th floor clock face for an iconic silhouette photo overlooking the Seine. Start your visit on the 5th floor (Monet, Van Gogh) and work your way down.",
+      "price_nl": "Entry: €16"
     },
     {
       "id": "p_16",
@@ -723,7 +783,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Ride the famous clear tube escalators on the exterior up to the 6th floor for one of the best panoramic views of Paris, including Montmartre and Eiffel Tower."
+      "tip": "Ride the famous clear tube escalators on the exterior up to the 6th floor for one of the best panoramic views of Paris, including Montmartre and Eiffel Tower.",
+      "name_nl": "Centre Pompidou",
+      "desc_nl": "Iconic high-tech cultural center designed by Renzo Piano & Richard Rogers. NOTE: Main Beaubourg building is CLOSED for major renovation (2026–2030).",
+      "tip_nl": "🚧 The Beaubourg building is CLOSED for renovation until 2030! Temporary exhibitions are hosted at Grand Palais and partner venues under 'Centre Pompidou Constellation'.",
+      "price_nl": "Closed for Renovation (2026–2030)"
     },
     {
       "id": "p_17",
@@ -768,7 +832,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Monet's massive Water Lilies are displayed in two custom oval rooms with natural skylight. Take your time sitting on the central benches to absorb the serene atmosphere."
+      "tip": "Monet's massive Water Lilies are displayed in two custom oval rooms with natural skylight. Take your time sitting on the central benches to absorb the serene atmosphere.",
+      "name_nl": "Musée de l'Orangerie",
+      "desc_nl": "Monet's massive Water Lilies (Nymphéas) murals displayed in custom oval rooms.",
+      "tip_nl": "Monet's massive Water Lilies are displayed in two custom oval rooms with natural skylight. Take your time sitting on the central benches to absorb the serene atmosphere.",
+      "price_nl": "Entry: €12.50"
     },
     {
       "id": "p_18",
@@ -813,7 +881,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Rodin's iconic sculptures including 'The Thinker' and 'Gates of Hell' are placed throughout the lush rose gardens. Dedicated garden-only tickets are available."
+      "tip": "Rodin's iconic sculptures including 'The Thinker' and 'Gates of Hell' are placed throughout the lush rose gardens. Dedicated garden-only tickets are available.",
+      "name_nl": "Musée Rodin",
+      "desc_nl": "Rose gardens surrounding Hôtel Biron displaying Rodin's 'The Thinker' and 'The Gates of Hell'.",
+      "tip_nl": "Rodin's iconic sculptures including 'The Thinker' and 'Gates of Hell' are placed throughout the lush rose gardens. Dedicated garden-only tickets are available.",
+      "price_nl": "Tickets: €15 (Gardens only: €5)"
     },
     {
       "id": "p_19",
@@ -858,7 +930,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Housed in a 17th-century mansion in Le Marais, this museum displays Picasso's personal art collection alongside his own masterworks, including Cézanne and Matisse."
+      "tip": "Housed in a 17th-century mansion in Le Marais, this museum displays Picasso's personal art collection alongside his own masterworks, including Cézanne and Matisse.",
+      "name_nl": "Musée Picasso Paris",
+      "desc_nl": "Over 5,000 works by Pablo Picasso housed inside historic Hôtel Salé mansion.",
+      "tip_nl": "Housed in a 17th-century mansion in Le Marais, this museum displays Picasso's personal art collection alongside his own masterworks, including Cézanne and Matisse.",
+      "price_nl": "Entry: €14"
     },
     {
       "id": "p_20",
@@ -903,7 +979,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Admission to the permanent collections is completely free. Explore the history of Paris, French Revolution artifacts, and Marcel Proust's bedroom in Le Marais."
+      "tip": "Admission to the permanent collections is completely free. Explore the history of Paris, French Revolution artifacts, and Marcel Proust's bedroom in Le Marais.",
+      "name_nl": "Musée Carnavalet",
+      "desc_nl": "Dedicated museum of Parisian history located in two adjacent Marais mansions.",
+      "tip_nl": "Admission to the permanent collections is completely free. Explore the history of Paris, French Revolution artifacts, and Marcel Proust's bedroom in Le Marais.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_21",
@@ -948,7 +1028,11 @@
       "rain": false,
       "shopping": true,
       "free": false,
-      "tip": "A cozy Marais bistro famous for its signature Sesame Seared Tuna steak and duck breast. Reservations are highly recommended for dinner."
+      "tip": "A cozy Marais bistro famous for its signature Sesame Seared Tuna steak and duck breast. Reservations are highly recommended for dinner.",
+      "name_nl": "Le Petit Marché",
+      "desc_nl": "Trendy Marais bistro specializing in seared duck breast, tuna steak & banana crumble.",
+      "tip_nl": "A cozy Marais bistro famous for its signature Sesame Seared Tuna steak and duck breast. Reservations are highly recommended for dinner.",
+      "price_nl": "Mains: €18–€26"
     },
     {
       "id": "p_22",
@@ -993,7 +1077,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Located inside Gare de Lyon railway station, this Belle Époque palace restaurant features opulent gold leaf decor and ceiling paintings seen in classic films."
+      "tip": "Located inside Gare de Lyon railway station, this Belle Époque palace restaurant features opulent gold leaf decor and ceiling paintings seen in classic films.",
+      "name_nl": "Le Train Bleu",
+      "desc_nl": "1900 Belle Époque frescoed dining hall inside Gare de Lyon railway station.",
+      "tip_nl": "Located inside Gare de Lyon railway station, this Belle Époque palace restaurant features opulent gold leaf decor and ceiling paintings seen in classic films.",
+      "price_nl": "Mains: €34–€52"
     },
     {
       "id": "p_23",
@@ -1038,7 +1126,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Lively Provençal bistro in Le Marais. Save room for dessert—they serve a legendary chocolate mousse poured straight from a giant bowl right at your table!"
+      "tip": "Lively Provençal bistro in Le Marais. Save room for dessert—they serve a legendary chocolate mousse poured straight from a giant bowl right at your table!",
+      "name_nl": "Chez Janou",
+      "desc_nl": "Lively Provençal bistro near Place des Vosges famous for endless chocolate mousse bowl.",
+      "tip_nl": "Lively Provençal bistro in Le Marais. Save room for dessert—they serve a legendary chocolate mousse poured straight from a giant bowl right at your table!",
+      "price_nl": "Free Plaza & Exterior (Inside: €18)"
     },
     {
       "id": "p_24",
@@ -1083,7 +1175,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Historic 1896 bouillon serving authentic French classics at wallet-friendly prices (mains from €10). Waiters write your order directly on the paper tablecloth. No reservations."
+      "tip": "Historic 1896 bouillon serving authentic French classics at wallet-friendly prices (mains from €10). Waiters write your order directly on the paper tablecloth. No reservations.",
+      "name_nl": "Bouillon Chartier",
+      "desc_nl": "Historic 1896 dining hall serving classic French comfort food at unbeatable low prices.",
+      "tip_nl": "Historic 1896 bouillon serving authentic French classics at wallet-friendly prices (mains from €10). Waiters write your order directly on the paper tablecloth. No reservations.",
+      "price_nl": "Mains: €9–€14"
     },
     {
       "id": "p_25",
@@ -1128,7 +1224,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Casual walk-in wine bar across from the Michelin-starred Frenchie. Arrive 15 minutes before opening at 6:30 PM to secure a table in the first seating without reservation."
+      "tip": "Casual walk-in wine bar across from the Michelin-starred Frenchie. Arrive 15 minutes before opening at 6:30 PM to secure a table in the first seating without reservation.",
+      "name_nl": "Frenchie Bar à Vins",
+      "desc_nl": "Rustic-chic wine bar on Rue du Nil with small plates & artisanal natural wines.",
+      "tip_nl": "Casual walk-in wine bar across from the Michelin-starred Frenchie. Arrive 15 minutes before opening at 6:30 PM to secure a table in the first seating without reservation.",
+      "price_nl": "Plates: €14–€24"
     },
     {
       "id": "p_26",
@@ -1173,7 +1273,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Legendary Saint-Germain café frequented by Picasso and Hemingway. Enjoy their rich thick hot chocolate served in porcelain pots on the outdoor terrace."
+      "tip": "Legendary Saint-Germain café frequented by Picasso and Hemingway. Enjoy their rich thick hot chocolate served in porcelain pots on the outdoor terrace.",
+      "name_nl": "Les Deux Magots",
+      "desc_nl": "Legendary Saint-Germain cafe once frequented by Ernest Hemingway & Jean-Paul Sartre.",
+      "tip_nl": "Legendary Saint-Germain café frequented by Picasso and Hemingway. Enjoy their rich thick hot chocolate served in porcelain pots on the outdoor terrace.",
+      "price_nl": "Coffee: €6–€10"
     },
     {
       "id": "p_27",
@@ -1218,7 +1322,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "The undisputed king of falafel pita sandwiches in Le Marais. The takeaway line (Emporter) moves very quickly even when long. Closed Saturdays."
+      "tip": "The undisputed king of falafel pita sandwiches in Le Marais. The takeaway line (Emporter) moves very quickly even when long. Closed Saturdays.",
+      "name_nl": "L'As du Fallafel",
+      "desc_nl": "World-famous Jewish Quarter falafel stand stuffed with fried eggplant & tahini.",
+      "tip_nl": "The undisputed king of falafel pita sandwiches in Le Marais. The takeaway line (Emporter) moves very quickly even when long. Closed Saturdays.",
+      "price_nl": "Pita: €9.50"
     },
     {
       "id": "p_28",
@@ -1263,7 +1371,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Stunning 4-story Italian trattoria in Pigalle. The top floor glass greenhouse room is the most sought-after dining spot. Book weeks ahead online!"
+      "tip": "Stunning 4-story Italian trattoria in Pigalle. The top floor glass greenhouse room is the most sought-after dining spot. Book weeks ahead online!",
+      "name_nl": "Pink Mamma",
+      "desc_nl": "Four-story Italian trattoria featuring glass skylight roof and Florentine T-bone steak.",
+      "tip_nl": "Stunning 4-story Italian trattoria in Pigalle. The top floor glass greenhouse room is the most sought-after dining spot. Book weeks ahead online!",
+      "price_nl": "Mains: €16–€28"
     },
     {
       "id": "p_29",
@@ -1309,7 +1421,11 @@
       "shopping": true,
       "free": false,
       "tip": "Head straight to Chez Alain Miam Miam for towering custom sandwiches, or the Moroccan stall for authentic couscous on weekend lunches!",
-      "de": "Steuern Sie am Wochenende direkt Chez Alain Miam Miam für riesige Sandwiches oder den marokkanischen Stand an!"
+      "de": "Steuern Sie am Wochenende direkt Chez Alain Miam Miam für riesige Sandwiches oder den marokkanischen Stand an!",
+      "name_nl": "Marché des Enfants Rouges",
+      "desc_nl": "Paris's oldest covered food market serving authentic fresh savory galettes & crêpes.",
+      "tip_nl": "Head straight to Chez Alain Miam Miam for towering custom sandwiches, or the Moroccan stall for authentic couscous on weekend lunches!",
+      "price_nl": "Dishes: €8–€15"
     },
     {
       "id": "p_30",
@@ -1354,7 +1470,11 @@
       "rain": false,
       "shopping": true,
       "free": false,
-      "tip": "World-famous pastry chef Cédric Grolet's shop known for hyper-realistic fruit-shaped sculpted desserts. Pre-order online to skip hours of waiting."
+      "tip": "World-famous pastry chef Cédric Grolet's shop known for hyper-realistic fruit-shaped sculpted desserts. Pre-order online to skip hours of waiting.",
+      "name_nl": "Cédric Grolet Le Meurice",
+      "desc_nl": "World's best pastry chef boutique producing hyper-realistic sculpted fruit desserts.",
+      "tip_nl": "World-famous pastry chef Cédric Grolet's shop known for hyper-realistic fruit-shaped sculpted desserts. Pre-order online to skip hours of waiting.",
+      "price_nl": "Pastries: €14–€18"
     },
     {
       "id": "p_31",
@@ -1399,7 +1519,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Famous Belle Époque tearoom once frequented by Coco Chanel. Order their thick signature hot chocolate ('L'Africain') paired with a Mont-Blanc pastry."
+      "tip": "Famous Belle Époque tearoom once frequented by Coco Chanel. Order their thick signature hot chocolate ('L'Africain') paired with a Mont-Blanc pastry.",
+      "name_nl": "Angelina Paris",
+      "desc_nl": "Belle Époque tearoom world-renowned for thick African hot chocolate & Mont-Blanc chestnut pastry.",
+      "tip_nl": "Famous Belle Époque tearoom once frequented by Coco Chanel. Order their thick signature hot chocolate ('L'Africain') paired with a Mont-Blanc pastry.",
+      "price_nl": "Hot Choc: €9.50"
     },
     {
       "id": "p_32",
@@ -1444,7 +1568,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Artisanal bakery near Canal Saint-Martin. Try their iconic 'Escargot Chocolat Pistache' (pistachio and chocolate spiral pastry) baked fresh daily."
+      "tip": "Artisanal bakery near Canal Saint-Martin. Try their iconic 'Escargot Chocolat Pistache' (pistachio and chocolate spiral pastry) baked fresh daily.",
+      "name_nl": "Du Pain et des Idées",
+      "desc_nl": "1889 bakery crafting signature escargot chocolate-pistachio pastries and wood-fired sourdough.",
+      "tip_nl": "Artisanal bakery near Canal Saint-Martin. Try their iconic 'Escargot Chocolat Pistache' (pistachio and chocolate spiral pastry) baked fresh daily.",
+      "price_nl": "Pastries: €3.50–€6"
     },
     {
       "id": "p_33",
@@ -1489,7 +1617,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Chic tearoom at Place du Trocadéro famous for its velvety rich hot chocolate served with a giant bowl of homemade chantilly whipped cream."
+      "tip": "Chic tearoom at Place du Trocadéro famous for its velvety rich hot chocolate served with a giant bowl of homemade chantilly whipped cream.",
+      "name_nl": "Carette Trocadéro",
+      "desc_nl": "Famous arcade cafe near Eiffel Tower known for whipped cream hot chocolate & French macarons.",
+      "tip_nl": "Chic tearoom at Place du Trocadéro famous for its velvety rich hot chocolate served with a giant bowl of homemade chantilly whipped cream.",
+      "price_nl": "Hot Choc: €10"
     },
     {
       "id": "p_34",
@@ -1533,7 +1665,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Indigenous art museum right next to the Eiffel Tower. Features a striking vertical living plant wall and peaceful gardens with unique Eiffel Tower views."
+      "tip": "Indigenous art museum right next to the Eiffel Tower. Features a striking vertical living plant wall and peaceful gardens with unique Eiffel Tower views.",
+      "name_nl": "Musée du Quai Branly",
+      "desc_nl": "Jean Nouvel-designed museum of non-Western indigenous art near Eiffel Tower.",
+      "tip_nl": "Indigenous art museum right next to the Eiffel Tower. Features a striking vertical living plant wall and peaceful gardens with unique Eiffel Tower views.",
+      "price_nl": "Entry: €12"
     },
     {
       "id": "p_35",
@@ -1577,7 +1713,11 @@
       "rain": true,
       "shopping": true,
       "free": true,
-      "tip": "Paris's most elegant covered passage (1823) featuring intricate floor mosaics, glass roofs, vintage bookstores, and quiet tearooms."
+      "tip": "Paris's most elegant covered passage (1823) featuring intricate floor mosaics, glass roofs, vintage bookstores, and quiet tearooms.",
+      "name_nl": "Covered Passages",
+      "desc_nl": "19th-century glass-roofed arcades lined with antique shops & tea salons.",
+      "tip_nl": "Paris's most elegant covered passage (1823) featuring intricate floor mosaics, glass roofs, vintage bookstores, and quiet tearooms.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_36",
@@ -1621,7 +1761,11 @@
       "rain": true,
       "shopping": true,
       "free": true,
-      "tip": "Don't miss the 100-year-old stained glass dome inside the main store and head up to the free 8th-floor rooftop terrace for sweeping views of the Opera and Eiffel Tower."
+      "tip": "Don't miss the 100-year-old stained glass dome inside the main store and head up to the free 8th-floor rooftop terrace for sweeping views of the Opera and Eiffel Tower.",
+      "name_nl": "Galeries Lafayette Haussmann",
+      "desc_nl": "Stunning Neo-Byzantine glass dome & free rooftop terrace for panoramic views.",
+      "tip_nl": "Don't miss the 100-year-old stained glass dome inside the main store and head up to the free 8th-floor rooftop terrace for sweeping views of the Opera and Eiffel Tower.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_37",
@@ -1665,7 +1809,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Board a cruise right around sunset to experience Paris bathed in golden light on the way out and fully illuminated with the sparkling Eiffel Tower on the way back."
+      "tip": "Board a cruise right around sunset to experience Paris bathed in golden light on the way out and fully illuminated with the sparkling Eiffel Tower on the way back.",
+      "name_nl": "Seine River Cruise",
+      "desc_nl": "Panoramic waterside views of Eiffel Tower, Musée d'Orsay, and Notre-Dame.",
+      "tip_nl": "Board a cruise right around sunset to experience Paris bathed in golden light on the way out and fully illuminated with the sparkling Eiffel Tower on the way back.",
+      "price_nl": "Cruise: €15"
     },
     {
       "id": "p_38",
@@ -1709,7 +1857,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Filming location from 'Amélie'. Stroll along the iron footbridges, watch lock gates open for boats, and visit independent coffee shops and vintage boutiques."
+      "tip": "Filming location from 'Amélie'. Stroll along the iron footbridges, watch lock gates open for boats, and visit independent coffee shops and vintage boutiques.",
+      "name_nl": "Canal Saint-Martin",
+      "desc_nl": "Bohemian canal walkway famous from Amélie with tree-lined iron footbridges.",
+      "tip_nl": "Filming location from 'Amélie'. Stroll along the iron footbridges, watch lock gates open for boats, and visit independent coffee shops and vintage boutiques.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_39",
@@ -1753,7 +1905,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "The undisputed king of falafel pita sandwiches in Le Marais. The takeaway line (Emporter) moves very quickly even when long. Closed Saturdays."
+      "tip": "The undisputed king of falafel pita sandwiches in Le Marais. The takeaway line (Emporter) moves very quickly even when long. Closed Saturdays.",
+      "name_nl": "Palace of Versailles",
+      "desc_nl": "Essential royal palace with Hall of Mirrors & vast estate gardens.",
+      "tip_nl": "The undisputed king of falafel pita sandwiches in Le Marais. The takeaway line (Emporter) moves very quickly even when long. Closed Saturdays.",
+      "price_nl": "Free Gardens (Interior: €19.50)"
     },
     {
       "id": "p_40",
@@ -1797,7 +1953,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Stunning 4-story Italian trattoria in Pigalle. The top floor glass greenhouse room is the most sought-after dining spot. Book weeks ahead online!"
+      "tip": "Stunning 4-story Italian trattoria in Pigalle. The top floor glass greenhouse room is the most sought-after dining spot. Book weeks ahead online!",
+      "name_nl": "Place de la Concorde & Champs-Élysées",
+      "desc_nl": "Center of Historical Axis featuring 3,300-year-old Luxor Obelisk.",
+      "tip_nl": "Stunning 4-story Italian trattoria in Pigalle. The top floor glass greenhouse room is the most sought-after dining spot. Book weeks ahead online!",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_41",
@@ -1842,7 +2002,11 @@
       "shopping": false,
       "free": false,
       "tip": "Head straight to Chez Alain Miam Miam for towering custom sandwiches, or the Moroccan stall for authentic couscous on weekend lunches!",
-      "de": "Steuern Sie am Wochenende direkt Chez Alain Miam Miam für riesige Sandwiches oder den marokkanischen Stand an!"
+      "de": "Steuern Sie am Wochenende direkt Chez Alain Miam Miam für riesige Sandwiches oder den marokkanischen Stand an!",
+      "name_nl": "Conciergerie",
+      "desc_nl": "Medieval royal palace and former prison where Marie Antoinette was held.",
+      "tip_nl": "Head straight to Chez Alain Miam Miam for towering custom sandwiches, or the Moroccan stall for authentic couscous on weekend lunches!",
+      "price_nl": "Entry: €11.50"
     },
     {
       "id": "p_42",
@@ -1886,7 +2050,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "World-famous pastry chef Cédric Grolet's shop known for hyper-realistic fruit-shaped sculpted desserts. Pre-order online to skip hours of waiting."
+      "tip": "World-famous pastry chef Cédric Grolet's shop known for hyper-realistic fruit-shaped sculpted desserts. Pre-order online to skip hours of waiting.",
+      "name_nl": "Place des Vosges",
+      "desc_nl": "Paris's oldest planned square in Marais with red-brick arcades & Victor Hugo home.",
+      "tip_nl": "World-famous pastry chef Cédric Grolet's shop known for hyper-realistic fruit-shaped sculpted desserts. Pre-order online to skip hours of waiting.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_43",
@@ -1930,7 +2098,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Famous Belle Époque tearoom once frequented by Coco Chanel. Order their thick signature hot chocolate ('L'Africain') paired with a Mont-Blanc pastry."
+      "tip": "Famous Belle Époque tearoom once frequented by Coco Chanel. Order their thick signature hot chocolate ('L'Africain') paired with a Mont-Blanc pastry.",
+      "name_nl": "Musée Marmottan Monet",
+      "desc_nl": "Houses Monet's Impression, Sunrise—the origin of Impressionism.",
+      "tip_nl": "Famous Belle Époque tearoom once frequented by Coco Chanel. Order their thick signature hot chocolate ('L'Africain') paired with a Mont-Blanc pastry.",
+      "price_nl": "Entry: €14"
     },
     {
       "id": "p_44",
@@ -1974,7 +2146,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Artisanal bakery near Canal Saint-Martin. Try their iconic 'Escargot Chocolat Pistache' (pistachio and chocolate spiral pastry) baked fresh daily."
+      "tip": "Artisanal bakery near Canal Saint-Martin. Try their iconic 'Escargot Chocolat Pistache' (pistachio and chocolate spiral pastry) baked fresh daily.",
+      "name_nl": "Fondation Louis Vuitton",
+      "desc_nl": "Frank Gehry modern architectural masterpiece & world-class art exhibitions.",
+      "tip_nl": "Artisanal bakery near Canal Saint-Martin. Try their iconic 'Escargot Chocolat Pistache' (pistachio and chocolate spiral pastry) baked fresh daily.",
+      "price_nl": "Entry: €16"
     },
     {
       "id": "p_45",
@@ -2018,7 +2194,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Chic tearoom at Place du Trocadéro famous for its velvety rich hot chocolate served with a giant bowl of homemade chantilly whipped cream."
+      "tip": "Chic tearoom at Place du Trocadéro famous for its velvety rich hot chocolate served with a giant bowl of homemade chantilly whipped cream.",
+      "name_nl": "Musée de Cluny",
+      "desc_nl": "Latin Quarter museum famous for tapestry masterpiece The Lady and the Unicorn.",
+      "tip_nl": "Chic tearoom at Place du Trocadéro famous for its velvety rich hot chocolate served with a giant bowl of homemade chantilly whipped cream.",
+      "price_nl": "Entry: €12"
     },
     {
       "id": "p_46",
@@ -2062,7 +2242,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Features two parks: Disneyland Park and Walt Disney Studios. The pink Sleeping Beauty Castle is considered the most romantic Disney castle worldwide. 40 min via RER A train."
+      "tip": "Features two parks: Disneyland Park and Walt Disney Studios. The pink Sleeping Beauty Castle is considered the most romantic Disney castle worldwide. 40 min via RER A train.",
+      "name_nl": "Disneyland Paris",
+      "desc_nl": "World-famous Disney theme park featuring Sleeping Beauty Castle & Marvel Avengers Campus.",
+      "tip_nl": "Features two parks: Disneyland Park and Walt Disney Studios. The pink Sleeping Beauty Castle is considered the most romantic Disney castle worldwide. 40 min via RER A train.",
+      "price_nl": "1-Day Ticket: €56–€105"
     },
     {
       "id": "p_47",
@@ -2106,7 +2290,11 @@
       "rain": true,
       "shopping": true,
       "free": true,
-      "tip": "Located inside the Jardin des Plantes, this museum features a dramatic procession of taxidermy African savanna animals under a soaring glass roof."
+      "tip": "Located inside the Jardin des Plantes, this museum features a dramatic procession of taxidermy African savanna animals under a soaring glass roof.",
+      "name_nl": "Grande Galerie de l'Évolution",
+      "desc_nl": "Stunning glass-roofed museum in Jardin des Plantes featuring a procession of 7,000 stuffed animals.",
+      "tip_nl": "Located inside the Jardin des Plantes, this museum features a dramatic procession of taxidermy African savanna animals under a soaring glass roof.",
+      "price_nl": "Free Gardens (Interior: €13)"
     },
     {
       "id": "p_48",
@@ -2151,7 +2339,11 @@
       "shopping": false,
       "free": false,
       "tip": "Reserve time slots for the Cité des Enfants interactive zone for kids online in advance. The Argonaut submarine tour is included!",
-      "de": "Zeitfenster für die Cité des Enfants vorab online buchen. Die Besichtigung des echten U-Boots Argonaute ist inklusive!"
+      "de": "Zeitfenster für die Cité des Enfants vorab online buchen. Die Besichtigung des echten U-Boots Argonaute ist inklusive!",
+      "name_nl": "Cité des Sciences et de l'Industrie",
+      "desc_nl": "Europe's largest science museum featuring interactive Cité des Enfants & Geode IMAX sphere.",
+      "tip_nl": "Reserve time slots for the Cité des Enfants interactive zone for kids online in advance. The Argonaut submarine tour is included!",
+      "price_nl": "Entry: €13"
     },
     {
       "id": "p_49",
@@ -2195,7 +2387,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": ""
+      "tip": "",
+      "name_nl": "Jardin d'Acclimatation",
+      "desc_nl": "Historic 45-acre children's amusement park in Bois de Boulogne with rollercoasters & farm animals.",
+      "tip_nl": "🏛️ Visit early in the morning or near sunset for the best lighting and fewer crowds.",
+      "price_nl": "Free Gardens (Interior: €7.00)"
     },
     {
       "id": "p_50",
@@ -2239,7 +2435,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": ""
+      "tip": "",
+      "name_nl": "Parc Zoologique de Paris",
+      "desc_nl": "Modern 36-acre zoo in Bois de Vincennes featuring a 65-meter artificial Great Rock & 5 biozones.",
+      "tip_nl": "🏛️ Visit early in the morning or near sunset for the best lighting and fewer crowds.",
+      "price_nl": "Free Gardens (Interior: €22)"
     },
     {
       "id": "p_51",
@@ -2283,7 +2483,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": ""
+      "tip": "",
+      "name_nl": "Aquarium de Paris",
+      "desc_nl": "Underground aquarium at Trocadéro featuring 13,000 sea creatures & shark touching pool.",
+      "tip_nl": "🏛️ Visit early in the morning or near sunset for the best lighting and fewer crowds.",
+      "price_nl": "Entry: €26"
     },
     {
       "id": "p_52",
@@ -2327,7 +2531,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Historic wax museum operating since 1882. Take photos next to over 200 lifelike wax figures ranging from Marie Antoinette and Napoleon to modern pop stars."
+      "tip": "Historic wax museum operating since 1882. Take photos next to over 200 lifelike wax figures ranging from Marie Antoinette and Napoleon to modern pop stars.",
+      "name_nl": "Musée Grévin",
+      "desc_nl": "Iconic 1882 wax museum featuring 450 hyper-realistic figures of historic & pop culture icons.",
+      "tip_nl": "Historic wax museum operating since 1882. Take photos next to over 200 lifelike wax figures ranging from Marie Antoinette and Napoleon to modern pop stars.",
+      "price_nl": "Entry: €20"
     },
     {
       "id": "p_53",
@@ -2371,7 +2579,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Stretching between the Louvre and Place de la Concorde. In summer (June–August), a funfair with a giant Ferris wheel operates inside the park."
+      "tip": "Stretching between the Louvre and Place de la Concorde. In summer (June–August), a funfair with a giant Ferris wheel operates inside the park.",
+      "name_nl": "Jardin des Tuileries",
+      "desc_nl": "Historic royal garden between Louvre & Place de la Concorde with vintage carousel & summer funfair.",
+      "tip_nl": "Stretching between the Louvre and Place de la Concorde. In summer (June–August), a funfair with a giant Ferris wheel operates inside the park.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "p_54",
@@ -2415,7 +2627,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Located at Le Bourget Airport, this is the only place in the world where you can step inside two actual supersonic Concorde aircraft side by side."
+      "tip": "Located at Le Bourget Airport, this is the only place in the world where you can step inside two actual supersonic Concorde aircraft side by side.",
+      "name_nl": "Musée de l'Air et de l'Espace",
+      "desc_nl": "Historic aviation museum at Le Bourget featuring original Concorde supersonic jets & rockets.",
+      "tip_nl": "Located at Le Bourget Airport, this is the only place in the world where you can step inside two actual supersonic Concorde aircraft side by side.",
+      "price_nl": "Entry: €16"
     },
     {
       "id": "p_55",
@@ -2459,7 +2675,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Gourmet chocolate museum featuring live chocolate-making demonstrations by master chocolatiers and unlimited tastings throughout the tour."
+      "tip": "Gourmet chocolate museum featuring live chocolate-making demonstrations by master chocolatiers and unlimited tastings throughout the tour.",
+      "name_nl": "Choco-Story Paris",
+      "desc_nl": "Interactive chocolate museum tracing 4,000 years of cacao history with live chocolate tastings.",
+      "tip_nl": "Gourmet chocolate museum featuring live chocolate-making demonstrations by master chocolatiers and unlimited tastings throughout the tour.",
+      "price_nl": "Entry: €15"
     }
   ]
 }

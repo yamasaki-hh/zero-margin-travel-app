@@ -44,7 +44,11 @@
       "price_es": "Entrada: €19.50",
       "price_zh": "门票：€19.50",
       "price_fr": "Entrée : €19.50",
-      "price_de": "Eintritt: €19.50"
+      "price_de": "Eintritt: €19.50",
+      "name_nl": "Mauritshuis",
+      "desc_nl": "Royal Picture Gallery in a 17th-century palace, housing Vermeer's 'Girl with a Pearl Earring' and 'View of Delft'.",
+      "tip_nl": "🖼️ 'Girl with a Pearl Earring' is in Room 15. Visit at 10:00 AM opening or after 3:30 PM to admire brushwork without crowds. (Valid for Museumkaart).",
+      "price_nl": "Entry: €21.00"
     },
     {
       "id": "dh_2",
@@ -86,7 +90,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Het Binnenhof & Ridderzaal",
+      "desc_nl": "13th-century Gothic castle complex serving as the political heart of the Netherlands and the oldest active parliament building.",
+      "tip_nl": "📸 Walk along Lange Vijverberg for classic Hofvijver reflection shots. (Note: Binnenhof is undergoing renovation through 2028+).",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_3",
@@ -128,7 +136,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Vredespaleis）",
+      "desc_nl": "Imposing 1913 Neo-Renaissance palace housing the UN International Court of Justice (ICJ) and Permanent Court of Arbitration.",
+      "tip_nl": "🏛️ Interior access is by guided weekend tour only. The Visitors Centre outside the gate offers a free audio guide exhibition.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_4",
@@ -170,7 +182,11 @@
       "price_es": "Entrada: €17.50",
       "price_zh": "门票：€17.50",
       "price_fr": "Entrée : €17.50",
-      "price_de": "Eintritt: €17.50"
+      "price_de": "Eintritt: €17.50",
+      "name_nl": "Kunstmuseum Den Haag",
+      "desc_nl": "Art Deco brick palace designed by H.P. Berlage, housing the world's largest collection of Piet Mondrian's masterpieces.",
+      "tip_nl": "🎨 Explore the 'Wonderkamers' in the basement—an interactive digital art discovery zone where kids curate virtual galleries.",
+      "price_nl": "Entry: €17.50"
     },
     {
       "id": "dh_5",
@@ -212,7 +228,11 @@
       "price_es": "Entrada: €16.00",
       "price_zh": "门票：€16.00",
       "price_fr": "Entrée : €16.00",
-      "price_de": "Eintritt: €16.00"
+      "price_de": "Eintritt: €16.00",
+      "name_nl": "Panorama Mesdag",
+      "desc_nl": "Monumental 360-degree cylindrical panoramic painting created in 1881, depicting the North Sea and Scheveningen village.",
+      "tip_nl": "👁️ Walk up to the viewing gazebo: real beach sand and dune grass merge seamlessly with the painted canvas creating a 3D illusion.",
+      "price_nl": "Entry: €16.00"
     },
     {
       "id": "dh_6",
@@ -254,7 +274,11 @@
       "price_es": "Entrada: €12.50",
       "price_zh": "门票：€12.50",
       "price_fr": "Entrée : €12.50",
-      "price_de": "Eintritt: €12.50"
+      "price_de": "Eintritt: €12.50",
+      "name_nl": "Escher in Het Paleis）",
+      "desc_nl": "Museum in Queen Mother Emma's 18th-century winter palace, dedicated to the mind-bending optical illusions of M.C. Escher.",
+      "tip_nl": "🪄 Step into the top-floor 'Escher Room' (Ames room illusion) where optical perspective makes one person look tiny and another giant.",
+      "price_nl": "Entry: €14.50"
     },
     {
       "id": "dh_7",
@@ -296,7 +320,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Pier Scheveningen & Reuzenrad",
+      "desc_nl": "Double-decked pleasure pier extending 400m into North Sea, featuring street food bars, over-water giant Ferris wheel, and zipline.",
+      "tip_nl": "🎡 Book a ride on the Ferris wheel just before sunset to look out over the North Sea coast from an enclosed glass capsule.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_8",
@@ -338,7 +366,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Scheveningen Strand & Boulevard",
+      "desc_nl": "The most popular seaside beach resort in the Netherlands, featuring wide sandy beaches and a seaside promenade.",
+      "tip_nl": "🏖️ Take Tram 1 or 9 directly from Den Haag Centraal to Kurhaus (15 min). For quiet dunes, walk north toward Zwarte Pad.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_9",
@@ -380,7 +412,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Grand Hotel Amrâth Kurhaus",
+      "desc_nl": "Historic 1885 Neo-Renaissance grand hotel dominating Scheveningen beach, featuring an ornate central dome ceiling.",
+      "tip_nl": "☕ Walk into the historic Kurzaal lounge or sit on the oceanfront terrace for Dutch high tea or coffee with pastry.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_10",
@@ -422,7 +458,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Lange Voorhout",
+      "desc_nl": "L-shaped avenue lined with centuries-old linden trees, 18th-century town mansions, foreign embassies, and Hotel Des Indes.",
+      "tip_nl": "🍂 Every Thursday and Sunday (May–Sept), an open-air antique and book market operates beneath leafy linden trees.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_11",
@@ -464,7 +504,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Paleis Noordeinde & Paleistuin",
+      "desc_nl": "Official working palace of King Willem-Alexander, featuring a classical 16th-century facade and secluded public gardens.",
+      "tip_nl": "🌿 While the working palace is closed to the public, the tranquil Paleistuin located right behind it is completely free to enter.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_12",
@@ -506,7 +550,11 @@
       "price_es": "Entrada: €22.50 (WEB事前購入: 約€18.00)",
       "price_zh": "门票：€22.50 (WEB事前購入: 約€18.00)",
       "price_fr": "Entrée : €22.50 (WEB事前購入: 約€18.00)",
-      "price_de": "Eintritt: €22.50 (WEB事前購入: 約€18.00)"
+      "price_de": "Eintritt: €22.50 (WEB事前購入: 約€18.00)",
+      "name_nl": "Madurodam",
+      "desc_nl": "World-famous interactive miniature park showcasing 1:25 scale replicas of Dutch landmarks, airports, and windmills.",
+      "tip_nl": "✈️ Children can operate scale cargo cranes, extinguish harbor fires with real water, and activate moving trains.",
+      "price_nl": "Entry: €22.50 (WEB事前購入: 約€18.00)"
     },
     {
       "id": "dh_13",
@@ -548,7 +596,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Museum Beelden aan Zee）",
+      "desc_nl": "Modern museum set inside coastal sand dunes of Scheveningen, dedicated to modern and contemporary sculpture.",
+      "tip_nl": "🗿 Walk freely among the fairytale bronze sculptures created by Tom Otterness along the public beach promenade.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_14",
@@ -590,7 +642,11 @@
       "price_es": "Entrada: €19.00",
       "price_zh": "门票：€19.00",
       "price_fr": "Entrée : €19.00",
-      "price_de": "Eintritt: €19.00"
+      "price_de": "Eintritt: €19.00",
+      "name_nl": "Louwman Museum",
+      "desc_nl": "World's oldest private collection of historic automobiles, housing over 275 vehicles in a custom brick estate.",
+      "tip_nl": "🚗 Don't miss the 1886 Benz Patent-Motorwagen and the vintage town square replica on the ground floor with gas pumps.",
+      "price_nl": "Entry: €19.00"
     },
     {
       "id": "dh_15",
@@ -632,7 +688,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Passage",
+      "desc_nl": "Oldest covered shopping arcade in NL (1885), featuring UNESCO-recognized Neo-Renaissance glass-and-iron architecture.",
+      "tip_nl": "🛍️ Look up at ornamental plasterwork and rotunda domes while exploring specialty pen boutiques and chocolate shop Hop & Stork.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_16",
@@ -674,7 +734,11 @@
       "price_es": "Entrada: €18.50",
       "price_zh": "门票：€18.50",
       "price_fr": "Entrée : €18.50",
-      "price_de": "Eintritt: €18.50"
+      "price_de": "Eintritt: €18.50",
+      "name_nl": "SEA LIFE Scheveningen",
+      "desc_nl": "Indoor marine aquarium on Scheveningen Boulevard featuring underwater walk-through tunnel with sharks and rays.",
+      "tip_nl": "🐧 Check the daily feeding schedule; watching Humboldt penguins and otters during scheduled presentations is a highlight for kids.",
+      "price_nl": "Entry: €18.50"
     },
     {
       "id": "dh_17",
@@ -716,7 +780,11 @@
       "price_es": "Entrada: €10.00",
       "price_zh": "门票：€10.00",
       "price_fr": "Entrée : €10.00",
-      "price_de": "Eintritt: €10.00"
+      "price_de": "Eintritt: €10.00",
+      "name_nl": "Museum Bredius",
+      "desc_nl": "18th-century canal mansion on Lange Vijverberg, displaying art historian Abraham Bredius' private collection.",
+      "tip_nl": "🖼️ Offers a peaceful Golden Age viewing experience in a domestic interior setting overlooking Hofvijver without lines.",
+      "price_nl": "Entry: €10.00"
     },
     {
       "id": "dh_18",
@@ -758,7 +826,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Grote of Sint-Jacobskerk",
+      "desc_nl": "14th-century Gothic landmark featuring a distinctive 93-meter hexagonal bell tower and royal baptisms.",
+      "tip_nl": "🪜 Join the guided tower climb (288 stone steps) from April to October for panoramic views stretching to the North Sea.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_19",
@@ -800,7 +872,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Oude Stadhuis Den Haag",
+      "desc_nl": "16th-century Dutch Renaissance building featuring stepped gables, statues of Justice, and red-and-white shutters.",
+      "tip_nl": "📸 The cobblestone square in front of the Old City Hall surrounded by traditional cafes is an ideal evening photo spot.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_20",
@@ -842,7 +918,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Den Haag Centraal & Babylon",
+      "desc_nl": "Modern transit hub featuring a glass-roofed central hall beneath the high-rise New Babylon commercial complex.",
+      "tip_nl": "🚆 For elevated views of modern skyscrapers, take the escalator up to the overhead tram platform level inside the glass hall.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_21",
@@ -884,7 +964,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Noordeinde & Denneweg",
+      "desc_nl": "Premier lifestyle streets; Noordeinde features art galleries and jewelers, Denneweg offers bistros along a canal.",
+      "tip_nl": "🍷 Denneweg is home to independent wine bars and French bistros; perfect for a relaxed dinner after shopping.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_22",
@@ -926,7 +1010,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Chinatown Den Haag",
+      "desc_nl": "Chinatown around Wagenstraat marked by traditional entrance gates (Paifang) with carved stone lions.",
+      "tip_nl": "🥟 Visit Full Moon City on Wagenstraat for traditional cart-style dim sum, or stop by St. Anny Bakery for egg tarts.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_23",
@@ -968,7 +1056,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Westbroekpark & Rosarium",
+      "desc_nl": "English landscape park featuring the International Rosarium blooming with 20,000 rose bushes from June to October.",
+      "tip_nl": "🚣 Rent a rowboat or electric mini-boat at the Waterkant tea garden to navigate through the park's scenic waterways.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_24",
@@ -1010,7 +1102,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Clingendael & Japanse Tuin",
+      "desc_nl": "Historic 17th-century country estate containing the oldest and largest authentic Japanese Garden in NL (c. 1910).",
+      "tip_nl": "⛩️ Open to the public for ONLY about 6 to 8 weeks a year (mid-May to mid-June & mid-October). Free entry.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_25",
@@ -1052,7 +1148,11 @@
       "price_es": "Entrada: €12.50",
       "price_zh": "门票：€12.50",
       "price_fr": "Entrée : €12.50",
-      "price_de": "Eintritt: €12.50"
+      "price_de": "Eintritt: €12.50",
+      "name_nl": "Muzee Scheveningen",
+      "desc_nl": "Museum in an authentic 1877 schoolhouse showcasing daily life, regional costumes, and fishing fleets of Scheveningen.",
+      "tip_nl": "🐟 An informative cultural stop before heading to the beach; explore reconstructed historic fishermen's living quarters.",
+      "price_nl": "Entry: €12.50"
     },
     {
       "id": "dh_26",
@@ -1094,7 +1194,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Haagse Markt",
+      "desc_nl": "One of the largest multicultural open-air markets in Europe, operating four days a week with 500+ stalls.",
+      "tip_nl": "🥙 Sample authentic Surinamese roti, warm Turkish gözleme, or fresh Dutch salted herring while browsing stalls.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_27",
@@ -1136,7 +1240,11 @@
       "price_es": "Entrada: €12.00",
       "price_zh": "门票：€12.00",
       "price_fr": "Entrée : €12.00",
-      "price_de": "Eintritt: €12.00"
+      "price_de": "Eintritt: €12.00",
+      "name_nl": "Museum Meermanno / Huis van het Boek）",
+      "desc_nl": "The oldest book museum in the world, dedicated to medieval manuscripts, early printed books, and typography.",
+      "tip_nl": "📖 Visit the historic 19th-century book gallery (Boekenzaal) with floor-to-ceiling wooden bookshelves.",
+      "price_nl": "Entry: €12.00"
     },
     {
       "id": "dh_28",
@@ -1178,7 +1286,11 @@
       "price_es": "Entrada: €15.00",
       "price_zh": "门票：€15.00",
       "price_fr": "Entrée : €15.00",
-      "price_de": "Eintritt: €15.00"
+      "price_de": "Eintritt: €15.00",
+      "name_nl": "Gevangenpoort",
+      "desc_nl": "Medieval gatehouse and former prison dating back to the 13th century, displaying historical torture instruments.",
+      "tip_nl": "⛓️ Take the guided tour through narrow medieval stairs to see the torture chamber (Pijnkelder) and dark cells.",
+      "price_nl": "Entry: €15.00"
     },
     {
       "id": "dh_29",
@@ -1220,7 +1332,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Scheveningse Bosjes & Indisch Monument",
+      "desc_nl": "Woodland dune parkland containing the national memorial commemorating victims of the Dutch East Indies during WWII.",
+      "tip_nl": "🚶 A paved path connects through the woods from Peace Palace straight to Madurodam and the beach.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_30",
@@ -1262,7 +1378,11 @@
       "price_es": "Entrada: コンビチケット: €17.50",
       "price_zh": "门票：コンビチケット: €17.50",
       "price_fr": "Entrée : コンビチケット: €17.50",
-      "price_de": "Eintritt: コンビチケット: €17.50"
+      "price_de": "Eintritt: コンビチケット: €17.50",
+      "name_nl": "Museon-Omniversum",
+      "desc_nl": "Integrated science museum focusing on global sustainability combined with an 840 m² curved IMAX dome cinema.",
+      "tip_nl": "🎟️ Buy a combination day ticket to access both hands-on science galleries and one scheduled dome movie presentation.",
+      "price_nl": "Entry: コンビチケット: €17.50"
     },
     {
       "id": "dh_31",
@@ -1304,7 +1424,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Paleis Huis ten Bosch",
+      "desc_nl": "17th-century royal palace set within Haagse Bos forest, serving as the private home of King Willem-Alexander.",
+      "tip_nl": "🌲 The palace is a private royal residence closed to public, but viewable while walking in Haagse Bos park.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_32",
@@ -1346,7 +1470,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Haagse Bos & Malieveld",
+      "desc_nl": "One of the oldest surviving natural beech forests in NL, anchored by the sprawling 10-hectare Malieveld event lawn.",
+      "tip_nl": "🦌 Keep an eye out for wild deer and herons around the lakes and woodland trails in Haagse Bos near the station.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_33",
@@ -1388,7 +1516,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Haven van Scheveningen",
+      "desc_nl": "Working fishing and yacht harbor of Scheveningen lined with top seafood restaurants and oyster bars.",
+      "tip_nl": "🐟 Skip beachfront fast food; head directly to harbor quays (Dr. Lelykade) for seafood dining at Simonis.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_34",
@@ -1430,7 +1562,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Stadhuis Den Haag）",
+      "desc_nl": "Designed by architect Richard Meier, a stark-white modernist municipal complex featuring a soaring indoor atrium.",
+      "tip_nl": "🏛️ Walk into the massive central white atrium for free to admire the Meier architecture and civic art exhibits.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_35",
@@ -1472,7 +1608,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Zandmotor & Zuiderstrand）",
+      "desc_nl": "Quiet natural dune beach south of Scheveningen harbor, home to De Zandmotor artificial sand peninsula.",
+      "tip_nl": "🏄 Ideal for kitesurfing and dune walks; beach pavilions here are far more relaxed than central Scheveningen.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_36",
@@ -1514,7 +1654,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Park Zorgvliet & Catshuis）",
+      "desc_nl": "Protected historic landscape park containing the Catshuis, official 17th-century country residence of Dutch Prime Minister.",
+      "tip_nl": "🌿 Access requires a nominal annual walking permit from municipality to preserve rare birds, keeping it serene.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_37",
@@ -1556,7 +1700,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Koninklijke Schouwburg",
+      "desc_nl": "18th-century neoclassical palace converted into the premier classical theater of The Hague.",
+      "tip_nl": "🎭 Located at the corner of Korte Voorhout; the illuminated facade makes for a lovely evening walking route.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_38",
@@ -1598,7 +1746,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Indische Buurt & Archipelbuurt",
+      "desc_nl": "Elegant 19th-century residential quarter reflecting deep cultural ties with former Dutch East Indies.",
+      "tip_nl": "🍛 Visit authentic Indonesian restaurants in this area (like Garoeda) to order a traditional multi-dish Rijsttafel.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_39",
@@ -1640,7 +1792,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Nieuwe Kerk Den Haag & Spinoza",
+      "desc_nl": "17th-century Dutch Baroque Protestant church on the Spui; in its churchyard lies the tomb of philosopher Baruch Spinoza.",
+      "tip_nl": "📚 Look for the bronze statue of Spinoza seated in contemplation outside his former residence near the canal.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_40",
@@ -1682,7 +1838,11 @@
       "price_es": "Entrada: €27.50",
       "price_zh": "门票：€27.50",
       "price_fr": "Entrée : €27.50",
-      "price_de": "Eintritt: €27.50"
+      "price_de": "Eintritt: €27.50",
+      "name_nl": "Drievliet Familiepark",
+      "desc_nl": "Family theme park in southeastern The Hague featuring four themed zones with roller coasters and water flumes.",
+      "tip_nl": "🎟️ Ideal for families with children aged 3–12; queue waits are significantly shorter than at Efteling.",
+      "price_nl": "Entry: €27.50"
     },
     {
       "id": "dh_41",
@@ -1724,7 +1884,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Historisch Leiden",
+      "desc_nl": "Historic university city just 12 minutes by train from The Hague, birthplace of Rembrandt with hilltop fort De Burcht.",
+      "tip_nl": "🏛️ Climb the earthen mound of De Burcht van Leiden (free) for 360-degree views over brick rooftops.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_42",
@@ -1766,7 +1930,11 @@
       "price_es": "Entrada: €23.75",
       "price_zh": "门票：€23.75",
       "price_fr": "Entrée : €23.75",
-      "price_de": "Eintritt: €23.75"
+      "price_de": "Eintritt: €23.75",
+      "name_nl": "CORPUS Journey Through the Human Body",
+      "desc_nl": "Interactive science education museum inside a giant 35-meter seated copper human figure.",
+      "tip_nl": "🫀 Mandatory advance time-slot booking online (min age 6). Travel through organs with 3D glasses.",
+      "price_nl": "Entry: €23.75"
     },
     {
       "id": "dh_43",
@@ -1808,7 +1976,11 @@
       "price_es": "Entrada: €22.00",
       "price_zh": "门票：€22.00",
       "price_fr": "Entrée : €22.00",
-      "price_de": "Eintritt: €22.00"
+      "price_de": "Eintritt: €22.00",
+      "name_nl": "Museum Voorlinden",
+      "desc_nl": "Private modern and contemporary art museum in Wassenaar, famous for Leandro Erlich's 'Swimming Pool'.",
+      "tip_nl": "📸 You can walk underneath the transparent water surface inside the Swimming Pool installation for photos.",
+      "price_nl": "Entry: €22.00"
     },
     {
       "id": "dh_44",
@@ -1850,7 +2022,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Kasteel Duivenvoorde",
+      "desc_nl": "One of the oldest intact moated castles in South Holland (1226), featuring period interiors and a landscape park.",
+      "tip_nl": "🏰 Explore the 17th-century living rooms; the surrounding wooded estate and moat pathways are open for walking.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_45",
@@ -1892,7 +2068,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Historisch Delft",
+      "desc_nl": "Historic canal city 10 minutes south by Tram 1 from The Hague, hometown of Vermeer and Royal Delft porcelain.",
+      "tip_nl": "🎟️ A combination ticket covers both Oude Kerk (Vermeer's tomb) and Nieuwe Kerk (tower view over The Hague).",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_46",
@@ -1934,7 +2114,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Nationaal Park Hollandse Duinen",
+      "desc_nl": "National park stretching 43 kilometers of coastal dunes, estate forests, and beaches north of The Hague.",
+      "tip_nl": "🚲 Rent a bicycle and follow the coastal cycle route (LF Kustroute) through Meijendel dune reserve.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_47",
@@ -1976,7 +2160,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Meijendel Nature Reserve",
+      "desc_nl": "Largest contiguous dune area in South Holland, featuring wild Scottish Highland cattle and natural playgrounds.",
+      "tip_nl": "🥞 Kids can climb the 'Monkeybos' playground before having lunch at the historic farmhouse pancake restaurant.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_48",
@@ -2018,7 +2206,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Westland: De Glazen Stad）",
+      "desc_nl": "The world's most concentrated center of high-tech greenhouse horticulture ('The Glass City').",
+      "tip_nl": "🍅 Visit Historische Tuin Westland in Honselersdijk to learn glasshouse history and take canal boat tours.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_49",
@@ -2060,7 +2252,11 @@
       "price_es": "Entrada: €10.00",
       "price_zh": "门票：€10.00",
       "price_fr": "Entrée : €10.00",
-      "price_de": "Eintritt: €10.00"
+      "price_de": "Eintritt: €10.00",
+      "name_nl": "Museum Hofwijck）",
+      "desc_nl": "17th-century country estate created by scientist Christiaan Huygens (inventor of the pendulum clock).",
+      "tip_nl": "⏳ Explore Christiaan Huygens' authentic telescopes and horological instruments in the attic.",
+      "price_nl": "Entry: €10.00"
     },
     {
       "id": "dh_50",
@@ -2102,7 +2298,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Westfield Mall of the Netherlands",
+      "desc_nl": "The largest fully covered shopping and lifestyle destination in NL, located in Leidschendam.",
+      "tip_nl": "🛍️ The indoor food court 'Fresh!' features artisanal bakers, cheese mongers, and sushi chefs under one roof.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_51",
@@ -2144,7 +2344,11 @@
       "price_es": "Entrada: ジップライン: €37.50",
       "price_zh": "门票：ジップライン: €37.50",
       "price_fr": "Entrée : ジップライン: €37.50",
-      "price_de": "Eintritt: ジップライン: €37.50"
+      "price_de": "Eintritt: ジップライン: €37.50",
+      "name_nl": "De Pier Zipline & Bungee",
+      "desc_nl": "Adventure zipline gliding over the beach and waves at speeds up to 70 km/h from a 60-meter tower.",
+      "tip_nl": "⚡ Book your zipline time slot during late afternoon; you fly directly above surfers in the waves below.",
+      "price_nl": "Entry: ジップライン: €37.50"
     },
     {
       "id": "dh_52",
@@ -2186,7 +2390,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Hop-on Hop-off Tourist Tram",
+      "desc_nl": "Seasonal tourist tram service using authentic 1950s PCC streetcars looping through sights with audio guides.",
+      "tip_nl": "🚋 The day ticket allows unlimited boardings and alightings at 14 major attractions with audio guides.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_53",
@@ -2228,7 +2436,11 @@
       "price_es": "Entrada: €15.00",
       "price_zh": "门票：€15.00",
       "price_fr": "Entrée : €15.00",
-      "price_de": "Eintritt: €15.00"
+      "price_de": "Eintritt: €15.00",
+      "name_nl": "Haags Historisch Museum",
+      "desc_nl": "Civic history museum on Hofvijver displaying Jan van Goyen's monumental 5-meter-wide 'View of The Hague'.",
+      "tip_nl": "🏹 Stand by the 2nd-floor windows facing Hofvijver for an indoor view of Binnenhof's lakeside towers.",
+      "price_nl": "Entry: €15.00"
     },
     {
       "id": "dh_54",
@@ -2270,7 +2482,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Theater aan het Spui & Amare",
+      "desc_nl": "Newly built cultural arts complex housing Nederlands Dans Theater (NDT) and The Hague Philharmonic.",
+      "tip_nl": "🎻 Open public lobby spaces frequently host free lunchtime concerts and dance rehearsals open to anyone.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_55",
@@ -2312,7 +2528,11 @@
       "price_es": "Entrada: スケート入場: €9.50 / スキー2時間: €29.50",
       "price_zh": "门票：スケート入場: €9.50 / スキー2時間: €29.50",
       "price_fr": "Entrée : スケート入場: €9.50 / スキー2時間: €29.50",
-      "price_de": "Eintritt: スケート入場: €9.50 / スキー2時間: €29.50"
+      "price_de": "Eintritt: スケート入場: €9.50 / スキー2時間: €29.50",
+      "name_nl": "Uithof Den Haag",
+      "desc_nl": "Sprawling indoor sports complex featuring a 400-meter ice-skating oval and indoor real-snow ski slope.",
+      "tip_nl": "⛸️ In winter, rent classic Dutch speed skates (noren) to glide along the full 400-meter indoor oval track.",
+      "price_nl": "Entry: スケート入場: €9.50 / スキー2時間: €29.50"
     },
     {
       "id": "dh_56",
@@ -2354,7 +2574,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Grote Marktstraat",
+      "desc_nl": "Bustling pedestrian retail spine connecting Central Station area to Grote Markt square.",
+      "tip_nl": "🚲 If traveling by bicycle, use the subterranean bike parking stations beneath Grote Marktstraat—they are free.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_57",
@@ -2396,7 +2620,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Grote Markt Den Haag",
+      "desc_nl": "Historic market square turned vibrant social nightlife and pop music hub, surrounded by iconic pubs.",
+      "tip_nl": "🎸 De Zwarte Ruiter is legendary for live rock music performances on weekend evenings paired with craft beers.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_58",
@@ -2438,7 +2666,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Park Ockenburgh & Landgoed Ockenburgh",
+      "desc_nl": "Centuries-old historic estate near Kijkduin beach featuring a restored manor house and greenhouse restaurant.",
+      "tip_nl": "☕ Stop by Brasserie Ock inside the historic greenhouse for coffee and home-baked pastries after walking.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_59",
@@ -2480,7 +2712,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Badplaats Kijkduin",
+      "desc_nl": "The Hague's second, more relaxed coastal beach resort located south of Scheveningen with dune playgrounds.",
+      "tip_nl": "🌅 Far less crowded than Scheveningen; ideal for families with small children or couples looking for a sunset dinner.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "dh_60",
@@ -2522,7 +2758,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Koninklijke Stallen",
+      "desc_nl": "Located near Noordeinde Palace, housing royal horses, historic Golden Coach, and modern royal vehicle fleet.",
+      "tip_nl": "👑 Keep an eye out for royal horses being exercised along the Noordeinde streets on morning walks.",
+      "price_nl": "Free Entry"
     }
   ]
 }

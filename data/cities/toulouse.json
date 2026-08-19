@@ -41,7 +41,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Visit Place du Capitole at sunset when the red terracotta brick facades glow pink (hence Toulouse's nickname 'La Ville Rose')."
+      "tip": "Visit Place du Capitole at sunset when the red terracotta brick facades glow pink (hence Toulouse's nickname 'La Ville Rose').",
+      "name_nl": "Place du Capitole & Capitole de Toulouse",
+      "desc_nl": "Iconic pink-brick central square flanked by 18th-century neoclassical Capitole palace housing Salle Henri-Martin frescoes.",
+      "tip_nl": "Visit Place du Capitole at sunset when the red terracotta brick facades glow pink (hence Toulouse's nickname 'La Ville Rose').",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_2",
@@ -81,7 +85,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "The largest Romanesque church in Europe! Step inside to view the 11th-century marble reliefs and the tomb of Saint Saturnin in the choir."
+      "tip": "The largest Romanesque church in Europe! Step inside to view the 11th-century marble reliefs and the tomb of Saint Saturnin in the choir.",
+      "name_nl": "Basilique Saint-Sernin",
+      "desc_nl": "UNESCO World Heritage Romanesque basilica on Saint James Way, largest remaining Romanesque church in Europe.",
+      "tip_nl": "The largest Romanesque church in Europe! Step inside to view the 11th-century marble reliefs and the tomb of Saint Saturnin in the choir.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_3",
@@ -121,7 +129,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Stand beneath the famous 28-meter high 'Palm Tree' (Palmier) column—a single stone pillar branching out into 22 vaulted rib arches."
+      "tip": "Stand beneath the famous 28-meter high 'Palm Tree' (Palmier) column—a single stone pillar branching out into 22 vaulted rib arches.",
+      "name_nl": "Couvent des Jacobins",
+      "desc_nl": "Masterpiece of Southern French Gothic architecture featuring famed palm-tree vaulted ceiling and serene cloister.",
+      "tip_nl": "Stand beneath the famous 28-meter high 'Palm Tree' (Palmier) column—a single stone pillar branching out into 22 vaulted rib arches.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_4",
@@ -161,7 +173,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Housed in a 16th-century Renaissance mansion featuring a magnificent 26-meter tower courtyard. Free entrance to walk the courtyard."
+      "tip": "Housed in a 16th-century Renaissance mansion featuring a magnificent 26-meter tower courtyard. Free entrance to walk the courtyard.",
+      "name_nl": "Pont Neuf Toulouse",
+      "desc_nl": "Historic 16th-century stone bridge spanning Garonne river with flood-resisting asymmetrical arches.",
+      "tip_nl": "Housed in a 16th-century Renaissance mansion featuring a magnificent 26-meter tower courtyard. Free entrance to walk the courtyard.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_5",
@@ -201,7 +217,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Walk across Toulouse's oldest stone bridge (1632) for gorgeous views of the Hôtel-Dieu dome reflected in the Garonne river."
+      "tip": "Walk across Toulouse's oldest stone bridge (1632) for gorgeous views of the Hôtel-Dieu dome reflected in the Garonne river.",
+      "name_nl": "Cathédrale Saint-Étienne de Toulouse",
+      "desc_nl": "Unique hybrid cathedral combining Romanesque nave and Gothic choir merged in an asymmetrical layout.",
+      "tip_nl": "Walk across Toulouse's oldest stone bridge (1632) for gorgeous views of the Hôtel-Dieu dome reflected in the Garonne river.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_6",
@@ -241,7 +261,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Stroll down the riverbank promenade on Quai de la Daurade at dusk to join locals sipping wine and watching sunset over Pont Neuf."
+      "tip": "Stroll down the riverbank promenade on Quai de la Daurade at dusk to join locals sipping wine and watching sunset over Pont Neuf.",
+      "name_nl": "Hôtel d'Assézat",
+      "desc_nl": "Splendid 16th-century Renaissance mansion built by woad dye merchant, housing Bemberg Foundation art.",
+      "tip_nl": "Stroll down the riverbank promenade on Quai de la Daurade at dusk to join locals sipping wine and watching sunset over Pont Neuf.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_7",
@@ -281,7 +305,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Visit the 18th-century Grand Salon inside Hôtel de Ville featuring vast historic oil paintings detailing Toulouse's history."
+      "tip": "Visit the 18th-century Grand Salon inside Hôtel de Ville featuring vast historic oil paintings detailing Toulouse's history.",
+      "name_nl": "Chapelle des Carmélites",
+      "desc_nl": "Hidden 17th-century chapel featuring breathtaking painted wooden ceilings, nicknamed Toulouse's Sistine Chapel.",
+      "tip_nl": "Visit the 18th-century Grand Salon inside Hôtel de Ville featuring vast historic oil paintings detailing Toulouse's history.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_8",
@@ -321,7 +349,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "UNESCO World Heritage canal shaded by centuries-old plane trees. Rent a bicycle to ride down the paved towpath towards Carcassonne."
+      "tip": "UNESCO World Heritage canal shaded by centuries-old plane trees. Rent a bicycle to ride down the paved towpath towards Carcassonne.",
+      "name_nl": "Hôtel-Dieu Saint-Jacques",
+      "desc_nl": "12th-century UNESCO World Heritage hospital complex along Garonne river with striking night illumination.",
+      "tip_nl": "UNESCO World Heritage canal shaded by centuries-old plane trees. Rent a bicycle to ride down the paved towpath towards Carcassonne.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_9",
@@ -361,7 +393,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Toulouse's oldest cathedral showcasing a unique mix of 2 distinct Gothic architectures fused together with an off-center nave."
+      "tip": "Toulouse's oldest cathedral showcasing a unique mix of 2 distinct Gothic architectures fused together with an off-center nave.",
+      "name_nl": "Cité de Carcassonne",
+      "desc_nl": "Iconic UNESCO World Heritage medieval fortified city with 52 towers and double ring walls (Day Trip).",
+      "tip_nl": "Toulouse's oldest cathedral showcasing a unique mix of 2 distinct Gothic architectures fused together with an off-center nave.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_10",
@@ -401,7 +437,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Housed in a 14th-century Augustinian convent featuring a peaceful Gothic cloister garden and a world-class collection of medieval gargoyles."
+      "tip": "Housed in a 14th-century Augustinian convent featuring a peaceful Gothic cloister garden and a world-class collection of medieval gargoyles.",
+      "name_nl": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
+      "desc_nl": "UNESCO World Heritage red-brick episcopal city dominated by world's largest brick cathedral & Toulouse-Lautrec museum.",
+      "tip_nl": "Housed in a 14th-century Augustinian convent featuring a peaceful Gothic cloister garden and a world-class collection of medieval gargoyles.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_11",
@@ -441,7 +481,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "View the iconic 18th-century dome of this former hospital from Pont Saint-Pierre, illuminated brightly over the Garonne river at night."
+      "tip": "View the iconic 18th-century dome of this former hospital from Pont Saint-Pierre, illuminated brightly over the Garonne river at night.",
+      "name_nl": "Musée des Augustins",
+      "desc_nl": "Fine arts museum set in a 14th-century Augustinian convent featuring medieval Romanesque sculptures.",
+      "tip_nl": "View the iconic 18th-century dome of this former hospital from Pont Saint-Pierre, illuminated brightly over the Garonne river at night.",
+      "price_nl": "€6–€8"
     },
     {
       "id": "to_12",
@@ -481,7 +525,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Housed in the magnificent Renaissance Hôtel d'Assézat displaying a private collection of Impressionist masterpieces (Monet, Degas, Bonnard)."
+      "tip": "Housed in the magnificent Renaissance Hôtel d'Assézat displaying a private collection of Impressionist masterpieces (Monet, Degas, Bonnard).",
+      "name_nl": "Fondation Bemberg",
+      "desc_nl": "Prestigious private art collection inside Hôtel d'Assézat featuring Renaissance & Impressionist masters (Bonnard, Monet, Matisse).",
+      "tip_nl": "Housed in the magnificent Renaissance Hôtel d'Assézat displaying a private collection of Impressionist masterpieces (Monet, Degas, Bonnard).",
+      "price_nl": "€10"
     },
     {
       "id": "to_13",
@@ -522,7 +570,11 @@
       "free": false,
       "kids": false,
       "tip": "Housed inside a former 1820 brick slaughterhouse. Don't miss Picasso's giant 1936 theatre curtain 'The Remains of Minotaur' displayed in the basement!",
-      "de": "Im historischen Backstein-Schlachthof von 1820. Der riesige Picasso-Theatervorhang im Untergeschoss ist ein Highlight!"
+      "de": "Im historischen Backstein-Schlachthof von 1820. Der riesige Picasso-Theatervorhang im Untergeschoss ist ein Highlight!",
+      "name_nl": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
+      "desc_nl": "Modern and contemporary art museum housed in converted 19th-century slaughterhouses featuring Picasso's giant stage curtain.",
+      "tip_nl": "Housed inside a former 1820 brick slaughterhouse. Don't miss Picasso's giant 1936 theatre curtain 'The Remains of Minotaur' displayed in the basement!",
+      "price_nl": "€9"
     },
     {
       "id": "to_14",
@@ -562,7 +614,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Located on Place Saint-Sernin featuring 1,000+ Roman marble statues, mosaics, and bust sculptures excavated in Southwestern France."
+      "tip": "Located on Place Saint-Sernin featuring 1,000+ Roman marble statues, mosaics, and bust sculptures excavated in Southwestern France.",
+      "name_nl": "Musée Saint-Raymond",
+      "desc_nl": "Archaeological museum next to Saint-Sernin featuring impressive collection of Roman marble busts & mythological reliefs.",
+      "tip_nl": "Located on Place Saint-Sernin featuring 1,000+ Roman marble statues, mosaics, and bust sculptures excavated in Southwestern France.",
+      "price_nl": "€5"
     },
     {
       "id": "to_15",
@@ -603,7 +659,11 @@
       "free": true,
       "kids": false,
       "tip": "Buy a combined ticket with the adjacent Botanical Garden greenhouses. The giant T-Rex skeleton and interactive prehistory labs are hit with kids!",
-      "de": "Kombiticket mit den Gewächshäusern des Botanischen Gartens nutzen. Das T-Rex-Skelett begeistert Kinder!"
+      "de": "Kombiticket mit den Gewächshäusern des Botanischen Gartens nutzen. Das T-Rex-Skelett begeistert Kinder!",
+      "name_nl": "Muséum de Toulouse",
+      "desc_nl": "France's second-largest natural history museum featuring interactive palaeontology & ethnography exhibits linked to Botanical Gardens.",
+      "tip_nl": "Buy a combined ticket with the adjacent Botanical Garden greenhouses. The giant T-Rex skeleton and interactive prehistory labs are hit with kids!",
+      "price_nl": "Free Gardens (Interior: €9)"
     },
     {
       "id": "to_16",
@@ -643,7 +703,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Housed in a 17th-century Jesuit college displaying decorative arts, timepieces, clocks, and medieval gold artifacts."
+      "tip": "Housed in a 17th-century Jesuit college displaying decorative arts, timepieces, clocks, and medieval gold artifacts.",
+      "name_nl": "Musée Paul-Dupuy",
+      "desc_nl": "Decorative arts and horology museum inside a 17th-century townhouse featuring medieval crafts & automaton clocks.",
+      "tip_nl": "Housed in a 17th-century Jesuit college displaying decorative arts, timepieces, clocks, and medieval gold artifacts.",
+      "price_nl": "€5"
     },
     {
       "id": "to_17",
@@ -683,7 +747,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Walk inside actual legendary aircraft including 2 Concordes, the Super Guppy cargo plane, and the Airbus A380 near the airport!"
+      "tip": "Walk inside actual legendary aircraft including 2 Concordes, the Super Guppy cargo plane, and the Airbus A380 near the airport!",
+      "name_nl": "Aeroscopia Aviation Museum",
+      "desc_nl": "World-class aviation museum presenting legendary aircraft including two supersonic Concordes, Airbus A380 & Super Guppy.",
+      "tip_nl": "Walk inside actual legendary aircraft including 2 Concordes, the Super Guppy cargo plane, and the Airbus A380 near the airport!",
+      "price_nl": "€14"
     },
     {
       "id": "to_18",
@@ -723,7 +791,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Book weeks in advance for a guided bus tour inside the massive Airbus assembly plant to view A350 passenger jets being built!"
+      "tip": "Book weeks in advance for a guided bus tour inside the massive Airbus assembly plant to view A350 passenger jets being built!",
+      "name_nl": "Let's Visit Airbus Tour",
+      "desc_nl": "Exclusive guided industrial tour of Airbus final assembly lines (A350/A380) in Blagnac aerospace hub.",
+      "tip_nl": "Book weeks in advance for a guided bus tour inside the massive Airbus assembly plant to view A350 passenger jets being built!",
+      "price_nl": "€16 (Advance booking mandatory)"
     },
     {
       "id": "to_19",
@@ -763,7 +835,11 @@
       "shopping": true,
       "free": false,
       "kids": false,
-      "tip": "Toulouse's primary gourmet market! Head to the 1st floor rooftop restaurants at 12:00 PM for fresh duck confit, oysters, and local wines."
+      "tip": "Toulouse's primary gourmet market! Head to the 1st floor rooftop restaurants at 12:00 PM for fresh duck confit, oysters, and local wines.",
+      "name_nl": "Marché Victor Hugo",
+      "desc_nl": "Toulouse's gastronomic heartbeat with fresh local meats & cheeses on ground level, and vibrant bistro restaurants upstairs.",
+      "tip_nl": "Toulouse's primary gourmet market! Head to the 1st floor rooftop restaurants at 12:00 PM for fresh duck confit, oysters, and local wines.",
+      "price_nl": "€15–€30 lunch"
     },
     {
       "id": "to_20",
@@ -803,7 +879,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Historic 1843 Neo-Baroque cafe on Place du Capitole with golden chandeliers and painted ceilings. Great spot for morning coffee & croissant."
+      "tip": "Historic 1843 Neo-Baroque cafe on Place du Capitole with golden chandeliers and painted ceilings. Great spot for morning coffee & croissant.",
+      "name_nl": "Le Bibent",
+      "desc_nl": "Historic 1843 brasserie on Place du Capitole featuring opulent Belle Époque frescoes and gilded stucco ceilings.",
+      "tip_nl": "Historic 1843 Neo-Baroque cafe on Place du Capitole with golden chandeliers and painted ceilings. Great spot for morning coffee & croissant.",
+      "price_nl": "Free Plaza & Exterior (Inside: €5)"
     },
     {
       "id": "to_21",
@@ -843,7 +923,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "The absolute temple for authentic Cassoulet (slow-cooked white bean stew with duck confit and Toulouse sausage) in an earthenware pot."
+      "tip": "The absolute temple for authentic Cassoulet (slow-cooked white bean stew with duck confit and Toulouse sausage) in an earthenware pot.",
+      "name_nl": "Le Colombier Cassoulet",
+      "desc_nl": "Famous institution renowned for authentic Toulouse Cassoulet slow-baked with duck confit, pork & Tarbais white beans.",
+      "tip_nl": "The absolute temple for authentic Cassoulet (slow-cooked white bean stew with duck confit and Toulouse sausage) in an earthenware pot.",
+      "price_nl": "€24–€32"
     },
     {
       "id": "to_22",
@@ -883,7 +967,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Located inside a converted barge moored on Canal du Midi selling violet liqueur, violet candies, and violet perfumes."
+      "tip": "Located inside a converted barge moored on Canal du Midi selling violet liqueur, violet candies, and violet perfumes.",
+      "name_nl": "La Maison de la Violette",
+      "desc_nl": "Unique houseboat shop moored on Canal du Midi dedicated to Toulouse's emblem: candied violets, teas & violet liqueurs.",
+      "tip_nl": "Located inside a converted barge moored on Canal du Midi selling violet liqueur, violet candies, and violet perfumes.",
+      "price_nl": "€3–€15 violet products"
     },
     {
       "id": "to_23",
@@ -923,7 +1011,11 @@
       "shopping": true,
       "free": false,
       "kids": false,
-      "tip": "Covered neighborhood market surrounded by lively wine bars and tapas bistros in the charming Carmes district."
+      "tip": "Covered neighborhood market surrounded by lively wine bars and tapas bistros in the charming Carmes district.",
+      "name_nl": "Marché des Carmes",
+      "desc_nl": "Vibrant covered circular market surrounded by trendy wine bars, tapas joints and artisanal bakeries in Carmes district.",
+      "tip_nl": "Covered neighborhood market surrounded by lively wine bars and tapas bistros in the charming Carmes district.",
+      "price_nl": "€5–€20"
     },
     {
       "id": "to_24",
@@ -963,7 +1055,11 @@
       "shopping": false,
       "free": false,
       "kids": true,
-      "tip": "Famous for 'Le Pavé du Capitole' pralines and delicate violet-flavored macarons handmade since 1816."
+      "tip": "Famous for 'Le Pavé du Capitole' pralines and delicate violet-flavored macarons handmade since 1816.",
+      "name_nl": "Maison Pillon & Pâtisserie Bault",
+      "desc_nl": "Iconic pastry shops crafting refined French gateaux, violet chocolates & artisanal macarons.",
+      "tip_nl": "Famous for 'Le Pavé du Capitole' pralines and delicate violet-flavored macarons handmade since 1816.",
+      "price_nl": "€4–€8 pastries"
     },
     {
       "id": "to_25",
@@ -1003,7 +1099,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Visit the Fronton wine region (30 min north) famous for its unique dark, spicy Négrette grape wines."
+      "tip": "Visit the Fronton wine region (30 min north) famous for its unique dark, spicy Négrette grape wines.",
+      "name_nl": "Domaine de Montjoie & Fronton Wineries",
+      "desc_nl": "Historic Fronton wine estates north of Toulouse producing unique red & rosé wines from ancient Négrette grape variety.",
+      "tip_nl": "Visit the Fronton wine region (30 min north) famous for its unique dark, spicy Négrette grape wines.",
+      "price_nl": "€10–€25 tasting"
     },
     {
       "id": "to_26",
@@ -1043,7 +1143,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "The prime spot for sunset watching over the Garonne river with Pont Neuf illuminated in the background."
+      "tip": "The prime spot for sunset watching over the Garonne river with Pont Neuf illuminated in the background.",
+      "name_nl": "Quai de la Daurade & Promenade de la Garonne",
+      "desc_nl": "Toulouse's most popular riverside promenade offering magnificent sunset panoramas over Pont Neuf & Pont Saint-Pierre.",
+      "tip_nl": "The prime spot for sunset watching over the Garonne river with Pont Neuf illuminated in the background.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_27",
@@ -1083,7 +1187,11 @@
       "shopping": true,
       "free": true,
       "kids": false,
-      "tip": "Wander the narrow cobblestone streets lined with red-brick Renaissance townhouses, antique shops, and hidden courtyards."
+      "tip": "Wander the narrow cobblestone streets lined with red-brick Renaissance townhouses, antique shops, and hidden courtyards.",
+      "name_nl": "Quartier des Carmes & Quartier Saint-Étienne",
+      "desc_nl": "Charming historic quarter filled with cobblestone alleys, Renaissance mansions & boutique antique shops.",
+      "tip_nl": "Wander the narrow cobblestone streets lined with red-brick Renaissance townhouses, antique shops, and hidden courtyards.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_28",
@@ -1123,7 +1231,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "The historic junction where the Canal du Midi, Canal de Brienne, and Garonne river meet marked by marble bas-reliefs."
+      "tip": "The historic junction where the Canal du Midi, Canal de Brienne, and Garonne river meet marked by marble bas-reliefs.",
+      "name_nl": "Canal du Midi",
+      "desc_nl": "17th-century UNESCO World Heritage canal lined with plane trees, ideal for scenic walks & cycling.",
+      "tip_nl": "The historic junction where the Canal du Midi, Canal de Brienne, and Garonne river meet marked by marble bas-reliefs.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_29",
@@ -1163,7 +1275,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Charming tree-shaded square surrounded by open-air cafes, restaurants, and a historic fountain in the city center."
+      "tip": "Charming tree-shaded square surrounded by open-air cafes, restaurants, and a historic fountain in the city center.",
+      "name_nl": "Place Saint-Georges",
+      "desc_nl": "Picturesque square filled with half-timbered houses, lively open-air café terraces & relaxing fountain.",
+      "tip_nl": "Charming tree-shaded square surrounded by open-air cafes, restaurants, and a historic fountain in the city center.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_30",
@@ -1203,7 +1319,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Authentic Japanese tea garden created inside Compans-Caffarelli park featuring a red bridge, koi pond, and Zen pavilion (Free entry!)."
+      "tip": "Authentic Japanese tea garden created inside Compans-Caffarelli park featuring a red bridge, koi pond, and Zen pavilion (Free entry!).",
+      "name_nl": "Jardin Japonais Pierre Baudis",
+      "desc_nl": "Serene Japanese stroll garden inside Compans-Caffarelli park with red bridge, tea house & koi pond.",
+      "tip_nl": "Authentic Japanese tea garden created inside Compans-Caffarelli park featuring a red bridge, koi pond, and Zen pavilion (Free entry!).",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_31",
@@ -1243,7 +1363,11 @@
       "shopping": false,
       "free": false,
       "kids": false,
-      "tip": "Board a river cruise from Quai de la Daurade to pass through historic locks and under Pont Neuf bridge."
+      "tip": "Board a river cruise from Quai de la Daurade to pass through historic locks and under Pont Neuf bridge.",
+      "name_nl": "Bateaux Toulousains Cruise",
+      "desc_nl": "Guided river cruise departing Quai de la Daurade navigating Garonne river & Canal du Midi locks.",
+      "tip_nl": "Board a river cruise from Quai de la Daurade to pass through historic locks and under Pont Neuf bridge.",
+      "price_nl": "€12–€16 cruise"
     },
     {
       "id": "to_32",
@@ -1283,7 +1407,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Quiet 1.5km canal path shaded by giant plane trees connecting the Garonne river to the Port de l'Embouchure."
+      "tip": "Quiet 1.5km canal path shaded by giant plane trees connecting the Garonne river to the Port de l'Embouchure.",
+      "name_nl": "Canal de Brienne",
+      "desc_nl": "Historic canal connecting Garonne river to Canal du Midi shaded by magnificent centuries-old plane trees.",
+      "tip_nl": "Quiet 1.5km canal path shaded by giant plane trees connecting the Garonne river to the Port de l'Embouchure.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_33",
@@ -1323,7 +1451,11 @@
       "shopping": false,
       "free": true,
       "kids": false,
-      "tip": "Breathtaking medieval hilltop village built on a mountain peak ('Village in the Clouds') 1 hour north of Toulouse."
+      "tip": "Breathtaking medieval hilltop village built on a mountain peak ('Village in the Clouds') 1 hour north of Toulouse.",
+      "name_nl": "Cordes-sur-Ciel",
+      "desc_nl": "Breathtaking hilltop medieval Gothic village appearing to float above the clouds (Day Trip).",
+      "tip_nl": "Breathtaking medieval hilltop village built on a mountain peak ('Village in the Clouds') 1 hour north of Toulouse.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_34",
@@ -1364,7 +1496,11 @@
       "shopping": false,
       "free": false,
       "tip": "Arrive early to book the Moonwalk simulator experience and catch the IMAX 3D astronomy film included in your day pass!",
-      "de": "Früh kommen, um den Moonwalk-Simulator zu buchen und den IMAX-3D-Film im Planetarium zu sehen!"
+      "de": "Früh kommen, um den Moonwalk-Simulator zu buchen und den IMAX-3D-Film im Planetarium zu sehen!",
+      "name_nl": "Cité de l'Espace",
+      "desc_nl": "Europe's premier space theme park with full-scale Ariane 5 rocket, Mir space station, moonwalk simulator & IMAX planetarium.",
+      "tip_nl": "Arrive early to book the Moonwalk simulator experience and catch the IMAX 3D astronomy film included in your day pass!",
+      "price_nl": "Entry: €29–€32"
     },
     {
       "id": "to_35",
@@ -1404,7 +1540,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Ride the 12-meter tall mechanical Minotaur ('Le Minotaure') giant robot walking outdoors—a breathtaking experience for all ages!"
+      "tip": "Ride the 12-meter tall mechanical Minotaur ('Le Minotaure') giant robot walking outdoors—a breathtaking experience for all ages!",
+      "name_nl": "La Halle de la Machine",
+      "desc_nl": "Awe-inspiring experiential park featuring giant kinetic mechanical beasts including a 14-meter rideable Minotaur & Spider.",
+      "tip_nl": "Ride the 12-meter tall mechanical Minotaur ('Le Minotaure') giant robot walking outdoors—a breathtaking experience for all ages!",
+      "price_nl": "Entry: €9.50 (With Minotaur Ride: €14)"
     },
     {
       "id": "to_36",
@@ -1444,7 +1584,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Museum located on the historic runway where legendary French aviators Jean Mermoz and Antoine de Saint-Exupéry launched airmail flights to South America."
+      "tip": "Museum located on the historic runway where legendary French aviators Jean Mermoz and Antoine de Saint-Exupéry launched airmail flights to South America.",
+      "name_nl": "L'Envol des Pionniers",
+      "desc_nl": "Interactive aviation history museum telling the heroic story of the Aéropostale mail pilots (Saint-Exupéry).",
+      "tip_nl": "Museum located on the historic runway where legendary French aviators Jean Mermoz and Antoine de Saint-Exupéry launched airmail flights to South America.",
+      "price_nl": "Entry: €8.50"
     },
     {
       "id": "to_37",
@@ -1484,7 +1628,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Beautiful English landscape park connected by an elevated footbridge to Le Grand Rond garden with historic statues and fountains."
+      "tip": "Beautiful English landscape park connected by an elevated footbridge to Le Grand Rond garden with historic statues and fountains.",
+      "name_nl": "Jardin des Plantes & Le Grand Rond",
+      "desc_nl": "Expansive interconnected botanical parks featuring footbridges, swan ponds, pony rides & large children's playgrounds.",
+      "tip_nl": "Beautiful English landscape park connected by an elevated footbridge to Le Grand Rond garden with historic statues and fountains.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "to_38",
@@ -1524,7 +1672,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Family amusement park 30 min west featuring roller coasters, water splash rides, and a farm with 150+ friendly animals."
+      "tip": "Family amusement park 30 min west featuring roller coasters, water splash rides, and a farm with 150+ friendly animals.",
+      "name_nl": "Animaparc Occitanie",
+      "desc_nl": "Family theme park combining a life-size moving Dinosaur Forest, petting farm & 30+ kid-friendly rides (Suburban).",
+      "tip_nl": "Family amusement park 30 min west featuring roller coasters, water splash rides, and a farm with 150+ friendly animals.",
+      "price_nl": "Free Gardens (Interior: €16.50)"
     },
     {
       "id": "to_39",
@@ -1564,7 +1716,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Explore Europe's largest boxwood maze (6 km of paths) inside the grounds of the 18th-century Château de Merville."
+      "tip": "Explore Europe's largest boxwood maze (6 km of paths) inside the grounds of the 18th-century Château de Merville.",
+      "name_nl": "Le Labyrinthe de Merville",
+      "desc_nl": "Europe's largest boxwood hedge maze spanning 10km of shaded trails around a 18th-century château (Suburban).",
+      "tip_nl": "Explore Europe's largest boxwood maze (6 km of paths) inside the grounds of the 18th-century Château de Merville.",
+      "price_nl": "€10.50 adults / €8.50 kids"
     }
   ],
   "spotCount": 39

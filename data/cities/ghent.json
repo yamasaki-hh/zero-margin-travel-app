@@ -13,9 +13,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gravensteen%2C_Gent.jpg/330px-Gravensteen%2C_Gent.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gravensteen%2C_Gent.jpg/330px-Gravensteen%2C_Gent.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Gravensteen",
     "name_ja": "Gravensteen（フランドル伯の居城）",
     "name_es": "Gravensteen",
@@ -39,7 +39,11 @@
     "price_es": "Entry: €13.00",
     "price_zh": "Entry: €13.00",
     "price_fr": "Entry: €13.00",
-    "price_de": "Entry: €13.00"
+    "price_de": "Entry: €13.00",
+    "name_nl": "Gravensteen",
+    "desc_nl": "Formidable 12th-century moated stone castle built by Count Philip of Alsace featuring battlements, deep moat, and medieval torture instruments.",
+    "tip_nl": "🎧 The audio guide is widely praised for its humor; climb to the top of the keep for a sweeping skyline view.",
+    "price_nl": "Entry: €13.00"
   },
   {
     "id": "gh_2",
@@ -55,9 +59,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg/330px-Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg/330px-Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Sint-Baafskathedraal",
     "name_ja": "Sint-Baafskathedraal（聖バフ大聖堂 / 神秘の仔羊）",
     "name_es": "Sint-Baafskathedraal",
@@ -81,7 +85,11 @@
     "price_es": "Church Free / Altarpiece AR: €16.00",
     "price_zh": "Church Free / Altarpiece AR: €16.00",
     "price_fr": "Church Free / Altarpiece AR: €16.00",
-    "price_de": "Church Free / Altarpiece AR: €16.00"
+    "price_de": "Church Free / Altarpiece AR: €16.00",
+    "name_nl": "Sint-Baafskathedraal",
+    "desc_nl": "Monumental Gothic cathedral housing the world-famous 15th-century masterpiece The Adoration of the Mystic Lamb (Ghent Altarpiece) by Van Eyck.",
+    "tip_nl": "👓 The dedicated visitor center uses AR headsets in the Romanesque crypt to reconstruct the turbulent history of the altarpiece.",
+    "price_nl": "Church Free / Altarpiece AR: €16.00"
   },
   {
     "id": "gh_3",
@@ -97,9 +105,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ghent_Altarpiece_Google_Art_Project.jpg/330px-Ghent_Altarpiece_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ghent_Altarpiece_Google_Art_Project.jpg/330px-Ghent_Altarpiece_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Het Lam Gods",
     "name_ja": "Het Lam Gods（『神秘の仔羊』ゲントの祭壇画パネル）",
     "name_es": "Het Lam Gods",
@@ -123,7 +131,11 @@
     "price_es": "Incl. in Altarpiece Entry (€16.00)",
     "price_zh": "Incl. in Altarpiece Entry (€16.00)",
     "price_fr": "Incl. in Altarpiece Entry (€16.00)",
-    "price_de": "Incl. in Altarpiece Entry (€16.00)"
+    "price_de": "Incl. in Altarpiece Entry (€16.00)",
+    "name_nl": "Het Lam Gods",
+    "desc_nl": "Painted in 1432, this 12-panel polyptych altarpiece is celebrated as one of the most influential masterworks in global art history.",
+    "tip_nl": "🔍 Use high-resolution interactive touchscreens inside the gallery to zoom in on micro-details like pearls and reflections.",
+    "price_nl": "Incl. in Altarpiece Entry (€16.00)"
   },
   {
     "id": "gh_4",
@@ -165,7 +177,11 @@
     "price_es": "Entry: €11.00",
     "price_zh": "Entry: €11.00",
     "price_fr": "Entry: €11.00",
-    "price_de": "Entry: €11.00"
+    "price_de": "Entry: €11.00",
+    "name_nl": "Het Belfort van Gent",
+    "desc_nl": "91-meter Gothic tower (UNESCO) symbolizing civic independence, crowned by a legendary gilded copper dragon weather vane and 54-bell carillon.",
+    "tip_nl": "🪜 A modern elevator runs from the 1st floor directly up to the panoramic observation gallery for easy access.",
+    "price_nl": "Entry: €11.00"
   },
   {
     "id": "gh_5",
@@ -207,7 +223,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Graslei & Korenlei",
+    "desc_nl": "Ancient harbor quays flanking Leie river lined with Ghent's finest step-gabled guildhalls dating from 12th to 17th centuries.",
+    "tip_nl": "🍻 On warm evenings, join local university students sitting along the waterside stone edges of the quays with takeout drinks.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_6",
@@ -249,7 +269,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Sint-Michielsbrug",
+    "desc_nl": "Arched stone bridge crossing Leie river, celebrated as the single best panoramic viewpoint in Ghent framing the 'Three Towers'.",
+    "tip_nl": "📸 Stand at the highest point of the bridge facing east for the iconic 3-tower alignment photo, then pivot 180 degrees.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_7",
@@ -265,9 +289,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/St._Nikolai_am_Gasteig.JPG/330px-St._Nikolai_am_Gasteig.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/St._Nikolai_am_Gasteig.JPG/330px-St._Nikolai_am_Gasteig.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Sint-Niklaaskerk",
     "name_ja": "Sint-Niklaaskerk（聖ニコラス教会）",
     "name_es": "Sint-Niklaaskerk",
@@ -291,7 +315,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Sint-Niklaaskerk",
+    "desc_nl": "13th-century masterpiece of Tournai Gothic architecture built in local blue-grey limestone, situated on Korenmarkt square.",
+    "tip_nl": "⛪ Free admission; admire the historic Aristide Cavaillé-Coll romantic pipe organ and explore quiet side chapels.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_8",
@@ -333,7 +361,11 @@
     "price_es": "Entry: Adult €10.50 / Child €6.00",
     "price_zh": "Entry: Adult €10.50 / Child €6.00",
     "price_fr": "Entry: Adult €10.50 / Child €6.00",
-    "price_de": "Entry: Adult €10.50 / Child €6.00"
+    "price_de": "Entry: Adult €10.50 / Child €6.00",
+    "name_nl": "Boottochten Gent",
+    "desc_nl": "Open-top passenger boat tours navigating Leie and Lieve canals departing from Graslei and Korenlei docks with medieval views.",
+    "tip_nl": "🚤 The 40-minute guided tours run year-round; departures from Korenlei docks generally offer multilingual live commentary.",
+    "price_nl": "Entry: Adult €10.50 / Child €6.00"
   },
   {
     "id": "gh_9",
@@ -349,9 +381,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gent_Koren_002.JPG/330px-Gent_Koren_002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gent_Koren_002.JPG/330px-Gent_Koren_002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Korenmarkt",
     "name_ja": "Korenmarkt（コーレンマルクト小麦市場広場）",
     "name_es": "Korenmarkt",
@@ -375,7 +407,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Korenmarkt",
+    "desc_nl": "Ghent's central public square, historically the center of grain trade, framed by Saint Nicholas Church and former Main Post Office.",
+    "tip_nl": "☕ Walk inside De Post to view preserved 19th-century clock tower architecture and grab coffee at Pain Quotidien.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_10",
@@ -417,7 +453,11 @@
     "price_es": "Free (Food ~€15-40)",
     "price_zh": "Free (Food ~€15-40)",
     "price_fr": "Free (Food ~€15-40)",
-    "price_de": "Free (Food ~€15-40)"
+    "price_de": "Free (Food ~€15-40)",
+    "name_nl": "Patershol",
+    "desc_nl": "Labyrinthine medieval quarter located just north of Castle of the Counts, Ghent's premier culinary neighborhood of cobbled lanes.",
+    "tip_nl": "🍽️ The narrow streets of Oudburg are packed with independent eateries; make reservations for Gentse Waterzooi.",
+    "price_nl": "Free (Food ~€15-40)"
   },
   {
     "id": "gh_11",
@@ -459,7 +499,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Werregarenstraat",
+    "desc_nl": "Narrow pedestrian alley serving as an officially sanctioned public canvas for street artists, where spray-painted murals change daily.",
+    "tip_nl": "📸 Vibrant photo backdrop that is never the same twice; walk through during daylight hours for natural lighting.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_12",
@@ -501,7 +545,11 @@
     "price_es": "Entry: €13.00",
     "price_zh": "Entry: €13.00",
     "price_fr": "Entry: €13.00",
-    "price_de": "Entry: €13.00"
+    "price_de": "Entry: €13.00",
+    "name_nl": "MSK",
+    "desc_nl": "One of the oldest museums in Belgium holding masterworks by Hieronymus Bosch, Rubens, and James Ensor with open restoration workshop.",
+    "tip_nl": "🎨 The museum's open glass-walled restoration workshop allows visitors to watch fine art conservators restoring masterpieces.",
+    "price_nl": "Entry: €13.00"
   },
   {
     "id": "gh_13",
@@ -517,9 +565,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Smakedificio.jpg/330px-Smakedificio.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Smakedificio.jpg/330px-Smakedificio.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "S.M.A.K.",
     "name_ja": "S.M.A.K.（ゲント市立現代美術館）",
     "name_es": "S.M.A.K.",
@@ -543,7 +591,11 @@
     "price_es": "Entry: €13.00",
     "price_zh": "Entry: €13.00",
     "price_fr": "Entry: €13.00",
-    "price_de": "Entry: €13.00"
+    "price_de": "Entry: €13.00",
+    "name_nl": "S.M.A.K.",
+    "desc_nl": "Located directly opposite MSK in Citadelpark, known for provocative contemporary art collections by Beuys, Panamarenko, and Fabre.",
+    "tip_nl": "🪰 Look for the famous bronze figure on the roof edge—The Man Who Measures the Clouds by Jan Fabre.",
+    "price_nl": "Entry: €13.00"
   },
   {
     "id": "gh_14",
@@ -559,9 +611,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/STAM_Cover_2016.jpg/330px-STAM_Cover_2016.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/STAM_Cover_2016.jpg/330px-STAM_Cover_2016.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "STAM (STAM - Stadsmuseum Gent)",
     "name_ja": "STAM（STAM・ゲント市立歴史博物館）",
     "name_es": "STAM (STAM - Stadsmuseum Gent)",
@@ -585,7 +637,11 @@
     "price_es": "Entry: €11.00",
     "price_zh": "Entry: €11.00",
     "price_fr": "Entry: €11.00",
-    "price_de": "Entry: €11.00"
+    "price_de": "Entry: €11.00",
+    "name_nl": "STAM",
+    "desc_nl": "Located on historic 14th-century Bijloke hospital estate, tracing Ghent's evolution with an interactive 300 m² aerial floor photo.",
+    "tip_nl": "🗺️ Walk across the massive 300 m² illuminated aerial photograph of Ghent laid out across the museum floor.",
+    "price_nl": "Entry: €11.00"
   },
   {
     "id": "gh_15",
@@ -627,7 +683,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Klein Begijnhof",
+    "desc_nl": "Intact 13th-century UNESCO-listed Beguinage in southern Ghent featuring a walled green enclosure with over 100 white-trimmed cottages.",
+    "tip_nl": "🤫 Far less visited than the beguinages in Bruges; a quiet oasis for peaceful walking. Enter via the arched blue gateway.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_16",
@@ -643,9 +703,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Groot_Begijnhof_Sint-Amandsberg_-_Sint-Amandstraat_1.jpg/330px-Groot_Begijnhof_Sint-Amandsberg_-_Sint-Amandstraat_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Groot_Begijnhof_Sint-Amandsberg_-_Sint-Amandstraat_1.jpg/330px-Groot_Begijnhof_Sint-Amandsberg_-_Sint-Amandstraat_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Groot Begijnhof Sint-Amandsberg",
     "name_ja": "Groot Begijnhof Sint-Amandsberg（大ベギンホフ・シント＝アマンズベルク / 世界遺産）",
     "name_es": "Groot Begijnhof Sint-Amandsberg",
@@ -669,7 +729,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Groot Begijnhof Sint-Amandsberg",
+    "desc_nl": "8-hectare neo-Gothic walled village built in 1874 featuring 80 houses, 14 convents, an infirmary, and a large neo-Gothic church.",
+    "tip_nl": "🚶 Walk through the symmetrical tree-lined brick avenues to experience one of the largest preserved planned religious communities.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_17",
@@ -685,9 +749,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/UGent_-_Abbatia_S._Petri_Gandavensis.jpg/330px-UGent_-_Abbatia_S._Petri_Gandavensis.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/UGent_-_Abbatia_S._Petri_Gandavensis.jpg/330px-UGent_-_Abbatia_S._Petri_Gandavensis.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Sint-Pietersabdij",
     "name_ja": "Sint-Pietersabdij（聖ピエトロ修道院＆葡萄園テラス）",
     "name_es": "Sint-Pietersabdij",
@@ -711,7 +775,11 @@
     "price_es": "Garden Free / Museum ~€10.00",
     "price_zh": "Garden Free / Museum ~€10.00",
     "price_fr": "Garden Free / Museum ~€10.00",
-    "price_de": "Garden Free / Museum ~€10.00"
+    "price_de": "Garden Free / Museum ~€10.00",
+    "name_nl": "Sint-Pietersabdij",
+    "desc_nl": "7th-century Benedictine abbey perched on Blandijnberg hill with late-Renaissance cloister and idyllic terraced vineyard sloping to Leie.",
+    "tip_nl": "🍇 Walk freely through the abbey's terraced hillside orchard and vineyards; pick up the Movie Guide for the interior museum tour.",
+    "price_nl": "Garden Free / Museum ~€10.00"
   },
   {
     "id": "gh_18",
@@ -753,7 +821,11 @@
     "price_es": "Square Free / Beer ~€5-15",
     "price_zh": "Square Free / Beer ~€5-15",
     "price_fr": "Square Free / Beer ~€5-15",
-    "price_de": "Square Free / Beer ~€5-15"
+    "price_de": "Square Free / Beer ~€5-15",
+    "name_nl": "Vrijdagmarkt & Dulle Griet",
+    "desc_nl": "Historic gathering square dominated by Jacob van Artevelde statue. Northern corner sits Dulle Griet 12-ton red supergun cannon.",
+    "tip_nl": "👞 Order the 1.2-liter Max beer at tavern De Dulle Griet; you must surrender one shoe as collateral hoisted to the ceiling in a basket.",
+    "price_nl": "Square Free / Beer ~€5-15"
   },
   {
     "id": "gh_19",
@@ -795,7 +867,11 @@
     "price_es": "Exterior Free",
     "price_zh": "Exterior Free",
     "price_fr": "Exterior Free",
-    "price_de": "Exterior Free"
+    "price_de": "Exterior Free",
+    "name_nl": "Het Groot Vleeshuis",
+    "desc_nl": "15th-century covered guildhall featuring an impressive open wooden timber roof structure, historically used for meat inspections.",
+    "tip_nl": "🍖 Admire the late-medieval sandstone architecture along the Leie canal; pick up jars of Tierenteyn mustard nearby.",
+    "price_nl": "Exterior Free"
   },
   {
     "id": "gh_20",
@@ -837,7 +913,11 @@
     "price_es": "Mustard ~€4-15",
     "price_zh": "Mustard ~€4-15",
     "price_fr": "Mustard ~€4-15",
-    "price_de": "Mustard ~€4-15"
+    "price_de": "Mustard ~€4-15",
+    "name_nl": "Tierenteyn-Verlent",
+    "desc_nl": "Operating since 1790 on Groentenmarkt crafting authentic extra-hot Ghent mustard according to a secret historic recipe from barrels.",
+    "tip_nl": "🏺 The mustard is dispensed live at the wooden counter with a wooden paddle; buy a small ceramic stoneware pot as a souvenir.",
+    "price_nl": "Mustard ~€4-15"
   },
   {
     "id": "gh_21",
@@ -879,7 +959,11 @@
     "price_es": "1 Bag ~€5.00",
     "price_zh": "1 Bag ~€5.00",
     "price_fr": "1 Bag ~€5.00",
-    "price_de": "1 Bag ~€5.00"
+    "price_de": "1 Bag ~€5.00",
+    "name_nl": "Gentse Neuzenvetes & Cuberdons",
+    "desc_nl": "Groentenmarkt square is famous for traditional wooden handcarts selling Cuberdons—cone-shaped purple candies with gooey raspberry syrup.",
+    "tip_nl": "🍬 Cuberdons have a short shelf-life of 3 weeks before the liquid core crystallizes; buy them fresh from market carts.",
+    "price_nl": "1 Bag ~€5.00"
   },
   {
     "id": "gh_22",
@@ -895,9 +979,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Citaldelpark19122008.jpg/330px-Citaldelpark19122008.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Citaldelpark19122008.jpg/330px-Citaldelpark19122008.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Citadelpark (Citadelpark & Floraliënhal)",
     "name_ja": "Citadelpark（シタデル公園＆要塞跡）",
     "name_es": "Citadelpark (Citadelpark & Floraliënhal)",
@@ -921,7 +1005,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Citadelpark",
+    "desc_nl": "19th-century English landscape park laid out on the site of an 1815 military citadel housing MSK, S.M.A.K., grottos, and Floraliënhal.",
+    "tip_nl": "🌳 Peaceful walking route when visiting art museums; children can explore the playground and rocky grottos beside the lake.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_23",
@@ -963,7 +1051,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Plantentuin Universiteit Gent",
+    "desc_nl": "2.7-hectare university botanical garden holding over 10,000 plant species from around the world, outdoor arboretums, and Victorian glasshouse.",
+    "tip_nl": "🌺 Admission is completely free. Step inside the Victoria Glasshouse to view giant tropical water lilies and carnivorous plants.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_24",
@@ -979,9 +1071,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gent_-_De_Krook_16-3-2017_13-36-42.JPG/330px-Gent_-_De_Krook_16-3-2017_13-36-42.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gent_-_De_Krook_16-3-2017_13-36-42.JPG/330px-Gent_-_De_Krook_16-3-2017_13-36-42.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "De Krook",
     "name_ja": "De Krook（デ・クローク市立図書館＆文化ハブ）",
     "name_es": "De Krook",
@@ -1005,7 +1097,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "De Krook",
+    "desc_nl": "Award-winning contemporary architectural landmark designed by RCR Arquitectes cantilevered over a bend in Scheldt river.",
+    "tip_nl": "📚 Take the open-plan stairs up to reading balconies or sit on the panoramic terrace of Café De Krook for views.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_25",
@@ -1021,9 +1117,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Prinsenhof_Delft.jpg/330px-Prinsenhof_Delft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Prinsenhof_Delft.jpg/330px-Prinsenhof_Delft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Prinsenhof",
     "name_ja": "Prinsenhof（プリンセンホフ / 神聖ローマ皇帝カール5世生誕地）",
     "name_es": "Prinsenhof",
@@ -1047,7 +1143,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Prinsenhof",
+    "desc_nl": "Quiet residential quarter where Holy Roman Emperor Charles V was born in 1500, with surviving moat gate Donkere Poort.",
+    "tip_nl": "🚶 Secluded tourist-free walking area; look for the bronze statue of Charles V on Prinsenhofplein and stroll down Zilverhof.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_26",
@@ -1063,9 +1163,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gent_-_Kinderen_Alijnshospitaal_1.jpg/330px-Gent_-_Kinderen_Alijnshospitaal_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gent_-_Kinderen_Alijnshospitaal_1.jpg/330px-Gent_-_Kinderen_Alijnshospitaal_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Huis van Alijn",
     "name_ja": "Huis van Alijn（アラインの家 / フランドル日常の暮らしの博物館）",
     "name_es": "Huis van Alijn",
@@ -1089,7 +1189,11 @@
     "price_es": "Entry: €8.00",
     "price_zh": "Entry: €8.00",
     "price_fr": "Entry: €8.00",
-    "price_de": "Entry: €8.00"
+    "price_de": "Entry: €8.00",
+    "name_nl": "Huis van Alijn",
+    "desc_nl": "Located in a restored 16th-century almshouse hospice along Kraanlei, dedicated to the rituals, customs, and daily habits of 20th century life.",
+    "tip_nl": "☕ The enclosed sunlit cobblestone courtyard garden features an authentic vintage inn serving regional beers and jenever.",
+    "price_nl": "Entry: €8.00"
   },
   {
     "id": "gh_27",
@@ -1105,9 +1209,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jan_Breydelstraat.jpg/330px-Jan_Breydelstraat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jan_Breydelstraat.jpg/330px-Jan_Breydelstraat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Design Museum Gent",
     "name_ja": "Design Museum Gent（ゲント・デザイン博物館）",
     "name_es": "Design Museum Gent",
@@ -1131,7 +1235,11 @@
     "price_es": "Entry: €10.00",
     "price_zh": "Entry: €10.00",
     "price_fr": "Entry: €10.00",
-    "price_de": "Entry: €10.00"
+    "price_de": "Entry: €10.00",
+    "name_nl": "Design Museum Gent",
+    "desc_nl": "Housed in 18th-century Hotel de Coninck mansion, showcasing Belgian and international design from Art Nouveau to contemporary product design.",
+    "tip_nl": "🪑 Check the museum's temporary exhibitions; the courtyard features the famous giant Vlerick ceramic monument.",
+    "price_nl": "Entry: €10.00"
   },
   {
     "id": "gh_28",
@@ -1173,7 +1281,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Bij Sint-Jacobs",
+    "desc_nl": "Imposing 12th-century Romanesque and Gothic church on Santiago pilgrimage route. Surrounding square hosts famous weekend flea markets.",
+    "tip_nl": "🧥 On Friday, Saturday, and Sunday mornings, the square fills with antique traders selling vintage vinyl, lamps, and curiosities.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_29",
@@ -1215,7 +1327,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "De Kuip van Gent & Lichtplan",
+    "desc_nl": "Ghent's award-winning municipal lighting concept which illuminates all major medieval monuments, bridges, and canal walls every night.",
+    "tip_nl": "🌙 Download the official Ghent Illuminated Walk map from Visit Gent for a self-guided 2-hour night walking tour.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_30",
@@ -1231,9 +1347,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gent_Rabot.JPG/330px-Gent_Rabot.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gent_Rabot.JPG/330px-Gent_Rabot.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Rabot",
     "name_ja": "Rabot（ラボット要塞水門）",
     "name_es": "Rabot",
@@ -1257,7 +1373,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Rabot",
+    "desc_nl": "Late-15th-century fortified stone water gate consisting of two round towers connected by a stepped gable wall across Lieve canal.",
+    "tip_nl": "📸 A short tram ride north of the center; photograph the twin-towered fortress reflecting in the waters of the Lieve canal.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_31",
@@ -1299,7 +1419,11 @@
     "price_es": "Walk Free (Activities Var)",
     "price_zh": "Walk Free (Activities Var)",
     "price_fr": "Walk Free (Activities Var)",
-    "price_de": "Walk Free (Activities Var)"
+    "price_de": "Walk Free (Activities Var)",
+    "name_nl": "Dok Noord",
+    "desc_nl": "Revitalized industrial dockland quarter featuring indoor go-karting (e-Kart), climbing halls, microbreweries, and waterside beach bars.",
+    "tip_nl": "🏎️ Ideal for active families and groups; check out the electric indoor go-kart track or enjoy open-air craft beers.",
+    "price_nl": "Walk Free (Activities Var)"
   },
   {
     "id": "gh_32",
@@ -1341,7 +1465,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Veldstraat",
+    "desc_nl": "Ghent's primary pedestrian retail shopping avenue lined with modern fashion stores and restored 18th-century Rococo patrician mansions.",
+    "tip_nl": "🏛️ Walk inside Hotel d'Hane-Steenhuyse on select afternoons to admire preserved 18th-century gilded ballrooms.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_33",
@@ -1383,7 +1511,11 @@
     "price_es": "Entry: €8.00",
     "price_zh": "Entry: €8.00",
     "price_fr": "Entry: €8.00",
-    "price_de": "Entry: €8.00"
+    "price_de": "Entry: €8.00",
+    "name_nl": "GUM - Gents Universiteitsmuseum",
+    "desc_nl": "Modern science and inquiry museum located inside botanical gardens, exploring scientific process, doubt, and medical history.",
+    "tip_nl": "🧠 Dedicated to Science and Doubt; interactive exhibits challenge visitors to test cognitive biases and examine artifacts.",
+    "price_nl": "Entry: €8.00"
   },
   {
     "id": "gh_34",
@@ -1425,7 +1557,11 @@
     "price_es": "Exterior Free / Tour ~€6.00",
     "price_zh": "Exterior Free / Tour ~€6.00",
     "price_fr": "Exterior Free / Tour ~€6.00",
-    "price_de": "Exterior Free / Tour ~€6.00"
+    "price_de": "Exterior Free / Tour ~€6.00",
+    "name_nl": "Stadhuis van Gent",
+    "desc_nl": "Architecturally split palace presenting two distinct styles: a flamboyant 16th-century Late Gothic facade and a sober Renaissance facade.",
+    "tip_nl": "🏛️ Join a guided tour to see the Pacificatiezaal (Pacification Hall) featuring striking blue-and-white labyrinth floor tiles.",
+    "price_nl": "Exterior Free / Tour ~€6.00"
   },
   {
     "id": "gh_35",
@@ -1441,9 +1577,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Stadshal_and_belfort_in_Ghent.jpg/330px-Stadshal_and_belfort_in_Ghent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Stadshal_and_belfort_in_Ghent.jpg/330px-Stadshal_and_belfort_in_Ghent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Stadshal",
     "name_ja": "Stadshal（スタッズハル / 現代キャノピー木造パビリオン）",
     "name_es": "Stadshal",
@@ -1467,7 +1603,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Stadshal",
+    "desc_nl": "Striking contemporary open canopy structure designed by Robbrecht en Daem built of wood, glass, and concrete with 1,600 small windows.",
+    "tip_nl": "📸 Look up through the glass-studded wooden interior ceiling; the basement houses the grand brasserie Stadscafé.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_36",
@@ -1509,7 +1649,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Achtersikkel",
+    "desc_nl": "Hidden medieval courtyard tucked behind Biezekapelstraat featuring a 14th-century brick tower and octagonal Renaissance turret.",
+    "tip_nl": "🎻 The courtyard is home to the Music Academy; sit on stone benches during weekday afternoons to listen to classical rehearsals.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_37",
@@ -1551,7 +1695,11 @@
     "price_es": "Tasting Flight ~€14.00",
     "price_zh": "Tasting Flight ~€14.00",
     "price_fr": "Tasting Flight ~€14.00",
-    "price_de": "Tasting Flight ~€14.00"
+    "price_de": "Tasting Flight ~€14.00",
+    "name_nl": "Gruut Brouwerij",
+    "desc_nl": "Urban craft brewery brewing specialty ales using a medieval blend of herbs and spices (gruut) instead of traditional hops.",
+    "tip_nl": "🍺 Order a tasting flight of 5 Gruut beers in the taproom to taste how medieval herbal brewing compares to modern hoppy ales.",
+    "price_nl": "Tasting Flight ~€14.00"
   },
   {
     "id": "gh_38",
@@ -1567,9 +1715,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/25841-Sint-Michielskerk.jpg/330px-25841-Sint-Michielskerk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/25841-Sint-Michielskerk.jpg/330px-25841-Sint-Michielskerk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Sint-Michielskerk",
     "name_ja": "Sint-Michielskerk（聖ミヒエル教会）",
     "name_es": "Sint-Michielskerk",
@@ -1593,7 +1741,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Sint-Michielskerk",
+    "desc_nl": "Late-Gothic church on western bank of Leie river, housing master paintings including Anthony van Dyck's Christ on the Cross.",
+    "tip_nl": "⛪ Free entry; step inside to admire the monumental Van Dyck altarpiece and the vast open stone interior nave.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_39",
@@ -1635,7 +1787,11 @@
     "price_es": "Park/Beach Free (Slides Extra)",
     "price_zh": "Park/Beach Free (Slides Extra)",
     "price_fr": "Park/Beach Free (Slides Extra)",
-    "price_de": "Park/Beach Free (Slides Extra)"
+    "price_de": "Park/Beach Free (Slides Extra)",
+    "name_nl": "Blaarmeersen Recreatiegebied",
+    "desc_nl": "100-hectare outdoor sports and leisure park featuring an expansive swimming lake with sandy beaches, water slides, and ropes.",
+    "tip_nl": "🏖️ Premier summer destination for families; easily accessible via bus, offering supervised lake swimming and beach games.",
+    "price_nl": "Park/Beach Free (Slides Extra)"
   },
   {
     "id": "gh_40",
@@ -1677,7 +1833,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Baudelo Park",
+    "desc_nl": "Green urban park in northeastern center of Ghent popular with university students and families, featuring Baudelo convent library.",
+    "tip_nl": "🎪 During the 10-day Gentse Feesten festival in July, Baudelo Park transforms into the vibrant Baudelohof world music stage.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_41",
@@ -1719,7 +1879,11 @@
     "price_es": "Garden €3.00 / Castle €12.00",
     "price_zh": "Garden €3.00 / Castle €12.00",
     "price_fr": "Garden €3.00 / Castle €12.00",
-    "price_de": "Garden €3.00 / Castle €12.00"
+    "price_de": "Garden €3.00 / Castle €12.00",
+    "name_nl": "Kasteel Ooidonk",
+    "desc_nl": "Located 20 minutes southwest of Ghent in Deinze. A fairytale Renaissance castle standing inside a double moat of Leie river.",
+    "tip_nl": "🏰 The surrounding English landscape park and moat walkways are open year-round; furnished staterooms visited on weekends.",
+    "price_nl": "Garden €3.00 / Castle €12.00"
   },
   {
     "id": "gh_42",
@@ -1761,7 +1925,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Historisch Aalst",
+    "desc_nl": "20 minutes southeast of Ghent by train. Features oldest town hall belfry in Low Countries (UNESCO) and Saint Martin's Church.",
+    "tip_nl": "🎭 Famous across Belgium for the raucous UNESCO-recognized annual Aalst Carnival held each February.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_43",
@@ -1777,9 +1945,9 @@
     "free": false,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Castle_of_Laarne_%28DSCF0335%29.jpg/330px-Castle_of_Laarne_%28DSCF0335%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Castle_of_Laarne_%28DSCF0335%29.jpg/330px-Castle_of_Laarne_%28DSCF0335%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Kasteel van Laarne",
     "name_ja": "Kasteel van Laarne（ラーネ城＆魔女裁判歴史館）",
     "name_es": "Kasteel van Laarne",
@@ -1803,7 +1971,11 @@
     "price_es": "Entry: €9.00",
     "price_zh": "Entry: €9.00",
     "price_fr": "Entry: €9.00",
-    "price_de": "Entry: €9.00"
+    "price_de": "Entry: €9.00",
+    "name_nl": "Kasteel van Laarne",
+    "desc_nl": "15 minutes east of Ghent. Remarkably preserved 14th-century moated round-tower fortress containing silver collections and witch-trial history.",
+    "tip_nl": "🧙 Take the audio-guided tablet tour exploring the castle's 16th-century witch trials and climb the medieval stone keep.",
+    "price_nl": "Entry: €9.00"
   },
   {
     "id": "gh_44",
@@ -1819,9 +1991,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sint-Martens-Latem_vlag.svg/langde-330px-Sint-Martens-Latem_vlag.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sint-Martens-Latem_vlag.svg/langde-330px-Sint-Martens-Latem_vlag.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Sint-Martens-Latem (Sint-Martens-Latem & Leiestreek)",
     "name_ja": "Sint-Martens-Latem（シント＝マルテンス＝ラーテム画家の村）",
     "name_es": "Sint-Martens-Latem (Sint-Martens-Latem & Leiestreek)",
@@ -1845,7 +2017,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Sint-Martens-Latem",
+    "desc_nl": "Picturesque artists' village along Leie river south of Ghent, birthplace of Latem School of Flemish painting, filled with thatched cottages.",
+    "tip_nl": "🚲 Rent a bicycle in Ghent and follow the scenic marked cycle route along the Leie riverbanks straight to Sint-Martens-Latem.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_45",
@@ -1861,9 +2037,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20091212_Puyenbroeck_%280008%29.jpg/330px-20091212_Puyenbroeck_%280008%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20091212_Puyenbroeck_%280008%29.jpg/330px-20091212_Puyenbroeck_%280008%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Provinciaal Domein Puyenbroeck",
     "name_ja": "Provinciaal Domein Puyenbroeck（プイエンブルーク州立自然公園）",
     "name_es": "Provinciaal Domein Puyenbroeck",
@@ -1887,7 +2063,11 @@
     "price_es": "Park Free (Boats Extra)",
     "price_zh": "Park Free (Boats Extra)",
     "price_fr": "Park Free (Boats Extra)",
-    "price_de": "Park Free (Boats Extra)"
+    "price_de": "Park Free (Boats Extra)",
+    "name_nl": "Provinciaal Domein Puyenbroeck",
+    "desc_nl": "Sprawling 570-hectare provincial domain featuring outdoor pools, mini golf, boating lake with pedal boats, deer park, and 18th-century castle.",
+    "tip_nl": "🚂 Take the free miniature tourist train around the vast park grounds; excellent full-day outdoor excursion for families.",
+    "price_nl": "Park Free (Boats Extra)"
   },
   {
     "id": "gh_46",
@@ -1929,7 +2109,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Drongen & Abdij van Drongen",
+    "desc_nl": "Historic riverside village west of Ghent centered around 17th-century Drongen Abbey on the banks of Old Leie river.",
+    "tip_nl": "🌿 A quiet cycling and walking escape from Ghent; take the small seasonal foot ferry across the Leie to continue walking.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_47",
@@ -1945,9 +2129,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Natuurreservaat_bourgoyen_ossemeersen1.JPG/330px-Natuurreservaat_bourgoyen_ossemeersen1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Natuurreservaat_bourgoyen_ossemeersen1.JPG/330px-Natuurreservaat_bourgoyen_ossemeersen1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "Bourgoyen-Ossemeersen (Bourgoyen-Ossemeersen Natuurreservaat)",
     "name_ja": "Bourgoyen-Ossemeersen（ブルホイエン湿地自然保護区）",
     "name_es": "Bourgoyen-Ossemeersen (Bourgoyen-Ossemeersen Natuurreservaat)",
@@ -1971,7 +2155,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Bourgoyen-Ossemeersen",
+    "desc_nl": "230-hectare protected wetland nature reserve located 3km from Ghent center featuring flood meadows, birdwatching blinds, and trails.",
+    "tip_nl": "🦆 Visit the eco-friendly Visitor Center to borrow free binoculars for birdwatching along the 5.5-kilometer trail.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_48",
@@ -2013,7 +2201,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Het Pand",
+    "desc_nl": "Restored 13th-century Dominican monastery located along Leie river, now official cultural center of Ghent University with cloisters.",
+    "tip_nl": "🏛️ Walk into the public cloister corridors to view rotating academic art exhibitions and admire medieval stone vaulting.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_49",
@@ -2055,7 +2247,11 @@
     "price_es": "Entry: €5.00",
     "price_zh": "Entry: €5.00",
     "price_fr": "Entry: €5.00",
-    "price_de": "Entry: €5.00"
+    "price_de": "Entry: €5.00",
+    "name_nl": "Kunsthal Gent",
+    "desc_nl": "Monumental 14th-century Carmelite monastery in Patershol transformed into Kunsthal Gent—an experimental contemporary art space.",
+    "tip_nl": "🎨 The quiet inner cloister garden is a tranquil spot to relax while visiting the historic Patershol neighborhood.",
+    "price_nl": "Entry: €5.00"
   },
   {
     "id": "gh_50",
@@ -2097,7 +2293,11 @@
     "price_es": "Pub Budget ~€5-18",
     "price_zh": "Pub Budget ~€5-18",
     "price_fr": "Pub Budget ~€5-18",
-    "price_de": "Pub Budget ~€5-18"
+    "price_de": "Pub Budget ~€5-18",
+    "name_nl": "Waterhuis aan de Bierkant",
+    "desc_nl": "Waterhuis offers 150+ craft beers on a canal terrace; next door sits 't Dreupelkot serving over 200 flavors of traditional Dutch gin.",
+    "tip_nl": "🥃 Step into 't Dreupelkot to try artisanal fruit jenevers poured to the brim of tiny shot glasses; take the first sip hands-free.",
+    "price_nl": "Pub Budget ~€5-18"
   },
   {
     "id": "gh_51",
@@ -2139,7 +2339,11 @@
     "price_es": "Free Festival (Food Extra)",
     "price_zh": "Free Festival (Food Extra)",
     "price_fr": "Free Festival (Food Extra)",
-    "price_de": "Free Festival (Food Extra)"
+    "price_de": "Free Festival (Food Extra)",
+    "name_nl": "De Gentse Feesten",
+    "desc_nl": "One of Europe's largest 10-day cultural street festivals held every July, transforming the entire center into open-air music stages.",
+    "tip_nl": "🎪 Almost all outdoor music stages and performances are completely free; soak up the festive atmosphere on the squares.",
+    "price_nl": "Free Festival (Food Extra)"
   },
   {
     "id": "gh_52",
@@ -2181,7 +2385,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Sint-Elisabethbegijnhof",
+    "desc_nl": "13th-century open beguinage quarter centered around Holy Corner housing churches of 4 different denominations.",
+    "tip_nl": "🚶 A picturesque quiet residential neighborhood characterized by cobblestone streets and private garden walls.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_53",
@@ -2223,7 +2431,11 @@
     "price_es": "Show Tickets Various",
     "price_zh": "Show Tickets Various",
     "price_fr": "Show Tickets Various",
-    "price_de": "Show Tickets Various"
+    "price_de": "Show Tickets Various",
+    "name_nl": "Minard Schouwburg",
+    "desc_nl": "Founded in 1847 by architect Louis Minard as the first Flemish theater in Ghent, a historic neo-Renaissance venue for drama and music.",
+    "tip_nl": "🎭 Look for the illuminated historic facade near Kouter square; grab a pre-theater drink at M-Café inside the foyer.",
+    "price_nl": "Show Tickets Various"
   },
   {
     "id": "gh_54",
@@ -2265,7 +2477,11 @@
     "price_es": "Free (Oysters/Wine ~€10-25)",
     "price_zh": "Free (Oysters/Wine ~€10-25)",
     "price_fr": "Free (Oysters/Wine ~€10-25)",
-    "price_de": "Free (Oysters/Wine ~€10-25)"
+    "price_de": "Free (Oysters/Wine ~€10-25)",
+    "name_nl": "De Kouter",
+    "desc_nl": "Elegant 19th-century square lined with linden trees, classical townhouses, and Opera building, hosting Sunday Flower Market.",
+    "tip_nl": "🦪 Sunday morning tradition: Browse flower stalls, listen to the brass band, then order fresh oysters and white wine at Blauwe Kiosk.",
+    "price_nl": "Free (Oysters/Wine ~€10-25)"
   },
   {
     "id": "gh_55",
@@ -2307,7 +2523,11 @@
     "price_es": "Tour ~€12.00 / Shows Var",
     "price_zh": "Tour ~€12.00 / Shows Var",
     "price_fr": "Tour ~€12.00 / Shows Var",
-    "price_de": "Tour ~€12.00 / Shows Var"
+    "price_de": "Tour ~€12.00 / Shows Var",
+    "name_nl": "Opera Gent",
+    "desc_nl": "Built in 1840 on Kouter, featuring a 90m suite of lavishly decorated neo-Renaissance salons (Lully, Foyer) and horseshoe auditorium.",
+    "tip_nl": "🎻 Guided architectural tours allow you to admire the massive crystal chandelier and opulent gilded plasterwork.",
+    "price_nl": "Tour ~€12.00 / Shows Var"
   },
   {
     "id": "gh_56",
@@ -2349,7 +2569,11 @@
     "price_es": "Show Tickets Var / Lunch ~€15-30",
     "price_zh": "Show Tickets Var / Lunch ~€15-30",
     "price_fr": "Show Tickets Var / Lunch ~€15-30",
-    "price_de": "Show Tickets Var / Lunch ~€15-30"
+    "price_de": "Show Tickets Var / Lunch ~€15-30",
+    "name_nl": "Handelsbeurs / Ha Concerts",
+    "desc_nl": "18th-century former commodities exchange hall on Kouter transformed into a state-of-the-art concert hall for jazz and classical.",
+    "tip_nl": "☕ The ground-floor restaurant Ha' Bistro offers seasonal dining in a contemporary setting overlooking Kouter square.",
+    "price_nl": "Show Tickets Var / Lunch ~€15-30"
   },
   {
     "id": "gh_57",
@@ -2391,7 +2615,11 @@
     "price_es": "Free (Food ~€10-25)",
     "price_zh": "Free (Food ~€10-25)",
     "price_fr": "Free (Food ~€10-25)",
-    "price_de": "Free (Food ~€10-25)"
+    "price_de": "Free (Food ~€10-25)",
+    "name_nl": "Illie Mangaro & Dokken",
+    "desc_nl": "Revitalized former harbor docks near Gent-Dampoort station hosting trendy waterfront container bars and street food halls.",
+    "tip_nl": "🍲 Great alternative to the tourist center; relax along the old shipping quays with craft beers and fusion street food.",
+    "price_nl": "Free (Food ~€10-25)"
   },
   {
     "id": "gh_58",
@@ -2433,7 +2661,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Huysmanhoeve",
+    "desc_nl": "Protected 13th-century moated double-gatehouse heritage farm estate located in Meetjesland countryside serving local food.",
+    "tip_nl": "🚲 Stop by the farm terrace during a polder cycle tour to taste traditional regional goat cheeses and farmhouse apple ciders.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "gh_59",
@@ -2475,7 +2707,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Sint-Baafsplein",
+    "desc_nl": "Historic square framed between Saint Bavo's Cathedral, Belfry, and Royal Dutch Theatre, centered around Jan Frans Willems statue.",
+    "tip_nl": "📸 The open square allows an unobstructed photo composition framing both the Cathedral and the Belfry in one frame.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "gh_60",
@@ -2491,9 +2727,9 @@
     "free": true,
     "family": true,
     "adult": true,
-    "image": "",
-    "wikiImage": "",
-    "hasWiki": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gand_theatre.jpg/330px-Gand_theatre.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gand_theatre.jpg/330px-Gand_theatre.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hasWiki": true,
     "name_en": "NTGent (Koninklijke Nederlandse Schouwburg)",
     "name_ja": "NTGent（ベルギー王立オランダ語劇場）",
     "name_es": "NTGent (Koninklijke Nederlandse Schouwburg)",
@@ -2517,6 +2753,10 @@
     "price_es": "Show Tickets Var / Foyer Free",
     "price_zh": "Show Tickets Var / Foyer Free",
     "price_fr": "Show Tickets Var / Foyer Free",
-    "price_de": "Show Tickets Var / Foyer Free"
+    "price_de": "Show Tickets Var / Foyer Free",
+    "name_nl": "NTGent",
+    "desc_nl": "Flagship home of NTGent City Theatre on Sint-Baafsplein featuring an ornate 19th-century facade topped by Apollo and Muses mosaic.",
+    "tip_nl": "🎭 Step into the ground-floor NTGent Foyer for coffee or drinks beneath gilded ceilings overlooking the cathedral square.",
+    "price_nl": "Show Tickets Var / Foyer Free"
   }
 ]

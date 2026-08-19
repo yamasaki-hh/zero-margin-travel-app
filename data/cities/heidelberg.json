@@ -43,7 +43,11 @@
       "name_de": "Heidelberger Schloss",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/330px-Heidelberg-2726936.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/330px-Heidelberg-2726936.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Heidelberger Schloss",
+      "desc_nl": "Famous red-sandstone Renaissance palace ruins overlooking the Neckar Valley, serving for centuries as the residence of the Electors Palatine.",
+      "tip_nl": "🎟️ The €9 Palace ticket includes entry to the castle courtyard, the Great Vat, the Pharmacy Museum, and the Bergbahn funicular round-trip from Kornmarkt to Molkenkur. For postcard sunset photos, stand on the Scheffelterrasse parapet.",
+      "price_nl": "Courtyard, Big Vat & Funicular: €9"
     },
     {
       "id": "hd_2",
@@ -83,7 +87,11 @@
       "name_zh": "Großes Fass (海德堡大酒桶)",
       "name_fr": "Großes Fass (Grand Tonneau de Heidelberg)",
       "name_de": "Großes Fass",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Großes Fass",
+      "desc_nl": "Gigantic 18th-century wine barrel built in 1751 inside the castle cellars under Elector Karl Theodor, with a capacity of 219,783 liters made from over 130 oak trees.",
+      "tip_nl": "🪜 Climb the wooden steps leading directly onto the dance floor constructed on top of the barrel, and pull the string beside the statue of court jester Perkeo to trigger a surprise prank box.",
+      "price_nl": "Included in Castle ticket (€9)"
     },
     {
       "id": "hd_3",
@@ -125,7 +133,11 @@
       "name_de": "Deutsches Apotheken-Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg/330px-Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg/330px-Deutsches_Apotheken-Museum%2C_Offizin_aus_Schwarzach_%281._H%C3%A4lfte_18._Jh.%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Deutsches Apotheken-Museum",
+      "desc_nl": "Fascinating specialized museum located in the Renaissance Ottheinrich building, showcasing preserved 17th-to-19th-century pharmacy interiors, alchemical laboratories, and antique medicine chests.",
+      "tip_nl": "🧪 Head down into the vaulted cellar to explore the authentic reconstructed alchemist's distillation laboratory, and browse the museum boutique for herbal apothecary teas and traditional liqueurs.",
+      "price_nl": "Included in Castle ticket (€9)"
     },
     {
       "id": "hd_4",
@@ -165,7 +177,11 @@
       "name_zh": "Schlossgarten (Hortus Palatinus / 城堡花园)",
       "name_fr": "Schlossgarten (Hortus Palatinus / Jardins du Château)",
       "name_de": "Schlossgarten (Hortus Palatinus)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Schlossgarten",
+      "desc_nl": "Masterpiece early 17th-century terraced Renaissance garden designed by Salomon de Caus for Elector Friedrich V, celebrated in its era as the Eighth Wonder of the World.",
+      "tip_nl": "📸 Access to the garden terraces is completely free without any ticket; walk out onto the Scheffelterrasse for the iconic view of the castle ruins against the Old Town and river.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "hd_5",
@@ -207,7 +223,11 @@
       "name_de": "Alte Brücke (Karl-Theodor-Brücke)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alte_Br%C3%BCcke_Heidelberg.JPG/330px-Alte_Br%C3%BCcke_Heidelberg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alte_Br%C3%BCcke_Heidelberg.JPG/330px-Alte_Br%C3%BCcke_Heidelberg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Alte Brücke",
+      "desc_nl": "Iconic nine-arch red sandstone bridge spanning the Neckar River, constructed between 1786 and 1788 by Prince Elector Karl Theodor, guarded by a medieval twin-towered white gate.",
+      "tip_nl": "📸 Cross over to the northern bank (Neuenheim riverside) near dusk to capture the reflection of the nine stone arches with the illuminated castle in the background.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_6",
@@ -247,7 +267,11 @@
       "name_zh": "Brückenaffe (海德堡铜猴)",
       "name_fr": "Brückenaffe (Singe du Pont de Heidelberg)",
       "name_de": "Brückenaffe",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Brückenaffe",
+      "desc_nl": "Famous bronze sculpture by Gernot Rumpf installed in 1979 beside the Old Bridge Gate, reviving a 15th-century satirical symbol of self-reflection and equality holding a mirror.",
+      "tip_nl": "🪞 Stick your head inside the hollow bronze mask for a souvenir photo, touch the mirror for prosperity, rub the monkey's fingers to return to Heidelberg, and pet the bronze mice for good luck.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_7",
@@ -289,7 +313,11 @@
       "name_de": "Philosophenweg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeidelbergPhilosophenweg.JPG/330px-HeidelbergPhilosophenweg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeidelbergPhilosophenweg.JPG/330px-HeidelbergPhilosophenweg.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Philosophenweg",
+      "desc_nl": "Scenic hillside walking path along the sunny southern slope of the Heiligenberg, where university professors and Romantic poets strolled amidst a mild Mediterranean microclimate.",
+      "tip_nl": "👟 Climb up from the Old Bridge via the steep cobblestone Schlangenweg (Snake Path), and rest at the Philosophengärtchen gardens for the finest panorama of the Old Town and river.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_8",
@@ -331,7 +359,11 @@
       "name_de": "Heiliggeistkirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/330px-Heidelberg_20060420_021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/330px-Heidelberg_20060420_021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Heiliggeistkirche",
+      "desc_nl": "Late Gothic red-sandstone hall church built between 1398 and 1515 on the central market square, historically serving as the burial site of Palatinate Electors and home to the Bibliotheca Palatina.",
+      "tip_nl": "🪜 Pay €5 to climb the 208 winding steps of the 38-meter church tower for a spectacular 360-degree aerial panorama directly overlooking Marktplatz and the castle.",
+      "price_nl": "Church Free (Tower: €5)"
     },
     {
       "id": "hd_9",
@@ -371,7 +403,11 @@
       "name_zh": "Hauptstraße Heidelberg (主街步行街)",
       "name_fr": "Hauptstraße Heidelberg (Rue Principale)",
       "name_de": "Hauptstraße Heidelberg",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Hauptstraße Heidelberg",
+      "desc_nl": "One of Europe's longest continuous pedestrian zones (1.6 km), forming the vibrant historic spine of Heidelberg's Old Town lined with Baroque facades, boutiques, and cafes.",
+      "tip_nl": "🍫 Stop by the historic Café Knösel (Haspelgasse 20, just off Hauptstraße) to pick up the famous authentic 'Heidelberger Studentenkuß' chocolate pralines created in 1863.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_10",
@@ -411,7 +447,11 @@
       "name_zh": "Marktplatz & Herkulesbrunnen (市集广场与赫拉克勒斯喷泉)",
       "name_fr": "Marktplatz & Herkulesbrunnen (Place du Marché et Fontaine d'Hercule)",
       "name_de": "Marktplatz & Herkulesbrunnen",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Marktplatz & Herkulesbrunnen",
+      "desc_nl": "Vibrant central square of the Old Town situated between the Church of the Holy Spirit and the Baroque Rathaus, centered by the 1706 Hercules Fountain symbolizing municipal resilience.",
+      "tip_nl": "☕ Visit on Wednesday or Saturday mornings (7:00–14:00) when the weekly market fills the square with regional cheeses, flowers, and freshly baked German pretzels.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_11",
@@ -451,7 +491,11 @@
       "name_zh": "Kornmarkt & Madonnenstatue (谷物广场与圣母雕像)",
       "name_fr": "Kornmarkt & Madonnenstatue (Place du Marché aux Grains et Vierge)",
       "name_de": "Kornmarkt & Madonnenstatue",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Kornmarkt & Madonnenstatue",
+      "desc_nl": "Picturesque historic square formerly used as a medieval grain market, graced by Peter van den Branden's gilded 1718 Baroque Madonna fountain set before the castle backdrop.",
+      "tip_nl": "📸 Crouch low near the southern rim of the fountain basin to compose the classic photo aligning the gilded Madonna statue directly in front of the illuminated castle.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_12",
@@ -491,7 +535,11 @@
       "name_zh": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg (Universitätsplatz & 海德堡大学广场)",
       "name_fr": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg (Universitätsplatz & Université de Heidelberg)",
       "name_de": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg",
+      "desc_nl": "Academic nerve center of Germany's oldest university, founded in 1386 by Elector Ruprecht I, framed by the 18th-century Old University and the 1931 New University building.",
+      "tip_nl": "📍 Look closely at the ground paving stones in the center of the square to find the bronze memorial plaque marking where Martin Luther held his 1518 Heidelberg Disputation.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_13",
@@ -531,7 +579,11 @@
       "name_zh": "Studentenkarzer & Alte Aula (学生禁闭室与老礼堂)",
       "name_fr": "Studentenkarzer & Alte Aula (Prison des Étudiants et Grande Salle)",
       "name_de": "Studentenkarzer & Alte Aula",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Studentenkarzer & Alte Aula",
+      "desc_nl": "Historic university detention facility used from 1778 to 1914 where students were jailed for minor infractions, renowned for walls covered in colorful graffiti, crests, and silhouettes.",
+      "tip_nl": "🎟️ The €6 admission ticket grants access to both the student prison cells on Augustinergasse and the splendid neo-Renaissance wood-paneled Alte Aula ceremonial hall.",
+      "price_nl": "Combined Entry: €6"
     },
     {
       "id": "hd_14",
@@ -573,7 +625,11 @@
       "name_de": "Universitätsbibliothek Heidelberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heidelberg_-_panoramio_%2811%29.jpg/330px-Heidelberg_-_panoramio_%2811%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heidelberg_-_panoramio_%2811%29.jpg/330px-Heidelberg_-_panoramio_%2811%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Universitätsbibliothek Heidelberg",
+      "desc_nl": "Monumental historicist red-sandstone building completed in 1905 combining German Renaissance and Art Nouveau elements, holding over 3 million volumes and precious medieval codices.",
+      "tip_nl": "📜 Visit the exhibition gallery on the ground floor to admire facsimiles and rotating original pages of the 14th-century Codex Manesse; silence must be strictly respected.",
+      "price_nl": "Free Entry (Exhibitions)"
     },
     {
       "id": "hd_15",
@@ -613,7 +669,11 @@
       "name_zh": "Haus zum Ritter St. Georg (圣乔治骑士之屋)",
       "name_fr": "Haus zum Ritter St. Georg (Maison du Chevalier)",
       "name_de": "Haus zum Ritter St. Georg",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Haus zum Ritter St. Georg",
+      "desc_nl": "Heidelberg's oldest surviving town house built in 1592, a masterwork of Late Renaissance architecture that survived the 1693 city fires.",
+      "tip_nl": "📸 Look up at the top gable to see the bust of St. George and the Latin inscription 'Persta Invicta Venus' (Remain Unconquered, Beauty). Currently operates as a luxury hotel & restaurant.",
+      "price_nl": "Free Exterior Viewing"
     },
     {
       "id": "hd_16",
@@ -655,7 +715,11 @@
       "name_de": "Heidelberger Bergbahn",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg/330px-Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg/330px-Heidelberg_Bergbahn_2016-02-27-16-17-19.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Heidelberger Bergbahn",
+      "desc_nl": "Historic funicular railway opened in 1890 running from the Old Town via the Castle to the summit of Königstuhl mountain (568m).",
+      "tip_nl": "🚃 The upper section from Molkenkur to Königstuhl uses the original 1907 wooden car—one of Germany's oldest operational funiculars! Sit in the front seats for the best perspective.",
+      "price_nl": "Castle Roundtrip: €9 / Summit Roundtrip: €14"
     },
     {
       "id": "hd_17",
@@ -697,7 +761,11 @@
       "name_de": "Königstuhl",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heidelberg_20030918.jpg/330px-Heidelberg_20030918.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heidelberg_20030918.jpg/330px-Heidelberg_20030918.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Königstuhl",
+      "desc_nl": "The highest peak (568m) in the Heidelberg area, offering sweeping vistas across the Neckar Valley and the Rhine Rift Valley.",
+      "tip_nl": "🌄 Temperatures are 3–5°C cooler than the Old Town—bring a jacket even in summer! Hikers can climb down to the castle via the 1,200 steep stone steps of the Himmelsleiter (Heaven's Ladder).",
+      "price_nl": "Free Summit Access"
     },
     {
       "id": "hd_18",
@@ -739,7 +807,11 @@
       "name_de": "Märchenparadies Königstuhl",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Maerchenpark_Heidelberg_Eisenbahn.jpg/330px-Maerchenpark_Heidelberg_Eisenbahn.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Maerchenpark_Heidelberg_Eisenbahn.jpg/330px-Maerchenpark_Heidelberg_Eisenbahn.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Märchenparadies Königstuhl",
+      "desc_nl": "Whimsical 4.8-hectare fairy-tale outdoor theme park nestled in the mountain forest, perfect for families with young children (ages 2–10).",
+      "tip_nl": "🧒 Best suited for toddlers and young children under 10. Rides like the mini train (Parkbahn) and electric cars require extra €1 tokens (Jeton). Open April to October.",
+      "price_nl": "Entry: €6 (Adults & Kids)"
     },
     {
       "id": "hd_19",
@@ -781,7 +853,11 @@
       "name_de": "Kurpfälzisches Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG/330px-Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG/330px-Kurpf%C3%A4lzisches_Museum_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Kurpfälzisches Museum",
+      "desc_nl": "Municipal museum located in the 1712 Palais Morass housing Tilman Riemenschneider's 1509 wooden altar masterpiece and local archaeology.",
+      "tip_nl": "🎨 Entry is only €3! Don't miss the tranquil inner courtyard sculpture garden and restaurant terrace for a peaceful coffee away from Hauptstraße crowds.",
+      "price_nl": "Entry: €3"
     },
     {
       "id": "hd_20",
@@ -821,7 +897,11 @@
       "name_zh": "Tinnunculus Falknerei (国王宝座高山猎鹰中心)",
       "name_fr": "Tinnunculus Falknerei (Fauconnerie de Königstuhl)",
       "name_de": "Tinnunculus Falknerei",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Tinnunculus Falknerei",
+      "desc_nl": "Falconry center on top of Königstuhl featuring impressive live flight demonstrations of eagles, falcons, and owls in the open mountain air.",
+      "tip_nl": "🦅 Flight shows take place twice daily at 11:30 AM and 15:30 PM (April to October, weather permitting; closed Mondays). Birds fly inches above your head!",
+      "price_nl": "Show Ticket: €7 (Kids €4.50)"
     },
     {
       "id": "hd_21",
@@ -863,7 +943,11 @@
       "name_de": "Zoo Heidelberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/330px-Heidelberg_Tiergarten_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/330px-Heidelberg_Tiergarten_Haupteingang.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Zoo Heidelberg",
+      "desc_nl": "Spacious 10.5-hectare zoo along the Neckar River featuring Asian elephants, primates, sea lions, and extensive adventure playgrounds.",
+      "tip_nl": "🦭 Don't miss the daily public feeding sessions for young Asian male elephants and sea lions! There is a huge water playground for kids next to the zoo café.",
+      "price_nl": "Entry: €14 (Kids €7.50)"
     },
     {
       "id": "hd_22",
@@ -905,7 +989,11 @@
       "name_de": "Botanischer Garten der Universität Heidelberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bghd_kakteen1_ies.jpg/330px-Bghd_kakteen1_ies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bghd_kakteen1_ies.jpg/330px-Bghd_kakteen1_ies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Botanischer Garten der Universität Heidelberg",
+      "desc_nl": "One of Germany's oldest botanical gardens (founded 1593) on the university campus, featuring tropical greenhouses, orchids, and succulents.",
+      "tip_nl": "🌵 Admission to both the outdoor gardens and the tropical greenhouses (Tropenhaus) is 100% FREE! Perfect warm refuge on a rainy afternoon.",
+      "price_nl": "Free Entry (Gardens & Greenhouses)"
     },
     {
       "id": "hd_23",
@@ -947,7 +1035,11 @@
       "name_de": "Neckarwiese",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Neckarwiese.jpg/330px-Neckarwiese.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Neckarwiese.jpg/330px-Neckarwiese.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Neckarwiese",
+      "desc_nl": "Vast riverside lawn park on the northern bank of the Neckar River, popular among locals for picnics, sunbathing, and views of the castle.",
+      "tip_nl": "🧺 Buy fresh pretzels and drinks from a local bakery along Brückenstraße, then relax on the grass. Features public barbecue areas, beach volleyball courts, and a water playground.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_24",
@@ -987,7 +1079,11 @@
       "name_zh": "Thingstätte & Michaelskloster (Thingstätte露天剧场与圣米歇尔修道院遗址)",
       "name_fr": "Thingstätte & Michaelskloster (Amphithéâtre Thingstätte & Ruines du Monastère)",
       "name_de": "Thingstätte & Michaelskloster",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Thingstätte & Michaelskloster",
+      "desc_nl": "Monumental 1930s open-air stone amphitheatre (Thingstätte) and adjacent 11th-century monastery ruins on top of the Heiligenberg mountain.",
+      "tip_nl": "🏛️ The acoustics in the center of the amphitheatre stage are incredible—test your voice! Combine with a short hike up to the ruins of St. Michael's Monastery for panoramic forest views.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_25",
@@ -1027,7 +1123,11 @@
       "name_zh": "Neckar-Schifffahrt (内卡河观光游船)",
       "name_fr": "Neckar-Schifffahrt (Croisière sur le Neckar)",
       "name_de": "Neckar-Schifffahrt (Weisse Flotte Heidelberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Neckar-Schifffahrt",
+      "desc_nl": "Scenic sightseeing boat cruises departing from the Old Bridge pier, offering breathtaking waterborne views of Heidelberg Castle.",
+      "tip_nl": "🛳️ The 50-minute tour on 'Neckarsonne'—the world's largest solar-powered catamaran—runs smoothly and silently! Operates April to October.",
+      "price_nl": "45-Min Cruise: €12–€16"
     },
     {
       "id": "hd_26",
@@ -1067,7 +1167,11 @@
       "name_zh": "Kulturbrauerei Heidelberg (海德堡文化啤酒工坊)",
       "name_fr": "Kulturbrauerei Heidelberg (Brasserie artisanale)",
       "name_de": "Kulturbrauerei Heidelberg",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Kulturbrauerei Heidelberg",
+      "desc_nl": "Traditional brewery tavern in the heart of the Old Town featuring copper brewing kettles, unfiltered craft beers, and hearty regional cuisine.",
+      "tip_nl": "🍺 Order the house specialty 'Kräusenbier' (unfiltered Kellerbier) alongside a plate of Heidelberg pork roast (Spanferkel) or Saumagen stew. Book tables online in advance for weekend dinners!",
+      "price_nl": "Beer: €4.50–€5.50 / Mains: €14–€26"
     },
     {
       "id": "hd_27",
@@ -1107,7 +1211,11 @@
       "name_zh": "Brauhaus Vetter (维特精酿啤酒馆)",
       "name_fr": "Brauhaus Vetter (Brasserie Vetter)",
       "name_de": "Brauhaus Vetter",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Brauhaus Vetter",
+      "desc_nl": "Iconic pub near the Old Bridge famous for brewing 'Vetter 33', a super-strong Bock beer once featured in the Guinness Book of World Records.",
+      "tip_nl": "🍺 Be cautious with 'Vetter 33'—it has a 10.5% ABV and a very rich, sweet malt taste! Try the 4-beer sample paddle if you want to test milder Helles and Dunkel varieties first.",
+      "price_nl": "Beer: €4.20–€5.80 / Mains: €13–€24"
     },
     {
       "id": "hd_28",
@@ -1147,7 +1255,11 @@
       "name_zh": "Café Knösel & Heidelberger Studentenkuß (克内塞尔咖啡馆与学生之吻巧克力)",
       "name_fr": "Café Knösel & Heidelberger Studentenkuß (Chocolaterie le Baiser d'Étudiant)",
       "name_de": "Café Knösel & Heidelberger Studentenkuß",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Café Knösel & Heidelberger Studentenkuß",
+      "desc_nl": "Heidelberg's oldest chocolatier & café (founded 1863), creator of the famous 'Studentenkuß' praline chocolate symbol of romantic courtship.",
+      "tip_nl": "🎁 The 'Studentenkuß' chocolate (a nougat praline on a waffle bottom wrapped in dark chocolate) makes the ultimate Heidelberg souvenir! Beautiful red souvenir tins available.",
+      "price_nl": "Chocolate Piece: €3.20 / Coffee & Cake: €8–€14"
     },
     {
       "id": "hd_29",
@@ -1187,7 +1299,11 @@
       "name_zh": "Café Schafheutle (沙夫霍伊特勒花园咖啡馆)",
       "name_fr": "Café Schafheutle (Café-Pâtisserie avec jardin)",
       "name_de": "Café Schafheutle",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Café Schafheutle",
+      "desc_nl": "Prestigious traditional pastry shop & café on Hauptstraße famous for its lush, peaceful hidden courtyard garden terrace.",
+      "tip_nl": "🍰 Walk straight past the entrance counter to the secret glass conservatory and lush outdoor garden at the back! Try the Schwarzwalder Kirschtorte (Black Forest Cake).",
+      "price_nl": "Cake Slice: €4.50–€5.80 / Coffee: €3.80"
     },
     {
       "id": "hd_30",
@@ -1229,7 +1345,11 @@
       "name_de": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dokumentationszentrum_2003.jpg/330px-Dokumentationszentrum_2003.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dokumentationszentrum_2003.jpg/330px-Dokumentationszentrum_2003.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma",
+      "desc_nl": "World's first permanent exhibition center dedicated to documenting the history and Nazi genocide (Porajmos) of the Sinti and Roma people.",
+      "tip_nl": "🕊️ Admission to the permanent exhibition is completely FREE! Excellent audio guides available in English explaining personal biographies.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "hd_31",
@@ -1271,7 +1391,11 @@
       "name_de": "Sammlung Prinzhorn",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg/330px-August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg/330px-August_Natterer_Hexenkopf_Vorder_und_R%C3%BCckseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Sammlung Prinzhorn",
+      "desc_nl": "World-renowned museum housed in a historic lecture hall showcasing 20,000+ outsider art masterworks created by psychiatric patients.",
+      "tip_nl": "🧠 A profound artistic experience! Inspiring for lovers of surrealism and raw art; features works by Karl Brendel and Elsa Blankenhorn. Closed Mondays.",
+      "price_nl": "Entry: €8 (Students €5)"
     },
     {
       "id": "hd_32",
@@ -1311,7 +1435,11 @@
       "name_zh": "Körperwelten Museum (海德堡人体奥秘博物馆)",
       "name_fr": "Körperwelten Museum (Musée Body Worlds)",
       "name_de": "Körperwelten Museum (Altes Hallenbad)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Körperwelten Museum",
+      "desc_nl": "Permanent Body Worlds museum located inside the historic 1906 Art Nouveau public bathhouse, showcasing real plastinated human anatomy exhibits.",
+      "tip_nl": "🫀 Highly educational focus on 'Anatomy of Happiness' showing real human organs, muscles, and health science. Book tickets online in advance to avoid waiting.",
+      "price_nl": "Entry: €19 (Students €15)"
     },
     {
       "id": "hd_33",
@@ -1351,7 +1479,11 @@
       "name_zh": "Exploratorium Heidelberg (海德堡互动探索科学馆)",
       "name_fr": "Exploratorium Heidelberg (Centre scientifique interactif)",
       "name_de": "Exploratorium Heidelberg",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Exploratorium Heidelberg",
+      "desc_nl": "Interactive hands-on science museum focusing on optical illusions, perception experiments, light, and physics for kids and families.",
+      "tip_nl": "🧩 Fantastic rainy day activity for families with school-age kids! Hands-on puzzles, Ames room illusion, and shadow experiments.",
+      "price_nl": "Entry: €7.50 (Kids €6)"
     },
     {
       "id": "hd_34",
@@ -1391,7 +1523,11 @@
       "name_zh": "Bahnstadt & Halle02 (巴恩斯塔特被动房新城与Halle02文化中心)",
       "name_fr": "Bahnstadt & Halle02 (Écoquartier & Espace culturel Halle02)",
       "name_de": "Bahnstadt & Halle02",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Bahnstadt & Halle02",
+      "desc_nl": "World's largest zero-emission Passive House urban redevelopment district, featuring the transformed Halle02 industrial cultural space.",
+      "tip_nl": "🌱 A must-visit for modern architecture and sustainability fans! Halle02 hosts night markets, flea markets, concerts, and street food festivals on weekends.",
+      "price_nl": "Free District Walk"
     },
     {
       "id": "hd_35",
@@ -1431,7 +1567,11 @@
       "name_zh": "Plöck & Untere Straße (普勒克与昂特雷巷)",
       "name_fr": "Plöck & Untere Straße (Rues pittoresques de la vieille ville)",
       "name_de": "Plöck & Untere Straße",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Plöck & Untere Straße",
+      "desc_nl": "Charming parallel side streets in the Old Town packed with student pubs, independent boutiques, secondhand bookstores, and cozy cafes.",
+      "tip_nl": "🍺 Untere Straße comes alive at night with legendary student bars like 'Destille'! Plöck is great for daytime bike rides and quiet secondhand bookstore browsing.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_36",
@@ -1473,7 +1613,11 @@
       "name_de": "Schloss Schwetzingen & Schlossgarten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/330px-Schwetzingen_BW_2014-07-22_16-43-37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/330px-Schwetzingen_BW_2014-07-22_16-43-37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Schloss Schwetzingen & Schlossgarten",
+      "desc_nl": "Palatine Prince-Electors' summer residence featuring a magnificent 72-hectare garden combining French Baroque and English landscape styles with a Red Mosque.",
+      "tip_nl": "🌸 In April/May, the Japanese Cherry Blossom Garden (Kirschgarten) inside the park turns into a pink sea! Don't miss the Red Mosque (Rote Moschee) water reflection.",
+      "price_nl": "Garden Entry: €7 / Palace Tour Combo: €11"
     },
     {
       "id": "hd_37",
@@ -1515,7 +1659,11 @@
       "name_de": "Speyerer Dom (Kaiserdom zu Speyer)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Speyer---Cathedral---South-View---%28Gentry%29.jpg/330px-Speyer---Cathedral---South-View---%28Gentry%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Speyer---Cathedral---South-View---%28Gentry%29.jpg/330px-Speyer---Cathedral---South-View---%28Gentry%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Speyerer Dom",
+      "desc_nl": "UNESCO World Heritage Site founded in 1030, the world's largest surviving Romanesque church, housing the tombs of 8 German emperors.",
+      "tip_nl": "⛪ Cathedral entry is FREE. The €8 ticket gains access to the magnificent Romanesque Crypt and the 60m southwest tower with views over the Rhine Valley. Dress respectfully.",
+      "price_nl": "Nave Free / Crypt & Tower: €8"
     },
     {
       "id": "hd_38",
@@ -1557,7 +1705,11 @@
       "name_de": "Technik Museum Speyer",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg/330px-Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg/330px-Boeing_747_%C3%BCber_Liller_Halle_%2837024522593%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Technik Museum Speyer",
+      "desc_nl": "World-class technology museum featuring a climbable Boeing 747 mounted on a 20m pole, Soviet Buran space shuttle, U-boat submarine, and IMAX Dome.",
+      "tip_nl": "✈️ You can walk onto the wing of the jumbo jet 20 meters in the air and slide down a giant emergency exit slide! Plan at least 3–4 hours for a full visit.",
+      "price_nl": "Entry: €24 (Kids €19)"
     },
     {
       "id": "hd_39",
@@ -1599,7 +1751,11 @@
       "name_de": "Technik Museum Sinsheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Auto-_und_Technik_Museum_Sinsheim.JPG/330px-Auto-_und_Technik_Museum_Sinsheim.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Auto-_und_Technik_Museum_Sinsheim.JPG/330px-Auto-_und_Technik_Museum_Sinsheim.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Technik Museum Sinsheim",
+      "desc_nl": "The only museum in the world displaying both supersonic passenger jets—Concorde and Tupolev Tu-144—side-by-side and fully accessible.",
+      "tip_nl": "🚀 Climb the steep spiral stairs onto the roof to board both Concorde and Tu-144 cockpits angled high in the sky! Also features 300+ classic sports cars (Ferrari, Formula 1).",
+      "price_nl": "Entry: €24 (Kids €19)"
     },
     {
       "id": "hd_40",
@@ -1641,7 +1797,11 @@
       "name_de": "Barockschloss Mannheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SchlossEhrenhof_2017.jpg/330px-SchlossEhrenhof_2017.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SchlossEhrenhof_2017.jpg/330px-SchlossEhrenhof_2017.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Barockschloss Mannheim",
+      "desc_nl": "One of Europe's largest Baroque palace complexes (second only to Versailles), featuring 500+ rooms and the grand Knights' Hall (Rittersaal).",
+      "tip_nl": "🏰 Check out the Rittersaal (Knights' Hall) and the restored Imperial Apartments. The vast forecourt (Ehrenhof) is open to walk around freely.",
+      "price_nl": "Entry: €9.50 (Students €4.80)"
     },
     {
       "id": "hd_41",
@@ -1681,7 +1841,11 @@
       "name_zh": "Wasserturm & Friedrichsplatz (曼海姆新艺术给水塔与弗里德里希广场)",
       "name_fr": "Wasserturm & Friedrichsplatz (Château d'eau et Place Friedrich)",
       "name_de": "Wasserturm & Friedrichsplatz",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Wasserturm & Friedrichsplatz",
+      "desc_nl": "Iconic 60m Art Nouveau water tower built in 1889, surrounded by one of Europe's most magnificent Art Nouveau plazas with fountains and rose gardens.",
+      "tip_nl": " fountains and water shows dance in front of the illuminated tower! The Christmas Market here in winter is enchanting.",
+      "price_nl": "Free Access"
     },
     {
       "id": "hd_42",
@@ -1723,7 +1887,11 @@
       "name_de": "Luisenpark Mannheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mannheim_Luisenpark_Haupteingang_20120316.jpg/330px-Mannheim_Luisenpark_Haupteingang_20120316.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mannheim_Luisenpark_Haupteingang_20120316.jpg/330px-Mannheim_Luisenpark_Haupteingang_20120316.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Luisenpark Mannheim",
+      "desc_nl": "Sprawling 41-hectare park featuring Europe's largest authentic Chinese garden & tea house, underwater world, free-roaming storks, and Gondoletta boats.",
+      "tip_nl": "🛶 Ride the underwater-towed 'Gondoletta' boats around the Kutzerweiher lake for an unforgettable experience! Drink jasmine tea in the authentic Chinese Tea House.",
+      "price_nl": "Park Entry: €8.50 (Kids €4)"
     },
     {
       "id": "hd_43",
@@ -1763,7 +1931,11 @@
       "name_zh": "Vierburgenstadt Neckarsteinach (内卡施泰纳赫四城之镇)",
       "name_fr": "Vierburgenstadt Neckarsteinach (Ville des Quatre Châteaux)",
       "name_de": "Vierburgenstadt Neckarsteinach",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Vierburgenstadt Neckarsteinach",
+      "desc_nl": "Charming town 15km east of Heidelberg famous for its four medieval castles lined up along the forested Neckar Valley ridge.",
+      "tip_nl": "🥾 Hike the 5km 'Vierburgen-Weg' trail connecting all 4 castles! The ruin of Hinterburg allows climbing up the stone keep tower for free panoramic valley views.",
+      "price_nl": "Free Hike Access"
     },
     {
       "id": "hd_44",
@@ -1803,7 +1975,11 @@
       "name_zh": "Burg Dilsberg (迪尔斯贝格山顶堡垒村)",
       "name_fr": "Burg Dilsberg (Forteresse de Dilsberg)",
       "name_de": "Burg Dilsberg",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Burg Dilsberg",
+      "desc_nl": "Walled hilltop medieval fortress village perching 288m above a sharp bend of the Neckar River, featuring a climbable keep and underground escape tunnel.",
+      "tip_nl": "🏰 Pay €2 to climb the 16m high castle wall walk and enter the 78-meter subterranean escape tunnel (Brunnenstollen)! Incredible 360° river loop panorama.",
+      "price_nl": "Village Free / Castle Tower & Tunnel: €2"
     },
     {
       "id": "hd_45",
@@ -1845,7 +2021,11 @@
       "name_de": "Burg Hirschhorn",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/330px-Burg_Hirschhorn.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/330px-Burg_Hirschhorn.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Burg Hirschhorn",
+      "desc_nl": "Perched above a dramatic hairpin bend of the Neckar River, known as the 'Pearl of the Neckar Valley', featuring a castle hotel and panoramic tower.",
+      "tip_nl": "📸 Climb the 26m Bergfried keep tower for FREE for the spectacular view of the river's 180-degree hairpin turn below. Enjoy coffee on the castle terrace!",
+      "price_nl": "Free Courtyard & Tower Access"
     },
     {
       "id": "hd_46",
@@ -1887,7 +2067,11 @@
       "name_de": "Burg Guttenberg & Deutsche Greifenwarte",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/330px-Guttenberg_Bergfried_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/330px-Guttenberg_Bergfried_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Burg Guttenberg & Deutsche Greifenwarte",
+      "desc_nl": "An undamaged 12th-century medieval castle never destroyed in wars, housing a chivalry museum and Germany's renowned raptor research & flight demonstration center.",
+      "tip_nl": "🦅 Spectacular flight shows featuring eagles and vultures soaring over the castle battlements take place daily at 11:00 AM and 15:00 PM (March to November).",
+      "price_nl": "Combo Ticket: €13.50 (Kids €8.50)"
     },
     {
       "id": "hd_47",
@@ -1929,7 +2113,11 @@
       "name_de": "Ladenburg (Altstadt & Dr. Carl Benz Haus)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DEU_Ladenburg_COA.svg/langde-330px-DEU_Ladenburg_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DEU_Ladenburg_COA.svg/langde-330px-DEU_Ladenburg_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Ladenburg",
+      "desc_nl": "Charming ancient Roman town with timber-framed houses, home to the historic residence, first garage, and Automuseum of Mercedes-Benz founder Carl Benz.",
+      "tip_nl": "🚗 Automobile history fans must visit the 'Automuseum Dr. Carl Benz' inside the historic C. Benz Söhne factory hall to see historic Benz motorcars! Easily reached by S-Bahn from Heidelberg.",
+      "price_nl": "Town Free / Benz Museum: €6"
     },
     {
       "id": "hd_48",
@@ -1971,7 +2159,11 @@
       "name_de": "Hockenheimring Baden-Württemberg",
       "image": "https://upload.wikimedia.org/wikipedia/de/thumb/e/e7/Hockenheimring_Logo.svg/langde-330px-Hockenheimring_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/de/thumb/e/e7/Hockenheimring_Logo.svg/langde-330px-Hockenheimring_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Hockenheimring Baden-Württemberg",
+      "desc_nl": "Legendary international motor racing circuit home to the German Formula 1 Grand Prix and DTM, featuring guided track tours and a Motor Sport Museum.",
+      "tip_nl": "🏎️ Book an Insider Tour (€15) to stand on the winner's podium, visit the race control center, and walk the famous South Grandstand (Motodrom)! Tourist driving days (Touristenfahrten) allow driving your own car on the track.",
+      "price_nl": "Track Tour: €15 / Museum: €8"
     },
     {
       "id": "hd_49",
@@ -2011,7 +2203,11 @@
       "name_zh": "Holiday Park Germany (哈斯洛赫假日主题乐园)",
       "name_fr": "Holiday Park Germany (Parc d'attractions)",
       "name_de": "Holiday Park Germany",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Holiday Park Germany",
+      "desc_nl": "Major amusement park home to the award-winning 'Expedition GeForce' megacoaster, Majaland children's area, and indoor water attractions.",
+      "tip_nl": "🎢 Coaster enthusiasts must ride 'Expedition GeForce' (1.3 km long, 82-degree drop, up to 120 km/h)! Buy dated tickets online at least 3 days in advance for big discounts.",
+      "price_nl": "1-Day Pass: €48.50 (Kids €43.50)"
     },
     {
       "id": "hd_50",
@@ -2053,7 +2249,11 @@
       "name_de": "Thermen & Badewelt Sinsheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Thermen_%26_Badewelt_Sinsheim_Panorama.jpg/330px-Thermen_%26_Badewelt_Sinsheim_Panorama.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Thermen_%26_Badewelt_Sinsheim_Panorama.jpg/330px-Thermen_%26_Badewelt_Sinsheim_Panorama.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Thermen & Badewelt Sinsheim",
+      "desc_nl": "Luxury tropical thermal spa resort featuring 400+ real palm trees, turquoise warm mineral pools, swim-up cocktail bars, and 11 themed saunas.",
+      "tip_nl": "🍹 Age restriction: 'Palmenparadies' is adults-only (16+) except on Family Saturdays! Swim up to the pool bar for a tropical cocktail in 34°C thermal water under a glass dome.",
+      "price_nl": "Day Pass: €38–€48"
     }
   ]
 }

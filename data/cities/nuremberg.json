@@ -44,7 +44,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/N%C3%BCrnberg_Burg_ArM.jpg/330px-N%C3%BCrnberg_Burg_ArM.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/N%C3%BCrnberg_Burg_ArM.jpg/330px-N%C3%BCrnberg_Burg_ArM.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "price": "Castle & Tower Combo: €10"
+      "price": "Castle & Tower Combo: €10",
+      "name_nl": "Kaiserburg Nürnberg",
+      "desc_nl": "Formidable sandstone fortress perched on a rocky ridge overlooking Nuremberg, serving as the official residence for all Holy Roman Emperors between 1050 and 1571.",
+      "tip_nl": "🏰 Climb the 113 steps of the Sinwell Tower (Sinwellturm) for the ultimate 360-degree panoramic view over Nuremberg's red-tiled roofs; live well-depth demonstrations in the Deep Well house run every 30 minutes.",
+      "price_nl": "Castle & Sinwell Tower Combo: €10"
     },
     {
       "id": "nu_2",
@@ -84,7 +88,11 @@
       "name_zh": "Hauptmarkt & Christkindlesmarkt (主市场广场与圣诞童集市)",
       "name_fr": "Hauptmarkt & Christkindlesmarkt (Grand-Place et Marché de Noël)",
       "name_de": "Hauptmarkt & Christkindlesmarkt",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Hauptmarkt & Christkindlesmarkt",
+      "desc_nl": "Central cobblestone market square in Nuremberg's Old Town, hosting daily farmers' markets since the Middle Ages and world-renowned Christkindlesmarkt during Advent.",
+      "tip_nl": "🎄 During December, visit the Christkindlesmarkt at dusk (around 16:30) when the red-and-white wooden stalls light up; sample original Nürnberger Rostbratwurst served 3-in-a-bun ('Drei im Weckla') and hot Glühwein in a souvenir mug.",
+      "price_nl": "Market Access: Free"
     },
     {
       "id": "nu_3",
@@ -126,7 +134,11 @@
       "name_de": "Schöner Brunnen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nuernberg-schoener-Brunnen-gp.jpg/330px-Nuernberg-schoener-Brunnen-gp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nuernberg-schoener-Brunnen-gp.jpg/330px-Nuernberg-schoener-Brunnen-gp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Schöner Brunnen",
+      "desc_nl": "Ornate 19-meter-high 14th-century Gothic spire fountain on the edge of Hauptmarkt, featuring 40 gilded limestone figures representing the Holy Roman Empire's worldview.",
+      "tip_nl": "💍 Find the seamless brass ring (Messingring) embedded in the iron fence facing north; spin it three times clockwise to bring good luck according to local Nuremberg legend.",
+      "price_nl": "Free Access"
     },
     {
       "id": "nu_4",
@@ -166,7 +178,11 @@
       "name_zh": "Frauenkirche Nürnberg (纽伦堡圣母教堂)",
       "name_fr": "Frauenkirche Nürnberg (Église Notre-Dame de Núremberg)",
       "name_de": "Frauenkirche Nürnberg",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Frauenkirche Nürnberg",
+      "desc_nl": "Monumental 14th-century Brick Gothic parish church built by Emperor Charles IV, standing proudly on the eastern side of Nuremberg's Hauptmarkt.",
+      "tip_nl": "⏰ Stand directly in front of the main porch at 12:00 noon sharp to watch the mechanical clock show 'Männleinlaufen', where seven Elector figures bow to Emperor Charles IV.",
+      "price_nl": "Church Access Free / Organ Concerts & Tower: €3.50"
     },
     {
       "id": "nu_5",
@@ -206,7 +222,11 @@
       "name_zh": "St. Lorenz Kirche (圣劳伦茨教堂)",
       "name_fr": "St. Lorenz Kirche (Église Saint-Laurent de Núremberg)",
       "name_de": "St. Lorenz Kirche (St. Lorenz Kirche Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "St. Lorenz Kirche",
+      "desc_nl": "Masterpiece of High and Late Gothic architecture south of the Pegnitz River, featuring iconic twin 80-meter spires and a magnificent 9-meter rose window.",
+      "tip_nl": "⛪ Look up into the choir vaulted ceiling to view Veit Stoß's 1518 wood carving masterpiece 'The Annunciation' (Englischer Gruß) suspended in mid-air.",
+      "price_nl": "Church Access Free / Small Donation €2 Suggested"
     },
     {
       "id": "nu_6",
@@ -246,7 +266,11 @@
       "name_zh": "St. Sebaldus Kirche (圣塞巴尔德教堂)",
       "name_fr": "St. Sebaldus Kirche (Église Saint-Sebald de Núremberg)",
       "name_de": "St. Sebaldus Kirche (St. Sebaldus Kirche Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "St. Sebaldus Kirche",
+      "desc_nl": "Nuremberg's oldest parish church dating to 1225, named after Saint Sebaldus and showcasing the transition from Romanesque to Gothic architecture.",
+      "tip_nl": "⚜️ Inspect the monumental bronze Sebaldus Tomb (Sebaldusgrab) created by Peter Vischer and his sons in 1519, adorned with hundreds of miniature fantasy bronze figures.",
+      "price_nl": "Church Access Free / Small Donation Suggested"
     },
     {
       "id": "nu_7",
@@ -288,7 +312,11 @@
       "name_de": "Germanisches Nationalmuseum (GNM Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Germanisches_Nationalmuseum_Logo.svg/langde-330px-Germanisches_Nationalmuseum_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Germanisches_Nationalmuseum_Logo.svg/langde-330px-Germanisches_Nationalmuseum_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Germanisches Nationalmuseum",
+      "desc_nl": "Germany's largest museum of cultural history, holding over 1.3 million artifacts ranging from prehistoric items to Dürer paintings and Martin Behaim's 1492 terrestrial globe.",
+      "tip_nl": "🌍 Don't miss Martin Behaim's 1492 'Erdapfel' (Earth Apple)—the oldest surviving globe in human history created right before Columbus's return; free admission every Wednesday after 17:30.",
+      "price_nl": "Adults: €10 / Reduced: €6 / Free Wednesday 17:30–20:30"
     },
     {
       "id": "nu_8",
@@ -330,7 +358,11 @@
       "name_de": "Albrecht-Dürer-Haus (Albrecht-Dürer-Haus Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-D%C3%BCrer-Haus_-_Tierg%C3%A4rtnerplatz_-_Nuremberg%2C_Germany_-_DSC02033.jpg/330px-Albrecht-D%C3%BCrer-Haus_-_Tierg%C3%A4rtnerplatz_-_Nuremberg%2C_Germany_-_DSC02033.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-D%C3%BCrer-Haus_-_Tierg%C3%A4rtnerplatz_-_Nuremberg%2C_Germany_-_DSC02033.jpg/330px-Albrecht-D%C3%BCrer-Haus_-_Tierg%C3%A4rtnerplatz_-_Nuremberg%2C_Germany_-_DSC02033.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Albrecht-Dürer-Haus",
+      "desc_nl": "Historic 15th-century timber-framed house near Kaiserburg where Northern Renaissance master Albrecht Dürer lived and worked from 1509 until his death in 1528.",
+      "tip_nl": "🎨 Watch a live historical woodcut and copperplate printing demonstration in the 3rd-floor reconstructed workshop; audio guides narrated by 'Agnes Dürer' (Dürer's wife) are included in ticket.",
+      "price_nl": "Adults: €7.50 / Reduced: €2.50 / Under 18 Free"
     },
     {
       "id": "nu_9",
@@ -372,7 +404,11 @@
       "name_de": "Weißgerbergasse (Weißgerbergasse Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nuremberg_Wei%C3%9Fgerbergasse.jpg/330px-Nuremberg_Wei%C3%9Fgerbergasse.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nuremberg_Wei%C3%9Fgerbergasse.jpg/330px-Nuremberg_Wei%C3%9Fgerbergasse.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Weißgerbergasse",
+      "desc_nl": "Picturesque medieval street lined with 20 meticulously restored timber-framed (Fachwerk) artisan houses that survived the World War II bombings of Nuremberg.",
+      "tip_nl": "📸 Best photographed in the early morning around 08:30 for soft sunlight illuminating the wooden facades without crowds; stop at Café Bergbrand for artisanal specialty coffee.",
+      "price_nl": "Street Walk: Free"
     },
     {
       "id": "nu_10",
@@ -412,7 +448,11 @@
       "name_zh": "Henkersteg & Weinstadel (刽子手廊桥与老葡萄酒仓库)",
       "name_fr": "Henkersteg & Weinstadel (Passerelle du Bourreau et Depot du Vin)",
       "name_de": "Henkersteg & Weinstadel (Henkersteg & Weinstadel Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Henkersteg & Weinstadel",
+      "desc_nl": "Iconic riverside ensemble over the Pegnitz River, featuring a covered 1457 wooden executioner's footbridge (Henkersteg) adjacent to the magnificent 1448 timber-framed Weinstadel.",
+      "tip_nl": "📸 Stand on the Maxbrücke stone bridge directly to the west for the quintessential postcard photo framing the wooden bridge, water reflection, and Weinstadel timber framing.",
+      "price_nl": "Bridge & Area Walk: Free"
     },
     {
       "id": "nu_11",
@@ -454,7 +494,11 @@
       "name_de": "Heilig-Geist-Spital (Heilig-Geist-Spital Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heilig-Geist-Spital_%28N%C3%BCrnberg%29.jpg/330px-Heilig-Geist-Spital_%28N%C3%BCrnberg%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heilig-Geist-Spital_%28N%C3%BCrnberg%29.jpg/330px-Heilig-Geist-Spital_%28N%C3%BCrnberg%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Heilig-Geist-Spital",
+      "desc_nl": "Historic 1339 hospital built directly over the Pegnitz River on double stone arches, once housing the Imperial Regalia of the Holy Roman Empire.",
+      "tip_nl": "🍷 Dine inside the historic courtyard restaurant 'Heilig-Geist-Spital' to enjoy traditional Franconian carp (Karpfen) or Sauerbraten in the river-facing dining room.",
+      "price_nl": "Courtyard & View Free / Restaurant Dining Variable"
     },
     {
       "id": "nu_12",
@@ -497,7 +541,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Documentation_center_entrance_nuernberg_may2011.jpg/330px-Documentation_center_entrance_nuernberg_may2011.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Documentation_center_entrance_nuernberg_may2011.jpg/330px-Documentation_center_entrance_nuernberg_may2011.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "price": "Entry: €7.50"
+      "price": "Entry: €7.50",
+      "name_nl": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld",
+      "desc_nl": "Vast 11-square-kilometer former Nazi Party Rally Grounds housing the Dokumentationszentrum inside the unfinished Congress Hall, providing sobering critical history on Third Reich propaganda.",
+      "tip_nl": "🏛️ Take Tram 8 to Doku-Zentrum; walk 15 minutes across the Great Road (Große Straße) to stand directly on Albert Speer's Zeppelinfeld grandstand (Zeppelintribüne) where rally speeches were filmed.",
+      "price_nl": "Entry: €7.50"
     },
     {
       "id": "nu_13",
@@ -539,7 +587,11 @@
       "name_de": "Memorium Nürnberger Prozesse (Saal 600)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/N%C3%BCrnberger_Justizpalast_20170601_165648-EFFECTS.jpg/330px-N%C3%BCrnberger_Justizpalast_20170601_165648-EFFECTS.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/N%C3%BCrnberger_Justizpalast_20170601_165648-EFFECTS.jpg/330px-N%C3%BCrnberger_Justizpalast_20170601_165648-EFFECTS.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Memorium Nürnberger Prozesse",
+      "desc_nl": "Historic Courtroom 600 in the Nuremberg Palace of Justice where top Nazi leaders were tried by the International Military Tribunal between 1945 and 1946, birthing modern international criminal law.",
+      "tip_nl": "⚖️ Courtroom 600 is still an active court today; visit on weekends or check the official site schedule in advance to guarantee access inside the actual courtroom.",
+      "price_nl": "Adults: €6 / Reduced: €1.50 (Audio guide included)"
     },
     {
       "id": "nu_14",
@@ -581,7 +633,11 @@
       "name_de": "Spielzeugmuseum Nürnberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/22-06-26_Spielzeugmuseum_N%C3%BCrnberg.jpg/330px-22-06-26_Spielzeugmuseum_N%C3%BCrnberg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/22-06-26_Spielzeugmuseum_N%C3%BCrnberg.jpg/330px-22-06-26_Spielzeugmuseum_N%C3%BCrnberg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Spielzeugmuseum Nürnberg",
+      "desc_nl": "World-famous toy museum set in a 1517 Renaissance mansion, documenting Nuremberg's 600-year history as Europe's toy capital from medieval dolls to tin toys and LEGO.",
+      "tip_nl": "🧸 Top floor features an interactive hands-on play area for children and a giant vintage model train layout; outdoor garden play area with wooden toys opens in summer.",
+      "price_nl": "Adults: €7.50 / Children: €2.50 / Family: €16"
     },
     {
       "id": "nu_15",
@@ -623,7 +679,11 @@
       "name_de": "DB Museum (DB Museum Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/N%C3%BCrnberg_-_Verkehrsmuseum.jpg/330px-N%C3%BCrnberg_-_Verkehrsmuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/N%C3%BCrnberg_-_Verkehrsmuseum.jpg/330px-N%C3%BCrnberg_-_Verkehrsmuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "DB Museum",
+      "desc_nl": "The world's oldest railway museum (est. 1899), featuring historic steam locomotives, King Ludwig II's ultra-luxurious royal train carriages, and high-speed ICE history.",
+      "tip_nl": "🚂 Walk inside King Ludwig II's gold-leaf royal train hall (Königswagen) to see the gilded interior; head to the 2nd-floor 'KIBALA' interactive railway play zone designed specifically for kids.",
+      "price_nl": "Adults: €9 / Reduced: €5 / Family: €18"
     },
     {
       "id": "nu_16",
@@ -665,7 +725,11 @@
       "name_de": "Museum für Kommunikation Nürnberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/111021_MKN_Eingangsbereich.jpg/330px-111021_MKN_Eingangsbereich.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/111021_MKN_Eingangsbereich.jpg/330px-111021_MKN_Eingangsbereich.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Museum für Kommunikation Nürnberg",
+      "desc_nl": "Interactive museum housed within the DB Museum complex, exploring human communication history from quill letters and telegraphs to rotary telephones, radio, and modern digital media.",
+      "tip_nl": "☎️ Try operating the working vintage rotary telephone switchboard or speaking through pneumatic tube messaging systems; combined ticket automatically includes entry to the DB Museum.",
+      "price_nl": "Included in DB Museum Ticket (€9)"
     },
     {
       "id": "nu_17",
@@ -707,7 +771,11 @@
       "name_de": "Historische Felsengänge (Historische Felsengänge Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nuernberg_Felsengaenge_003.JPG/330px-Nuernberg_Felsengaenge_003.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nuernberg_Felsengaenge_003.JPG/330px-Nuernberg_Felsengaenge_003.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Historische Felsengänge",
+      "desc_nl": "Multi-story labyrinth of medieval cellars carved directly into the red sandstone bedrock beneath Castle Hill since 1380, historically used for cold beer fermentation and WWII air-raid shelters.",
+      "tip_nl": "🍺 Wear a jacket (underground temperature is a constant 8°C year-round); book the 'Red Beer Guided Tour' which concludes with a cold glass of unfiltered Hausbrauerei Altstadthof Rotbier.",
+      "price_nl": "Guided Tour: €11 / Reduced: €9.50 (Online booking mandatory)"
     },
     {
       "id": "nu_18",
@@ -749,7 +817,11 @@
       "name_de": "Historischer Kunstbunker (Historischer Kunstbunker Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/330px-Kunstbunker.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/330px-Kunstbunker.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Historischer Kunstbunker",
+      "desc_nl": "Subterranean WWII bunker 24 meters deep in the rock of Castle Hill, built in 1940 to safeguard priceless art treasures (including Dürer paintings, Imperial Regalia, and St. Lorenz rose window).",
+      "tip_nl": "🛡️ Features original heating, air-filtration, and moisture-control technology engineered in 1940 to maintain stable temperature for oil paintings; 75-minute guided tours run daily.",
+      "price_nl": "Guided Tour: €9.50 / Reduced: €8.50"
     },
     {
       "id": "nu_19",
@@ -789,7 +861,11 @@
       "name_zh": "Mittelalterliche Lochgefängnisse (中世地牢与酷刑室)",
       "name_fr": "Mittelalterliche Lochgefängnisse (Oubliettes Médiévales)",
       "name_de": "Mittelalterliche Lochgefängnisse (Mittelalterliche Lochgefängnisse Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Mittelalterliche Lochgefängnisse",
+      "desc_nl": "Chilling 14th-century underground prison cells located beneath Nuremberg's Old City Hall (Altes Rathaus), preserving original interrogation rooms and medieval torture devices.",
+      "tip_nl": "🕯️ Not recommended for young children or claustrophobic visitors due to narrow unlit stone corridors and dark history; access only via 30-minute guided tours.",
+      "price_nl": "Guided Tour: €5 / Reduced: €2.50"
     },
     {
       "id": "nu_20",
@@ -831,7 +907,11 @@
       "name_de": "Deutsches Museum Nürnberg - Das Zukunftsmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2024-06-08_Zukunftsmuseum_N%C3%BCrnberg_au%C3%9Fen_09.jpg/330px-2024-06-08_Zukunftsmuseum_N%C3%BCrnberg_au%C3%9Fen_09.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2024-06-08_Zukunftsmuseum_N%C3%BCrnberg_au%C3%9Fen_09.jpg/330px-2024-06-08_Zukunftsmuseum_N%C3%BCrnberg_au%C3%9Fen_09.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Deutsches Museum Nürnberg - Das Zukunftsmuseum",
+      "desc_nl": "Ultra-modern branch of Munich's Deutsches Museum opened in 2021 on the Pegnitz bank, featuring interactive exhibits on AI, humanoid robotics, space travel, and urban futures.",
+      "tip_nl": "🤖 Interact with the conversational AI robot 'Ameca' and test-fly a future flying-taxi VR simulator; buy tickets online to skip weekend queues.",
+      "price_nl": "Adults: €9.50 / Reduced: €6 / Family: €20"
     },
     {
       "id": "nu_21",
@@ -873,7 +953,11 @@
       "name_de": "Neues Museum Nürnberg (Staatliches Museum für Kunst und Design)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Au%C3%9Fenansicht_des_Museumsgeb%C3%A4udes_%282021%29.jpg/330px-Au%C3%9Fenansicht_des_Museumsgeb%C3%A4udes_%282021%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Au%C3%9Fenansicht_des_Museumsgeb%C3%A4udes_%282021%29.jpg/330px-Au%C3%9Fenansicht_des_Museumsgeb%C3%A4udes_%282021%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Neues Museum Nürnberg",
+      "desc_nl": "Striking contemporary museum featuring Volker Staab's 100-meter curved glass facade, housing State collections of international modern art and design from 1945 to the present.",
+      "tip_nl": "🎨 Walk up the iconic spiral staircase inside the glass atrium for futuristic architecture photography; admission is only €1 on Sundays.",
+      "price_nl": "Adults: €7 / Reduced: €6 / Sundays Only €1"
     },
     {
       "id": "nu_22",
@@ -913,7 +997,11 @@
       "name_zh": "Stadtmuseum im Fembo-Haus (芬波之家城市历史博物馆)",
       "name_fr": "Stadtmuseum im Fembo-Haus (Musée de la Ville - Maison Fembo)",
       "name_de": "Stadtmuseum im Fembo-Haus (Stadtmuseum im Fembo-Haus Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Stadtmuseum im Fembo-Haus",
+      "desc_nl": "Nuremberg's only surviving Late Renaissance merchant palace (1596), displaying 950 years of city history across 26 rooms with elaborate carved wooden ceilings.",
+      "tip_nl": "🏛️ Listen to the 20-minute multi-language acoustic soundscape show 'Crown - Imperial City - Metropolis' inside the 2nd-floor ballroom featuring a detailed 1588 city scale model.",
+      "price_nl": "Adults: €7.50 / Reduced: €2.50 / Under 18 Free"
     },
     {
       "id": "nu_23",
@@ -955,7 +1043,11 @@
       "name_de": "Handwerkerhof Nürnberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Handwerkerhof_an_Weihnachten.jpg/330px-Handwerkerhof_an_Weihnachten.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Handwerkerhof_an_Weihnachten.jpg/330px-Handwerkerhof_an_Weihnachten.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Handwerkerhof Nürnberg",
+      "desc_nl": "Charming medieval craft village enclosed within the historic city walls and Frauentorturm tower, featuring traditional workshops of glassblowers, potters, pewterers, and rustic taverns.",
+      "tip_nl": "🥨 Located right across from the Central Station (Hauptbahnhof) main exit; watch glassblowers work in real time, then grab fresh Lebkuchen or roasted almonds from Wicklein shop.",
+      "price_nl": "Village Walk: Free"
     },
     {
       "id": "nu_24",
@@ -997,7 +1089,11 @@
       "name_de": "Straße der Menschenrechte (Straße der Menschenrechte Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Entrance_to_the_Way_of_Human_Rights.jpg/330px-Entrance_to_the_Way_of_Human_Rights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Entrance_to_the_Way_of_Human_Rights.jpg/330px-Entrance_to_the_Way_of_Human_Rights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Straße der Menschenrechte",
+      "desc_nl": "Monumental outdoor architectural sculpture by Dani Karavan in front of GNM, consisting of 27 white concrete pillars engraved with articles of the Universal Declaration of Human Rights.",
+      "tip_nl": "🕊️ Walk between the pillars to read Article 1 engraved in German, English, and various world languages; the installation symbolizes Nuremberg's shift from Nazi rally city to City of Peace and Human Rights.",
+      "price_nl": "Outdoor Walk: Free"
     },
     {
       "id": "nu_25",
@@ -1039,7 +1135,11 @@
       "name_de": "Ehekarussell (Hans-Sachs-Brunnen)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/330px-Ehekarussel01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/330px-Ehekarussel01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Ehekarussell",
+      "desc_nl": "Dramatic 1984 bronze fountain by Jürgen Weber outside Ludwigsplatz, depicting the six stages of married life inspired by Nuremberg poet Hans Sachs's poem 'Bitter-Sweet Married Life'.",
+      "tip_nl": "📸 Walk completely around the circular pool to spot the exaggerated bronze figures—from young lovers sharing cake to skeletonized arguments; excellent location near major shopping streets.",
+      "price_nl": "Free Access"
     },
     {
       "id": "nu_26",
@@ -1079,7 +1179,11 @@
       "name_zh": "Kettensteg & Maxbrücke (铁链吊桥与马克斯石桥)",
       "name_fr": "Kettensteg & Maxbrücke (Passerelle des Chaînes et Pont Max)",
       "name_de": "Kettensteg & Maxbrücke (Kettensteg & Maxbrücke Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Kettensteg & Maxbrücke",
+      "desc_nl": "Europe's oldest surviving iron suspension footbridge (Kettensteg, 1824) spanning 68 meters across the Pegnitz, adjacent to Nuremberg's oldest stone bridge (Maxbrücke, 1457).",
+      "tip_nl": "🌉 Cross the swaying iron suspension bridge on foot to experience 19th-century industrial engineering; popular evening sunset relaxation spot for locals at the riverside beer gardens.",
+      "price_nl": "Bridge Walk: Free"
     },
     {
       "id": "nu_27",
@@ -1119,7 +1223,11 @@
       "name_zh": "Stadtmauer Nürnberg & Tore (纽伦堡中世纪城墙与城门塔楼群)",
       "name_fr": "Stadtmauer Nürnberg & Tore (Remparts et Portes de Núremberg)",
       "name_de": "Stadtmauer Nürnberg & Tore",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Stadtmauer Nürnberg & Tore",
+      "desc_nl": "One of Europe's most formidable surviving medieval fortifications, encircling the Old Town with 4 kilometers of stone walls, 67 watchtowers, and four massive round gate towers.",
+      "tip_nl": "🚶 Walk the green dry-moat garden trail (Stadtgraben) below the walls; for the best photos of the massive round tower gates, visit Spittlertorturm or Frauentorturm at sunset.",
+      "price_nl": "Moat & Wall Walk: Free"
     },
     {
       "id": "nu_28",
@@ -1161,7 +1269,11 @@
       "name_de": "Johannisfriedhof (Johannisfriedhof Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Johannisfriedhof_in_N%C3%BCrnberg.jpg/330px-Johannisfriedhof_in_N%C3%BCrnberg.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Johannisfriedhof_in_N%C3%BCrnberg.jpg/330px-Johannisfriedhof_in_N%C3%BCrnberg.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Johannisfriedhof",
+      "desc_nl": "Historic 500-year-old cemetery in St. Johannis district, renowned for its thousands of sandstone grave slabs adorned with bronze coats of arms and hundreds of blooming rose bushes.",
+      "tip_nl": "🌹 Locate Albrecht Dürer's grave (Grave No. 649) near the center chapel; visit in June when the historic rose bushes are in peak bloom creating a serene, fragrant atmosphere.",
+      "price_nl": "Free Access (Respectful Silence Required)"
     },
     {
       "id": "nu_29",
@@ -1201,7 +1313,11 @@
       "name_zh": "Tiergarten Nürnberg & Delphinlagune (纽伦堡自然景观动物园与海豚馆)",
       "name_fr": "Tiergarten Nürnberg & Delphinlagune (Zoo de Núremberg et Lagon des Dauphins)",
       "name_de": "Tiergarten Nürnberg & Delphinlagune",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Tiergarten Nürnberg & Delphinlagune",
+      "desc_nl": "One of Europe's largest landscape zoos covering 67 hectares of sandstone quarries and old oak forests, featuring Southern Germany's only outdoor Dolphin Lagoon and Manatee House.",
+      "tip_nl": "🐬 Check dolphin educational presentations schedule at the outdoor Dolphin Lagoon; ride the miniature steam train 'Adler' that circles the zoo grounds for a fun family break.",
+      "price_nl": "Adults: €18 / Children (4–13): €8.50 / Family: €42"
     },
     {
       "id": "nu_30",
@@ -1243,7 +1359,11 @@
       "name_de": "Nicolaus-Copernicus-Planetarium (Nicolaus-Copernicus-Planetarium Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nuernberg_Planetarium_003.JPG/330px-Nuernberg_Planetarium_003.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nuernberg_Planetarium_003.JPG/330px-Nuernberg_Planetarium_003.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Nicolaus-Copernicus-Planetarium",
+      "desc_nl": "Bavaria's largest fulldome planetarium, featuring a 18-meter projection dome with state-of-the-art Carl Zeiss digital optics for 360-degree cosmic journeys.",
+      "tip_nl": "🌌 Check schedule for live English-subtitled fulldome space shows and laser music performances; easily accessible right next to U-Bahn Plärrer station.",
+      "price_nl": "Adults: €9.50 / Reduced: €6.50"
     },
     {
       "id": "nu_31",
@@ -1283,7 +1403,11 @@
       "name_zh": "Museum Tucherschloss und Hirsvogelsaal (图赫城堡宫殿与希尔施福格尔大厅)",
       "name_fr": "Museum Tucherschloss und Hirsvogelsaal (Château Tucher et Salle Hirsvogel)",
       "name_de": "Museum Tucherschloss und Hirsvogelsaal (Museum Tucherschloss und Hirsvogelsaal Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Museum Tucherschloss und Hirsvogelsaal",
+      "desc_nl": "Exquisite 1542 Renaissance summer residence of the wealthy Tucher merchant dynasty, featuring the opulent Hirsvogelsaal banquet hall with Dürer-school ceiling frescoes.",
+      "tip_nl": "🌿 Stroll the serene Renaissance garden behind the castle; on Sunday afternoons, costumed actors play 'Katharina Tucher' leading historical guided tours.",
+      "price_nl": "Adults: €6 / Reduced: €1.50 / Under 18 Free"
     },
     {
       "id": "nu_32",
@@ -1323,7 +1447,11 @@
       "name_zh": "Bratwursthäusle bei St. Sebald (圣塞巴尔德烤肠屋 / 700年古法炭烤香肠店)",
       "name_fr": "Bratwursthäusle bei St. Sebald (Taverne de Saucisses Saint-Sebald)",
       "name_de": "Bratwursthäusle bei St. Sebald (Bratwursthäusle bei St. Sebald Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Bratwursthäusle bei St. Sebald",
+      "desc_nl": "Historic sausage kitchen since 1313 located next to St. Sebaldus Church, famed for grilling small PGI-protected Nürnberger Rostbratwürste over an open beechwood fire.",
+      "tip_nl": "🌭 Order a tin plate of 6, 8, or 12 sausages served with fresh horseradish (Sahnemeerrettich), sauerkraut, and warm pretzels; pair with a cold Tucher Pilsner.",
+      "price_nl": "6 Sausages with Sauerkraut: €9.80 / Draft Beer (0.5L): €4.80"
     },
     {
       "id": "nu_33",
@@ -1363,7 +1491,11 @@
       "name_zh": "Historische Bratwurstküche \"Zum Gulden Stern\" (金星历史烤肠老店 / 1419年世界最古老香肠餐馆)",
       "name_fr": "Historische Bratwurstküche \"Zum Gulden Stern\" (Plus Ancienne Taverne de Saucisses au Monde)",
       "name_de": "Historische Bratwurstküche \"Zum Gulden Stern\" (Historische Bratwurstküche \"Zum Gulden Stern\" Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Historische Bratwurstküche \"Zum Gulden Stern\"",
+      "desc_nl": "Historic Nuremberg sausage kitchen operating since 1419, grilling marjoram-seasoned sausages over beechwood fires.",
+      "tip_nl": "⭐ Try the 'Saure Zipfel' (sausages simmered gently in an aromatic vinegar, onion, and wine broth) served in a porcelain bowl—a rare regional Franconian delicacy.",
+      "price_nl": "Saure Zipfel (6 pcs): €10.20 / Draft Beer: €4.60"
     },
     {
       "id": "nu_34",
@@ -1403,7 +1535,11 @@
       "name_zh": "Hausbrauerei Altstadthof (阿尔特施塔特霍夫精酿酒厂 / 纽伦堡红啤酒发源地)",
       "name_fr": "Hausbrauerei Altstadthof (Brasserie de Bière Rouge)",
       "name_de": "Hausbrauerei Altstadthof (Hausbrauerei Altstadthof Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Hausbrauerei Altstadthof",
+      "desc_nl": "Craft brewery and organic malt distillery nestled at the foot of Castle Hill, specializing in restoring Nuremberg's historic bottom-fermented Red Beer (Nürnberger Rotbier).",
+      "tip_nl": "🍺 Order a tasting flight of unfiltered organic Rotbier, Schwarzbier, and malt whiskey; enjoy rustic dining in the shadowy courtyard shaded by old trees.",
+      "price_nl": "Unfiltered Rotbier (0.5L): €4.90 / Tasting Flight: €9.50"
     },
     {
       "id": "nu_35",
@@ -1445,7 +1581,11 @@
       "name_de": "Nürnberger Lebkuchen (Wicklein & Haeberlein-Metzger)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lebkuchenscan.jpg/330px-Lebkuchenscan.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lebkuchenscan.jpg/330px-Lebkuchenscan.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Nürnberger Lebkuchen",
+      "desc_nl": "Nuremberg's legendary PGI-protected spiced gingerbread tradition since 1395, crafted with nuts, honey, cinnamon, and cloves by historic bakeries like Haeberlein-Metzger and Wicklein.",
+      "tip_nl": "🎁 Buy the top-tier 'Elisenlebkuchen' (containing at least 25% nuts and zero flour) packaged in collectible embossed tin boxes (Metall-Dosen) at the Hauptmarkt shops.",
+      "price_nl": "Elisenlebkuchen 3-pack: €8.50 / Decorative Tin Box: €18–€35"
     },
     {
       "id": "nu_36",
@@ -1485,7 +1625,11 @@
       "name_zh": "Königstraße & Karolinenstraße (国王街与卡罗琳步行商业街)",
       "name_fr": "Königstraße & Karolinenstraße (Boulevards Piétons Commerçants)",
       "name_de": "Königstraße & Karolinenstraße (Königstraße & Karolinenstraße Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Königstraße & Karolinenstraße",
+      "desc_nl": "Nuremberg's primary pedestrian shopping arteries running from the Central Station north past St. Lorenz Church, lined with major fashion department stores and cafes.",
+      "tip_nl": "🛍️ Great walking strip when arriving by train; Karolinenstraße offers major fashion flagships, while Königstraße features historic stone towers like Nassauer Haus.",
+      "price_nl": "Boulevard Walk: Free"
     },
     {
       "id": "nu_37",
@@ -1527,7 +1671,11 @@
       "name_de": "Breite Gasse (Breite Gasse Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gdansk_kamienica_Szeroka_82-83.jpg/330px-Gdansk_kamienica_Szeroka_82-83.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gdansk_kamienica_Szeroka_82-83.jpg/330px-Gdansk_kamienica_Szeroka_82-83.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Breite Gasse",
+      "desc_nl": "Bustling parallel pedestrian shopping street popular among youth, packed with trendy streetwear boutiques, shoe stores, electronics, and fast-casual dining.",
+      "tip_nl": "👟 Ideal spot for sneakerheads and street fashion shopping; connects directly to the White Tower (Weißer Turm) and Marriage Carousel Fountain.",
+      "price_nl": "Street Access: Free"
     },
     {
       "id": "nu_38",
@@ -1567,7 +1715,11 @@
       "name_zh": "Trödelmarkt (特勒德尔中州小岛 / 跳蚤市场旧址)",
       "name_fr": "Trödelmarkt (Île du Marché aux Puces)",
       "name_de": "Trödelmarkt (Pegnitzinsel)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Trödelmarkt",
+      "desc_nl": "Charming small island in the middle of the Pegnitz River, once a medieval flea market, now housing boutique jewelers, art galleries, and riverside espresso bars.",
+      "tip_nl": "☕ Cross via the Schleifersteg footbridge to enjoy a quiet cappuccino at Café Trödelmarkt while listening to the water rushing over the river weir.",
+      "price_nl": "Island Walk: Free"
     },
     {
       "id": "nu_39",
@@ -1607,7 +1759,11 @@
       "name_zh": "Wöhrder Wiese & Wöhrder See (维尔德草坪公园与维尔德湖)",
       "name_fr": "Wöhrder Wiese & Wöhrder See (Parc et Lac Wöhrder)",
       "name_de": "Wöhrder Wiese & Wöhrder See (Wöhrder Wiese & Wöhrder See Nürnberg)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Wöhrder Wiese & Wöhrder See",
+      "desc_nl": "Expansive green urban parkland and reservoir lake directly east of the Old Town, featuring sandy beaches, beer gardens, sensory water paths, and boat rentals.",
+      "tip_nl": "🏖️ Relax at the sandy 'Norikus-Bucht' beach bay or enjoy a cold beer at Biergarten Wöhrder Wiese; easily reached on foot in 10 minutes from Hauptmarkt.",
+      "price_nl": "Park & Beach Access: Free"
     },
     {
       "id": "nu_40",
@@ -1649,7 +1805,11 @@
       "name_de": "Turm der Sinne (Turm der Sinne Nürnberg)",
       "image": "https://upload.wikimedia.org/wikipedia/de/f/f0/Logo-turmdersinne.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/de/f/f0/Logo-turmdersinne.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Turm der Sinne",
+      "desc_nl": "Intriguing hands-on perception museum inside the historic 14th-century Mohrenturm gate tower, featuring interactive optical illusions and sensory tricks.",
+      "tip_nl": "👁️ Climb the 6 levels of the narrow stone tower to test interactive optical illusion stations at each floor; great rainy-day activity for curious minds.",
+      "price_nl": "Adults: €8 / Reduced: €6 / Family: €20"
     },
     {
       "id": "nu_41",
@@ -1691,7 +1851,11 @@
       "name_de": "Rothenburg ob der Tauber",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/DEU_Rothenburg_ob_der_Tauber_COA.svg/langde-330px-DEU_Rothenburg_ob_der_Tauber_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/DEU_Rothenburg_ob_der_Tauber_COA.svg/langde-330px-DEU_Rothenburg_ob_der_Tauber_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Rothenburg ob der Tauber",
+      "desc_nl": "World-famous Romantic Road medieval jewel 80 km west of Nuremberg, renowned for the iconic Plönlein fork, intact city walls, Käthe Wohlfahrt Christmas Village, and Schneeballen pastries.",
+      "tip_nl": "📸 Photograph Plönlein from Kobolzeller Tor early around 08:00 before tour buses arrive; climb the 220 steps of Town Hall Tower (Rathausturm) for panoramic valley views, and taste a cinnamon 'Schneeball' pastry at Bakery Striffler.",
+      "price_nl": "Town Access Free / Town Hall Tower: €2.50 / Christmas Village Free"
     },
     {
       "id": "nu_42",
@@ -1733,7 +1897,11 @@
       "name_de": "Playmobil FunPark (Playmobil FunPark Zirndorf)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Playmobil_Park.jpeg/330px-Playmobil_Park.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Playmobil_Park.jpeg/330px-Playmobil_Park.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Playmobil FunPark",
+      "desc_nl": "Massive 90,000 m² active family theme park 12 km west of Nuremberg in Zirndorf, bringing Playmobil worlds to life with life-sized pirate ships, knight castles, and Western towns.",
+      "tip_nl": "🏴‍☠️ Pack extra clothes and towels for kids—the park features extensive water play zones (Ark and Water Playground); online dated tickets required in peak summer.",
+      "price_nl": "Day Ticket: €17.50–€19.50 / Under 3 Free"
     },
     {
       "id": "nu_43",
@@ -1773,7 +1941,11 @@
       "name_zh": "Bamberg: Altstadt & Altes Rathaus (班贝格世界遗产老城与老市政厅)",
       "name_fr": "Bamberg: Altstadt & Altes Rathaus (Vieille Ville de Bamberg et Ancien Hôtel de Ville)",
       "name_de": "Bamberg: Altstadt & Altes Rathaus (UNESCO-Weltkulturerbe)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Bamberg: Altstadt & Altes Rathaus",
+      "desc_nl": "UNESCO World Heritage medieval river city 60 km north of Nuremberg, famous for its 1386 Old Town Hall built on an island in the Regnitz River, 'Little Venice' fisherman houses, and Rauchbier.",
+      "tip_nl": "🍺 Order a glass of original beechwood-smoked 'Aecht Schlenkerla Rauchbier' straight from the wooden keg at the historic tavern Schlenkerla in Dominikanerstraße.",
+      "price_nl": "City & Old Town Hall Access Free / Rauchbier (0.5L): €4.60"
     },
     {
       "id": "nu_44",
@@ -1815,7 +1987,11 @@
       "name_de": "Würzburg: Residenz & Hofgarten (UNESCO-Weltkulturerbe)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Residenz_W%C3%BCrzburg%2C_S%C3%BCdfront%2C_1.jpg/330px-Residenz_W%C3%BCrzburg%2C_S%C3%BCdfront%2C_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Residenz_W%C3%BCrzburg%2C_S%C3%BCdfront%2C_1.jpg/330px-Residenz_W%C3%BCrzburg%2C_S%C3%BCdfront%2C_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Würzburg: Residenz & Hofgarten",
+      "desc_nl": "Grand 18th-century Baroque palace 100 km northwest of Nuremberg by Balthasar Neumann, renowned for Giovanni Battista Tiepolo's world-record 677 m² ceiling fresco over the Grand Staircase.",
+      "tip_nl": "🍷 Stroll the free Baroque Hofgarten behind the palace, then walk 15 minutes to the Alte Mainbrücke bridge to buy a glass of Silvaner Franconian wine ('Brückenschoppen') served on the stone bridge.",
+      "price_nl": "Residence Palace: €9 / Gardens: Free Access"
     },
     {
       "id": "nu_45",
@@ -1857,7 +2033,11 @@
       "name_de": "Cadolzburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DEU_Cadolzburg_COA.svg/langde-330px-DEU_Cadolzburg_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DEU_Cadolzburg_COA.svg/langde-330px-DEU_Cadolzburg_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Cadolzburg",
+      "desc_nl": "Formidable 13th-century hilltop castle 20 km west of Nuremberg, former stronghold of the Hohenzollern Burgraves, featuring interactive exhibits on medieval castle life.",
+      "tip_nl": "⚔️ Try on replica medieval steel helmets and chainmail armor in the interactive hands-on hall; easily reachable via RB12 regional train from Nuremberg.",
+      "price_nl": "Adults: €7 / Reduced: €6 / Under 18 Free"
     },
     {
       "id": "nu_46",
@@ -1899,7 +2079,11 @@
       "name_de": "Fränkische Schweiz",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fraenkische_Schweiz.png/330px-Fraenkische_Schweiz.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fraenkische_Schweiz.png/330px-Fraenkische_Schweiz.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Fränkische Schweiz",
+      "desc_nl": "Picturesque upland region north of Nuremberg known for its romantic limestone rock formations, 1,000 caves (Teufelshöhle), cliffside castles (Pottenstein), and the highest density of microbreweries in the world.",
+      "tip_nl": "🥾 Hike the 'Brauereien-Weg' (Brewery Trail) around Aufseß to visit 4 historic family breweries in a single day; visit the illuminated Teufelshöhle stalactite cave in Pottenstein.",
+      "price_nl": "Nature Hiking Free / Teufelshöhle Cave: €6"
     },
     {
       "id": "nu_47",
@@ -1939,7 +2123,11 @@
       "name_zh": "Schloss Faber-Castell (辉柏嘉城堡与铅笔工廠)",
       "name_fr": "Schloss Faber-Castell (Château Faber-Castell)",
       "name_de": "Schloss Faber-Castell (Schloss Faber-Castell Stein)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Schloss Faber-Castell",
+      "desc_nl": "Grand Historicist revival castle and lead pencil manufacturing complex 8 km southwest of Nuremberg in Stein, home to the famous Faber-Castell stationery dynasty.",
+      "tip_nl": "✏️ Book a Sunday guided tour to view Count Alexander's Art Nouveau bathrooms and marble halls; visit the flagship shop to buy exclusive wooden graphite and watercolor pencil sets.",
+      "price_nl": "Castle Guided Tour: €9 / Factory Tour: €9"
     },
     {
       "id": "nu_48",
@@ -1981,7 +2169,11 @@
       "name_de": "Dinkelsbühl",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DEU_Dinkelsb%C3%BChl_COA.svg/langde-330px-DEU_Dinkelsb%C3%BChl_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DEU_Dinkelsb%C3%BChl_COA.svg/langde-330px-DEU_Dinkelsb%C3%BChl_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Dinkelsbühl",
+      "desc_nl": "Flawlessly preserved Romantic Road medieval walled city 90 km southwest of Nuremberg, escaping any destruction during World War II with 16 towers, moat, and colorful gabled merchant houses.",
+      "tip_nl": "🏰 Join the traditional Night Watchman (Nachtwächter) on his free nightly round at 21:00 starting from St. George's Minster; admire the 16th-century Deutsches Haus timbered facade.",
+      "price_nl": "Town Access & Night Watchman Walk: Free"
     },
     {
       "id": "nu_49",
@@ -2021,7 +2213,11 @@
       "name_zh": "Erlangen: Schlossgarten & Hugenottenkirche (埃尔朗根宫廷花园与胡格诺教堂)",
       "name_fr": "Erlangen: Schlossgarten & Hugenottenkirche (Jardin du Château d'Erlangen)",
       "name_de": "Erlangen: Schlossgarten & Hugenottenkirche",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Erlangen: Schlossgarten & Hugenottenkirche",
+      "desc_nl": "Charming 18th-century Baroque university town 18 km north of Nuremberg, featuring the Margravial Palace, expansive Botanical Garden, and French Huguenot Church.",
+      "tip_nl": "🌷 Visit the 200-year-old University Botanical Garden (Botanischer Garten) tucked behind the palace park for exotic glasshouses; easily reached in 15 minutes via S-Bahn S1.",
+      "price_nl": "Palace Garden & Botanical Garden: Free Access"
     },
     {
       "id": "nu_50",
@@ -2061,7 +2257,11 @@
       "name_zh": "Schwabach: Goldstadt & Goldschläger-Werkstatt (施瓦巴赫世界金箔打造之都)",
       "name_fr": "Schwabach: Goldstadt & Goldschläger-Werkstatt (Cité de la Feuille d'Or de Schwabach)",
       "name_de": "Schwabach: Goldstadt & Goldschläger-Werkstatt",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Schwabach: Goldstadt & Goldschläger-Werkstatt",
+      "desc_nl": "World center of gold leaf beaters 15 km south of Nuremberg, famous for crafting 22-karat gold leaf that gilds Buckingham Palace gates, Statue of Liberty, and Nuremberg's Schöner Brunnen.",
+      "tip_nl": "✨ Visit the City Museum (Stadtmuseum Schwabach) to watch a live gold leaf beating demonstration by a master goldsmith hammering real gold bars into micro-thin foil.",
+      "price_nl": "Market Square Free / Gold Museum Ticket: €5"
     },
     {
       "id": "nu_51",
@@ -2103,7 +2303,11 @@
       "name_de": "Freizeit-Land Geiselwind",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Freizeitland_Geiselwind.jpg/330px-Freizeitland_Geiselwind.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Freizeitland_Geiselwind.jpg/330px-Freizeitland_Geiselwind.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "hasWiki": true
+      "hasWiki": true,
+      "name_nl": "Freizeit-Land Geiselwind",
+      "desc_nl": "Franconia's largest amusement and safari park 65 km northwest of Nuremberg, featuring over 120 rides, roller coasters, water flumes, and exotic animal exhibits.",
+      "tip_nl": "🎢 Great family day-out along the A3 highway; buy online tickets 3 days in advance for a €4 discount per person; non-stop thrills for adrenaline lovers and kids.",
+      "price_nl": "Day Pass: €38.50 / Reduced: €29.50 / Under 1m Free"
     },
     {
       "id": "nu_52",
@@ -2143,7 +2347,11 @@
       "name_zh": "Thermen & Erlebnisbad Kristall Palm Beach (克里斯塔尔水晶棕榈海滩温泉水上乐园)",
       "name_fr": "Thermen & Erlebnisbad Kristall Palm Beach (Thermes et Parc Aquatique Kristall Palm Beach)",
       "name_de": "Thermen & Erlebnisbad Kristall Palm Beach (Thermen & Erlebnisbad Kristall Palm Beach Stein)",
-      "hasWiki": false
+      "hasWiki": false,
+      "name_nl": "Thermen & Erlebnisbad Kristall Palm Beach",
+      "desc_nl": "Premier thermal spa and water park resort 8 km southwest of Nuremberg in Stein, featuring crystal thermal pools, 14 high-speed water slides, wave pool, and Egyptian sauna world.",
+      "tip_nl": "♨️ Adrenaline lovers should test the 'Pegasus II' looping water slide (Germany's first double-loop slide); bring your own bath towel and sandals to avoid rental fees.",
+      "price_nl": "2-Hour Pass: €19 / 4-Hour Pass: €25 / Day Pass: €31"
     }
   ]
 }

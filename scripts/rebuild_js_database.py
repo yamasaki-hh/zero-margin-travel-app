@@ -94,8 +94,8 @@ for fpath in city_files:
         sid = s.get('id', 'unknown')
 
         # Layer 1: Check Japanese text leakage in foreign language fields
-        # Western fields (EN, DE, FR, ES) must NOT contain CJK characters
-        for fkey in ['tip_en', 'tip_de', 'tip_fr', 'tip_es', 'desc_en', 'desc_de', 'desc_fr', 'desc_es']:
+        # Western fields (EN, DE, FR, ES, NL) must NOT contain CJK characters
+        for fkey in ['tip_en', 'tip_de', 'tip_fr', 'tip_es', 'tip_nl', 'desc_en', 'desc_de', 'desc_fr', 'desc_es', 'desc_nl']:
             val = s.get(fkey, '')
             if JAPANESE_HIRAGANA_KATAKANA.search(val):
                 untranslated_violations.append((cname, sid, s.get('name', ''), fkey, f"Japanese/CJK leakage: '{val[:30]}'"))
@@ -108,7 +108,7 @@ for fpath in city_files:
                 untranslated_violations.append((cname, sid, s.get('name', ''), fkey, f"Japanese Kana leakage in Chinese field: '{val[:30]}'"))
 
         # Layer 2: Check empty desc or tip fields
-        for fkey in ['desc_ja', 'desc_en', 'desc_es', 'desc_zh', 'desc_fr', 'desc_de', 'tip_ja', 'tip_en', 'tip_es', 'tip_zh', 'tip_fr', 'tip_de']:
+        for fkey in ['desc_ja', 'desc_en', 'desc_es', 'desc_zh', 'desc_fr', 'desc_de', 'desc_nl', 'tip_ja', 'tip_en', 'tip_es', 'tip_zh', 'tip_fr', 'tip_de', 'tip_nl']:
             val = s.get(fkey, '')
             if not val or len(val.strip()) == 0:
                 untranslated_violations.append((cname, sid, s.get('name', ''), fkey, "Empty field string"))
@@ -118,8 +118,8 @@ for fpath in city_files:
         if not JAPANESE_HIRAGANA_KATAKANA.search(desc_ja) and len(desc_ja) > 5:
             untranslated_violations.append((cname, sid, s.get('name', ''), 'desc_ja', f"Missing Japanese: '{desc_ja[:30]}'"))
 
-        # Layer 4: Hybrid Name verification across all 6 languages
-        for lang_key in ['name_en', 'name_ja', 'name_es', 'name_zh', 'name_fr', 'name_de']:
+        # Layer 4: Hybrid Name verification across all 7 languages
+        for lang_key in ['name_en', 'name_ja', 'name_es', 'name_zh', 'name_fr', 'name_de', 'name_nl']:
             val = s.get(lang_key, '')
             if not val:
                 missing_hybrid_name_violations.append((cname, sid, s.get('name', ''), lang_key))

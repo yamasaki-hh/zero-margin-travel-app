@@ -39,7 +39,11 @@
     "price_es": "Entry: €15.00",
     "price_zh": "Entry: €15.00",
     "price_fr": "Entry: €15.00",
-    "price_de": "Entry: €15.00"
+    "price_de": "Entry: €15.00",
+    "name_nl": "Belfort van Brugge",
+    "desc_nl": "Iconic 83-meter medieval bell tower dominating Markt square, housing a 47-bell carillon and UNESCO World Heritage status.",
+    "tip_nl": "🪜 Climb 366 spiraling stone steps for 360-degree views; pre-booking online morning tickets is mandatory.",
+    "price_nl": "Entry: €15.00"
   },
   {
     "id": "bg_2",
@@ -81,7 +85,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "De Markt",
+    "desc_nl": "Historic beating heart of Bruges lined with colorful step-gabled guildhalls, horse-drawn carriages, and Provincial Court.",
+    "tip_nl": "📸 The wide-angle photo of pastel guildhalls is best taken in the morning under direct sunlight.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_3",
@@ -123,7 +131,11 @@
     "price_es": "Square Free / Town Hall: €8.00",
     "price_zh": "Square Free / Town Hall: €8.00",
     "price_fr": "Square Free / Town Hall: €8.00",
-    "price_de": "Square Free / Town Hall: €8.00"
+    "price_de": "Square Free / Town Hall: €8.00",
+    "name_nl": "De Burg & Stadhuis",
+    "desc_nl": "Historic administrative square featuring the 14th-century Gothic Stadhuis with magnificent vaulted polychrome Gothic Hall.",
+    "tip_nl": "🏛️ Admission to the Gothic Hall includes entry to the historic archives and courtroom; look up at the oak ceiling vaults.",
+    "price_nl": "Square Free / Town Hall: €8.00"
   },
   {
     "id": "bg_4",
@@ -165,7 +177,11 @@
     "price_es": "Church Free / Treasury: €5.00",
     "price_zh": "Church Free / Treasury: €5.00",
     "price_fr": "Church Free / Treasury: €5.00",
-    "price_de": "Church Free / Treasury: €5.00"
+    "price_de": "Church Free / Treasury: €5.00",
+    "name_nl": "Heilig-Bloedbasiliek",
+    "desc_nl": "Double church on Burg Square housing the sacred Relic of the Holy Blood brought from the Holy Land during the Second Crusade.",
+    "tip_nl": "🩸 The veneration of the Holy Blood relic takes place twice daily; admission to the church is free.",
+    "price_nl": "Church Free / Treasury: €5.00"
   },
   {
     "id": "bg_5",
@@ -207,7 +223,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Rozenhoedkaai",
+    "desc_nl": "Most famous postcard viewpoint in Bruges where Groenerei and Dijver canals intersect beneath historic brick mansions and the Belfry.",
+    "tip_nl": "📸 Visit during the blue hour immediately after sunset when illuminated canal houses reflect perfectly across the water.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_6",
@@ -249,7 +269,11 @@
     "price_es": "Entry: Adult €15.00 / Child €9.00",
     "price_zh": "Entry: Adult €15.00 / Child €9.00",
     "price_fr": "Entry: Adult €15.00 / Child €9.00",
-    "price_de": "Entry: Adult €15.00 / Child €9.00"
+    "price_de": "Entry: Adult €15.00 / Child €9.00",
+    "name_nl": "Boottochten op de Brugse Reien",
+    "desc_nl": "Open-top wooden motorboat tours navigating medieval canals gliding past hidden monastery gardens, low stone bridges, and facades.",
+    "tip_nl": "🚤 All five official landing stages charge the same fixed rate; board at Coudenbrouck for shorter queues.",
+    "price_nl": "Entry: Adult €15.00 / Child €9.00"
   },
   {
     "id": "bg_7",
@@ -291,7 +315,11 @@
     "price_es": "Church Free / Museum: €8.00",
     "price_zh": "Church Free / Museum: €8.00",
     "price_fr": "Church Free / Museum: €8.00",
-    "price_de": "Church Free / Museum: €8.00"
+    "price_de": "Church Free / Museum: €8.00",
+    "name_nl": "Onze-Lieve-Vrouwekerk",
+    "desc_nl": "Soaring Gothic church boasting the world's 2nd tallest brick tower (115.5m) and Michelangelo's marble sculpture Madonna and Child.",
+    "tip_nl": "🎨 The main church hall is free; accessing Michelangelo's Madonna and Child requires a museum ticket.",
+    "price_nl": "Church Free / Museum: €8.00"
   },
   {
     "id": "bg_8",
@@ -333,7 +361,11 @@
     "price_es": "Entry: €15.00",
     "price_zh": "Entry: €15.00",
     "price_fr": "Entry: €15.00",
-    "price_de": "Entry: €15.00"
+    "price_de": "Entry: €15.00",
+    "name_nl": "Sint-Janshospitaal",
+    "desc_nl": "One of Europe's oldest preserved medieval hospital complexes (12th century), housing masterworks by Hans Memling including St. Ursula Shrine.",
+    "tip_nl": "💊 Step inside the fully preserved 17th-century hospital pharmacy across the cloister garden to view antique apothecary jars.",
+    "price_nl": "Entry: €15.00"
   },
   {
     "id": "bg_9",
@@ -375,7 +407,11 @@
     "price_es": "Entry: €15.00",
     "price_zh": "Entry: €15.00",
     "price_fr": "Entry: €15.00",
-    "price_de": "Entry: €15.00"
+    "price_de": "Entry: €15.00",
+    "name_nl": "Groeningemuseum",
+    "desc_nl": "Premier fine arts museum housing Early Netherlandish Flemish Primitives, including Jan van Eyck and Hieronymus Bosch paintings.",
+    "tip_nl": "🖼️ Compact but detailed; pick up an audio guide to spot the intricate mirror reflections in Van Eyck's masterpieces.",
+    "price_nl": "Entry: €15.00"
   },
   {
     "id": "bg_10",
@@ -417,7 +453,11 @@
     "price_es": "Grounds Free / Museum: €4.00",
     "price_zh": "Grounds Free / Museum: €4.00",
     "price_fr": "Grounds Free / Museum: €4.00",
-    "price_de": "Grounds Free / Museum: €4.00"
+    "price_de": "Grounds Free / Museum: €4.00",
+    "name_nl": "Begijnhof Ten Wijngaerde",
+    "desc_nl": "Tranquil UNESCO-listed enclave (1245) featuring whitewashed 17th-century houses surrounding a central lawn planted with poplars.",
+    "tip_nl": " Absolute silence is strictly enforced. Visit in early spring when thousands of yellow daffodils bloom across the lawn.",
+    "price_nl": "Grounds Free / Museum: €4.00"
   },
   {
     "id": "bg_11",
@@ -459,7 +499,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Minnewater & Minnewaterpark",
+    "desc_nl": "Picturesque rectangular lake at southern entrance of Bruges, surrounded by weeping willows, Minnewater castle tower, and white swans.",
+    "tip_nl": "🦢 Walk across the red-brick bridge; legend says crossing with a partner ensures everlasting love. Peaceful picnic spot.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_12",
@@ -501,7 +545,11 @@
     "price_es": "Entry: €16.00 (Tour & 1 Drink)",
     "price_zh": "Entry: €16.00 (Tour & 1 Drink)",
     "price_fr": "Entry: €16.00 (Tour & 1 Drink)",
-    "price_de": "Entry: €16.00 (Tour & 1 Drink)"
+    "price_de": "Entry: €16.00 (Tour & 1 Drink)",
+    "name_nl": "Brouwerij De Halve Maan",
+    "desc_nl": "Last operating family brewery in historic Bruges (1856), famous for constructing a 3.2km underground beer pipeline beneath city streets.",
+    "tip_nl": "🍺 The 45-minute guided tour involves climbing to the roof, ending with skyline views and a fresh unfiltered beer tasting.",
+    "price_nl": "Entry: €16.00 (Tour & 1 Drink)"
   },
   {
     "id": "bg_13",
@@ -543,7 +591,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Bonifaciusbrug",
+    "desc_nl": "Romantic stone footbridge tucked behind Church of Our Lady, framing overhanging timber gables, canals, and tour boats.",
+    "tip_nl": "📸 The bridge is narrow and gets congested at midday; visit before 9 AM or after 8 PM for crowd-free photos.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_14",
@@ -585,7 +637,11 @@
     "price_es": "Entry: €15.00",
     "price_zh": "Entry: €15.00",
     "price_fr": "Entry: €15.00",
-    "price_de": "Entry: €15.00"
+    "price_de": "Entry: €15.00",
+    "name_nl": "Gruuthusemuseum",
+    "desc_nl": "Luxurious 15th-century city palace displaying tapestries, lace, musical instruments, and private wooden prayer chapel into church.",
+    "tip_nl": "👑 Don't miss looking through the ornate wooden oratory window on the upper floor connecting into the Church of Our Lady.",
+    "price_nl": "Entry: €15.00"
   },
   {
     "id": "bg_15",
@@ -627,7 +683,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Sint-Salvatorskathedraal",
+    "desc_nl": "Main cathedral church of Bruges featuring Romanesque foundations, high Gothic choir, 18th-century Brussels tapestries, and 99m tower.",
+    "tip_nl": "⛪ Free admission; walk through the choir ambulatory to admire the massive 18th-century tapestries woven by Van der Borcht.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_16",
@@ -669,7 +729,11 @@
     "price_es": "Entry: €14.00",
     "price_zh": "Entry: €14.00",
     "price_fr": "Entry: €14.00",
-    "price_de": "Entry: €14.00"
+    "price_de": "Entry: €14.00",
+    "name_nl": "Choco-Story Brugge",
+    "desc_nl": "Interactive chocolate museum set inside 15th-century Huis de Crone, tracing 4,000 years of cocoa history with live chocolate-making.",
+    "tip_nl": "🍫 Master chocolatiers give live tempering and molding demonstrations every 30 minutes in the basement atelier.",
+    "price_nl": "Entry: €14.00"
   },
   {
     "id": "bg_17",
@@ -711,7 +775,11 @@
     "price_es": "Entry: €11.00",
     "price_zh": "Entry: €11.00",
     "price_fr": "Entry: €11.00",
-    "price_de": "Entry: €11.00"
+    "price_de": "Entry: €11.00",
+    "name_nl": "Frietmuseum",
+    "desc_nl": "World's only museum dedicated entirely to the history of the potato and Belgian fries, housed inside the 14th-century Saaihalle.",
+    "tip_nl": "🍟 After touring the interactive exhibits, head down to the medieval cellars to buy freshly double-fried Belgian potatoes.",
+    "price_nl": "Entry: €11.00"
   },
   {
     "id": "bg_18",
@@ -753,7 +821,11 @@
     "price_es": "Story €17.50 / VR Combo ~€22.00",
     "price_zh": "Story €17.50 / VR Combo ~€22.00",
     "price_fr": "Story €17.50 / VR Combo ~€22.00",
-    "price_de": "Story €17.50 / VR Combo ~€22.00"
+    "price_de": "Story €17.50 / VR Combo ~€22.00",
+    "name_nl": "Historium Brugge",
+    "desc_nl": "Immersive historic attraction on Markt square using themed cinematic sets, special effects, and VR headsets to transport to 1435.",
+    "tip_nl": "🍻 The Duvelorium Grand Beer Café on the 1st floor has a panoramic outdoor terrace overlooking the Markt square.",
+    "price_nl": "Story €17.50 / VR Combo ~€22.00"
   },
   {
     "id": "bg_19",
@@ -795,7 +867,11 @@
     "price_es": "Entry: €8.00",
     "price_zh": "Entry: €8.00",
     "price_fr": "Entry: €8.00",
-    "price_de": "Entry: €8.00"
+    "price_de": "Entry: €8.00",
+    "name_nl": "Kantcentrum & Kantmuseum",
+    "desc_nl": "Located in restored 15th-century Jerusalem estate, exploring traditional Bruges bobbin lace making with live afternoon workshops.",
+    "tip_nl": "🧵 Visit between 14:00 and 17:00 on weekdays to watch master lacemakers demonstrate complex bobbin manipulation in real time.",
+    "price_nl": "Entry: €8.00"
   },
   {
     "id": "bg_20",
@@ -837,7 +913,11 @@
     "price_es": "Entry: €10.00 (Estate Combo)",
     "price_zh": "Entry: €10.00 (Estate Combo)",
     "price_fr": "Entry: €10.00 (Estate Combo)",
-    "price_de": "Entry: €10.00 (Estate Combo)"
+    "price_de": "Entry: €10.00 (Estate Combo)",
+    "name_nl": "Jerusalemkapel",
+    "desc_nl": "Privately owned 15th-century church modeled on the Church of the Holy Sepulchre in Jerusalem, featuring subterranean crypt.",
+    "tip_nl": "🏰 Crawl inside the low stone opening in the choir to see the life-size anatomical stone effigy of Christ inside the tomb.",
+    "price_nl": "Entry: €10.00 (Estate Combo)"
   },
   {
     "id": "bg_21",
@@ -879,7 +959,11 @@
     "price_es": "Free (Food ~€15-35)",
     "price_zh": "Free (Food ~€15-35)",
     "price_fr": "Free (Food ~€15-35)",
-    "price_de": "Free (Food ~€15-35)"
+    "price_de": "Free (Food ~€15-35)",
+    "name_nl": "Huidenvettersplein",
+    "desc_nl": "Compact enclosed historic square adjacent to Rozenhoedkaai, featuring 17th-century guildhouses and bustling outdoor terraces.",
+    "tip_nl": "🎨 A quiet gathering spot for local painters selling canal watercolors; grab an outdoor table for lunch to enjoy waterside ambiance.",
+    "price_nl": "Free (Food ~€15-35)"
   },
   {
     "id": "bg_22",
@@ -921,7 +1005,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Vismarkt",
+    "desc_nl": "Open-air neoclassical covered market built in 1821 with Tuscan stone colonnades hosting morning fish vendors and afternoon craft markets.",
+    "tip_nl": "🐟 Visit on Friday morning to see local fishermen selling fresh grey shrimp, sole, and cod beneath stone columns.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_23",
@@ -963,7 +1051,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Kruispoort & Gentpoort",
+    "desc_nl": "Best-preserved 14th-century defensive stone gates along the outer canal ring, flanked by grassy rampart walking paths.",
+    "tip_nl": "🚶 The grassy rampart hills connecting the gates offer an elevated walking and cycling promenade lined with trees.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_24",
@@ -1005,7 +1097,11 @@
     "price_es": "Ramparts Free / Windmill: €5.00",
     "price_zh": "Ramparts Free / Windmill: €5.00",
     "price_fr": "Ramparts Free / Windmill: €5.00",
-    "price_de": "Ramparts Free / Windmill: €5.00"
+    "price_de": "Ramparts Free / Windmill: €5.00",
+    "name_nl": "Sint-Janshuismolen",
+    "desc_nl": "Historic wooden grain windmills standing atop green earthen ramparts. Sint-Janshuismolen (1770) still grinds grain on its original site.",
+    "tip_nl": "🌾 Walk up the wooden stairs into Sint-Janshuismolen to see historic wooden gearwheels turn and watch the miller grind flour.",
+    "price_nl": "Ramparts Free / Windmill: €5.00"
   },
   {
     "id": "bg_25",
@@ -1047,7 +1143,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Steenstraat & Wollestraat",
+    "desc_nl": "Primary pedestrian shopping corridors. Steenstraat features mainstream fashion; Wollestraat is packed with chocolates, beer, and lace.",
+    "tip_nl": "🛍️ Explore Wollestraat for gourmet shopping including the famous beer shop 2be displaying hundreds of beers along a glass wall.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_26",
@@ -1089,7 +1189,11 @@
     "price_es": "Free Display (Tasting ~€10-18)",
     "price_zh": "Free Display (Tasting ~€10-18)",
     "price_fr": "Free Display (Tasting ~€10-18)",
-    "price_de": "Free Display (Tasting ~€10-18)"
+    "price_de": "Free Display (Tasting ~€10-18)",
+    "name_nl": "2be Beer Wall",
+    "desc_nl": "Craft beer boutique famous for its floor-to-ceiling glass display case presenting over 1,200 Belgian beers with matching glassware.",
+    "tip_nl": "🍺 Order a 4-beer tasting paddle served with Belgian cheese cubes and spicy mustard right at the water's edge.",
+    "price_nl": "Free Display (Tasting ~€10-18)"
   },
   {
     "id": "bg_27",
@@ -1131,7 +1235,11 @@
     "price_es": "Entry: €8.00",
     "price_zh": "Entry: €8.00",
     "price_fr": "Entry: €8.00",
-    "price_de": "Entry: €8.00"
+    "price_de": "Entry: €8.00",
+    "name_nl": "Volkskundemuseum",
+    "desc_nl": "Located inside eight restored 17th-century almshouses recreating historic daily life through cobbler shop, classroom, and working inn.",
+    "tip_nl": "🐱 Traditional candy makers demonstrate hard-candy boiling in the kitchen on 1st & 3rd Sundays; pet the resident black cat.",
+    "price_nl": "Entry: €8.00"
   },
   {
     "id": "bg_28",
@@ -1173,7 +1281,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Godshuizen",
+    "desc_nl": "Over 45 tranquil white-painted charitable housing estates built between 14th-18th centuries featuring flowerbeds and private chapels.",
+    "tip_nl": "🌿 Push open the low wooden door of Godshuis De Meulenaere; remember to maintain absolute silence as these are private homes.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_29",
@@ -1215,7 +1327,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Koningin Astridpark",
+    "desc_nl": "Charming green park hidden in central-east Bruges featuring a neoclassical bandstand gazebo, pond with fountains, and playgrounds.",
+    "tip_nl": "🌳 A peaceful escape from tourist congestion on the Markt; featured in the movie In Bruges. Perfect for letting kids play.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_30",
@@ -1257,7 +1373,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Sint-Annakerk",
+    "desc_nl": "17th-century church in quiet northern quarter with simple brick exterior but opulent Baroque interior filled with carved oak wainscoting.",
+    "tip_nl": "⛪ Free entry; the church is often empty of tourists, making it ideal to appreciate Baroque woodcarving without crowds.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_31",
@@ -1299,7 +1419,11 @@
     "price_es": "Entry: €15.00 (Tour & 1 Drink)",
     "price_zh": "Entry: €15.00 (Tour & 1 Drink)",
     "price_fr": "Entry: €15.00 (Tour & 1 Drink)",
-    "price_de": "Entry: €15.00 (Tour & 1 Drink)"
+    "price_de": "Entry: €15.00 (Tour & 1 Drink)",
+    "name_nl": "Brouwerij Bourgogne des Flandres",
+    "desc_nl": "Urban microbrewery located directly on Kartuizerinnen canal, reviving historic blended Flemish red-brown ale Bourgogne des Flandres.",
+    "tip_nl": "🍻 Interactive tour lets you smell hops and blend virtual beer; finish with a pint on the wooden deck hovering above the canal.",
+    "price_nl": "Entry: €15.00 (Tour & 1 Drink)"
   },
   {
     "id": "bg_32",
@@ -1341,7 +1465,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Hof Arents",
+    "desc_nl": "Historic walled city garden situated between Groeningemuseum and Bonifacius Bridge featuring Rik Poot's bronze Apocalypse sculptures.",
+    "tip_nl": "📸 One of the most serene transitional walkways between the museums and canal docks; look for hidden stone window carvings.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_33",
@@ -1383,7 +1511,11 @@
     "price_es": "Chocolate ~€8-25",
     "price_zh": "Chocolate ~€8-25",
     "price_fr": "Chocolate ~€8-25",
-    "price_de": "Chocolate ~€8-25"
+    "price_de": "Chocolate ~€8-25",
+    "name_nl": "Chocolaterie Dumon",
+    "desc_nl": "One of Bruges' most acclaimed family-owned chocolatiers set in an authentic 15th-century step-gabled brick cottage on Eiermarkt.",
+    "tip_nl": "🍫 The shop fits 3 people at a time; order their famous dusting of fresh cocoa-powder butter truffles in vintage boxes.",
+    "price_nl": "Chocolate ~€8-25"
   },
   {
     "id": "bg_34",
@@ -1425,7 +1557,11 @@
     "price_es": "Exhibition ~€10-15",
     "price_zh": "Exhibition ~€10-15",
     "price_fr": "Exhibition ~€10-15",
-    "price_de": "Exhibition ~€10-15"
+    "price_de": "Exhibition ~€10-15",
+    "name_nl": "Oud Sint-Jan",
+    "desc_nl": "19th-century brick pavilion wings of historic St. John's Hospital repurposed into modern cultural exhibition halls and courtyard cafes.",
+    "tip_nl": "🎨 Regularly hosts major international touring art exhibitions; quiet interior courtyards provide a calm passage.",
+    "price_nl": "Exhibition ~€10-15"
   },
   {
     "id": "bg_35",
@@ -1467,7 +1603,11 @@
     "price_es": "Entry: €12.00",
     "price_zh": "Entry: €12.00",
     "price_fr": "Entry: €12.00",
-    "price_de": "Entry: €12.00"
+    "price_de": "Entry: €12.00",
+    "name_nl": "Diamond Museum",
+    "desc_nl": "Located on Katelijnestraat, celebrating Bruges' role as Europe's oldest diamond trading center (polishing wheel invented here in 1476).",
+    "tip_nl": "💎 Check the schedule for daily live diamond cutting and polishing demonstrations in the basement workshop.",
+    "price_nl": "Entry: €12.00"
   },
   {
     "id": "bg_36",
@@ -1509,7 +1649,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Jan van Eyckplein",
+    "desc_nl": "Historic commercial harbor basin (Spiegelrei) centered around statue of Jan van Eyck, Poortersloge lodge, and Old Toll House.",
+    "tip_nl": "🐻 Look for the carved stone Bear of Bruges embedded in the corner niche of the Poortersloge—the legendary city mascot.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_37",
@@ -1551,7 +1695,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Spiegelrei & Langerei",
+    "desc_nl": "Wide peaceful northern residential canals lined with grand 17th and 18th century mansions, stone bridges, and cobblestone quays.",
+    "tip_nl": "🚶 The northern canals are free of tour buses and cruise boats; walk along the Langerei for authentic peaceful reflection photos.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_38",
@@ -1593,7 +1741,11 @@
     "price_es": "Guided Visit ~€5.00",
     "price_zh": "Guided Visit ~€5.00",
     "price_fr": "Guided Visit ~€5.00",
-    "price_de": "Guided Visit ~€5.00"
+    "price_de": "Guided Visit ~€5.00",
+    "name_nl": "Engels Klooster",
+    "desc_nl": "Active 17th-century convent founded by English Catholic canonesses featuring an impressive domed Baroque church and historic library.",
+    "tip_nl": "⛪ Guided visits to the unique domed church and the Guido Gezelle memorial room are available on weekday afternoons.",
+    "price_nl": "Guided Visit ~€5.00"
   },
   {
     "id": "bg_39",
@@ -1635,7 +1787,11 @@
     "price_es": "Entry: €5.00",
     "price_zh": "Entry: €5.00",
     "price_fr": "Entry: €5.00",
-    "price_de": "Entry: €5.00"
+    "price_de": "Entry: €5.00",
+    "name_nl": "Gezelle Memorial Museum",
+    "desc_nl": "Birthplace museum of Flanders' most celebrated 19th-century lyric poet Guido Gezelle set in a historic cottage with secluded literary garden.",
+    "tip_nl": "🌿 Stroll the tranquil literary garden filled with mature fruit trees and Jan Fabre's modern bronze sculpture.",
+    "price_nl": "Entry: €5.00"
   },
   {
     "id": "bg_40",
@@ -1677,7 +1833,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Vesten van Brugge",
+    "desc_nl": "Continuous 7-kilometer parkland belt encircling the entire historic city center following medieval defense earthworks, moats, and windmills.",
+    "tip_nl": "🚲 Rent a bicycle at Bruges railway station and cycle the complete loop along the outer ramparts; takes roughly 45 minutes.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_41",
@@ -1719,7 +1879,11 @@
     "price_es": "Walk Free (Steamer ~€16.00)",
     "price_zh": "Walk Free (Steamer ~€16.00)",
     "price_fr": "Walk Free (Steamer ~€16.00)",
-    "price_de": "Walk Free (Steamer ~€16.00)"
+    "price_de": "Walk Free (Steamer ~€16.00)",
+    "name_nl": "Historisch Damme",
+    "desc_nl": "Located 5km northeast of Bruges along tree-lined Damse Vaart canal. A picturesque book town with 15th-century Gothic Town Hall.",
+    "tip_nl": " Board the historic paddle-steamer boat Lamme Goedzak for a scenic 35-minute canal cruise straight to the center of Damme.",
+    "price_nl": "Walk Free (Steamer ~€16.00)"
   },
   {
     "id": "bg_42",
@@ -1761,7 +1925,11 @@
     "price_es": "Castle €9.00 / Maze €3.00",
     "price_zh": "Castle €9.00 / Maze €3.00",
     "price_fr": "Castle €9.00 / Maze €3.00",
-    "price_de": "Castle €9.00 / Maze €3.00"
+    "price_de": "Castle €9.00 / Maze €3.00",
+    "name_nl": "Kasteel van Loppem",
+    "desc_nl": "Pristine 19th-century neo-Gothic moated castle designed by E.W. Pugin, famous for intact period interiors and 1873 hedge maze.",
+    "tip_nl": "🌿 Great day trip for families; challenge kids to navigate the century-old hornbeam hedge labyrinth in the castle park.",
+    "price_nl": "Castle €9.00 / Maze €3.00"
   },
   {
     "id": "bg_43",
@@ -1803,7 +1971,11 @@
     "price_es": "Free Beach (Seafood ~€15-35)",
     "price_zh": "Free Beach (Seafood ~€15-35)",
     "price_fr": "Free Beach (Seafood ~€15-35)",
-    "price_de": "Free Beach (Seafood ~€15-35)"
+    "price_de": "Free Beach (Seafood ~€15-35)",
+    "name_nl": "Zeebrugge Strand",
+    "desc_nl": "Bruges' modern North Sea coastal resort district featuring Belgium's widest natural sandy beach, marina bistros, and fishing docks.",
+    "tip_nl": "🦪 Visit the working fishing harbor quays for authentic Belgian North Sea shrimp croquettes and fresh steamed mussels.",
+    "price_nl": "Free Beach (Seafood ~€15-35)"
   },
   {
     "id": "bg_44",
@@ -1845,7 +2017,11 @@
     "price_es": "1-Day Tram Pass: €7.50",
     "price_zh": "1-Day Tram Pass: €7.50",
     "price_fr": "1-Day Tram Pass: €7.50",
-    "price_de": "1-Day Tram Pass: €7.50"
+    "price_de": "1-Day Tram Pass: €7.50",
+    "name_nl": "Kusttram",
+    "desc_nl": "World's longest continuous operational tram line (67km, 67 stops), running along the entire Belgian North Sea coastline.",
+    "tip_nl": "🚋 Board the tram at Zeebrugge to ride right along the coastal dunes; purchase a Day Pass for unlimited hop-on hop-off exploration.",
+    "price_nl": "1-Day Tram Pass: €7.50"
   },
   {
     "id": "bg_45",
@@ -1887,7 +2063,11 @@
     "price_es": "Entry: Adult €14.00 / Child €6.00",
     "price_zh": "Entry: Adult €14.00 / Child €6.00",
     "price_fr": "Entry: Adult €14.00 / Child €6.00",
-    "price_de": "Entry: Adult €14.00 / Child €6.00"
+    "price_de": "Entry: Adult €14.00 / Child €6.00",
+    "name_nl": "Het Zwin Natuur Park",
+    "desc_nl": "Expansive coastal nature reserve and tidal salt marsh on the Dutch border known as the International Airport for Birds with stork nests.",
+    "tip_nl": "🥾 Walk the sensory trail through salt marshes; use high-powered telescopes in observation huts to view storks during migration.",
+    "price_nl": "Entry: Adult €14.00 / Child €6.00"
   },
   {
     "id": "bg_46",
@@ -1929,7 +2109,11 @@
     "price_es": "Walk Free / Ship Entry €6.00",
     "price_zh": "Walk Free / Ship Entry €6.00",
     "price_fr": "Walk Free / Ship Entry €6.00",
-    "price_de": "Walk Free / Ship Entry €6.00"
+    "price_de": "Walk Free / Ship Entry €6.00",
+    "name_nl": "Historisch Oostende",
+    "desc_nl": "14 minutes by train from Bruges. Features broad seaside promenade, historic 3-masted sailing ship Mercator, and Mu.ZEE art museum.",
+    "tip_nl": "🚢 Board and explore the restored 1930s arctic expedition ship Mercator moored in the central marina.",
+    "price_nl": "Walk Free / Ship Entry €6.00"
   },
   {
     "id": "bg_47",
@@ -1971,7 +2155,11 @@
     "price_es": "Forest & Castle Grounds Free",
     "price_zh": "Forest & Castle Grounds Free",
     "price_fr": "Forest & Castle Grounds Free",
-    "price_de": "Forest & Castle Grounds Free"
+    "price_de": "Forest & Castle Grounds Free",
+    "name_nl": "Kasteel van Tillegem",
+    "desc_nl": "Moated 14th-century brick castle surrounded by sprawling 130-hectare Tillegembos provincial forest estate just southwest of Bruges.",
+    "tip_nl": "🚲 A favorite local cycling destination; stop at the traditional farmhouse inn In de Trutselaar for fresh pancakes and abbey beer.",
+    "price_nl": "Forest & Castle Grounds Free"
   },
   {
     "id": "bg_48",
@@ -2013,7 +2201,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Kasteel van Oostkerke",
+    "desc_nl": "Romantic moated medieval manor castle with round towers and step-gables set in quiet polder village of Oostkerke near Damme.",
+    "tip_nl": "🌳 The scenic cycle path between Damme and Oostkerke follows rows of wind-bent willow trees along historic dikes.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_49",
@@ -2055,7 +2247,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Kasteel van Ryckevelde",
+    "desc_nl": "19th-century neo-Gothic castle surrounded by ancient oak and pine woodlands east of Bruges, featuring a blind-friendly sensory garden.",
+    "tip_nl": "🌿 Stroll through the specialized sensory botanical garden to experience scents and textures of native Flemish flora.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_50",
@@ -2097,7 +2293,11 @@
     "price_es": "Entry: €29.50",
     "price_zh": "Entry: €29.50",
     "price_fr": "Entry: €29.50",
-    "price_de": "Entry: €29.50"
+    "price_de": "Entry: €29.50",
+    "name_nl": "Boudewijn Seapark",
+    "desc_nl": "Family theme park located in Sint-Michiels featuring outdoor rides, roller coasters, indoor soft-play arena, and dolphinarium.",
+    "tip_nl": "🎟️ Ideal for families with younger children aged 3-10 on mixed-weather days; the large indoor play center keeps kids entertained.",
+    "price_nl": "Entry: €29.50"
   },
   {
     "id": "bg_51",
@@ -2139,7 +2339,11 @@
     "price_es": "Free (Cafe ~€5-20)",
     "price_zh": "Free (Cafe ~€5-20)",
     "price_fr": "Free (Cafe ~€5-20)",
-    "price_de": "Free (Cafe ~€5-20)"
+    "price_de": "Free (Cafe ~€5-20)",
+    "name_nl": "De Republiek",
+    "desc_nl": "Vibrant cultural grand cafe and indie art-house cinema set around a spacious cobblestone courtyard in Sint-Jakobs quarter.",
+    "tip_nl": "☕ Escape the touristy dining strips; sit in the sunlit open-air courtyard of De Republiek for organic brunch and local microbrews.",
+    "price_nl": "Free (Cafe ~€5-20)"
   },
   {
     "id": "bg_52",
@@ -2181,7 +2385,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Sint-Jakobskerk",
+    "desc_nl": "13th-century parish church patronized by Burgundian ducal court and international merchant guilds, rich in Renaissance art.",
+    "tip_nl": "⛪ Free admission; admire the 16th-century carved marble and alabaster rood loft by Jérôme Duquesnoy the Elder.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_53",
@@ -2223,7 +2431,11 @@
     "price_es": "Guided Visit ~€5.00",
     "price_zh": "Guided Visit ~€5.00",
     "price_fr": "Guided Visit ~€5.00",
-    "price_de": "Guided Visit ~€5.00"
+    "price_de": "Guided Visit ~€5.00",
+    "name_nl": "Sint-Sebastiaansgilde",
+    "desc_nl": "World's oldest surviving archers' guild (14th century) on Carmersstraat, where King Charles II of England was an active member during exile.",
+    "tip_nl": "🏹 Guided visits allow you to see the historic archery shooting hall, outdoor target masts, and royal portrait gallery.",
+    "price_nl": "Guided Visit ~€5.00"
   },
   {
     "id": "bg_54",
@@ -2265,7 +2477,11 @@
     "price_es": "Tea Room ~€6-16",
     "price_zh": "Tea Room ~€6-16",
     "price_fr": "Tea Room ~€6-16",
-    "price_de": "Tea Room ~€6-16"
+    "price_de": "Tea Room ~€6-16",
+    "name_nl": "Gruuthuse Hof",
+    "desc_nl": "One of Bruges' most charming traditional tea rooms housed inside an authentic 16th-century step-gabled building on Mariastraat.",
+    "tip_nl": "🧇 Pair an authentic crispy Brussels waffle with hot melted Belgian chocolate and strawberries for an afternoon recharge.",
+    "price_nl": "Tea Room ~€6-16"
   },
   {
     "id": "bg_55",
@@ -2307,7 +2523,11 @@
     "price_es": "Square Free / Concert Tour €12.00",
     "price_zh": "Square Free / Concert Tour €12.00",
     "price_fr": "Square Free / Concert Tour €12.00",
-    "price_de": "Square Free / Concert Tour €12.00"
+    "price_de": "Square Free / Concert Tour €12.00",
+    "name_nl": "Concertgebouw Brugge",
+    "desc_nl": " Bruges' largest public square ('t Zand) anchored by Concertgebouw—an award-winning modern terracotta performing arts center.",
+    "tip_nl": "🎻 Take the interactive self-guided tour to experience acoustic installations and a 7th-floor rooftop panorama.",
+    "price_nl": "Square Free / Concert Tour €12.00"
   },
   {
     "id": "bg_56",
@@ -2349,7 +2569,11 @@
     "price_es": "Free Entry",
     "price_zh": "Free Entry",
     "price_fr": "Free Entry",
-    "price_de": "Free Entry"
+    "price_de": "Free Entry",
+    "name_nl": "Ezelpoort & Smedenpoort",
+    "desc_nl": "Medieval stone gates guarding northwestern city perimeter. Ezelpoort is a fortified brick water gate standing directly in the moat.",
+    "tip_nl": "📸 The reflection of the red-brick Ezelpoort surrounded by water is one of the quietest and most scenic fortification views.",
+    "price_nl": "Free Entry"
   },
   {
     "id": "bg_57",
@@ -2391,7 +2615,11 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Groenerei",
+    "desc_nl": "Regarded as the most peaceful and picturesque canal stretch in central Bruges running past State Archives and horse-head fountains.",
+    "tip_nl": "🚶 Walk the narrow waterside alley of Peerdestrijderspad under stone archways behind Burg Square away from car traffic.",
+    "price_nl": "Free Walk"
   },
   {
     "id": "bg_58",
@@ -2433,7 +2661,11 @@
     "price_es": "Pub Budget ~€5-18",
     "price_zh": "Pub Budget ~€5-18",
     "price_fr": "Pub Budget ~€5-18",
-    "price_de": "Pub Budget ~€5-18"
+    "price_de": "Pub Budget ~€5-18",
+    "name_nl": "Cafe Vlissinghe",
+    "desc_nl": "Operating continuously since 1515, the oldest surviving tavern in Bruges featuring dark wood paneling, cast-iron stove, and beer garden.",
+    "tip_nl": "🍺 Order a house draft Vlissinghe Blond beer and play a game of traditional krulbol bowling in the shaded courtyard garden.",
+    "price_nl": "Pub Budget ~€5-18"
   },
   {
     "id": "bg_59",
@@ -2475,7 +2707,11 @@
     "price_es": "Free (Shopping ~€5-20)",
     "price_zh": "Free (Shopping ~€5-20)",
     "price_fr": "Free (Shopping ~€5-20)",
-    "price_de": "Free (Shopping ~€5-20)"
+    "price_de": "Free (Shopping ~€5-20)",
+    "name_nl": "Katelijnestraat",
+    "desc_nl": "Bustling artisanal street leading from railway station into historic center lined with chocolatiers, tapestry shops, and bakeries.",
+    "tip_nl": "🍪 Stop at the historic bakery Juliette's on Katelijnestraat to sample fresh handmade Flemish butter biscuits.",
+    "price_nl": "Free (Shopping ~€5-20)"
   },
   {
     "id": "bg_60",
@@ -2517,6 +2753,10 @@
     "price_es": "Free Walk",
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
-    "price_de": "Free Walk"
+    "price_de": "Free Walk",
+    "name_nl": "Gouden-Handrei",
+    "desc_nl": "Secluded medieval canal waterways north of the center where historic merchant houses, small arched stone bridges, and quays remain untouched.",
+    "tip_nl": "📸 Walk along the Gouden-Handrei near the Torenbrug bridge at twilight; you will rarely see another tourist.",
+    "price_nl": "Free Walk"
   }
 ]

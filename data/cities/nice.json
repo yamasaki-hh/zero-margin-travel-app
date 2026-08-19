@@ -44,7 +44,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Walk up to the Bellanda Tower for the iconic curved photo of the Baie des Anges. Sunsets here are magical with the promenade lights turning on."
+      "tip": "Walk up to the Bellanda Tower for the iconic curved photo of the Baie des Anges. Sunsets here are magical with the promenade lights turning on.",
+      "name_nl": "Promenade des Anglais",
+      "desc_nl": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
+      "tip_nl": "Walk up to the Bellanda Tower for the iconic curved photo of the Baie des Anges. Sunsets here are magical with the promenade lights turning on.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_2",
@@ -88,7 +92,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Elevator access is available near the Hotel Suisse if stairs are too steep. Don't miss the artificial waterfall on top cooled by sea breezes."
+      "tip": "Elevator access is available near the Hotel Suisse if stairs are too steep. Don't miss the artificial waterfall on top cooled by sea breezes.",
+      "name_nl": "Colline du Château",
+      "desc_nl": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
+      "tip_nl": "Elevator access is available near the Hotel Suisse if stairs are too steep. Don't miss the artificial waterfall on top cooled by sea breezes.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_3",
@@ -132,7 +140,11 @@
       "rain": false,
       "shopping": true,
       "free": true,
-      "tip": "Buy piping hot Socca (chickpea pancake) directly from the iron pans at Chez René Socca, then eat it with cold rosé at the open tables."
+      "tip": "Buy piping hot Socca (chickpea pancake) directly from the iron pans at Chez René Socca, then eat it with cold rosé at the open tables.",
+      "name_nl": "Old Town Nice",
+      "desc_nl": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
+      "tip_nl": "Buy piping hot Socca (chickpea pancake) directly from the iron pans at Chez René Socca, then eat it with cold rosé at the open tables.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_4",
@@ -176,7 +188,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Don't miss Chagall's stunning stained-glass windows in the concert hall depicting the Creation. The blue garden surrounding the museum is peaceful and free to enter."
+      "tip": "Don't miss Chagall's stunning stained-glass windows in the concert hall depicting the Creation. The blue garden surrounding the museum is peaceful and free to enter.",
+      "name_nl": "Cours Saleya Flower Market",
+      "desc_nl": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
+      "tip_nl": "Don't miss Chagall's stunning stained-glass windows in the concert hall depicting the Creation. The blue garden surrounding the museum is peaceful and free to enter.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_5",
@@ -220,7 +236,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Houses Matisse's personal bronze sculptures and cutout paper art in a 17th-century Genoese villa. Combined ticket with nearby Roman ruins is available."
+      "tip": "Houses Matisse's personal bronze sculptures and cutout paper art in a 17th-century Genoese villa. Combined ticket with nearby Roman ruins is available.",
+      "name_nl": "Place Masséna",
+      "desc_nl": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
+      "tip_nl": "Houses Matisse's personal bronze sculptures and cutout paper art in a 17th-century Genoese villa. Combined ticket with nearby Roman ruins is available.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_6",
@@ -264,7 +284,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Take the elevator to the rooftop terrace bar for panoramic 360-degree views of the Promenade des Anglais and Mediterranean Sea."
+      "tip": "Take the elevator to the rooftop terrace bar for panoramic 360-degree views of the Promenade des Anglais and Mediterranean Sea.",
+      "name_nl": "Marc Chagall National Museum",
+      "desc_nl": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
+      "tip_nl": "Take the elevator to the rooftop terrace bar for panoramic 360-degree views of the Promenade des Anglais and Mediterranean Sea.",
+      "price_nl": "Entry: €10"
     },
     {
       "id": "nice_7",
@@ -309,7 +333,11 @@
       "shopping": false,
       "free": false,
       "tip": "The largest Russian Orthodox Cathedral outside Russia. Respectful dress code (covered shoulders and knees) is strictly enforced at the entrance.",
-      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mus%C3%A9e_Matisse_Nice.JPG/330px-Mus%C3%A9e_Matisse_Nice.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mus%C3%A9e_Matisse_Nice.JPG/330px-Mus%C3%A9e_Matisse_Nice.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "name_nl": "Matisse Museum",
+      "desc_nl": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
+      "tip_nl": "The largest Russian Orthodox Cathedral outside Russia. Respectful dress code (covered shoulders and knees) is strictly enforced at the entrance.",
+      "price_nl": "Entry: €10"
     },
     {
       "id": "nice_8",
@@ -353,7 +381,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Buy fresh lavender honey, candied fruits, and socca seasoning from local growers. Closed on Mondays when it transforms into an antique flea market."
+      "tip": "Buy fresh lavender honey, candied fruits, and socca seasoning from local growers. Closed on Mondays when it transforms into an antique flea market.",
+      "name_nl": "Museum of Modern & Contemporary Art",
+      "desc_nl": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
+      "tip_nl": "Buy fresh lavender honey, candied fruits, and socca seasoning from local growers. Closed on Mondays when it transforms into an antique flea market.",
+      "price_nl": "Entry: €10"
     },
     {
       "id": "nice_9",
@@ -397,7 +429,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Walk past the fountain to the optical illusion trompe-l'œil facades painted on the yellow buildings on the north side of the square."
+      "tip": "Walk past the fountain to the optical illusion trompe-l'œil facades painted on the yellow buildings on the north side of the square.",
+      "name_nl": "St. Nicholas Russian Orthodox Cathedral",
+      "desc_nl": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
+      "tip_nl": "Walk past the fountain to the optical illusion trompe-l'œil facades painted on the yellow buildings on the north side of the square.",
+      "price_nl": "Free Grounds (Ticket: €5)"
     },
     {
       "id": "nice_10",
@@ -441,7 +477,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Take the #607 or #608 bus from Nice for just €2.10 along the lower corniche cliff road for stunning coastal views straight into Monaco."
+      "tip": "Take the #607 or #608 bus from Nice for just €2.10 along the lower corniche cliff road for stunning coastal views straight into Monaco.",
+      "name_nl": "Promenade du Paillon",
+      "desc_nl": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
+      "tip_nl": "Take the #607 or #608 bus from Nice for just €2.10 along the lower corniche cliff road for stunning coastal views straight into Monaco.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_11",
@@ -485,7 +525,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Wander the exotic botanical gardens on top of the medieval village for dramatic 400-meter vertical views over Cap Ferrat."
+      "tip": "Wander the exotic botanical gardens on top of the medieval village for dramatic 400-meter vertical views over Cap Ferrat.",
+      "name_nl": "Cimiez Arenas & Monastery Gardens",
+      "desc_nl": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
+      "tip_nl": "Wander the exotic botanical gardens on top of the medieval village for dramatic 400-meter vertical views over Cap Ferrat.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_12",
@@ -529,7 +573,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Visit the 9 themed gardens (Spanish, Florentine, Japanese) and enjoy high tea on the terrace with views of both bays."
+      "tip": "Visit the 9 themed gardens (Spanish, Florentine, Japanese) and enjoy high tea on the terrace with views of both bays.",
+      "name_nl": "Masséna Museum",
+      "desc_nl": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
+      "tip_nl": "Visit the 9 themed gardens (Spanish, Florentine, Japanese) and enjoy high tea on the terrace with views of both bays.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_13",
@@ -573,7 +621,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Stroll down the cobblestone Citadel paths to Plage des Marinières for one of the South of France's most picturesque swimming beaches."
+      "tip": "Stroll down the cobblestone Citadel paths to Plage des Marinières for one of the South of France's most picturesque swimming beaches.",
+      "name_nl": "Jules Chéret Fine Arts Museum",
+      "desc_nl": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
+      "tip_nl": "Stroll down the cobblestone Citadel paths to Plage des Marinières for one of the South of France's most picturesque swimming beaches.",
+      "price_nl": "Entry: €10"
     },
     {
       "id": "nice_14",
@@ -617,7 +669,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Hike the paved coastal path 'Promenade des Douaniers' around the rocky peninsula. High tide splash spots offer exhilarating sea views."
+      "tip": "Hike the paved coastal path 'Promenade des Douaniers' around the rocky peninsula. High tide splash spots offer exhilarating sea views.",
+      "name_nl": "Place Garibaldi",
+      "desc_nl": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
+      "tip_nl": "Hike the paved coastal path 'Promenade des Douaniers' around the rocky peninsula. High tide splash spots offer exhilarating sea views.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_15",
@@ -661,7 +717,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Try the legendary Fenocchio ice cream on Place Rossetti right in front of the baroque cathedral—over 90 exotic flavors including lavender & thyme!"
+      "tip": "Try the legendary Fenocchio ice cream on Place Rossetti right in front of the baroque cathedral—over 90 exotic flavors including lavender & thyme!",
+      "name_nl": "Nice Cathedral",
+      "desc_nl": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
+      "tip_nl": "Try the legendary Fenocchio ice cream on Place Rossetti right in front of the baroque cathedral—over 90 exotic flavors including lavender & thyme!",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_16",
@@ -705,7 +765,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Look out for traditional wooden Pointu fishing boats painted in bright blues and reds anchored on the quiet eastern quay."
+      "tip": "Look out for traditional wooden Pointu fishing boats painted in bright blues and reds anchored on the quiet eastern quay.",
+      "name_nl": "Port Lympia",
+      "desc_nl": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
+      "tip_nl": "Look out for traditional wooden Pointu fishing boats painted in bright blues and reds anchored on the quiet eastern quay.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_17",
@@ -749,7 +813,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Modern art gallery with a rooftop sculpture garden featuring panoramic city views. Entrance is included in the Nice Museum Pass."
+      "tip": "Modern art gallery with a rooftop sculpture garden featuring panoramic city views. Entrance is included in the Nice Museum Pass.",
+      "name_nl": "Phoenix Botanical & Zoological Park",
+      "desc_nl": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
+      "tip_nl": "Modern art gallery with a rooftop sculpture garden featuring panoramic city views. Entrance is included in the Nice Museum Pass.",
+      "price_nl": "Free Gardens (Interior: €5.40)"
     },
     {
       "id": "nice_18",
@@ -793,7 +861,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Features Impressionist and Belle Époque masterworks inside a 19th-century palace built for a Russian princess."
+      "tip": "Features Impressionist and Belle Époque masterworks inside a 19th-century palace built for a Russian princess.",
+      "name_nl": "Mont Boron Forest Park",
+      "desc_nl": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
+      "tip_nl": "Features Impressionist and Belle Époque masterworks inside a 19th-century palace built for a Russian princess.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_19",
@@ -837,7 +909,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "🍨 Legendary ice cream parlor on Place Rossetti with over 90 artisanal flavors including lavender, thyme, rose, basil, and cactus."
+      "tip": "🍨 Legendary ice cream parlor on Place Rossetti with over 90 artisanal flavors including lavender, thyme, rose, basil, and cactus.",
+      "name_nl": "Glacier Fenocchio",
+      "desc_nl": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
+      "tip_nl": "🍨 Legendary ice cream parlor on Place Rossetti with over 90 artisanal flavors including lavender, thyme, rose, basil, and cactus.",
+      "price_nl": "Free Plaza & Exterior (Inside: €3)"
     },
     {
       "id": "nice_20",
@@ -881,7 +957,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Expect queues at this legendary street food counter! Order Socca, Pissaladière (onion-anchovy tart), and Tourte blettes."
+      "tip": "Expect queues at this legendary street food counter! Order Socca, Pissaladière (onion-anchovy tart), and Tourte blettes.",
+      "name_nl": "Chez René Socca",
+      "desc_nl": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
+      "tip_nl": "Expect queues at this legendary street food counter! Order Socca, Pissaladière (onion-anchovy tart), and Tourte blettes.",
+      "price_nl": "Snacks: €3–€10"
     },
     {
       "id": "nice_21",
@@ -925,7 +1005,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Stroll the interactive water mirror (Miroir d'eau) where 128 water jets spray mist in summer—bring towels if visiting with kids!"
+      "tip": "Stroll the interactive water mirror (Miroir d'eau) where 128 water jets spray mist in summer—bring towels if visiting with kids!",
+      "name_nl": "Le Plongeoir",
+      "desc_nl": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
+      "tip_nl": "Stroll the interactive water mirror (Miroir d'eau) where 128 water jets spray mist in summer—bring towels if visiting with kids!",
+      "price_nl": "Mains: €40–€80"
     },
     {
       "id": "nice_22",
@@ -969,7 +1053,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Buy authentic AOP olive oil from local Provence groves inside bottles shaped like perfume flasks."
+      "tip": "Buy authentic AOP olive oil from local Provence groves inside bottles shaped like perfume flasks.",
+      "name_nl": "Grand Café de Turin",
+      "desc_nl": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
+      "tip_nl": "Buy authentic AOP olive oil from local Provence groves inside bottles shaped like perfume flasks.",
+      "price_nl": "Free Plaza & Exterior (Inside: €25)"
     },
     {
       "id": "nice_23",
@@ -1013,7 +1101,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Discover candied clementines, violets, and chocolate-dipped orange peels handmade since 1820."
+      "tip": "Discover candied clementines, violets, and chocolate-dipped orange peels handmade since 1820.",
+      "name_nl": "Exotic Garden of Èze & Medieval Village",
+      "desc_nl": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
+      "tip_nl": "Discover candied clementines, violets, and chocolate-dipped orange peels handmade since 1820.",
+      "price_nl": "Admission: €7–€8"
     },
     {
       "id": "nice_24",
@@ -1057,7 +1149,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Historic 1860 opera house with opulent gold-and-velvet auditorium. Check the program for evening ballet or classical performances."
+      "tip": "Historic 1860 opera house with opulent gold-and-velvet auditorium. Check the program for evening ballet or classical performances.",
+      "name_nl": "Villa Ephrussi de Rothschild",
+      "desc_nl": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
+      "tip_nl": "Historic 1860 opera house with opulent gold-and-velvet auditorium. Check the program for evening ballet or classical performances.",
+      "price_nl": "Admission: €17"
     },
     {
       "id": "nice_25",
@@ -1101,7 +1197,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Step inside a faithful recreation of an ancient 5th-century BC Greek noble villa built directly over the sea cliffs in Beaulieu."
+      "tip": "Step inside a faithful recreation of an ancient 5th-century BC Greek noble villa built directly over the sea cliffs in Beaulieu.",
+      "name_nl": "Villa Kérylos",
+      "desc_nl": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
+      "tip_nl": "Step inside a faithful recreation of an ancient 5th-century BC Greek noble villa built directly over the sea cliffs in Beaulieu.",
+      "price_nl": "Entry: €13"
     },
     {
       "id": "nice_26",
@@ -1145,7 +1245,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Dine inside an old chapel with stained glass windows at Le Saint Paul, offering cliffside terrace dining over the sea."
+      "tip": "Dine inside an old chapel with stained glass windows at Le Saint Paul, offering cliffside terrace dining over the sea.",
+      "name_nl": "Villefranche-sur-Mer Old Town & Citadel",
+      "desc_nl": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
+      "tip_nl": "Dine inside an old chapel with stained glass windows at Le Saint Paul, offering cliffside terrace dining over the sea.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_27",
@@ -1189,7 +1293,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Take the scenic Train des Pignes steam train into the mountains for a rustic day trip to medieval Entrevaux."
+      "tip": "Take the scenic Train des Pignes steam train into the mountains for a rustic day trip to medieval Entrevaux.",
+      "name_nl": "Saint-Paul-de-Vence Medieval Village",
+      "desc_nl": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
+      "tip_nl": "Take the scenic Train des Pignes steam train into the mountains for a rustic day trip to medieval Entrevaux.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_28",
@@ -1233,7 +1341,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Stroll down the tree-lined pedestrian mall packed with high-end boutiques and French cafes."
+      "tip": "Stroll down the tree-lined pedestrian mall packed with high-end boutiques and French cafes.",
+      "name_nl": "Fondation Maeght",
+      "desc_nl": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
+      "tip_nl": "Stroll down the tree-lined pedestrian mall packed with high-end boutiques and French cafes.",
+      "price_nl": "Entry: €16"
     },
     {
       "id": "nice_29",
@@ -1277,7 +1389,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Walk up to the 19th-century fortress for sweeping 360-degree views over Cap d'Antibes and the Southern Alps."
+      "tip": "Walk up to the 19th-century fortress for sweeping 360-degree views over Cap d'Antibes and the Southern Alps.",
+      "name_nl": "Prince's Palace of Monaco & The Rock",
+      "desc_nl": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
+      "tip_nl": "Walk up to the 19th-century fortress for sweeping 360-degree views over Cap d'Antibes and the Southern Alps.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_30",
@@ -1321,7 +1437,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Located inside Château Grimaldi where Picasso lived and worked in 1946—see his vibrant Mediterranean ceramics and paintings overlooking the sea."
+      "tip": "Located inside Château Grimaldi where Picasso lived and worked in 1946—see his vibrant Mediterranean ceramics and paintings overlooking the sea.",
+      "name_nl": "Oceanographic Museum of Monaco",
+      "desc_nl": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
+      "tip_nl": "Located inside Château Grimaldi where Picasso lived and worked in 1946—see his vibrant Mediterranean ceramics and paintings overlooking the sea.",
+      "price_nl": "Entry: €19"
     },
     {
       "id": "nice_31",
@@ -1365,7 +1485,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Famous for the Maeght Foundation modern art museum hidden in the pine forest and its artisan glass/sculpture workshops."
+      "tip": "Famous for the Maeght Foundation modern art museum hidden in the pine forest and its artisan glass/sculpture workshops.",
+      "name_nl": "Musée Picasso",
+      "desc_nl": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
+      "tip_nl": "Famous for the Maeght Foundation modern art museum hidden in the pine forest and its artisan glass/sculpture workshops.",
+      "price_nl": "Entry: €8"
     },
     {
       "id": "nice_32",
@@ -1409,7 +1533,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Visit Fragonard or Molinard perfume laboratories for a free guided tour and craft your own custom fragrance formula."
+      "tip": "Visit Fragonard or Molinard perfume laboratories for a free guided tour and craft your own custom fragrance formula.",
+      "name_nl": "Casino de Monte-Carlo",
+      "desc_nl": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
+      "tip_nl": "Visit Fragonard or Molinard perfume laboratories for a free guided tour and craft your own custom fragrance formula.",
+      "price_nl": "Tour: €18"
     },
     {
       "id": "nice_33",
@@ -1453,7 +1581,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Walk down the Boulevard de la Croisette to view the Red Carpet of the Palais des Festivals where the Cannes Film Festival is held."
+      "tip": "Walk down the Boulevard de la Croisette to view the Red Carpet of the Palais des Festivals where the Cannes Film Festival is held.",
+      "name_nl": "Basilique Saint-Michel Archange & Menton Old Town",
+      "desc_nl": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
+      "tip_nl": "Walk down the Boulevard de la Croisette to view the Red Carpet of the Palais des Festivals where the Cannes Film Festival is held.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_34",
@@ -1497,7 +1629,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Take the 15-minute boat ferry from Cannes to explore the tranquil island forest and cellars of Monks brewing Lerina liqueur."
+      "tip": "Take the 15-minute boat ferry from Cannes to explore the tranquil island forest and cellars of Monks brewing Lerina liqueur.",
+      "name_nl": "Le Sentier du Littoral",
+      "desc_nl": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
+      "tip_nl": "Take the 15-minute boat ferry from Cannes to explore the tranquil island forest and cellars of Monks brewing Lerina liqueur.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "nice_35",
@@ -1541,7 +1677,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Rent a kayak or stand-up paddleboard to paddle through the towering 700-meter limestone canyon into Lake Sainte-Croix."
+      "tip": "Rent a kayak or stand-up paddleboard to paddle through the towering 700-meter limestone canyon into Lake Sainte-Croix.",
+      "name_nl": "Abbaye de Lérins",
+      "desc_nl": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
+      "tip_nl": "Rent a kayak or stand-up paddleboard to paddle through the towering 700-meter limestone canyon into Lake Sainte-Croix.",
+      "price_nl": "Ferry: €16"
     },
     {
       "id": "nice_36",
@@ -1585,7 +1725,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Stroll down the green corridor park spanning from the Old Town to the National Theatre with wooden playgrounds and shaded benches."
+      "tip": "Stroll down the green corridor park spanning from the Old Town to the National Theatre with wooden playgrounds and shaded benches.",
+      "name_nl": "Fort du Mont Alban",
+      "desc_nl": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
+      "tip_nl": "Stroll down the green corridor park spanning from the Old Town to the National Theatre with wooden playgrounds and shaded benches.",
+      "price_nl": "Free Entry"
     }
   ]
 }

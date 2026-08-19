@@ -40,7 +40,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Miniatur Wunderland in City district.",
-      "price": "Adult: €22"
+      "price": "Adult: €22",
+      "name_nl": "Miniatur Wunderland",
+      "desc_nl": "Miniatur Wunderland in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "Adult: €22"
     },
     {
       "id": "h_2",
@@ -82,7 +86,11 @@
       "hasWiki": true,
       "desc_de": "Elbphilharmonie Concert Hall in City district.",
       "price": "Plaza Free (Online Reservation €2)",
-      "tip": "🎟️ Plaza viewing deck requires a €3 Plaza Ticket. Ride the 82m curved escalator 'The Tube' to the 37m high panoramic balcony."
+      "tip": "🎟️ Plaza viewing deck requires a €3 Plaza Ticket. Ride the 82m curved escalator 'The Tube' to the 37m high panoramic balcony.",
+      "name_nl": "Elbphilharmonie Hamburg",
+      "desc_nl": "Elbphilharmonie Concert Hall in City district.",
+      "tip_nl": "🎟️ Plaza viewing deck requires a €3 Plaza Ticket. Ride the 82m curved escalator 'The Tube' to the 37m high panoramic balcony.",
+      "price_nl": "Plaza Free (Online Time-Slot Booking €2)"
     },
     {
       "id": "h_3",
@@ -122,7 +130,11 @@
       "name_de": "Speicherstadt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Wasserschloss_at_sunset.jpg/330px-The_Wasserschloss_at_sunset.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Speicherstadt Warehouse District in City district."
+      "desc_de": "Speicherstadt Warehouse District in City district.",
+      "name_nl": "Speicherstadt",
+      "desc_nl": "Speicherstadt Warehouse District in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_4",
@@ -162,7 +174,11 @@
       "name_de": "Kontorhausviertel & Chilehaus",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Chilehaus & Kontorhaus District in City district."
+      "desc_de": "Chilehaus & Kontorhaus District in City district.",
+      "name_nl": "Kontorhausviertel & Chilehaus",
+      "desc_nl": "Chilehaus & Kontorhaus District in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "h_5",
@@ -202,7 +218,11 @@
       "name_de": "Hamburger Rathaus & Rathausmarkt",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Hamburg City Hall in City district."
+      "desc_de": "Hamburg City Hall in City district.",
+      "name_nl": "Hamburger Rathaus & Rathausmarkt",
+      "desc_nl": "Hamburg City Hall in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "中庭無料"
     },
     {
       "id": "h_6",
@@ -243,7 +263,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/330px-Sankt-Michaelis-Kirche_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "St. Michael's Church in City district.",
-      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/330px-Sankt-Michaelis-Kirche_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/330px-Sankt-Michaelis-Kirche_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "name_nl": "Hauptkirche St. Michaelis",
+      "desc_nl": "St. Michael's Church in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "聖堂無料（塔8€）"
     },
     {
       "id": "h_7",
@@ -283,7 +307,11 @@
       "name_de": "Hamburger Hafen & Landungsbrücken",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Hamburg Harbor & St. Pauli Piers in City district."
+      "desc_de": "Hamburg Harbor & St. Pauli Piers in City district.",
+      "name_nl": "Hamburger Hafen & Landungsbrücken",
+      "desc_nl": "Hamburg Harbor & St. Pauli Piers in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "桟橋無料"
     },
     {
       "id": "h_8",
@@ -323,7 +351,11 @@
       "name_de": "Alter Elbtunnel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg/330px-Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Old Elbe Tunnel in City district."
+      "desc_de": "Old Elbe Tunnel in City district.",
+      "name_nl": "Alter Elbtunnel",
+      "desc_nl": "Old Elbe Tunnel in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "通行無料"
     },
     {
       "id": "h_9",
@@ -363,7 +395,11 @@
       "name_de": "HafenCity",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HafenCity_in_HH.svg/langde-330px-HafenCity_in_HH.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "HafenCity District in City district."
+      "desc_de": "HafenCity District in City district.",
+      "name_nl": "HafenCity",
+      "desc_nl": "HafenCity District in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_10",
@@ -403,7 +439,11 @@
       "name_de": "Binnenalster & Außenalster",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Alster Lakes in City district."
+      "desc_de": "Alster Lakes in City district.",
+      "name_nl": "Binnenalster & Außenalster",
+      "desc_nl": "Alster Lakes in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_11",
@@ -443,7 +483,11 @@
       "name_de": "Hamburger Kunsthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/330px-Hamburger_Kunsthalle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Hamburg Art Museum in City district."
+      "desc_de": "Hamburg Art Museum in City district.",
+      "name_nl": "Hamburger Kunsthalle",
+      "desc_nl": "Hamburg Art Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "h_12",
@@ -483,7 +527,11 @@
       "name_de": "Internationales Maritimes Museum Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hamburg-090613-0286-DSC_8383.jpg/330px-Hamburg-090613-0286-DSC_8383.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "International Maritime Museum in City district."
+      "desc_de": "International Maritime Museum in City district.",
+      "name_nl": "Internationales Maritimes Museum Hamburg",
+      "desc_nl": "International Maritime Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 17€"
     },
     {
       "id": "h_13",
@@ -523,7 +571,11 @@
       "name_de": "Museum für Kunst und Gewerbe Hamburg (MK&G)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg/330px-Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg%2C_Ostfassade_mit_Hauptportal.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Renommiertes Museum für angewandte Kunst, Design, Fotografie und Mode nahe dem Hamburger Hauptbahnhof."
+      "desc_de": "Renommiertes Museum für angewandte Kunst, Design, Fotografie und Mode nahe dem Hamburger Hauptbahnhof.",
+      "name_nl": "Museum für Kunst und Gewerbe Hamburg",
+      "desc_nl": "Museum of Arts and Crafts Hamburg in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "h_14",
@@ -563,7 +615,11 @@
       "name_de": "Deichtorhallen Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_der_Deichtorhallen.png/330px-Logo_der_Deichtorhallen.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Deichtorhallen Contemporary Art in City district."
+      "desc_de": "Deichtorhallen Contemporary Art in City district.",
+      "name_nl": "Deichtorhallen Hamburg",
+      "desc_nl": "Deichtorhallen Contemporary Art in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "h_15",
@@ -603,7 +659,11 @@
       "name_de": "Cap San Diego",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cap_San_Diego_07.jpg/330px-Cap_San_Diego_07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Cap San Diego Museum Ship in City district."
+      "desc_de": "Cap San Diego Museum Ship in City district.",
+      "name_nl": "Cap San Diego",
+      "desc_nl": "Cap San Diego Museum Ship in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 11€"
     },
     {
       "id": "h_16",
@@ -643,7 +703,11 @@
       "name_de": "Rickmer Rickmers",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg/330px-Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Rickmer Rickmers Sailing Ship in City district."
+      "desc_de": "Rickmer Rickmers Sailing Ship in City district.",
+      "name_nl": "Rickmer Rickmers",
+      "desc_nl": "Rickmer Rickmers Sailing Ship in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 7€"
     },
     {
       "id": "h_17",
@@ -683,7 +747,11 @@
       "name_de": "Submarine Museum U-434",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Submarine Museum U-434 in City district."
+      "desc_de": "Submarine Museum U-434 in City district.",
+      "name_nl": "Submarine Museum U-434",
+      "desc_nl": "Submarine Museum U-434 in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 10€"
     },
     {
       "id": "h_18",
@@ -723,7 +791,11 @@
       "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "St. Nikolai Memorial Spire in City district."
+      "desc_de": "St. Nikolai Memorial Spire in City district.",
+      "name_nl": "St. Nikolai Memorial",
+      "desc_nl": "St. Nikolai Memorial Spire in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "廃墟無料（エレベーター6€）"
     },
     {
       "id": "h_19",
@@ -763,7 +835,11 @@
       "name_de": "Planten un Blomen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hh-dammtordamm_fig.jpg/330px-Hh-dammtordamm_fig.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Planten un Blomen Park in City district."
+      "desc_de": "Planten un Blomen Park in City district.",
+      "name_nl": "Planten un Blomen",
+      "desc_nl": "Planten un Blomen Park in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入園無料"
     },
     {
       "id": "h_20",
@@ -803,7 +879,11 @@
       "name_de": "Tierpark Hagenbeck & Tropen-Aquarium",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Tierpark Hagenbeck in City district."
+      "desc_de": "Tierpark Hagenbeck in City district.",
+      "name_nl": "Tierpark Hagenbeck & Tropen-Aquarium",
+      "desc_nl": "Tierpark Hagenbeck in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "動物園: 29€"
     },
     {
       "id": "h_21",
@@ -844,7 +924,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hamburg.Fischmarkt.wmt.jpg/330px-Hamburg.Fischmarkt.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Altona Fish Market in City district.",
-      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hamburg.Fischmarkt.wmt.jpg/330px-Hamburg.Fischmarkt.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hamburg.Fischmarkt.wmt.jpg/330px-Hamburg.Fischmarkt.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "name_nl": "Fischmarkt",
+      "desc_nl": "Altona Fish Market in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "h_22",
@@ -884,7 +968,11 @@
       "name_de": "Reeperbahn & St. Pauli",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Reeperbahn Nightlife District in City district."
+      "desc_de": "Reeperbahn Nightlife District in City district.",
+      "name_nl": "Reeperbahn & St. Pauli",
+      "desc_nl": "Reeperbahn Nightlife District in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_23",
@@ -924,7 +1012,11 @@
       "name_de": "Beatles-Platz & Indra Club / Kaiserkeller",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Beatles-Platz & Indra / Kaiserkeller in City district."
+      "desc_de": "Beatles-Platz & Indra / Kaiserkeller in City district.",
+      "name_nl": "Beatles-Platz & Indra Club / Kaiserkeller",
+      "desc_nl": "Beatles-Platz & Indra / Kaiserkeller in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "h_24",
@@ -964,7 +1056,11 @@
       "name_de": "Jungfernstieg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jungfernstieg.wmt.jpg/330px-Jungfernstieg.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Jungfernstieg Boulevard in City district."
+      "desc_de": "Jungfernstieg Boulevard in City district.",
+      "name_nl": "Jungfernstieg",
+      "desc_nl": "Jungfernstieg Boulevard in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_25",
@@ -1004,7 +1100,11 @@
       "name_de": "Alsterarkaden",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg/330px-The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Alster Arcades in City district."
+      "desc_de": "Alster Arcades in City district.",
+      "name_nl": "Alsterarkaden",
+      "desc_nl": "Alster Arcades in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_26",
@@ -1044,7 +1144,11 @@
       "name_de": "Mönckebergstraße & Spitalerstraße",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Mönckebergstraße Shopping Street in City district."
+      "desc_de": "Mönckebergstraße Shopping Street in City district.",
+      "name_nl": "Mönckebergstraße & Spitalerstraße",
+      "desc_nl": "Mönckebergstraße Shopping Street in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_27",
@@ -1084,7 +1188,11 @@
       "name_de": "Neuer Wall & Große Bleichen",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Neuer Wall Luxury Shopping in City district."
+      "desc_de": "Neuer Wall Luxury Shopping in City district.",
+      "name_nl": "Neuer Wall & Große Bleichen",
+      "desc_nl": "Neuer Wall Luxury Shopping in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_28",
@@ -1124,7 +1232,11 @@
       "name_de": "Hanse-Viertel & Europa Passage",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Europa Passage & Hanse-Viertel in City district."
+      "desc_de": "Europa Passage & Hanse-Viertel in City district.",
+      "name_nl": "Hanse-Viertel & Europa Passage",
+      "desc_nl": "Europa Passage & Hanse-Viertel in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "h_29",
@@ -1164,7 +1276,11 @@
       "name_de": "Sternschanze (Schanzenviertel)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/330px-Hh-schanze-susannen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Sternschanze Quarter in City district."
+      "desc_de": "Sternschanze Quarter in City district.",
+      "name_nl": "Sternschanze",
+      "desc_nl": "Sternschanze Quarter in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_30",
@@ -1204,7 +1320,11 @@
       "name_de": "Karolinenviertel (Karoviertel)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Karolinenviertel District in City district."
+      "desc_de": "Karolinenviertel District in City district.",
+      "name_nl": "Karolinenviertel",
+      "desc_nl": "Karolinenviertel District in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_31",
@@ -1244,7 +1364,11 @@
       "name_de": "Museum der Natur - Hamburg",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Museum of Nature - Zoology in City district."
+      "desc_de": "Museum of Nature - Zoology in City district.",
+      "name_nl": "Museum der Natur - Hamburg",
+      "desc_nl": "Museum of Nature - Zoology in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "h_32",
@@ -1284,7 +1408,11 @@
       "name_de": "Hamburg Dungeon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/330px-HamburgDungeon.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Hamburg Dungeon in City district."
+      "desc_de": "Hamburg Dungeon in City district.",
+      "name_nl": "Hamburg Dungeon",
+      "desc_nl": "Hamburg Dungeon in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 26€"
     },
     {
       "id": "h_33",
@@ -1324,7 +1452,11 @@
       "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Einzigartige Erlebnisausstellung in der Speicherstadt, bei der blinde Guides Besucher durch völlig abgedunkelte Räume führen."
+      "desc_de": "Einzigartige Erlebnisausstellung in der Speicherstadt, bei der blinde Guides Besucher durch völlig abgedunkelte Räume führen.",
+      "name_nl": "Dialog im Dunkeln",
+      "desc_nl": "Dialog in the Dark in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "体験料: 19.50€"
     },
     {
       "id": "h_34",
@@ -1364,7 +1496,11 @@
       "name_de": "Chocoversum by Hachez",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Chocoversum Chocolate Museum in City district."
+      "desc_de": "Chocoversum Chocolate Museum in City district.",
+      "name_nl": "Chocoversum by Hachez",
+      "desc_nl": "Chocoversum Chocolate Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "ツアー料: 23€"
     },
     {
       "id": "h_35",
@@ -1404,7 +1540,11 @@
       "name_de": "Spicy's Gewürzmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gew%C3%BCrzmuseum_Hamburg_01.jpg/330px-Gew%C3%BCrzmuseum_Hamburg_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Spicy's Spice Museum in City district."
+      "desc_de": "Spicy's Spice Museum in City district.",
+      "name_nl": "Spicy's Gewürzmuseum",
+      "desc_nl": "Spicy's Spice Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 5€"
     },
     {
       "id": "h_36",
@@ -1444,7 +1584,11 @@
       "name_de": "Zollmuseum (Deutsches Zollmuseum)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "German Customs Museum in City district."
+      "desc_de": "German Customs Museum in City district.",
+      "name_nl": "Zollmuseum",
+      "desc_nl": "German Customs Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 2€"
     },
     {
       "id": "h_37",
@@ -1484,7 +1628,11 @@
       "name_de": "Krameramtsstuben",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/330px-Krameramtsstuben.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Krameramtsstuben Guild Houses in City district."
+      "desc_de": "Krameramtsstuben Guild Houses in City district.",
+      "name_nl": "Krameramtsstuben",
+      "desc_nl": "Krameramtsstuben Guild Houses in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "路地散策無料"
     },
     {
       "id": "h_38",
@@ -1524,7 +1672,11 @@
       "name_de": "Fischbrötchen-Buden an den Landungsbrücken",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Landungsbrücken Fish Roll Stalls in City district."
+      "desc_de": "Landungsbrücken Fish Roll Stalls in City district.",
+      "name_nl": "Fischbrötchen-Buden an den Landungsbrücken",
+      "desc_nl": "Landungsbrücken Fish Roll Stalls in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "魚パン: 4.50€"
     },
     {
       "id": "h_39",
@@ -1564,7 +1716,11 @@
       "name_de": "Old Commercial Room",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_Commercial_Room_Hamburg.jpg/330px-Old_Commercial_Room_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Old Commercial Room Restaurant in City district."
+      "desc_de": "Old Commercial Room Restaurant in City district.",
+      "name_nl": "Old Commercial Room",
+      "desc_nl": "Old Commercial Room Restaurant in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "ラブスカウス: 24€"
     },
     {
       "id": "h_40",
@@ -1604,7 +1760,11 @@
       "name_de": "Café Paris (Hamburg)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Café Paris Hamburg in City district."
+      "desc_de": "Café Paris Hamburg in City district.",
+      "name_nl": "Café Paris",
+      "desc_nl": "Café Paris Hamburg in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "コーヒー: 4.50€"
     },
     {
       "id": "h_41",
@@ -1644,7 +1804,11 @@
       "name_de": "Rive Fisch & Fischereihafen Restaurant",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Fischereihafen Restaurant in City district."
+      "desc_de": "Fischereihafen Restaurant in City district.",
+      "name_nl": "Rive Fisch & Fischereihafen Restaurant",
+      "desc_nl": "Fischereihafen Restaurant in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "魚料理: 32€"
     },
     {
       "id": "h_42",
@@ -1684,7 +1848,11 @@
       "name_de": "Gröninger Privatbrauerei",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Gröninger Private Brewery in City district."
+      "desc_de": "Gröninger Private Brewery in City district.",
+      "name_nl": "Gröninger Privatbrauerei",
+      "desc_nl": "Gröninger Private Brewery in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "自家醸造ビール: 4€"
     },
     {
       "id": "h_43",
@@ -1724,7 +1892,11 @@
       "name_de": "Elbstrand (Övelgönne)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Elbstrand Beach Övelgönne in City district."
+      "desc_de": "Elbstrand Beach Övelgönne in City district.",
+      "name_nl": "Elbstrand",
+      "desc_nl": "Elbstrand Beach Övelgönne in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "砂浜無料"
     },
     {
       "id": "h_44",
@@ -1764,7 +1936,11 @@
       "name_de": "Museumshafen Övelgönne",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbe.Anleger_Neum%C3%BChlen.wmt.jpg/330px-Elbe.Anleger_Neum%C3%BChlen.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Övelgönne Museum Harbor in City district."
+      "desc_de": "Övelgönne Museum Harbor in City district.",
+      "name_nl": "Museumshafen Övelgönne",
+      "desc_nl": "Övelgönne Museum Harbor in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "h_45",
@@ -1804,7 +1980,11 @@
       "name_de": "Stadtpark Hamburg & Planetarium Hamburg",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Stadtpark & Planetarium in City district."
+      "desc_de": "Stadtpark & Planetarium in City district.",
+      "name_nl": "Stadtpark Hamburg & Planetarium Hamburg",
+      "desc_nl": "Stadtpark & Planetarium in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "公園無料（ショー12€）"
     },
     {
       "id": "h_46",
@@ -1844,7 +2024,11 @@
       "name_de": "Jenischpark & Jenisch Haus",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Jenisch Park & House in City district."
+      "desc_de": "Jenisch Park & House in City district.",
+      "name_nl": "Jenischpark & Jenisch Haus",
+      "desc_nl": "Jenisch Park & House in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "公園無料"
     },
     {
       "id": "h_47",
@@ -1884,7 +2068,11 @@
       "name_de": "Energiebunker Wilhelmsburg",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Wilhelmsburg Energy Bunker in City district."
+      "desc_de": "Wilhelmsburg Energy Bunker in City district.",
+      "name_nl": "Energiebunker Wilhelmsburg",
+      "desc_nl": "Wilhelmsburg Energy Bunker in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "屋上カフェ無料"
     },
     {
       "id": "h_48",
@@ -1924,7 +2112,11 @@
       "name_de": "HADAG-Hafenfähren (Linie 62)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "HADAG Harbor Ferry Line 62 in City district."
+      "desc_de": "HADAG Harbor Ferry Line 62 in City district.",
+      "name_nl": "HADAG-Hafenfähren",
+      "desc_nl": "HADAG Harbor Ferry Line 62 in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "HVV乗車券適用"
     },
     {
       "id": "h_49",
@@ -1964,7 +2156,11 @@
       "name_de": "Bäderland Holthusenbad",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Holthusenbad Historic Spa in City district."
+      "desc_de": "Holthusenbad Historic Spa in City district.",
+      "name_nl": "Bäderland Holthusenbad",
+      "desc_nl": "Holthusenbad Historic Spa in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "スパプール: 11€"
     },
     {
       "id": "h_50",
@@ -2004,7 +2200,11 @@
       "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Lübeck Old Town & Holsten Gate in Suburban district."
+      "desc_de": "Lübeck Old Town & Holsten Gate in Suburban district.",
+      "name_nl": "Lübeck: Altstadt & Holstentor",
+      "desc_nl": "Lübeck Old Town & Holsten Gate in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "旧市街無料"
     },
     {
       "id": "h_51",
@@ -2044,7 +2244,11 @@
       "name_de": "Lüneburg: Historische Altstadt",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Lüneburg Old Town & Salt Museum in Suburban district."
+      "desc_de": "Lüneburg Old Town & Salt Museum in Suburban district.",
+      "name_nl": "Lüneburg: Historische Altstadt",
+      "desc_nl": "Lüneburg Old Town & Salt Museum in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "旧市街無料"
     },
     {
       "id": "h_52",
@@ -2084,7 +2288,11 @@
       "name_de": "Schloss Schwerin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/330px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Schwerin Castle in Suburban district."
+      "desc_de": "Schwerin Castle in Suburban district.",
+      "name_nl": "Schloss Schwerin",
+      "desc_nl": "Schwerin Castle in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "宮殿: 8.50€"
     },
     {
       "id": "h_53",
@@ -2124,7 +2332,11 @@
       "name_de": "Stade & Altes Land",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Stade & Altes Land Orchards in Suburban district."
+      "desc_de": "Stade & Altes Land Orchards in Suburban district.",
+      "name_nl": "Stade & Altes Land",
+      "desc_nl": "Stade & Altes Land Orchards in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "h_54",
@@ -2164,7 +2376,11 @@
       "name_de": "Cuxhaven & Wattenmeer (UNESCO)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Cuxhaven & Wadden Sea in Suburban district."
+      "desc_de": "Cuxhaven & Wadden Sea in Suburban district.",
+      "name_nl": "Cuxhaven & Wattenmeer",
+      "desc_nl": "Cuxhaven & Wadden Sea in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "海岸無料"
     },
     {
       "id": "h_55",
@@ -2204,7 +2420,11 @@
       "name_de": "Helgoland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DEU_Helgoland_COA.svg/langde-330px-DEU_Helgoland_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Heligoland Island in Suburban district."
+      "desc_de": "Heligoland Island in Suburban district.",
+      "name_nl": "Helgoland",
+      "desc_nl": "Heligoland Island in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "高速船: 85€往復"
     },
     {
       "id": "h_56",
@@ -2244,7 +2464,11 @@
       "name_de": "Bremerhaven: Auswandererhaus & Klimahaus",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Bremerhaven Emigration & Climate House in Suburban district."
+      "desc_de": "Bremerhaven Emigration & Climate House in Suburban district.",
+      "name_nl": "Bremerhaven: Auswandererhaus & Klimahaus",
+      "desc_nl": "Bremerhaven Emigration & Climate House in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "各館: 20€"
     },
     {
       "id": "h_57",
@@ -2284,7 +2508,11 @@
       "name_de": "KZ-Gedenkstätte Neuengamme",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gestaltung_des_Haeftlingslagers.jpg/330px-Gestaltung_des_Haeftlingslagers.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Neuengamme Concentration Camp Memorial in Suburban district."
+      "desc_de": "Neuengamme Concentration Camp Memorial in Suburban district.",
+      "name_nl": "KZ-Gedenkstätte Neuengamme",
+      "desc_nl": "Neuengamme Concentration Camp Memorial in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "h_58",
@@ -2324,7 +2552,11 @@
       "name_de": "Schloss Ahrensburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg-msu-1507-.jpg/330px-Schloss_Ahrensburg-msu-1507-.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Ahrensburg Palace in Suburban district."
+      "desc_de": "Ahrensburg Palace in Suburban district.",
+      "name_nl": "Schloss Ahrensburg",
+      "desc_nl": "Ahrensburg Palace in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "城館: 9€"
     },
     {
       "id": "h_59",
@@ -2364,7 +2596,11 @@
       "name_de": "Wildpark Schwarze Berge",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eingang_Wildpark_Schwarze_Berge.jpg/330px-Eingang_Wildpark_Schwarze_Berge.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Black Mountains Wildlife Park in Suburban district."
+      "desc_de": "Black Mountains Wildlife Park in Suburban district.",
+      "name_nl": "Wildpark Schwarze Berge",
+      "desc_nl": "Black Mountains Wildlife Park in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "h_60",
@@ -2404,7 +2640,11 @@
       "name_de": "Heide Park Resort",
       "image": "https://upload.wikimedia.org/wikipedia/de/thumb/d/d9/Heide-Park%28fern%29.tif/lossy-page1-330px-Heide-Park%28fern%29.tif.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Heide Park Resort in Suburban district."
+      "desc_de": "Heide Park Resort in Suburban district.",
+      "name_nl": "Heide Park Resort",
+      "desc_nl": "Heide Park Resort in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入園料: 44€"
     },
     {
       "id": "h_61",
@@ -2444,7 +2684,11 @@
       "name_de": "Designer Outlet Neumünster / Soltau",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Neumünster Designer Outlet in Suburban district."
+      "desc_de": "Neumünster Designer Outlet in Suburban district.",
+      "name_nl": "Designer Outlet Neumünster / Soltau",
+      "desc_nl": "Neumünster Designer Outlet in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入館無料"
     }
   ],
   "spotCount": 61

@@ -44,7 +44,11 @@
       "price_es": "Entrada: €25.00",
       "price_zh": "门票：€25.00",
       "price_fr": "Entrée : €25.00",
-      "price_de": "Eintritt: €25.00"
+      "price_de": "Eintritt: €25.00",
+      "name_nl": "Rijksmuseum",
+      "desc_nl": "The national museum of the Netherlands dedicated to Dutch Golden Age art, housing Rembrandt's 'The Night Watch'.",
+      "tip_nl": "🎟️ Mandatory advance time-slot booking online. Book the 9:00 AM slot to view 'The Night Watch' in Room 2.4 without crowds.",
+      "price_nl": "Entry: €25.00"
     },
     {
       "id": "a_2",
@@ -86,7 +90,11 @@
       "price_es": "Entrada: €24.00",
       "price_zh": "门票：€24.00",
       "price_fr": "Entrée : €24.00",
-      "price_de": "Eintritt: €24.00"
+      "price_de": "Eintritt: €24.00",
+      "name_nl": "Van Gogh Museum",
+      "desc_nl": "Art museum holding the world's largest collection of paintings and letters by Vincent van Gogh.",
+      "tip_nl": "🎟️ 100% online advance ticket purchase required; no walk-up ticket desk. Reserve weeks early during peak season.",
+      "price_nl": "Entry: €25.00"
     },
     {
       "id": "a_3",
@@ -128,7 +136,11 @@
       "price_es": "Entrada: €16.00",
       "price_zh": "门票：€16.00",
       "price_fr": "Entrée : €16.00",
-      "price_de": "Eintritt: €16.00"
+      "price_de": "Eintritt: €16.00",
+      "name_nl": "Anne Frank House",
+      "desc_nl": "Historic canal house where Anne Frank hid from Nazi persecution during World War II.",
+      "tip_nl": "🎟️ Tickets released online every Tuesday at 10:00 AM (CEST) for visits 6 weeks later; sells out in minutes.",
+      "price_nl": "Entry: €16.50"
     },
     {
       "id": "a_4",
@@ -170,7 +182,11 @@
       "price_es": "Entrada: €18.00",
       "price_zh": "门票：€18.00",
       "price_fr": "Entrée : €18.00",
-      "price_de": "Eintritt: €18.00"
+      "price_de": "Eintritt: €18.00",
+      "name_nl": "Amsterdam Canal Cruise",
+      "desc_nl": "Sightseeing boat tour navigating through the UNESCO World Heritage 17th-century canal ring of Amsterdam.",
+      "tip_nl": "📸 Opt for an open-top small boat tour during golden hour or sunset to photograph illuminated bridge arches.",
+      "price_nl": "Entry: €18.00"
     },
     {
       "id": "a_5",
@@ -212,7 +228,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Dam Square & Royal Palace Amsterdam",
+      "desc_nl": "Historic town square marking the center of Amsterdam, featuring the 17th-century neoclassical Royal Palace.",
+      "tip_nl": "🏛️ The Royal Palace is an active official reception palace. Check official website on the morning of your visit for closures.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_6",
@@ -254,7 +274,11 @@
       "price_es": "Entrada: €23.00",
       "price_zh": "门票：€23.00",
       "price_fr": "Entrée : €23.00",
-      "price_de": "Eintritt: €23.00"
+      "price_de": "Eintritt: €23.00",
+      "name_nl": "Heineken Experience",
+      "desc_nl": "Interactive self-guided tour set inside Heineken's historic first brick brewery in De Pijp.",
+      "tip_nl": "🍺 Admission includes two freshly poured beers. Join the bartender-led 'Perfect Pour' masterclass in the cellar.",
+      "price_nl": "Entry: From €24.95"
     },
     {
       "id": "a_7",
@@ -296,7 +320,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Zaanse Schans",
+      "desc_nl": "Historic open-air conservation village featuring green wooden houses and working 18th-century industrial windmills.",
+      "tip_nl": "🧀 Entrance to the village, clog workshop, and cheese demonstration is free. Take Sprinter train (17 min) from Centraal.",
+      "price_nl": "Free Entry (Windmills ~€7.00 / Card €17.50)"
     },
     {
       "id": "a_8",
@@ -338,7 +366,11 @@
       "price_es": "Entrada: Online €21.50 / Taquilla €25.00",
       "price_zh": "门票：在线 €21.50 / 现场 €25.00",
       "price_fr": "Entrée : En ligne €21.50 / Sur place €25.00",
-      "price_de": "Eintritt: Online €21.50 / Vor Ort €25.00"
+      "price_de": "Eintritt: Online €21.50 / Vor Ort €25.00",
+      "name_nl": "Keukenhof",
+      "desc_nl": "The 'Garden of Europe' in Lisse, featuring over 7 million blooming spring bulbs across 32 hectares of landscaped gardens.",
+      "tip_nl": "🎟️ Purchase the official 'Combi-Ticket' combining park entry with direct express shuttle buses from Schiphol or RAI.",
+      "price_nl": "Entry: Online €21.50 / On-site €25.00"
     },
     {
       "id": "a_9",
@@ -380,7 +412,11 @@
       "price_es": "Entrada: 展望台: €16.50 / ブランコ: €6.00",
       "price_zh": "门票：展望台: €16.50 / ブランコ: €6.00",
       "price_fr": "Entrée : 展望台: €16.50 / ブランコ: €6.00",
-      "price_de": "Eintritt: 展望台: €16.50 / ブランコ: €6.00"
+      "price_de": "Eintritt: 展望台: €16.50 / ブランコ: €6.00",
+      "name_nl": "A'DAM LOOKOUT",
+      "desc_nl": "Observation deck atop a 22-story tower on the IJ river, featuring Europe's highest over-the-edge swing.",
+      "tip_nl": "⛴️ Take the free 24/7 public ferry from behind Centraal (~3 min crossing). Visit 45 minutes before sunset for golden hour.",
+      "price_nl": "Entry: LOOKOUT €16.50+ / Swing add-on €7.50"
     },
     {
       "id": "a_10",
@@ -422,7 +458,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Vondelpark",
+      "desc_nl": "Amsterdam's most famous 47-hectare English landscape park featuring winding waterways and rose gardens.",
+      "tip_nl": "🚲 Dedicated separate lanes for cyclists and pedestrians. Local bike traffic moves fast; avoid walking on cycle paths.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_11",
@@ -464,7 +504,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Jordaan",
+      "desc_nl": "Historic neighborhood transformed into a charming quarter of leafy canals, galleries, and hidden courtyards.",
+      "tip_nl": "🚶 Visit the Saturday morning market on Noordermarkt, then stop at Winkel 43 for fresh warm Dutch apple pie.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_12",
@@ -506,7 +550,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Negen Straatjes",
+      "desc_nl": "Picturesque shopping district of nine narrow cross-streets connecting Amsterdam's main canals.",
+      "tip_nl": "🛍️ Independent boutique shops open later on Mondays (around 1:00 PM). Visit Tuesday to Saturday afternoon.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_13",
@@ -548,7 +596,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Drijvende Bloemenmarkt",
+      "desc_nl": "The world's only floating flower market, resting on permanent floating barges along the Singel canal.",
+      "tip_nl": "🌷 If purchasing tulip bulbs to take abroad, ensure the packaging has the official phytosanitary inspection stamp seal.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_14",
@@ -590,7 +642,11 @@
       "price_es": "Entrada: €22.50",
       "price_zh": "门票：€22.50",
       "price_fr": "Entrée : €22.50",
-      "price_de": "Eintritt: €22.50"
+      "price_de": "Eintritt: €22.50",
+      "name_nl": "Stedelijk Museum Amsterdam",
+      "desc_nl": "Museum of modern and contemporary art and design known for its distinctive 'Bathtub' architectural extension.",
+      "tip_nl": "🎟️ Lines are shorter than at the neighboring Van Gogh Museum. The basement design galleries showcase 20th-century Dutch design.",
+      "price_nl": "Entry: €22.50"
     },
     {
       "id": "a_15",
@@ -632,7 +688,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "NEMO Science Museum",
+      "desc_nl": "Interactive hands-on science museum housed in a green copper ship-hull building designed by Renzo Piano.",
+      "tip_nl": "☀️ The cascading rooftop terrace (featuring water installations and harbor views) is free via outdoor stairs.",
+      "price_nl": "Entry: €21.50"
     },
     {
       "id": "a_16",
@@ -674,7 +734,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Albert Cuypmarkt",
+      "desc_nl": "Europe's largest daily open-air street market, featuring over 260 vendor stalls in the lively De Pijp quarter.",
+      "tip_nl": "🍽️ Try freshly pressed hot stroopwafels made on the griddle right in front of you, and hot kibbeling (fried fish).",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_17",
@@ -716,7 +780,11 @@
       "price_es": "Entrada: €18.50",
       "price_zh": "门票：€18.50",
       "price_fr": "Entrée : €18.50",
-      "price_de": "Eintritt: €18.50"
+      "price_de": "Eintritt: €18.50",
+      "name_nl": "Het Scheepvaartmuseum",
+      "desc_nl": "Museum housed in a 17th-century naval storehouse showcasing Dutch maritime history with a full-scale VOC ship replica.",
+      "tip_nl": "🚢 You can fully board and explore all levels of the moored East Indiaman Amsterdam replica ship.",
+      "price_nl": "Entry: €18.50"
     },
     {
       "id": "a_18",
@@ -758,7 +826,11 @@
       "price_es": "Entrada: €19.50",
       "price_zh": "门票：€19.50",
       "price_fr": "Entrée : €19.50",
-      "price_de": "Eintritt: €19.50"
+      "price_de": "Eintritt: €19.50",
+      "name_nl": "Museum Het Rembrandthuis",
+      "desc_nl": "Historic 17th-century townhouse where Rembrandt van Rijn lived and worked during the height of his career.",
+      "tip_nl": "🎨 Head to the 3rd-floor studio for daily live demonstrations showing how Rembrandt ground mineral pigments.",
+      "price_nl": "Entry: €23.50"
     },
     {
       "id": "a_19",
@@ -800,7 +872,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Rembrandtplein",
+      "desc_nl": "Bustling public square dominated by a historic 1852 bronze statue of Rembrandt, surrounded by cafes and restaurants.",
+      "tip_nl": "📸 The central Rembrandt statue framed by bustling cafe terraces makes for a classic photo. (Note: 3D Night Watch statues were removed).",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_20",
@@ -842,7 +918,11 @@
       "price_es": "Entrada: €13.50",
       "price_zh": "门票：€13.50",
       "price_fr": "Entrée : €13.50",
-      "price_de": "Eintritt: €13.50"
+      "price_de": "Eintritt: €13.50",
+      "name_nl": "De Oude Kerk",
+      "desc_nl": "Amsterdam's oldest standing building (c. 1306) featuring barrel-vaulted wooden ceilings and historic grave slabs.",
+      "tip_nl": "🚶 Among the thousands of tomb slabs paved into the floor is the final resting place of Rembrandt's wife Saskia.",
+      "price_nl": "Entry: €13.50"
     },
     {
       "id": "a_21",
@@ -884,7 +964,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Westerkerk",
+      "desc_nl": "17th-century Dutch Renaissance Protestant church featuring the 85-meter Westertoren spire.",
+      "tip_nl": "📸 Frame the church and its tower from across the Prinsengracht canal near the Leliegracht bridge intersection.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_22",
@@ -926,7 +1010,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Wallen",
+      "desc_nl": "Amsterdam's historic medieval core known for its canals, narrow alleys, and historic brown cafes.",
+      "tip_nl": "⚠️ Strictly forbidden: Taking photos or videos of sex workers in windows is strictly prohibited and enforced.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_23",
@@ -968,7 +1056,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Het Begijnhof",
+      "desc_nl": "Tranquil 14th-century enclosed courtyard complex containing one of Amsterdam's oldest wooden houses.",
+      "tip_nl": "🤫 This is a quiet private residential area; absolute silence is mandatory. Enter via the wooden doorway off Spui.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_24",
@@ -1010,7 +1102,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Magere Brug",
+      "desc_nl": "Iconic white-painted traditional Dutch wooden double-drawbridge spanning the Amstel River.",
+      "tip_nl": "📸 Visit after nightfall when the entire timber structure is illuminated by roughly 1,200 lights.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_25",
@@ -1052,7 +1148,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Eye Filmmuseum",
+      "desc_nl": "Sleek white architectural landmark on the north bank of the IJ river dedicated to film preservation and exhibitions.",
+      "tip_nl": "⛴️ Take the free public ferry (Buiksloterweg direction) from Centraal. The basement interactive exhibit is free.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_26",
@@ -1094,7 +1194,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Volendam & Marken",
+      "desc_nl": "Historic IJsselmeer fishing villages featuring traditional costume studios and stilt-house wooden villages.",
+      "tip_nl": "⛴️ Take the 30-minute Volendam Marken Express ferry between the two towns and try smoked eel.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_27",
@@ -1136,7 +1240,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Historisch Centrum Haarlem",
+      "desc_nl": "Medieval canal city located 15 minutes by train from Amsterdam Centraal, featuring St. Bavo Church.",
+      "tip_nl": "🚶 An easy day-trip alternative with far fewer crowds than Amsterdam. Visit De Adriaan windmill on the Spaarne.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_28",
@@ -1178,7 +1286,11 @@
       "price_es": "Entrada: €21.95",
       "price_zh": "门票：€21.95",
       "price_fr": "Entrée : €21.95",
-      "price_de": "Eintritt: €21.95"
+      "price_de": "Eintritt: €21.95",
+      "name_nl": "Moco Museum",
+      "desc_nl": "Independent boutique museum housed in Villa Alsberg on Museumplein, focusing on Banksy and contemporary art.",
+      "tip_nl": "📸 Photography is permitted throughout the galleries and digital mirror installations. Book online in advance.",
+      "price_nl": "Entry: €21.95"
     },
     {
       "id": "a_29",
@@ -1220,7 +1332,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Pijp",
+      "desc_nl": "Bohemian 'Quartier Latin' of Amsterdam filled with brunch spots, craft beer bars, and multicultural food.",
+      "tip_nl": "🍽️ Explore authentic Surinamese eateries for chicken roti, or visit Indonesian snack shops for satay.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_30",
@@ -1262,7 +1378,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "NDSM-werf",
+      "desc_nl": "Sprawling former industrial shipyard in Amsterdam-Noord transformed into a hub for street art and shipping-container bars.",
+      "tip_nl": "⛴️ Board the free direct 15-minute public ferry from Centraal to NDSM. Try to align your visit with IJ-hallen flea market.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_31",
@@ -1304,7 +1424,11 @@
       "price_es": "Entrada: €19.50",
       "price_zh": "门票：€19.50",
       "price_fr": "Entrée : €19.50",
-      "price_de": "Eintritt: €19.50"
+      "price_de": "Eintritt: €19.50",
+      "name_nl": "STRAAT Museum",
+      "desc_nl": "The world's largest dedicated museum for street art and graffiti, housed in a former shipyard warehouse at NDSM.",
+      "tip_nl": "🎨 Head up to the 2nd-floor cafe bridge and viewing walkways to view the massive scale of the artworks.",
+      "price_nl": "Entry: €19.50"
     },
     {
       "id": "a_32",
@@ -1346,7 +1470,11 @@
       "price_es": "Entrada: €25.00",
       "price_zh": "门票：€25.00",
       "price_fr": "Entrée : €25.00",
-      "price_de": "Eintritt: €25.00"
+      "price_de": "Eintritt: €25.00",
+      "name_nl": "The Amsterdam Dungeon",
+      "desc_nl": "Interactive comedy-horror attraction near Dam Square dramatizing dark Dutch history with live actors.",
+      "tip_nl": "🎭 Tours are conducted primarily in English with live actors. A great indoor activity on rainy days.",
+      "price_nl": "Entry: €25.00"
     },
     {
       "id": "a_33",
@@ -1388,7 +1516,11 @@
       "price_es": "Entrada: €22.50",
       "price_zh": "门票：€22.50",
       "price_fr": "Entrée : €22.50",
-      "price_de": "Eintritt: €22.50"
+      "price_de": "Eintritt: €22.50",
+      "name_nl": "BODY WORLDS Amsterdam",
+      "desc_nl": "Anatomy exhibition on Damrak featuring over 200 authentic plastinated human specimens showcasing human physiology.",
+      "tip_nl": "🧠 Included with your ticket is a free InBody health scan assessment at the end of the exhibition.",
+      "price_nl": "Entry: €22.50"
     },
     {
       "id": "a_34",
@@ -1430,7 +1562,11 @@
       "price_es": "Entrada: 動物園: €26.50 / マイクロピア: €17.50",
       "price_zh": "门票：動物園: €26.50 / マイクロピア: €17.50",
       "price_fr": "Entrée : 動物園: €26.50 / マイクロピア: €17.50",
-      "price_de": "Eintritt: 動物園: €26.50 / マイクロピア: €17.50"
+      "price_de": "Eintritt: 動物園: €26.50 / マイクロピア: €17.50",
+      "name_nl": "ARTIS & Micropia",
+      "desc_nl": "Historic 1838 urban zoo combined with Micropia, the world's only museum dedicated exclusively to microbes and bacteria.",
+      "tip_nl": "🔬 Inside Micropia, test the 'Kiss-o-Meter' to see how many millions of microbes are exchanged during a kiss.",
+      "price_nl": "Entry: ARTIS €29.50+ / Micropia €17.00"
     },
     {
       "id": "a_35",
@@ -1472,7 +1608,11 @@
       "price_es": "Entrada: €16.00",
       "price_zh": "门票：€16.00",
       "price_fr": "Entrée : €16.00",
-      "price_de": "Eintritt: €16.00"
+      "price_de": "Eintritt: €16.00",
+      "name_nl": "Wereldmuseum Amsterdam）",
+      "desc_nl": "Ethnographical museum housed in a colonial institute palace, exploring global material culture.",
+      "tip_nl": "🏛️ The three-story monumental marble central Grand Hall is an architectural wonder and rarely crowded.",
+      "price_nl": "Entry: €16.00"
     },
     {
       "id": "a_36",
@@ -1514,7 +1654,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Brouwerij 't IJ",
+      "desc_nl": "Craft brewery situated directly beneath the historic 18th-century De Gooyer wooden windmill.",
+      "tip_nl": "🍺 Sit on the outdoor terrace for a photo pairing your fresh draft beer with the towering windmill backdrop.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_37",
@@ -1556,7 +1700,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Kalverstraat & Damrak",
+      "desc_nl": "Primary central retail pedestrian spine running from Centraal Station through Dam Square to Muntplein.",
+      "tip_nl": "🍟 Grab a cone of double-fried Dutch fries from Manneken Pis on Damrak topped with mayo or peanut satay sauce.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_38",
@@ -1598,7 +1746,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "De Bijenkorf",
+      "desc_nl": "Premier luxury department store of the Netherlands, dominating the eastern side of Dam Square.",
+      "tip_nl": "🛍️ The 5th-floor dining lounge offers glass views over Dam Square. Tax-Free Lounge available on-site.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_39",
@@ -1640,7 +1792,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Café de Klos & Bruine Cafés",
+      "desc_nl": "Historic traditional Dutch pubs characteristically decorated with dark wooden interiors and candlelit tables.",
+      "tip_nl": "🥧 At Café Papeneiland (operating since 1642 on Prinsengracht), order their legendary handmade Dutch apple cake.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_40",
@@ -1682,7 +1838,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "OBA Oosterdok",
+      "desc_nl": "Europe's largest public library facility located on the Oosterdok waterfront near Centraal Station.",
+      "tip_nl": "📖 The 7th-floor terrace restaurant is open to the public for free without a library pass, offering panoramic views.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_41",
@@ -1724,7 +1884,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Foodhallen Amsterdam",
+      "desc_nl": "Indoor food hall housed inside a converted 19th-century municipal brick tram depot in Amsterdam-West.",
+      "tip_nl": "🍽️ Order gourmet Dutch bitterballen filled with beef or truffle from De BallenBar inside the hall.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_42",
@@ -1766,7 +1930,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Station Amsterdam Centraal",
+      "desc_nl": "Primary transportation hub designed by Pierre Cuypers and opened in 1889 in Dutch Renaissance Revival style.",
+      "tip_nl": "🏛️ Look at the twin facade towers: the right-hand tower is a clock, while the left-hand is a working wind vane.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_43",
@@ -1808,7 +1976,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Het Amsterdamse Bos",
+      "desc_nl": "Sprawling 1,000-hectare parkland and woodland south of the city featuring rowing canals and a goat farm.",
+      "tip_nl": "🐐 At the Geitenboerderij Ridammerhoeve organic goat farm, kids can bottle-feed young goats and sample goat ice cream.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_44",
@@ -1850,7 +2022,11 @@
       "price_es": "Entrada: €13.50",
       "price_zh": "门票：€13.50",
       "price_fr": "Entrée : €13.50",
-      "price_de": "Eintritt: €13.50"
+      "price_de": "Eintritt: €13.50",
+      "name_nl": "Hortus Botanicus Amsterdam",
+      "desc_nl": "One of the oldest botanical gardens in the world, featuring centuries-old cycads and a Butterfly House.",
+      "tip_nl": "🦋 Step inside the warm Butterfly House to observe tropical butterfly species fluttering freely around visitors.",
+      "price_nl": "Entry: €13.50"
     },
     {
       "id": "a_45",
@@ -1892,7 +2068,11 @@
       "price_es": "Entrada: €20.00",
       "price_zh": "门票：€20.00",
       "price_fr": "Entrée : €20.00",
-      "price_de": "Eintritt: €20.00"
+      "price_de": "Eintritt: €20.00",
+      "name_nl": "Joods Cultureel Kwartier",
+      "desc_nl": "Monumental 17th-century Portuguese Synagogue with a sand-covered floor, alongside the Jewish Museum.",
+      "tip_nl": "🕯️ A single Jewish Cultural Quarter ticket grants combined entry to the Portuguese Synagogue and museums.",
+      "price_nl": "Entry: €20.00"
     },
     {
       "id": "a_46",
@@ -1934,7 +2114,11 @@
       "price_es": "Entrada: €20.00",
       "price_zh": "门票：€20.00",
       "price_fr": "Entrée : €20.00",
-      "price_de": "Eintritt: €20.00"
+      "price_de": "Eintritt: €20.00",
+      "name_nl": "Nationaal Holocaust Museum",
+      "desc_nl": "Historic museum building from which hundreds of Jewish children were covertly rescued during WWII.",
+      "tip_nl": "🎟️ Advance time-slot booking online required. The historic escape garden path is preserved.",
+      "price_nl": "Entry: €20.00"
     },
     {
       "id": "a_47",
@@ -1976,7 +2160,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Westergas",
+      "desc_nl": "Vibrant cultural complex set in repurposed 19th-century municipal gasworks buildings within Westerpark.",
+      "tip_nl": "🎨 Inside Fabrique des Lumières, high-definition digital artwork is projected across walls and floors.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_48",
@@ -2018,7 +2206,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Magna Plaza",
+      "desc_nl": "Former Main Post Office building constructed in 1898 in Neo-Gothic style, repurposed into a shopping arcade.",
+      "tip_nl": "🏛️ Step inside to admire the central multi-tiered open atrium and marble arches, ideal on a rainy day.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_49",
@@ -2060,7 +2252,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Proeflokaal In de Wildeman",
+      "desc_nl": "Traditional beer hall in a former 17th-century distillery offering hundreds of Dutch and Belgian ales.",
+      "tip_nl": "🍺 Tell the bar staff your flavor preferences (dry, malty, or sour) for expert craft beer recommendations.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_50",
@@ -2102,7 +2298,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Kaasmarkt Alkmaar",
+      "desc_nl": "Traditional cheese trading spectacle dating back to 1365, held on Waagplein every Friday morning in spring/summer.",
+      "tip_nl": "🧀 Proceedings start at 10:00 AM; arrive by 9:30 AM to secure a front-row spot along the square barriers.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_51",
@@ -2144,7 +2344,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Panoramaterras Schiphol",
+      "desc_nl": "Public viewing deck on the roof of Amsterdam Airport Schiphol featuring a boarding-accessible KLM Fokker 100.",
+      "tip_nl": "✈️ Located in the public landside area (before security), accessible for free without a boarding pass.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_52",
@@ -2186,7 +2390,11 @@
       "price_es": "Entrada: パムパス島(船込): €19.50 / マウデン城: €17.50",
       "price_zh": "门票：パムパス島(船込): €19.50 / マウデン城: €17.50",
       "price_fr": "Entrée : パムパス島(船込): €19.50 / マウデン城: €17.50",
-      "price_de": "Eintritt: パムパス島(船込): €19.50 / マウデン城: €17.50"
+      "price_de": "Eintritt: パムパス島(船込): €19.50 / マウデン城: €17.50",
+      "name_nl": "Forteiland Pampus & Muiderslot",
+      "desc_nl": "19th-century artificial fortress island in the IJmeer, part of the UNESCO Defence Line of Amsterdam.",
+      "tip_nl": "⛴️ Take an interactive audio tour through the subterranean ammo bunkers and artillery domes.",
+      "price_nl": "Entry: パムパス島(船込): €19.50 / マウデン城: €17.50"
     },
     {
       "id": "a_53",
@@ -2228,7 +2436,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Singel & Herengracht Canal Ring",
+      "desc_nl": "The most elegant section of Amsterdam's UNESCO World Heritage 17th-century canal ring.",
+      "tip_nl": "📸 Photograph the canal reflections near the Leliegracht intersection for iconic canal house views.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_54",
@@ -2270,7 +2482,11 @@
       "price_es": "Entrada: €5.00",
       "price_zh": "门票：€5.00",
       "price_fr": "Entrée : €5.00",
-      "price_de": "Eintritt: €5.00"
+      "price_de": "Eintritt: €5.00",
+      "name_nl": "Electric Ladyland）",
+      "desc_nl": "The first museum dedicated entirely to fluorescent art and glowing minerals under ultraviolet light.",
+      "tip_nl": "🎨 Guided small-group tours only. Experience participating in the fluorescent art space in the basement.",
+      "price_nl": "Entry: €5.00"
     },
     {
       "id": "a_55",
@@ -2312,7 +2528,11 @@
       "price_es": "Entrada: €10.00",
       "price_zh": "门票：€10.00",
       "price_fr": "Entrée : €10.00",
-      "price_de": "Eintritt: €10.00"
+      "price_de": "Eintritt: €10.00",
+      "name_nl": "Kattenkabinet）",
+      "desc_nl": "Art museum in a 17th-century canal house dedicated exclusively to cat-themed fine art by famous masters.",
+      "tip_nl": "🐈 Resident museum cats roam freely through the opulent period rooms and sleep on antique furniture.",
+      "price_nl": "Entry: €10.00"
     },
     {
       "id": "a_56",
@@ -2354,7 +2574,11 @@
       "price_es": "Entrada: €12.50",
       "price_zh": "门票：€12.50",
       "price_fr": "Entrée : €12.50",
-      "price_de": "Eintritt: €12.50"
+      "price_de": "Eintritt: €12.50",
+      "name_nl": "Willet-Holthuysen Museum",
+      "desc_nl": "Opulent 17th-century canal house museum showcasing 19th-century private fine art collections and grand rooms.",
+      "tip_nl": "🌿 Walk into the symmetrical French formal garden behind the house—a rare green oasis along Herengracht.",
+      "price_nl": "Entry: €12.50"
     },
     {
       "id": "a_57",
@@ -2396,7 +2620,11 @@
       "price_es": "Entrada: €15.00",
       "price_zh": "门票：€15.00",
       "price_fr": "Entrée : €15.00",
-      "price_de": "Eintritt: €15.00"
+      "price_de": "Eintritt: €15.00",
+      "name_nl": "Museum Van Loon",
+      "desc_nl": "Historic canal residence of the Van Loon merchant family, founders of the Dutch East India Company.",
+      "tip_nl": "🏛️ The residence, garden, and coach house are preserved together as a complete 17th-century estate.",
+      "price_nl": "Entry: €15.00"
     },
     {
       "id": "a_58",
@@ -2438,7 +2666,11 @@
       "price_es": "Entrada: €18.00",
       "price_zh": "门票：€18.00",
       "price_fr": "Entrée : €18.00",
-      "price_de": "Eintritt: €18.00"
+      "price_de": "Eintritt: €18.00",
+      "name_nl": "Amsterdam Museum",
+      "desc_nl": "City museum tracing 700 years of Amsterdam's growth, culture, and urban development.",
+      "tip_nl": "🏛️ Temporary masterwork exhibitions are hosted at the satellite location Amstel 51 during renovation.",
+      "price_nl": "Entry: €18.00"
     },
     {
       "id": "a_59",
@@ -2480,7 +2712,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "House of Bols",
+      "desc_nl": "Interactive cocktail experience by the world's oldest distilled spirit brand Bols (est. 1575).",
+      "tip_nl": "🍸 Included with admission is one custom-crafted cocktail made by professional bartenders at the Mirror Bar.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "a_60",
@@ -2522,7 +2758,11 @@
       "price_es": "Acceso libre",
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
-      "price_de": "Freier Zugang"
+      "price_de": "Freier Zugang",
+      "name_nl": "Concertgebouw",
+      "desc_nl": "World-renowned concert hall celebrated for its exceptional acoustics and Royal Concertgebouw Orchestra.",
+      "tip_nl": "🎻 Free Wednesday lunchtime concerts are held at 12:30 PM (Sept–May) in the Main or Recital Hall.",
+      "price_nl": "Free Entry"
     }
   ]
 }

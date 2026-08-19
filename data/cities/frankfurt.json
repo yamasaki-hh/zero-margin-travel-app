@@ -39,7 +39,11 @@
       "name_de": "Römerberg & Rathaus Römer",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Römerberg & City Hall in City district."
+      "desc_de": "Römerberg & City Hall in City district.",
+      "name_nl": "Römerberg & Rathaus Römer",
+      "desc_nl": "Römerberg & City Hall in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "f_2",
@@ -79,7 +83,11 @@
       "name_de": "Kaiserdom St. Bartholomäus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg/330px-Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Frankfurt Cathedral in City district."
+      "desc_de": "Frankfurt Cathedral in City district.",
+      "name_nl": "Kaiserdom St. Bartholomäus",
+      "desc_nl": "Frankfurt Cathedral in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "聖堂無料（塔3.50€）"
     },
     {
       "id": "f_3",
@@ -119,7 +127,11 @@
       "name_de": "Goethe-Haus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/330px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Goethe House & Museum in City district."
+      "desc_de": "Goethe House & Museum in City district.",
+      "name_nl": "Goethe-Haus",
+      "desc_nl": "Goethe House & Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 10€"
     },
     {
       "id": "f_4",
@@ -159,7 +171,11 @@
       "name_de": "Städel Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg/330px-St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Städel Museum in City district."
+      "desc_de": "Städel Museum in City district.",
+      "name_nl": "Städel Museum",
+      "desc_nl": "Städel Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 16€"
     },
     {
       "id": "f_5",
@@ -199,7 +215,11 @@
       "name_de": "Main Tower",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Maintower_Frankfurt.jpg/330px-Maintower_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Main Tower Observatory in City district."
+      "desc_de": "Main Tower Observatory in City district.",
+      "name_nl": "Main Tower",
+      "desc_nl": "Main Tower Observatory in City district.",
+      "tip_nl": "📸 Offers an open-air outdoor viewing platform at 198m with clear, reflection-free 360-degree skyline views.",
+      "price_nl": "入場料: 9€"
     },
     {
       "id": "f_6",
@@ -239,7 +259,11 @@
       "name_de": "Eiserner Steg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg/330px-Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Iron Footbridge in City district."
+      "desc_de": "Iron Footbridge in City district.",
+      "name_nl": "Eiserner Steg",
+      "desc_nl": "Iron Footbridge in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "通行無料"
     },
     {
       "id": "f_7",
@@ -279,7 +303,11 @@
       "name_de": "Paulskirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg/330px-Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "St. Paul's Church in City district."
+      "desc_de": "St. Paul's Church in City district.",
+      "name_nl": "Paulskirche",
+      "desc_nl": "St. Paul's Church in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "f_8",
@@ -319,7 +347,11 @@
       "name_de": "Alte Oper",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/330px-Alte_Oper_Frankfurt_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Old Opera House in City district."
+      "desc_de": "Old Opera House in City district.",
+      "name_nl": "Alte Oper",
+      "desc_nl": "Old Opera House in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "広場無料"
     },
     {
       "id": "f_9",
@@ -359,7 +391,11 @@
       "name_de": "Palmengarten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NOI_Techpark_S%C3%BCdtirol_3.jpg/330px-NOI_Techpark_S%C3%BCdtirol_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Palmengarten Botanical Garden in City district."
+      "desc_de": "Palmengarten Botanical Garden in City district.",
+      "name_nl": "Palmengarten",
+      "desc_nl": "Palmengarten Botanical Garden in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 7€"
     },
     {
       "id": "f_10",
@@ -399,7 +435,11 @@
       "name_de": "Historisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg/330px-Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Frankfurt History Museum in City district."
+      "desc_de": "Frankfurt History Museum in City district.",
+      "name_nl": "Historisches Museum Frankfurt",
+      "desc_nl": "Frankfurt History Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_11",
@@ -439,7 +479,11 @@
       "name_de": "Liebieghaus Skulpturensammlung",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Liebieghaus.jpg/330px-Liebieghaus.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Liebieghaus Sculpture Museum in City district."
+      "desc_de": "Liebieghaus Sculpture Museum in City district.",
+      "name_nl": "Liebieghaus Skulpturensammlung",
+      "desc_nl": "Liebieghaus Sculpture Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_12",
@@ -479,7 +523,11 @@
       "name_de": "Museum Angewandte Kunst",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg/330px-Luftansicht_Museum_Angewandte_Kunst_und_Villa_Metzler_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Museum of Applied Arts in City district."
+      "desc_de": "Museum of Applied Arts in City district.",
+      "name_nl": "Museum Angewandte Kunst",
+      "desc_nl": "Museum of Applied Arts in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_13",
@@ -519,7 +567,11 @@
       "name_de": "Deutsches Filminstitut & Filmmuseum",
       "image": "",
       "hasWiki": false,
-      "desc_de": "DFF - German Film Institute & Film Museum in City district."
+      "desc_de": "DFF - German Film Institute & Film Museum in City district.",
+      "name_nl": "Deutsches Filminstitut & Filmmuseum",
+      "desc_nl": "DFF - German Film Institute & Film Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 10€"
     },
     {
       "id": "f_14",
@@ -559,7 +611,11 @@
       "name_de": "Museum für Moderne Kunst (MMK)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/330px-Museum_fuer_Moderne_Kunst_Portalseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Museum of Modern Art in City district."
+      "desc_de": "Museum of Modern Art in City district.",
+      "name_nl": "Museum für Moderne Kunst",
+      "desc_nl": "Museum of Modern Art in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_15",
@@ -599,7 +655,11 @@
       "name_de": "Schirn Kunsthalle Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Schirn-ffm001.jpg/330px-Schirn-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Schirn Kunsthalle Frankfurt in City district."
+      "desc_de": "Schirn Kunsthalle Frankfurt in City district.",
+      "name_nl": "Schirn Kunsthalle Frankfurt",
+      "desc_nl": "Schirn Kunsthalle Frankfurt in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "f_16",
@@ -639,7 +699,11 @@
       "name_de": "Museumsufer",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Museumsufer-teil1-ffm001.jpg/330px-Museumsufer-teil1-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Museumsufer River Bank in City district."
+      "desc_de": "Museumsufer River Bank in City district.",
+      "name_nl": "Museumsufer",
+      "desc_nl": "Museumsufer River Bank in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_17",
@@ -679,7 +743,11 @@
       "name_de": "Kleinmarkthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg/330px-Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Kleinmarkthalle Market in City district."
+      "desc_de": "Kleinmarkthalle Market in City district.",
+      "name_nl": "Kleinmarkthalle",
+      "desc_nl": "Kleinmarkthalle Market in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "f_18",
@@ -719,7 +787,11 @@
       "name_de": "Neue Altstadt",
       "image": "",
       "hasWiki": false,
-      "desc_de": "New Old Town in City district."
+      "desc_de": "New Old Town in City district.",
+      "name_nl": "Neue Altstadt",
+      "desc_nl": "New Old Town in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_19",
@@ -761,7 +833,11 @@
       "hasWiki": true,
       "desc_de": "Sachsenhausen Cider District in City district.",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stadtteil_Sachsenhausen.svg/330px-Frankfurt_Stadtteil_Sachsenhausen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "tip": "🎟️ Order traditional Apfelwein served from an earthenware jug (Bembel) paired with Grüne Soße (green sauce) and Handkäs mit Musik cheese."
+      "tip": "🎟️ Order traditional Apfelwein served from an earthenware jug (Bembel) paired with Grüne Soße (green sauce) and Handkäs mit Musik cheese.",
+      "name_nl": "Sachsenhausen",
+      "desc_nl": "Sachsenhausen Cider District in City district.",
+      "tip_nl": "🎟️ Order traditional Apfelwein served from an earthenware jug (Bembel) paired with Grüne Soße (green sauce) and Handkäs mit Musik cheese.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_20",
@@ -801,7 +877,11 @@
       "name_de": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Historic Apple Wine Taverns in City district."
+      "desc_de": "Historic Apple Wine Taverns in City district.",
+      "name_nl": "Zur Sonne / Zum Gemalten Haus / Atschel",
+      "desc_nl": "Historic Apple Wine Taverns in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "リンゴ酒: 3€"
     },
     {
       "id": "f_21",
@@ -841,7 +921,11 @@
       "name_de": "Zeil & MyZeil",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Zeil Shopping Street & MyZeil in City district."
+      "desc_de": "Zeil Shopping Street & MyZeil in City district.",
+      "name_nl": "Zeil & MyZeil",
+      "desc_nl": "Zeil Shopping Street & MyZeil in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_22",
@@ -881,7 +965,11 @@
       "name_de": "Goethestraße",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goethestrasse_Rothofstrasse_Ffm.jpg/330px-Goethestrasse_Rothofstrasse_Ffm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Goethestraße Luxury Street in City district."
+      "desc_de": "Goethestraße Luxury Street in City district.",
+      "name_nl": "Goethestraße",
+      "desc_nl": "Goethestraße Luxury Street in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_23",
@@ -921,7 +1009,11 @@
       "name_de": "Große Bockenheimer Straße (Fressgass)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Fressgass Culinary Street in City district."
+      "desc_de": "Fressgass Culinary Street in City district.",
+      "name_nl": "Große Bockenheimer Straße",
+      "desc_nl": "Fressgass Culinary Street in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_24",
@@ -961,7 +1053,11 @@
       "name_de": "Hauptwache & Katharinenkirche",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Hauptwache Square & St. Catherine's in City district."
+      "desc_de": "Hauptwache Square & St. Catherine's in City district.",
+      "name_nl": "Hauptwache & Katharinenkirche",
+      "desc_nl": "Hauptwache Square & St. Catherine's in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "f_25",
@@ -1001,7 +1097,11 @@
       "name_de": "Mainufer-Promenade",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Main River Promenade in City district."
+      "desc_de": "Main River Promenade in City district.",
+      "name_nl": "Mainufer-Promenade",
+      "desc_nl": "Main River Promenade in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_26",
@@ -1041,7 +1141,11 @@
       "name_de": "Zoo Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Zoo-Frankfurt-Gesellschaftshaus-a.jpg/330px-Zoo-Frankfurt-Gesellschaftshaus-a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Frankfurt Zoo in City district."
+      "desc_de": "Frankfurt Zoo in City district.",
+      "name_nl": "Zoo Frankfurt",
+      "desc_nl": "Frankfurt Zoo in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_27",
@@ -1081,7 +1185,11 @@
       "name_de": "Senckenberg Naturmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg/330px-Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Senckenberg Natural History Museum in City district."
+      "desc_de": "Senckenberg Natural History Museum in City district.",
+      "name_nl": "Senckenberg Naturmuseum",
+      "desc_nl": "Senckenberg Natural History Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_28",
@@ -1121,7 +1229,11 @@
       "name_de": "Frankfurter Wertpapierbörse (Börse)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg/330px-Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Frankfurt Stock Exchange in City district."
+      "desc_de": "Frankfurt Stock Exchange in City district.",
+      "name_nl": "Frankfurter Wertpapierbörse",
+      "desc_nl": "Frankfurt Stock Exchange in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "広場無料"
     },
     {
       "id": "f_29",
@@ -1161,7 +1273,11 @@
       "name_de": "Euro-Skulptur (Willy-Brandt-Platz)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg/330px-Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Euro Sculpture in City district."
+      "desc_de": "Euro Sculpture in City district.",
+      "name_nl": "Euro-Skulptur",
+      "desc_nl": "Euro Sculpture in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "f_30",
@@ -1201,7 +1317,11 @@
       "name_de": "Europaviertel & Skyline Plaza",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Europaviertel & Skyline Plaza in City district."
+      "desc_de": "Europaviertel & Skyline Plaza in City district.",
+      "name_nl": "Europaviertel & Skyline Plaza",
+      "desc_nl": "Europaviertel & Skyline Plaza in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場無料"
     },
     {
       "id": "f_31",
@@ -1241,7 +1361,11 @@
       "name_de": "Grüneburgpark",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/FFM_Grueneburg_1864_Delkeskamp.jpg/330px-FFM_Grueneburg_1864_Delkeskamp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Grüneburgpark & Botanical Garden in City district."
+      "desc_de": "Grüneburgpark & Botanical Garden in City district.",
+      "name_nl": "Grüneburgpark",
+      "desc_nl": "Grüneburgpark & Botanical Garden in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_32",
@@ -1281,7 +1405,11 @@
       "name_de": "Hafenpark & Ostpark",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Hafenpark & Ostpark in City district."
+      "desc_de": "Hafenpark & Ostpark in City district.",
+      "name_nl": "Hafenpark & Ostpark",
+      "desc_nl": "Hafenpark & Ostpark in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_33",
@@ -1321,7 +1449,11 @@
       "name_de": "Europäische Zentralbank (ECB / EZB)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/330px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "European Central Bank Headquarters in City district."
+      "desc_de": "European Central Bank Headquarters in City district.",
+      "name_nl": "Europäische Zentralbank",
+      "desc_nl": "European Central Bank Headquarters in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "外観無料"
     },
     {
       "id": "f_34",
@@ -1361,7 +1493,11 @@
       "name_de": "Jüdisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Jewish Museum Frankfurt in City district."
+      "desc_de": "Jewish Museum Frankfurt in City district.",
+      "name_nl": "Jüdisches Museum Frankfurt",
+      "desc_nl": "Jewish Museum Frankfurt in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_35",
@@ -1401,7 +1537,11 @@
       "name_de": "Museum Judengasse",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Museum Judengasse in City district."
+      "desc_de": "Museum Judengasse in City district.",
+      "name_nl": "Museum Judengasse",
+      "desc_nl": "Museum Judengasse in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 6€"
     },
     {
       "id": "f_36",
@@ -1441,7 +1581,11 @@
       "name_de": "Eschenheimer Turm",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Frankfurt_Nextower.20130514.jpg/330px-Frankfurt_Nextower.20130514.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Eschenheim Tower in City district."
+      "desc_de": "Eschenheim Tower in City district.",
+      "name_nl": "Eschenheimer Turm",
+      "desc_nl": "Eschenheim Tower in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "外観無料"
     },
     {
       "id": "f_37",
@@ -1481,7 +1625,11 @@
       "name_de": "Café Hauptwache",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Café Hauptwache in City district."
+      "desc_de": "Café Hauptwache in City district.",
+      "name_nl": "Café Hauptwache",
+      "desc_nl": "Café Hauptwache in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "コーヒー: 4€"
     },
     {
       "id": "f_38",
@@ -1521,7 +1669,11 @@
       "name_de": "Wacker's Kaffee",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Wacker's Kaffee in City district."
+      "desc_de": "Wacker's Kaffee in City district.",
+      "name_nl": "Wacker's Kaffee",
+      "desc_nl": "Wacker's Kaffee in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "エスプレッソ: 2.50€"
     },
     {
       "id": "f_39",
@@ -1562,7 +1714,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lohrberg_3.jpg/330px-Lohrberg_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
       "desc_de": "Lohrberg Park in City district.",
-      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lohrberg_3.jpg/330px-Lohrberg_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lohrberg_3.jpg/330px-Lohrberg_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "name_nl": "Lohrberg",
+      "desc_nl": "Lohrberg Park in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入園無料"
     },
     {
       "id": "f_40",
@@ -1602,7 +1758,11 @@
       "name_de": "Nizza Gärten",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Nizza Gardens in City district."
+      "desc_de": "Nizza Gardens in City district.",
+      "name_nl": "Nizza Gärten",
+      "desc_nl": "Nizza Gardens in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_41",
@@ -1642,7 +1802,11 @@
       "name_de": "Rebstockbad",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rebstockbad_Innenansicht.jpg/330px-Rebstockbad_Innenansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Rebstockbad Water Park in City district."
+      "desc_de": "Rebstockbad Water Park in City district.",
+      "name_nl": "Rebstockbad",
+      "desc_nl": "Rebstockbad Water Park in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "プール: 12€"
     },
     {
       "id": "f_42",
@@ -1682,7 +1846,11 @@
       "name_de": "Experiminta ScienceCenter",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Experiminta ScienceCenter in City district."
+      "desc_de": "Experiminta ScienceCenter in City district.",
+      "name_nl": "Experiminta ScienceCenter",
+      "desc_nl": "Experiminta ScienceCenter in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_43",
@@ -1722,7 +1890,11 @@
       "name_de": "Bibelhaus Erlebnis Museum",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Bibelhaus Experience Museum in City district."
+      "desc_de": "Bibelhaus Experience Museum in City district.",
+      "name_nl": "Bibelhaus Erlebnis Museum",
+      "desc_nl": "Bibelhaus Experience Museum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 7€"
     },
     {
       "id": "f_44",
@@ -1762,7 +1934,11 @@
       "name_de": "DialogMuseum",
       "image": "",
       "hasWiki": false,
-      "desc_de": "DialogMuseum in City district."
+      "desc_de": "DialogMuseum in City district.",
+      "name_nl": "DialogMuseum",
+      "desc_nl": "DialogMuseum in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "体験料: 17€"
     },
     {
       "id": "f_45",
@@ -1802,7 +1978,11 @@
       "name_de": "Historische Straßenbahn Frankfurt",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Ebbelwei-Express Tram in City district."
+      "desc_de": "Ebbelwei-Express Tram in City district.",
+      "name_nl": "Historische Straßenbahn Frankfurt",
+      "desc_nl": "Ebbelwei-Express Tram in City district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "乗車券: 8€"
     },
     {
       "id": "f_46",
@@ -1842,7 +2022,11 @@
       "name_de": "Rüdesheim am Rhein & Drosselgasse",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Rüdesheim Rhine Valley in Suburban district."
+      "desc_de": "Rüdesheim Rhine Valley in Suburban district.",
+      "name_nl": "Rüdesheim am Rhein & Drosselgasse",
+      "desc_nl": "Rüdesheim Rhine Valley in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "街散策無料"
     },
     {
       "id": "f_47",
@@ -1882,7 +2066,11 @@
       "name_de": "Burg Eltz",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg/330px-Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Eltz Castle in Suburban district."
+      "desc_de": "Eltz Castle in Suburban district.",
+      "name_nl": "Burg Eltz",
+      "desc_nl": "Eltz Castle in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 14€"
     },
     {
       "id": "f_48",
@@ -1922,7 +2110,11 @@
       "name_de": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Mainz Cathedral & Museum in Suburban district."
+      "desc_de": "Mainz Cathedral & Museum in Suburban district.",
+      "name_nl": "Mainz: Dom St. Martin & Gutenberg-Museum",
+      "desc_nl": "Mainz Cathedral & Museum in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "博物館: 5€"
     },
     {
       "id": "f_49",
@@ -1962,7 +2154,11 @@
       "name_de": "Wiesbaden: Kurhaus & Nerobergbahn",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Wiesbaden Kurhaus & Nerobergbahn in Suburban district."
+      "desc_de": "Wiesbaden Kurhaus & Nerobergbahn in Suburban district.",
+      "name_nl": "Wiesbaden: Kurhaus & Nerobergbahn",
+      "desc_nl": "Wiesbaden Kurhaus & Nerobergbahn in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "水力鉄道: 5€"
     },
     {
       "id": "f_50",
@@ -2002,7 +2198,11 @@
       "name_de": "Kaiserpfalz Ingelheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/330px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Ingelheim Imperial Palace in Suburban district."
+      "desc_de": "Ingelheim Imperial Palace in Suburban district.",
+      "name_nl": "Kaiserpfalz Ingelheim",
+      "desc_nl": "Ingelheim Imperial Palace in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "見学無料"
     },
     {
       "id": "f_51",
@@ -2042,7 +2242,11 @@
       "name_de": "Burg Kronberg & Kronberg im Taunus",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Kronberg Castle & Old Town in Suburban district."
+      "desc_de": "Kronberg Castle & Old Town in Suburban district.",
+      "name_nl": "Burg Kronberg & Kronberg im Taunus",
+      "desc_nl": "Kronberg Castle & Old Town in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "城入場: 6€"
     },
     {
       "id": "f_52",
@@ -2082,7 +2286,11 @@
       "name_de": "Großer Feldberg (Taunus)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg/330px-Gro%C3%9Fer_Feldberg_von_Norden_2025.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Großer Feldberg Summit in Suburban district."
+      "desc_de": "Großer Feldberg Summit in Suburban district.",
+      "name_nl": "Großer Feldberg",
+      "desc_nl": "Großer Feldberg Summit in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "散策無料"
     },
     {
       "id": "f_53",
@@ -2122,7 +2330,11 @@
       "name_de": "Freilichtmuseum Hessenpark",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hessenpark%2C_Marktplatz.jpg/330px-Hessenpark%2C_Marktplatz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Hessenpark Open-Air Museum in Suburban district."
+      "desc_de": "Hessenpark Open-Air Museum in Suburban district.",
+      "name_nl": "Freilichtmuseum Hessenpark",
+      "desc_nl": "Hessenpark Open-Air Museum in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 11€"
     },
     {
       "id": "f_54",
@@ -2162,7 +2374,11 @@
       "name_de": "Römerkastell Saalburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg/330px-The_Porta_Praetoria_%28Main_Gate%29%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%2833873748544%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Saalburg Roman Fort in Suburban district."
+      "desc_de": "Saalburg Roman Fort in Suburban district.",
+      "name_nl": "Römerkastell Saalburg",
+      "desc_nl": "Saalburg Roman Fort in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 7€"
     },
     {
       "id": "f_55",
@@ -2202,7 +2418,11 @@
       "name_de": "Bad Homburg: Kurpark & Schloss",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Bad Homburg Kurpark & Palace in Suburban district."
+      "desc_de": "Bad Homburg Kurpark & Palace in Suburban district.",
+      "name_nl": "Bad Homburg: Kurpark & Schloss",
+      "desc_nl": "Bad Homburg Kurpark & Palace in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "公園無料"
     },
     {
       "id": "f_56",
@@ -2242,7 +2462,11 @@
       "name_de": "Taunus Wunderland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Eingang_Taunus_Wunderland_2019.jpg/330px-Eingang_Taunus_Wunderland_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Taunus Wunderland Amusement Park in Suburban district."
+      "desc_de": "Taunus Wunderland Amusement Park in Suburban district.",
+      "name_nl": "Taunus Wunderland",
+      "desc_nl": "Taunus Wunderland Amusement Park in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入園料: 29.50€"
     },
     {
       "id": "f_57",
@@ -2282,7 +2506,11 @@
       "name_de": "Opel-Zoo (Kronberg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg/330px-Opel-Zoo_Kronberg_Afrikasavanne_26-09-2008_002.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Opel-Zoo Kronberg in Suburban district."
+      "desc_de": "Opel-Zoo Kronberg in Suburban district.",
+      "name_nl": "Opel-Zoo",
+      "desc_nl": "Opel-Zoo Kronberg in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 16€"
     },
     {
       "id": "f_58",
@@ -2322,7 +2550,11 @@
       "name_de": "Kloster Eberbach",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/330px-Kloster_Eberbach_fg01.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Eberbach Abbey in Suburban district."
+      "desc_de": "Eberbach Abbey in Suburban district.",
+      "name_nl": "Kloster Eberbach",
+      "desc_nl": "Eberbach Abbey in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入場料: 12€"
     },
     {
       "id": "f_59",
@@ -2362,7 +2594,11 @@
       "name_de": "Darmstadt: Mathildenhöhe (UNESCO)",
       "image": "",
       "hasWiki": false,
-      "desc_de": "Darmstadt Mathildenhöhe in Suburban district."
+      "desc_de": "Darmstadt Mathildenhöhe in Suburban district.",
+      "name_nl": "Darmstadt: Mathildenhöhe",
+      "desc_nl": "Darmstadt Mathildenhöhe in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "敷地無料"
     },
     {
       "id": "f_60",
@@ -2402,7 +2638,11 @@
       "name_de": "Burg Frankenstein",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/330px-InnerCastle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Frankenstein Castle in Suburban district."
+      "desc_de": "Frankenstein Castle in Suburban district.",
+      "name_nl": "Burg Frankenstein",
+      "desc_nl": "Frankenstein Castle in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "城散策無料"
     },
     {
       "id": "f_61",
@@ -2442,7 +2682,11 @@
       "name_de": "Wertheim Village",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg/330px-Wertheim_im_Maintal_-_geo.hlipp.de_-_6055.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "desc_de": "Wertheim Village Outlet in Suburban district."
+      "desc_de": "Wertheim Village Outlet in Suburban district.",
+      "name_nl": "Wertheim Village",
+      "desc_nl": "Wertheim Village Outlet in Suburban district.",
+      "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
+      "price_nl": "入館無料"
     }
   ],
   "spotCount": 61

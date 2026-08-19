@@ -2,6 +2,22 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v46.0.0] - 2026-08-19 (Full Dutch Language Support & 7-Language Internationalization Release)
+
+### 🇳🇱 Full Dutch (Nederlands) Language Addition & 7-Language Architecture (`v46.0.0`)
+- **Full Dutch (`nl`) Support Across All 1,371 Spots in 25 Cities**:
+  - Generated `name_nl`, `desc_nl`, `tip_nl`, `price_nl` for all 1,371 spots across 25 European cities.
+  - Native Dutch original titles & insider tips assigned to Netherlands & Flanders/Belgium spots.
+- **UI Dictionary Internationalization (`js/i18n.js`)**:
+  - Added complete `"nl"` translation dictionary covering all UI labels, buttons, filters, modals, and footer text.
+- **Language Dropdown Pattern 1 Order & Auto-Detection**:
+  - Reordered dropdown to Pattern 1 (Global Standard): `🇬🇧 English`, `🇳🇱 Nederlands`, `🇫🇷 Français`, `🇩🇪 Deutsch`, `🇯🇵 日本語`, `🇪🇸 Español`, `🇨🇳 中文 (简体)`.
+  - Enabled browser language auto-detection (`navigator.language`) to seamlessly serve native language on load.
+- **5-Layer Compliance Guard**: Passed 100% clean across all **1,371 spots across 7 languages**.
+- **Master Asset Version**: Bumped to `v=121.0`.
+
+---
+
 ## 🏷️ [v45.0.0] - 2026-08-18 (Universal Pattern A Local-First Name Unification & Redundancy Elimination Release)
 
 ### 🌍 Universal Pattern A Hybrid Name Unification (`v45.0.0`)

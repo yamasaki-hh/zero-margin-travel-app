@@ -45,7 +45,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Take the Petit Train tourist bus from Vieux-Port to the basilica. The 360-degree view over Marseille, the sea, and Frioul islands from 'La Bonne Mère' is breathtaking."
+      "tip": "Take the Petit Train tourist bus from Vieux-Port to the basilica. The 360-degree view over Marseille, the sea, and Frioul islands from 'La Bonne Mère' is breathtaking.",
+      "name_nl": "Basilique Notre-Dame de la Garde",
+      "desc_nl": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
+      "tip_nl": "Take the Petit Train tourist bus from Vieux-Port to the basilica. The 360-degree view over Marseille, the sea, and Frioul islands from 'La Bonne Mère' is breathtaking.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_2",
@@ -90,7 +94,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Stand under the giant mirror canopy ('Ombrière') designed by Norman Foster to capture fun upside-down reflected photos of the harbor crowd."
+      "tip": "Stand under the giant mirror canopy ('Ombrière') designed by Norman Foster to capture fun upside-down reflected photos of the harbor crowd.",
+      "name_nl": "Vieux-Port de Marseille & Ombrière",
+      "desc_nl": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
+      "tip_nl": "Stand under the giant mirror canopy ('Ombrière') designed by Norman Foster to capture fun upside-down reflected photos of the harbor crowd.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_3",
@@ -135,7 +143,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Striking 19th-century Neo-Byzantine cathedral built with alternating green-and-white marble stripes overlooking the sea."
+      "tip": "Striking 19th-century Neo-Byzantine cathedral built with alternating green-and-white marble stripes overlooking the sea.",
+      "name_nl": "Cathédrale de la Major",
+      "desc_nl": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
+      "tip_nl": "Striking 19th-century Neo-Byzantine cathedral built with alternating green-and-white marble stripes overlooking the sea.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_4",
@@ -180,7 +192,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Walk across the high footbridge connecting Fort Saint-Jean directly to the MuCEM museum for free panoramic walks over the harbor entry."
+      "tip": "Walk across the high footbridge connecting Fort Saint-Jean directly to the MuCEM museum for free panoramic walks over the harbor entry.",
+      "name_nl": "Fort Saint-Jean",
+      "desc_nl": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
+      "tip_nl": "Walk across the high footbridge connecting Fort Saint-Jean directly to the MuCEM museum for free panoramic walks over the harbor entry.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_5",
@@ -225,7 +241,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Star-shaped 17th-century fortress guarding the south entrance of the Vieux-Port. Offers panoramic views of Fort Saint-Jean opposite."
+      "tip": "Star-shaped 17th-century fortress guarding the south entrance of the Vieux-Port. Offers panoramic views of Fort Saint-Jean opposite.",
+      "name_nl": "Fort Saint-Nicolas",
+      "desc_nl": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
+      "tip_nl": "Star-shaped 17th-century fortress guarding the south entrance of the Vieux-Port. Offers panoramic views of Fort Saint-Jean opposite.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_6",
@@ -270,7 +290,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Monumental 19th-century palace featuring a massive waterfall fountain, colonnades, and houses the Beaux-Arts and Natural History museums."
+      "tip": "Monumental 19th-century palace featuring a massive waterfall fountain, colonnades, and houses the Beaux-Arts and Natural History museums.",
+      "name_nl": "Palais Longchamp",
+      "desc_nl": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
+      "tip_nl": "Monumental 19th-century palace featuring a massive waterfall fountain, colonnades, and houses the Beaux-Arts and Natural History museums.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_7",
@@ -315,7 +339,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Le Corbusier's famous 1952 'Cité Radieuse' brutalist concrete housing block. Visit the rooftop terrace, hotel bar, and paddling pool for free!"
+      "tip": "Le Corbusier's famous 1952 'Cité Radieuse' brutalist concrete housing block. Visit the rooftop terrace, hotel bar, and paddling pool for free!",
+      "name_nl": "Cité Radieuse Le Corbusier",
+      "desc_nl": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
+      "tip_nl": "Le Corbusier's famous 1952 'Cité Radieuse' brutalist concrete housing block. Visit the rooftop terrace, hotel bar, and paddling pool for free!",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_8",
@@ -360,7 +388,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "5th-century fortified abbey built over ancient Christian catacombs—one of France's oldest continuous places of worship."
+      "tip": "5th-century fortified abbey built over ancient Christian catacombs—one of France's oldest continuous places of worship.",
+      "name_nl": "Abbaye Saint-Victor",
+      "desc_nl": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
+      "tip_nl": "5th-century fortified abbey built over ancient Christian catacombs—one of France's oldest continuous places of worship.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_9",
@@ -405,7 +437,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Home stadium of Olympique de Marseille (OM) with a futuristic undulating white roof. Guided stadium tours leave daily."
+      "tip": "Home stadium of Olympique de Marseille (OM) with a futuristic undulating white roof. Guided stadium tours leave daily.",
+      "name_nl": "Orange Vélodrome Stadium",
+      "desc_nl": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
+      "tip_nl": "Home stadium of Olympique de Marseille (OM) with a futuristic undulating white roof. Guided stadium tours leave daily.",
+      "price_nl": "Tour: €18"
     },
     {
       "id": "ma_10",
@@ -450,7 +486,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "The 16th-century island fortress made famous by Alexandre Dumas's novel 'The Count of Monte Cristo'. Take the 20-minute boat from Vieux-Port."
+      "tip": "The 16th-century island fortress made famous by Alexandre Dumas's novel 'The Count of Monte Cristo'. Take the 20-minute boat from Vieux-Port.",
+      "name_nl": "Château d'If",
+      "desc_nl": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
+      "tip_nl": "The 16th-century island fortress made famous by Alexandre Dumas's novel 'The Count of Monte Cristo'. Take the 20-minute boat from Vieux-Port.",
+      "price_nl": "Entry: €7 (Ferry: €11)"
     },
     {
       "id": "ma_11",
@@ -495,7 +535,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "19th-century château surrounded by a park dedicated to French novelist Marcel Pagnol ('My Mother's Castle') with film exhibits."
+      "tip": "19th-century château surrounded by a park dedicated to French novelist Marcel Pagnol ('My Mother's Castle') with film exhibits.",
+      "name_nl": "Château de la Buzine",
+      "desc_nl": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
+      "tip_nl": "19th-century château surrounded by a park dedicated to French novelist Marcel Pagnol ('My Mother's Castle') with film exhibits.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "ma_12",
@@ -540,7 +584,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Architectural marvel surrounded by a black concrete lacy mesh. Take the footbridge over the sea to Fort Saint-Jean for free rooftop views!"
+      "tip": "Architectural marvel surrounded by a black concrete lacy mesh. Take the footbridge over the sea to Fort Saint-Jean for free rooftop views!",
+      "name_nl": "MuCEM",
+      "desc_nl": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
+      "tip_nl": "Architectural marvel surrounded by a black concrete lacy mesh. Take the footbridge over the sea to Fort Saint-Jean for free rooftop views!",
+      "price_nl": "Entry: €11"
     },
     {
       "id": "ma_13",
@@ -585,7 +633,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Exact replica of the flooded 30,000-year-old underwater Cosquer cave featuring prehistoric handprints and cave paintings of penguins & horses."
+      "tip": "Exact replica of the flooded 30,000-year-old underwater Cosquer cave featuring prehistoric handprints and cave paintings of penguins & horses.",
+      "name_nl": "Grotte Cosquer",
+      "desc_nl": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
+      "tip_nl": "Exact replica of the flooded 30,000-year-old underwater Cosquer cave featuring prehistoric handprints and cave paintings of penguins & horses.",
+      "price_nl": "Entry: €16"
     },
     {
       "id": "ma_14",
@@ -630,7 +682,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Located inside the Bourse shopping center exploring 2,600 years of Marseille history with real ancient Greek shipwrecks."
+      "tip": "Located inside the Bourse shopping center exploring 2,600 years of Marseille history with real ancient Greek shipwrecks.",
+      "name_nl": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "desc_nl": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
+      "tip_nl": "Located inside the Bourse shopping center exploring 2,600 years of Marseille history with real ancient Greek shipwrecks.",
+      "price_nl": "Free Gardens (Interior: €6)"
     },
     {
       "id": "ma_15",
@@ -675,7 +731,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Housed in the right wing of Palais Longchamp featuring Old Master Italian and French paintings inside ornate 19th-century halls."
+      "tip": "Housed in the right wing of Palais Longchamp featuring Old Master Italian and French paintings inside ornate 19th-century halls.",
+      "name_nl": "Musée des Beaux-Arts de Marseille",
+      "desc_nl": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
+      "tip_nl": "Housed in the right wing of Palais Longchamp featuring Old Master Italian and French paintings inside ornate 19th-century halls.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "ma_16",
@@ -720,7 +780,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Housed in an 17th-century mansion near Rue de Rome featuring modern art by Picasso, Matisse, Ernst, and Surrealists."
+      "tip": "Housed in an 17th-century mansion near Rue de Rome featuring modern art by Picasso, Matisse, Ernst, and Surrealists.",
+      "name_nl": "Musée Cantini",
+      "desc_nl": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
+      "tip_nl": "Housed in an 17th-century mansion near Rue de Rome featuring modern art by Picasso, Matisse, Ernst, and Surrealists.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "ma_17",
@@ -765,7 +829,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Reopened in 2023 near Bonneveine showcasing cutting-edge contemporary international sculpture, installations, and pop art."
+      "tip": "Reopened in 2023 near Bonneveine showcasing cutting-edge contemporary international sculpture, installations, and pop art.",
+      "name_nl": "MAC",
+      "desc_nl": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
+      "tip_nl": "Reopened in 2023 near Bonneveine showcasing cutting-edge contemporary international sculpture, installations, and pop art.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "ma_18",
@@ -810,7 +878,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Located in the left wing of Palais Longchamp showcasing 18th-century cabinet of curiosities, taxidermy animals, and fossils."
+      "tip": "Located in the left wing of Palais Longchamp showcasing 18th-century cabinet of curiosities, taxidermy animals, and fossils.",
+      "name_nl": "Muséum d'Histoire Naturelle de Marseille",
+      "desc_nl": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
+      "tip_nl": "Located in the left wing of Palais Longchamp showcasing 18th-century cabinet of curiosities, taxidermy animals, and fossils.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "ma_19",
@@ -855,7 +927,11 @@
       "rain": true,
       "shopping": false,
       "free": true,
-      "tip": "Trendy cultural center in a former tobacco factory featuring a huge rooftop terrace bar with sunset DJ sets and skatepark."
+      "tip": "Trendy cultural center in a former tobacco factory featuring a huge rooftop terrace bar with sunset DJ sets and skatepark.",
+      "name_nl": "Friche la Belle de Mai",
+      "desc_nl": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
+      "tip_nl": "Trendy cultural center in a former tobacco factory featuring a huge rooftop terrace bar with sunset DJ sets and skatepark.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_20",
@@ -900,7 +976,11 @@
       "rain": true,
       "shopping": false,
       "free": false,
-      "tip": "Housed inside Château Borély displaying 18th-century Neoclassical interiors, Marseille porcelain (Faïence), and vintage haute couture fashion."
+      "tip": "Housed inside Château Borély displaying 18th-century Neoclassical interiors, Marseille porcelain (Faïence), and vintage haute couture fashion.",
+      "name_nl": "Musée de la Faïence",
+      "desc_nl": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
+      "tip_nl": "Housed inside Château Borély displaying 18th-century Neoclassical interiors, Marseille porcelain (Faïence), and vintage haute couture fashion.",
+      "price_nl": "Entry: €6"
     },
     {
       "id": "ma_21",
@@ -945,7 +1025,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "The legendary seafood restaurant in Vallon des Auffes! Order authentic multi-fish Bouillabaisse served in 2 courses with garlic rouille sauce."
+      "tip": "The legendary seafood restaurant in Vallon des Auffes! Order authentic multi-fish Bouillabaisse served in 2 courses with garlic rouille sauce.",
+      "name_nl": "Chez Fonfon",
+      "desc_nl": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
+      "tip_nl": "The legendary seafood restaurant in Vallon des Auffes! Order authentic multi-fish Bouillabaisse served in 2 courses with garlic rouille sauce.",
+      "price_nl": "Bouillabaisse: €65–€85"
     },
     {
       "id": "ma_22",
@@ -991,7 +1075,11 @@
       "shopping": false,
       "free": false,
       "tip": "🎟️ Reserve weeks in advance for a window table! Prepared strictly according to the 1980 Marseille Bouillabaisse Charter (served in 2 courses).",
-      "de": "🎟️ Wochen im Voraus reservieren! Zubereitung streng nach der offiziellen Bouillabaisse-Charta von 1980."
+      "de": "🎟️ Wochen im Voraus reservieren! Zubereitung streng nach der offiziellen Bouillabaisse-Charta von 1980.",
+      "name_nl": "Le Miramar",
+      "desc_nl": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
+      "tip_nl": "🎟️ Reserve weeks in advance for a window table! Prepared strictly according to the 1980 Marseille Bouillabaisse Charter (served in 2 courses).",
+      "price_nl": "Bouillabaisse: €70"
     },
     {
       "id": "ma_23",
@@ -1036,7 +1124,11 @@
       "rain": false,
       "shopping": true,
       "free": true,
-      "tip": "Operating every morning at the head of Vieux-Port. Watch fishermen sell fresh sea bream, octopus, and rockfish straight from their wooden boats."
+      "tip": "Operating every morning at the head of Vieux-Port. Watch fishermen sell fresh sea bream, octopus, and rockfish straight from their wooden boats.",
+      "name_nl": "Marché aux Poissons du Vieux-Port",
+      "desc_nl": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
+      "tip_nl": "Operating every morning at the head of Vieux-Port. Watch fishermen sell fresh sea bream, octopus, and rockfish straight from their wooden boats.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_24",
@@ -1082,7 +1174,11 @@
       "shopping": true,
       "free": false,
       "tip": "🍽️ Buy fresh mint for homemade tea, Harissa spice paste, and hot honey Baklava at Saladin Épices du Monde stall.",
-      "de": "🍽️ Frische Minze, Harissa-Paste und süßes Baklava beim Gewürzladen Saladin Épices kaufen."
+      "de": "🍽️ Frische Minze, Harissa-Paste und süßes Baklava beim Gewürzladen Saladin Épices kaufen.",
+      "name_nl": "Marché de Noailles",
+      "desc_nl": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
+      "tip_nl": "🍽️ Buy fresh mint for homemade tea, Harissa spice paste, and hot honey Baklava at Saladin Épices du Monde stall.",
+      "price_nl": "Street food: €3–€10"
     },
     {
       "id": "ma_25",
@@ -1128,7 +1224,11 @@
       "shopping": false,
       "free": false,
       "tip": "🛍️ Buy boat-shaped orange blossom cookies baked in a 200-year-old stone oven—they stay fresh for months in sealed boxes!",
-      "de": "🛍️ Die im 200 Jahre alten Steinofen gebackenen Navettes in der Blechdose kaufen – monatelang haltbar!"
+      "de": "🛍️ Die im 200 Jahre alten Steinofen gebackenen Navettes in der Blechdose kaufen – monatelang haltbar!",
+      "name_nl": "Four des Navettes",
+      "desc_nl": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
+      "tip_nl": "🛍️ Buy boat-shaped orange blossom cookies baked in a 200-year-old stone oven—they stay fresh for months in sealed boxes!",
+      "price_nl": "Navettes: €5–€10"
     },
     {
       "id": "ma_26",
@@ -1174,7 +1274,11 @@
       "shopping": false,
       "free": false,
       "tip": "🍽️ Order a chilled Pastis (anise liqueur) diluting it with cold water and ice cubes at 5:00 PM for authentic local aperitivo culture.",
-      "de": "🍽️ Um 17 Uhr einen kühlen Pastis mit kaltem Wasser und Eiswürfeln bestellen – echtes Marseiller Flair!"
+      "de": "🍽️ Um 17 Uhr einen kühlen Pastis mit kaltem Wasser und Eiswürfeln bestellen – echtes Marseiller Flair!",
+      "name_nl": "La Samaritaine & Café de la Banque",
+      "desc_nl": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
+      "tip_nl": "🍽️ Order a chilled Pastis (anise liqueur) diluting it with cold water and ice cubes at 5:00 PM for authentic local aperitivo culture.",
+      "price_nl": "Pastis & Drinks: €4–€8"
     },
     {
       "id": "ma_27",
@@ -1220,7 +1324,11 @@
       "shopping": true,
       "free": false,
       "tip": "🛍️ Look for the official stamp '72% d'huile d'olive' on green cube soaps to ensure you are buying real authentic Savon de Marseille.",
-      "de": "🛍️ Achten Sie auf den Stempel '72% d'huile d'olive' auf den grünen Seifenblöcken für echte Marseiller Seife."
+      "de": "🛍️ Achten Sie auf den Stempel '72% d'huile d'olive' auf den grünen Seifenblöcken für echte Marseiller Seife.",
+      "name_nl": "Maison de la Boule & Savonneries Marseillaises",
+      "desc_nl": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
+      "tip_nl": "🛍️ Look for the official stamp '72% d'huile d'olive' on green cube soaps to ensure you are buying real authentic Savon de Marseille.",
+      "price_nl": "Soaps: €3–€8"
     },
     {
       "id": "ma_28",
@@ -1266,7 +1374,11 @@
       "shopping": false,
       "free": false,
       "tip": "🎟️ Book 1-2 months ahead for dinner at sunset; the panoramic sea view tables over the rocks are spectacular.",
-      "de": "🎟️ 1 bis 2 Monate im Voraus reservieren für ein Abendessen zum Sonnenuntergang direkt über den Klippen."
+      "de": "🎟️ 1 bis 2 Monate im Voraus reservieren für ein Abendessen zum Sonnenuntergang direkt über den Klippen.",
+      "name_nl": "L'Épuisette",
+      "desc_nl": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
+      "tip_nl": "🎟️ Book 1-2 months ahead for dinner at sunset; the panoramic sea view tables over the rocks are spectacular.",
+      "price_nl": "Tasting Menu: €95–€160"
     },
     {
       "id": "ma_29",
@@ -1311,7 +1423,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Marseille's oldest quarter! Wander narrow Mediterranean alleys filled with pastel facades, street art murals, and artisan craft shops."
+      "tip": "Marseille's oldest quarter! Wander narrow Mediterranean alleys filled with pastel facades, street art murals, and artisan craft shops.",
+      "name_nl": "Le Panier",
+      "desc_nl": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
+      "tip_nl": "Marseille's oldest quarter! Wander narrow Mediterranean alleys filled with pastel facades, street art murals, and artisan craft shops.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_30",
@@ -1356,7 +1472,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Picturesque tiny traditional fishing cove hidden beneath a stone viaduct. Great spot for evening drinks and seafood at sunset."
+      "tip": "Picturesque tiny traditional fishing cove hidden beneath a stone viaduct. Great spot for evening drinks and seafood at sunset.",
+      "name_nl": "Vallon des Auffes",
+      "desc_nl": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
+      "tip_nl": "Picturesque tiny traditional fishing cove hidden beneath a stone viaduct. Great spot for evening drinks and seafood at sunset.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_31",
@@ -1402,7 +1522,11 @@
       "shopping": false,
       "free": true,
       "tip": "📸 Walk or rent a Vélo'v bike during golden hour to take photos on the 3km continuous concrete bench over the Mediterranean.",
-      "de": "📸 Bei Sonnenuntergang mit dem Rad oder zu Fuß die Klippenstraße entlang und auf der 3km-Bank fotografieren."
+      "de": "📸 Bei Sonnenuntergang mit dem Rad oder zu Fuß die Klippenstraße entlang und auf der 3km-Bank fotografieren.",
+      "name_nl": "Corniche du Président John F. Kennedy",
+      "desc_nl": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
+      "tip_nl": "📸 Walk or rent a Vélo'v bike during golden hour to take photos on the 3km continuous concrete bench over the Mediterranean.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_32",
@@ -1447,7 +1571,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Marseille's bohemian alternative quarter famous for vibrant street art, vintage clothing stores, and bustling open-air terrace bars on the square."
+      "tip": "Marseille's bohemian alternative quarter famous for vibrant street art, vintage clothing stores, and bustling open-air terrace bars on the square.",
+      "name_nl": "Cours Julien",
+      "desc_nl": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
+      "tip_nl": "Marseille's bohemian alternative quarter famous for vibrant street art, vintage clothing stores, and bustling open-air terrace bars on the square.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_33",
@@ -1492,7 +1620,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "17th-century Baroque former almshouse featuring a pink stone dome designed by Pierre Puget. Now houses the African and Egyptian museums."
+      "tip": "17th-century Baroque former almshouse featuring a pink stone dome designed by Pierre Puget. Now houses the African and Egyptian museums.",
+      "name_nl": "Vieille Charité",
+      "desc_nl": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
+      "tip_nl": "17th-century Baroque former almshouse featuring a pink stone dome designed by Pierre Puget. Now houses the African and Egyptian museums.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_34",
@@ -1537,7 +1669,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Lively pedestrian cobblestone square near the Vieux-Port lined with olive trees, wine bars, and Italian bistros."
+      "tip": "Lively pedestrian cobblestone square near the Vieux-Port lined with olive trees, wine bars, and Italian bistros.",
+      "name_nl": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "desc_nl": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
+      "tip_nl": "Lively pedestrian cobblestone square near the Vieux-Port lined with olive trees, wine bars, and Italian bistros.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_35",
@@ -1583,7 +1719,11 @@
       "shopping": false,
       "free": true,
       "tip": "👚 Bring sturdy hiking shoes & 2L water! Access by foot is closed during high fire risk summer days—check the official Calanques app before heading out.",
-      "de": "👚 Feste Wanderschuhe und 2L Wasser mitnehmen! Im Sommer bei Wind oft wegen Waldbrandgefahr gesperrt (App prüfen)."
+      "de": "👚 Feste Wanderschuhe und 2L Wasser mitnehmen! Im Sommer bei Wind oft wegen Waldbrandgefahr gesperrt (App prüfen).",
+      "name_nl": "Parc National des Calanques",
+      "desc_nl": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
+      "tip_nl": "👚 Bring sturdy hiking shoes & 2L water! Access by foot is closed during high fire risk summer days—check the official Calanques app before heading out.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_36",
@@ -1628,7 +1768,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Take the 25-minute boat ferry from Vieux-Port to explore these rocky, car-free Mediterranean islands with turquoise swimming coves."
+      "tip": "Take the 25-minute boat ferry from Vieux-Port to explore these rocky, car-free Mediterranean islands with turquoise swimming coves.",
+      "name_nl": "Îles du Frioul",
+      "desc_nl": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
+      "tip_nl": "Take the 25-minute boat ferry from Vieux-Port to explore these rocky, car-free Mediterranean islands with turquoise swimming coves.",
+      "price_nl": "Ferry: €11"
     },
     {
       "id": "ma_37",
@@ -1673,7 +1817,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Tiny fishing port known as the 'End of the World' (Au bout du monde) at the edge of the Calanques. Fantastic spot for sunset grilled fish."
+      "tip": "Tiny fishing port known as the 'End of the World' (Au bout du monde) at the edge of the Calanques. Fantastic spot for sunset grilled fish.",
+      "name_nl": "Les Goudes & Cap Croisette",
+      "desc_nl": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
+      "tip_nl": "Tiny fishing port known as the 'End of the World' (Au bout du monde) at the edge of the Calanques. Fantastic spot for sunset grilled fish.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_38",
@@ -1719,7 +1867,11 @@
       "shopping": false,
       "free": true,
       "tip": "🧺 Rent a rowboat on the central lake or grab ice cream near Château Borély for a relaxing local picnic under shaded plane trees.",
-      "de": "🧺 Leihen Sie ein Ruderboot auf dem See oder genießen Sie ein Eis im Schatten der alten Platanen."
+      "de": "🧺 Leihen Sie ein Ruderboot auf dem See oder genießen Sie ein Eis im Schatten der alten Platanen.",
+      "name_nl": "Parc Borély & Jardin Botanique",
+      "desc_nl": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
+      "tip_nl": "🧺 Rent a rowboat on the central lake or grab ice cream near Château Borély for a relaxing local picnic under shaded plane trees.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_39",
@@ -1764,7 +1916,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Hop on the tourist road train at Vieux-Port for a scenic ride up the coastal Corniche to Notre-Dame de la Garde."
+      "tip": "Hop on the tourist road train at Vieux-Port for a scenic ride up the coastal Corniche to Notre-Dame de la Garde.",
+      "name_nl": "Le Petit Train de Marseille",
+      "desc_nl": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
+      "tip_nl": "Hop on the tourist road train at Vieux-Port for a scenic ride up the coastal Corniche to Notre-Dame de la Garde.",
+      "price_nl": "Ticket: €9"
     },
     {
       "id": "ma_40",
@@ -1809,7 +1965,11 @@
       "rain": false,
       "shopping": false,
       "free": false,
-      "tip": "Book a 3-hour or full-day boat cruise from Vieux-Port to explore the Calanques of Sormiou, Morgiou, and Sugiton from the sea."
+      "tip": "Book a 3-hour or full-day boat cruise from Vieux-Port to explore the Calanques of Sormiou, Morgiou, and Sugiton from the sea.",
+      "name_nl": "Croisières du Vieux-Port",
+      "desc_nl": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
+      "tip_nl": "Book a 3-hour or full-day boat cruise from Vieux-Port to explore the Calanques of Sormiou, Morgiou, and Sugiton from the sea.",
+      "price_nl": "Cruise: €16–€30"
     },
     {
       "id": "ma_41",
@@ -1854,7 +2014,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Popular pebble and sand beach complex created for swimming, beach volleyball, windsurfing, and seaside skatepark."
+      "tip": "Popular pebble and sand beach complex created for swimming, beach volleyball, windsurfing, and seaside skatepark.",
+      "name_nl": "Plage du Prado & Park",
+      "desc_nl": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
+      "tip_nl": "Popular pebble and sand beach complex created for swimming, beach volleyball, windsurfing, and seaside skatepark.",
+      "price_nl": "Free Entry"
     },
     {
       "id": "ma_42",
@@ -1899,7 +2063,11 @@
       "rain": false,
       "shopping": false,
       "free": true,
-      "tip": "Amusement park located in Ensues-la-Redonne featuring roller coasters, water rides, and western shows for kids."
+      "tip": "Amusement park located in Ensues-la-Redonne featuring roller coasters, water rides, and western shows for kids.",
+      "name_nl": "Magic Park Land",
+      "desc_nl": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
+      "tip_nl": "Amusement park located in Ensues-la-Redonne featuring roller coasters, water rides, and western shows for kids.",
+      "price_nl": "Free Gardens (Interior: €22)"
     },
     {
       "id": "ma_43",
@@ -1945,7 +2113,11 @@
       "shopping": false,
       "free": true,
       "tip": "🧺 Pack a picnic lunch and extra apples for kids to feed friendly goats at the educational farm (Free entry).",
-      "de": "🧺 Äpfel für die Ziegen auf dem kostenlosen Bauernhof mitnehmen und auf der Wiese picknicken."
+      "de": "🧺 Äpfel für die Ziegen auf dem kostenlosen Bauernhof mitnehmen und auf der Wiese picknicken.",
+      "name_nl": "Parc de Figuerolles",
+      "desc_nl": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
+      "tip_nl": "🧺 Pack a picnic lunch and extra apples for kids to feed friendly goats at the educational farm (Free entry).",
+      "price_nl": "Free Entry"
     }
   ]
 }
