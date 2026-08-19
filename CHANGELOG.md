@@ -2,6 +2,15 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v49.0.0] - 2026-08-19 (Database Synchronization & Asset Cache Update)
+
+### 🌍 Universal Database Maintenance & Synchronization (`v49.0.0`)
+- **Luxembourg Spot Name Alignment**: Standardized `lux_37` spot name to `Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）` across all 7 supported languages (`ja`, `en`, `es`, `zh`, `fr`, `de`, `nl`).
+- **5-Layer Compliance Guard**: Verified 100% clean passage across all **1,371 spots in 25 European cities**.
+- **Master Asset Version**: Bumped cache busters in `index.html` to `v=124.0`.
+
+---
+
 ## 🏷️ [v48.0.0] - 2026-08-19 (Multilingual Name Pattern-A Alignment & Asset Cache Update)
 
 ### 🌍 Universal Database Maintenance & Verification (`v48.0.0`)
