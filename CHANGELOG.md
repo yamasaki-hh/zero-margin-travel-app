@@ -2,6 +2,17 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v50.0.0] - 2026-08-19 (Google Maps Mandatory Driving Mode & Universal Parameter Fix)
+
+### 🚗 Google Maps Driving Route Parameter Enforcement (`v50.0.0`)
+- **Universal Driving Mode Standardization**:
+  - Replaced legacy `/maps/dir/.../data=!4m2!4m1!3e0` path URLs in Route A / Route B master buttons with `buildMasterGoogleMapsPath` API standard URLs (`https://www.google.com/maps/dir/?api=1`).
+  - Added dual mandatory parameters `travelmode=driving` AND `dirflg=d` across **all master routes, 2-stop routes, multi-stop waypoint routes, and individual segment legs**.
+  - **Cross-Platform Compatibility**: Solved mobile iOS/Android Google Maps app behavior where URLs previously reverted to user default transit (電車/バス) settings in transit-rich European cities. Now strictly forces Car / Driving (車でのルート) on PC browsers, iOS Safari, Android Chrome, and native mobile Google Maps apps.
+- **Master Asset Version**: Bumped cache busters in `index.html` to `v=125.0`.
+
+---
+
 ## 🏷️ [v49.0.0] - 2026-08-19 (Database Synchronization & Asset Cache Update)
 
 ### 🌍 Universal Database Maintenance & Synchronization (`v49.0.0`)
