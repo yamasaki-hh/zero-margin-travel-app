@@ -2,6 +2,28 @@
 
 All notable changes and release checkpoints for the Zero-Margin Travel App will be documented in this file.
 
+## 🏷️ [v47.0.0] - 2026-08-19 (Netherlands 5-City Factual Audit & 2026 Price/Status Synchronization Release)
+
+### 🇳🇱 Netherlands 5-City Factual Audit & Status Synchronization (`v47.0.0`)
+- **Rotterdam Major 2025–2026 Venue Updates**:
+  - `ro_13` **Museum Boijmans Van Beuningen**: Added explicit status note that main historic building is closed for major renovation through 2029+; all 155,000+ works are accessible at adjacent `ro_4` **Depot Boijmans Van Beuningen** (€20.00).
+  - `ro_29` **Nederlands Fotomuseum**: Updated relocation status to new historic home at **Pakhuis Santos** in Katendrecht (reopened February 7, 2026).
+  - `ro_35` **Fenix Museum of Migration**: Updated to official opened status (May 2025, €15.00) with MAD Architects double-helix "Tornado" staircase landmark.
+  - `ro_44` **Portlantis**: Updated FutureLand entry to **Portlantis**, the brand-new 2025 port experience center at Maasvlakte 2.
+- **The Hague & Utrecht Renovation & Pricing Refinements**:
+  - `dh_2` **Het Binnenhof**: Added clear status note that parliament complex is closed for historical renovation through 2028-2031; added Plaats 22 Renovation Info Centre & elevated viewing deck guidance.
+  - `dh_1` **Mauritshuis** (€21.00), `dh_6` **Escher in Het Paleis** (€14.50), `dh_30` **Museon-Omniversum** (€17.50).
+  - `ut_1` **Domtoren** (€14.50), `ut_5` **Rietveld Schröderhuis** (€19.00), `ut_6` **Centraal Museum** (€18.00), `ut_8` **Spoorwegmuseum** (€19.50).
+- **Maastricht Price & Entry Disambiguation**:
+  - `ma_9` **Bonnefantenmuseum** (€22.00), `ma_2` **Sint-Servaaskerk** (€7.00), `ma_7` **Grotten van Sint Pietersberg** (€9.95+ guided tour), `ma_11` **Fort Sint Pieter** (€9.95+ guided tour).
+  - Disambiguated square vs guided tour price tags across `ma_11`, `ma_12`, `ma_13`.
+- **Amsterdam 2026 Price Synchronization**:
+  - `a_2` **Van Gogh Museum** (€25.00), `a_3` **Anne Frank House** (€16.50), `a_6` **Heineken Experience** (€24.95+), `a_9` **A'DAM LOOKOUT** (€16.50 / swing +€7.50), `a_15` **NEMO** (€21.50), `a_18` **Rembrandt House** (€23.50).
+- **5-Layer Compliance Guard**: Passed 100% clean across all **1,371 spots across 7 languages**.
+- **Master Asset Version**: Bumped to `v=122.0`.
+
+---
+
 ## 🏷️ [v46.0.0] - 2026-08-19 (Full Dutch Language Support & 7-Language Internationalization Release)
 
 ### 🇳🇱 Full Dutch (Nederlands) Language Addition & 7-Language Architecture (`v46.0.0`)

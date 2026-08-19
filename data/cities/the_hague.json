@@ -74,13 +74,13 @@
       "name_fr": "Het Binnenhof & Ridderzaal",
       "name_de": "Het Binnenhof & Ridderzaal",
       "desc_en": "13th-century Gothic castle complex serving as the political heart of the Netherlands and the oldest active parliament building.",
-      "desc_ja": "13世紀のゴシック様式城砦で、現在も使用されている世界最古の国会議事堂群。ホフフェイフェルの池に面するオランダ政治の中心地。",
+      "desc_ja": "13世紀に建てられたオランダ政治の中心地（※現在2028〜2031年頃まで大規模修復工事中のため建物内部・中庭は閉鎖中。Plaats 22にインフォメーションセンターと展望台が開設）。",
       "desc_es": "13th-century Gothic castle complex serving as the political heart of the Netherlands and the oldest active parliament building.",
       "desc_zh": "13th-century Gothic castle complex serving as the political heart of the Netherlands and the oldest active parliament building.",
       "desc_fr": "13th-century Gothic castle complex serving as the political heart of the Netherlands and the oldest active parliament building.",
       "desc_de": "13th-century Gothic castle complex serving as the political heart of the Netherlands and the oldest active parliament building.",
       "tip_en": "📸 Walk along Lange Vijverberg for classic Hofvijver reflection shots. (Note: Binnenhof is undergoing renovation through 2028+).",
-      "tip_ja": "📸 ホフフェイフェルの池の対岸（Lange Vijverberg通り）からの水面反射構図が定番。（※2028年以降まで大規模改修工事中のため外観見学のみ）。",
+      "tip_ja": "🏗️ 現在大規模改修工事中につき外観見学のみ。Plaats 22の「Binnenhof Renovation Info Centre」にて改修の歴史と無料の特設展望デッキを楽しめます。",
       "tip_es": "📸 Walk along Lange Vijverberg for classic Hofvijver reflection shots. (Note: Binnenhof is undergoing renovation through 2028+).",
       "tip_zh": "📸 Walk along Lange Vijverberg for classic Hofvijver reflection shots. (Note: Binnenhof is undergoing renovation through 2028+).",
       "tip_fr": "📸 Walk along Lange Vijverberg for classic Hofvijver reflection shots. (Note: Binnenhof is undergoing renovation through 2028+).",
@@ -278,7 +278,7 @@
       "name_nl": "Escher in Het Paleis）",
       "desc_nl": "Museum in Queen Mother Emma's 18th-century winter palace, dedicated to the mind-bending optical illusions of M.C. Escher.",
       "tip_nl": "🪄 Step into the top-floor 'Escher Room' (Ames room illusion) where optical perspective makes one person look tiny and another giant.",
-      "price_nl": "Entry: €14.50"
+      "price_nl": "Toegang: €14.50"
     },
     {
       "id": "dh_7",
@@ -1340,7 +1340,7 @@
     },
     {
       "id": "dh_30",
-      "name": "Museon-Omniversum（ミュゼオン＆オムニバースIMAXドーム）",
+      "name": "Museon-Omniversum（ミューゼオン・オムニバース全天周映画館）",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1356,7 +1356,7 @@
       "wikiImage": "",
       "hasWiki": false,
       "name_en": "Museon-Omniversum",
-      "name_ja": "Museon-Omniversum（ミュゼオン＆オムニバースIMAXドーム）",
+      "name_ja": "Museon-Omniversum（ミューゼオン・オムニバース全天周映画館）",
       "name_es": "Museon-Omniversum",
       "name_zh": "Museon-Omniversum",
       "name_fr": "Museon-Omniversum",
@@ -1373,8 +1373,8 @@
       "tip_zh": "🎟️ Buy a combination day ticket to access both hands-on science galleries and one scheduled dome movie presentation.",
       "tip_fr": "🎟️ Buy a combination day ticket to access both hands-on science galleries and one scheduled dome movie presentation.",
       "tip_de": "🎟️ Buy a combination day ticket to access both hands-on science galleries and one scheduled dome movie presentation.",
-      "price_ja": "料金: コンビチケット: €17.50",
-      "price_en": "Entry: コンビチケット: €17.50",
+      "price_ja": "料金: €17.50",
+      "price_en": "Entry: €17.50",
       "price_es": "Entrada: コンビチケット: €17.50",
       "price_zh": "门票：コンビチケット: €17.50",
       "price_fr": "Entrée : コンビチケット: €17.50",
@@ -1382,7 +1382,7 @@
       "name_nl": "Museon-Omniversum",
       "desc_nl": "Integrated science museum focusing on global sustainability combined with an 840 m² curved IMAX dome cinema.",
       "tip_nl": "🎟️ Buy a combination day ticket to access both hands-on science galleries and one scheduled dome movie presentation.",
-      "price_nl": "Entry: コンビチケット: €17.50"
+      "price_nl": "Toegang: €17.50"
     },
     {
       "id": "dh_31",

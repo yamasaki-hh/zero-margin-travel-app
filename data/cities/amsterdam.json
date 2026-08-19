@@ -94,7 +94,7 @@
       "name_nl": "Van Gogh Museum",
       "desc_nl": "Art museum holding the world's largest collection of paintings and letters by Vincent van Gogh.",
       "tip_nl": "🎟️ 100% online advance ticket purchase required; no walk-up ticket desk. Reserve weeks early during peak season.",
-      "price_nl": "Entry: €25.00"
+      "price_nl": "Toegang: €25.00"
     },
     {
       "id": "a_3",
@@ -131,8 +131,8 @@
       "tip_zh": "🎟️ Tickets released online every Tuesday at 10:00 AM (CEST) for visits 6 weeks later; sells out in minutes.",
       "tip_fr": "🎟️ Tickets released online every Tuesday at 10:00 AM (CEST) for visits 6 weeks later; sells out in minutes.",
       "tip_de": "🎟️ Tickets released online every Tuesday at 10:00 AM (CEST) for visits 6 weeks later; sells out in minutes.",
-      "price_ja": "料金: €16.50",
-      "price_en": "Entry: €16.50",
+      "price_ja": "料金: €16.50 (予約料込)",
+      "price_en": "Entry: €16.50 (incl. fee)",
       "price_es": "Entrada: €16.00",
       "price_zh": "门票：€16.00",
       "price_fr": "Entrée : €16.00",
@@ -140,7 +140,7 @@
       "name_nl": "Anne Frank House",
       "desc_nl": "Historic canal house where Anne Frank hid from Nazi persecution during World War II.",
       "tip_nl": "🎟️ Tickets released online every Tuesday at 10:00 AM (CEST) for visits 6 weeks later; sells out in minutes.",
-      "price_nl": "Entry: €16.50"
+      "price_nl": "Toegang: €16.50 (incl. kosten)"
     },
     {
       "id": "a_4",
@@ -270,7 +270,7 @@
       "tip_fr": "🍺 Admission includes two freshly poured beers. Join the bartender-led 'Perfect Pour' masterclass in the cellar.",
       "tip_de": "🍺 Admission includes two freshly poured beers. Join the bartender-led 'Perfect Pour' masterclass in the cellar.",
       "price_ja": "料金: €24.95〜",
-      "price_en": "Entry: From €24.95",
+      "price_en": "Entry: €24.95+",
       "price_es": "Entrada: €23.00",
       "price_zh": "门票：€23.00",
       "price_fr": "Entrée : €23.00",
@@ -278,7 +278,7 @@
       "name_nl": "Heineken Experience",
       "desc_nl": "Interactive self-guided tour set inside Heineken's historic first brick brewery in De Pijp.",
       "tip_nl": "🍺 Admission includes two freshly poured beers. Join the bartender-led 'Perfect Pour' masterclass in the cellar.",
-      "price_nl": "Entry: From €24.95"
+      "price_nl": "Toegang: €24.95+"
     },
     {
       "id": "a_7",
@@ -407,8 +407,8 @@
       "tip_zh": "⛴️ Take the free 24/7 public ferry from behind Centraal (~3 min crossing). Visit 45 minutes before sunset for golden hour.",
       "tip_fr": "⛴️ Take the free 24/7 public ferry from behind Centraal (~3 min crossing). Visit 45 minutes before sunset for golden hour.",
       "tip_de": "⛴️ Take the free 24/7 public ferry from behind Centraal (~3 min crossing). Visit 45 minutes before sunset for golden hour.",
-      "price_ja": "料金: LOOKOUT €16.50〜 / ブランコ加算 €7.50",
-      "price_en": "Entry: LOOKOUT €16.50+ / Swing add-on €7.50",
+      "price_ja": "料金: €16.50 (ブランコ追加 +€7.50)",
+      "price_en": "Entry: €16.50 (Swing add-on +€7.50)",
       "price_es": "Entrada: 展望台: €16.50 / ブランコ: €6.00",
       "price_zh": "门票：展望台: €16.50 / ブランコ: €6.00",
       "price_fr": "Entrée : 展望台: €16.50 / ブランコ: €6.00",
@@ -416,7 +416,7 @@
       "name_nl": "A'DAM LOOKOUT",
       "desc_nl": "Observation deck atop a 22-story tower on the IJ river, featuring Europe's highest over-the-edge swing.",
       "tip_nl": "⛴️ Take the free 24/7 public ferry from behind Centraal (~3 min crossing). Visit 45 minutes before sunset for golden hour.",
-      "price_nl": "Entry: LOOKOUT €16.50+ / Swing add-on €7.50"
+      "price_nl": "Toegang: €16.50 (Schommel +€7.50)"
     },
     {
       "id": "a_10",
@@ -692,7 +692,7 @@
       "name_nl": "NEMO Science Museum",
       "desc_nl": "Interactive hands-on science museum housed in a green copper ship-hull building designed by Renzo Piano.",
       "tip_nl": "☀️ The cascading rooftop terrace (featuring water installations and harbor views) is free via outdoor stairs.",
-      "price_nl": "Entry: €21.50"
+      "price_nl": "Toegang: €21.50"
     },
     {
       "id": "a_16",
@@ -821,8 +821,8 @@
       "tip_zh": "🎨 Head to the 3rd-floor studio for daily live demonstrations showing how Rembrandt ground mineral pigments.",
       "tip_fr": "🎨 Head to the 3rd-floor studio for daily live demonstrations showing how Rembrandt ground mineral pigments.",
       "tip_de": "🎨 Head to the 3rd-floor studio for daily live demonstrations showing how Rembrandt ground mineral pigments.",
-      "price_ja": "料金: €23.50",
-      "price_en": "Entry: €23.50",
+      "price_ja": "料金: €23.50 (オフピーク €19.50)",
+      "price_en": "Entry: €23.50 (Off-peak €19.50)",
       "price_es": "Entrada: €19.50",
       "price_zh": "门票：€19.50",
       "price_fr": "Entrée : €19.50",
@@ -830,7 +830,7 @@
       "name_nl": "Museum Het Rembrandthuis",
       "desc_nl": "Historic 17th-century townhouse where Rembrandt van Rijn lived and worked during the height of his career.",
       "tip_nl": "🎨 Head to the 3rd-floor studio for daily live demonstrations showing how Rembrandt ground mineral pigments.",
-      "price_nl": "Entry: €23.50"
+      "price_nl": "Toegang: €23.50 (Daluren €19.50)"
     },
     {
       "id": "a_19",
@@ -1040,13 +1040,13 @@
       "name_fr": "Het Begijnhof",
       "name_de": "Het Begijnhof",
       "desc_en": "Tranquil 14th-century enclosed courtyard complex containing one of Amsterdam's oldest wooden houses.",
-      "desc_ja": "14世紀に建てられたベギン会修道女のための静寂な中庭。市内最古級の木造家屋（1420年頃）が残る。",
+      "desc_ja": "14世紀に修道女（ベギン会士）の共同体として創設された静寂に包まれた歴史的中庭。中央の広場を囲む伝統的な住居群と英王室ゆかりの礼拝堂が立ち並ぶ。",
       "desc_es": "Tranquil 14th-century enclosed courtyard complex containing one of Amsterdam's oldest wooden houses.",
       "desc_zh": "Tranquil 14th-century enclosed courtyard complex containing one of Amsterdam's oldest wooden houses.",
       "desc_fr": "Tranquil 14th-century enclosed courtyard complex containing one of Amsterdam's oldest wooden houses.",
       "desc_de": "Tranquil 14th-century enclosed courtyard complex containing one of Amsterdam's oldest wooden houses.",
       "tip_en": "🤫 This is a quiet private residential area; absolute silence is mandatory. Enter via the wooden doorway off Spui.",
-      "tip_ja": "📸 静かな中庭で14世紀木造住宅を鑑賞。（※現在も住民が暮らす歴史的コミュニティのため、騒音を避け私生活に要配慮）。",
+      "tip_ja": "🤫 居住者が生活する静かな歴史的中庭です。大声での会話を控え、静粛を守って見学しましょう。",
       "tip_es": "🤫 This is a quiet private residential area; absolute silence is mandatory. Enter via the wooden doorway off Spui.",
       "tip_zh": "🤫 This is a quiet private residential area; absolute silence is mandatory. Enter via the wooden doorway off Spui.",
       "tip_fr": "🤫 This is a quiet private residential area; absolute silence is mandatory. Enter via the wooden doorway off Spui.",
@@ -1557,8 +1557,8 @@
       "tip_zh": "🔬 Inside Micropia, test the 'Kiss-o-Meter' to see how many millions of microbes are exchanged during a kiss.",
       "tip_fr": "🔬 Inside Micropia, test the 'Kiss-o-Meter' to see how many millions of microbes are exchanged during a kiss.",
       "tip_de": "🔬 Inside Micropia, test the 'Kiss-o-Meter' to see how many millions of microbes are exchanged during a kiss.",
-      "price_ja": "料金: ARTIS €29.50〜 / Micropia €17.00",
-      "price_en": "Entry: ARTIS €29.50+ / Micropia €17.00",
+      "price_ja": "料金: オンライン €29.50〜",
+      "price_en": "Entry: Online €29.50+",
       "price_es": "Entrada: 動物園: €26.50 / マイクロピア: €17.50",
       "price_zh": "门票：動物園: €26.50 / マイクロピア: €17.50",
       "price_fr": "Entrée : 動物園: €26.50 / マイクロピア: €17.50",
@@ -1566,7 +1566,7 @@
       "name_nl": "ARTIS & Micropia",
       "desc_nl": "Historic 1838 urban zoo combined with Micropia, the world's only museum dedicated exclusively to microbes and bacteria.",
       "tip_nl": "🔬 Inside Micropia, test the 'Kiss-o-Meter' to see how many millions of microbes are exchanged during a kiss.",
-      "price_nl": "Entry: ARTIS €29.50+ / Micropia €17.00"
+      "price_nl": "Toegang: Online €29.50+"
     },
     {
       "id": "a_35",

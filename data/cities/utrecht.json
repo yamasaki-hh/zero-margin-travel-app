@@ -48,7 +48,7 @@
       "name_nl": "Domtoren Utrecht",
       "desc_nl": "The tallest church tower in the Netherlands (112.5 meters), built between 1321 and 1382 in Gothic style.",
       "tip_nl": "🪜 465-step guided tour requires advance booking online; major 5-year restoration completed in 2024 with new illumination.",
-      "price_nl": "Entry: Guided climb €14.50"
+      "price_nl": "Toegang: Gids klim €14.50"
     },
     {
       "id": "ut_2",
@@ -224,7 +224,7 @@
       "tip_fr": "🏠 Very limited capacity; mandatory online booking in advance. Guides demonstrate the famous 2nd-floor sliding walls.",
       "tip_de": "🏠 Very limited capacity; mandatory online booking in advance. Guides demonstrate the famous 2nd-floor sliding walls.",
       "price_ja": "料金: €19.00 (オーディオガイド込)",
-      "price_en": "Entry: €19.00 (オーディオガイド込)",
+      "price_en": "Entry: €19.00 (incl. audio guide)",
       "price_es": "Entrada: €19.00 (オーディオガイド込)",
       "price_zh": "门票：€19.00 (オーディオガイド込)",
       "price_fr": "Entrée : €19.00 (オーディオガイド込)",
@@ -232,7 +232,7 @@
       "name_nl": "Rietveld Schröderhuis",
       "desc_nl": "1924 De Stijl architectural masterpiece by Gerrit Rietveld featuring sliding walls and primary colors, UNESCO World Heritage.",
       "tip_nl": "🏠 Very limited capacity; mandatory online booking in advance. Guides demonstrate the famous 2nd-floor sliding walls.",
-      "price_nl": "Entry: €19.00 (オーディオガイド込)"
+      "price_nl": "Toegang: €19.00 (incl. audiogids)"
     },
     {
       "id": "ut_6",
@@ -278,7 +278,7 @@
       "name_nl": "Centraal Museum Utrecht",
       "desc_nl": "The oldest municipal museum in NL (1838), holding Dutch Golden Age masterpieces and Dick Bruna's original studio atelier.",
       "tip_nl": "🎨 Visit the top floor to see Dick Bruna's authentic preserved studio atelier with his original drawing desk.",
-      "price_nl": "Entry: €18.00"
+      "price_nl": "Toegang: €18.00"
     },
     {
       "id": "ut_7",
@@ -370,7 +370,7 @@
       "name_nl": "Spoorwegmuseum",
       "desc_nl": "Interactive railway museum in historic 1874 Maliebaan station, featuring steam locomotives and dark rides.",
       "tip_nl": "🚂 Top rainy-day attraction for families; features vintage royal carriages and the interactive 'Great Discovery' ride.",
-      "price_nl": "Entry: €19.50"
+      "price_nl": "Toegang: €19.50"
     },
     {
       "id": "ut_9",

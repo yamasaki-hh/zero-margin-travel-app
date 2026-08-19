@@ -310,8 +310,8 @@
     "tip_zh": "🔦 Guided tour in total darkness with flashlights; bring a warm jacket as caves remain a constant 10°C (50°F) year-round.",
     "tip_fr": "🔦 Guided tour in total darkness with flashlights; bring a warm jacket as caves remain a constant 10°C (50°F) year-round.",
     "tip_de": "🔦 Guided tour in total darkness with flashlights; bring a warm jacket as caves remain a constant 10°C (50°F) year-round.",
-    "price_ja": "料金: €12.50",
-    "price_en": "Entry: €12.50",
+    "price_ja": "料金: ガイドツアー €9.95〜",
+    "price_en": "Entry: Guided tour €9.95+",
     "price_es": "Entrada: €12.50",
     "price_zh": "门票： €12.50",
     "price_fr": "Entrée : €12.50",
@@ -319,7 +319,7 @@
     "name_nl": "Grotten van Sint Pietersberg）",
     "desc_nl": "Underground labyrinth of 20,000 marlstone tunnels where Rembrandt's 'The Night Watch' was hidden during WWII.",
     "tip_nl": "🔦 Guided tour in total darkness with flashlights; bring a warm jacket as caves remain a constant 10°C (50°F) year-round.",
-    "price_nl": "Entry: €12.50"
+    "price_nl": "Toegang: Rondleiding vanaf €9.95"
   },
   {
     "id": "ma_8",
@@ -402,8 +402,8 @@
     "tip_zh": "🎨 Climb Aldo Rossi's iconic central zinc tower staircase for panoramic views over the Meuse River.",
     "tip_fr": "🎨 Climb Aldo Rossi's iconic central zinc tower staircase for panoramic views over the Meuse River.",
     "tip_de": "🎨 Climb Aldo Rossi's iconic central zinc tower staircase for panoramic views over the Meuse River.",
-    "price_ja": "料金: €17.50",
-    "price_en": "Entry: €17.50",
+    "price_ja": "料金: €22.00",
+    "price_en": "Entry: €22.00",
     "price_es": "Entrada: €17.50",
     "price_zh": "门票： €17.50",
     "price_fr": "Entrée : €17.50",
@@ -411,7 +411,7 @@
     "name_nl": "Bonnefantenmuseum",
     "desc_nl": "Art museum in a striking rocket-domed building by Aldo Rossi, housing medieval wooden sculptures to modern masterpieces.",
     "tip_nl": "🎨 Climb Aldo Rossi's iconic central zinc tower staircase for panoramic views over the Meuse River.",
-    "price_nl": "Entry: €17.50"
+    "price_nl": "Toegang: €22.00"
   },
   {
     "id": "ma_10",
@@ -437,7 +437,7 @@
     "name_fr": "Bisschopsmolen） (ビショップスモレン（歴史的水車小屋＆ベーカリー)",
     "name_de": "Bisschopsmolen） (ビショップスモレン（歴史的水車小屋＆ベーカリー)",
     "desc_en": "7th-century working watermill grinding grain for an authentic bakery crafting traditional Dutch Limburg vlaai pies.",
-    "desc_ja": "7世紀に遡るイェーカー川の現役水車小屋。水力で挽いた粉で焼く伝統のリンブルフ風フルーツパイ（Vlaai）の名店。",
+    "desc_ja": "中世の伝統を受け継ぐ17世紀の歴史的水車小屋。スペルト小麦を挽き、併設のベーカリーで焼きたてフライ（Limburgse vlaai）を味わえる。",
     "desc_es": "7th-century working watermill grinding grain for an authentic bakery crafting traditional Dutch Limburg vlaai pies.",
     "desc_zh": "7th-century working watermill grinding grain for an authentic bakery crafting traditional Dutch Limburg vlaai pies.",
     "desc_fr": "7th-century working watermill grinding grain for an authentic bakery crafting traditional Dutch Limburg vlaai pies.",
@@ -494,8 +494,8 @@
     "tip_zh": "🏰 Free to walk around the earthen bastions and enjoy the hilltop view; guided underground tours available.",
     "tip_fr": "🏰 Free to walk around the earthen bastions and enjoy the hilltop view; guided underground tours available.",
     "tip_de": "🏰 Free to walk around the earthen bastions and enjoy the hilltop view; guided underground tours available.",
-    "price_ja": "料金: €22.00",
-    "price_en": "Entry: €22.00",
+    "price_ja": "料金: ガイドツアー €9.95〜",
+    "price_en": "Entry: Guided tour €9.95+",
     "price_es": "Acceso libre",
     "price_zh": "免费参观",
     "price_fr": "Accès gratuit",
@@ -503,7 +503,7 @@
     "name_nl": "Fort Sint Pieter",
     "desc_nl": "1700 pentagonal brick fortress atop St. Pietersberg hill offering panoramic views of Maastricht and the Meuse valley.",
     "tip_nl": "🏰 Free to walk around the earthen bastions and enjoy the hilltop view; guided underground tours available.",
-    "price_nl": "Entry: €22.00"
+    "price_nl": "Toegang: Rondleiding vanaf €9.95"
   },
   {
     "id": "ma_12",
@@ -540,8 +540,8 @@
     "tip_zh": "🍓 Visit on Wednesday or Friday morning to browse dozens of market stalls selling fresh cheeses, flowers, and kibbeling.",
     "tip_fr": "🍓 Visit on Wednesday or Friday morning to browse dozens of market stalls selling fresh cheeses, flowers, and kibbeling.",
     "tip_de": "🍓 Visit on Wednesday or Friday morning to browse dozens of market stalls selling fresh cheeses, flowers, and kibbeling.",
-    "price_ja": "料金: ガイドツアー €9.95〜",
-    "price_en": "Entry: Guided tour €9.95+",
+    "price_ja": "広場散策無料",
+    "price_en": "Free Entry",
     "price_es": "Acceso libre",
     "price_zh": "免费参观",
     "price_fr": "Accès gratuit",
@@ -549,7 +549,7 @@
     "name_nl": "Stadhuis Maastricht & Markt",
     "desc_nl": "1662 Dutch Classicist city hall on the vibrant market square hosting lively open-air markets on Wednesdays and Fridays.",
     "tip_nl": "🍓 Visit on Wednesday or Friday morning to browse dozens of market stalls selling fresh cheeses, flowers, and kibbeling.",
-    "price_nl": "Entry: Guided tour €9.95+"
+    "price_nl": "Gratis toegang"
   },
   {
     "id": "ma_13",
@@ -586,8 +586,8 @@
     "tip_zh": "🪜 Climb 218 steps up the striking red tower in summer for the highest open-air view over Vrijthof Square.",
     "tip_fr": "🪜 Climb 218 steps up the striking red tower in summer for the highest open-air view over Vrijthof Square.",
     "tip_de": "🪜 Climb 218 steps up the striking red tower in summer for the highest open-air view over Vrijthof Square.",
-    "price_ja": "料金: ガイドツアー €9.95〜",
-    "price_en": "Entry: Guided tour €9.95+",
+    "price_ja": "聖堂拝観無料 / 塔登頂 €4.00",
+    "price_en": "Free Church / Tower €4.00",
     "price_es": "Acceso libre",
     "price_zh": "免费参观",
     "price_fr": "Accès gratuit",
@@ -595,7 +595,7 @@
     "name_nl": "Sint-Janskerk",
     "desc_nl": "Gothic protestant church featuring a soaring 70-meter bright red limestone bell tower next to Vrijthof Square.",
     "tip_nl": "🪜 Climb 218 steps up the striking red tower in summer for the highest open-air view over Vrijthof Square.",
-    "price_nl": "Entry: Guided tour €9.95+"
+    "price_nl": "Gratis kerk / Toren €4.00"
   },
   {
     "id": "ma_14",
