@@ -43,7 +43,10 @@
     "name_nl": "Bock-Kasematten",
     "desc_nl": "Subterranean defensive fortress network carved into sheer sandstone cliffs (UNESCO), once accommodating thousands of soldiers.",
     "tip_nl": "🧥 Cave interior temperatures stay cool (10-12°C); wear a light jacket and sturdy footwear. Cliffside embrasures offer framed views.",
-    "price_nl": "Entry: €8.00"
+    "price_nl": "Entry: €8.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_2",
@@ -89,7 +92,11 @@
     "name_nl": "Le Chemin de la Corniche",
     "desc_nl": "Pedestrian promenade running along 17th-century Spanish and Vauban stone ramparts overlooking the deep Alzette river gorge and Grund.",
     "tip_nl": "📸 Visit during late afternoon when the sandstone facades below catch the golden sunlight; walk from Bock cliff to Saint-Esprit.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_3",
@@ -135,7 +142,10 @@
     "name_nl": "Palais Grand-Ducal",
     "desc_nl": "Official city residence of the Grand Duke of Luxembourg featuring an ornate 16th-century Flemish Renaissance facade with turrets.",
     "tip_nl": "👑 The palace interior is open for guided tours only in summer (mid-July to early September). Watching the guard change is free.",
-    "price_nl": "Exterior/Guards Free / Tour ~€15.00"
+    "price_nl": "Exterior/Guards Free / Tour ~€15.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_4",
@@ -181,7 +191,10 @@
     "name_nl": "Pétrusse-Kasematten",
     "desc_nl": "Subterranean military defense galleries carved into cliffs overlooking Pétrusse Valley, with light-and-sound show projections.",
     "tip_nl": "🔦 Join the guided multimedia tour; dynamic projections on subterranean stone walls recreate historic siege warfare.",
-    "price_nl": "Entry: €15.00"
+    "price_nl": "Entry: €15.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_5",
@@ -227,7 +240,10 @@
     "name_nl": "Pont Adolphe",
     "desc_nl": "Double-arched stone bridge constructed in 1903. Famous for its suspended lower pedestrian and bicycle bridge hung beneath roadway.",
     "tip_nl": "🚲 Walk or cycle through the suspended lower footbridge beneath the main roadway; feels like walking through a suspended tunnel.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_6",
@@ -273,7 +289,11 @@
     "name_nl": "Grund",
     "desc_nl": "Quiet medieval village nestled at the bottom of the deep Alzette river valley beneath soaring fortress cliffs with cobblestone quays.",
     "tip_nl": "🛗 Take the Ascenseur du Saint-Esprit free public lift inside the rock face to descend effortlessly into the Grund.",
-    "price_nl": "Free Walk (Lift Free)"
+    "price_nl": "Free Walk (Lift Free)",
+    "categories": [
+      "Café",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_7",
@@ -319,7 +339,10 @@
     "name_nl": "Neimënster",
     "desc_nl": "17th-century former Benedictine abbey in Grund, converted into a cultural arts venue with stone cloisters and open courtyard.",
     "tip_nl": "🍷 The spacious inner courtyard and waterside terrace host open-air jazz concerts on summer weekends with the Bock cliff as backdrop.",
-    "price_nl": "Grounds Free"
+    "price_nl": "Grounds Free",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_8",
@@ -365,7 +388,13 @@
     "name_nl": "Cathédrale Notre-Dame",
     "desc_nl": "17th-century Late Gothic cathedral featuring three slender black spires, early Baroque portals, and Grand Ducal family crypt.",
     "tip_nl": "⛪ Admission is completely free; descend into the subterranean crypt to see the massive bronze lions guarding the vault.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "lux_9",
@@ -411,7 +440,12 @@
     "name_nl": "Place Guillaume II",
     "desc_nl": "Central town square of Upper Town dominated by equestrian statue of William II and neoclassical City Hall, hosting open-air markets.",
     "tip_nl": "🍓 Visit on Wednesday or Saturday mornings for the open-air market selling local cheeses, wines, and hot potato cakes.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "lux_10",
@@ -457,7 +491,11 @@
     "name_nl": "Place d'Armes",
     "desc_nl": "Square lined with linden trees, bandstands, and restaurant terraces. Historically a parade ground, now the primary social hub.",
     "tip_nl": "🎺 Sit on an outdoor cafe terrace during summer afternoons to enjoy free open-air brass band concerts in the music pavilion.",
-    "price_nl": "Free (Cafe ~€12-30)"
+    "price_nl": "Free (Cafe ~€12-30)",
+    "categories": [
+      "Café",
+      "Landmark"
+    ]
   },
   {
     "id": "lux_11",
@@ -503,7 +541,11 @@
     "name_nl": "MUDAM",
     "desc_nl": "Designed by I.M. Pei, standing atop stone foundations of Fort Thüngen on Kirchberg. Showcases international contemporary art in glass halls.",
     "tip_nl": "🏛️ The building's central glass canopy floods the interior with natural light; stop by Mudam Café for a weekend brunch.",
-    "price_nl": "Entry: €8.00"
+    "price_nl": "Entry: €8.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "lux_12",
@@ -549,7 +591,12 @@
     "name_nl": "Musée Dräi Eechelen",
     "desc_nl": "Housed inside restored 18th-century Fort Thüngen, recognizable by stone acorns atop three round towers, detailing fortress history.",
     "tip_nl": "🌲 The ramparts surrounding the museum offer an unobstructed panoramic view across the deep valley toward Old Town skyline.",
-    "price_nl": "Permanent Free"
+    "price_nl": "Permanent Free",
+    "categories": [
+      "Landmark",
+      "Museum",
+      "Shopping"
+    ]
   },
   {
     "id": "lux_13",
@@ -595,7 +642,10 @@
     "name_nl": "Pfaffenthal Panoramic Glass Lift",
     "desc_nl": "Pfaffenthal is a lower valley neighborhood. The Panoramic Lift carries pedestrians 71m between Upper Town and valley in 30 seconds.",
     "tip_nl": "📸 The ride on the glass elevator is 100% free; step onto the glass-bottomed floor section at the top viewing bridge for a thrill.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_14",
@@ -641,7 +691,11 @@
     "name_nl": "Vallée de la Pétrusse",
     "desc_nl": "Green urban canyon separating Old Town from Gare district featuring manicured walking paths, rocky crags, weeping willows, and skatepark.",
     "tip_nl": "🌿 Take a stroll along the valley floor to escape city noise; looking upward provides a dramatic sense of how high walls stand.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Kids",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_15",
@@ -687,7 +741,10 @@
     "name_nl": "Monument du Souvenir",
     "desc_nl": "21-meter granite obelisk on Place de la Constitution topped by a gilded bronze statue of Nike, commemorating WWI & WWII volunteers.",
     "tip_nl": "📸 The square provides an elevated view of Adolphe Bridge, the Pétrusse Valley, and the turreted bank building across the canyon.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_16",
@@ -733,7 +790,11 @@
     "name_nl": "Lëtzebuerg City Museum",
     "desc_nl": "Located in restored townhouses, featuring a massive panoramic glass elevator holding 65 people moving between bedrock and galleries.",
     "tip_nl": "🛗 The glass elevator stops at lower underground levels carved into the bedrock; interactive models show city expansion.",
-    "price_nl": "Entry: €5.00"
+    "price_nl": "Entry: €5.00",
+    "categories": [
+      "Museum",
+      "Shopping"
+    ]
   },
   {
     "id": "lux_17",
@@ -779,7 +840,12 @@
     "name_nl": "Nationalmusée um Fëschmaart",
     "desc_nl": "Located on Fish Market square, combining subterranean rock-cut galleries of Roman artifacts with upper floors of fine art.",
     "tip_nl": "🏛️ Admission to the extensive permanent collection is completely free. Don't miss the Roman mosaic of Vichten.",
-    "price_nl": "Permanent Free / Special ~€7.00"
+    "price_nl": "Permanent Free / Special ~€7.00",
+    "categories": [
+      "Landmark",
+      "Museum",
+      "Shopping"
+    ]
   },
   {
     "id": "lux_18",
@@ -825,7 +891,11 @@
     "name_nl": "Rives de Clausen",
     "desc_nl": "Revitalized industrial site in Alzette valley on former grounds of historic Mousel brewery, now the city's premier nightlife district.",
     "tip_nl": "🍺 A central spot for evening nightlife; hop between the terrace bars and sample local Luxembourg craft lagers.",
-    "price_nl": "Free (Food ~€15-35)"
+    "price_nl": "Free (Food ~€15-35)",
+    "categories": [
+      "Café",
+      "Night"
+    ]
   },
   {
     "id": "lux_19",
@@ -871,7 +941,10 @@
     "name_nl": "Plateau du Kirchberg",
     "desc_nl": "Modern high-rise plateau housing EU institutions (European Court of Justice), banks, Philharmonie, and outdoor sculptures.",
     "tip_nl": "🚋 All public transport across the entire country of Luxembourg is completely free. Hop on the modern tram to glide across.",
-    "price_nl": "Walk & Free Transit"
+    "price_nl": "Walk & Free Transit",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_20",
@@ -917,7 +990,10 @@
     "name_nl": "Philharmonie Luxembourg",
     "desc_nl": "Architectural concert hall designed by Christian de Portzamparc enveloped by a colonnade of 823 white steel columns with world acoustics.",
     "tip_nl": "🎻 The grand foyer is illuminated at night; check the schedule for free lunchtime foyer chamber concerts.",
-    "price_nl": "Show Tickets Var / Lobby Concerts Free"
+    "price_nl": "Show Tickets Var / Lobby Concerts Free",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_21",
@@ -963,7 +1039,10 @@
     "name_nl": "Pont Grande-Duchesse Charlotte",
     "desc_nl": "355-meter-long steel box-girder bridge painted red, spanning 74 meters above Pfaffenthal valley linking Old Town to Kirchberg.",
     "tip_nl": "📸 Walk or ride the tram across the bridge; look down to the left for a bird's-eye view into the Pfaffenthal quarter below.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_22",
@@ -1009,7 +1088,11 @@
     "name_nl": "Grand-Rue & Rue Philippe II",
     "desc_nl": "Pedestrian retail arteries of Upper Town. Grand-Rue features fashion stores; Rue Philippe II is lined with luxury flagships.",
     "tip_nl": "🍫 Stop by Chocolate House Nathalie Bonn directly opposite the Grand Ducal Palace to try a Choc-Spoon melted into hot milk.",
-    "price_nl": "Free (Cafe ~€5-15)"
+    "price_nl": "Free (Cafe ~€5-15)",
+    "categories": [
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "lux_23",
@@ -1055,7 +1138,12 @@
     "name_nl": "Parc Municipal de Luxembourg",
     "desc_nl": "English landscape park laid out on dismantled western ramparts featuring ancient trees, pirate-ship playground, and Kinnekswiss lawn.",
     "tip_nl": "🏴‍☠️ A favorite stop for families; the Parc de Monterey section contains a massive wooden pirate ship playground with water pumps.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_24",
@@ -1101,7 +1189,10 @@
     "name_nl": "Casino Luxembourg",
     "desc_nl": "1886 former bourgeois casino where Franz Liszt gave his final piano recital, rebuilt as a contemporary arts center hosting visual art.",
     "tip_nl": "☕ Admission to all exhibitions is completely free. Visit Casino Café-Restaurant for specialty coffee in an artistic setting.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "lux_25",
@@ -1147,7 +1238,10 @@
     "name_nl": "Musée National d'Histoire Naturelle",
     "desc_nl": "Located in historic Hospice Saint-Jean in Grund, featuring hands-on interactive galleries covering paleontology, mineralogy, and ecology.",
     "tip_nl": "🦕 Excellent for children; discover fossilized marine life from the Mesozoic Era when Luxembourg was submerged beneath a sea.",
-    "price_nl": "Entry: €5.00 (Under 26 Free)"
+    "price_nl": "Entry: €5.00 (Under 26 Free)",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "lux_26",
@@ -1193,7 +1287,12 @@
     "name_nl": "Gare de Luxembourg",
     "desc_nl": "Imposing 1913 railway terminus built in Neo-Baroque and Moselle Renaissance style featuring a 45m clock tower and stained-glass ceiling.",
     "tip_nl": "🚂 Remember that all second-class domestic train travel departing from this station to anywhere in Luxembourg is completely free.",
-    "price_nl": "Free Entry & Transit"
+    "price_nl": "Free Entry & Transit",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "lux_27",
@@ -1239,7 +1338,12 @@
     "name_nl": "Avenue de la Liberté",
     "desc_nl": "Broad commercial boulevard built in early 20th century connecting train station to Old Town, lined with grand Art Deco banking mansions.",
     "tip_nl": "🏛️ Look up at the ornamental turrets and clock tower of the monumental Spuerkeess bank building on Place de Metz.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "lux_28",
@@ -1285,7 +1389,12 @@
     "name_nl": "Rotondes",
     "desc_nl": "Two monumental 19th-century railway locomotive roundhouses behind Central Station transformed into urban cultural center for indie gigs.",
     "tip_nl": "🍔 The open-air container terrace of the Buvette bar is a popular spot for craft beers, burgers, and weekend gatherings.",
-    "price_nl": "Free (Events Var)"
+    "price_nl": "Free (Events Var)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "lux_29",
@@ -1331,7 +1440,10 @@
     "name_nl": "Funiculaire Pfaffenthal-Kirchberg",
     "desc_nl": "Modern funicular railway with two parallel tracks climbing 40m up steep cliffside from Pfaffenthal train station to Kirchberg tram in 63s.",
     "tip_nl": "🚡 Completely free to ride with smooth, silent operation; a fast connection between the lower valley and European Quarter.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_30",
@@ -1377,7 +1489,13 @@
     "name_nl": "Plateau du Rham",
     "desc_nl": "High defensive plateau opposite Bock cliff in Grund, ringed by Vauban military stone towers, barracks, and massive medieval ramparts.",
     "tip_nl": "🚶 A quiet walking circuit connecting from Neimënster Abbey; walk along the medieval wall ramparts for an angled view.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_31",
@@ -1423,7 +1541,10 @@
     "name_nl": "Passerelle / Viaduc de Luxembourg",
     "desc_nl": "290-meter-long stone viaduct built between 1859 and 1861 crossing Pétrusse Valley with 24 sweeping arches carrying traffic into Old Town.",
     "tip_nl": "📸 Walk across the pedestrian sidewalk of the viaduct for an open view looking north down the lush green valley.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_32",
@@ -1469,7 +1590,12 @@
     "name_nl": "Villa Vauban",
     "desc_nl": "19th-century bourgeois villa set in municipal park expanded with modern stone wing, housing 17th-century Dutch Golden Age paintings.",
     "tip_nl": "🌿 Stroll the surrounding rose gardens and outdoor sculpture park; on sunny afternoons, the park deck is a peaceful reading spot.",
-    "price_nl": "Entry: €5.00"
+    "price_nl": "Entry: €5.00",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_33",
@@ -1515,7 +1641,10 @@
     "name_nl": "Église Saint-Michel",
     "desc_nl": "Oldest religious site in Luxembourg City originally founded in 987 AD as Count Siegfried's castle chapel, with mixed architecture.",
     "tip_nl": "⛪ Free entry; step inside to admire colorful modern stained-glass windows and the historic Baroque wooden pulpit.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_34",
@@ -1561,7 +1690,10 @@
     "name_nl": "Église Saint-Jean-du-Grund",
     "desc_nl": "17th-century parish church beside Alzette river in Grund, famous for historic 1710 organ and 14th-century carved wooden Black Virgin statue.",
     "tip_nl": "🎶 The church regularly hosts organ concerts; walk across the stone bridge directly in front for a reflection photo in the river.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_35",
@@ -1607,7 +1739,12 @@
     "name_nl": "Parc des Trois Glands",
     "desc_nl": "Park surrounding Fort Thüngen and MUDAM on Kirchberg heights weaving through military ruins, dry fortress ditches, and woodlands.",
     "tip_nl": "🧺 A favorite spot for outdoor picnics with skyline views; bring local wine and cheese to watch the sunset illuminate the cliffs.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_36",
@@ -1653,11 +1790,14 @@
     "name_nl": "Luxtram",
     "desc_nl": "Modern silent light-rail tram network connecting Airport, Kirchberg, Old Town, and Central Station, running partially on internal battery.",
     "tip_nl": "🚋 Step on and off freely without showing tickets or tapping cards anywhere along the line; a comfortable transit option.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_37",
-    "name": "Fontaine Amélie & Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
+    "name": "Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
     "category": "Scenery & Walk",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1672,12 +1812,12 @@
     "image": "",
     "wikiImage": "",
     "hasWiki": false,
-    "name_en": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
-    "name_ja": "Fontaine Amélie & Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
-    "name_es": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
-    "name_zh": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
-    "name_fr": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
-    "name_de": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
+    "name_en": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
+    "name_ja": "Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
+    "name_es": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
+    "name_zh": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
+    "name_fr": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
+    "name_de": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
     "desc_en": "Cobblestone square tucked between Place d'Armes and Grand-Rue featuring outdoor cafe seating, memorials, and Fontaine Amélie.",
     "desc_ja": "ダルム広場とグラン通りの間にひっそりと佇む石畳の隠れ広場。アメリーの噴水と落ち着いたカフェテラスが並ぶ。",
     "desc_es": "Cobblestone square tucked between Place d'Armes and Grand-Rue featuring outdoor cafe seating, memorials, and Fontaine Amélie.",
@@ -1696,10 +1836,15 @@
     "price_zh": "Free Walk",
     "price_fr": "Free Walk",
     "price_de": "Free Walk",
-    "name_nl": "Fontaine Amélie & Square Jan Palach (Square Jan Palach)",
+    "name_nl": "Square Jan Palach (Fontaine Amélie & Square Jan Palach)",
     "desc_nl": "Cobblestone square tucked between Place d'Armes and Grand-Rue featuring outdoor cafe seating, memorials, and Fontaine Amélie.",
     "tip_nl": "☕ A quieter alternative to the main squares for enjoying a morning coffee with a warm Luxembourgish pastry.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "lux_38",
@@ -1745,7 +1890,10 @@
     "name_nl": "Court of Justice of the EU",
     "desc_nl": "Judicial capital of EU on Kirchberg featuring golden twin towers by Dominique Perrault and historic Robert Schuman building.",
     "tip_nl": "⚖️ Register online in advance for guided architectural tours inside the European Court of Justice to see the deliberation halls.",
-    "price_nl": "Free (Advance Registration)"
+    "price_nl": "Free (Advance Registration)",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_39",
@@ -1791,7 +1939,10 @@
     "name_nl": "d'Coque",
     "desc_nl": "Futuristic sports complex on Kirchberg designed as a series of curved concrete shell roofs housing Olympic pools, saunas, and arenas.",
     "tip_nl": "🏊 The aquatic center features Olympic-size pools, indoor diving platforms, and a luxury sauna wellness area on day passes.",
-    "price_nl": "Pool ~€6.00 / Sauna ~€20.00"
+    "price_nl": "Pool ~€6.00 / Sauna ~€20.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_40",
@@ -1837,7 +1988,12 @@
     "name_nl": "Ville Haute Delicatessens",
     "desc_nl": "Historic food shops across Upper Town (Maison Kaempff-Kohler since 1922) offering regional cured hams, cheeses, and Riesling pies.",
     "tip_nl": "🥧 Try a slice of traditional Pâté au Riesling (marinated pork baked in pastry with Riesling wine jelly) from Kaempff-Kohler.",
-    "price_nl": "Gourmet ~€5-20"
+    "price_nl": "Gourmet ~€5-20",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "lux_41",
@@ -1883,7 +2039,10 @@
     "name_nl": "Château de Vianden",
     "desc_nl": "45 minutes north of city. One of the largest and most magnificent feudal fortified castles west of Rhine built between 11th and 14th centuries.",
     "tip_nl": "🏰 Take the Vianden Chairlift from the river valley up to the mountain peak for aerial photos, then walk down to the castle.",
-    "price_nl": "Castle €10.00 / Lift ~€8.00"
+    "price_nl": "Castle €10.00 / Lift ~€8.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "lux_42",
@@ -1929,6 +2088,9 @@
     "name_nl": "Mullerthal Region",
     "desc_nl": "Famous for dramatic sandstone rock mazes, narrow rock crevices, dense beech forests, and Schiessentümpel waterfall.",
     "tip_nl": "🥾 Hike Route 2 of the Mullerthal Trail from Echternach; bring a flashlight to squeeze through the dark sandstone crack Kuelscheier.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery"
+    ]
   }
 ]

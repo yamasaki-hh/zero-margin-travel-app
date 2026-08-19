@@ -44,7 +44,10 @@
       "name_nl": "Kölner Dom",
       "desc_nl": "Cologne Cathedral in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "Tourist Entry: €12 / Tower Climb: €8 (Prayer & Services Free)"
+      "price_nl": "Tourist Entry: €12 / Tower Climb: €8 (Prayer & Services Free)",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_2",
@@ -88,7 +91,10 @@
       "name_nl": "Hohenzollernbrücke",
       "desc_nl": "Hohenzollern Bridge in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "通行無料"
+      "price_nl": "通行無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_3",
@@ -132,7 +138,10 @@
       "name_nl": "Altstadt Köln & Alter Markt",
       "desc_nl": "Cologne Old Town & Alter Markt in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_4",
@@ -176,7 +185,10 @@
       "name_nl": "Heumarkt",
       "desc_nl": "Heumarkt Square in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "広場無料"
+      "price_nl": "広場無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_5",
@@ -220,7 +232,10 @@
       "name_nl": "Kölner Rathaus & Historische Ratslaube",
       "desc_nl": "Cologne City Hall in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "外観無料"
+      "price_nl": "外観無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_6",
@@ -264,7 +279,12 @@
       "name_nl": "Groß St. Martin",
       "desc_nl": "Great St. Martin Church in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "聖堂無料（地下発掘3€）"
+      "price_nl": "聖堂無料（地下発掘3€）",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "c_7",
@@ -308,7 +328,12 @@
       "name_nl": "Rheinauhafen & Kranhäuser",
       "desc_nl": "Rheinauhafen & Crane Houses in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "c_8",
@@ -352,7 +377,11 @@
       "name_nl": "KölnTriangle",
       "desc_nl": "KölnTriangle Panorama Deck in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 5€"
+      "price_nl": "入場料: 5€",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "c_9",
@@ -397,7 +426,11 @@
       "name_nl": "Schokoladenmuseum Köln",
       "desc_nl": "Cologne Chocolate Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "Entry: €17.50 (Weekday) / €19 (Weekend)"
+      "price_nl": "Entry: €17.50 (Weekday) / €19 (Weekend)",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "c_10",
@@ -441,7 +474,11 @@
       "name_nl": "Museum Ludwig",
       "desc_nl": "Museum Ludwig in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 13€"
+      "price_nl": "入場料: 13€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "c_11",
@@ -485,7 +522,10 @@
       "name_nl": "Wallraf-Richartz-Museum & Fondation Corboud",
       "desc_nl": "Wallraf-Richartz-Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 13€"
+      "price_nl": "入場料: 13€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "c_12",
@@ -529,7 +569,11 @@
       "name_nl": "Römisch-Germanisches Museum",
       "desc_nl": "Romano-Germanic Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 10€"
+      "price_nl": "入場料: 10€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "c_13",
@@ -573,7 +617,10 @@
       "name_nl": "Farina Duftmuseum",
       "desc_nl": "Farina Fragrance Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ツアー料: 9€"
+      "price_nl": "ツアー料: 9€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "c_14",
@@ -617,7 +664,10 @@
       "name_nl": "4711 Stammhaus",
       "desc_nl": "4711 Flagship Store in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入館無料"
+      "price_nl": "入館無料",
+      "categories": [
+        "Shopping"
+      ]
     },
     {
       "id": "c_15",
@@ -661,7 +711,11 @@
       "name_nl": "Kolumba",
       "desc_nl": "Kolumba Art Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 8€"
+      "price_nl": "入場料: 8€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "c_16",
@@ -705,7 +759,10 @@
       "name_nl": "Museum für Angewandte Kunst Köln",
       "desc_nl": "Museum of Applied Arts Cologne in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 6€"
+      "price_nl": "入場料: 6€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "c_17",
@@ -749,7 +806,10 @@
       "name_nl": "NS-Dokumentationszentrum",
       "desc_nl": "NS Documentation Center in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 4.50€"
+      "price_nl": "入場料: 4.50€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "c_18",
@@ -793,7 +853,10 @@
       "name_nl": "Rautenstrauch-Joest-Museum",
       "desc_nl": "Rautenstrauch-Joest-Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 10€"
+      "price_nl": "入場料: 10€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "c_19",
@@ -837,7 +900,11 @@
       "name_nl": "Museum Schnütgen",
       "desc_nl": "Museum Schnütgen in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 6€"
+      "price_nl": "入場料: 6€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "c_20",
@@ -881,7 +948,10 @@
       "name_nl": "Deutsches Sport & Olympia Museum",
       "desc_nl": "German Sport & Olympic Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 9.50€"
+      "price_nl": "入場料: 9.50€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "c_21",
@@ -925,7 +995,12 @@
       "name_nl": "Kölner Seilbahn",
       "desc_nl": "Cologne Cable Car in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "片道: 5€"
+      "price_nl": "片道: 5€",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "c_22",
@@ -969,7 +1044,11 @@
       "name_nl": "Kölner Zoo",
       "desc_nl": "Cologne Zoo in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 23€"
+      "price_nl": "入場料: 23€",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "c_23",
@@ -1013,7 +1092,12 @@
       "name_nl": "Aquarium Köln",
       "desc_nl": "Cologne Aquarium in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 6€（動物園セット可）"
+      "price_nl": "入場料: 6€（動物園セット可）",
+      "categories": [
+        "Kids",
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "c_24",
@@ -1057,7 +1141,11 @@
       "name_nl": "Flora Köln & Botanischer Garten",
       "desc_nl": "Flora & Botanical Garden Cologne in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "c_25",
@@ -1101,7 +1189,11 @@
       "name_nl": "Schildergasse & Hohe Straße",
       "desc_nl": "Schildergasse & Hohe Straße in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "c_26",
@@ -1145,7 +1237,12 @@
       "name_nl": "Ehrenstraße & Belgisches Viertel",
       "desc_nl": "Ehrenstraße & Belgian Quarter in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "c_27",
@@ -1189,7 +1286,11 @@
       "name_nl": "Neumarkt & Neumarkt Passage",
       "desc_nl": "Neumarkt Square & Passage in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "c_28",
@@ -1233,7 +1334,11 @@
       "name_nl": "DuMont Carré & Opern Passagen",
       "desc_nl": "DuMont Carré & Opern Passagen in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入館無料"
+      "price_nl": "入館無料",
+      "categories": [
+        "Café",
+        "Shopping"
+      ]
     },
     {
       "id": "c_29",
@@ -1277,7 +1382,12 @@
       "name_nl": "Brauhaus Früh am Dom",
       "desc_nl": "Brauhaus Früh am Dom in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ケルシュ: 2.40€"
+      "price_nl": "ケルシュ: 2.40€",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "c_30",
@@ -1321,7 +1431,11 @@
       "name_nl": "Brauhaus Sion",
       "desc_nl": "Brauhaus Sion in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ケルシュ: 2.40€"
+      "price_nl": "ケルシュ: 2.40€",
+      "categories": [
+        "Café",
+        "Night"
+      ]
     },
     {
       "id": "c_31",
@@ -1365,7 +1479,11 @@
       "name_nl": "Gilden im Zims \"Heimat kölscher Helden\"",
       "desc_nl": "Gilden im Zims in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ケルシュ: 2.40€"
+      "price_nl": "ケルシュ: 2.40€",
+      "categories": [
+        "Café",
+        "Night"
+      ]
     },
     {
       "id": "c_32",
@@ -1409,7 +1527,12 @@
       "name_nl": "Brauerei Päffgen",
       "desc_nl": "Brauerei Päffgen in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ケルシュ: 2.40€"
+      "price_nl": "ケルシュ: 2.40€",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "c_33",
@@ -1453,7 +1576,10 @@
       "name_nl": "Peters Brauhaus",
       "desc_nl": "Peters Brauhaus in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ケルシュ: 2.40€"
+      "price_nl": "ケルシュ: 2.40€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "c_34",
@@ -1497,7 +1623,11 @@
       "name_nl": "Lommerzheim",
       "desc_nl": "Lommerzheim Pub in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ポークチョップ: 14€"
+      "price_nl": "ポークチョップ: 14€",
+      "categories": [
+        "Café",
+        "Night"
+      ]
     },
     {
       "id": "c_35",
@@ -1541,7 +1671,11 @@
       "name_nl": "Café Reichard",
       "desc_nl": "Café Reichard in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ケーキ: 6.50€"
+      "price_nl": "ケーキ: 6.50€",
+      "categories": [
+        "Café",
+        "Landmark"
+      ]
     },
     {
       "id": "c_36",
@@ -1585,7 +1719,10 @@
       "name_nl": "Odonien",
       "desc_nl": "Odonien Outdoor Art Park in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場無料（イベント時別）"
+      "price_nl": "入場無料（イベント時別）",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "c_37",
@@ -1629,7 +1766,12 @@
       "name_nl": "Claudius Therme",
       "desc_nl": "Claudius Therme Thermal Bath in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "スパ: 20.50€"
+      "price_nl": "スパ: 20.50€",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "c_38",
@@ -1673,7 +1815,11 @@
       "name_nl": "Rheinpark & Kleinbahn",
       "desc_nl": "Rheinpark & Kleinbahn in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入園無料（ミニSL: 3.50€）"
+      "price_nl": "入園無料（ミニSL: 3.50€）",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "c_39",
@@ -1717,7 +1863,11 @@
       "name_nl": "Stadtwald Köln & Lindenthaler Tierpark",
       "desc_nl": "Stadtwald & Lindenthal Zoo in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入園無料"
+      "price_nl": "入園無料",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "c_40",
@@ -1761,7 +1911,11 @@
       "name_nl": "Melaten-Friedhof",
       "desc_nl": "Melaten Cemetery in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "c_41",
@@ -1805,7 +1959,11 @@
       "name_nl": "Odysseum Science Center",
       "desc_nl": "Odysseum Science Center in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 16€"
+      "price_nl": "入場料: 16€",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "c_42",
@@ -1849,7 +2007,11 @@
       "name_nl": "RheinSchiffahrt",
       "desc_nl": "KD Rhine River Cruise in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "クルーズ: 15€"
+      "price_nl": "クルーズ: 15€",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "c_43",
@@ -1893,7 +2055,10 @@
       "name_nl": "St. Gereon",
       "desc_nl": "St. Gereon Basilica in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "拝観料無料"
+      "price_nl": "拝観料無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_44",
@@ -1937,7 +2102,10 @@
       "name_nl": "St. Ursula",
       "desc_nl": "St. Ursula Basilica in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "拝観無料（黄金の部屋2€）"
+      "price_nl": "拝観無料（黄金の部屋2€）",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_45",
@@ -1981,7 +2149,10 @@
       "name_nl": "St. Aposteln",
       "desc_nl": "St. Apostles Church in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "拝観料無料"
+      "price_nl": "拝観料無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_46",
@@ -2025,7 +2196,11 @@
       "name_nl": "Schlösser Augustusburg und Falkenlust",
       "desc_nl": "Augustusburg & Falkenlust Palaces in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "宮殿: 10€"
+      "price_nl": "宮殿: 10€",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "c_47",
@@ -2069,7 +2244,11 @@
       "name_nl": "Phantasialand",
       "desc_nl": "Phantasialand Theme Park in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ワンデーパス: 54〜61€"
+      "price_nl": "ワンデーパス: 54〜61€",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "c_48",
@@ -2113,7 +2292,10 @@
       "name_nl": "Aachener Dom & Domschatzkammer",
       "desc_nl": "Aachen Cathedral & Treasury in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "大聖堂無料（ガイド5€）"
+      "price_nl": "大聖堂無料（ガイド5€）",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_49",
@@ -2158,7 +2340,10 @@
       "name_nl": "Königswinter",
       "desc_nl": "Drachenburg Castle & Drachenfels in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "登山鉄道: 12€往復"
+      "price_nl": "登山鉄道: 12€往復",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "c_50",
@@ -2202,7 +2387,10 @@
       "name_nl": "Schloss Benrath",
       "desc_nl": "Benrath Palace in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "庭園無料（宮殿10€）"
+      "price_nl": "庭園無料（宮殿10€）",
+      "categories": [
+        "Landmark"
+      ]
     }
   ],
   "spotCount": 50

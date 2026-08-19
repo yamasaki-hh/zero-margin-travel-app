@@ -43,7 +43,11 @@
     "name_nl": "Gravensteen",
     "desc_nl": "Formidable 12th-century moated stone castle built by Count Philip of Alsace featuring battlements, deep moat, and medieval torture instruments.",
     "tip_nl": "🎧 The audio guide is widely praised for its humor; climb to the top of the keep for a sweeping skyline view.",
-    "price_nl": "Entry: €13.00"
+    "price_nl": "Entry: €13.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "gh_2",
@@ -89,7 +93,10 @@
     "name_nl": "Sint-Baafskathedraal",
     "desc_nl": "Monumental Gothic cathedral housing the world-famous 15th-century masterpiece The Adoration of the Mystic Lamb (Ghent Altarpiece) by Van Eyck.",
     "tip_nl": "👓 The dedicated visitor center uses AR headsets in the Romanesque crypt to reconstruct the turbulent history of the altarpiece.",
-    "price_nl": "Church Free / Altarpiece AR: €16.00"
+    "price_nl": "Church Free / Altarpiece AR: €16.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_3",
@@ -135,7 +142,10 @@
     "name_nl": "Het Lam Gods",
     "desc_nl": "Painted in 1432, this 12-panel polyptych altarpiece is celebrated as one of the most influential masterworks in global art history.",
     "tip_nl": "🔍 Use high-resolution interactive touchscreens inside the gallery to zoom in on micro-details like pearls and reflections.",
-    "price_nl": "Incl. in Altarpiece Entry (€16.00)"
+    "price_nl": "Incl. in Altarpiece Entry (€16.00)",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "gh_4",
@@ -181,7 +191,10 @@
     "name_nl": "Het Belfort van Gent",
     "desc_nl": "91-meter Gothic tower (UNESCO) symbolizing civic independence, crowned by a legendary gilded copper dragon weather vane and 54-bell carillon.",
     "tip_nl": "🪜 A modern elevator runs from the 1st floor directly up to the panoramic observation gallery for easy access.",
-    "price_nl": "Entry: €11.00"
+    "price_nl": "Entry: €11.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_5",
@@ -227,7 +240,10 @@
     "name_nl": "Graslei & Korenlei",
     "desc_nl": "Ancient harbor quays flanking Leie river lined with Ghent's finest step-gabled guildhalls dating from 12th to 17th centuries.",
     "tip_nl": "🍻 On warm evenings, join local university students sitting along the waterside stone edges of the quays with takeout drinks.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "gh_6",
@@ -273,7 +289,11 @@
     "name_nl": "Sint-Michielsbrug",
     "desc_nl": "Arched stone bridge crossing Leie river, celebrated as the single best panoramic viewpoint in Ghent framing the 'Three Towers'.",
     "tip_nl": "📸 Stand at the highest point of the bridge facing east for the iconic 3-tower alignment photo, then pivot 180 degrees.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_7",
@@ -319,7 +339,10 @@
     "name_nl": "Sint-Niklaaskerk",
     "desc_nl": "13th-century masterpiece of Tournai Gothic architecture built in local blue-grey limestone, situated on Korenmarkt square.",
     "tip_nl": "⛪ Free admission; admire the historic Aristide Cavaillé-Coll romantic pipe organ and explore quiet side chapels.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_8",
@@ -365,7 +388,12 @@
     "name_nl": "Boottochten Gent",
     "desc_nl": "Open-top passenger boat tours navigating Leie and Lieve canals departing from Graslei and Korenlei docks with medieval views.",
     "tip_nl": "🚤 The 40-minute guided tours run year-round; departures from Korenlei docks generally offer multilingual live commentary.",
-    "price_nl": "Entry: Adult €10.50 / Child €6.00"
+    "price_nl": "Entry: Adult €10.50 / Child €6.00",
+    "categories": [
+      "Landmark",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_9",
@@ -411,7 +439,14 @@
     "name_nl": "Korenmarkt",
     "desc_nl": "Ghent's central public square, historically the center of grain trade, framed by Saint Nicholas Church and former Main Post Office.",
     "tip_nl": "☕ Walk inside De Post to view preserved 19th-century clock tower architecture and grab coffee at Pain Quotidien.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_10",
@@ -457,7 +492,12 @@
     "name_nl": "Patershol",
     "desc_nl": "Labyrinthine medieval quarter located just north of Castle of the Counts, Ghent's premier culinary neighborhood of cobbled lanes.",
     "tip_nl": "🍽️ The narrow streets of Oudburg are packed with independent eateries; make reservations for Gentse Waterzooi.",
-    "price_nl": "Free (Food ~€15-40)"
+    "price_nl": "Free (Food ~€15-40)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_11",
@@ -503,7 +543,12 @@
     "name_nl": "Werregarenstraat",
     "desc_nl": "Narrow pedestrian alley serving as an officially sanctioned public canvas for street artists, where spray-painted murals change daily.",
     "tip_nl": "📸 Vibrant photo backdrop that is never the same twice; walk through during daylight hours for natural lighting.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_12",
@@ -549,7 +594,10 @@
     "name_nl": "MSK",
     "desc_nl": "One of the oldest museums in Belgium holding masterworks by Hieronymus Bosch, Rubens, and James Ensor with open restoration workshop.",
     "tip_nl": "🎨 The museum's open glass-walled restoration workshop allows visitors to watch fine art conservators restoring masterpieces.",
-    "price_nl": "Entry: €13.00"
+    "price_nl": "Entry: €13.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "gh_13",
@@ -595,7 +643,12 @@
     "name_nl": "S.M.A.K.",
     "desc_nl": "Located directly opposite MSK in Citadelpark, known for provocative contemporary art collections by Beuys, Panamarenko, and Fabre.",
     "tip_nl": "🪰 Look for the famous bronze figure on the roof edge—The Man Who Measures the Clouds by Jan Fabre.",
-    "price_nl": "Entry: €13.00"
+    "price_nl": "Entry: €13.00",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_14",
@@ -641,7 +694,10 @@
     "name_nl": "STAM",
     "desc_nl": "Located on historic 14th-century Bijloke hospital estate, tracing Ghent's evolution with an interactive 300 m² aerial floor photo.",
     "tip_nl": "🗺️ Walk across the massive 300 m² illuminated aerial photograph of Ghent laid out across the museum floor.",
-    "price_nl": "Entry: €11.00"
+    "price_nl": "Entry: €11.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "gh_15",
@@ -687,7 +743,11 @@
     "name_nl": "Klein Begijnhof",
     "desc_nl": "Intact 13th-century UNESCO-listed Beguinage in southern Ghent featuring a walled green enclosure with over 100 white-trimmed cottages.",
     "tip_nl": "🤫 Far less visited than the beguinages in Bruges; a quiet oasis for peaceful walking. Enter via the arched blue gateway.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_16",
@@ -733,7 +793,10 @@
     "name_nl": "Groot Begijnhof Sint-Amandsberg",
     "desc_nl": "8-hectare neo-Gothic walled village built in 1874 featuring 80 houses, 14 convents, an infirmary, and a large neo-Gothic church.",
     "tip_nl": "🚶 Walk through the symmetrical tree-lined brick avenues to experience one of the largest preserved planned religious communities.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_17",
@@ -779,7 +842,10 @@
     "name_nl": "Sint-Pietersabdij",
     "desc_nl": "7th-century Benedictine abbey perched on Blandijnberg hill with late-Renaissance cloister and idyllic terraced vineyard sloping to Leie.",
     "tip_nl": "🍇 Walk freely through the abbey's terraced hillside orchard and vineyards; pick up the Movie Guide for the interior museum tour.",
-    "price_nl": "Garden Free / Museum ~€10.00"
+    "price_nl": "Garden Free / Museum ~€10.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_18",
@@ -825,7 +891,12 @@
     "name_nl": "Vrijdagmarkt & Dulle Griet",
     "desc_nl": "Historic gathering square dominated by Jacob van Artevelde statue. Northern corner sits Dulle Griet 12-ton red supergun cannon.",
     "tip_nl": "👞 Order the 1.2-liter Max beer at tavern De Dulle Griet; you must surrender one shoe as collateral hoisted to the ceiling in a basket.",
-    "price_nl": "Square Free / Beer ~€5-15"
+    "price_nl": "Square Free / Beer ~€5-15",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "gh_19",
@@ -871,7 +942,11 @@
     "name_nl": "Het Groot Vleeshuis",
     "desc_nl": "15th-century covered guildhall featuring an impressive open wooden timber roof structure, historically used for meat inspections.",
     "tip_nl": "🍖 Admire the late-medieval sandstone architecture along the Leie canal; pick up jars of Tierenteyn mustard nearby.",
-    "price_nl": "Exterior Free"
+    "price_nl": "Exterior Free",
+    "categories": [
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_20",
@@ -917,7 +992,13 @@
     "name_nl": "Tierenteyn-Verlent",
     "desc_nl": "Operating since 1790 on Groentenmarkt crafting authentic extra-hot Ghent mustard according to a secret historic recipe from barrels.",
     "tip_nl": "🏺 The mustard is dispensed live at the wooden counter with a wooden paddle; buy a small ceramic stoneware pot as a souvenir.",
-    "price_nl": "Mustard ~€4-15"
+    "price_nl": "Mustard ~€4-15",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_21",
@@ -963,7 +1044,12 @@
     "name_nl": "Gentse Neuzenvetes & Cuberdons",
     "desc_nl": "Groentenmarkt square is famous for traditional wooden handcarts selling Cuberdons—cone-shaped purple candies with gooey raspberry syrup.",
     "tip_nl": "🍬 Cuberdons have a short shelf-life of 3 weeks before the liquid core crystallizes; buy them fresh from market carts.",
-    "price_nl": "1 Bag ~€5.00"
+    "price_nl": "1 Bag ~€5.00",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_22",
@@ -1009,7 +1095,13 @@
     "name_nl": "Citadelpark",
     "desc_nl": "19th-century English landscape park laid out on the site of an 1815 military citadel housing MSK, S.M.A.K., grottos, and Floraliënhal.",
     "tip_nl": "🌳 Peaceful walking route when visiting art museums; children can explore the playground and rocky grottos beside the lake.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_23",
@@ -1055,7 +1147,11 @@
     "name_nl": "Plantentuin Universiteit Gent",
     "desc_nl": "2.7-hectare university botanical garden holding over 10,000 plant species from around the world, outdoor arboretums, and Victorian glasshouse.",
     "tip_nl": "🌺 Admission is completely free. Step inside the Victoria Glasshouse to view giant tropical water lilies and carnivorous plants.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_24",
@@ -1101,7 +1197,10 @@
     "name_nl": "De Krook",
     "desc_nl": "Award-winning contemporary architectural landmark designed by RCR Arquitectes cantilevered over a bend in Scheldt river.",
     "tip_nl": "📚 Take the open-plan stairs up to reading balconies or sit on the panoramic terrace of Café De Krook for views.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_25",
@@ -1147,7 +1246,11 @@
     "name_nl": "Prinsenhof",
     "desc_nl": "Quiet residential quarter where Holy Roman Emperor Charles V was born in 1500, with surviving moat gate Donkere Poort.",
     "tip_nl": "🚶 Secluded tourist-free walking area; look for the bronze statue of Charles V on Prinsenhofplein and stroll down Zilverhof.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_26",
@@ -1193,7 +1296,13 @@
     "name_nl": "Huis van Alijn",
     "desc_nl": "Located in a restored 16th-century almshouse hospice along Kraanlei, dedicated to the rituals, customs, and daily habits of 20th century life.",
     "tip_nl": "☕ The enclosed sunlit cobblestone courtyard garden features an authentic vintage inn serving regional beers and jenever.",
-    "price_nl": "Entry: €8.00"
+    "price_nl": "Entry: €8.00",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_27",
@@ -1239,7 +1348,11 @@
     "name_nl": "Design Museum Gent",
     "desc_nl": "Housed in 18th-century Hotel de Coninck mansion, showcasing Belgian and international design from Art Nouveau to contemporary product design.",
     "tip_nl": "🪑 Check the museum's temporary exhibitions; the courtyard features the famous giant Vlerick ceramic monument.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "gh_28",
@@ -1285,7 +1398,12 @@
     "name_nl": "Bij Sint-Jacobs",
     "desc_nl": "Imposing 12th-century Romanesque and Gothic church on Santiago pilgrimage route. Surrounding square hosts famous weekend flea markets.",
     "tip_nl": "🧥 On Friday, Saturday, and Sunday mornings, the square fills with antique traders selling vintage vinyl, lamps, and curiosities.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_29",
@@ -1331,7 +1449,11 @@
     "name_nl": "De Kuip van Gent & Lichtplan",
     "desc_nl": "Ghent's award-winning municipal lighting concept which illuminates all major medieval monuments, bridges, and canal walls every night.",
     "tip_nl": "🌙 Download the official Ghent Illuminated Walk map from Visit Gent for a self-guided 2-hour night walking tour.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_30",
@@ -1377,7 +1499,11 @@
     "name_nl": "Rabot",
     "desc_nl": "Late-15th-century fortified stone water gate consisting of two round towers connected by a stepped gable wall across Lieve canal.",
     "tip_nl": "📸 A short tram ride north of the center; photograph the twin-towered fortress reflecting in the waters of the Lieve canal.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_31",
@@ -1423,7 +1549,13 @@
     "name_nl": "Dok Noord",
     "desc_nl": "Revitalized industrial dockland quarter featuring indoor go-karting (e-Kart), climbing halls, microbreweries, and waterside beach bars.",
     "tip_nl": "🏎️ Ideal for active families and groups; check out the electric indoor go-kart track or enjoy open-air craft beers.",
-    "price_nl": "Walk Free (Activities Var)"
+    "price_nl": "Walk Free (Activities Var)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_32",
@@ -1469,7 +1601,11 @@
     "name_nl": "Veldstraat",
     "desc_nl": "Ghent's primary pedestrian retail shopping avenue lined with modern fashion stores and restored 18th-century Rococo patrician mansions.",
     "tip_nl": "🏛️ Walk inside Hotel d'Hane-Steenhuyse on select afternoons to admire preserved 18th-century gilded ballrooms.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_33",
@@ -1515,7 +1651,12 @@
     "name_nl": "GUM - Gents Universiteitsmuseum",
     "desc_nl": "Modern science and inquiry museum located inside botanical gardens, exploring scientific process, doubt, and medical history.",
     "tip_nl": "🧠 Dedicated to Science and Doubt; interactive exhibits challenge visitors to test cognitive biases and examine artifacts.",
-    "price_nl": "Entry: €8.00"
+    "price_nl": "Entry: €8.00",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_34",
@@ -1561,7 +1702,10 @@
     "name_nl": "Stadhuis van Gent",
     "desc_nl": "Architecturally split palace presenting two distinct styles: a flamboyant 16th-century Late Gothic facade and a sober Renaissance facade.",
     "tip_nl": "🏛️ Join a guided tour to see the Pacificatiezaal (Pacification Hall) featuring striking blue-and-white labyrinth floor tiles.",
-    "price_nl": "Exterior Free / Tour ~€6.00"
+    "price_nl": "Exterior Free / Tour ~€6.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_35",
@@ -1607,7 +1751,11 @@
     "name_nl": "Stadshal",
     "desc_nl": "Striking contemporary open canopy structure designed by Robbrecht en Daem built of wood, glass, and concrete with 1,600 small windows.",
     "tip_nl": "📸 Look up through the glass-studded wooden interior ceiling; the basement houses the grand brasserie Stadscafé.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "gh_36",
@@ -1653,7 +1801,11 @@
     "name_nl": "Achtersikkel",
     "desc_nl": "Hidden medieval courtyard tucked behind Biezekapelstraat featuring a 14th-century brick tower and octagonal Renaissance turret.",
     "tip_nl": "🎻 The courtyard is home to the Music Academy; sit on stone benches during weekday afternoons to listen to classical rehearsals.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_37",
@@ -1699,7 +1851,12 @@
     "name_nl": "Gruut Brouwerij",
     "desc_nl": "Urban craft brewery brewing specialty ales using a medieval blend of herbs and spices (gruut) instead of traditional hops.",
     "tip_nl": "🍺 Order a tasting flight of 5 Gruut beers in the taproom to taste how medieval herbal brewing compares to modern hoppy ales.",
-    "price_nl": "Tasting Flight ~€14.00"
+    "price_nl": "Tasting Flight ~€14.00",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "gh_38",
@@ -1745,7 +1902,10 @@
     "name_nl": "Sint-Michielskerk",
     "desc_nl": "Late-Gothic church on western bank of Leie river, housing master paintings including Anthony van Dyck's Christ on the Cross.",
     "tip_nl": "⛪ Free entry; step inside to admire the monumental Van Dyck altarpiece and the vast open stone interior nave.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "gh_39",
@@ -1791,7 +1951,11 @@
     "name_nl": "Blaarmeersen Recreatiegebied",
     "desc_nl": "100-hectare outdoor sports and leisure park featuring an expansive swimming lake with sandy beaches, water slides, and ropes.",
     "tip_nl": "🏖️ Premier summer destination for families; easily accessible via bus, offering supervised lake swimming and beach games.",
-    "price_nl": "Park/Beach Free (Slides Extra)"
+    "price_nl": "Park/Beach Free (Slides Extra)",
+    "categories": [
+      "Kids",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_40",
@@ -1837,7 +2001,11 @@
     "name_nl": "Baudelo Park",
     "desc_nl": "Green urban park in northeastern center of Ghent popular with university students and families, featuring Baudelo convent library.",
     "tip_nl": "🎪 During the 10-day Gentse Feesten festival in July, Baudelo Park transforms into the vibrant Baudelohof world music stage.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Scenery"
+    ]
   },
   {
     "id": "gh_41",
@@ -1883,7 +2051,11 @@
     "name_nl": "Kasteel Ooidonk",
     "desc_nl": "Located 20 minutes southwest of Ghent in Deinze. A fairytale Renaissance castle standing inside a double moat of Leie river.",
     "tip_nl": "🏰 The surrounding English landscape park and moat walkways are open year-round; furnished staterooms visited on weekends.",
-    "price_nl": "Garden €3.00 / Castle €12.00"
+    "price_nl": "Garden €3.00 / Castle €12.00",
+    "categories": [
+      "Kids",
+      "Landmark"
+    ]
   },
   {
     "id": "gh_42",
@@ -1929,6 +2101,10 @@
     "name_nl": "Historisch Aalst",
     "desc_nl": "20 minutes southeast of Ghent by train. Features oldest town hall belfry in Low Countries (UNESCO) and Saint Martin's Church.",
     "tip_nl": "🎭 Famous across Belgium for the raucous UNESCO-recognized annual Aalst Carnival held each February.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Shopping"
+    ]
   }
 ]

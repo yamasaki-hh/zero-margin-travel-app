@@ -48,7 +48,10 @@
       "name_nl": "Domtoren Utrecht",
       "desc_nl": "The tallest church tower in the Netherlands (112.5 meters), built between 1321 and 1382 in Gothic style.",
       "tip_nl": "🪜 465-step guided tour requires advance booking online; major 5-year restoration completed in 2024 with new illumination.",
-      "price_nl": "Toegang: Gids klim €14.50"
+      "price_nl": "Toegang: Gids klim €14.50",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ut_2",
@@ -94,7 +97,11 @@
       "name_nl": "Domkerk & Pandhof",
       "desc_nl": "13th-century Gothic cathedral separated from Domtoren by a 1674 tornado storm, featuring a 14th-century quiet cloister garden.",
       "tip_nl": "🌿 Free entry to cathedral hall (donations welcome). Step into the Pandhof cloister garden surrounded by Gothic arches.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "ut_3",
@@ -140,7 +147,11 @@
       "name_nl": "Oudegracht & Werfkelder",
       "desc_nl": "12th-century two-level canal unique to Utrecht, featuring medieval water-level wharf cellars converted into cafes.",
       "tip_nl": "☕ Walk down the stone stairs to street-level wharf cellars for lunch or craft beer right at the water's edge.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Scenery"
+      ]
     },
     {
       "id": "ut_4",
@@ -186,7 +197,11 @@
       "name_nl": "Nijntje Museum）",
       "desc_nl": "The world's only interactive museum dedicated to Dick Bruna's character Miffy (Nijntje), designed for young children.",
       "tip_nl": "🐰 Extremely popular for toddlers and young kids; online tickets sell out weeks in advance for weekends and holidays.",
-      "price_nl": "Entry: €12.50 (2-6歳) / €8.00 (大人)"
+      "price_nl": "Entry: €12.50 (2-6歳) / €8.00 (大人)",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "ut_5",
@@ -232,7 +247,11 @@
       "name_nl": "Rietveld Schröderhuis",
       "desc_nl": "1924 De Stijl architectural masterpiece by Gerrit Rietveld featuring sliding walls and primary colors, UNESCO World Heritage.",
       "tip_nl": "🏠 Very limited capacity; mandatory online booking in advance. Guides demonstrate the famous 2nd-floor sliding walls.",
-      "price_nl": "Toegang: €19.00 (incl. audiogids)"
+      "price_nl": "Toegang: €19.00 (incl. audiogids)",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "ut_6",
@@ -278,7 +297,10 @@
       "name_nl": "Centraal Museum Utrecht",
       "desc_nl": "The oldest municipal museum in NL (1838), holding Dutch Golden Age masterpieces and Dick Bruna's original studio atelier.",
       "tip_nl": "🎨 Visit the top floor to see Dick Bruna's authentic preserved studio atelier with his original drawing desk.",
-      "price_nl": "Toegang: €18.00"
+      "price_nl": "Toegang: €18.00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ut_7",
@@ -324,7 +346,13 @@
       "name_nl": "Museum Speelklok）",
       "desc_nl": "Interactive museum housed in a medieval church, showcasing self-playing musical clocks, barrel organs, and orchestrions.",
       "tip_nl": "🎶 Join the enthusiastic guided musical tour every 45 minutes to hear historic self-playing organs perform live music.",
-      "price_nl": "Entry: €15.50"
+      "price_nl": "Entry: €15.50",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Museum",
+        "Night"
+      ]
     },
     {
       "id": "ut_8",
@@ -370,7 +398,13 @@
       "name_nl": "Spoorwegmuseum",
       "desc_nl": "Interactive railway museum in historic 1874 Maliebaan station, featuring steam locomotives and dark rides.",
       "tip_nl": "🚂 Top rainy-day attraction for families; features vintage royal carriages and the interactive 'Great Discovery' ride.",
-      "price_nl": "Toegang: €19.50"
+      "price_nl": "Toegang: €19.50",
+      "categories": [
+        "Café",
+        "Kids",
+        "Museum",
+        "Night"
+      ]
     },
     {
       "id": "ut_9",
@@ -416,7 +450,10 @@
       "name_nl": "Kasteel de Haar",
       "desc_nl": "The largest and most luxurious castle in the Netherlands, rebuilt in Neo-Gothic style by Pierre Cuypers around 1892.",
       "tip_nl": "🏰 Reached in ~20 minutes by bus or car from Utrecht; explore 135 acres of English landscape gardens and moats.",
-      "price_nl": "Entry: 庭園のみ: €7.00 / 城内共通券: €19.00"
+      "price_nl": "Entry: 庭園のみ: €7.00 / 城内共通券: €19.00",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ut_10",
@@ -462,7 +499,11 @@
       "name_nl": "DOMunder",
       "desc_nl": "Underground archaeological discovery tour beneath Dom Square tracing 2,000 years from Roman fort Traiectum.",
       "tip_nl": "🔦 Equipped with a smart interactive flashlight that activates audio stories when pointed at Roman wall ruins.",
-      "price_nl": "Entry: €14.00"
+      "price_nl": "Entry: €14.00",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "ut_11",
@@ -508,7 +549,11 @@
       "name_nl": "TivoliVredenburg",
       "desc_nl": "Architectural music complex featuring five distinct concert halls for classical, pop, jazz, and club events.",
       "tip_nl": "🎵 Stop by the ground-floor canalside bar Het Gegeven Paard for craft beer before attending a live concert.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "ut_12",
@@ -554,7 +599,11 @@
       "name_nl": "Botanische Tuinen Universiteit Utrecht）",
       "desc_nl": "University botanical garden set atop 19th-century Fort Hoofddijk, home to Europe's largest rock garden.",
       "tip_nl": "🪨 Open March through November; admire alpine flora built over fort bastions and the tropical butterfly greenhouse.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "ut_13",
@@ -600,7 +649,11 @@
       "name_nl": "Neude & Voormalig Hoofdpostkantoor）",
       "desc_nl": "Vibrant central square featuring Bibliotheek Neude, an impressive 1924 Amsterdam School brick postal palace.",
       "tip_nl": "📚 Walk inside the magnificent barrel-vaulted main hall of the former post office for free; stop at Cafe Meneer Potter.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark"
+      ]
     },
     {
       "id": "ut_14",
@@ -646,7 +699,10 @@
       "name_nl": "Museum Catharijneconvent",
       "desc_nl": "Museum of Dutch Christian art housed in a preserved 15th-century monastery around a peaceful courtyard.",
       "tip_nl": "⛪ Relax in the sunny medieval cloister courtyard garden after viewing medieval illuminated manuscripts.",
-      "price_nl": "Entry: €15.00"
+      "price_nl": "Entry: €15.00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ut_15",
@@ -692,7 +748,11 @@
       "name_nl": "Sonnenborgh Museum & Sterrenwacht",
       "desc_nl": "19th-century astronomical observatory built on a 1552 stone bastion, featuring historic solar telescopes.",
       "tip_nl": "🔭 Visit during scheduled winter night-viewing sessions to look through vintage refractor telescopes.",
-      "price_nl": "Entry: €10.00"
+      "price_nl": "Entry: €10.00",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "ut_16",
@@ -738,7 +798,13 @@
       "name_nl": "Grachtengordel Singel & Zocherpark",
       "desc_nl": "19th-century English-style ring park surrounding the old city walls, built along the fully restored Singel canal.",
       "tip_nl": "🚶 Walk or cycle the 6km green loop encircling the old city, watching swans and historical stone bridges.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_17",
@@ -784,7 +850,12 @@
       "name_nl": "Janskerkhof & Bloemenmarkt",
       "desc_nl": "Historic church square hosting Utrecht's largest open-air flower and plant market every Saturday morning.",
       "tip_nl": "💐 Visit on Saturday morning to photograph vibrant flower stalls framed against the 11th-century Janskerk.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_18",
@@ -830,7 +901,10 @@
       "name_nl": "Nieuwegracht",
       "desc_nl": "Quiet 14th-century residential canal lined with weeping willows, historic step-gabled townhouses, and cellars.",
       "tip_nl": "📸 Far quieter than Oudegracht; ideal for romantic evening strolls along willow-draped stone bridges.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ut_19",
@@ -876,7 +950,11 @@
       "name_nl": "Station Utrecht Centraal & Hoog Catharijne",
       "desc_nl": "The Netherlands' busiest railway hub seamlessly integrated into Hoog Catharijne, NL's largest indoor shopping mall.",
       "tip_nl": "🛍️ Check out the world's largest bicycle parking garage (12,500 spaces) located right beneath the station square.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_20",
@@ -922,7 +1000,15 @@
       "name_nl": "Daffodil & Dick Bruna Statue）",
       "desc_nl": "Small public square in the Museumkwartier featuring a bronze Miffy statue created by Marc Bruna.",
       "tip_nl": "📸 Pose for photos with the bronze Miffy statue; don't miss the world's only Miffy traffic lights at Lange Vliestraat.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Kids",
+        "Landmark",
+        "Museum",
+        "Night",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_21",
@@ -968,7 +1054,10 @@
       "name_nl": "Stadsschouwburg Utrecht",
       "desc_nl": "Modernist theater building completed in 1941 by architect W.M. Dudok, featuring iconic curved lines.",
       "tip_nl": "🎭 Located at Lucasbolwerk park; enjoy coffee or pre-theater drinks at the glass-fronted theater restaurant.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ut_22",
@@ -1014,7 +1103,11 @@
       "name_nl": "Universiteitsmuseum Utrecht",
       "desc_nl": "Interactive university science museum re-opened in 2023, allowing visitors to conduct real scientific experiments.",
       "tip_nl": "🔬 Put on a lab coat in the hands-on Research Lab and explore the historic Oude Hortus botanical garden.",
-      "price_nl": "Entry: €15.00"
+      "price_nl": "Entry: €15.00",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "ut_23",
@@ -1060,7 +1153,12 @@
       "name_nl": "Wilhelminapark",
       "desc_nl": "Historic 1898 English landscape park in East Utrecht featuring a large central lake and century-old trees.",
       "tip_nl": "☕ Relax on the sun terrace at Het Parkhuis overlooking the pond and weeping willows.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "ut_24",
@@ -1106,7 +1204,10 @@
       "name_nl": "Kano Verhuur Oudegracht",
       "desc_nl": "Rent canoes or pedal boats directly on the Oudegracht to explore Utrecht's two-tier canals from the water.",
       "tip_nl": "🚣 Paddle beneath medieval stone bridge arches and look up at the soaring Domtoren from water level.",
-      "price_nl": "Entry: カヌーレンタル: 約€15.00/時"
+      "price_nl": "Entry: カヌーレンタル: 約€15.00/時",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ut_25",
@@ -1152,7 +1253,12 @@
       "name_nl": "Brouwerij Maximus & Oudaen）",
       "desc_nl": "13th-century fortified city castle housing a traditional craft brewery and restaurant in its medieval cellars.",
       "tip_nl": "🍺 Sample house-brewed Oudaen Wit beer paired with bitterballen in the authentic 13th-century cellar bar.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "ut_26",
@@ -1198,7 +1304,10 @@
       "name_nl": "Molen De Ster）",
       "desc_nl": "The only fully operational wind-powered sawmill in NL (1721), set in a picturesque courtyard with farm animals.",
       "tip_nl": "🐑 Visit on Saturday when the windmill sails rotate to watch historic wood-sawing demonstrations live.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ut_27",
@@ -1244,7 +1353,11 @@
       "name_nl": "Lombok & Kanaalstraat",
       "desc_nl": "Vibrant multicultural neighborhood filled with Mediterranean bakeries, exotic spice shops, and fresh produce markets.",
       "tip_nl": "🥙 Try fresh Turkish baklava and warm flatbreads along Kanaalstraat at fraction of city-center prices.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_28",
@@ -1290,7 +1403,11 @@
       "name_nl": "Winkel van Sinkel",
       "desc_nl": "1839 Neoclassical landmark building on Oudegracht, built as the first Dutch department store with caryatid statues.",
       "tip_nl": "☕ Stop for coffee or lunch inside the grand interior featuring historic cast-iron columns facing Oudegracht.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_29",
@@ -1336,7 +1453,10 @@
       "name_nl": "Paushuize）",
       "desc_nl": "1517 Renaissance residence commissioned by Pope Adrian VI, the only Dutch pope in Catholic history.",
       "tip_nl": "🏛️ Located at the corner of Nieuwegracht; admire the ornate red-and-yellow brick Renaissance architecture.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ut_30",
@@ -1382,7 +1502,11 @@
       "name_nl": "Fort bij Vechten",
       "desc_nl": "Huge 19th-century defense fort housing the Waterline Museum, explaining NL's historic water defense system.",
       "tip_nl": "🌊 Interactive museum featuring VR parachute flight simulations over the historic defense waterlines.",
-      "price_nl": "Entry: €15.00"
+      "price_nl": "Entry: €15.00",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "ut_31",
@@ -1428,7 +1552,10 @@
       "name_nl": "Pyramide van Austerlitz",
       "desc_nl": "36-meter-high earthen pyramid constructed in 1804 by Napoleon's troops in the Utrechtse Heuvelrug forest.",
       "tip_nl": "🌲 Climb the stone steps to the wooden obelisk at the summit for sweeping views over the surrounding pine forests.",
-      "price_nl": "Entry: €3.50"
+      "price_nl": "Entry: €3.50",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ut_32",
@@ -1474,7 +1601,11 @@
       "name_nl": "Nationaal Park Utrechtse Heuvelrug",
       "desc_nl": "Sprawling glacial ridge national park offering pine forests, sand drifts, heather fields, and historic estates.",
       "tip_nl": "🚲 Excellent network of mountain bike trails and walking paths through pine woods and purple heather fields.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "ut_33",
@@ -1520,7 +1651,10 @@
       "name_nl": "Kasteel Amerongen",
       "desc_nl": "17th-century Dutch Classical moated castle where German Kaiser Wilhelm II signed his abdication in 1918.",
       "tip_nl": "🏰 Walk through pristine Baroque gardens and historic rooms where Kaiser Wilhelm II stayed during WWI exile.",
-      "price_nl": "Entry: €15.00"
+      "price_nl": "Entry: €15.00",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ut_34",
@@ -1566,7 +1700,13 @@
       "name_nl": "Slot Zeist",
       "desc_nl": "Grand 17th-century Dutch Baroque palace set within historic parkland, built for the Count of Nassau-Odijk.",
       "tip_nl": "🌷 Walk around the symmetrical French gardens and enjoy coffee at Brasserie Slot Zeist facing the moat.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "ut_35",
@@ -1612,7 +1752,12 @@
       "name_nl": "Historisch Amersfoort",
       "desc_nl": "Picturesque medieval city 15 minutes by train from Utrecht, famous for the 1400 Koppelpoort water-and-land gate.",
       "tip_nl": "📸 Photograph the magnificent 15th-century Koppelpoort watergate reflected in the quiet canal waters.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_36",
@@ -1658,7 +1803,10 @@
       "name_nl": "Mondriaanhuis Amersfoort）",
       "desc_nl": "Birthplace museum of Piet Mondrian, displaying his early realistic landscapes and evolution to abstract De Stijl art.",
       "tip_nl": "🎨 Experience a full-scale reconstruction of Mondrian's 1920s Paris studio and create custom digital grid art.",
-      "price_nl": "Entry: €14.00"
+      "price_nl": "Entry: €14.00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ut_37",
@@ -1704,7 +1852,11 @@
       "name_nl": "DierenPark Amersfoort",
       "desc_nl": "Forest zoo featuring climbing suspension bridges right over animal enclosures and a realistic Dinosaur Forest.",
       "tip_nl": "🐻 Children can climb rope bridges suspended directly over bear and tiger enclosures for thrilling views.",
-      "price_nl": "Entry: €27.50"
+      "price_nl": "Entry: €27.50",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "ut_38",
@@ -1750,7 +1902,10 @@
       "name_nl": "Nationaal Militair Museum Soesterberg",
       "desc_nl": "Massive military museum on a former airbase, exhibiting jet fighters, tanks, helicopters, and interactive simulators.",
       "tip_nl": "✈️ Marvel at real F-16 fighters suspended from the ceiling and drive miniature tanks on the outdoor obstacle course.",
-      "price_nl": "Entry: €19.00"
+      "price_nl": "Entry: €19.00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ut_39",
@@ -1796,7 +1951,12 @@
       "name_nl": "Paleis Soestdijk",
       "desc_nl": "Neoclassical white palace in Baarn, former residence of Queen Juliana and Prince Bernhard.",
       "tip_nl": "🌲 Walk through the expansive palace gardens and view the royal reception rooms filled with historical photographs.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "ut_40",
@@ -1842,7 +2002,12 @@
       "name_nl": "Kasteel Groeneveld",
       "desc_nl": "18th-century country estate in Baarn featuring a grand manor house surrounded by centuries-old beech woods.",
       "tip_nl": "🌿 Explore peaceful walking paths through ancient woods and stop at Grand Café Groeneveld for organic lunch.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "ut_41",
@@ -1888,7 +2053,12 @@
       "name_nl": "Historisch Woerden）",
       "desc_nl": "Historic cheese town 10 minutes west of Utrecht, featuring a 15th-century castle and authentic Saturday cheese market.",
       "tip_nl": "🧀 Visit on Saturday morning in summer for the authentic Woerden Cheese Market with traditional clapping negotiations.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ut_42",
@@ -1934,7 +2104,11 @@
       "name_nl": "Loosdrechtse Plassen",
       "desc_nl": "Network of peat-excavated lakes renowned for sailing, motorboating, kayaking, and waterside dining.",
       "tip_nl": "⛵ Rent a small electric boat or motor launch to cruise past thatched holiday villas along the lakeshore.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Scenery"
+      ]
     }
   ],
   "spotCount": 42

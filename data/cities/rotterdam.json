@@ -48,7 +48,10 @@
       "name_nl": "Erasmusbrug",
       "desc_nl": "Iconic 139-meter cable-stayed bridge spanning the Nieuwe Maas river, nicknamed 'The Swan' (De Zwaan).",
       "tip_nl": "📸 Walk along Wilhelminapier or Willemskade at sunset to frame the bridge with river reflections.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_2",
@@ -94,7 +97,11 @@
       "name_nl": "Markthal Rotterdam",
       "desc_nl": "Monumental horseshoe-shaped building housing a massive indoor food hall beneath a 11,000 m² ceiling mural.",
       "tip_nl": "🍽️ Browse the central ground-floor stalls for hot stroopwafels, raw herring, and fresh poffertjes.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Shopping"
+      ]
     },
     {
       "id": "ro_3",
@@ -140,7 +147,11 @@
       "name_nl": "Kijk-Kubus & Kubuswoningen",
       "desc_nl": "Complex of 38 innovative tilted-cube houses on pylons designed by Piet Blom, with one open as a show museum.",
       "tip_nl": "🏢 Walking around the exterior courtyard is free. Step inside the Kijk-Kubus (~€3.00) to see custom angled rooms.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "ro_4",
@@ -186,7 +197,10 @@
       "name_nl": "Depot Boijmans Van Beuningen",
       "desc_nl": "The world's first fully accessible art storage facility, clad in 1,664 reflective glass panels with a rooftop birch forest.",
       "tip_nl": "🎟️ Advance online time-slot booking is mandatory. Take the glass elevator to the rooftop garden for 360-degree views.",
-      "price_nl": "Entry: €20.00"
+      "price_nl": "Entry: €20.00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ro_5",
@@ -232,7 +246,11 @@
       "name_nl": "Euromast & Euroscoop",
       "desc_nl": "A 185-meter concrete observation tower featuring a revolving glass cabin (Euroscoop) that reaches the top spire.",
       "tip_nl": "🎟️ Time your climb 45 minutes before dusk to watch harbor industrial lights ignite across the Nieuwe Maas.",
-      "price_nl": "Entry: General €13.50+ / Euroscoop €19.00"
+      "price_nl": "Entry: General €13.50+ / Euroscoop €19.00",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_6",
@@ -278,7 +296,11 @@
       "name_nl": "Werelderfgoed Kinderdijk",
       "desc_nl": "UNESCO World Heritage site featuring a historic drainage network of 19 monumental 18th-century working windmills.",
       "tip_nl": "⛴️ Board Waterbus Line 20 from Erasmusbrug (transfer at Ridderkerk to Driehoeksveer) or seasonal direct ferries. Canal paths are free to cycle.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_7",
@@ -324,7 +346,10 @@
       "name_nl": "Historisch Delfshaven",
       "desc_nl": "The only intact historic canal district in Rotterdam that survived WWII bombing, departure point of Pilgrims in 1620.",
       "tip_nl": "🍺 Visit historic Stadsbrouwerij De Pelgrim set inside the former town hall for craft ales brewed with local water.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_8",
@@ -370,7 +395,10 @@
       "name_nl": "SS Rotterdam",
       "desc_nl": "Legendary 1959 flagship ocean liner of Holland America Line, permanently moored at Katendrecht.",
       "tip_nl": "🚢 Take the self-guided audio tour to access the bridge and engine room. The open-air aft deck pool bar is free.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_9",
@@ -416,7 +444,10 @@
       "name_nl": "De Rotterdam",
       "desc_nl": "Massive 'vertical city' complex designed by Rem Koolhaas on Wilhelminapier, consisting of three interconnected towers.",
       "tip_nl": "🍸 Head to the 7th-floor terrace bar of nhow Hotel for a sunset cocktail facing the illuminated Erasmus Bridge.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_10",
@@ -462,7 +493,10 @@
       "name_nl": "Rotterdam Watertaxi",
       "desc_nl": "High-speed network of classic black-and-yellow motorboats operating across 50 landing docks on the Nieuwe Maas.",
       "tip_nl": "🚤 Book a ride between Erasmusbrug and Hotel New York; it cuts walking time and provides a thrilling harbor trip.",
-      "price_nl": "Entry: 1回乗船: €4.50〜€10.00"
+      "price_nl": "Entry: 1回乗船: €4.50〜€10.00",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_11",
@@ -508,7 +542,12 @@
       "name_nl": "Hotel New York & Wilhelminapier",
       "desc_nl": "Historic 1901 Art Nouveau former headquarters of Holland America Line, now a landmark oyster bar and grand cafe.",
       "tip_nl": "🦪 Order fresh seafood at the ground-floor grand cafe and check out historic brass ship models in the lobby.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "ro_12",
@@ -554,7 +593,10 @@
       "name_nl": "Fenix Food Factory & Katendrecht",
       "desc_nl": "Culinary incubator inside a converted dockside warehouse on the Katendrecht peninsula.",
       "tip_nl": "🧀 Pair craft brew from Kaapse Brouwers with farmhouse cheese on the waterside wooden terrace.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "ro_13",
@@ -600,7 +642,12 @@
       "name_nl": "Museum Boijmans Van Beuningen",
       "desc_nl": "Rotterdam's premier art museum in Museumpark, holding European masterpieces from Bosch to Dalí.",
       "tip_nl": "🏛️ While the historic main building undergoes multi-year renovation, collection highlights are shown in Depot Boijmans.",
-      "price_nl": "Entry: €20.00"
+      "price_nl": "Entry: €20.00",
+      "categories": [
+        "Landmark",
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_14",
@@ -646,7 +693,11 @@
       "name_nl": "Kunsthal Rotterdam",
       "desc_nl": "Avant-garde exhibition center in Museumpark designed by Rem Koolhaas, hosting 20 rotating exhibitions annually.",
       "tip_nl": "🎨 The building itself features sloping ramp floors seamlessly connecting galleries with the park landscape.",
-      "price_nl": "Entry: €17.50"
+      "price_nl": "Entry: €17.50",
+      "categories": [
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_15",
@@ -692,7 +743,10 @@
       "name_nl": "Het Nieuwe Instituut & Huis Sonneveld",
       "desc_nl": "National museum for architecture and design, including admission to Huis Sonneveld, an exceptionally preserved 1933 villa.",
       "tip_nl": "🛋️ Walk through Huis Sonneveld wearing shoe covers to experience 1930s modernist furniture and open plan layout.",
-      "price_nl": "Entry: €14.00 (Huis Sonneveld共通)"
+      "price_nl": "Entry: €14.00 (Huis Sonneveld共通)",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ro_16",
@@ -738,7 +792,10 @@
       "name_nl": "Maritiem Museum Rotterdam",
       "desc_nl": "One of the world's oldest maritime museums featuring interactive navigation exhibits and an outdoor historic harbor.",
       "tip_nl": "🚢 Walking around the outdoor historic harbor ships and cranes is free. Kids can enjoy the Professor Splash shipyard.",
-      "price_nl": "Toegang: €19.00"
+      "price_nl": "Toegang: €19.00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ro_17",
@@ -784,7 +841,12 @@
       "name_nl": "Witte de Withstraat",
       "desc_nl": "Rotterdam's most vibrant cultural and nightlife avenue, lined with street murals, coffee bars, and cocktail lounges.",
       "tip_nl": "🍔 Stop by Ter Marsch & Co for award-winning burgers or relax on the outdoor terrace of Witte Aap.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_18",
@@ -830,7 +892,10 @@
       "name_nl": "Station Rotterdam Centraal",
       "desc_nl": "Transit hub featuring an angular stainless-steel roof pointing toward the center, integrating historic 1957 station lettering.",
       "tip_nl": "📸 Stand at the main southern exit plaza to capture the reflection of high-rise line on polished metal roof.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_19",
@@ -876,7 +941,10 @@
       "name_nl": "Laurenskerk",
       "desc_nl": "The only surviving medieval Gothic monument in central Rotterdam (1449-1525), featuring four pipe organs.",
       "tip_nl": "🪜 Take the guided summer tour to climb the 65-meter church tower for a view of medieval stone versus modern towers.",
-      "price_nl": "Entry: 聖堂入場: €3.00 / 塔登攀: €7.50"
+      "price_nl": "Entry: 聖堂入場: €3.00 / 塔登攀: €7.50",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_20",
@@ -922,7 +990,10 @@
       "name_nl": "Oude Haven & Witte Huis",
       "desc_nl": "Rotterdam's oldest 14th-century basin harbor dominated by Het Witte Huis (1898), celebrated as Europe's first skyscraper.",
       "tip_nl": "📸 Waterside cafe terraces around Oude Haven basin provide the classic shot combining Witte Huis and Cube Houses.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_21",
@@ -968,7 +1039,10 @@
       "name_nl": "Luchtsingel",
       "desc_nl": "390-meter-long bright yellow wooden pedestrian footbridge connecting disconnected quarters and rooftop farm Dakakker.",
       "tip_nl": "🌿 Walk across to the rooftop of Schieblock to visit Europe's first large commercial rooftop farm Dakakker.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_22",
@@ -1014,7 +1088,11 @@
       "name_nl": "Diergaarde Blijdorp",
       "desc_nl": "One of Europe's oldest conservation zoos, featuring biogeographical continents and a walk-through Oceanium shark tunnel.",
       "tip_nl": "🦈 Head straight to covered indoor Oceanium shark tunnel and tropical Amazonica butterfly dome on rainy days.",
-      "price_nl": "Entry: €27.00"
+      "price_nl": "Entry: €27.00",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_23",
@@ -1060,7 +1138,11 @@
       "name_nl": "Miniworld Rotterdam",
       "desc_nl": "The largest indoor miniature world in the Benelux, displaying moving scale models of Rotterdam's port and skyline.",
       "tip_nl": "🚂 Perfect rainy-day attraction for families; search for hidden cartoon easter eggs inside the miniature streetscapes.",
-      "price_nl": "Entry: €14.70"
+      "price_nl": "Entry: €14.70",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "ro_24",
@@ -1106,7 +1188,10 @@
       "name_nl": "Spido Havenrondvaart",
       "desc_nl": "75-minute sightseeing boat cruise departing from the foot of ErasmusBridge past massive dry docks and container cranes.",
       "tip_nl": "⛴️ Sit on the upper open-air deck for views of supertankers and automated container cranes in action.",
-      "price_nl": "Entry: €17.25"
+      "price_nl": "Entry: €17.25",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_25",
@@ -1152,7 +1237,12 @@
       "name_nl": "Het Park & De Heuvel",
       "desc_nl": "19th-century English landscape park located at the base of Euromast, featuring historic trees and lawn cafes.",
       "tip_nl": "☕ Stop by Parqiet to borrow a free picnic deckchair and lounge on the open lawns beneath Euromast.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "a_26",
@@ -1198,7 +1288,13 @@
       "name_nl": "Lijnbaan & Beurstraverse",
       "desc_nl": "Lijnbaan (opened 1953) is Europe's first purpose-built pedestrian shopping promenade, linked to sunken Koopgoot.",
       "tip_nl": "🛍️ Use the underground Koopgoot passage to walk between Beurs metro interchange and retail stores sheltered.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ro_27",
@@ -1244,7 +1340,10 @@
       "name_nl": "Remastered Rotterdam",
       "desc_nl": "Immersive digital projection experience under Erasmus Bridge, reimagining works by Dutch masters with 3D soundscapes.",
       "tip_nl": "🎟️ Reserve tickets online in advance; the experience runs on fixed 60-minute time-slot cycles.",
-      "price_nl": "Entry: €24.50"
+      "price_nl": "Entry: €24.50",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ro_28",
@@ -1290,7 +1389,14 @@
       "name_nl": "Dakpark Rotterdam",
       "desc_nl": "One of Europe's largest public rooftop parks, built atop a 1-kilometer retail strip in Delfshaven.",
       "tip_nl": "🐑 Kids can feed the resident sheep herd on the park slopes and enjoy the playground at Buurtkoffie cafe.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Kids",
+        "Night",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ro_29",
@@ -1336,7 +1442,11 @@
       "name_nl": "Nederlands Fotomuseum",
       "desc_nl": "The national museum for photography on Wilhelminapier, housing millions of historical photographic negatives.",
       "tip_nl": "📷 Visit the Gallery of Honour of Dutch Photography to view 99 iconic historical photographs.",
-      "price_nl": "Entry: €15.00"
+      "price_nl": "Entry: €15.00",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "ro_30",
@@ -1382,7 +1492,10 @@
       "name_nl": "Kralingse Bos & Kralingse Plas",
       "desc_nl": "200-hectare recreational forest and lake northeast of center, offering beaches, deer enclosures, and snuff windmills.",
       "tip_nl": "📸 Walk along the western shore of Kralingse Plas at sunset for an unobstructed panorama of the modern skyline.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_31",
@@ -1428,7 +1541,10 @@
       "name_nl": "Willemsbrug",
       "desc_nl": "Red steel cable-stayed bridge spanning the Nieuwe Maas, standing upstream from Erasmus Bridge.",
       "tip_nl": "📸 Capture cross-river photos of Erasmus Bridge and modern skyline framed beneath Willemsbrug's steel towers.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_32",
@@ -1474,7 +1590,10 @@
       "name_nl": "Noordereiland",
       "desc_nl": "Tranquil island in the middle of Nieuwe Maas featuring 19th-century quays and historic shipping buildings.",
       "tip_nl": "🚶 Take a peaceful walk along Maaskade quay to watch the continuous stream of international river barges.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_33",
@@ -1520,7 +1639,10 @@
       "name_nl": "Trompenburg Tuinen & Arboretum",
       "desc_nl": "Historic botanical garden and arboretum in Kralingen dating to 1820, containing over 4,000 species of trees and cacti.",
       "tip_nl": "🌿 Free entrance with Dutch Museumkaart; visit during spring for rhododendron blooms or autumn for foliage.",
-      "price_nl": "Entry: €11.00"
+      "price_nl": "Entry: €11.00",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_34",
@@ -1566,7 +1688,10 @@
       "name_nl": "Stadhuis Rotterdam",
       "desc_nl": "One of the few historic buildings in central Rotterdam that survived the 1940 bombing, built in 1920 with a 71m tower.",
       "tip_nl": "🏛️ The peaceful sandstone inner courtyard with its central fountain is open to the public on weekdays.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_35",
@@ -1612,7 +1737,10 @@
       "name_nl": "Fenix Migration Museum",
       "desc_nl": "Historic Fenix warehouse in Katendrecht transformed into a museum celebrating human migration with a Tornado staircase.",
       "tip_nl": "🌪️ Climb the organic twisting metallic Tornado staircase to reach the 360-degree observation platform.",
-      "price_nl": "Toegang: €15.00"
+      "price_nl": "Toegang: €15.00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ro_36",
@@ -1658,7 +1786,10 @@
       "name_nl": "Splashtours Rotterdam",
       "desc_nl": "Amphibious bus tour driving through modern city highlights before splashing directly into Nieuwe Maas river.",
       "tip_nl": "🎟️ Sit toward the middle-front for the best view during the 'splash' river-entry transition near Erasmus Bridge.",
-      "price_nl": "Entry: €27.50"
+      "price_nl": "Entry: €27.50",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_37",
@@ -1704,7 +1835,10 @@
       "name_nl": "Maassilo & Now&Wow",
       "desc_nl": "Massive 1910 former concrete grain silo in Rotterdam-Zuid converted into an industrial creative powerhouse.",
       "tip_nl": "🏢 Check daytime event listings for creative design markets to explore the raw interior grain chutes.",
-      "price_nl": "Entry: イベント入場料に準ずる (通常: 約€15〜€30)"
+      "price_nl": "Entry: イベント入場料に準ずる (通常: 約€15〜€30)",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_38",
@@ -1750,7 +1884,12 @@
       "name_nl": "Binnenrotte Markt",
       "desc_nl": "One of the largest open-air markets in NL, held every Tuesday and Saturday on Binnenrotte square.",
       "tip_nl": "🍓 Visit on Saturday after 3:00 PM for steep discounts on fresh fruits, flowers, and Dutch Gouda cheeses.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "ro_39",
@@ -1796,7 +1935,11 @@
       "name_nl": "Pannekoekenboot Rotterdam",
       "desc_nl": "Casual family cruise boat sailing along Nieuwe Maas offering an all-you-can-eat buffet of Dutch pancakes.",
       "tip_nl": "🥞 Boarding is located near Euromast; book the 75-minute cruise slot with a ball pit in the hull for kids.",
-      "price_nl": "Entry: 75分食べ放題: €22.50"
+      "price_nl": "Entry: 75分食べ放題: €22.50",
+      "categories": [
+        "Café",
+        "Kids"
+      ]
     },
     {
       "id": "ro_40",
@@ -1842,7 +1985,10 @@
       "name_nl": "De Doelen & Schouwburgplein",
       "desc_nl": "Rotterdam Philharmonic's concert hall facing Schouwburgplein with interactive hydraulic red lighting cranes.",
       "tip_nl": "📸 The giant red crane-like light towers on Schouwburgplein can be manually operated using control panels.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "ro_41",
@@ -1888,7 +2034,12 @@
       "name_nl": "Historisch Gouda",
       "desc_nl": "Historic cheese city 20 minutes from Rotterdam, famous for its 15th-century Gothic town hall and St. John Church.",
       "tip_nl": "🧀 Visit the Gouda Cheese Experience for interactive installations and try the original 1810 recipe syrup waffle.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "ro_42",
@@ -1934,7 +2085,10 @@
       "name_nl": "Historisch Dordrecht",
       "desc_nl": "Holland's oldest city (15 min south by Waterbus Line 20), featuring historic step-gabled houses and inland harbors.",
       "tip_nl": "⛴️ Take the Waterbus (Line 20) from Erasmusbrug for a scenic approach arriving right at the historic river gates.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "ro_43",
@@ -1980,7 +2134,13 @@
       "name_nl": "Nationaal Park De Biesbosch",
       "desc_nl": "Sprawling freshwater tidal wetland national park featuring willow forests, flooded creeks, and wild beavers.",
       "tip_nl": "🛶 Rent a silent electric boat or canoe at Biesboschcentrum to navigate narrow creeks and spot wild beavers.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Kids",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_44",
@@ -2026,7 +2186,10 @@
       "name_nl": "Portlantis - Maasvlakte 2 Havenbeleveniscentrum",
       "desc_nl": "Interactive visitor center located on Maasvlakte 2, Rotterdam's reclaimed deep-water automated container harbor.",
       "tip_nl": "🚢 Book the FutureLand Ferry tour in advance to cruise past automated quayside container cranes up close.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "ro_45",
@@ -2072,7 +2235,11 @@
       "name_nl": "Historisch Schiedam",
       "desc_nl": "Adjacent to Rotterdam-West, home to the world's tallest traditional stone grain windmills built for gin distilling.",
       "tip_nl": "🍸 Visit working De Walvisch museum windmill, then stop at Jenevermuseum for a tasting of historic malt-wine gin.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_46",
@@ -2118,7 +2285,12 @@
       "name_nl": "Hoek van Holland Strand",
       "desc_nl": "Rotterdam's coastal North Sea beach gateway, featuring wide sands and the world's largest automated storm surge barrier.",
       "tip_nl": "🚇 Take direct Metro Line B from central Rotterdam straight to Hoek van Holland Strand station right on the sand.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_47",
@@ -2164,7 +2336,11 @@
       "name_nl": "Plaswijckpark Rotterdam",
       "desc_nl": "Classic family amusement park featuring outdoor playgrounds, indoor play village, and a pedal go-kart traffic park.",
       "tip_nl": "🚗 Kids can earn their 'pedal-car driving license' in the Verkeerstuin pedal park. Highly recommended for ages 2–10.",
-      "price_nl": "Entry: €14.95"
+      "price_nl": "Entry: €14.95",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "ro_48",
@@ -2210,7 +2386,10 @@
       "name_nl": "Van Nelle Fabriek",
       "desc_nl": "UNESCO World Heritage masterpiece of 1920s modernist industrial architecture, built of steel and glass.",
       "tip_nl": "🏛️ Book a guided architecture tour through UrbanGuides to access iconic curved glass sky bridges.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     }
   ],
   "spotCount": 48

@@ -43,7 +43,12 @@
     "name_nl": "Grand-Place",
     "desc_nl": "The central square of Brussels and a UNESCO World Heritage site, famous for its opulent 17th-century Baroque Guildhalls with gold leaf facades, the towering Gothic Town Hall, and the King's House.",
     "tip_nl": "📸 Visit once during bright midday daylight and return after dusk when dynamic lighting illuminates the gold filigree.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "b_2",
@@ -89,7 +94,10 @@
     "name_nl": "Manneken Pis",
     "desc_nl": "A 61-centimeter bronze fountain sculpture of a urinating boy dating back to 1619 by Jérôme Duquesnoy the Elder. A quirky national symbol of Brussels.",
     "tip_nl": "👕 Check the official dressing schedule posted on the railing; the statue is dressed in custom costumes over 130 times a year.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_3",
@@ -135,7 +143,11 @@
     "name_nl": "Atomium",
     "desc_nl": "A 102-meter-tall structure built for the 1958 Brussels World's Fair, representing an iron crystal cell magnified 165 billion times with panoramic observation spheres.",
     "tip_nl": "🎟️ Pre-booking online time-slot tickets is essential. Admission also grants free entry to the adjacent Design Museum Brussels.",
-    "price_nl": "Entry: €16.00"
+    "price_nl": "Entry: €16.00",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_4",
@@ -181,7 +193,10 @@
     "name_nl": "Koninklijke Musea voor Schone Kunsten",
     "desc_nl": "World-class museum complex comprising the Old Masters Museum (Bruegel, Rubens, Van Dyck), Fin-de-Siècle Museum, and dedicated Magritte Museum.",
     "tip_nl": "🎨 Houses the world's largest collection of paintings by Pieter Bruegel the Elder; rent the interactive audio guide.",
-    "price_nl": "Entry: €15.00"
+    "price_nl": "Entry: €15.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "b_5",
@@ -227,7 +242,11 @@
     "name_nl": "Musée Magritte Museum",
     "desc_nl": "Dedicated entirely to Belgian surrealist master René Magritte, housing over 200 original paintings, gouaches, and painted objects.",
     "tip_nl": "🎟️ Reserve your morning time slot in advance. Photography without flash is allowed; start from the top floor down.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "b_6",
@@ -273,7 +292,10 @@
     "name_nl": "Cathédrale Saints-Michel-et-Gudule",
     "desc_nl": "Brabantine Gothic cathedral dating from 11th to 15th centuries with twin 64m towers, Renaissance stained glass, and royal wedding history.",
     "tip_nl": "👑 Admission to the main nave is completely free; pay a small fee to explore the 11th-century Romanesque crypt below.",
-    "price_nl": "Nave Free / Crypt: €3.00"
+    "price_nl": "Nave Free / Crypt: €3.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_7",
@@ -319,7 +341,12 @@
     "name_nl": "Galeries Royales Saint-Hubert",
     "desc_nl": "1847 Italian Renaissance-style glass-vaulted arcade housing luxury chocolatiers (Neuhaus, Pierre Marcolini, Mary), bookshops, and cafes.",
     "tip_nl": "🍫 The ultimate destination for luxury Belgian chocolate tasting; visit flagship boutiques of Neuhaus and Marcolini.",
-    "price_nl": "Free (Chocolate ~€5-20)"
+    "price_nl": "Free (Chocolate ~€5-20)",
+    "categories": [
+      "Café",
+      "Kids",
+      "Shopping"
+    ]
   },
   {
     "id": "b_8",
@@ -365,7 +392,12 @@
     "name_nl": "Mini-Europe",
     "desc_nl": "Open-air miniature park located beside Atomium, showcasing 1:25 scale working replicas of over 350 famous EU architectural monuments.",
     "tip_nl": "🌋 Interactive buttons activate moving trains and erupting volcanoes. Buy a combined Atomium + Mini-Europe ticket.",
-    "price_nl": "Entry: €19.00 (Combo ~€31.00)"
+    "price_nl": "Entry: €19.00 (Combo ~€31.00)",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_9",
@@ -411,7 +443,12 @@
     "name_nl": "Koninklijk Paleis van Brussel",
     "desc_nl": "Official administrative palace of the King of the Belgians featuring Louis XVI neoclassical facade and Jan Fabre's jewel-beetle wing ceiling.",
     "tip_nl": "👑 The palace is open for free public visits only during summer (late July to late August).",
-    "price_nl": "Free (Summer Interior Free)"
+    "price_nl": "Free (Summer Interior Free)",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_10",
@@ -457,7 +494,14 @@
     "name_nl": "Parc de Bruxelles",
     "desc_nl": "Largest public neoclassical park in central Brussels laid out between the Royal Palace and Belgian Parliament.",
     "tip_nl": "☕ A favorite shaded retreat for locals; stop by open-air kiosk cafes for craft beers and Belgian waffles.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "b_11",
@@ -503,7 +547,13 @@
     "name_nl": "Mont des Arts",
     "desc_nl": "Elevated urban vantage point and public garden linking Upper and Lower Towns, framing the Gothic spire of the Town Hall.",
     "tip_nl": "📸 The steps at the top of the garden offer the classic postcard panorama of Brussels' skyline framing the Town Hall spire.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "b_12",
@@ -549,7 +599,10 @@
     "name_nl": "Musée des Instruments de Musique",
     "desc_nl": "Housed inside the 1899 Art Nouveau 'Old England' building, displaying 1,200 historic musical instruments with wireless audio headphones.",
     "tip_nl": "🎺 Put on audio headphones to hear antique instruments automatically; visit the 10th-floor rooftop brasserie for skyline views.",
-    "price_nl": "Entry: €15.00"
+    "price_nl": "Entry: €15.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "b_13",
@@ -595,7 +648,10 @@
     "name_nl": "Belgisch Stripcentrum",
     "desc_nl": "Located in a 1906 Victor Horta Art Nouveau warehouse, celebrating Tintin, The Smurfs, Lucky Luke, and Belgian comic heritage.",
     "tip_nl": "📚 Browse the massive comic bookstore on the ground floor for multilingual editions; pair with the city's Comic Book Route.",
-    "price_nl": "Entry: €13.00"
+    "price_nl": "Entry: €13.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "b_14",
@@ -641,7 +697,10 @@
     "name_nl": "Striproute Brussel",
     "desc_nl": "Open-air trail of over 60 massive street murals painted on building facades throughout Brussels celebrating comic characters.",
     "tip_nl": "🚶 The famous Tintin & Captain Haddock mural is located near Manneken Pis; pick up a map at the tourist desk.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "b_15",
@@ -687,7 +746,11 @@
     "name_nl": "Musée Horta",
     "desc_nl": "UNESCO-listed private home and studio of pioneer Art Nouveau architect Victor Horta (1898-1901) featuring curved ironwork and stained glass.",
     "tip_nl": "🎟️ Advance online booking is mandatory with limited hourly admissions; large bags and photography are regulated.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "b_16",
@@ -733,7 +796,12 @@
     "name_nl": "Koninklijk Museum van het Leger",
     "desc_nl": "Located in Cinquantenaire park, featuring vast halls of medieval armor, Napoleonic uniforms, and a massive Aviation Hall with real aircraft.",
     "tip_nl": "✈️ Walk through the Aviation Hall walkways to access the top of the Cinquantenaire Triumphal Arch for elevated views.",
-    "price_nl": "Entry: €11.00"
+    "price_nl": "Entry: €11.00",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "b_17",
@@ -779,7 +847,12 @@
     "name_nl": "Autoworld Brussels",
     "desc_nl": "Housed inside Jubelpark's monumental 1880 hall, exhibiting over 300 historic vintage cars, royal vehicles, microcars, and racing legends.",
     "tip_nl": "🏎️ Great family and rainy-day stop; explore interactive zones where children can test driving simulation games.",
-    "price_nl": "Entry: €15.00"
+    "price_nl": "Entry: €15.00",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "b_18",
@@ -825,7 +898,13 @@
     "name_nl": "Parc du Cinquantenaire",
     "desc_nl": "30-hectare public park built in 1880 to commemorate Belgian independence, dominated by a monumental stone Triumphal Arch and gardens.",
     "tip_nl": "📸 Photograph the grand arch from the central flowerbeds; during summer afternoons locals gather on the lawns.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Kids",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "b_19",
@@ -871,7 +950,10 @@
     "name_nl": "Europees Parlement & Parlamentarium",
     "desc_nl": "Legislative hub of the European Union. Parlamentarium offers dynamic 360-degree digital interactive exhibitions on EU history and policy.",
     "tip_nl": "🇪🇺 Entry to the Parlamentarium and the Hemicycle is 100% free with guides in all 24 EU languages (bring passport/ID).",
-    "price_nl": "Free Entry (Passport Required)"
+    "price_nl": "Free Entry (Passport Required)",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "b_20",
@@ -917,7 +999,13 @@
     "name_nl": "Huis van de Europese Geschiedenis",
     "desc_nl": "Located in a restored 1930s hospital in Leopold Park, exploring the shared memory, conflicts, and integration of Europe.",
     "tip_nl": "📱 Admission is completely free; pick up an interactive tablet guide at the entrance to engage with interactive displays.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "b_21",
@@ -963,7 +1051,10 @@
     "name_nl": "Jeanneke-Pis & Delirium Café",
     "desc_nl": "Jeanneke-Pis is the 1987 female counterpart fountain to Manneken Pis. Opposite stands Delirium Café, holding a Guinness record for 2,000+ beers.",
     "tip_nl": "🍺 The alley gets packed at night; visit Delirium in the late afternoon to try rare Trappist and lambic fruit beers on tap.",
-    "price_nl": "Free (Beer ~€5-18)"
+    "price_nl": "Free (Beer ~€5-18)",
+    "categories": [
+      "Café"
+    ]
   },
   {
     "id": "b_22",
@@ -1009,7 +1100,10 @@
     "name_nl": "Het Zinneke / Zinneke Pis",
     "desc_nl": "Bronze street sculpture created in 1998 by Tom Frantzen, depicting a stray mongrel dog urinating against a street bollard.",
     "tip_nl": "🐶 Completes the peeing statue trio of Brussels; located in the trendy Saint-Géry design and cafe district.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_23",
@@ -1055,7 +1149,12 @@
     "name_nl": "Sint-Gorikshallen",
     "desc_nl": "19th-century Flemish Neo-Renaissance covered market hall built over Brussels' 979 AD founding island, now a cultural cafe space.",
     "tip_nl": "🍺 The central interior fountain is preserved inside the bar area; grab an outdoor table on the square for craft beers.",
-    "price_nl": "Free (Food/Drink ~€5-18)"
+    "price_nl": "Free (Food/Drink ~€5-18)",
+    "categories": [
+      "Café",
+      "Night",
+      "Shopping"
+    ]
   },
   {
     "id": "b_24",
@@ -1101,7 +1200,13 @@
     "name_nl": "Sint-Katelijne & Vismet",
     "desc_nl": "Historic harbor basin district centered around Saint Catherine Church, lined with cobblestone quays and seafood bistros.",
     "tip_nl": "🦪 Stop by the historic fishmonger bar Noordzee to stand at high tables while enjoying grilled razor clams and white wine.",
-    "price_nl": "Free (Seafood ~€10-25)"
+    "price_nl": "Free (Seafood ~€10-25)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Shopping"
+    ]
   },
   {
     "id": "b_25",
@@ -1147,7 +1252,11 @@
     "name_nl": "Vlooienmarkt Vossenplein",
     "desc_nl": "Authentic daily open-air flea market operating every single morning since 1919 in the heart of Marolles district.",
     "tip_nl": "🧥 Arrive between 7:30 AM and 9:00 AM on weekend mornings for the best antique finds; stop into a traditional brown cafe after.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "b_26",
@@ -1193,7 +1302,10 @@
     "name_nl": "Justitiepaleis & Poelaertplein",
     "desc_nl": "Monumental 19th-century courthouse designed by Joseph Poelaert. Place Poelaert in front offers panoramic views over the Lower Town.",
     "tip_nl": "🌅 Ride the free glass Ascenseur Poelaert elevator connecting the square to Marolles; great spot for watching the sunset.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_27",
@@ -1239,7 +1351,12 @@
     "name_nl": "De Marollen",
     "desc_nl": "Brussels' historic working-class neighborhood packed with antique shops, vintage thrift stores, indie design studios, and taverns.",
     "tip_nl": "🛍️ Walk down Rue Haute and Rue Blaes for eclectic antique shopping, stopping by traditional brasseries for stoemp.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "b_28",
@@ -1285,7 +1402,10 @@
     "name_nl": "Koninklijke Muntschouwburg",
     "desc_nl": "Belgium's premier neoclassical opera and ballet theater on Place de la Monnaie, historically famous as the starting point of the 1830 Revolution.",
     "tip_nl": "🎭 Check the schedule for guided architectural tours of the auditorium staterooms, or book tickets for opera productions.",
-    "price_nl": "Show Tickets Var / Tour ~€12.00"
+    "price_nl": "Show Tickets Var / Tour ~€12.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_29",
@@ -1331,7 +1451,10 @@
     "name_nl": "Koninklijke Serres van Laken",
     "desc_nl": "Monumental 19th-century Art Nouveau glass-and-steel domed greenhouses designed by Alphonse Balat for King Leopold II holding rare botanicals.",
     "tip_nl": "🌺 Open to the public for only 3 to 4 weeks each spring (mid-April to early May). Tickets sell out within hours of release.",
-    "price_nl": "Entry: €5.00 (Advance Booking Required)"
+    "price_nl": "Entry: €5.00 (Advance Booking Required)",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_30",
@@ -1377,7 +1500,13 @@
     "name_nl": "Choco-Story Brussels",
     "desc_nl": "Interactive chocolate museum near Grand-Place tracing cocoa from Mayan roots to Belgian pralines with live master demonstrations.",
     "tip_nl": "🍫 Live praline-making demonstrations occur every 30 minutes in the demonstration kitchen with warm freshly made samples.",
-    "price_nl": "Entry: €14.00"
+    "price_nl": "Entry: €14.00",
+    "categories": [
+      "Café",
+      "Kids",
+      "Museum",
+      "Shopping"
+    ]
   },
   {
     "id": "b_31",
@@ -1423,7 +1552,11 @@
     "name_nl": "Museum van het Natuurwetenschappen",
     "desc_nl": "Houses the world-famous Dinosaur Gallery—the largest exhibition hall in Europe dedicated entirely to dinosaurs with 30 complete skeletons.",
     "tip_nl": "🦖 Top-tier destination for kids; pick up the interactive discovery track booklet at the entrance and visit the Evolution Gallery.",
-    "price_nl": "Entry: €13.00"
+    "price_nl": "Entry: €13.00",
+    "categories": [
+      "Kids",
+      "Museum"
+    ]
   },
   {
     "id": "b_32",
@@ -1469,7 +1602,12 @@
     "name_nl": "Cantillon Brouwerij",
     "desc_nl": "The last operating traditional spontaneous-fermentation brewery in Brussels (1900), producing oak-barrel-aged Lambic, Gueuze, and Kriek.",
     "tip_nl": "🍺 Take the self-guided tour through wooden barrel aging rooms and copper coolships, ending with a tasting of sour lambic beers.",
-    "price_nl": "Entry: €9.50 (2 Tastings Incl.)"
+    "price_nl": "Entry: €9.50 (2 Tastings Incl.)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "b_33",
@@ -1515,7 +1653,11 @@
     "name_nl": "Maison Dandoy",
     "desc_nl": "Brussels' historic bakery operating since 1829, famous for handmade spiced speculoos biscuits and authentic hot Belgian waffles.",
     "tip_nl": "🧇 Visit the tea room near Grand-Place to compare the dense sugary Liège Waffle against the light crispy Brussels Waffle.",
-    "price_nl": "Waffle/Biscuit ~€5-15"
+    "price_nl": "Waffle/Biscuit ~€5-15",
+    "categories": [
+      "Café",
+      "Shopping"
+    ]
   },
   {
     "id": "b_34",
@@ -1561,7 +1703,10 @@
     "name_nl": "Église Notre-Dame des Victoires au Sablon",
     "desc_nl": "15th-century Brabantine High Gothic church built by the Crossbowmen's Guild, featuring soaring 14m stained glass and marble chapels.",
     "tip_nl": "⛪ Free entry; step inside on sunny mornings when colored sunlight streams through the 14-meter-tall stained glass windows.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_35",
@@ -1607,7 +1752,14 @@
     "name_nl": "De Zavel / Le Sablon",
     "desc_nl": "Refined aristocratic district ringed with premier chocolatiers (Marcolini, Wittamer), antique galleries, and Petit Sablon guild garden.",
     "tip_nl": "🌳 Relax on the benches of the Petit Sablon garden to admire the Gothic fountain surrounded by miniature carved guild statues.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "b_36",
@@ -1653,7 +1805,10 @@
     "name_nl": "Train World",
     "desc_nl": "Official museum of the National Railway Company of Belgium in historic 1887 Schaerbeek station, featuring Europe's oldest steam engine Pays de Liège.",
     "tip_nl": "🚂 Step inside authentic vintage sleeping cars, walk over a full-scale railway bridge installation, and operate simulators.",
-    "price_nl": "Entry: €15.00"
+    "price_nl": "Entry: €15.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "b_37",
@@ -1699,7 +1854,12 @@
     "name_nl": "Koninklijk Paleis van Laken",
     "desc_nl": "The private primary residence of the Belgian Royal Family, situated in a sprawling wooded estate in northern Brussels near Atomium.",
     "tip_nl": "👑 The residence itself is private, but the surrounding parklands provide scenic walking paths when combined with Atomium.",
-    "price_nl": "Free Park Walk"
+    "price_nl": "Free Park Walk",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_38",
@@ -1745,7 +1905,11 @@
     "name_nl": "Plantentuin Meise",
     "desc_nl": "One of the largest botanical gardens in the world (92 hectares), featuring 12th-century Bouchout Castle and Palace of Plants glasshouse.",
     "tip_nl": "🌺 Explore giant Victoria amazonica water lilies in the tropical glasshouse and walk the wooden canopy bridge walkway.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_39",
@@ -1791,7 +1955,11 @@
     "name_nl": "Maison du Roi / Broodhuis",
     "desc_nl": "Neo-Gothic palace facing Town Hall on Grand-Place, displaying municipal history and the official wardrobe collection of Manneken Pis.",
     "tip_nl": "👗 Head to the top floor to view the extensive wardrobe room of Manneken Pis featuring miniature astronaut suits and rock outfits.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "b_40",
@@ -1837,7 +2005,10 @@
     "name_nl": "Abdij Ter Kameren",
     "desc_nl": "Former 12th-century Cistercian abbey nestled in a valley south of Ixelles, featuring French terraced water gardens and peaceful cloisters.",
     "tip_nl": "🌿 A quiet elegant green sanctuary away from the downtown core; stroll the terraced lawns and continue into Bois de la Cambre.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "b_41",
@@ -1883,7 +2054,13 @@
     "name_nl": "Bois de la Cambre",
     "desc_nl": "Massive 120-hectare English landscape park featuring an expansive boating lake with the central Chalet Robinson restaurant island.",
     "tip_nl": " Take the small wooden ferry raft across to Chalet Robinson island for drinks or weekend brunch surrounded by water.",
-    "price_nl": "Free (Ferry ~€1.00)"
+    "price_nl": "Free (Ferry ~€1.00)",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_42",
@@ -1929,7 +2106,11 @@
     "name_nl": "Zoniënwoud",
     "desc_nl": "4,400-hectare ancient beech forest on the southern edge of Brussels, recognized as part of UNESCO World Heritage Ancient Beech Forests.",
     "tip_nl": "🌲 Rent a bike and cycle along the marked woodland paths to explore towering 200-year-old beech tree canopies.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_43",
@@ -1975,7 +2156,11 @@
     "name_nl": "Slagveld van Waterloo",
     "desc_nl": "Historic battlefield 20 minutes south of Brussels where Napoleon was defeated in 1815, featuring the 40m conical Lion's Mound and museum.",
     "tip_nl": "🪜 Climb the 226 steep stone steps to the summit of the Lion's Mound for a clear panoramic perspective over the battlefield.",
-    "price_nl": "Entry: €23.00 (Combo Pass)"
+    "price_nl": "Entry: €23.00 (Combo Pass)",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "b_44",
@@ -2021,7 +2206,13 @@
     "name_nl": "Historisch Leuven",
     "desc_nl": "20 minutes by train from Brussels. Home to KU Leuven (1425), late-Gothic Town Hall with 236 statues, and Oude Markt bar square.",
     "tip_nl": "🍺 Grab a seat on the outdoor terrace of Oude Markt square lined with over 30 continuous pub terraces serving Belgian beers.",
-    "price_nl": "Walk Free (Town Hall Tour €4.00)"
+    "price_nl": "Walk Free (Town Hall Tour €4.00)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Shopping"
+    ]
   },
   {
     "id": "b_45",
@@ -2067,7 +2258,12 @@
     "name_nl": "Kasteel van Gaasbeek",
     "desc_nl": "Romantic moated fairytale castle in Pajottenland hills featuring medieval towers, Renaissance tapestries, and Italian terraced gardens.",
     "tip_nl": "🏰 Combine your castle visit with a tour of the traditional Pajottenland countryside to sample farmhouse Lambic beers.",
-    "price_nl": "Castle €12.00 / Garden Free"
+    "price_nl": "Castle €12.00 / Garden Free",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_46",
@@ -2113,7 +2309,12 @@
     "name_nl": "Hallebos",
     "desc_nl": "Public forest famous for its magical purple-blue carpet of millions of blooming wild bluebells covering the forest floor in spring.",
     "tip_nl": "📸 Peak bluebell bloom typically occurs between mid-April and early May; stick strictly to designated walking paths.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "b_47",
@@ -2159,7 +2360,13 @@
     "name_nl": "Historisch Mechelen",
     "desc_nl": "20 minutes by train from Brussels. Features 97m St. Rombout's Tower, UNESCO Beguinage, Het Anker brewery (Gouden Carolus beer).",
     "tip_nl": "🪜 Climb 514 steps of St. Rombout's Tower to walk out onto the glass Skywalk platform with views of Brussels and Antwerp.",
-    "price_nl": "Walk Free (Tower Climb €8.00)"
+    "price_nl": "Walk Free (Tower Climb €8.00)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Shopping"
+    ]
   },
   {
     "id": "b_48",
@@ -2205,7 +2412,11 @@
     "name_nl": "Maison Antoine & Frietkoten",
     "desc_nl": "Authentic traditional Belgian fry stall serving double-fried Belgian potatoes in paper cones topped with over 20 artisanal sauces.",
     "tip_nl": "🍟 Order a large cone with sauce at Maison Antoine; nearby bar terraces allow you to bring your paper cone onto their tables.",
-    "price_nl": "Budget ~€4-8"
+    "price_nl": "Budget ~€4-8",
+    "categories": [
+      "Café",
+      "Landmark"
+    ]
   },
   {
     "id": "b_49",
@@ -2251,7 +2462,10 @@
     "name_nl": "Fin-de-Siècle Museum",
     "desc_nl": "Part of the Royal Museums dedicated to the 1900s artistic zenith across Impressionism, Art Nouveau, and Symbolism (Ensor, Khnopff, Horta).",
     "tip_nl": "🎨 Galleries descend underground around a multi-story atrium; check out the Art Nouveau furniture and glassware on lower levels.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "b_50",
@@ -2297,7 +2511,11 @@
     "name_nl": "Musée BELvue",
     "desc_nl": "Situated next to the Royal Palace in an 18th-century former hotel, exploring Belgium's democracy, monarchy, and social history.",
     "tip_nl": "🇧🇪 The basement level provides direct access to the subterranean archaeological ruins of the 16th-century Coudenberg Palace.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "b_51",
@@ -2343,7 +2561,10 @@
     "name_nl": "Paleis van Coudenberg",
     "desc_nl": "Subterranean archaeological remains of the former medieval palace of the Dukes of Burgundy and Charles V, buried beneath Place Royale.",
     "tip_nl": "🔦 Walk through the underground vaulted cellars and ancient Rue Isabelle street pavement beneath modern street traffic.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "b_52",
@@ -2389,7 +2610,12 @@
     "name_nl": "Villa Empain",
     "desc_nl": "1930s Art Deco architectural masterpiece built for Baron Louis Empain featuring polished granite, gold leaf, marble, and outdoor pool.",
     "tip_nl": "📸 The blue swimming pool courtyard surrounded by Art Deco stone pergolas offers striking architectural photography.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Café",
+      "Museum",
+      "Night"
+    ]
   },
   {
     "id": "b_53",
@@ -2435,7 +2661,10 @@
     "name_nl": "Sint-Gillis & Flagey",
     "desc_nl": "Residential quarters of Saint-Gilles and Ixelles celebrated for having Europe's highest concentration of preserved Art Nouveau townhouses.",
     "tip_nl": "🚶 Pick up an Art Nouveau walking itinerary to spot decorative sgraffito wall murals and curved ironwork along Rue Defacqz.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "b_54",
@@ -2481,7 +2710,12 @@
     "name_nl": "Flageyplein & Maison de la Radio",
     "desc_nl": "Place Flagey in Ixelles anchored by the 1938 Art Deco radio building Le Paquebot, surrounded by Ixelles Ponds and outdoor cafes.",
     "tip_nl": "☕ Sit on the terrace of Café Belga facing the ponds for an espresso or Belgian white beer; sample fresh oysters from food trucks.",
-    "price_nl": "Free (Cafe ~€5-18)"
+    "price_nl": "Free (Cafe ~€5-18)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "b_55",
@@ -2527,6 +2761,13 @@
     "name_nl": "Rue Neuve & Notre-Dame du Finistère",
     "desc_nl": "Brussels' busiest pedestrian retail high street lined with international stores, mid-way housing 18th-century Baroque Finistère Church.",
     "tip_nl": "🛍️ Step inside the quiet Baroque church of Notre-Dame du Finistère for a moment of quiet away from the retail bustle.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Scenery",
+      "Shopping"
+    ]
   }
 ]

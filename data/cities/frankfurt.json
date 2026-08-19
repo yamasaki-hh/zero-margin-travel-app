@@ -43,7 +43,10 @@
       "name_nl": "Römerberg & Rathaus Römer",
       "desc_nl": "Römerberg & City Hall in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "見学無料"
+      "price_nl": "見学無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_2",
@@ -87,7 +90,12 @@
       "name_nl": "Kaiserdom St. Bartholomäus",
       "desc_nl": "Frankfurt Cathedral in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "聖堂無料（塔3.50€）"
+      "price_nl": "聖堂無料（塔3.50€）",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "f_3",
@@ -131,7 +139,10 @@
       "name_nl": "Goethe-Haus",
       "desc_nl": "Goethe House & Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 10€"
+      "price_nl": "入場料: 10€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_4",
@@ -175,7 +186,10 @@
       "name_nl": "Städel Museum",
       "desc_nl": "Städel Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 16€"
+      "price_nl": "入場料: 16€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_5",
@@ -219,7 +233,11 @@
       "name_nl": "Main Tower",
       "desc_nl": "Main Tower Observatory in City district.",
       "tip_nl": "📸 Offers an open-air outdoor viewing platform at 198m with clear, reflection-free 360-degree skyline views.",
-      "price_nl": "入場料: 9€"
+      "price_nl": "入場料: 9€",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "f_6",
@@ -263,7 +281,10 @@
       "name_nl": "Eiserner Steg",
       "desc_nl": "Iron Footbridge in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "通行無料"
+      "price_nl": "通行無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_7",
@@ -307,7 +328,10 @@
       "name_nl": "Paulskirche",
       "desc_nl": "St. Paul's Church in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場無料"
+      "price_nl": "入場無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_8",
@@ -351,7 +375,10 @@
       "name_nl": "Alte Oper",
       "desc_nl": "Old Opera House in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "広場無料"
+      "price_nl": "広場無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_9",
@@ -395,7 +422,10 @@
       "name_nl": "Palmengarten",
       "desc_nl": "Palmengarten Botanical Garden in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 7€"
+      "price_nl": "入場料: 7€",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "f_10",
@@ -439,7 +469,10 @@
       "name_nl": "Historisches Museum Frankfurt",
       "desc_nl": "Frankfurt History Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_11",
@@ -483,7 +516,11 @@
       "name_nl": "Liebieghaus Skulpturensammlung",
       "desc_nl": "Liebieghaus Sculpture Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "f_12",
@@ -527,7 +564,10 @@
       "name_nl": "Museum Angewandte Kunst",
       "desc_nl": "Museum of Applied Arts in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_13",
@@ -571,7 +611,10 @@
       "name_nl": "Deutsches Filminstitut & Filmmuseum",
       "desc_nl": "DFF - German Film Institute & Film Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 10€"
+      "price_nl": "入場料: 10€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_14",
@@ -615,7 +658,10 @@
       "name_nl": "Museum für Moderne Kunst",
       "desc_nl": "Museum of Modern Art in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_15",
@@ -659,7 +705,11 @@
       "name_nl": "Schirn Kunsthalle Frankfurt",
       "desc_nl": "Schirn Kunsthalle Frankfurt in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 14€"
+      "price_nl": "入場料: 14€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "f_16",
@@ -703,7 +753,11 @@
       "name_nl": "Museumsufer",
       "desc_nl": "Museumsufer River Bank in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "f_17",
@@ -747,7 +801,10 @@
       "name_nl": "Kleinmarkthalle",
       "desc_nl": "Kleinmarkthalle Market in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場無料"
+      "price_nl": "入場無料",
+      "categories": [
+        "Shopping"
+      ]
     },
     {
       "id": "f_18",
@@ -791,7 +848,10 @@
       "name_nl": "Neue Altstadt",
       "desc_nl": "New Old Town in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_19",
@@ -837,7 +897,11 @@
       "name_nl": "Sachsenhausen",
       "desc_nl": "Sachsenhausen Cider District in City district.",
       "tip_nl": "🎟️ Order traditional Apfelwein served from an earthenware jug (Bembel) paired with Grüne Soße (green sauce) and Handkäs mit Musik cheese.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Night"
+      ]
     },
     {
       "id": "f_20",
@@ -881,7 +945,10 @@
       "name_nl": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "desc_nl": "Historic Apple Wine Taverns in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "リンゴ酒: 3€"
+      "price_nl": "リンゴ酒: 3€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "f_21",
@@ -925,7 +992,11 @@
       "name_nl": "Zeil & MyZeil",
       "desc_nl": "Zeil Shopping Street & MyZeil in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "f_22",
@@ -969,7 +1040,11 @@
       "name_nl": "Goethestraße",
       "desc_nl": "Goethestraße Luxury Street in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "f_23",
@@ -1013,7 +1088,11 @@
       "name_nl": "Große Bockenheimer Straße",
       "desc_nl": "Fressgass Culinary Street in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Scenery"
+      ]
     },
     {
       "id": "f_24",
@@ -1057,7 +1136,10 @@
       "name_nl": "Hauptwache & Katharinenkirche",
       "desc_nl": "Hauptwache Square & St. Catherine's in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "見学無料"
+      "price_nl": "見学無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_25",
@@ -1101,7 +1183,12 @@
       "name_nl": "Mainufer-Promenade",
       "desc_nl": "Main River Promenade in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "f_26",
@@ -1145,7 +1232,11 @@
       "name_nl": "Zoo Frankfurt",
       "desc_nl": "Frankfurt Zoo in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "f_27",
@@ -1189,7 +1280,10 @@
       "name_nl": "Senckenberg Naturmuseum",
       "desc_nl": "Senckenberg Natural History Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_28",
@@ -1233,7 +1327,10 @@
       "name_nl": "Frankfurter Wertpapierbörse",
       "desc_nl": "Frankfurt Stock Exchange in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "広場無料"
+      "price_nl": "広場無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_29",
@@ -1277,7 +1374,10 @@
       "name_nl": "Euro-Skulptur",
       "desc_nl": "Euro Sculpture in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "見学無料"
+      "price_nl": "見学無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_30",
@@ -1321,7 +1421,11 @@
       "name_nl": "Europaviertel & Skyline Plaza",
       "desc_nl": "Europaviertel & Skyline Plaza in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場無料"
+      "price_nl": "入場無料",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "f_31",
@@ -1365,7 +1469,11 @@
       "name_nl": "Grüneburgpark",
       "desc_nl": "Grüneburgpark & Botanical Garden in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "f_32",
@@ -1409,7 +1517,11 @@
       "name_nl": "Hafenpark & Ostpark",
       "desc_nl": "Hafenpark & Ostpark in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "f_33",
@@ -1453,7 +1565,10 @@
       "name_nl": "Europäische Zentralbank",
       "desc_nl": "European Central Bank Headquarters in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "外観無料"
+      "price_nl": "外観無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_34",
@@ -1497,7 +1612,11 @@
       "name_nl": "Jüdisches Museum Frankfurt",
       "desc_nl": "Jewish Museum Frankfurt in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "f_35",
@@ -1541,7 +1660,10 @@
       "name_nl": "Museum Judengasse",
       "desc_nl": "Museum Judengasse in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 6€"
+      "price_nl": "入場料: 6€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_36",
@@ -1585,7 +1707,10 @@
       "name_nl": "Eschenheimer Turm",
       "desc_nl": "Eschenheim Tower in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "外観無料"
+      "price_nl": "外観無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_37",
@@ -1629,7 +1754,10 @@
       "name_nl": "Café Hauptwache",
       "desc_nl": "Café Hauptwache in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "コーヒー: 4€"
+      "price_nl": "コーヒー: 4€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "f_38",
@@ -1673,7 +1801,10 @@
       "name_nl": "Wacker's Kaffee",
       "desc_nl": "Wacker's Kaffee in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "エスプレッソ: 2.50€"
+      "price_nl": "エスプレッソ: 2.50€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "f_39",
@@ -1718,7 +1849,11 @@
       "name_nl": "Lohrberg",
       "desc_nl": "Lohrberg Park in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入園無料"
+      "price_nl": "入園無料",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "f_40",
@@ -1762,7 +1897,10 @@
       "name_nl": "Nizza Gärten",
       "desc_nl": "Nizza Gardens in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "f_41",
@@ -1806,7 +1944,13 @@
       "name_nl": "Rebstockbad",
       "desc_nl": "Rebstockbad Water Park in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "プール: 12€"
+      "price_nl": "プール: 12€",
+      "categories": [
+        "Café",
+        "Kids",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "f_42",
@@ -1850,7 +1994,11 @@
       "name_nl": "Experiminta ScienceCenter",
       "desc_nl": "Experiminta ScienceCenter in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "f_43",
@@ -1894,7 +2042,10 @@
       "name_nl": "Bibelhaus Erlebnis Museum",
       "desc_nl": "Bibelhaus Experience Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 7€"
+      "price_nl": "入場料: 7€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_44",
@@ -1938,7 +2089,10 @@
       "name_nl": "DialogMuseum",
       "desc_nl": "DialogMuseum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "体験料: 17€"
+      "price_nl": "体験料: 17€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "f_45",
@@ -1982,7 +2136,10 @@
       "name_nl": "Historische Straßenbahn Frankfurt",
       "desc_nl": "Ebbelwei-Express Tram in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "乗車券: 8€"
+      "price_nl": "乗車券: 8€",
+      "categories": [
+        "Kids"
+      ]
     },
     {
       "id": "f_46",
@@ -2026,7 +2183,10 @@
       "name_nl": "Rüdesheim am Rhein & Drosselgasse",
       "desc_nl": "Rüdesheim Rhine Valley in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "街散策無料"
+      "price_nl": "街散策無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_47",
@@ -2070,7 +2230,10 @@
       "name_nl": "Burg Eltz",
       "desc_nl": "Eltz Castle in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 14€"
+      "price_nl": "入場料: 14€",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "f_48",
@@ -2114,7 +2277,11 @@
       "name_nl": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "desc_nl": "Mainz Cathedral & Museum in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "博物館: 5€"
+      "price_nl": "博物館: 5€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "f_49",
@@ -2158,7 +2325,12 @@
       "name_nl": "Wiesbaden: Kurhaus & Nerobergbahn",
       "desc_nl": "Wiesbaden Kurhaus & Nerobergbahn in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "水力鉄道: 5€"
+      "price_nl": "水力鉄道: 5€",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "f_50",
@@ -2202,7 +2374,10 @@
       "name_nl": "Kaiserpfalz Ingelheim",
       "desc_nl": "Ingelheim Imperial Palace in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "見学無料"
+      "price_nl": "見学無料",
+      "categories": [
+        "Landmark"
+      ]
     }
   ],
   "spotCount": 50

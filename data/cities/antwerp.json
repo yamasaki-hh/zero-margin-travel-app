@@ -43,7 +43,10 @@
     "name_nl": "Antwerpen-Centraal",
     "desc_nl": "Voted one of the most beautiful railway stations in the world, built in 1905 with monumental dome, sweeping marble staircases, and multi-level tracks.",
     "tip_nl": "📸 Stand on the elevated mezzanine level to capture the grand clock, stained glass, and multi-tiered glass train shed in one shot.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "ant_2",
@@ -89,7 +92,10 @@
     "name_nl": "Onze-Lieve-Vrouwekathedraal",
     "desc_nl": "Largest Gothic cathedral in Low Countries featuring a 123m spire (UNESCO) and Peter Paul Rubens masterworks including Elevation of the Cross.",
     "tip_nl": "🐕 In front of the cathedral entrance, look for the marble sculpture of Nello & Patrasche sleeping under a cobblestone blanket.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "ant_3",
@@ -135,7 +141,10 @@
     "name_nl": "Grote Markt & Brabo Fountain",
     "desc_nl": "Historic main square lined with 16th-century Renaissance guildhalls, City Hall, and bronze Brabo Fountain depicting the giant slayer legend.",
     "tip_nl": "📸 The best photo composition frames the statue of Brabo in the foreground with the ornate guildhalls in the background.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "ant_4",
@@ -181,7 +190,13 @@
     "name_nl": "MAS | Museum aan de Stroom",
     "desc_nl": "60-meter red-sandstone and curved-glass tower in Eilandje docks exploring Antwerp's history as a world port with a free 10th-floor roof panorama.",
     "tip_nl": "🌇 You do not need a museum ticket to ride the escalators up the glass boulevard to the 10th-floor rooftop panorama terrace.",
-    "price_nl": "Roof Free / Galleries: €12.00"
+    "price_nl": "Roof Free / Galleries: €12.00",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Museum",
+      "Night"
+    ]
   },
   {
     "id": "ant_5",
@@ -227,7 +242,11 @@
     "name_nl": "Rubenshuis",
     "desc_nl": "17th-century Italian-inspired palazzo and workshop where Peter Paul Rubens lived, painted, and hosted international dignitaries.",
     "tip_nl": "🌿 Stroll through the newly restored Renaissance courtyard gardens and visitor center; advance online booking recommended.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_6",
@@ -273,7 +292,10 @@
     "name_nl": "Het Steen",
     "desc_nl": "13th-century medieval fortress standing on Scheldt river—Antwerp's oldest building, housing The Antwerp Story attraction and roof deck.",
     "tip_nl": "🚶 Climb the outdoor ramp to the free rooftop terrace; greet the quirky bronze statue of the giant Lange Wapper outside.",
-    "price_nl": "Building/Roof Free / Experience: €7.00"
+    "price_nl": "Building/Roof Free / Experience: €7.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "ant_7",
@@ -319,7 +341,11 @@
     "name_nl": "Museum Plantin-Moretus",
     "desc_nl": "World's only museum with UNESCO World Heritage status. Intact 16th-century printing press house with original lead typefaces.",
     "tip_nl": "📖 The historical library and peaceful central courtyard garden feel frozen in time; check for live Historic printing demonstrations.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "ant_8",
@@ -365,7 +391,11 @@
     "name_nl": "KMSKA",
     "desc_nl": "Monumental fine arts palace housing unmatched collection of Flemish masters from Van Eyck and Rubens to James Ensor in modern white galleries.",
     "tip_nl": "🎨 Holds the largest James Ensor collection in the world; take time to explore the hidden Color Rooms inserted inside the historic shell.",
-    "price_nl": "Entry: €20.00"
+    "price_nl": "Entry: €20.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "ant_9",
@@ -411,7 +441,11 @@
     "name_nl": "Sint-Carolus Borromeuskerk",
     "desc_nl": "Quintessential Rubens church on Hendrik Conscienceplein built by Jesuits in 17th century with operational mechanical altar system.",
     "tip_nl": "⛪ Check if the historic pulley mechanism is being demonstrated to change the massive altarpiece painting on select tours.",
-    "price_nl": "Church Free / Lace Room: €5.00"
+    "price_nl": "Church Free / Lace Room: €5.00",
+    "categories": [
+      "Kids",
+      "Landmark"
+    ]
   },
   {
     "id": "ant_10",
@@ -457,7 +491,11 @@
     "name_nl": "Havenhuis",
     "desc_nl": "Architectural landmark designed by Zaha Hadid—a restored historic Hansa fire station topped by a floating diamond-faceted glass bow.",
     "tip_nl": "📸 Photograph the building from across the water basin to capture the faceted glass surface reflecting clouds like a polished diamond.",
-    "price_nl": "Exterior Free"
+    "price_nl": "Exterior Free",
+    "categories": [
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_11",
@@ -503,7 +541,10 @@
     "name_nl": "Diamantkwartier",
     "desc_nl": "Global nerve center of international diamond trade adjacent to Central Station, where over 80% of world's rough diamonds pass through.",
     "tip_nl": "💎 Walk along the pedestrian-only Hoveniersstraat to see the trade environment; visit DIVA Museum for historical jewelry.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Shopping"
+    ]
   },
   {
     "id": "ant_12",
@@ -549,7 +590,13 @@
     "name_nl": "DIVA Museum",
     "desc_nl": "Located near Grote Markt, exploring Antwerp's 570-year history as diamond capital through sparkling jewelry, silver, and trading vaults.",
     "tip_nl": "🔍 Includes interactive multimedia stations explaining diamond grading (the 4 Cs) and hands-on gemstone-setting ateliers.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark",
+      "Museum",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_13",
@@ -595,7 +642,10 @@
     "name_nl": "Sint-Annatunnel",
     "desc_nl": "572-meter subterranean tunnel built in 1933 beneath Scheldt river, famous for its authentic preserved wooden escalators.",
     "tip_nl": "🚲 Ride the classic 1930s clattering wooden escalators 31m down, walk beneath the riverbed, and emerge for skyline views.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "ant_14",
@@ -641,7 +691,12 @@
     "name_nl": "Linkeroever",
     "desc_nl": "Open green riverside parkland directly across Scheldt river from old town, offering premier panoramic skyline views.",
     "tip_nl": "📸 The finest spot to watch the sun set over Antwerp; the entire medieval skyline glows in orange across the river.",
-    "price_nl": "Free (Dinner ~€20-35)"
+    "price_nl": "Free (Dinner ~€20-35)",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_15",
@@ -687,7 +742,12 @@
     "name_nl": "ZOO Antwerpen",
     "desc_nl": "Founded in 1843 directly next to Central Station, one of the oldest and best-preserved 19th-century zoological gardens in the world.",
     "tip_nl": "🦒 Ideal family destination with virtually zero transit hassle. Don't miss the 19th-century Egyptian Temple enclosure.",
-    "price_nl": "Entry: Adult €32.50 / Child €26.50"
+    "price_nl": "Entry: Adult €32.50 / Child €26.50",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_16",
@@ -733,7 +793,10 @@
     "name_nl": "Red Star Line Museum",
     "desc_nl": "Located in historic brick sheds along Rijnkaai where over 2 million European emigrants boarded ocean liners to New York.",
     "tip_nl": "🚢 Personal audio stories and passenger inspection halls offer a deeply moving experience; climb the observation tower.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "ant_17",
@@ -779,7 +842,12 @@
     "name_nl": "MoMu - ModeMuseum Antwerpen",
     "desc_nl": "Located in fashion district Nationalestraat, celebrating Antwerp's global status as an avant-garde fashion capital (Antwerp Six).",
     "tip_nl": "👗 Focuses on dynamic high-concept temporary exhibitions showcasing cutting-edge international fashion design.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark",
+      "Museum",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_18",
@@ -825,7 +893,12 @@
     "name_nl": "Meir & Stadsfeestzaal",
     "desc_nl": "Antwerp's premier pedestrian shopping avenue lined with 18th-century palaces, anchored by Stadsfeestzaal gold-leaf glass-domed hall.",
     "tip_nl": "🛍️ Walk inside Shopping Stadsfeestzaal just to admire the gold leafing; grab a fresh praline from The Chocolate Line.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Landmark",
+      "Scenery",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_19",
@@ -871,7 +944,13 @@
     "name_nl": "The Chocolate Line",
     "desc_nl": "Housed inside former 18th-century Royal Palace on the Meir. Master chocolatier Dominique Persoone crafts experimental pralines.",
     "tip_nl": "🍫 Walk through to the palace's historic royal kitchen in the back to watch chocolatiers temper chocolates in real time.",
-    "price_nl": "Free Entry (Chocolate ~€8-25)"
+    "price_nl": "Free Entry (Chocolate ~€8-25)",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_20",
@@ -917,7 +996,10 @@
     "name_nl": "Museum Mayer van den Bergh",
     "desc_nl": "Neo-Renaissance townhouse housing private collection of 19th-century connoisseur, featuring Bruegel's Dulle Griet (Mad Meg).",
     "tip_nl": "🖼️ Stand close to Dulle Griet to study Bruegel's surreal monster details, which directly inspired Bosch and Salvador Dalí.",
-    "price_nl": "Entry: €10.00"
+    "price_nl": "Entry: €10.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "ant_21",
@@ -963,7 +1045,10 @@
     "name_nl": "Vlaeykensgang",
     "desc_nl": "Hidden medieval cobblestone alleyway dating from 1591 tucked between Hoogstraat and Oude Koornmarkt with ivy brick walls.",
     "tip_nl": "🤫 Enter through the discreet wooden doorway at Oude Koornmarkt 16; it instantly cuts out city noise and transports to 16th century.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "ant_22",
@@ -1009,7 +1094,11 @@
     "name_nl": "Sint-Pauluskerk",
     "desc_nl": "16th-century Dominican church in historic sailors' quarter featuring an outdoor stone Calvary Garden with 60 life-sized statues.",
     "tip_nl": "🗿 Walk into the secluded courtyard garden to see the theatrical rock-and-statue reconstruction of Mount Calvary.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_23",
@@ -1055,7 +1144,13 @@
     "name_nl": "Het Zuid",
     "desc_nl": "Trendy upscale Parisian-style boulevard district centered around KMSKA, wide avenues, contemporary art galleries, and bistros.",
     "tip_nl": "🍷 Spend an evening hopping between the lively outdoor terraces around Leopold de Waelplaats for Belgian craft beers.",
-    "price_nl": "Free (Food ~€15-45)"
+    "price_nl": "Free (Food ~€15-45)",
+    "categories": [
+      "Café",
+      "Museum",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_24",
@@ -1101,7 +1196,11 @@
     "name_nl": "Eilandje",
     "desc_nl": "Antwerp's oldest dockland neighborhood surrounding MAS, transformed into a trendy waterfront quarter of yachts, coffee warehouses, and decks.",
     "tip_nl": "🚶 Stroll along the quays at sunset to see modern loft architecture contrasting with historic floating dry docks.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_25",
@@ -1147,7 +1246,10 @@
     "name_nl": "Begijnhof Antwerpen",
     "desc_nl": "Secluded 16th-century walled enclave hidden in university quarter featuring brick cottages, cobblestone paths, and overgrown orchard.",
     "tip_nl": "🤫 One of the quietest spots in central Antwerp. Enter quietly through the arched gate; absolute silence must be observed.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "ant_26",
@@ -1193,7 +1295,13 @@
     "name_nl": "Hendrik Conscienceplein",
     "desc_nl": "Charming cobblestone square framed by baroque facade of Sint-Carolus Borromeuskerk and Heritage Library, resembling an Italian piazza.",
     "tip_nl": "☕ Sit at the outdoor tables of Café Quinten Matsijs or square-side cafes for afternoon reading in an Italian-style piazza.",
-    "price_nl": "Free (Cafe ~€4-12)"
+    "price_nl": "Free (Cafe ~€4-12)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_27",
@@ -1239,7 +1347,12 @@
     "name_nl": "Middelheimmuseum",
     "desc_nl": "30-hectare historic park in southern Antwerp showcasing an open-air collection of over 400 modern sculptures by Rodin, Moore, and Ai Weiwei.",
     "tip_nl": "🌿 Admission is completely free year-round. Rent a public city bike to tour the forested paths and manicured lawns.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_28",
@@ -1285,7 +1398,12 @@
     "name_nl": "Stadsbrouwerij De Koninck",
     "desc_nl": "Historic home of Antwerp's iconic amber ale 'Bolleke', featuring high-tech interactive brewery tour with suspension bridges over kettles.",
     "tip_nl": "🍺 The self-guided tour ends in the lively bar with two fresh draft tastings served in the classic spherical bolleke glass.",
-    "price_nl": "Entry: €16.00 (Tour & 2 Drinks)"
+    "price_nl": "Entry: €16.00 (Tour & 2 Drinks)",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Night"
+    ]
   },
   {
     "id": "ant_29",
@@ -1331,7 +1449,10 @@
     "name_nl": "Zurenborg & Cogels-Osylei",
     "desc_nl": "Residential neighborhood celebrated for Europe's most dramatic concentration of Belle Époque and Art Nouveau townhouses along Cogels-Osylei.",
     "tip_nl": "📸 Walk down Cogels-Osylei to marvel at extravagant turrets and mosaics, then end at Dageraadplaats square.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "ant_30",
@@ -1377,7 +1498,12 @@
     "name_nl": "Dageraadplaats",
     "desc_nl": "Social heart of Zurenborg neighborhood centered around a playground covered by a starry LED canopy and multicultural bistros.",
     "tip_nl": "🍕 Grab an outdoor table for wood-fired pizza or Belgian craft beers while neighborhood children play in the central square.",
-    "price_nl": "Free (Food ~€10-25)"
+    "price_nl": "Free (Food ~€10-25)",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark"
+    ]
   },
   {
     "id": "ant_31",
@@ -1423,7 +1549,11 @@
     "name_nl": "Fotomuseum Antwerpen / FOMU",
     "desc_nl": "Located in Zuid district, housing rotating exhibitions of acclaimed Belgian and international photographers and historic camera equipment.",
     "tip_nl": "📷 Pair your visit with a stop at the contemporary art museum (M HKA) nearby; FOMU's ground-floor bookshop is top-notch.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "ant_32",
@@ -1469,7 +1599,10 @@
     "name_nl": "M HKA",
     "desc_nl": "Converted former grain silo and warehouse in Zuid district showcasing international contemporary art and experimental video installations.",
     "tip_nl": "🎨 Head up to the M HKA Rooftop Terrace for drinks with sweeping views across the southern docks and the Scheldt river.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Museum"
+    ]
   },
   {
     "id": "ant_33",
@@ -1515,7 +1648,12 @@
     "name_nl": "Stadspark Antwerpen",
     "desc_nl": "14-hectare triangular park located in center of Antwerp on site of 16th-century Spanish fort, featuring a central lake and playgrounds.",
     "tip_nl": "🚶 A great green walking route connecting the Diamond District and Central Station to the shopping boulevards.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_34",
@@ -1561,7 +1699,13 @@
     "name_nl": "Park Spoor Noord",
     "desc_nl": "24-hectare modern urban landscape park built on a former railway yard featuring summer water wading pools, skateparks, and freight hall cafe.",
     "tip_nl": "☀️ During warm summer days, the shallow water fountains become the city's favorite urban water playground for families.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_35",
@@ -1607,7 +1751,10 @@
     "name_nl": "Boerentoren",
     "desc_nl": "Built in 1932 in Art Deco style on the Eiermarkt standing 96m high, recognized as Europe's first true residential skyscraper.",
     "tip_nl": "📸 Capture the classic street-level perspective looking straight up its dramatic Art Deco stepped lines from Schoenmarkt.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "ant_36",
@@ -1653,7 +1800,11 @@
     "name_nl": "Kloosterstraat",
     "desc_nl": "Antique, vintage, and concept interior design street of Antwerp running from old town to Zuid, packed with retro furniture and cafes.",
     "tip_nl": "🛍️ All shops on Kloosterstraat are open on Sundays, making Sunday afternoon the liveliest time to browse retro collectibles.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_37",
@@ -1699,7 +1850,14 @@
     "name_nl": "Vrijdagmarkt",
     "desc_nl": "Charming cobblestone square off Nationalestraat where an open-air public auction sells second-hand furniture every Friday morning since 16th century.",
     "tip_nl": "🔨 Stand by the auctioneer's podium on Friday mornings from 9:00 AM to watch locals bid on vintage furniture.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Café",
+      "Landmark",
+      "Museum",
+      "Night",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_38",
@@ -1745,7 +1903,11 @@
     "name_nl": "Paleis op de Meir",
     "desc_nl": "18th-century Rococo city palace on the Meir historically furnished by Napoleon Bonaparte and King William I of the Netherlands.",
     "tip_nl": "👑 The historic state rooms host temporary exhibitions; browse The Chocolate Line shop located inside the ground floor.",
-    "price_nl": "Exhibitions Var / Shop Free"
+    "price_nl": "Exhibitions Var / Shop Free",
+    "categories": [
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_39",
@@ -1791,7 +1953,10 @@
     "name_nl": "Sint-Jacobskerk",
     "desc_nl": "15th-century Brabantine Gothic church where Peter Paul Rubens is buried, housing his burial chapel with masterpiece Madonna with Saints.",
     "tip_nl": "⛪ Step into the eastern ambulatory to view Rubens' burial chapel and the marble tomb of his family.",
-    "price_nl": "Entry: €5.00"
+    "price_nl": "Entry: €5.00",
+    "categories": [
+      "Landmark"
+    ]
   },
   {
     "id": "ant_40",
@@ -1837,7 +2002,12 @@
     "name_nl": "Chocolate Nation",
     "desc_nl": "Largest Belgian chocolate museum in the world opposite Central Station, taking visitors on a 60-minute sensory journey with tasting pods.",
     "tip_nl": "🍫 Included with your audio-guided ticket is a smart tasting spoon allowing you to sample over 10 liquid chocolate varieties.",
-    "price_nl": "Entry: €19.90 (Tastings Incl.)"
+    "price_nl": "Entry: €19.90 (Tastings Incl.)",
+    "categories": [
+      "Kids",
+      "Museum",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_41",
@@ -1883,7 +2053,11 @@
     "name_nl": "Historisch Lier",
     "desc_nl": "15 minutes southeast of Antwerp by train. Features Zimmertoren astronomical clock tower, UNESCO Beguinage, and Liers vlaaike tarts.",
     "tip_nl": "🕰️ Watch the automated figures on the Zimmer Tower strike at 12:00 noon, then explore the astronomical studio.",
-    "price_nl": "Walk Free / Tower Entry €6.00"
+    "price_nl": "Walk Free / Tower Entry €6.00",
+    "categories": [
+      "Landmark",
+      "Shopping"
+    ]
   },
   {
     "id": "ant_42",
@@ -1929,7 +2103,11 @@
     "name_nl": "Fort van Breendonk",
     "desc_nl": "Preserved 20th-century fortress used as a Nazi transit and concentration camp during WWII—one of Europe's best preserved camp memorials.",
     "tip_nl": "🎧 Audio guides lead you through cold stone barracks, solitary confinement cells, and interrogation rooms.",
-    "price_nl": "Entry: €12.00"
+    "price_nl": "Entry: €12.00",
+    "categories": [
+      "Landmark",
+      "Museum"
+    ]
   },
   {
     "id": "ant_43",
@@ -1975,7 +2153,10 @@
     "name_nl": "Kalmthoutse Heide",
     "desc_nl": "Sprawling cross-border nature reserve north of Antwerp along Dutch border featuring purple heather moors, sand dunes, and pine woods.",
     "tip_nl": "🥾 Visit in late summer (August-September) when heather blooms in a sea of vibrant purple across the dunes.",
-    "price_nl": "Free Walk"
+    "price_nl": "Free Walk",
+    "categories": [
+      "Scenery"
+    ]
   },
   {
     "id": "ant_44",
@@ -2021,7 +2202,12 @@
     "name_nl": "Rivierenhof",
     "desc_nl": "130-hectare provincial estate park featuring 16th-century Rivierenhof Castle, open-air amphitheatre, rose gardens, and canals.",
     "tip_nl": "🚲 Take Tram 10 directly into the park; enjoy a drink on the castle terrace overlooking the moat.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Kids",
+      "Landmark",
+      "Scenery"
+    ]
   },
   {
     "id": "ant_45",
@@ -2067,6 +2253,13 @@
     "name_nl": "Kasteel van Brasschaat",
     "desc_nl": "Upscale woodland municipality north of Antwerp known for its 19th-century neoclassical castle, public park, deer enclosure, and lake.",
     "tip_nl": "☕ A favorite weekend retreat for Antwerp residents; relax at the castle restaurant terrace after walking around the swan lake.",
-    "price_nl": "Free Entry"
+    "price_nl": "Free Entry",
+    "categories": [
+      "Café",
+      "Kids",
+      "Landmark",
+      "Night",
+      "Scenery"
+    ]
   }
 ]

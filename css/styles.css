@@ -819,8 +819,74 @@ footer {
   font-size: 0.8rem;
   font-weight: 800;
   color: var(--primary-forest, #047857);
-  min-width: 100px;
+  min-width: 130px;
   font-family: var(--font-sans);
+}
+
+/* Modern Horizontal Slide Toggle Switch UI */
+.switch-toggle {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  user-select: none;
+  background: #FFF;
+  border: 1.5px solid var(--border-ink, #292524);
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem 0.25rem 0.35rem;
+  box-shadow: 2px 2px 0px var(--border-ink, #292524);
+  transition: all 0.2s ease;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.switch-toggle:hover {
+  transform: translateY(-1px);
+  background: #FEF3C7;
+}
+
+.switch-toggle.active {
+  background: #ECFDF5;
+  border-color: #047857;
+}
+
+.switch-toggle input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+.switch-track {
+  position: relative;
+  width: 36px;
+  height: 20px;
+  background-color: #CBD5E1;
+  border-radius: 20px;
+  transition: background-color 0.25s ease;
+  border: 1px solid var(--border-ink, #292524);
+  flex-shrink: 0;
+}
+
+.switch-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  background-color: #FFF;
+  border-radius: 50%;
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+.switch-toggle input:checked + .switch-track {
+  background-color: #047857;
+}
+
+.switch-toggle input:checked + .switch-track .switch-thumb {
+  transform: translateX(16px);
 }
 
 .filter-chip {

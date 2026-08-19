@@ -49,7 +49,10 @@
       "name_nl": "Strasbourg Cathedral",
       "desc_nl": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
       "tip_nl": "Be outside the cathedral at 12:30 PM to watch the 16th-century Astronomical Clock show. Climb the 332 steps to the platform for clear views over the Black Forest.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "st_2",
@@ -98,7 +101,12 @@
       "name_nl": "Barrage Vauban",
       "desc_nl": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
       "tip_nl": "Take the Batorama glass-topped boat tour departing right next to Palais Rohan for a 360-degree view through the locks and around the UNESCO island.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "st_3",
@@ -147,7 +155,10 @@
       "name_nl": "Ponts Couverts",
       "desc_nl": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
       "tip_nl": "Walk up to the Vauban Dam (Barrage Vauban) roof terrace for THE classic postcard photo of the 3 Covered Bridges and cathedral spire.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "st_4",
@@ -196,7 +207,13 @@
       "name_nl": "Palais Rohan",
       "desc_nl": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
       "tip_nl": "🎟️ A combined ticket gives access to all 3 museums inside (Archaeology, Decorative Arts, Fine Arts). The best exterior photos are taken from a Batorama boat tour on the Ill River.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Museum",
+        "Night"
+      ]
     },
     {
       "id": "st_5",
@@ -245,7 +262,10 @@
       "name_nl": "Maison Kammerzell",
       "desc_nl": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
       "tip_nl": "Housed in an 18th-century episcopal palace designed by Robert de Cotte. Admission includes access to 3 museums (Fine Arts, Archeology, Decorative Arts).",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "st_6",
@@ -294,7 +314,11 @@
       "name_nl": "Place Kléber",
       "desc_nl": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
       "tip_nl": "Visit the Christmas Capital of Europe! Main giant 30-meter Christmas tree stands at Place Kleber from late November through December.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "st_7",
@@ -343,7 +367,10 @@
       "name_nl": "Place Gutenberg",
       "desc_nl": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
       "tip_nl": "Take a free guided tour of the Hemicycle debating chamber when the European Parliament is not in session (bring valid passport/ID).",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "st_8",
@@ -392,7 +419,10 @@
       "name_nl": "European Parliament Strasbourg",
       "desc_nl": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
       "tip_nl": "Try traditional Choucroute Garnie (Alsatian sauerkraut with sausages and smoked pork) at Winstub Chez Yvonne or Maison des Tanneurs.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "st_9",
@@ -441,7 +471,12 @@
       "name_nl": "Palais du Rhin & Place de la République",
       "desc_nl": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
       "tip_nl": "The oldest building in Strasbourg (1306). Try their famous Tarte Flambée (Flammekueche) with crispy thin crust and smoked bacon.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "st_10",
@@ -490,7 +525,12 @@
       "name_nl": "Église Saint-Thomas",
       "desc_nl": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
       "tip_nl": "Mozart played the 1741 Silbermann organ here in 1778. Step inside for free to admire the magnificent baroque marble mausoleum of Marshal de Saxe.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "st_11",
@@ -539,7 +579,11 @@
       "name_nl": "Église Réformée Saint-Paul",
       "desc_nl": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
       "tip_nl": "Cross the Passerelle Mimram footbridge into Kehl, Germany—you can walk or bike into another country in just 5 minutes!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "st_12",
@@ -588,7 +632,10 @@
       "name_nl": "Château du Haut-Kœnigsbourg",
       "desc_nl": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
       "tip_nl": "Buy authentic gingerbread (Pain d'épices) molded into heart shapes and traditional Alsatian Kugelhopf cake baked in glazed earthenware pots.",
-      "price_nl": "Entry: €12"
+      "price_nl": "Entry: €12",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "st_13",
@@ -637,7 +684,10 @@
       "name_nl": "Mont Sainte-Odile Monastery",
       "desc_nl": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
       "tip_nl": "A spiritual sanctuary at 763m altitude offering panoramic views over the Rhine Plain to the Black Forest. Walk the mysterious Pagan Wall path.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "st_14",
@@ -686,7 +736,10 @@
       "name_nl": "Musée Alsacien",
       "desc_nl": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
       "tip_nl": "World-famous half-timbered wine village along the Alsace Wine Route (40 min from Strasbourg). Climb up to the 3 castle ruins above the vineyards.",
-      "price_nl": "Entry: €7.50"
+      "price_nl": "Entry: €7.50",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "st_15",
@@ -735,7 +788,11 @@
       "name_nl": "Musée de l'Œuvre Notre-Dame",
       "desc_nl": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
       "tip_nl": "Known as 'Little Venice' (La Petite Venise) with half-timbered pastel houses along the Lauch canal. Combined day trip easily done by 30-min train.",
-      "price_nl": "Free Grounds (Ticket: €7.50)"
+      "price_nl": "Free Grounds (Ticket: €7.50)",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "st_16",
@@ -784,7 +841,10 @@
       "name_nl": "Musée des Beaux-Arts de Strasbourg",
       "desc_nl": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
       "tip_nl": "See original medieval sculptures, stained glass, and gargoyles saved from the Strasbourg Cathedral during centuries of restoration.",
-      "price_nl": "Entry: €7.50"
+      "price_nl": "Entry: €7.50",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "st_17",
@@ -833,7 +893,10 @@
       "name_nl": "Musée des Arts Décoratifs",
       "desc_nl": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
       "tip_nl": "Walk through the covered sandstone galleries of this 17th-century dam designed by Vauban to flood the city defenses during sieges.",
-      "price_nl": "Entry: €7.50"
+      "price_nl": "Entry: €7.50",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "st_18",
@@ -882,7 +945,10 @@
       "name_nl": "MAMCS",
       "desc_nl": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
       "tip_nl": "Features the works of Strasbourgeois illustrator Tomi Ungerer (author of The Three Robbers) & 8,000 satiric drawings in a 19th-century villa.",
-      "price_nl": "Entry: €8"
+      "price_nl": "Entry: €8",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "st_19",
@@ -931,7 +997,10 @@
       "name_nl": "Musée Tomi Ungerer",
       "desc_nl": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
       "tip_nl": "Housed in a 14th-century butcher's guild house (Grande Boucherie) detailing Strasbourg's urban development from Roman times.",
-      "price_nl": "Entry: €7.50"
+      "price_nl": "Entry: €7.50",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "st_20",
@@ -980,7 +1049,10 @@
       "name_nl": "Musée Historique de la Ville de Strasbourg",
       "desc_nl": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
       "tip_nl": "Strasbourg's oldest park featuring a boat lake, Josephine Pavilion, and wild storks nesting atop trees and rooftops.",
-      "price_nl": "Entry: €7.50"
+      "price_nl": "Entry: €7.50",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "st_21",
@@ -1029,7 +1101,11 @@
       "name_nl": "Château Musée Vodou",
       "desc_nl": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
       "tip_nl": "Discover modern art masterpieces by Monet, Picasso, Kandinsky, and Braque in a transparent glass building on the Ill riverbank.",
-      "price_nl": "Entry: €14"
+      "price_nl": "Entry: €14",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "st_22",
@@ -1078,7 +1154,10 @@
       "name_nl": "Musée Lalique",
       "desc_nl": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
       "tip_nl": "Dedicated to Art Nouveau & Art Deco glassmaster René Lalique in Wingen-sur-Moder (located in northern Alsace pine forest).",
-      "price_nl": "Entry: €8"
+      "price_nl": "Entry: €8",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "st_23",
@@ -1127,7 +1206,12 @@
       "name_nl": "Cave Historique des Hospices de Strasbourg",
       "desc_nl": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
       "tip_nl": "Explore the late 19th-century German Imperial quarter built after 1871 featuring grand Prussian avenues and Palais du Rhin.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Shopping"
+      ]
     },
     {
       "id": "st_24",
@@ -1176,7 +1260,12 @@
       "name_nl": "Maison des Tanneurs",
       "desc_nl": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
       "tip_nl": " Dine on the covered wooden balcony over the canal inside this 1572 timber house—book weeks in advance for a canal-side table!",
-      "price_nl": "Mains: €22–€38"
+      "price_nl": "Mains: €22–€38",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "st_25",
@@ -1225,7 +1314,10 @@
       "name_nl": "Winstub Chez Yvonne",
       "desc_nl": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
       "tip_nl": "Historic 1873 winstub frequented by former French presidents. Try their Escargots, Wädele (pork knuckle), and Gewürztraminer wine.",
-      "price_nl": "Mains: €20–€35"
+      "price_nl": "Mains: €20–€35",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "st_26",
@@ -1274,7 +1366,11 @@
       "name_nl": "Winstub Le Tire-Bouchon",
       "desc_nl": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
       "tip_nl": "Stroll down the pedestrian Rue des Orfèvres near the Cathedral—famous for gourmet charcuteries, cheese shops, and chocolate boutiques.",
-      "price_nl": "Free Grounds (Ticket: €18)"
+      "price_nl": "Free Grounds (Ticket: €18)",
+      "categories": [
+        "Café",
+        "Landmark"
+      ]
     },
     {
       "id": "st_27",
@@ -1323,7 +1419,11 @@
       "name_nl": "Pâtisserie Christian",
       "desc_nl": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
       "tip_nl": "Discover 18th-century Alsatian rural life, painted furniture, ceramics, and costumes inside a timber courtyard mansion on the Ill river.",
-      "price_nl": "Pastry: €5–€8"
+      "price_nl": "Pastry: €5–€8",
+      "categories": [
+        "Café",
+        "Kids"
+      ]
     },
     {
       "id": "st_28",
@@ -1372,7 +1472,11 @@
       "name_nl": "Traditional Kugelhopf & Gingerbread Bakeries",
       "desc_nl": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
       "tip_nl": "Buy piping hot freshly baked pretzel (Bretzel) and Kugelhopf from local bakeries like Maison Alsacienne de Biscuiterie.",
-      "price_nl": "Free Plaza & Exterior (Inside: €3)"
+      "price_nl": "Free Plaza & Exterior (Inside: €3)",
+      "categories": [
+        "Café",
+        "Landmark"
+      ]
     },
     {
       "id": "st_29",
@@ -1421,7 +1525,10 @@
       "name_nl": "Brasserie Les Haras",
       "desc_nl": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
       "tip_nl": "Admire the intricate 15th-century carved wooden balcony facade of Maison Kammerzell from the outdoor cafe terrace on Place du Cathédrale.",
-      "price_nl": "Mains: €24–€42"
+      "price_nl": "Mains: €24–€42",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "st_30",
@@ -1470,7 +1577,10 @@
       "name_nl": "Route des Vins d'Alsace Wineries",
       "desc_nl": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
       "tip_nl": "Taste dry Alsatian Riesling and aromatic Gewürztraminer wines inside historic wine cellars dating back to 1395 beneath the hospital.",
-      "price_nl": "Tasting: €10–€25"
+      "price_nl": "Tasting: €10–€25",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "st_31",
@@ -1519,7 +1629,10 @@
       "name_nl": "La Petite France",
       "desc_nl": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
       "tip_nl": "Walk down this romantic cobblestone quay lined with half-timbered houses and willow trees along the Ill river.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "st_32",
@@ -1568,7 +1681,11 @@
       "name_nl": "La Grande Île",
       "desc_nl": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
       "tip_nl": "Cars are banned on most bridges entering the island. Explore the medieval cobblestone paths on foot or take the Batorama glass boat around the perimeter.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "st_33",
@@ -1617,7 +1734,10 @@
       "name_nl": "Quartier Neustadt",
       "desc_nl": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
       "tip_nl": "Features tropical palm greenhouses and a quiet rose garden established in 1619 next to the University of Strasbourg.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "st_34",
@@ -1666,7 +1786,11 @@
       "name_nl": "Quai des Bateliers & Berges de l'Ill",
       "desc_nl": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
       "tip_nl": "Buy fresh local Munster cheese, Alsatian pretzels, and seasonal tartes Flambées from local producers inside the covered glass hall.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Scenery"
+      ]
     },
     {
       "id": "st_35",
@@ -1715,7 +1839,11 @@
       "name_nl": "Lycée des Pontonniers & Canal View",
       "desc_nl": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
       "tip_nl": "The largest square in the Petite France district lined with outdoor cafes, street musicians, and floral timber houses.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "st_36",
@@ -1764,7 +1892,13 @@
       "name_nl": "Quartier de la Krutenau",
       "desc_nl": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
       "tip_nl": "View the impressive modern architecture of the Council of Europe and the European Court of Human Rights from the canal banks.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "st_37",
@@ -1813,7 +1947,11 @@
       "name_nl": "Batorama Boat Tour",
       "desc_nl": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
       "tip_nl": "Modern shopping mall built inside historical 19th-century military arsenal buildings near Place de l'Étoile.",
-      "price_nl": "Ticket: €15"
+      "price_nl": "Ticket: €15",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "st_38",
@@ -1862,7 +2000,11 @@
       "name_nl": "Obernai Medieval Town",
       "desc_nl": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
       "tip_nl": "Walk past the 14th-century Gothic tower (Tour du Bourreau) on Rue du Fossé-des-Tanneurs, part of Strasbourg's medieval wall defenses.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "st_39",
@@ -1911,7 +2053,10 @@
       "name_nl": "Riquewihr & Kaysersberg Medieval Villages",
       "desc_nl": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
       "tip_nl": "Discover 18th-century noble salons, crystal chandeliers, and French decorative art inside the former residence of Count de Gayot.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "st_40",
@@ -1960,7 +2105,11 @@
       "name_nl": "Parc de l'Orangerie & Stork Sanctuary",
       "desc_nl": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
       "tip_nl": "Buy fresh produce, Alsatian cheeses, and local wines from regional farmers every Wednesday and Friday morning.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "st_41",
@@ -2009,7 +2158,11 @@
       "name_nl": "Le Vaisseau Science Center",
       "desc_nl": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
       "tip_nl": "View the massive red sandstone neo-Gothic church built during the German Imperial period (1897) at the tip of the Ill river junction.",
-      "price_nl": "Entry: €12"
+      "price_nl": "Entry: €12",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "st_42",
@@ -2058,7 +2211,12 @@
       "name_nl": "Parc de la Citadelle",
       "desc_nl": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
       "tip_nl": "Housed in a modern glass building by architect Adrien Fainsilber displaying contemporary French and international sculpture installations.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "st_43",
@@ -2107,7 +2265,11 @@
       "name_nl": "Jardin des Deux Rives",
       "desc_nl": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
       "tip_nl": "Walk across this scenic 19th-century iron bridge linking the Historic Island with the German Imperial Quarter (Neustadt).",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "st_44",
@@ -2156,7 +2318,11 @@
       "name_nl": "Écomusée d'Alsace",
       "desc_nl": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
       "tip_nl": "Quiet pedestrian cobblestone street behind the Cathedral lined with artisan workshops, antiquarian bookstores, and tea salons.",
-      "price_nl": "Entry: €16.50"
+      "price_nl": "Entry: €16.50",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "st_45",
@@ -2205,7 +2371,11 @@
       "name_nl": "Europa-Park",
       "desc_nl": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
       "tip_nl": "Housed in an 18th-century townhouse exploring Alsatian Jewish heritage, ritual objects, and historical documents since medieval times.",
-      "price_nl": "Free Gardens (Interior: €61.50)"
+      "price_nl": "Free Gardens (Interior: €61.50)",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     }
   ]
 }

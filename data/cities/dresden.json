@@ -47,7 +47,12 @@
       "name_nl": "Frauenkirche Dresden",
       "desc_nl": "Baroque Protestant masterpiece designed by George Bähr in the 18th century, famous for its massive sandstone dome known as the 'Stone Bell', meticulously reconstructed following the 1945 destruction.",
       "tip_nl": "🎟️ General entry to the main nave and crypt is free during open visiting hours (Offene Kirche). To ascend the 67-meter dome viewing platform via Entrance G, buy a ticket (€10) to enjoy panoramic vistas of the Elbe.",
-      "price_nl": "Nave Free / Dome Ascent €10"
+      "price_nl": "Nave Free / Dome Ascent €10",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "dr_2",
@@ -93,7 +98,13 @@
       "name_nl": "Dresdner Zwinger",
       "desc_nl": "High-Baroque palatial complex and courtyards commissioned by Augustus the Strong and designed by Matthäus Daniel Pöppelmann with sculptures by Balthasar Permoser, featuring the ornate Crown Gate.",
       "tip_nl": "⛲ Walking across the sprawling courtyard gardens and up onto the rooftop gallery terraces is completely free. Head to the western corner to discover the secluded cascades of the Nymphenbad (Nymphs' Bath).",
-      "price_nl": "Courtyard & Terraces Free (Museums separate)"
+      "price_nl": "Courtyard & Terraces Free (Museums separate)",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_3",
@@ -139,7 +150,11 @@
       "name_nl": "Gemäldegalerie Alte Meister",
       "desc_nl": "World-class art gallery in the Semper Wing of the Zwinger, exhibiting over 700 European masterpieces from the 15th to 18th centuries including Raphael's 'Sistine Madonna' and works by Vermeer and Rembrandt.",
       "tip_nl": "🖼️ The €14 ticket also covers the Dresden Sculpture Collection up to 1800 in the same building. Arrive right at morning opening to admire Raphael's iconic cherubs before tour groups arrive.",
-      "price_nl": "Regular €14 (under 17 free)"
+      "price_nl": "Regular €14 (under 17 free)",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "dr_4",
@@ -185,7 +200,11 @@
       "name_nl": "Mathematisch-Physikalischer Salon",
       "desc_nl": "One of the world's oldest science museums founded in 1728 inside the Zwinger, presenting historical astronomical clocks, celestial and terrestrial globes, burning mirrors, and early calculating devices.",
       "tip_nl": "🧭 Included in the Zwinger combined ticket (€14). Look for the 13th-century Islamic celestial globe and check the schedule for live mechanical clockwork demonstrations.",
-      "price_nl": "Included in Zwinger Ticket (€14)"
+      "price_nl": "Included in Zwinger Ticket (€14)",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "dr_5",
@@ -229,7 +248,11 @@
       "name_nl": "Dresdner Porzellansammlung",
       "desc_nl": "Celebrated ceramics collection in the Zwinger showcasing over 20,000 treasures of early Meissen porcelain alongside Chinese Ming and Qing dynasties and Japanese Kakiemon ware.",
       "tip_nl": "🏺 The modern gallery design by architect Peter Marino uses dramatic curved displays. Look closely at the life-sized porcelain animal menagerie and the monumental porcelain bouquet.",
-      "price_nl": "Included in Zwinger Ticket (€14)"
+      "price_nl": "Included in Zwinger Ticket (€14)",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "dr_6",
@@ -275,7 +298,12 @@
       "name_nl": "Residenzschloss Dresden",
       "desc_nl": "Imposing Renaissance and Baroque royal residence of the Electors and Kings of Saxony from the Wettin dynasty, featuring reconstructed staterooms and a striking glass-domed inner courtyard.",
       "tip_nl": "🏰 Climb the 100-meter Hausmannsturm tower accessible through the castle interior for panoramic rooftop views. Purchase the combined palace ticket (€14) to access most collections.",
-      "price_nl": "Palace Ticket €14 (Tower included in season)"
+      "price_nl": "Palace Ticket €14 (Tower included in season)",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "dr_7",
@@ -321,7 +349,12 @@
       "name_nl": "Grünes Gewölbe",
       "desc_nl": "Legendary treasure vault museum founded in 1723 by Augustus the Strong, housing the 41-carat Dresden Green Diamond, Dinglinger's gold-and-enamel works, and baroque jewel-encrusted art.",
       "tip_nl": "💎 The Historic Green Vault (Historisches Grünes Gewölbe) requires a separate timed-entry reservation booked weeks ahead. The New Green Vault (Neues Grünes Gewölbe) is included in the regular Palace ticket.",
-      "price_nl": "Historic Vault €14-16 (timed) / New Vault in Castle ticket"
+      "price_nl": "Historic Vault €14-16 (timed) / New Vault in Castle ticket",
+      "categories": [
+        "Café",
+        "Museum",
+        "Night"
+      ]
     },
     {
       "id": "dr_8",
@@ -365,7 +398,11 @@
       "name_nl": "Türckische Cammer & Rüstkammer",
       "desc_nl": "Magnificent collection of Ottoman oriental art and Saxon electoral ceremonial weapons located in the Royal Palace, containing ornate tournament armor, ceremonial swords, and historic tents.",
       "tip_nl": "🎪 Walk inside the atmospheric darkened hall of the Turkish Chamber to admire the monumental 20-meter-long three-pole Ottoman silk tent woven with gold and silver threads from the late 17th century.",
-      "price_nl": "Included in Castle Ticket (€14)"
+      "price_nl": "Included in Castle Ticket (€14)",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "dr_9",
@@ -411,7 +448,12 @@
       "name_nl": "Fürstenzug",
       "desc_nl": "Monumental 102-meter-long outdoor mural composed of roughly 23,000 Meissen porcelain tiles on Augustusstraße, depicting the 800-year dynastic procession of Saxon rulers from the Wettin family.",
       "tip_nl": "🎨 Composed of 23,000 Meissen porcelain tiles, this 102m mural miraculously survived the 1945 WWII Dresden firestorm almost undamaged because high-fired porcelain resists extreme heat!",
-      "price_nl": "Free Public Access"
+      "price_nl": "Free Public Access",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_10",
@@ -457,7 +499,10 @@
       "name_nl": "Semperoper Dresden",
       "desc_nl": "Renowned neo-Renaissance opera house on Theaterplatz designed by Gottfried Semper, celebrated for its world-class acoustics and historical premieres of operas by Richard Wagner and Richard Strauss.",
       "tip_nl": "🎭 If you don't have performance tickets, join the daily 45-minute guided interior architecture tour (~€13). Standing-room tickets (Stehplätze) are often available at the box office one hour prior to showtime.",
-      "price_nl": "Guided Tour ~€13 (Performance tickets vary)"
+      "price_nl": "Guided Tour ~€13 (Performance tickets vary)",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "dr_11",
@@ -503,7 +548,12 @@
       "name_nl": "Katholische Hofkirche",
       "desc_nl": "Grand late-Baroque Catholic cathedral on the Elbe riverfront designed by Gaetano Chiaveri, crowned with 78 sandstone statues of saints and housing the heart of Augustus the Strong in its royal crypt.",
       "tip_nl": "⛪ Entry is free; check the schedule for free weekly organ recitals played on the historic 1755 Silbermann organ, the last and greatest instrument built by organ-maker Gottfried Silbermann.",
-      "price_nl": "Free Admission"
+      "price_nl": "Free Admission",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "dr_12",
@@ -549,7 +599,11 @@
       "name_nl": "Brühlsche Terrasse",
       "desc_nl": "Historic elevated riverside promenade along the Elbe River nicknamed 'The Balcony of Europe' by Goethe, built atop the city's original 16th-century fortress bastions.",
       "tip_nl": "🚶 Walk up the grand staircase from Schloßplatz flanked by the four bronze statues representing the times of day. The hidden subterranean Dresden Fortress (Festung Xperience) entrance sits directly beneath.",
-      "price_nl": "Promenade Free (Underground fortress separate ~€12)"
+      "price_nl": "Promenade Free (Underground fortress separate ~€12)",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_13",
@@ -595,7 +649,13 @@
       "name_nl": "Dresdner Neumarkt",
       "desc_nl": "Central historic square surrounding the Frauenkirche, reconstructed after 1990 with faithful Baroque and Rococo gabled merchant townhouses with pastel facades.",
       "tip_nl": "🍰 Sit at one of the traditional cafe terraces around the perimeter to sample authentic Dresdner Eierschecke (three-layer egg custard cake) while taking in the pastel facades.",
-      "price_nl": "Free Public Square"
+      "price_nl": "Free Public Square",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_14",
@@ -639,7 +699,11 @@
       "name_nl": "Dresdner Altmarkt",
       "desc_nl": "Dresden's oldest market square dating back to the 13th century, famous host venue for Germany's oldest official Christmas market, the Dresdner Striezelmarkt (since 1434).",
       "tip_nl": "🎄 Visit during Advent to marvel at the 14-meter wooden Ore Mountain pyramid and buy authentic PGI-certified Dresdner Christstollen fruitcake direct from local bakers.",
-      "price_nl": "Free Public Access (Market stalls separate)"
+      "price_nl": "Free Public Access (Market stalls separate)",
+      "categories": [
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_15",
@@ -683,7 +747,12 @@
       "name_nl": "Kreuzkirche Dresden",
       "desc_nl": "Imposing 92-meter-tall Art Nouveau and Late Baroque hall church on Altmarkt, serving as the home venue of the world-famous 800-year-old Dresdner Kreuzchor boys' choir.",
       "tip_nl": "🎵 Attend Saturday vespers (Kreuzchorvesper) at 17:00 to hear the Kreuzchor boys' choir sing live; climb the 256-step tower for an unfiltered aerial photo of Altmarkt.",
-      "price_nl": "Nave Free / Tower Ascent €5"
+      "price_nl": "Nave Free / Tower Ascent €5",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "dr_16",
@@ -729,7 +798,11 @@
       "name_nl": "Dresdner Molkerei Gebrüder Pfund",
       "desc_nl": "Guinness World Record-certified 'Most Beautiful Milk Shop in the World', lavishly decorated in 1892 with hand-painted Neo-Renaissance Villeroy & Boch majolica porcelain tiles.",
       "tip_nl": "🥛 Photography inside is strictly prohibited to protect the historic tiles; order a chilled glass of fresh buttermilk (Buttermilch) or artisan Saxon cheese tasting at the counter.",
-      "price_nl": "Free Entry (Buttermilk ~€2 / Cheese plate ~€8)"
+      "price_nl": "Free Entry (Buttermilk ~€2 / Cheese plate ~€8)",
+      "categories": [
+        "Café",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_17",
@@ -775,7 +848,11 @@
       "name_nl": "Kunsthofpassage",
       "desc_nl": "Creative network of five artfully designed residential courtyards in Äußere Neustadt, celebrated for the 'Courtyard of Elements' with its musical drainpipe wall.",
       "tip_nl": "🌧️ Visit on a rainy day to hear water cascading through the blue facade's brass funnel pipes, then explore the artisan jewelry and indie craft workshops inside.",
-      "price_nl": "Free Access"
+      "price_nl": "Free Access",
+      "categories": [
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_18",
@@ -821,7 +898,12 @@
       "name_nl": "Äußere Neustadt",
       "desc_nl": "Vibrant bohemian quarter across the Elbe featuring preserved late 19th-century Gründerzeit architecture, street art murals, independent boutiques, vegan eateries, and lively nightlife.",
       "tip_nl": "🍺 Stroll down Görlitzer Straße and Alaunstraße in the evening for local craft beer pubs and international street food; hosts the colorful 'Bunte Republik Neustadt' street festival every June.",
-      "price_nl": "Free Public Access"
+      "price_nl": "Free Public Access",
+      "categories": [
+        "Café",
+        "Night",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_19",
@@ -867,7 +949,10 @@
       "name_nl": "Goldener Reiter",
       "desc_nl": "Famous 1736 gold-leaf gilded copper equestrian monument of Elector Augustus the Strong located at Neustädter Markt, depicting him as a Roman Caesar riding towards Poland.",
       "tip_nl": "📸 Walk across the Augustusbrücke bridge from the Old Town at dusk; the 24-karat gold leaf gilding catches the setting sun with brilliant reflections against the Hauptstraße tree avenue.",
-      "price_nl": "Free Public Access"
+      "price_nl": "Free Public Access",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "dr_20",
@@ -911,7 +996,13 @@
       "name_nl": "Großer Garten & Dresdner Parkeisenbahn",
       "desc_nl": "Sprawling 147-hectare Baroque park near the city center established in 1676, featuring a 5.6-km narrow-gauge miniature steam railway operated largely by local youth conductors.",
       "tip_nl": "🚂 Board the miniature steam train near Hauptallee station; children in authentic blue railway uniforms handle ticket punching and station signaling from April to October.",
-      "price_nl": "Park Free / Parkeisenbahn Train: €7 (Children €4)"
+      "price_nl": "Park Free / Parkeisenbahn Train: €7 (Children €4)",
+      "categories": [
+        "Café",
+        "Kids",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_21",
@@ -958,7 +1049,13 @@
       "name_nl": "Sommerpalais",
       "desc_nl": "Refined early Baroque pleasure palace built 1678–1683 by Johann Georg Starcke at the center of the Grand Garden, recognized as Saxony's earliest secular Baroque structure.",
       "tip_nl": "📸 Capture the reflection of the palace facade in the Palaisteich lake from the eastern shore; classical chamber music concerts are performed inside the central hall during summer.",
-      "price_nl": "Exterior Free (Exhibitions & Concerts separate)"
+      "price_nl": "Exterior Free (Exhibitions & Concerts separate)",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_22",
@@ -1005,7 +1102,11 @@
       "name_nl": "Zoo Dresden",
       "desc_nl": "Germany's fourth-oldest zoo opened in 1861 on the southern border of the Großer Garten, housing over 1,500 animals across 12 hectares including Asian elephants and red pandas.",
       "tip_nl": "🐘 Visit the tropical Professor Brandes House for indoor views of sloth monkey habitats during rain; kids love the expansive wooden climbing playground next to the zoo cafe.",
-      "price_nl": "Adults: €16 / Children (3–16): €9 / Family: €43"
+      "price_nl": "Adults: €16 / Children (3–16): €9 / Family: €43",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_23",
@@ -1049,7 +1150,10 @@
       "name_nl": "Botanischer Garten der TU Dresden",
       "desc_nl": "University-affiliated botanical garden founded in 1820 at the northwestern corner of the Großer Garten, featuring over 10,000 global plant species and three large tropical greenhouses.",
       "tip_nl": "🌵 Entry to both outdoor gardens and tropical greenhouses is completely free year-round; the Victoria tropical lily house provides a warm humid sanctuary on chilly days.",
-      "price_nl": "Free Entry (Gardens & Greenhouses)"
+      "price_nl": "Free Entry (Gardens & Greenhouses)",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "dr_24",
@@ -1095,7 +1199,11 @@
       "name_nl": "Deutsches Hygiene-Museum",
       "desc_nl": "Fascinating science and culture museum founded in 1912 in a Bauhaus-influenced 1930s building, world-renowned for its transparent human anatomical figures ('Gläserner Mensch') and human biology exhibits.",
       "tip_nl": "🧠 Visit the interactive Children's Museum (Kindermuseum) on the ground floor focused on exploring the five human senses; excellent English audio guides explain the human biology halls.",
-      "price_nl": "Adults: €10 / Reduced: €5 / Under 16 Free"
+      "price_nl": "Adults: €10 / Reduced: €5 / Under 16 Free",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "dr_25",
@@ -1141,7 +1249,10 @@
       "name_nl": "Militärhistorisches Museum der Bundeswehr",
       "desc_nl": "Germany's lead military museum housed in a 1877 neo-classical arsenal, dramatically transformed by architect Daniel Libeskind with a colossal steel wedge cutting through the historic building.",
       "tip_nl": "🏛️ Ascend to the 30-meter-high open-air viewing platform at the tip of Libeskind's steel wedge for a direct view pointing towards the 1945 Dresden bombing center; free entry every Monday 18:00–21:00.",
-      "price_nl": "Adults: €5 / Reduced: €3 / Free Mondays 18:00–21:00"
+      "price_nl": "Adults: €5 / Reduced: €3 / Free Mondays 18:00–21:00",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "dr_26",
@@ -1188,7 +1299,11 @@
       "name_nl": "Panometer Dresden",
       "desc_nl": "Cultural venue set inside a restored 1909 industrial gasometer, exhibiting Yadegar Asisi's monumental 360-degree hyper-realistic 27-meter-tall panoramas of Dresden's history.",
       "tip_nl": "🌌 Climb the central 15-meter viewing tower to experience light and sound simulations shifting between day and night cycles across the panoramic canvas.",
-      "price_nl": "Adults: €13 / Reduced: €11 / Children (6–16): €6"
+      "price_nl": "Adults: €13 / Reduced: €11 / Children (6–16): €6",
+      "categories": [
+        "Museum",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_27",
@@ -1234,7 +1349,10 @@
       "name_nl": "Albertinum",
       "desc_nl": "Renaissance Revival museum building on Brühl's Terrace housing the Galerie Neue Meister and Sculpture Collection, showcasing masterpieces from Romanticism (Caspar David Friedrich) to modern art (Gerhard Richter).",
       "tip_nl": "🎨 Don't miss the dedicated Caspar David Friedrich rooms containing iconic Romantic landscape masterpieces, as well as the contemporary Gerhard Richter archive rooms.",
-      "price_nl": "Adults: €12 / Reduced: €9.50 / Under 17 Free"
+      "price_nl": "Adults: €12 / Reduced: €9.50 / Under 17 Free",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "dr_28",
@@ -1280,7 +1398,11 @@
       "name_nl": "Verkehrsmuseum Dresden",
       "desc_nl": "Comprehensive transport museum housed in the historic Johanneum building at Neumarkt, showcasing centuries of mobility history across railway, maritime, road, and aviation exhibits.",
       "tip_nl": "🚂 Features Germany's oldest preserved steam locomotive 'Saxonia' (1838) and a huge 325-square-meter model railway layout; ideal hands-on interactive area for families with kids.",
-      "price_nl": "Adults: €11 / Reduced: €5 / Family: €22"
+      "price_nl": "Adults: €11 / Reduced: €5 / Family: €22",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "dr_29",
@@ -1326,7 +1448,10 @@
       "name_nl": "Gläserne Manufaktur",
       "desc_nl": "Futuristic glass automotive factory built by Volkswagen in 2001 adjacent to Großer Garten, where visitors can watch high-tech electric vehicle assembly through transparent walls.",
       "tip_nl": "🚗 Book a 75-minute guided factory walking tour in advance on the official website; test driving current VW electric vehicle models on site is available with a valid driver's license.",
-      "price_nl": "Guided Tour: €9 / Reduced: €6 / Family: €20"
+      "price_nl": "Guided Tour: €9 / Reduced: €6 / Family: €20",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "dr_30",
@@ -1372,7 +1497,11 @@
       "name_nl": "Sächsische Dampfschiffahrt",
       "desc_nl": "World's oldest and largest paddle-steamer fleet operating since 1836, offering historic Elbe river cruises past Dresden's skyline, river palaces, and sandstone cliffs.",
       "tip_nl": "⛴️ Board the 1.5-hour Dresden City Sightseeing Cruise (Stadtrundfahrt) from the Terrassenufer pier below Brühl's Terrace for views of the river palaces and famous bridges.",
-      "price_nl": "City Cruise: €22 / Castle Cruise to Pillnitz: €28"
+      "price_nl": "City Cruise: €22 / Castle Cruise to Pillnitz: €28",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_31",
@@ -1416,7 +1545,11 @@
       "name_nl": "Loschwitz & Blaues Wunder",
       "desc_nl": "Upscale hillside villa district known for 'Blaues Wunder' (Blue Wonder)—a 280-meter blue steel cantilever truss bridge engineered in 1893 without river piers.",
       "tip_nl": "🌉 Cross the bridge on foot for sunset photos over the Elbe river bend, then explore Körnerplatz square lined with historic cafes, bakeries, and craft boutiques.",
-      "price_nl": "Bridge & District Walk: Free"
+      "price_nl": "Bridge & District Walk: Free",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_32",
@@ -1460,7 +1593,10 @@
       "name_nl": "Standseilbahn Dresden & Schwebebahn Dresden",
       "desc_nl": "Two world-record historic hillside railways in Loschwitz: the 1895 Standseilbahn funicular and the 1901 Schwebebahn—the world's oldest suspended monorail designed by Eugen Langen.",
       "tip_nl": "🚟 Take the Schwebebahn up to the top station roof terrace for a panoramic view over the Elbe river valley and Blue Wonder bridge; a combined ticket covers both unique vintage rides.",
-      "price_nl": "Single Ride: €5 / Return Trip: €6.50"
+      "price_nl": "Single Ride: €5 / Return Trip: €6.50",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "dr_33",
@@ -1504,7 +1640,11 @@
       "name_nl": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg",
       "desc_nl": "Trio of 19th-century grand palaces perched on the terraced Elbe river slopes (Elbschchlösser), featuring Prussian Classical and Tudor Revival architecture with vineyard parklands.",
       "tip_nl": "🏰 Stroll the free-access terraced vineyard paths connecting all three castles; stop at Lingnerschloss beer garden for affordable draught beer with sweeping river valley views.",
-      "price_nl": "Park & Vineyard Trail: Free"
+      "price_nl": "Park & Vineyard Trail: Free",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_34",
@@ -1550,7 +1690,12 @@
       "name_nl": "Prager Straße",
       "desc_nl": "Dresden's primary modern pedestrian shopping boulevard connecting the Hauptbahnhof central station to Altmarkt, famed for post-war modernist architecture and water fountains.",
       "tip_nl": "🛍️ Great entry point for arrival by train; houses major retail malls (Centrum Galerie and Rundkino) along with street musicians and seasonal outdoor markets.",
-      "price_nl": "Boulevard Access: Free"
+      "price_nl": "Boulevard Access: Free",
+      "categories": [
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_35",
@@ -1594,7 +1739,12 @@
       "name_nl": "Altmarkt-Galerie Dresden",
       "desc_nl": "Vast indoor shopping center with over 200 stores and restaurants right on Altmarkt square, integrating historic facades with modern glass shopping arcades.",
       "tip_nl": "☕ Ideal refuge on rainy days for international shopping, Meissen porcelain souvenir buying, and regional Saxon cuisine at the extensive lower-level food court.",
-      "price_nl": "Mall Entry: Free"
+      "price_nl": "Mall Entry: Free",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_36",
@@ -1638,7 +1788,12 @@
       "name_nl": "Kutscherschänke & Pulverturm an der Frauenkirche",
       "desc_nl": "Two iconic historic themed taverns adjacent to Frauenkirche: Kutscherschänke serving Saxon rustic food, and Pulverturm set inside 16th-century fortress vaults with costumed waiters.",
       "tip_nl": "🍖 Try the famous Saxon roast pork knuckle (Sächsischer Mutzbraten) or sauerbraten with red cabbage and potato dumplings, served with freshly tapped Radeberger Pilsner beer.",
-      "price_nl": "Mains: €16–€28 / Draft Beer (0.5L): €5.50"
+      "price_nl": "Mains: €16–€28 / Draft Beer (0.5L): €5.50",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "dr_37",
@@ -1682,7 +1837,12 @@
       "name_nl": "Sophienkeller im Taschenbergpalais",
       "desc_nl": "Extravagant Baroque vault tavern in the basement of the 5-star Hotel Taschenbergpalais Kempinski, recreating the lavish 18th-century court feasts of Augustus the Strong.",
       "tip_nl": "🏰 Dine inside a giant revolving carrousel seating area or a historic guild vault; jugglers, musicians, and costumed court entertainers perform at your table.",
-      "price_nl": "Baroque Feast Mains: €18–€32 / Beer (0.5L): €5.80"
+      "price_nl": "Baroque Feast Mains: €18–€32 / Beer (0.5L): €5.80",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "dr_38",
@@ -1726,7 +1886,12 @@
       "name_nl": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais",
       "desc_nl": "Famous pastry culture institutions in Dresden Old Town: Café Kreutzkamm (est. 1825) and Grand Café Coselpalais, celebrated for traditional Dresdner Eierschecke three-layer cake and Original Dresdner Christstollen.",
       "tip_nl": "🍰 Order the authentic Dresdner Eierschecke (three-layer cake with yeast base, cheesecake core, and fluffy egg-vanilla pudding top); Erich Kästner famously declared: 'The Eierschecke is a cake type that causes harm to humanity when withheld.'",
-      "price_nl": "Eierschecke Slice: €4.50 / Coffee: €3.80 / Stollen Box: €18–€35"
+      "price_nl": "Eierschecke Slice: €4.50 / Coffee: €3.80 / Stollen Box: €18–€35",
+      "categories": [
+        "Café",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_39",
@@ -1772,7 +1937,10 @@
       "name_nl": "Yenidze",
       "desc_nl": "Striking 1909 former cigarette factory designed in the style of a colorful Ottoman mosque, complete with a 62-meter glass dome and minaret-shaped exhaust chimneys.",
       "tip_nl": "🕌 Ride the elevator to the glass dome top for the 'Kuppelrestaurant' (Dome Restaurant) and open-air rooftop terrace offering 360-degree panorama of Dresden's Elbe skyline.",
-      "price_nl": "Rooftop Terrace Access: Free / Restaurant Dining Variable"
+      "price_nl": "Rooftop Terrace Access: Free / Restaurant Dining Variable",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "dr_40",
@@ -1816,7 +1984,15 @@
       "name_nl": "Lingnerstadt & Blüherpark",
       "desc_nl": "Peaceful central parklands surrounding the Deutsches Hygiene-Museum, featuring historic 18th-century Baroque gardens, lime tree avenues, and modern urban recreation spaces.",
       "tip_nl": "🌳 Great relaxing green break between visiting Hygiene-Museum and Großer Garten; features shaded walking paths, sculpture fountains, and children's playgrounds.",
-      "price_nl": "Park Access: Free"
+      "price_nl": "Park Access: Free",
+      "categories": [
+        "Café",
+        "Kids",
+        "Landmark",
+        "Museum",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_41",
@@ -1861,7 +2037,11 @@
       "name_nl": "Nationalpark Sächsische Schweiz & Basteibrücke",
       "desc_nl": "Famed national park in the Elbe Sandstone Mountains, featuring the iconic 76-meter stone Bastei Bridge built in 1851 across soaring rock pinnacles 194 meters above the Elbe River.",
       "tip_nl": "📸 Access to the Bastei Bridge is free 24/7; take the S1 train to Kurort Rathen, cross the Elbe on the historical passenger ferry, and hike up the 40-minute scenic stone trail.",
-      "price_nl": "National Park & Bastei Bridge: Free / Ferry crossing: €2.50"
+      "price_nl": "National Park & Bastei Bridge: Free / Ferry crossing: €2.50",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "dr_42",
@@ -1908,7 +2088,10 @@
       "name_nl": "Festung Königstein",
       "desc_nl": "Unconquered 9.5-hectare hilltop fortress atop a table mountain 240 meters above the Elbe, featuring over 50 historic military buildings, 42-meter high rampart walls, and Germany's second-deepest well.",
       "tip_nl": "🏰 Walk the 1.8-km panorama rampart circuit (Festungsmauer) for views over the Elbe bend; take the modern glass panoramic elevator built into the rock face from the parking area.",
-      "price_nl": "Adults: €15 / Reduced: €12 / Family: €38"
+      "price_nl": "Adults: €15 / Reduced: €12 / Family: €38",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "dr_43",
@@ -1955,7 +2138,12 @@
       "name_nl": "Schloss Moritzburg & Fasanenschlösschen",
       "desc_nl": "Fairytale four-towered Baroque hunting palace 13 km north of Dresden, built on an artificial island in a lake for Augustus the Strong, famed film location of 'Three Wishes for Cinderella'.",
       "tip_nl": "👠 Find Cinderella's bronze slipper on the eastern terrace staircase, then walk 1.5 km along the lake dam to the Rococo Pheasant Castle (Fasanenschlösschen) and historical lighthouse.",
-      "price_nl": "Palace Grounds Free / Castle Interior: €12"
+      "price_nl": "Palace Grounds Free / Castle Interior: €12",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "dr_44",
@@ -2002,7 +2190,11 @@
       "name_nl": "Porzellanmanufaktur Meissen & Erlebniswelt",
       "desc_nl": "The birthplace of European hard-paste porcelain founded in 1710, featuring live artisan demonstration workshops, a two-story museum of historical porcelain, and a factory outlet.",
       "tip_nl": "🎨 The €12 ticket includes an audio-guided tour through 4 demonstration rooms showing clay molding and cobalt-blue crossed swords painting; enjoy lunch served on authentic Meissen china at the Cafe & Restaurant MEISSEN.",
-      "price_nl": "Erlebniswelt Ticket: €12 / Reduced: €10 / Family: €29"
+      "price_nl": "Erlebniswelt Ticket: €12 / Reduced: €10 / Family: €29",
+      "categories": [
+        "Museum",
+        "Shopping"
+      ]
     },
     {
       "id": "dr_45",
@@ -2047,7 +2239,10 @@
       "name_nl": "Albrechtsburg Meißen & Dom zu Meißen",
       "desc_nl": "Germany's oldest residential castle built in 1471 in Late Gothic style atop a cliff overlooking the Elbe in Meissen, adjoining the pure High Gothic Meissen Cathedral.",
       "tip_nl": "🏰 Ride the glass inclined elevator from the Meissen Old Town valley up to the Burgberg castle hill; the castle interior features pioneering 15th-century spiral cell staircases (Große Wendeltreppe).",
-      "price_nl": "Castle: €10 / Cathedral: €6.50 / Combined: €14.50"
+      "price_nl": "Castle: €10 / Cathedral: €6.50 / Combined: €14.50",
+      "categories": [
+        "Landmark"
+      ]
     }
   ],
   "spotCount": 45

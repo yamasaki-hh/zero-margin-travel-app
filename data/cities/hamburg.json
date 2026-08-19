@@ -44,7 +44,10 @@
       "name_nl": "Miniatur Wunderland",
       "desc_nl": "Miniatur Wunderland in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "Adult: €22"
+      "price_nl": "Adult: €22",
+      "categories": [
+        "Kids"
+      ]
     },
     {
       "id": "h_2",
@@ -90,7 +93,10 @@
       "name_nl": "Elbphilharmonie Hamburg",
       "desc_nl": "Elbphilharmonie Concert Hall in City district.",
       "tip_nl": "🎟️ Plaza viewing deck requires a €3 Plaza Ticket. Ride the 82m curved escalator 'The Tube' to the 37m high panoramic balcony.",
-      "price_nl": "Plaza Free (Online Time-Slot Booking €2)"
+      "price_nl": "Plaza Free (Online Time-Slot Booking €2)",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_3",
@@ -134,7 +140,10 @@
       "name_nl": "Speicherstadt",
       "desc_nl": "Speicherstadt Warehouse District in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_4",
@@ -178,7 +187,10 @@
       "name_nl": "Kontorhausviertel & Chilehaus",
       "desc_nl": "Chilehaus & Kontorhaus District in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "見学無料"
+      "price_nl": "見学無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_5",
@@ -222,7 +234,10 @@
       "name_nl": "Hamburger Rathaus & Rathausmarkt",
       "desc_nl": "Hamburg City Hall in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "中庭無料"
+      "price_nl": "中庭無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_6",
@@ -267,7 +282,10 @@
       "name_nl": "Hauptkirche St. Michaelis",
       "desc_nl": "St. Michael's Church in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "聖堂無料（塔8€）"
+      "price_nl": "聖堂無料（塔8€）",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_7",
@@ -311,7 +329,10 @@
       "name_nl": "Hamburger Hafen & Landungsbrücken",
       "desc_nl": "Hamburg Harbor & St. Pauli Piers in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "桟橋無料"
+      "price_nl": "桟橋無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_8",
@@ -355,7 +376,10 @@
       "name_nl": "Alter Elbtunnel",
       "desc_nl": "Old Elbe Tunnel in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "通行無料"
+      "price_nl": "通行無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_9",
@@ -399,7 +423,10 @@
       "name_nl": "HafenCity",
       "desc_nl": "HafenCity District in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_10",
@@ -443,7 +470,10 @@
       "name_nl": "Binnenalster & Außenalster",
       "desc_nl": "Alster Lakes in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "h_11",
@@ -487,7 +517,10 @@
       "name_nl": "Hamburger Kunsthalle",
       "desc_nl": "Hamburg Art Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 14€"
+      "price_nl": "入場料: 14€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "h_12",
@@ -531,7 +564,10 @@
       "name_nl": "Internationales Maritimes Museum Hamburg",
       "desc_nl": "International Maritime Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 17€"
+      "price_nl": "入場料: 17€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "h_13",
@@ -575,7 +611,10 @@
       "name_nl": "Museum für Kunst und Gewerbe Hamburg",
       "desc_nl": "Museum of Arts and Crafts Hamburg in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 14€"
+      "price_nl": "入場料: 14€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "h_14",
@@ -619,7 +658,11 @@
       "name_nl": "Deichtorhallen Hamburg",
       "desc_nl": "Deichtorhallen Contemporary Art in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 12€"
+      "price_nl": "入場料: 12€",
+      "categories": [
+        "Museum",
+        "Shopping"
+      ]
     },
     {
       "id": "h_15",
@@ -663,7 +706,11 @@
       "name_nl": "Cap San Diego",
       "desc_nl": "Cap San Diego Museum Ship in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 11€"
+      "price_nl": "入場料: 11€",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "h_16",
@@ -707,7 +754,12 @@
       "name_nl": "Rickmer Rickmers",
       "desc_nl": "Rickmer Rickmers Sailing Ship in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 7€"
+      "price_nl": "入場料: 7€",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "h_17",
@@ -751,7 +803,10 @@
       "name_nl": "Submarine Museum U-434",
       "desc_nl": "Submarine Museum U-434 in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 10€"
+      "price_nl": "入場料: 10€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "h_18",
@@ -795,7 +850,10 @@
       "name_nl": "St. Nikolai Memorial",
       "desc_nl": "St. Nikolai Memorial Spire in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "廃墟無料（エレベーター6€）"
+      "price_nl": "廃墟無料（エレベーター6€）",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_19",
@@ -839,7 +897,11 @@
       "name_nl": "Planten un Blomen",
       "desc_nl": "Planten un Blomen Park in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入園無料"
+      "price_nl": "入園無料",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "h_20",
@@ -883,7 +945,11 @@
       "name_nl": "Tierpark Hagenbeck & Tropen-Aquarium",
       "desc_nl": "Tierpark Hagenbeck in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "動物園: 29€"
+      "price_nl": "動物園: 29€",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "h_21",
@@ -928,7 +994,10 @@
       "name_nl": "Fischmarkt",
       "desc_nl": "Altona Fish Market in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場無料"
+      "price_nl": "入場無料",
+      "categories": [
+        "Shopping"
+      ]
     },
     {
       "id": "h_22",
@@ -972,7 +1041,12 @@
       "name_nl": "Reeperbahn & St. Pauli",
       "desc_nl": "Reeperbahn Nightlife District in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "h_23",
@@ -1016,7 +1090,10 @@
       "name_nl": "Beatles-Platz & Indra Club / Kaiserkeller",
       "desc_nl": "Beatles-Platz & Indra / Kaiserkeller in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "見学無料"
+      "price_nl": "見学無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_24",
@@ -1060,7 +1137,10 @@
       "name_nl": "Jungfernstieg",
       "desc_nl": "Jungfernstieg Boulevard in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "h_25",
@@ -1104,7 +1184,12 @@
       "name_nl": "Alsterarkaden",
       "desc_nl": "Alster Arcades in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "h_26",
@@ -1148,7 +1233,11 @@
       "name_nl": "Mönckebergstraße & Spitalerstraße",
       "desc_nl": "Mönckebergstraße Shopping Street in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "h_27",
@@ -1192,7 +1281,11 @@
       "name_nl": "Neuer Wall & Große Bleichen",
       "desc_nl": "Neuer Wall Luxury Shopping in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "h_28",
@@ -1236,7 +1329,10 @@
       "name_nl": "Hanse-Viertel & Europa Passage",
       "desc_nl": "Europa Passage & Hanse-Viertel in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場無料"
+      "price_nl": "入場無料",
+      "categories": [
+        "Shopping"
+      ]
     },
     {
       "id": "h_29",
@@ -1280,7 +1376,11 @@
       "name_nl": "Sternschanze",
       "desc_nl": "Sternschanze Quarter in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Café",
+        "Scenery"
+      ]
     },
     {
       "id": "h_30",
@@ -1324,7 +1424,11 @@
       "name_nl": "Karolinenviertel",
       "desc_nl": "Karolinenviertel District in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "h_31",
@@ -1368,7 +1472,12 @@
       "name_nl": "Museum der Natur - Hamburg",
       "desc_nl": "Museum of Nature - Zoology in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場無料"
+      "price_nl": "入場無料",
+      "categories": [
+        "Kids",
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "h_32",
@@ -1412,7 +1521,10 @@
       "name_nl": "Hamburg Dungeon",
       "desc_nl": "Hamburg Dungeon in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 26€"
+      "price_nl": "入場料: 26€",
+      "categories": [
+        "Kids"
+      ]
     },
     {
       "id": "h_33",
@@ -1456,7 +1568,10 @@
       "name_nl": "Dialog im Dunkeln",
       "desc_nl": "Dialog in the Dark in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "体験料: 19.50€"
+      "price_nl": "体験料: 19.50€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "h_34",
@@ -1500,7 +1615,11 @@
       "name_nl": "Chocoversum by Hachez",
       "desc_nl": "Chocoversum Chocolate Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ツアー料: 23€"
+      "price_nl": "ツアー料: 23€",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "h_35",
@@ -1544,7 +1663,10 @@
       "name_nl": "Spicy's Gewürzmuseum",
       "desc_nl": "Spicy's Spice Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 5€"
+      "price_nl": "入場料: 5€",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "h_36",
@@ -1588,7 +1710,11 @@
       "name_nl": "Zollmuseum",
       "desc_nl": "German Customs Museum in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "入場料: 2€"
+      "price_nl": "入場料: 2€",
+      "categories": [
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "h_37",
@@ -1632,7 +1758,10 @@
       "name_nl": "Krameramtsstuben",
       "desc_nl": "Krameramtsstuben Guild Houses in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "路地散策無料"
+      "price_nl": "路地散策無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_38",
@@ -1676,7 +1805,10 @@
       "name_nl": "Fischbrötchen-Buden an den Landungsbrücken",
       "desc_nl": "Landungsbrücken Fish Roll Stalls in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "魚パン: 4.50€"
+      "price_nl": "魚パン: 4.50€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "h_39",
@@ -1720,7 +1852,10 @@
       "name_nl": "Old Commercial Room",
       "desc_nl": "Old Commercial Room Restaurant in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "ラブスカウス: 24€"
+      "price_nl": "ラブスカウス: 24€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "h_40",
@@ -1764,7 +1899,10 @@
       "name_nl": "Café Paris",
       "desc_nl": "Café Paris Hamburg in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "コーヒー: 4.50€"
+      "price_nl": "コーヒー: 4.50€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "h_41",
@@ -1808,7 +1946,10 @@
       "name_nl": "Rive Fisch & Fischereihafen Restaurant",
       "desc_nl": "Fischereihafen Restaurant in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "魚料理: 32€"
+      "price_nl": "魚料理: 32€",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "h_42",
@@ -1852,7 +1993,11 @@
       "name_nl": "Gröninger Privatbrauerei",
       "desc_nl": "Gröninger Private Brewery in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "自家醸造ビール: 4€"
+      "price_nl": "自家醸造ビール: 4€",
+      "categories": [
+        "Café",
+        "Night"
+      ]
     },
     {
       "id": "h_43",
@@ -1896,7 +2041,10 @@
       "name_nl": "Elbstrand",
       "desc_nl": "Elbstrand Beach Övelgönne in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "砂浜無料"
+      "price_nl": "砂浜無料",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "h_44",
@@ -1940,7 +2088,11 @@
       "name_nl": "Museumshafen Övelgönne",
       "desc_nl": "Övelgönne Museum Harbor in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "見学無料"
+      "price_nl": "見学無料",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "h_45",
@@ -1984,7 +2136,13 @@
       "name_nl": "Stadtpark Hamburg & Planetarium Hamburg",
       "desc_nl": "Stadtpark & Planetarium in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "公園無料（ショー12€）"
+      "price_nl": "公園無料（ショー12€）",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "h_46",
@@ -2028,7 +2186,11 @@
       "name_nl": "Jenischpark & Jenisch Haus",
       "desc_nl": "Jenisch Park & House in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "公園無料"
+      "price_nl": "公園無料",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "h_47",
@@ -2072,7 +2234,11 @@
       "name_nl": "Energiebunker Wilhelmsburg",
       "desc_nl": "Wilhelmsburg Energy Bunker in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "屋上カフェ無料"
+      "price_nl": "屋上カフェ無料",
+      "categories": [
+        "Café",
+        "Landmark"
+      ]
     },
     {
       "id": "h_48",
@@ -2116,7 +2282,10 @@
       "name_nl": "HADAG-Hafenfähren",
       "desc_nl": "HADAG Harbor Ferry Line 62 in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "HVV乗車券適用"
+      "price_nl": "HVV乗車券適用",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "h_49",
@@ -2160,7 +2329,12 @@
       "name_nl": "Bäderland Holthusenbad",
       "desc_nl": "Holthusenbad Historic Spa in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "スパプール: 11€"
+      "price_nl": "スパプール: 11€",
+      "categories": [
+        "Café",
+        "Kids",
+        "Night"
+      ]
     },
     {
       "id": "h_50",
@@ -2204,7 +2378,10 @@
       "name_nl": "Lübeck: Altstadt & Holstentor",
       "desc_nl": "Lübeck Old Town & Holsten Gate in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "旧市街無料"
+      "price_nl": "旧市街無料",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_51",
@@ -2248,7 +2425,11 @@
       "name_nl": "Lüneburg: Historische Altstadt",
       "desc_nl": "Lüneburg Old Town & Salt Museum in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "旧市街無料"
+      "price_nl": "旧市街無料",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "h_52",
@@ -2292,7 +2473,10 @@
       "name_nl": "Schloss Schwerin",
       "desc_nl": "Schwerin Castle in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "宮殿: 8.50€"
+      "price_nl": "宮殿: 8.50€",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "h_53",
@@ -2336,7 +2520,10 @@
       "name_nl": "Stade & Altes Land",
       "desc_nl": "Stade & Altes Land Orchards in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "散策無料"
+      "price_nl": "散策無料",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "h_54",
@@ -2380,7 +2567,10 @@
       "name_nl": "Cuxhaven & Wattenmeer",
       "desc_nl": "Cuxhaven & Wadden Sea in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "海岸無料"
+      "price_nl": "海岸無料",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "h_55",
@@ -2424,7 +2614,10 @@
       "name_nl": "Helgoland",
       "desc_nl": "Heligoland Island in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
-      "price_nl": "高速船: 85€往復"
+      "price_nl": "高速船: 85€往復",
+      "categories": [
+        "Scenery"
+      ]
     }
   ],
   "spotCount": 55

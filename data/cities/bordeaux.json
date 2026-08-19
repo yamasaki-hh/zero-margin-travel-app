@@ -49,7 +49,10 @@
       "name_nl": "Place de la Bourse & Miroir d'eau",
       "desc_nl": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
       "tip_nl": "Visit at dusk when the 18th-century palace facade illuminates and reflects perfectly in the 2cm shallow water mirror.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_2",
@@ -98,7 +101,10 @@
       "name_nl": "Grand Théâtre de Bordeaux",
       "desc_nl": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
       "tip_nl": "Famed for its 12 Corinthian columns topped with statues of Muses and Goddesses. Inspired the design of the Paris Opera Garnier!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_3",
@@ -147,7 +153,10 @@
       "name_nl": "Cathédrale Saint-André & Tour Pey-Berland",
       "desc_nl": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
       "tip_nl": "Climb the 229 steps of the standalone Pey-Berland bell tower for THE ultimate 360-degree view over Bordeaux.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_4",
@@ -196,7 +205,10 @@
       "name_nl": "Porte Cailhau",
       "desc_nl": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
       "tip_nl": "15th-century fairytale medieval gate. Climb inside to see historical defense displays and views over the Garonne river.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_5",
@@ -245,7 +257,10 @@
       "name_nl": "Grosse Cloche",
       "desc_nl": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
       "tip_nl": "One of France's oldest belfries featuring a 7.8-ton giant bronze bell 'Armande-Louise' cast in 1775.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_6",
@@ -294,7 +309,10 @@
       "name_nl": "Basilique Saint-Michel & Flèche Saint-Michel",
       "desc_nl": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
       "tip_nl": "The standalone Gothic spire 'Flèche Saint-Michel' (114m) is the 2nd tallest bell tower in France. Explore the vintage flea market on Place Saint-Michel below.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_7",
@@ -343,7 +361,10 @@
       "name_nl": "Monument aux Girondins",
       "desc_nl": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
       "tip_nl": "Europe's largest square featuring a 54m column with sea horses and bronze fountain statues symbolizing Liberty.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_8",
@@ -392,7 +413,10 @@
       "name_nl": "Palais Gallien",
       "desc_nl": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
       "tip_nl": "Remains of a 2nd-century Roman amphitheatre tucked in a residential neighbourhood—free to view from the street edge.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_9",
@@ -441,7 +465,10 @@
       "name_nl": "Pont de Pierre",
       "desc_nl": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
       "tip_nl": "Historic 17-arch stone bridge commissioned by Napoleon Bonaparte. Offers gorgeous sunset views over Place de la Bourse.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "bo_10",
@@ -490,7 +517,11 @@
       "name_nl": "Château de Roquetaillade",
       "desc_nl": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
       "tip_nl": "Imposing medieval castle rebuilt by Viollet-le-Duc in the 19th century—looks like a fairytale fortress set in green woods.",
-      "price_nl": "Entry: €10"
+      "price_nl": "Entry: €10",
+      "categories": [
+        "Landmark",
+        "Shopping"
+      ]
     },
     {
       "id": "bo_11",
@@ -539,7 +570,11 @@
       "name_nl": "Château de La Brède",
       "desc_nl": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
       "tip_nl": "Moated feudal castle where philosopher Montesquieu lived and wrote 'The Spirit of Law'. Beautiful English landscape park.",
-      "price_nl": "Free Gardens (Interior: €9)"
+      "price_nl": "Free Gardens (Interior: €9)",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_12",
@@ -588,7 +623,10 @@
       "name_nl": "Cité du Vin",
       "desc_nl": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
       "tip_nl": "High-tech wine museum with interactive tasting galleries. Your ticket includes a glass of world wine on the 35m panoramic Belvedere deck!",
-      "price_nl": "Entry: €22"
+      "price_nl": "Entry: €22",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "bo_13",
@@ -637,7 +675,10 @@
       "name_nl": "Bassins des Lumières",
       "desc_nl": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
       "tip_nl": "Book time-slot tickets online in advance! The unheated concrete submarine bunker can get chilly inside even during summer, so bring a light jacket.",
-      "price_nl": "Entry: €15"
+      "price_nl": "Entry: €15",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "bo_14",
@@ -686,7 +727,10 @@
       "name_nl": "Musée d'Aquitaine",
       "desc_nl": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
       "tip_nl": "Explores Aquitaine's rich history from Eleanor of Aquitaine to Bordeaux's maritime trade history and Roman artifacts.",
-      "price_nl": "Entry: €8"
+      "price_nl": "Entry: €8",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "bo_15",
@@ -735,7 +779,10 @@
       "name_nl": "Musée des Beaux-Arts de Bordeaux",
       "desc_nl": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
       "tip_nl": "Housed in two wings of the City Hall featuring Old Master paintings by Delacroix, Rubens, Titian, and Matisse.",
-      "price_nl": "Entry: €8"
+      "price_nl": "Entry: €8",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "bo_16",
@@ -784,7 +831,10 @@
       "name_nl": "CAPC Musée d'Art Contemporain",
       "desc_nl": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
       "tip_nl": "Housed in a 19th-century brick wool warehouse with soaring vaulted ceilings featuring cutting-edge modern installations.",
-      "price_nl": "Entry: €8"
+      "price_nl": "Entry: €8",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "bo_17",
@@ -833,7 +883,10 @@
       "name_nl": "MADD",
       "desc_nl": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
       "tip_nl": "🏛️ The main 18th-century mansion is currently undergoing long-term restoration. Check the official website for off-site temporary exhibits.",
-      "price_nl": "Entry: €6"
+      "price_nl": "Entry: €6",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "bo_18",
@@ -882,7 +935,10 @@
       "name_nl": "Musée Mer Marine",
       "desc_nl": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
       "tip_nl": "Maritime museum exploring sea navigation, ship models, ocean exploration, and maritime art near Bassins des Lumières.",
-      "price_nl": "Entry: €14"
+      "price_nl": "Entry: €14",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "bo_19",
@@ -931,7 +987,11 @@
       "name_nl": "Musée National des Douanes",
       "desc_nl": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
       "tip_nl": "Located inside Place de la Bourse exploring the history of customs, contraband smuggling, and trade taxes since 1785.",
-      "price_nl": "Free Plaza & Exterior (Inside: €5)"
+      "price_nl": "Free Plaza & Exterior (Inside: €5)",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "bo_20",
@@ -980,7 +1040,11 @@
       "name_nl": "Marché des Capucins",
       "desc_nl": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
       "tip_nl": "Bordeaux's bustling central food market. Enjoy fresh oysters from Arcachon paired with a glass of dry white wine at Sunday lunch!",
-      "price_nl": "Oyster platters: €10–€20"
+      "price_nl": "Oyster platters: €10–€20",
+      "categories": [
+        "Café",
+        "Shopping"
+      ]
     },
     {
       "id": "bo_21",
@@ -1029,7 +1093,10 @@
       "name_nl": "Brasserie Bordelaise",
       "desc_nl": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
       "tip_nl": "Authentic regional restaurant. Order Entrecôte marchand de vin (ribeye steak with wine sauce) and Cèpes à la bordelaise.",
-      "price_nl": "Mains: €20–€38"
+      "price_nl": "Mains: €20–€38",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "bo_22",
@@ -1078,7 +1145,11 @@
       "name_nl": "Canelé Baillardran & La Toque Cuivrée",
       "desc_nl": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
       "tip_nl": "Bordeaux's signature caramelised rum-vanilla pastry. Compare 'Baillardran' (traditional) with 'La Toque Cuivrée' (crispier and local favorite)!",
-      "price_nl": "Canelé: €1.50–€3"
+      "price_nl": "Canelé: €1.50–€3",
+      "categories": [
+        "Café",
+        "Shopping"
+      ]
     },
     {
       "id": "bo_23",
@@ -1127,7 +1198,11 @@
       "name_nl": "Le Bar à Vin",
       "desc_nl": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
       "tip_nl": "Run by the official Bordeaux Wine Council inside an 18th-century flatiron building. Enjoy grand cru wines by the glass for just €3–€6!",
-      "price_nl": "Glass of wine: €3–€9"
+      "price_nl": "Glass of wine: €3–€9",
+      "categories": [
+        "Café",
+        "Night"
+      ]
     },
     {
       "id": "bo_24",
@@ -1176,7 +1251,11 @@
       "name_nl": "Café Français",
       "desc_nl": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
       "tip_nl": "Classic cafe terrace on Place de la Comédie right opposite the Grand Théâtre. Perfect spot for people watching with coffee.",
-      "price_nl": "Free Grounds (Ticket: €6)"
+      "price_nl": "Free Grounds (Ticket: €6)",
+      "categories": [
+        "Café",
+        "Landmark"
+      ]
     },
     {
       "id": "bo_25",
@@ -1225,7 +1304,10 @@
       "name_nl": "L'Entrecôte Bordeaux",
       "desc_nl": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
       "tip_nl": "Famous single-menu restaurant serving trimmed ribeye steak with secret green sauce and unlimited crispy french fries (expect lines!).",
-      "price_nl": "Set Menu: €23"
+      "price_nl": "Set Menu: €23",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "bo_26",
@@ -1274,7 +1356,10 @@
       "name_nl": "Grand Cru Wineries",
       "desc_nl": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
       "tip_nl": "Book châteaux winery tours in advance (Saint-Émilion or Médoc). Half-day tasting tours leave daily from the Bordeaux Tourist Office.",
-      "price_nl": "Tours: €25–€75"
+      "price_nl": "Tours: €25–€75",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "bo_27",
@@ -1323,7 +1408,13 @@
       "name_nl": "Quartier Saint-Pierre",
       "desc_nl": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
       "tip_nl": "Charming medieval pedestrian cobblestone district packed with wine bars, bistros, and small squares near Place du Parlement.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_28",
@@ -1372,7 +1463,11 @@
       "name_nl": "Quartier des Chartrons",
       "desc_nl": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
       "tip_nl": "Former wine merchants' quarter turned trendy bohemian hub with antique shops, art galleries, and Sunday organic markets.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_29",
@@ -1421,7 +1516,11 @@
       "name_nl": "Les Quais de Bordeaux & Garonne Promenade",
       "desc_nl": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
       "tip_nl": "Rent a city bike or jog down the 4.5km landscaped promenade along the Garonne river past red brick warehouses and gardens.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_30",
@@ -1470,7 +1569,12 @@
       "name_nl": "Rue Sainte-Catherine",
       "desc_nl": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
       "tip_nl": "One of Europe's longest pedestrian shopping streets (1.2 km). Stroll past shops starting from Place Comédie towards Porte Dijeaux.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "bo_31",
@@ -1519,7 +1623,11 @@
       "name_nl": "Place des Quinconces",
       "desc_nl": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
       "tip_nl": "Hosts seasonal travelling funfairs, circus performances, and large wine festivals right by the Garonne river.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_32",
@@ -1568,7 +1676,12 @@
       "name_nl": "Darwin Eco-Système",
       "desc_nl": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
       "tip_nl": "Trendy alternative eco-hub inside former military barracks featuring an indoor skatepark, organic bistro, and street art graffiti.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_33",
@@ -1617,7 +1730,11 @@
       "name_nl": "Saint-Émilion Medieval Village",
       "desc_nl": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
       "tip_nl": "UNESCO World Heritage medieval wine village. Visit the monolithic underground church carved out of solid limestone rock!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_34",
@@ -1666,7 +1783,10 @@
       "name_nl": "Dune du Pilat & Arcachon Bay",
       "desc_nl": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
       "tip_nl": "🏜️ A living geological wonder that moves 1 to 5 meters inland every year due to ocean winds, gradually swallowing the pine forest behind it!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "bo_35",
@@ -1715,7 +1835,14 @@
       "name_nl": "Jardin Public & Muséum de Bordeaux",
       "desc_nl": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
       "tip_nl": "18th-century English-style botanical garden featuring a swan lake, puppet theatre for kids, and Natural History Museum.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Kids",
+        "Museum",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_36",
@@ -1764,7 +1891,11 @@
       "name_nl": "Cap Sciences",
       "desc_nl": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
       "tip_nl": "Interactive science center next to the Chaban-Delmas lift bridge featuring hands-on workshops and stargazing events.",
-      "price_nl": "Entry: €10"
+      "price_nl": "Entry: €10",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "bo_37",
@@ -1813,7 +1944,13 @@
       "name_nl": "Bordeaux River Cruise / Bat3 Water Taxi",
       "desc_nl": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
       "tip_nl": "Use the Bat3 public water transport shuttle (uses standard TBM transit tickets) for a budget river cruise along the city front!",
-      "price_nl": "Cruise: €15–€25 (Bat3: €1.70)"
+      "price_nl": "Cruise: €15–€25 (Bat3: €1.70)",
+      "categories": [
+        "Café",
+        "Kids",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "bo_38",
@@ -1862,7 +1999,12 @@
       "name_nl": "Parc Bordelais",
       "desc_nl": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
       "tip_nl": "Sprawling 28-hectare park with roaming farm animals, a lake with duck boats, and historic carousels for families.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_39",
@@ -1911,7 +2053,11 @@
       "name_nl": "Zoo de Bordeaux-Pessac",
       "desc_nl": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
       "tip_nl": "Features rare white tigers, jaguars, and a 360-degree glass lodge where you can dine surrounded by big cats.",
-      "price_nl": "Entry: €18"
+      "price_nl": "Entry: €18",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     },
     {
       "id": "bo_40",
@@ -1960,7 +2106,11 @@
       "name_nl": "La Forêt des Accro-Batches",
       "desc_nl": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
       "tip_nl": "Outdoor treetop adventure park in the pine forest with zip-lines, rope bridges, and climbing courses for all age levels.",
-      "price_nl": "Free Gardens (Interior: €18)"
+      "price_nl": "Free Gardens (Interior: €18)",
+      "categories": [
+        "Kids",
+        "Scenery"
+      ]
     }
   ]
 }

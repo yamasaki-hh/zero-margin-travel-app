@@ -49,7 +49,10 @@
       "name_nl": "Marienplatz & New Town Hall",
       "desc_nl": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
       "tip_nl": "⏰ Watch the mechanical Glockenspiel chime with 32 life-sized figures daily at 11:00 AM & 12:00 PM (plus 5:00 PM Mar–Oct) from the central square.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "m_2",
@@ -98,7 +101,10 @@
       "name_nl": "Frauenkirche",
       "desc_nl": "Gothic brick cathedral featuring twin onion domes & legendary Devil's Footprint.",
       "tip_nl": " Step onto the black tile 'Devil's Footprint' (Teufelstritt) at the entrance foyer. Look towards the altar—the columns block all side windows, making it seem windowless!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "m_3",
@@ -148,7 +154,10 @@
       "name_nl": "Munich Residenz & Treasury",
       "desc_nl": "Former royal palace of Wittelsbach monarchs with Antiquarium hall & Treasury.",
       "tip_nl": "🎟️ Buy the combined Residenz + Treasury (Schatzkammer) + Cuvilliés Theatre ticket. Touch the nose of the bronze lions at the Residenzstraße entrance for good luck!",
-      "price_nl": "Residenz & Treasury Combo: €15"
+      "price_nl": "Residenz & Treasury Combo: €15",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "m_4",
@@ -200,7 +209,14 @@
       "name_nl": "Nymphenburg Palace & Gardens",
       "desc_nl": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain.",
       "tip_nl": "📸 Walk past the grand front canal to photograph swans gliding with the palace in the background. Don't miss King Ludwig I's Gallery of Beauties inside.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Museum",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "m_5",
@@ -252,7 +268,11 @@
       "name_nl": "Deutsches Museum",
       "desc_nl": "World's largest museum of science and technology located on an island in the Isar.",
       "tip_nl": "🎟️ World's largest science museum. Don't miss the underground mine exhibit and high-voltage electricity demonstrations. Allow at least 3–4 hours.",
-      "price_nl": "Entry: €16"
+      "price_nl": "Entry: €16",
+      "categories": [
+        "Kids",
+        "Museum"
+      ]
     },
     {
       "id": "m_6",
@@ -304,7 +324,10 @@
       "name_nl": "Alte Pinakothek",
       "desc_nl": "World-class gallery housing Old Master paintings from Da Vinci to Dürer & Rubens.",
       "tip_nl": "🎟️ Sunday admission is only €1! Features Dürer's Self-Portrait and Da Vinci's Madonna of the Carnation.",
-      "price_nl": "Entry: €9 (€1 on Sundays!)"
+      "price_nl": "Entry: €9 (€1 on Sundays!)",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "m_7",
@@ -356,7 +379,10 @@
       "name_nl": "Neue Pinakothek",
       "desc_nl": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner).",
       "tip_nl": "⚠️ Main Neue Pinakothek building is closed for renovation until ~2029. Masterpieces like Van Gogh's Sunflowers are displayed on the 1st floor of Alte Pinakothek.",
-      "price_nl": "Entry: €7 (€1 on Sundays!)"
+      "price_nl": "Entry: €7 (€1 on Sundays!)",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "m_8",
@@ -408,7 +434,10 @@
       "name_nl": "Pinakothek der Moderne",
       "desc_nl": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper.",
       "tip_nl": "🎟️ 4 museums in 1: art, architecture, design, and graphics. Sunday admission is only €1.",
-      "price_nl": "Entry: €10 (€1 on Sundays!)"
+      "price_nl": "Entry: €10 (€1 on Sundays!)",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "m_9",
@@ -459,7 +488,10 @@
       "name_nl": "Museum Brandhorst",
       "desc_nl": "Colorful ceramic facade museum housing Andy Warhol & Cy Twombly masterworks.",
       "tip_nl": "Houses one of Europe's largest Andy Warhol collections (Marilyn, Campbell's Soup). Enjoy €1 entry on Sundays and take photos of the iconic exterior!",
-      "price_nl": "Entry: €7 (€1 on Sundays!)"
+      "price_nl": "Entry: €7 (€1 on Sundays!)",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "m_10",
@@ -510,7 +542,11 @@
       "name_nl": "Städtische Galerie im Lenbachhaus",
       "desc_nl": "Florentine villa museum world-famous for Blue Rider (Der Blaue Reiter) & Kandinsky art.",
       "tip_nl": "Don't miss Kandinsky's early abstract masterpieces and Franz Marc's vibrant blue horses. Relax at the stylish atrium cafe inside Norman Foster's modern wing.",
-      "price_nl": "Entry: €10"
+      "price_nl": "Entry: €10",
+      "categories": [
+        "Museum",
+        "Shopping"
+      ]
     },
     {
       "id": "m_11",
@@ -561,7 +597,11 @@
       "name_nl": "BMW Museum & BMW Welt",
       "desc_nl": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles.",
       "tip_nl": "BMW Welt (showroom with current cars & bikes you can sit in) is completely FREE! Cross the bridge to BMW Museum (€10) for vintage racing cars and Bond cars.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "m_12",
@@ -612,7 +652,12 @@
       "name_nl": "Englischer Garten & Eisbachwelle",
       "desc_nl": "Vast urban park featuring Eisbach river surfers & Chinese Tower beer garden.",
       "tip_nl": "Head to the Prinzregentenstraße bridge to watch surfers ride the Eisbach standing wave 24/7. Afterwards, grab a 1-liter Maß beer under the Chinese Tower!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_13",
@@ -663,7 +708,12 @@
       "name_nl": "Viktualienmarkt",
       "desc_nl": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden.",
       "tip_nl": "Try traditional Bavarian Weißwurst (white sausage with sweet mustard) before noon! The central beer garden rotates beers from Munich's Big 6 breweries.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "m_14",
@@ -714,7 +764,11 @@
       "name_nl": "Hofbräuhaus am Platzl",
       "desc_nl": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs.",
       "tip_nl": "Sit in the ground floor Schwemme hall under the painted vaults for the liveliest atmosphere with live Oompah brass music. Order a classic Schweinshaxe (pork knuckle)!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night"
+      ]
     },
     {
       "id": "m_15",
@@ -766,7 +820,12 @@
       "name_nl": "Augustiner-Keller & Stammhaus",
       "desc_nl": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden.",
       "tip_nl": "🍺 Munich's oldest brewery (1328). In the self-service beer garden area, bringing your own food (Brotzeit) is traditionally allowed!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "m_16",
@@ -817,7 +876,11 @@
       "name_nl": "Olympiapark München & Olympiaturm",
       "desc_nl": "1972 Olympic park with iconic tent roof architecture & 291m observation tower.",
       "tip_nl": "Climb Olympiaberg (Olympic Hill) for a completely free panoramic view over the park and Munich skyline with the Alps in the background!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_17",
@@ -868,7 +931,12 @@
       "name_nl": "Allianz Arena & FC Bayern Museum",
       "desc_nl": "Futuristic color-changing stadium home to FC Bayern Munich with club museum.",
       "tip_nl": "Book the Combined Arena Tour + FC Bayern Museum ticket (€25) to step into player locker rooms, tunnel, and pitch side! Stadium lights up red at night during home matches.",
-      "price_nl": "Tour & Museum: €25"
+      "price_nl": "Tour & Museum: €25",
+      "categories": [
+        "Landmark",
+        "Museum",
+        "Night"
+      ]
     },
     {
       "id": "m_18",
@@ -919,7 +987,12 @@
       "name_nl": "Tierpark Hellabrunn",
       "desc_nl": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve.",
       "tip_nl": "Animals live in open natural habitats grouped by continents (Africa, Asia, Polar, Europe). Perfect day out for families alongside the Isar river.",
-      "price_nl": "Free Gardens (Interior: €18)"
+      "price_nl": "Free Gardens (Interior: €18)",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_19",
@@ -970,7 +1043,13 @@
       "name_nl": "Sea Life München",
       "desc_nl": "Indoor aquarium in Olympiapark featuring tropical sharks, rays & ocean tunnel.",
       "tip_nl": "Located right inside Olympiapark. Great rainy-day option for families combined with Olympiaturm or BMW Welt nearby.",
-      "price_nl": "Free Gardens (Interior: €20)"
+      "price_nl": "Free Gardens (Interior: €20)",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "m_20",
@@ -1021,7 +1100,11 @@
       "name_nl": "St. Peter's Church",
       "desc_nl": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views.",
       "tip_nl": "The 306-step wooden stairs are narrow, but the top platform offers THE BEST postcard photograph of Marienplatz and the twin onion domes of Frauenkirche!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_21",
@@ -1072,7 +1155,12 @@
       "name_nl": "Asamkirche",
       "desc_nl": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses.",
       "tip_nl": "Don't walk past! The unassuming exterior hides an overwhelmingly lavish golden interior packed with frescoes and dramatic gilded sculptures in a tiny 22x8m footprint.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "m_22",
@@ -1123,7 +1211,12 @@
       "name_nl": "Theatinerkirche",
       "desc_nl": "Striking yellow Italian High Baroque church facing Odeonsplatz.",
       "tip_nl": "While the exterior is bright mustard yellow, the interior is surprisingly snow-white with elaborate stucco relief work and a massive 71m dome.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "m_23",
@@ -1174,7 +1267,11 @@
       "name_nl": "Odeonsplatz & Feldherrnhalle",
       "desc_nl": "Italianate plaza featuring Feldherrnhalle monument & Hofgarten palace gardens.",
       "tip_nl": "Walk behind the plaza through the arch into the Hofgarten to see the Diana Temple in the center, where street musicians frequently play acoustic music.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_24",
@@ -1225,7 +1322,12 @@
       "name_nl": "Kaufingerstraße & Neuhauser Straße",
       "desc_nl": "Munich's primary pedestrian shopping boulevard stretching between Karlsplatz & Marienplatz.",
       "tip_nl": "Main shopping artery connecting Stachus and Marienplatz. Don't miss Hirschbrunnen (Bronze Stag Fountain) and St. Michael's Jesuit Church along the walk.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "m_25",
@@ -1276,7 +1378,11 @@
       "name_nl": "Maximilianstraße",
       "desc_nl": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum.",
       "tip_nl": "Stroll eastwards towards the river to view the impressive Maximilianeum palace building (Bavarian State Parliament) lit up nicely at sunset.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "m_26",
@@ -1327,7 +1433,11 @@
       "name_nl": "Kaufingertor & FÜNF HÖFE",
       "desc_nl": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants.",
       "tip_nl": "Look up in the Salvatorpassage courtyard to see the 'Hanging Sphere' metal art and the vertical lush green hanging plants installation.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery",
+        "Shopping"
+      ]
     },
     {
       "id": "m_27",
@@ -1378,7 +1488,11 @@
       "name_nl": "Botanischer Garten München-Nymphenburg",
       "desc_nl": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses.",
       "tip_nl": "Combine this with your Nymphenburg Palace visit! The tropical greenhouse complex features giant water lilies and roaming tropical butterflies in winter.",
-      "price_nl": "Free Gardens (Interior: €5.50)"
+      "price_nl": "Free Gardens (Interior: €5.50)",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_28",
@@ -1429,7 +1543,11 @@
       "name_nl": "NS-Dokumentationszentrum München",
       "desc_nl": "Modern documentation center on site of Nazi party headquarters providing free historical education.",
       "tip_nl": "Admission is completely FREE. Excellent multilingual media guides provide deep insight into how Munich became the 'Capital of the Nazi Movement'.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "m_29",
@@ -1480,7 +1598,10 @@
       "name_nl": "Bayerisches Nationalmuseum",
       "desc_nl": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes.",
       "tip_nl": "Don't miss the underground Krippensammlung basement featuring intricate Italian & Bavarian Christmas nativity scenes dating back to the 18th century! Only €1 on Sundays.",
-      "price_nl": "Entry: €7 (€1 on Sundays!)"
+      "price_nl": "Entry: €7 (€1 on Sundays!)",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "m_30",
@@ -1531,7 +1652,10 @@
       "name_nl": "Staatliches Museum Ägyptischer Kunst",
       "desc_nl": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri.",
       "tip_nl": "Located entirely underground beneath the University of Television and Film. The dramatic spotlighting makes Pharaoh statues feel alive. €1 entry on Sundays!",
-      "price_nl": "Entry: €7 (€1 on Sundays!)"
+      "price_nl": "Entry: €7 (€1 on Sundays!)",
+      "categories": [
+        "Museum"
+      ]
     },
     {
       "id": "m_31",
@@ -1582,7 +1706,12 @@
       "name_nl": "Museum Mensch und Natur",
       "desc_nl": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain.",
       "tip_nl": "Extremely family-friendly with tactile earthquake simulators and quiz games inside Nymphenburg Palace. Admission is just €1 on Sundays!",
-      "price_nl": "Entry: €3.50 (€1 on Sundays!)"
+      "price_nl": "Entry: €3.50 (€1 on Sundays!)",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "m_32",
@@ -1633,7 +1762,12 @@
       "name_nl": "Bier- und Oktoberfestmuseum",
       "desc_nl": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting.",
       "tip_nl": "Climb the steep historic wooden staircase (Himmelsleiter) to explore 14th-century beams. Finish with a fresh Augustinermuseum beer sample in the pub downstairs!",
-      "price_nl": "Entry + Tasting: €7"
+      "price_nl": "Entry + Tasting: €7",
+      "categories": [
+        "Café",
+        "Museum",
+        "Night"
+      ]
     },
     {
       "id": "m_33",
@@ -1684,7 +1818,12 @@
       "name_nl": "Spielzeugmuseum im Alten Rathaus",
       "desc_nl": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
       "tip_nl": "Spiral up four floors of the Old Town Hall tower to see historic Steiff Teddy Bears, tin trains, and early Barbie dolls. Great quick stop right on Marienplatz!",
-      "price_nl": "Entry: €6"
+      "price_nl": "Entry: €6",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "m_34",
@@ -1735,7 +1874,12 @@
       "name_nl": "Theresienwiese & Bavaria Statue",
       "desc_nl": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
       "tip_nl": "Outside Oktoberfest season (mid-Sept to Oct), climb inside the bronze head of the Bavaria statue via spiral stairs for a unique view through her eyes!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "m_35",
@@ -1787,7 +1931,10 @@
       "name_nl": "Sendlinger Tor & Karlsplatz",
       "desc_nl": "Historic 14th-century Gothic city gates bounding Munich's inner old town.",
       "tip_nl": "🛷 In summer, kids splash in the giant fountain jets; in winter (Nov–Jan), the entire square turns into an open-air ice skating rink!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "m_36",
@@ -1839,7 +1986,10 @@
       "name_nl": "Flaucher & Isarauen River Park",
       "desc_nl": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs.",
       "tip_nl": "🧺 Pack a blanket, snacks, and cold beers to join locals relaxing on the natural gravel banks along the Isar river for a sunny afternoon.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "m_37",
@@ -1891,7 +2041,11 @@
       "name_nl": "Dallmayr Delikatessenhaus",
       "desc_nl": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen.",
       "tip_nl": "🛍️ Head to the ground floor coffee counter where baristas weigh freshly roasted coffee beans in antique porcelain scales for premium souvenirs.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Kids"
+      ]
     },
     {
       "id": "m_38",
@@ -1943,7 +2097,12 @@
       "name_nl": "Schneider Bräuhaus",
       "desc_nl": "Historic brewery tavern world-renowned for Schneider Weisse wheat beer & traditional cuisine.",
       "tip_nl": "🍽️ Pair Schneider Weisse TAP7 beer with a traditional warm Weisswurst (white sausage) served in hot water with sweet Bavarian mustard and pretzels before 12 PM!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "m_39",
@@ -1995,7 +2154,11 @@
       "name_nl": "Café Frischhut",
       "desc_nl": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973.",
       "tip_nl": "🍽️ Order hot piping-hot 'Schmalznudel' (traditional Bavarian lard-fried doughnut) straight out of the bubbling oil pan with a warm Milchkaffee!",
-      "price_nl": "Pastries: €2.50–€3.50"
+      "price_nl": "Pastries: €2.50–€3.50",
+      "categories": [
+        "Café",
+        "Landmark"
+      ]
     },
     {
       "id": "m_40",
@@ -2047,7 +2210,10 @@
       "name_nl": "Café Luitpold",
       "desc_nl": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium.",
       "tip_nl": "🍽️ Sit under the glass palm atrium to sample their signature 'Luitpold-Torte' (layered dark chocolate & marzipan cake) with freshly brewed espresso.",
-      "price_nl": "Coffee & Cake: €8–€14"
+      "price_nl": "Coffee & Cake: €8–€14",
+      "categories": [
+        "Café"
+      ]
     },
     {
       "id": "m_41",
@@ -2098,7 +2264,13 @@
       "name_nl": "Bavariapark & Verkehrszentrum",
       "desc_nl": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls.",
       "tip_nl": "Awesome spot for train & car lovers of all ages! Includes early steam locomotives, Puch motorbikes, and interactive driving simulators.",
-      "price_nl": "Free Gardens (Interior: €8)"
+      "price_nl": "Free Gardens (Interior: €8)",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Museum",
+        "Scenery"
+      ]
     },
     {
       "id": "m_42",
@@ -2149,7 +2321,12 @@
       "name_nl": "Westpark & East Asian Pagodas",
       "desc_nl": "Sprawling park featuring authentic Japanese garden, Chinese garden & Thai Buddha Sala.",
       "tip_nl": "Visit the Thai Sala standing in the middle of the lake—it houses a consecrated Buddha statue! Peaceful, less crowded alternative to Englischer Garten.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_43",
@@ -2200,7 +2377,11 @@
       "name_nl": "Königlicher Hirschgarten",
       "desc_nl": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure.",
       "tip_nl": "World's biggest beer garden! Wash your own stone beer mug (Steinkrug) at the washing stations before filling up, and feed the tame deer right next to your table.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Scenery"
+      ]
     },
     {
       "id": "m_44",
@@ -2252,7 +2433,12 @@
       "name_nl": "Müller'sches Volksbad",
       "desc_nl": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas.",
       "tip_nl": "👙 Swim under soaring neo-baroque stucco ceilings in the 30°C main pool or relax in the Roman-Irish steam baths (swimming caps not required).",
-      "price_nl": "Pool Entry: €5.50"
+      "price_nl": "Pool Entry: €5.50",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "m_45",
@@ -2304,7 +2490,12 @@
       "name_nl": "Werksviertel-Mitte & Umadum Ferris Wheel",
       "desc_nl": "Trendy converted industrial district featuring street art, container bars & world's largest mobile Ferris wheel.",
       "tip_nl": " Ride the 78-meter 'Umadum' giant Ferris wheel for clear views extending to the Bavarian Alps, then check out the rooftop urban sheep farm!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "m_46",
@@ -2356,7 +2547,12 @@
       "name_nl": "Schloss Neuschwanstein & Hohenschwangau",
       "desc_nl": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
       "tip_nl": "🎟️ Mandatory timed online ticket for interior tour! The ultimate photo spot is Marienbrücke bridge overlooking the castle (may close during icy winter conditions).",
-      "price_nl": "Guided Tour: €21 (Advance Online Booking Required)"
+      "price_nl": "Guided Tour: €21 (Advance Online Booking Required)",
+      "categories": [
+        "Kids",
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_47",
@@ -2408,7 +2604,10 @@
       "name_nl": "Wieskirche",
       "desc_nl": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows.",
       "tip_nl": "⛪ Free entrance to admire the world-class Rococo ceiling frescos. Respectful quiet is required; avoid visiting during active Sunday mass services.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "m_48",
@@ -2459,7 +2658,11 @@
       "name_nl": "Dachau Concentration Camp Memorial Site",
       "desc_nl": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933).",
       "tip_nl": "Easily reached via S2 train to Dachau + short bus 710. Admission is completely free. Rent the audio guide (€4.50) for vital historical context.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "m_49",
@@ -2510,7 +2713,13 @@
       "name_nl": "Schloss Schleißheim & Lustheim",
       "desc_nl": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens.",
       "tip_nl": "Far less crowded than Nymphenburg! Walk down the central canal to Schloss Lustheim which houses the Meissen Porcelain Collection.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "m_50",
@@ -2561,7 +2770,11 @@
       "name_nl": "Flugwerft Schleißheim",
       "desc_nl": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets.",
       "tip_nl": "You can watch restoration specialists working live on historic airplanes in the glass restoration workshop inside the exhibition hall!",
-      "price_nl": "Entry: €8"
+      "price_nl": "Entry: €8",
+      "categories": [
+        "Landmark",
+        "Museum"
+      ]
     },
     {
       "id": "m_51",
@@ -2613,7 +2826,11 @@
       "name_nl": "Starnberger See & Roseninsel",
       "desc_nl": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island.",
       "tip_nl": "🚆 Take the S6 train from Munich Central (30 min) directly to Starnberg station on the lake shore. Rent an electric boat or board the passenger cruise!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_52",
@@ -2665,7 +2882,12 @@
       "name_nl": "Ammersee & Kloster Andechs",
       "desc_nl": "Scenic lake & sacred hilltop Benedictine monastery famous for dark Doppelbock beer.",
       "tip_nl": "🎟️ Take S-Bahn line S8 to the Herrsching terminus, then enjoy a scenic 50-minute hike up the Holy Mountain to sample famous monastic Doppelbock beer.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "m_53",
@@ -2717,7 +2939,11 @@
       "name_nl": "Schloss Linderhof",
       "desc_nl": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto.",
       "tip_nl": "⛲ Watch the 25-meter golden Flora fountain shoot water into the air directly in front of the palace every hour on the hour!",
-      "price_nl": "Palace & Park: €10"
+      "price_nl": "Palace & Park: €10",
+      "categories": [
+        "Landmark",
+        "Scenery"
+      ]
     },
     {
       "id": "m_54",
@@ -2769,7 +2995,12 @@
       "name_nl": "Kloster Ettal",
       "desc_nl": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making.",
       "tip_nl": "🛍️ Visit the monastery shop to sample authentic 'Ettaler Klosterlikör' distilled by monks using 50 secret alpine herbs since medieval times.",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "m_55",
@@ -2820,7 +3051,10 @@
       "name_nl": "Partnachklamm Gorge",
       "desc_nl": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls.",
       "tip_nl": "Wear a waterproof rain jacket! You will walk through tunnels carved directly into wet limestone cliffs right above roaring turquoise rapids.",
-      "price_nl": "Entry: €7.50"
+      "price_nl": "Entry: €7.50",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "m_56",
@@ -2872,7 +3106,10 @@
       "name_nl": "Zugspitze & Eibsee",
       "desc_nl": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee.",
       "tip_nl": "🎟️ Take the Cable Car Zugspitze up to the 2,962m summit for 4-country views, then descend via the Cogwheel mountain train for a complete loop pass!",
-      "price_nl": "Cable Car & Cogwheel: €68"
+      "price_nl": "Cable Car & Cogwheel: €68",
+      "categories": [
+        "Scenery"
+      ]
     },
     {
       "id": "m_57",
@@ -2924,7 +3161,12 @@
       "name_nl": "Tegernsee & Schliersee Lakes",
       "desc_nl": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer.",
       "tip_nl": "🍺 Head to Herzogliches Bräustüberl Tegernsee right next to the lake for unpasteurized Tegernseer Hell beer on the outdoor water-view terrace!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Night",
+        "Scenery"
+      ]
     },
     {
       "id": "m_58",
@@ -2976,7 +3218,10 @@
       "name_nl": "Therme Erding",
       "desc_nl": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world.",
       "tip_nl": "👙 Bring your swimsuit & flip-flops! Relax in 34°C thermal pools under real palm trees or try the virtual reality water slides at Galaxy Water Park.",
-      "price_nl": "Day Ticket: €44–€54"
+      "price_nl": "Day Ticket: €44–€54",
+      "categories": [
+        "Landmark"
+      ]
     },
     {
       "id": "m_59",
@@ -3028,7 +3273,12 @@
       "name_nl": "Freising & Brauerei Weihenstephan",
       "desc_nl": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040).",
       "tip_nl": "🍺 Dine at the hilltop Bräustüberl Weihenstephan—the world's oldest active brewery (since AD 1040)—for fresh unfiltered Hefeweissbier and sausage platters!",
-      "price_nl": "Free Entry"
+      "price_nl": "Free Entry",
+      "categories": [
+        "Café",
+        "Landmark",
+        "Night"
+      ]
     },
     {
       "id": "m_60",
@@ -3080,7 +3330,12 @@
       "name_nl": "Bavaria Filmstadt",
       "desc_nl": "Famous film studio tour featuring real props from 'Das Boot', 'The Neverending Story' & 4D cinema.",
       "tip_nl": "🎬 Step inside the real 55-meter submarine film set used in 'Das Boot' or ride on the back of Falkor the Luckdragon from 'The NeverEnding Story'!",
-      "price_nl": "Guided Tour: €22"
+      "price_nl": "Guided Tour: €22",
+      "categories": [
+        "Café",
+        "Museum",
+        "Night"
+      ]
     }
   ]
 }
