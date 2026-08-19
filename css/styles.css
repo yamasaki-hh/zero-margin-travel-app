@@ -796,19 +796,31 @@ footer {
 }
 
 /* Category Filter Bar & Chips */
-.category-filter-bar {
+.category-filter-bar, .category-filter-box {
   display: flex;
-  align-items: center;
-  gap: 0.45rem;
-  overflow-x: auto;
-  padding: 0.3rem 0.1rem 0.6rem;
-  margin-bottom: 0.5rem;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0.85rem 1rem;
+  margin-bottom: 1rem;
+  background: #FAF7F2;
+  border: 2px solid var(--border-ink);
+  border-radius: 16px;
+  box-shadow: var(--shadow-sketch, 3px 3px 0px var(--border-ink));
 }
 
-.category-filter-bar::-webkit-scrollbar {
-  display: none;
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.filter-group-label {
+  font-size: 0.8rem;
+  font-weight: 800;
+  color: var(--primary-forest, #047857);
+  min-width: 100px;
+  font-family: var(--font-sans);
 }
 
 .filter-chip {

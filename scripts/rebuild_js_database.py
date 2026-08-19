@@ -205,3 +205,10 @@ if m_start != -1 and m_end != -1:
 with open(js_path, 'w', encoding='utf-8') as f:
     f.write(js_code)
 print(f"🎉 Successfully rebuilt {js_path} with 100% verified multilingual data and full countryCityMap across {len(db)} cities!")
+
+# 5. Apply Top 7 & Hidden Gems Tagging
+top7_script = os.path.join(base_dir, 'apply_top7_hiddengems_tags.py')
+if os.path.exists(top7_script):
+    print("\n🏷️ Applying Top 7 & Hidden Gems tagging across all cities...")
+    subprocess.run(['python3', top7_script], check=True)
+
