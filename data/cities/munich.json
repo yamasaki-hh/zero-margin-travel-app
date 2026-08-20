@@ -3,7 +3,7 @@
   "spotCount": 60,
   "spots": [
     {
-      "id": "m_1",
+      "id": "muc_m_1",
       "name": "Marienplatz & New Town Hall",
       "category": "Landmark",
       "rating": "★4.7",
@@ -54,10 +54,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Marienplatz & New Town Hall"
+      "name_local": "Marienplatz & New Town Hall",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "m_2",
+      "id": "muc_m_2",
       "name": "Frauenkirche",
       "category": "Landmark",
       "rating": "★4.6",
@@ -108,10 +110,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Frauenkirche"
+      "name_local": "Frauenkirche",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "m_3",
+      "id": "muc_m_3",
       "name": "Munich Residenz & Treasury",
       "category": "Landmark",
       "rating": "★4.7",
@@ -163,10 +167,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Munich Residenz & Treasury"
+      "name_local": "Munich Residenz & Treasury",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "m_4",
+      "id": "muc_m_4",
       "name": "Nymphenburg Palace & Gardens",
       "category": "Landmark",
       "rating": "★4.7",
@@ -224,10 +230,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Nymphenburg Palace & Gardens"
+      "name_local": "Nymphenburg Palace & Gardens",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "m_5",
+      "id": "muc_m_5",
       "name": "Deutsches Museum",
       "category": "Museum & Art",
       "rating": "★4.7",
@@ -282,10 +290,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Museum"
+      "name_local": "Deutsches Museum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "m_6",
+      "id": "muc_m_6",
       "name": "Alte Pinakothek",
       "category": "Museum & Art",
       "rating": "★4.7",
@@ -339,10 +349,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Alte Pinakothek"
+      "name_local": "Alte Pinakothek",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_7",
+      "id": "muc_m_7",
       "name": "Neue Pinakothek",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -396,10 +408,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Neue Pinakothek"
+      "name_local": "Neue Pinakothek",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_8",
+      "id": "muc_m_8",
       "name": "Pinakothek der Moderne",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -453,10 +467,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Pinakothek der Moderne"
+      "name_local": "Pinakothek der Moderne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_9",
+      "id": "muc_m_9",
       "name": "Museum Brandhorst",
       "category": "Museum & Art",
       "rating": "★4.5",
@@ -509,10 +525,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Brandhorst"
+      "name_local": "Museum Brandhorst",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_10",
+      "id": "muc_m_10",
       "name": "Städtische Galerie im Lenbachhaus",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -566,10 +584,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Städtische Galerie im Lenbachhaus"
+      "name_local": "Städtische Galerie im Lenbachhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_11",
+      "id": "muc_m_11",
       "name": "BMW Museum & BMW Welt",
       "category": "Landmark",
       "rating": "★4.8",
@@ -623,10 +643,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "BMW Museum & BMW Welt"
+      "name_local": "BMW Museum & BMW Welt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_12",
+      "id": "muc_m_12",
       "name": "Englischer Garten & Eisbachwelle",
       "category": "Scenery",
       "rating": "★4.8",
@@ -681,10 +703,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Englischer Garten & Eisbachwelle"
+      "name_local": "Englischer Garten & Eisbachwelle",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_13",
+      "id": "muc_m_13",
       "name": "Viktualienmarkt",
       "category": "Café & Dining",
       "rating": "★4.7",
@@ -739,10 +763,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Viktualienmarkt"
+      "name_local": "Viktualienmarkt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "m_14",
+      "id": "muc_m_14",
       "name": "Hofbräuhaus am Platzl",
       "category": "Café & Dining",
       "rating": "★4.5",
@@ -796,10 +822,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Hofbräuhaus am Platzl"
+      "name_local": "Hofbräuhaus am Platzl",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "m_15",
+      "id": "muc_m_15",
       "name": "Augustiner-Keller & Stammhaus",
       "category": "Café & Dining",
       "rating": "★4.6",
@@ -855,10 +883,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Augustiner-Keller & Stammhaus"
+      "name_local": "Augustiner-Keller & Stammhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_16",
+      "id": "muc_m_16",
       "name": "Olympiapark München & Olympiaturm",
       "category": "Landmark",
       "rating": "★4.7",
@@ -912,10 +942,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Olympiapark München & Olympiaturm"
+      "name_local": "Olympiapark München & Olympiaturm",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_17",
+      "id": "muc_m_17",
       "name": "Allianz Arena & FC Bayern Museum",
       "category": "Landmark",
       "rating": "★4.7",
@@ -970,10 +1002,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Allianz Arena & FC Bayern Museum"
+      "name_local": "Allianz Arena & FC Bayern Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_18",
+      "id": "muc_m_18",
       "name": "Tierpark Hellabrunn",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1028,10 +1062,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Tierpark Hellabrunn"
+      "name_local": "Tierpark Hellabrunn",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_19",
+      "id": "muc_m_19",
       "name": "Sea Life München",
       "category": "Landmark",
       "rating": "★4.3",
@@ -1087,10 +1123,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Sea Life München"
+      "name_local": "Sea Life München",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_20",
+      "id": "muc_m_20",
       "name": "St. Peter's Church",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1144,10 +1182,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "St. Peter's Church"
+      "name_local": "St. Peter's Church",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "m_21",
+      "id": "muc_m_21",
       "name": "Asamkirche",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1202,10 +1242,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Asamkirche"
+      "name_local": "Asamkirche",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "m_22",
+      "id": "muc_m_22",
       "name": "Theatinerkirche",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1260,10 +1302,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Theatinerkirche"
+      "name_local": "Theatinerkirche",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "m_23",
+      "id": "muc_m_23",
       "name": "Odeonsplatz & Feldherrnhalle",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1317,10 +1361,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Odeonsplatz & Feldherrnhalle"
+      "name_local": "Odeonsplatz & Feldherrnhalle",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_24",
+      "id": "muc_m_24",
       "name": "Kaufingerstraße & Neuhauser Straße",
       "category": "Scenery",
       "rating": "★4.6",
@@ -1375,10 +1421,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Kaufingerstraße & Neuhauser Straße"
+      "name_local": "Kaufingerstraße & Neuhauser Straße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_25",
+      "id": "muc_m_25",
       "name": "Maximilianstraße",
       "category": "Scenery",
       "rating": "★4.5",
@@ -1432,10 +1480,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Maximilianstraße"
+      "name_local": "Maximilianstraße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_26",
+      "id": "muc_m_26",
       "name": "Kaufingertor & FÜNF HÖFE",
       "category": "Scenery",
       "rating": "★4.6",
@@ -1489,10 +1539,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Kaufingertor & FÜNF HÖFE"
+      "name_local": "Kaufingertor & FÜNF HÖFE",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_27",
+      "id": "muc_m_27",
       "name": "Botanischer Garten München-Nymphenburg",
       "category": "Scenery",
       "rating": "★4.7",
@@ -1546,10 +1598,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Botanischer Garten München-Nymphenburg"
+      "name_local": "Botanischer Garten München-Nymphenburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_28",
+      "id": "muc_m_28",
       "name": "NS-Dokumentationszentrum München",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -1603,10 +1657,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "NS-Dokumentationszentrum München"
+      "name_local": "NS-Dokumentationszentrum München",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_29",
+      "id": "muc_m_29",
       "name": "Bayerisches Nationalmuseum",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -1659,10 +1715,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Bayerisches Nationalmuseum"
+      "name_local": "Bayerisches Nationalmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_30",
+      "id": "muc_m_30",
       "name": "Staatliches Museum Ägyptischer Kunst",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -1715,10 +1773,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Staatliches Museum Ägyptischer Kunst"
+      "name_local": "Staatliches Museum Ägyptischer Kunst",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_31",
+      "id": "muc_m_31",
       "name": "Museum Mensch und Natur",
       "category": "Museum & Art",
       "rating": "★4.5",
@@ -1773,10 +1833,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Mensch und Natur"
+      "name_local": "Museum Mensch und Natur",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_32",
+      "id": "muc_m_32",
       "name": "Bier- und Oktoberfestmuseum",
       "category": "Museum & Art",
       "rating": "★4.4",
@@ -1831,10 +1893,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Bier- und Oktoberfestmuseum"
+      "name_local": "Bier- und Oktoberfestmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_33",
+      "id": "muc_m_33",
       "name": "Spielzeugmuseum im Alten Rathaus",
       "category": "Museum & Art",
       "rating": "★4.3",
@@ -1889,10 +1953,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Spielzeugmuseum im Alten Rathaus"
+      "name_local": "Spielzeugmuseum im Alten Rathaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_34",
+      "id": "muc_m_34",
       "name": "Theresienwiese & Bavaria Statue",
       "category": "Landmark",
       "rating": "★4.5",
@@ -1947,10 +2013,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Theresienwiese & Bavaria Statue"
+      "name_local": "Theresienwiese & Bavaria Statue",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_35",
+      "id": "muc_m_35",
       "name": "Sendlinger Tor & Karlsplatz",
       "category": "Landmark",
       "rating": "★4.5",
@@ -2004,10 +2072,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Sendlinger Tor & Karlsplatz"
+      "name_local": "Sendlinger Tor & Karlsplatz",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_36",
+      "id": "muc_m_36",
       "name": "Flaucher & Isarauen River Park",
       "category": "Scenery",
       "rating": "★4.7",
@@ -2061,10 +2131,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Flaucher & Isarauen River Park"
+      "name_local": "Flaucher & Isarauen River Park",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_37",
+      "id": "muc_m_37",
       "name": "Dallmayr Delikatessenhaus",
       "category": "Café & Dining",
       "rating": "★4.6",
@@ -2119,10 +2191,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Dallmayr Delikatessenhaus"
+      "name_local": "Dallmayr Delikatessenhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_38",
+      "id": "muc_m_38",
       "name": "Schneider Bräuhaus",
       "category": "Café & Dining",
       "rating": "★4.6",
@@ -2178,10 +2252,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Schneider Bräuhaus"
+      "name_local": "Schneider Bräuhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_39",
+      "id": "muc_m_39",
       "name": "Café Frischhut",
       "category": "Café & Dining",
       "rating": "★4.7",
@@ -2236,10 +2312,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Café Frischhut"
+      "name_local": "Café Frischhut",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_40",
+      "id": "muc_m_40",
       "name": "Café Luitpold",
       "category": "Café & Dining",
       "rating": "★4.5",
@@ -2293,10 +2371,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Café Luitpold"
+      "name_local": "Café Luitpold",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_41",
+      "id": "muc_m_41",
       "name": "Bavariapark & Verkehrszentrum",
       "category": "Museum & Art",
       "rating": "★4.5",
@@ -2352,10 +2432,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Bavariapark & Verkehrszentrum"
+      "name_local": "Bavariapark & Verkehrszentrum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_42",
+      "id": "muc_m_42",
       "name": "Westpark & East Asian Pagodas",
       "category": "Scenery",
       "rating": "★4.7",
@@ -2410,10 +2492,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Westpark & East Asian Pagodas"
+      "name_local": "Westpark & East Asian Pagodas",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_43",
+      "id": "muc_m_43",
       "name": "Königlicher Hirschgarten",
       "category": "Café & Dining",
       "rating": "★4.7",
@@ -2467,10 +2551,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Königlicher Hirschgarten"
+      "name_local": "Königlicher Hirschgarten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_44",
+      "id": "muc_m_44",
       "name": "Müller'sches Volksbad",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2526,10 +2612,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Müller'sches Volksbad"
+      "name_local": "Müller'sches Volksbad",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_45",
+      "id": "muc_m_45",
       "name": "Werksviertel-Mitte & Umadum Ferris Wheel",
       "category": "Scenery",
       "rating": "★4.6",
@@ -2585,10 +2673,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Werksviertel-Mitte & Umadum Ferris Wheel"
+      "name_local": "Werksviertel-Mitte & Umadum Ferris Wheel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_46",
+      "id": "muc_m_46",
       "name": "Schloss Neuschwanstein & Hohenschwangau",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2644,10 +2734,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Neuschwanstein & Hohenschwangau"
+      "name_local": "Schloss Neuschwanstein & Hohenschwangau",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_47",
+      "id": "muc_m_47",
       "name": "Wieskirche",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2701,10 +2793,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Wieskirche"
+      "name_local": "Wieskirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_48",
+      "id": "muc_m_48",
       "name": "Dachau Concentration Camp Memorial Site",
       "category": "Museum & Art",
       "rating": "★4.7",
@@ -2758,10 +2852,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Dachau Concentration Camp Memorial Site"
+      "name_local": "Dachau Concentration Camp Memorial Site",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_49",
+      "id": "muc_m_49",
       "name": "Schloss Schleißheim & Lustheim",
       "category": "Landmark",
       "rating": "★4.6",
@@ -2817,10 +2913,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Schloss Schleißheim & Lustheim"
+      "name_local": "Schloss Schleißheim & Lustheim",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_50",
+      "id": "muc_m_50",
       "name": "Flugwerft Schleißheim",
       "category": "Museum & Art",
       "rating": "★4.7",
@@ -2874,10 +2972,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Flugwerft Schleißheim"
+      "name_local": "Flugwerft Schleißheim",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_51",
+      "id": "muc_m_51",
       "name": "Starnberger See & Roseninsel",
       "category": "Scenery",
       "rating": "★4.7",
@@ -2932,10 +3032,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Starnberger See & Roseninsel"
+      "name_local": "Starnberger See & Roseninsel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_52",
+      "id": "muc_m_52",
       "name": "Ammersee & Kloster Andechs",
       "category": "Scenery",
       "rating": "★4.8",
@@ -2991,10 +3093,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Ammersee & Kloster Andechs"
+      "name_local": "Ammersee & Kloster Andechs",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "m_53",
+      "id": "muc_m_53",
       "name": "Schloss Linderhof",
       "category": "Landmark",
       "rating": "★4.7",
@@ -3049,10 +3153,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Linderhof"
+      "name_local": "Schloss Linderhof",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_54",
+      "id": "muc_m_54",
       "name": "Kloster Ettal",
       "category": "Landmark",
       "rating": "★4.6",
@@ -3108,10 +3214,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Kloster Ettal"
+      "name_local": "Kloster Ettal",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_55",
+      "id": "muc_m_55",
       "name": "Partnachklamm Gorge",
       "category": "Scenery",
       "rating": "★4.8",
@@ -3164,10 +3272,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Partnachklamm Gorge"
+      "name_local": "Partnachklamm Gorge",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_56",
+      "id": "muc_m_56",
       "name": "Zugspitze & Eibsee",
       "category": "Scenery",
       "rating": "★4.8",
@@ -3221,10 +3331,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Zugspitze & Eibsee"
+      "name_local": "Zugspitze & Eibsee",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_57",
+      "id": "muc_m_57",
       "name": "Tegernsee & Schliersee Lakes",
       "category": "Scenery",
       "rating": "★4.7",
@@ -3280,10 +3392,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Tegernsee & Schliersee Lakes"
+      "name_local": "Tegernsee & Schliersee Lakes",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "m_58",
+      "id": "muc_m_58",
       "name": "Therme Erding",
       "category": "Landmark",
       "rating": "★4.7",
@@ -3337,10 +3451,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Therme Erding"
+      "name_local": "Therme Erding",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_59",
+      "id": "muc_m_59",
       "name": "Freising & Brauerei Weihenstephan",
       "category": "Café & Dining",
       "rating": "★4.7",
@@ -3396,10 +3512,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Freising & Brauerei Weihenstephan"
+      "name_local": "Freising & Brauerei Weihenstephan",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "m_60",
+      "id": "muc_m_60",
       "name": "Bavaria Filmstadt",
       "category": "Museum & Art",
       "rating": "★4.4",
@@ -3455,7 +3573,9 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Bavaria Filmstadt"
+      "name_local": "Bavaria Filmstadt",
+      "top7": false,
+      "hiddenGem": false
     }
   ]
 }

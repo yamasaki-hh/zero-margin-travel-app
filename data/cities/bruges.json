@@ -1,6 +1,6 @@
 [
   {
-    "id": "bg_1",
+    "id": "bru_bg_1",
     "name": "Belfort van Brugge",
     "category": "Landmark",
     "rating": "★4.8",
@@ -48,10 +48,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Belfort van Brugge"
+    "name_local": "Belfort van Brugge",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "bg_2",
+    "id": "bru_bg_2",
     "name": "De Markt",
     "category": "Landmark",
     "rating": "★4.8",
@@ -99,10 +101,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "De Markt"
+    "name_local": "De Markt",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "bg_3",
+    "id": "bru_bg_3",
     "name": "De Burg & Stadhuis",
     "category": "Landmark",
     "rating": "★4.7",
@@ -150,10 +154,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "De Burg & Stadhuis"
+    "name_local": "De Burg & Stadhuis",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "bg_4",
+    "id": "bru_bg_4",
     "name": "Heilig-Bloedbasiliek",
     "category": "Landmark",
     "rating": "★4.7",
@@ -201,10 +207,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Heilig-Bloedbasiliek"
+    "name_local": "Heilig-Bloedbasiliek",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "bg_5",
+    "id": "bru_bg_5",
     "name": "Rozenhoedkaai",
     "category": "Scenery & Walk",
     "rating": "★4.9",
@@ -252,10 +260,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Rozenhoedkaai"
+    "name_local": "Rozenhoedkaai",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "bg_6",
+    "id": "bru_bg_6",
     "name": "Boottochten op de Brugse Reien",
     "category": "Scenery & Walk",
     "rating": "★4.8",
@@ -303,10 +313,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Boottochten op de Brugse Reien"
+    "name_local": "Boottochten op de Brugse Reien",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_7",
+    "id": "bru_bg_7",
     "name": "Onze-Lieve-Vrouwekerk",
     "category": "Landmark",
     "rating": "★4.7",
@@ -354,10 +366,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Onze-Lieve-Vrouwekerk"
+    "name_local": "Onze-Lieve-Vrouwekerk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_8",
+    "id": "bru_bg_8",
     "name": "Sint-Janshospitaal",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -405,10 +419,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Janshospitaal"
+    "name_local": "Sint-Janshospitaal",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_9",
+    "id": "bru_bg_9",
     "name": "Groeningemuseum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -456,10 +472,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Groeningemuseum"
+    "name_local": "Groeningemuseum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_10",
+    "id": "bru_bg_10",
     "name": "Begijnhof Ten Wijngaerde",
     "category": "Scenery & Walk",
     "rating": "★4.8",
@@ -508,10 +526,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Begijnhof Ten Wijngaerde"
+    "name_local": "Begijnhof Ten Wijngaerde",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_11",
+    "id": "bru_bg_11",
     "name": "Minnewater & Minnewaterpark",
     "category": "Scenery & Walk",
     "rating": "★4.8",
@@ -561,10 +581,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Minnewater & Minnewaterpark"
+    "name_local": "Minnewater & Minnewaterpark",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_12",
+    "id": "bru_bg_12",
     "name": "Brouwerij De Halve Maan",
     "category": "Landmark",
     "rating": "★4.7",
@@ -615,10 +637,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Brouwerij De Halve Maan"
+    "name_local": "Brouwerij De Halve Maan",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "bg_13",
+    "id": "bru_bg_13",
     "name": "Bonifaciusbrug",
     "category": "Scenery & Walk",
     "rating": "★4.8",
@@ -667,10 +691,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Bonifaciusbrug"
+    "name_local": "Bonifaciusbrug",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_14",
+    "id": "bru_bg_14",
     "name": "Gruuthusemuseum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -719,10 +745,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Gruuthusemuseum"
+    "name_local": "Gruuthusemuseum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_15",
+    "id": "bru_bg_15",
     "name": "Sint-Salvatorskathedraal",
     "category": "Landmark",
     "rating": "★4.6",
@@ -770,10 +798,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Salvatorskathedraal"
+    "name_local": "Sint-Salvatorskathedraal",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "bg_16",
+    "id": "bru_bg_16",
     "name": "Choco-Story Brugge",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -824,10 +854,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Choco-Story Brugge"
+    "name_local": "Choco-Story Brugge",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "bg_17",
+    "id": "bru_bg_17",
     "name": "Frietmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -876,10 +908,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Frietmuseum"
+    "name_local": "Frietmuseum",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "bg_18",
+    "id": "bru_bg_18",
     "name": "Historium Brugge",
     "category": "Landmark",
     "rating": "★4.6",
@@ -927,10 +961,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Historium Brugge"
+    "name_local": "Historium Brugge",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_19",
+    "id": "bru_bg_19",
     "name": "Kantcentrum & Kantmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
@@ -979,10 +1015,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Kantcentrum & Kantmuseum"
+    "name_local": "Kantcentrum & Kantmuseum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_20",
+    "id": "bru_bg_20",
     "name": "Jerusalemkapel",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1030,10 +1068,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Jerusalemkapel"
+    "name_local": "Jerusalemkapel",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_21",
+    "id": "bru_bg_21",
     "name": "Huidenvettersplein",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1084,10 +1124,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Huidenvettersplein"
+    "name_local": "Huidenvettersplein",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_22",
+    "id": "bru_bg_22",
     "name": "Vismarkt",
     "category": "Scenery & Walk",
     "rating": "★4.5",
@@ -1136,10 +1178,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Vismarkt"
+    "name_local": "Vismarkt",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_23",
+    "id": "bru_bg_23",
     "name": "Kruispoort & Gentpoort",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1189,10 +1233,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Kruispoort & Gentpoort"
+    "name_local": "Kruispoort & Gentpoort",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_24",
+    "id": "bru_bg_24",
     "name": "Sint-Janshuismolen",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1240,10 +1286,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Janshuismolen"
+    "name_local": "Sint-Janshuismolen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_25",
+    "id": "bru_bg_25",
     "name": "Steenstraat & Wollestraat",
     "category": "Shopping",
     "rating": "★4.6",
@@ -1295,10 +1343,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Steenstraat & Wollestraat"
+    "name_local": "Steenstraat & Wollestraat",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_26",
+    "id": "bru_bg_26",
     "name": "2be Beer Wall",
     "category": "Café & Bistro",
     "rating": "★4.7",
@@ -1349,10 +1399,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "2be Beer Wall"
+    "name_local": "2be Beer Wall",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "bg_27",
+    "id": "bru_bg_27",
     "name": "Volkskundemuseum",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -1402,10 +1454,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Volkskundemuseum"
+    "name_local": "Volkskundemuseum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_28",
+    "id": "bru_bg_28",
     "name": "Godshuizen",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1453,10 +1507,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Godshuizen"
+    "name_local": "Godshuizen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_29",
+    "id": "bru_bg_29",
     "name": "Koningin Astridpark",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1505,10 +1561,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Koningin Astridpark"
+    "name_local": "Koningin Astridpark",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_30",
+    "id": "bru_bg_30",
     "name": "Sint-Annakerk",
     "category": "Landmark",
     "rating": "★4.5",
@@ -1558,10 +1616,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Sint-Annakerk"
+    "name_local": "Sint-Annakerk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_31",
+    "id": "bru_bg_31",
     "name": "Brouwerij Bourgogne des Flandres",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1612,10 +1672,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Brouwerij Bourgogne des Flandres"
+    "name_local": "Brouwerij Bourgogne des Flandres",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "bg_32",
+    "id": "bru_bg_32",
     "name": "Hof Arents",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1664,10 +1726,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Hof Arents"
+    "name_local": "Hof Arents",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_33",
+    "id": "bru_bg_33",
     "name": "Chocolaterie Dumon",
     "category": "Café & Bistro",
     "rating": "★4.8",
@@ -1717,10 +1781,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Chocolaterie Dumon"
+    "name_local": "Chocolaterie Dumon",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "bg_34",
+    "id": "bru_bg_34",
     "name": "Oud Sint-Jan",
     "category": "Museum & Gallery",
     "rating": "★4.5",
@@ -1769,10 +1835,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Oud Sint-Jan"
+    "name_local": "Oud Sint-Jan",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_35",
+    "id": "bru_bg_35",
     "name": "Diamond Museum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
@@ -1820,10 +1888,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Diamond Museum"
+    "name_local": "Diamond Museum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_36",
+    "id": "bru_bg_36",
     "name": "Jan van Eyckplein",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1871,10 +1941,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Jan van Eyckplein"
+    "name_local": "Jan van Eyckplein",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_37",
+    "id": "bru_bg_37",
     "name": "Spiegelrei & Langerei",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1922,10 +1994,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Spiegelrei & Langerei"
+    "name_local": "Spiegelrei & Langerei",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_38",
+    "id": "bru_bg_38",
     "name": "Engels Klooster",
     "category": "Landmark",
     "rating": "★4.5",
@@ -1975,10 +2049,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Engels Klooster"
+    "name_local": "Engels Klooster",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_39",
+    "id": "bru_bg_39",
     "name": "Gezelle Memorial Museum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
@@ -2027,10 +2103,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Gezelle Memorial Museum"
+    "name_local": "Gezelle Memorial Museum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_40",
+    "id": "bru_bg_40",
     "name": "Vesten van Brugge",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -2080,10 +2158,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Vesten van Brugge"
+    "name_local": "Vesten van Brugge",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_41",
+    "id": "bru_bg_41",
     "name": "Historisch Damme",
     "category": "Landmark",
     "rating": "★4.7",
@@ -2133,10 +2213,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Historisch Damme"
+    "name_local": "Historisch Damme",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "bg_42",
+    "id": "bru_bg_42",
     "name": "Kasteel van Loppem",
     "category": "Landmark",
     "rating": "★4.7",
@@ -2184,6 +2266,8 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Kasteel van Loppem"
+    "name_local": "Kasteel van Loppem",
+    "top7": false,
+    "hiddenGem": false
   }
 ]

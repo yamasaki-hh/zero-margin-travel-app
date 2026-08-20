@@ -5,7 +5,7 @@
   "country_ja": "オランダ",
   "spots": [
     {
-      "id": "ro_1",
+      "id": "rtm_ro_1",
       "name": "Erasmusbrug",
       "category": "Landmark",
       "rating": "★4.7",
@@ -53,10 +53,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Erasmusbrug"
+      "name_local": "Erasmusbrug",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ro_2",
+      "id": "rtm_ro_2",
       "name": "Markthal Rotterdam",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -105,10 +107,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Markthal Rotterdam"
+      "name_local": "Markthal Rotterdam",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ro_3",
+      "id": "rtm_ro_3",
       "name": "Kijk-Kubus & Kubuswoningen",
       "category": "Landmark",
       "rating": "★4.7",
@@ -157,10 +161,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Kijk-Kubus & Kubuswoningen"
+      "name_local": "Kijk-Kubus & Kubuswoningen",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ro_4",
+      "id": "rtm_ro_4",
       "name": "Depot Boijmans Van Beuningen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -208,10 +214,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Depot Boijmans Van Beuningen"
+      "name_local": "Depot Boijmans Van Beuningen",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ro_5",
+      "id": "rtm_ro_5",
       "name": "Euromast & Euroscoop",
       "category": "Landmark",
       "rating": "★4.7",
@@ -260,10 +268,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Euromast & Euroscoop"
+      "name_local": "Euromast & Euroscoop",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ro_6",
+      "id": "rtm_ro_6",
       "name": "Werelderfgoed Kinderdijk",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -312,10 +322,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Werelderfgoed Kinderdijk"
+      "name_local": "Werelderfgoed Kinderdijk",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ro_7",
+      "id": "rtm_ro_7",
       "name": "Historisch Delfshaven",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -363,10 +375,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Delfshaven"
+      "name_local": "Historisch Delfshaven",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_8",
+      "id": "rtm_ro_8",
       "name": "SS Rotterdam",
       "category": "Landmark",
       "rating": "★4.7",
@@ -414,10 +428,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "SS Rotterdam"
+      "name_local": "SS Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_9",
+      "id": "rtm_ro_9",
       "name": "De Rotterdam",
       "category": "Landmark",
       "rating": "★4.7",
@@ -465,10 +481,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "De Rotterdam"
+      "name_local": "De Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_10",
+      "id": "rtm_ro_10",
       "name": "Rotterdam Watertaxi",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -516,10 +534,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Rotterdam Watertaxi"
+      "name_local": "Rotterdam Watertaxi",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_11",
+      "id": "rtm_ro_11",
       "name": "Hotel New York & Wilhelminapier",
       "category": "Landmark",
       "rating": "★4.7",
@@ -569,10 +589,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Hotel New York & Wilhelminapier"
+      "name_local": "Hotel New York & Wilhelminapier",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ro_12",
+      "id": "rtm_ro_12",
       "name": "Fenix Food Factory & Katendrecht",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -620,10 +642,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Fenix Food Factory & Katendrecht"
+      "name_local": "Fenix Food Factory & Katendrecht",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ro_13",
+      "id": "rtm_ro_13",
       "name": "Museum Boijmans Van Beuningen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -673,10 +697,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Boijmans Van Beuningen"
+      "name_local": "Museum Boijmans Van Beuningen",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ro_14",
+      "id": "rtm_ro_14",
       "name": "Kunsthal Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -725,10 +751,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kunsthal Rotterdam"
+      "name_local": "Kunsthal Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_15",
+      "id": "rtm_ro_15",
       "name": "Het Nieuwe Instituut & Huis Sonneveld",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -776,10 +804,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Het Nieuwe Instituut & Huis Sonneveld"
+      "name_local": "Het Nieuwe Instituut & Huis Sonneveld",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_16",
+      "id": "rtm_ro_16",
       "name": "Maritiem Museum Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -827,10 +857,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Maritiem Museum Rotterdam"
+      "name_local": "Maritiem Museum Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_17",
+      "id": "rtm_ro_17",
       "name": "Witte de Withstraat",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -880,10 +912,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Witte de Withstraat"
+      "name_local": "Witte de Withstraat",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_18",
+      "id": "rtm_ro_18",
       "name": "Station Rotterdam Centraal",
       "category": "Landmark",
       "rating": "★4.7",
@@ -931,10 +965,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Station Rotterdam Centraal"
+      "name_local": "Station Rotterdam Centraal",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_19",
+      "id": "rtm_ro_19",
       "name": "Laurenskerk",
       "category": "Landmark",
       "rating": "★4.7",
@@ -982,10 +1018,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Laurenskerk"
+      "name_local": "Laurenskerk",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ro_20",
+      "id": "rtm_ro_20",
       "name": "Oude Haven & Witte Huis",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1033,10 +1071,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Oude Haven & Witte Huis"
+      "name_local": "Oude Haven & Witte Huis",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ro_21",
+      "id": "rtm_ro_21",
       "name": "Luchtsingel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1084,10 +1124,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Luchtsingel"
+      "name_local": "Luchtsingel",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ro_22",
+      "id": "rtm_ro_22",
       "name": "Diergaarde Blijdorp",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1136,10 +1178,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Diergaarde Blijdorp"
+      "name_local": "Diergaarde Blijdorp",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_23",
+      "id": "rtm_ro_23",
       "name": "Miniworld Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1188,10 +1232,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Miniworld Rotterdam"
+      "name_local": "Miniworld Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_24",
+      "id": "rtm_ro_24",
       "name": "Spido Havenrondvaart",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1240,10 +1286,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Spido Havenrondvaart"
+      "name_local": "Spido Havenrondvaart",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_25",
+      "id": "rtm_ro_25",
       "name": "Het Park & De Heuvel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1293,10 +1341,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Het Park & De Heuvel"
+      "name_local": "Het Park & De Heuvel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_26",
+      "id": "rtm_a_26",
       "name": "Lijnbaan & Beurstraverse",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1347,10 +1397,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Lijnbaan & Beurstraverse"
+      "name_local": "Lijnbaan & Beurstraverse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_27",
+      "id": "rtm_ro_27",
       "name": "Remastered Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1398,10 +1450,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Remastered Rotterdam"
+      "name_local": "Remastered Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_28",
+      "id": "rtm_ro_28",
       "name": "Dakpark Rotterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1453,10 +1507,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Dakpark Rotterdam"
+      "name_local": "Dakpark Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_29",
+      "id": "rtm_ro_29",
       "name": "Nederlands Fotomuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1505,10 +1561,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Nederlands Fotomuseum"
+      "name_local": "Nederlands Fotomuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_30",
+      "id": "rtm_ro_30",
       "name": "Kralingse Bos & Kralingse Plas",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1556,10 +1614,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kralingse Bos & Kralingse Plas"
+      "name_local": "Kralingse Bos & Kralingse Plas",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_31",
+      "id": "rtm_ro_31",
       "name": "Willemsbrug",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1607,10 +1667,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Willemsbrug"
+      "name_local": "Willemsbrug",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_32",
+      "id": "rtm_ro_32",
       "name": "Noordereiland",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1658,10 +1720,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Noordereiland"
+      "name_local": "Noordereiland",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_33",
+      "id": "rtm_ro_33",
       "name": "Trompenburg Tuinen & Arboretum",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1709,10 +1773,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Trompenburg Tuinen & Arboretum"
+      "name_local": "Trompenburg Tuinen & Arboretum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_34",
+      "id": "rtm_ro_34",
       "name": "Stadhuis Rotterdam",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1760,10 +1826,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Stadhuis Rotterdam"
+      "name_local": "Stadhuis Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_35",
+      "id": "rtm_ro_35",
       "name": "Fenix Migration Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1811,10 +1879,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Fenix Migration Museum"
+      "name_local": "Fenix Migration Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_36",
+      "id": "rtm_ro_36",
       "name": "Splashtours Rotterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1862,10 +1932,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Splashtours Rotterdam"
+      "name_local": "Splashtours Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_37",
+      "id": "rtm_ro_37",
       "name": "Maassilo & Now&Wow",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1913,10 +1985,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Maassilo & Now&Wow"
+      "name_local": "Maassilo & Now&Wow",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_38",
+      "id": "rtm_ro_38",
       "name": "Binnenrotte Markt",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1966,10 +2040,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Binnenrotte Markt"
+      "name_local": "Binnenrotte Markt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_39",
+      "id": "rtm_ro_39",
       "name": "Pannekoekenboot Rotterdam",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -2018,10 +2094,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Pannekoekenboot Rotterdam"
+      "name_local": "Pannekoekenboot Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_40",
+      "id": "rtm_ro_40",
       "name": "De Doelen & Schouwburgplein",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2069,10 +2147,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "De Doelen & Schouwburgplein"
+      "name_local": "De Doelen & Schouwburgplein",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_41",
+      "id": "rtm_ro_41",
       "name": "Historisch Gouda",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2122,10 +2202,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Gouda"
+      "name_local": "Historisch Gouda",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_42",
+      "id": "rtm_ro_42",
       "name": "Historisch Dordrecht",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2173,10 +2255,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Dordrecht"
+      "name_local": "Historisch Dordrecht",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_43",
+      "id": "rtm_ro_43",
       "name": "Nationaal Park De Biesbosch",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2227,10 +2311,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Nationaal Park De Biesbosch"
+      "name_local": "Nationaal Park De Biesbosch",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_44",
+      "id": "rtm_ro_44",
       "name": "Portlantis - Maasvlakte 2 Havenbeleveniscentrum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2278,10 +2364,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Portlantis - Maasvlakte 2 Havenbeleveniscentrum"
+      "name_local": "Portlantis - Maasvlakte 2 Havenbeleveniscentrum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_45",
+      "id": "rtm_ro_45",
       "name": "Historisch Schiedam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2330,10 +2418,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Schiedam"
+      "name_local": "Historisch Schiedam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_46",
+      "id": "rtm_ro_46",
       "name": "Hoek van Holland Strand",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2383,10 +2473,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Hoek van Holland Strand"
+      "name_local": "Hoek van Holland Strand",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_47",
+      "id": "rtm_ro_47",
       "name": "Plaswijckpark Rotterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2435,10 +2527,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Plaswijckpark Rotterdam"
+      "name_local": "Plaswijckpark Rotterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ro_48",
+      "id": "rtm_ro_48",
       "name": "Van Nelle Fabriek",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2486,7 +2580,9 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Van Nelle Fabriek"
+      "name_local": "Van Nelle Fabriek",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 48

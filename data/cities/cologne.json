@@ -2,7 +2,7 @@
   "cityName": "Cologne, Germany",
   "spots": [
     {
-      "id": "c_1",
+      "id": "cgn_c_1",
       "name": "Kölner Dom",
       "category": "Landmark",
       "rating": "★4.9",
@@ -49,10 +49,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kölner Dom"
+      "name_local": "Kölner Dom",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "c_2",
+      "id": "cgn_c_2",
       "name": "Hohenzollernbrücke",
       "category": "Landmark",
       "rating": "★4.8",
@@ -98,10 +100,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Hohenzollernbrücke"
+      "name_local": "Hohenzollernbrücke",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "c_3",
+      "id": "cgn_c_3",
       "name": "Altstadt Köln & Alter Markt",
       "category": "Landmark",
       "rating": "★4.7",
@@ -147,10 +151,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Altstadt Köln & Alter Markt"
+      "name_local": "Altstadt Köln & Alter Markt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "c_4",
+      "id": "cgn_c_4",
       "name": "Heumarkt",
       "category": "Landmark",
       "rating": "★4.6",
@@ -196,10 +202,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Heumarkt"
+      "name_local": "Heumarkt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "c_5",
+      "id": "cgn_c_5",
       "name": "Kölner Rathaus & Historische Ratslaube",
       "category": "Landmark",
       "rating": "★4.6",
@@ -245,10 +253,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kölner Rathaus & Historische Ratslaube"
+      "name_local": "Kölner Rathaus & Historische Ratslaube",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "c_6",
+      "id": "cgn_c_6",
       "name": "Groß St. Martin",
       "category": "Landmark",
       "rating": "★4.7",
@@ -296,10 +306,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Groß St. Martin"
+      "name_local": "Groß St. Martin",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "c_7",
+      "id": "cgn_c_7",
       "name": "Rheinauhafen & Kranhäuser",
       "category": "Landmark",
       "rating": "★4.7",
@@ -347,10 +359,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Rheinauhafen & Kranhäuser"
+      "name_local": "Rheinauhafen & Kranhäuser",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "c_8",
+      "id": "cgn_c_8",
       "name": "KölnTriangle",
       "category": "Landmark",
       "rating": "★4.8",
@@ -397,10 +411,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "KölnTriangle"
+      "name_local": "KölnTriangle",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_9",
+      "id": "cgn_c_9",
       "name": "Schokoladenmuseum Köln",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -448,10 +464,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Schokoladenmuseum Köln"
+      "name_local": "Schokoladenmuseum Köln",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_10",
+      "id": "cgn_c_10",
       "name": "Museum Ludwig",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -498,10 +516,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Ludwig"
+      "name_local": "Museum Ludwig",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_11",
+      "id": "cgn_c_11",
       "name": "Wallraf-Richartz-Museum & Fondation Corboud",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -547,10 +567,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Wallraf-Richartz-Museum & Fondation Corboud"
+      "name_local": "Wallraf-Richartz-Museum & Fondation Corboud",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_12",
+      "id": "cgn_c_12",
       "name": "Römisch-Germanisches Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -597,10 +619,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Römisch-Germanisches Museum"
+      "name_local": "Römisch-Germanisches Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_13",
+      "id": "cgn_c_13",
       "name": "Farina Duftmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -646,10 +670,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Farina Duftmuseum"
+      "name_local": "Farina Duftmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_14",
+      "id": "cgn_c_14",
       "name": "4711 Stammhaus",
       "category": "Shopping",
       "rating": "★4.6",
@@ -695,10 +721,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "4711 Stammhaus"
+      "name_local": "4711 Stammhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_15",
+      "id": "cgn_c_15",
       "name": "Kolumba",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -745,10 +773,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Kolumba"
+      "name_local": "Kolumba",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_16",
+      "id": "cgn_c_16",
       "name": "Museum für Angewandte Kunst Köln",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -794,10 +824,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum für Angewandte Kunst Köln"
+      "name_local": "Museum für Angewandte Kunst Köln",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "c_17",
+      "id": "cgn_c_17",
       "name": "NS-Dokumentationszentrum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -843,10 +875,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "NS-Dokumentationszentrum"
+      "name_local": "NS-Dokumentationszentrum",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "c_18",
+      "id": "cgn_c_18",
       "name": "Rautenstrauch-Joest-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -892,10 +926,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Rautenstrauch-Joest-Museum"
+      "name_local": "Rautenstrauch-Joest-Museum",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "c_19",
+      "id": "cgn_c_19",
       "name": "Museum Schnütgen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -942,10 +978,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Schnütgen"
+      "name_local": "Museum Schnütgen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_20",
+      "id": "cgn_c_20",
       "name": "Deutsches Sport & Olympia Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -991,10 +1029,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Sport & Olympia Museum"
+      "name_local": "Deutsches Sport & Olympia Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_21",
+      "id": "cgn_c_21",
       "name": "Kölner Seilbahn",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1042,10 +1082,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kölner Seilbahn"
+      "name_local": "Kölner Seilbahn",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_22",
+      "id": "cgn_c_22",
       "name": "Kölner Zoo",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -1092,10 +1134,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kölner Zoo"
+      "name_local": "Kölner Zoo",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_23",
+      "id": "cgn_c_23",
       "name": "Aquarium Köln",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -1143,10 +1187,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Aquarium Köln"
+      "name_local": "Aquarium Köln",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_24",
+      "id": "cgn_c_24",
       "name": "Flora Köln & Botanischer Garten",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1193,10 +1239,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Flora Köln & Botanischer Garten"
+      "name_local": "Flora Köln & Botanischer Garten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_25",
+      "id": "cgn_c_25",
       "name": "Schildergasse & Hohe Straße",
       "category": "Shopping",
       "rating": "★4.5",
@@ -1243,10 +1291,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Schildergasse & Hohe Straße"
+      "name_local": "Schildergasse & Hohe Straße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_26",
+      "id": "cgn_c_26",
       "name": "Ehrenstraße & Belgisches Viertel",
       "category": "Shopping",
       "rating": "★4.7",
@@ -1294,10 +1344,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Ehrenstraße & Belgisches Viertel"
+      "name_local": "Ehrenstraße & Belgisches Viertel",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "c_27",
+      "id": "cgn_c_27",
       "name": "Neumarkt & Neumarkt Passage",
       "category": "Shopping",
       "rating": "★4.5",
@@ -1344,10 +1396,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Neumarkt & Neumarkt Passage"
+      "name_local": "Neumarkt & Neumarkt Passage",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_28",
+      "id": "cgn_c_28",
       "name": "DuMont Carré & Opern Passagen",
       "category": "Shopping",
       "rating": "★4.5",
@@ -1394,10 +1448,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "DuMont Carré & Opern Passagen"
+      "name_local": "DuMont Carré & Opern Passagen",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "c_29",
+      "id": "cgn_c_29",
       "name": "Brauhaus Früh am Dom",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1445,10 +1501,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Brauhaus Früh am Dom"
+      "name_local": "Brauhaus Früh am Dom",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_30",
+      "id": "cgn_c_30",
       "name": "Brauhaus Sion",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1495,10 +1553,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Brauhaus Sion"
+      "name_local": "Brauhaus Sion",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_31",
+      "id": "cgn_c_31",
       "name": "Gilden im Zims \"Heimat kölscher Helden\"",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1545,10 +1605,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Gilden im Zims \"Heimat kölscher Helden\""
+      "name_local": "Gilden im Zims \"Heimat kölscher Helden\"",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_32",
+      "id": "cgn_c_32",
       "name": "Brauerei Päffgen",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1596,10 +1658,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Brauerei Päffgen"
+      "name_local": "Brauerei Päffgen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_33",
+      "id": "cgn_c_33",
       "name": "Peters Brauhaus",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1645,10 +1709,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Peters Brauhaus"
+      "name_local": "Peters Brauhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_34",
+      "id": "cgn_c_34",
       "name": "Lommerzheim",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1695,10 +1761,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Lommerzheim"
+      "name_local": "Lommerzheim",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_35",
+      "id": "cgn_c_35",
       "name": "Café Reichard",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1745,10 +1813,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Café Reichard"
+      "name_local": "Café Reichard",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_36",
+      "id": "cgn_c_36",
       "name": "Odonien",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1794,10 +1864,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Odonien"
+      "name_local": "Odonien",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_37",
+      "id": "cgn_c_37",
       "name": "Claudius Therme",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1845,10 +1917,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Claudius Therme"
+      "name_local": "Claudius Therme",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_38",
+      "id": "cgn_c_38",
       "name": "Rheinpark & Kleinbahn",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1895,10 +1969,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Rheinpark & Kleinbahn"
+      "name_local": "Rheinpark & Kleinbahn",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_39",
+      "id": "cgn_c_39",
       "name": "Stadtwald Köln & Lindenthaler Tierpark",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -1945,10 +2021,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Stadtwald Köln & Lindenthaler Tierpark"
+      "name_local": "Stadtwald Köln & Lindenthaler Tierpark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_40",
+      "id": "cgn_c_40",
       "name": "Melaten-Friedhof",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1995,10 +2073,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Melaten-Friedhof"
+      "name_local": "Melaten-Friedhof",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_41",
+      "id": "cgn_c_41",
       "name": "Odysseum Science Center",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2045,10 +2125,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Odysseum Science Center"
+      "name_local": "Odysseum Science Center",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_42",
+      "id": "cgn_c_42",
       "name": "RheinSchiffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2096,10 +2178,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "RheinSchiffahrt"
+      "name_local": "RheinSchiffahrt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_43",
+      "id": "cgn_c_43",
       "name": "St. Gereon",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2145,10 +2229,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "St. Gereon"
+      "name_local": "St. Gereon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_44",
+      "id": "cgn_c_44",
       "name": "St. Ursula",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2194,10 +2280,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "St. Ursula"
+      "name_local": "St. Ursula",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_45",
+      "id": "cgn_c_45",
       "name": "St. Aposteln",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2243,10 +2331,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "St. Aposteln"
+      "name_local": "St. Aposteln",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_46",
+      "id": "cgn_c_46",
       "name": "Schlösser Augustusburg und Falkenlust",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2293,10 +2383,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Schlösser Augustusburg und Falkenlust"
+      "name_local": "Schlösser Augustusburg und Falkenlust",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_47",
+      "id": "cgn_c_47",
       "name": "Phantasialand",
       "category": "Kids & Family",
       "rating": "★4.9",
@@ -2343,10 +2435,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Phantasialand"
+      "name_local": "Phantasialand",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_48",
+      "id": "cgn_c_48",
       "name": "Aachener Dom & Domschatzkammer",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2392,10 +2486,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Aachener Dom & Domschatzkammer"
+      "name_local": "Aachener Dom & Domschatzkammer",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_49",
+      "id": "cgn_c_49",
       "name": "Königswinter",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2442,10 +2538,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Königswinter"
+      "name_local": "Königswinter",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "c_50",
+      "id": "cgn_c_50",
       "name": "Schloss Benrath",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2491,7 +2589,9 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Benrath"
+      "name_local": "Schloss Benrath",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 50

@@ -1,6 +1,6 @@
 [
   {
-    "id": "gh_1",
+    "id": "gnt_gh_1",
     "name": "Gravensteen",
     "category": "Landmark",
     "rating": "★4.8",
@@ -49,10 +49,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Gravensteen"
+    "name_local": "Gravensteen",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "gh_2",
+    "id": "gnt_gh_2",
     "name": "Sint-Baafskathedraal",
     "category": "Landmark",
     "rating": "★4.8",
@@ -100,10 +102,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Baafskathedraal"
+    "name_local": "Sint-Baafskathedraal",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "gh_3",
+    "id": "gnt_gh_3",
     "name": "Het Lam Gods",
     "category": "Museum & Gallery",
     "rating": "★4.9",
@@ -151,10 +155,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Het Lam Gods"
+    "name_local": "Het Lam Gods",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "gh_4",
+    "id": "gnt_gh_4",
     "name": "Het Belfort van Gent",
     "category": "Landmark",
     "rating": "★4.7",
@@ -202,10 +208,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Het Belfort van Gent"
+    "name_local": "Het Belfort van Gent",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "gh_5",
+    "id": "gnt_gh_5",
     "name": "Graslei & Korenlei",
     "category": "Scenery & Walk",
     "rating": "★4.9",
@@ -253,10 +261,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Graslei & Korenlei"
+    "name_local": "Graslei & Korenlei",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "gh_6",
+    "id": "gnt_gh_6",
     "name": "Sint-Michielsbrug",
     "category": "Scenery & Walk",
     "rating": "★4.9",
@@ -305,10 +315,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Michielsbrug"
+    "name_local": "Sint-Michielsbrug",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_7",
+    "id": "gnt_gh_7",
     "name": "Sint-Niklaaskerk",
     "category": "Landmark",
     "rating": "★4.6",
@@ -356,10 +368,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Niklaaskerk"
+    "name_local": "Sint-Niklaaskerk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_8",
+    "id": "gnt_gh_8",
     "name": "Boottochten Gent",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -409,10 +423,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Boottochten Gent"
+    "name_local": "Boottochten Gent",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_9",
+    "id": "gnt_gh_9",
     "name": "Korenmarkt",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -464,10 +480,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Korenmarkt"
+    "name_local": "Korenmarkt",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "gh_10",
+    "id": "gnt_gh_10",
     "name": "Patershol",
     "category": "Scenery & Walk",
     "rating": "★4.8",
@@ -517,10 +535,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Patershol"
+    "name_local": "Patershol",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "gh_11",
+    "id": "gnt_gh_11",
     "name": "Werregarenstraat",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -570,10 +590,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Werregarenstraat"
+    "name_local": "Werregarenstraat",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_12",
+    "id": "gnt_gh_12",
     "name": "MSK",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -621,10 +643,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "MSK"
+    "name_local": "MSK",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_13",
+    "id": "gnt_gh_13",
     "name": "S.M.A.K.",
     "category": "Museum & Gallery",
     "rating": "★4.5",
@@ -674,10 +698,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "S.M.A.K."
+    "name_local": "S.M.A.K.",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_14",
+    "id": "gnt_gh_14",
     "name": "STAM",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -725,10 +751,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "STAM"
+    "name_local": "STAM",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_15",
+    "id": "gnt_gh_15",
     "name": "Klein Begijnhof",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -777,10 +805,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Klein Begijnhof"
+    "name_local": "Klein Begijnhof",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_16",
+    "id": "gnt_gh_16",
     "name": "Groot Begijnhof Sint-Amandsberg",
     "category": "Landmark",
     "rating": "★4.6",
@@ -828,10 +858,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Groot Begijnhof Sint-Amandsberg"
+    "name_local": "Groot Begijnhof Sint-Amandsberg",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "gh_17",
+    "id": "gnt_gh_17",
     "name": "Sint-Pietersabdij",
     "category": "Landmark",
     "rating": "★4.7",
@@ -879,10 +911,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Pietersabdij"
+    "name_local": "Sint-Pietersabdij",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "gh_18",
+    "id": "gnt_gh_18",
     "name": "Vrijdagmarkt & Dulle Griet",
     "category": "Café & Bistro",
     "rating": "★4.7",
@@ -932,10 +966,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Vrijdagmarkt & Dulle Griet"
+    "name_local": "Vrijdagmarkt & Dulle Griet",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "gh_19",
+    "id": "gnt_gh_19",
     "name": "Het Groot Vleeshuis",
     "category": "Landmark",
     "rating": "★4.5",
@@ -984,10 +1020,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Het Groot Vleeshuis"
+    "name_local": "Het Groot Vleeshuis",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "gh_20",
+    "id": "gnt_gh_20",
     "name": "Tierenteyn-Verlent",
     "category": "Shopping",
     "rating": "★4.8",
@@ -1038,10 +1076,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Tierenteyn-Verlent"
+    "name_local": "Tierenteyn-Verlent",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_21",
+    "id": "gnt_gh_21",
     "name": "Gentse Neuzenvetes & Cuberdons",
     "category": "Café & Bistro",
     "rating": "★4.6",
@@ -1091,10 +1131,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Gentse Neuzenvetes & Cuberdons"
+    "name_local": "Gentse Neuzenvetes & Cuberdons",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_22",
+    "id": "gnt_gh_22",
     "name": "Citadelpark",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1145,10 +1187,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Citadelpark"
+    "name_local": "Citadelpark",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_23",
+    "id": "gnt_gh_23",
     "name": "Plantentuin Universiteit Gent",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1197,10 +1241,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Plantentuin Universiteit Gent"
+    "name_local": "Plantentuin Universiteit Gent",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_24",
+    "id": "gnt_gh_24",
     "name": "De Krook",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1248,10 +1294,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "De Krook"
+    "name_local": "De Krook",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_25",
+    "id": "gnt_gh_25",
     "name": "Prinsenhof",
     "category": "Scenery & Walk",
     "rating": "★4.5",
@@ -1300,10 +1348,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Prinsenhof"
+    "name_local": "Prinsenhof",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_26",
+    "id": "gnt_gh_26",
     "name": "Huis van Alijn",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1354,10 +1404,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Huis van Alijn"
+    "name_local": "Huis van Alijn",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_27",
+    "id": "gnt_gh_27",
     "name": "Design Museum Gent",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -1406,10 +1458,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Design Museum Gent"
+    "name_local": "Design Museum Gent",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_28",
+    "id": "gnt_gh_28",
     "name": "Bij Sint-Jacobs",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1459,10 +1513,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Bij Sint-Jacobs"
+    "name_local": "Bij Sint-Jacobs",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_29",
+    "id": "gnt_gh_29",
     "name": "De Kuip van Gent & Lichtplan",
     "category": "Scenery & Walk",
     "rating": "★4.9",
@@ -1511,10 +1567,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "De Kuip van Gent & Lichtplan"
+    "name_local": "De Kuip van Gent & Lichtplan",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_30",
+    "id": "gnt_gh_30",
     "name": "Rabot",
     "category": "Landmark",
     "rating": "★4.5",
@@ -1563,10 +1621,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Rabot"
+    "name_local": "Rabot",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_31",
+    "id": "gnt_gh_31",
     "name": "Dok Noord",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1617,10 +1677,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Dok Noord"
+    "name_local": "Dok Noord",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_32",
+    "id": "gnt_gh_32",
     "name": "Veldstraat",
     "category": "Shopping",
     "rating": "★4.6",
@@ -1669,10 +1731,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Veldstraat"
+    "name_local": "Veldstraat",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_33",
+    "id": "gnt_gh_33",
     "name": "GUM - Gents Universiteitsmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1722,10 +1786,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "GUM - Gents Universiteitsmuseum"
+    "name_local": "GUM - Gents Universiteitsmuseum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_34",
+    "id": "gnt_gh_34",
     "name": "Stadhuis van Gent",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1773,10 +1839,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Stadhuis van Gent"
+    "name_local": "Stadhuis van Gent",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_35",
+    "id": "gnt_gh_35",
     "name": "Stadshal",
     "category": "Landmark",
     "rating": "★4.5",
@@ -1825,10 +1893,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Stadshal"
+    "name_local": "Stadshal",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_36",
+    "id": "gnt_gh_36",
     "name": "Achtersikkel",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1877,10 +1947,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Achtersikkel"
+    "name_local": "Achtersikkel",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_37",
+    "id": "gnt_gh_37",
     "name": "Gruut Brouwerij",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1930,10 +2002,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Gruut Brouwerij"
+    "name_local": "Gruut Brouwerij",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "gh_38",
+    "id": "gnt_gh_38",
     "name": "Sint-Michielskerk",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1981,10 +2055,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Michielskerk"
+    "name_local": "Sint-Michielskerk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_39",
+    "id": "gnt_gh_39",
     "name": "Blaarmeersen Recreatiegebied",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -2033,10 +2109,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Blaarmeersen Recreatiegebied"
+    "name_local": "Blaarmeersen Recreatiegebied",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_40",
+    "id": "gnt_gh_40",
     "name": "Baudelo Park",
     "category": "Scenery & Walk",
     "rating": "★4.5",
@@ -2085,10 +2163,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Baudelo Park"
+    "name_local": "Baudelo Park",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_41",
+    "id": "gnt_gh_41",
     "name": "Kasteel Ooidonk",
     "category": "Landmark",
     "rating": "★4.8",
@@ -2137,10 +2217,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Kasteel Ooidonk"
+    "name_local": "Kasteel Ooidonk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "gh_42",
+    "id": "gnt_gh_42",
     "name": "Historisch Aalst",
     "category": "Landmark",
     "rating": "★4.6",
@@ -2189,6 +2271,8 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Historisch Aalst"
+    "name_local": "Historisch Aalst",
+    "top7": false,
+    "hiddenGem": false
   }
 ]

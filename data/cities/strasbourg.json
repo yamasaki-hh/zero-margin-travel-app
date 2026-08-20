@@ -3,7 +3,7 @@
   "spotCount": 45,
   "spots": [
     {
-      "id": "st_1",
+      "id": "sxb_st_1",
       "name": "Strasbourg Cathedral",
       "category": "Landmark",
       "rating": "★4.8",
@@ -54,10 +54,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Strasbourg Cathedral"
+      "name_local": "Strasbourg Cathedral",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "st_2",
+      "id": "sxb_st_2",
       "name": "Barrage Vauban",
       "category": "Landmark",
       "rating": "★4.7",
@@ -110,10 +112,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Barrage Vauban"
+      "name_local": "Barrage Vauban",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "st_3",
+      "id": "sxb_st_3",
       "name": "Ponts Couverts",
       "category": "Landmark",
       "rating": "★4.7",
@@ -164,10 +168,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Ponts Couverts"
+      "name_local": "Ponts Couverts",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "st_4",
+      "id": "sxb_st_4",
       "name": "Palais Rohan",
       "category": "Landmark",
       "rating": "★4.6",
@@ -221,10 +227,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Palais Rohan"
+      "name_local": "Palais Rohan",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "st_5",
+      "id": "sxb_st_5",
       "name": "Maison Kammerzell",
       "category": "Landmark",
       "rating": "★4.6",
@@ -275,10 +283,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Maison Kammerzell"
+      "name_local": "Maison Kammerzell",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "st_6",
+      "id": "sxb_st_6",
       "name": "Place Kléber",
       "category": "Landmark",
       "rating": "★4.6",
@@ -330,10 +340,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Place Kléber"
+      "name_local": "Place Kléber",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_7",
+      "id": "sxb_st_7",
       "name": "Place Gutenberg",
       "category": "Landmark",
       "rating": "★4.6",
@@ -384,10 +396,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Place Gutenberg"
+      "name_local": "Place Gutenberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_8",
+      "id": "sxb_st_8",
       "name": "European Parliament Strasbourg",
       "category": "Landmark",
       "rating": "★4.6",
@@ -438,10 +452,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "European Parliament Strasbourg"
+      "name_local": "European Parliament Strasbourg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_9",
+      "id": "sxb_st_9",
       "name": "Palais du Rhin & Place de la République",
       "category": "Landmark",
       "rating": "★4.6",
@@ -494,10 +510,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Palais du Rhin & Place de la République"
+      "name_local": "Palais du Rhin & Place de la République",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_10",
+      "id": "sxb_st_10",
       "name": "Église Saint-Thomas",
       "category": "Landmark",
       "rating": "★4.6",
@@ -550,10 +568,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Église Saint-Thomas"
+      "name_local": "Église Saint-Thomas",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "st_11",
+      "id": "sxb_st_11",
       "name": "Église Réformée Saint-Paul",
       "category": "Landmark",
       "rating": "★4.7",
@@ -605,10 +625,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Église Réformée Saint-Paul"
+      "name_local": "Église Réformée Saint-Paul",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_12",
+      "id": "sxb_st_12",
       "name": "Château du Haut-Kœnigsbourg",
       "category": "Landmark",
       "rating": "★4.7",
@@ -659,10 +681,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Château du Haut-Kœnigsbourg"
+      "name_local": "Château du Haut-Kœnigsbourg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_13",
+      "id": "sxb_st_13",
       "name": "Mont Sainte-Odile Monastery",
       "category": "Landmark",
       "rating": "★4.7",
@@ -713,10 +737,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Mont Sainte-Odile Monastery"
+      "name_local": "Mont Sainte-Odile Monastery",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "st_14",
+      "id": "sxb_st_14",
       "name": "Musée Alsacien",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -767,10 +793,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Alsacien"
+      "name_local": "Musée Alsacien",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "st_15",
+      "id": "sxb_st_15",
       "name": "Musée de l'Œuvre Notre-Dame",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -822,10 +850,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée de l'Œuvre Notre-Dame"
+      "name_local": "Musée de l'Œuvre Notre-Dame",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "st_16",
+      "id": "sxb_st_16",
       "name": "Musée des Beaux-Arts de Strasbourg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -876,10 +906,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Beaux-Arts de Strasbourg"
+      "name_local": "Musée des Beaux-Arts de Strasbourg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_17",
+      "id": "sxb_st_17",
       "name": "Musée des Arts Décoratifs",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -930,10 +962,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Arts Décoratifs"
+      "name_local": "Musée des Arts Décoratifs",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_18",
+      "id": "sxb_st_18",
       "name": "MAMCS",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -984,10 +1018,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "MAMCS"
+      "name_local": "MAMCS",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_19",
+      "id": "sxb_st_19",
       "name": "Musée Tomi Ungerer",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1038,10 +1074,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Tomi Ungerer"
+      "name_local": "Musée Tomi Ungerer",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_20",
+      "id": "sxb_st_20",
       "name": "Musée Historique de la Ville de Strasbourg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1092,10 +1130,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Historique de la Ville de Strasbourg"
+      "name_local": "Musée Historique de la Ville de Strasbourg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_21",
+      "id": "sxb_st_21",
       "name": "Château Musée Vodou",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1147,10 +1187,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Château Musée Vodou"
+      "name_local": "Château Musée Vodou",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_22",
+      "id": "sxb_st_22",
       "name": "Musée Lalique",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1201,10 +1243,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Lalique"
+      "name_local": "Musée Lalique",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_23",
+      "id": "sxb_st_23",
       "name": "Cave Historique des Hospices de Strasbourg",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1257,10 +1301,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Cave Historique des Hospices de Strasbourg"
+      "name_local": "Cave Historique des Hospices de Strasbourg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "st_24",
+      "id": "sxb_st_24",
       "name": "Maison des Tanneurs",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1313,10 +1359,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Maison des Tanneurs"
+      "name_local": "Maison des Tanneurs",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "st_25",
+      "id": "sxb_st_25",
       "name": "Winstub Chez Yvonne",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1367,10 +1415,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Winstub Chez Yvonne"
+      "name_local": "Winstub Chez Yvonne",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "st_26",
+      "id": "sxb_st_26",
       "name": "Winstub Le Tire-Bouchon",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1422,10 +1472,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Winstub Le Tire-Bouchon"
+      "name_local": "Winstub Le Tire-Bouchon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_27",
+      "id": "sxb_st_27",
       "name": "Pâtisserie Christian",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1477,10 +1529,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Pâtisserie Christian"
+      "name_local": "Pâtisserie Christian",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_28",
+      "id": "sxb_st_28",
       "name": "Traditional Kugelhopf & Gingerbread Bakeries",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1532,10 +1586,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Traditional Kugelhopf & Gingerbread Bakeries"
+      "name_local": "Traditional Kugelhopf & Gingerbread Bakeries",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_29",
+      "id": "sxb_st_29",
       "name": "Brasserie Les Haras",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1586,10 +1642,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Brasserie Les Haras"
+      "name_local": "Brasserie Les Haras",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_30",
+      "id": "sxb_st_30",
       "name": "Route des Vins d'Alsace Wineries",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1640,10 +1698,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Route des Vins d'Alsace Wineries"
+      "name_local": "Route des Vins d'Alsace Wineries",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_31",
+      "id": "sxb_st_31",
       "name": "La Petite France",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1694,10 +1754,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "La Petite France"
+      "name_local": "La Petite France",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_32",
+      "id": "sxb_st_32",
       "name": "La Grande Île",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1749,10 +1811,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "La Grande Île"
+      "name_local": "La Grande Île",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_33",
+      "id": "sxb_st_33",
       "name": "Quartier Neustadt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1803,10 +1867,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Quartier Neustadt"
+      "name_local": "Quartier Neustadt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_34",
+      "id": "sxb_st_34",
       "name": "Quai des Bateliers & Berges de l'Ill",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1858,10 +1924,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Quai des Bateliers & Berges de l'Ill"
+      "name_local": "Quai des Bateliers & Berges de l'Ill",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_35",
+      "id": "sxb_st_35",
       "name": "Lycée des Pontonniers & Canal View",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1913,10 +1981,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Lycée des Pontonniers & Canal View"
+      "name_local": "Lycée des Pontonniers & Canal View",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_36",
+      "id": "sxb_st_36",
       "name": "Quartier de la Krutenau",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1970,10 +2040,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Quartier de la Krutenau"
+      "name_local": "Quartier de la Krutenau",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_37",
+      "id": "sxb_st_37",
       "name": "Batorama Boat Tour",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2026,10 +2098,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Batorama Boat Tour"
+      "name_local": "Batorama Boat Tour",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_38",
+      "id": "sxb_st_38",
       "name": "Obernai Medieval Town",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2081,10 +2155,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Obernai Medieval Town"
+      "name_local": "Obernai Medieval Town",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_39",
+      "id": "sxb_st_39",
       "name": "Riquewihr & Kaysersberg Medieval Villages",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -2135,10 +2211,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Riquewihr & Kaysersberg Medieval Villages"
+      "name_local": "Riquewihr & Kaysersberg Medieval Villages",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_40",
+      "id": "sxb_st_40",
       "name": "Parc de l'Orangerie & Stork Sanctuary",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -2190,10 +2268,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Parc de l'Orangerie & Stork Sanctuary"
+      "name_local": "Parc de l'Orangerie & Stork Sanctuary",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_41",
+      "id": "sxb_st_41",
       "name": "Le Vaisseau Science Center",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2245,10 +2325,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Le Vaisseau Science Center"
+      "name_local": "Le Vaisseau Science Center",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_42",
+      "id": "sxb_st_42",
       "name": "Parc de la Citadelle",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2301,10 +2383,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Parc de la Citadelle"
+      "name_local": "Parc de la Citadelle",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_43",
+      "id": "sxb_st_43",
       "name": "Jardin des Deux Rives",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2356,10 +2440,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Jardin des Deux Rives"
+      "name_local": "Jardin des Deux Rives",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_44",
+      "id": "sxb_st_44",
       "name": "Écomusée d'Alsace",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -2411,10 +2497,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Écomusée d'Alsace"
+      "name_local": "Écomusée d'Alsace",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "st_45",
+      "id": "sxb_st_45",
       "name": "Europa-Park",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -2466,7 +2554,9 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Europa-Park"
+      "name_local": "Europa-Park",
+      "top7": false,
+      "hiddenGem": false
     }
   ]
 }

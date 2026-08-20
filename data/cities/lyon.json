@@ -3,7 +3,7 @@
   "spotCount": 46,
   "spots": [
     {
-      "id": "lyon_1",
+      "id": "lyn_lyon_1",
       "name": "Basilique Notre-Dame de Fourvière",
       "category": "Landmark",
       "rating": "★4.8",
@@ -54,10 +54,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Basilique Notre-Dame de Fourvière"
+      "name_local": "Basilique Notre-Dame de Fourvière",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_2",
+      "id": "lyn_lyon_2",
       "name": "Cathédrale Saint-Jean-Baptiste",
       "category": "Landmark",
       "rating": "★4.7",
@@ -108,10 +110,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Cathédrale Saint-Jean-Baptiste"
+      "name_local": "Cathédrale Saint-Jean-Baptiste",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_3",
+      "id": "lyn_lyon_3",
       "name": "Ancient Theatre of Fourvière",
       "category": "Landmark",
       "rating": "★4.7",
@@ -162,10 +166,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Ancient Theatre of Fourvière"
+      "name_local": "Ancient Theatre of Fourvière",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_4",
+      "id": "lyn_lyon_4",
       "name": "Place Bellecour",
       "category": "Landmark",
       "rating": "★4.6",
@@ -216,10 +222,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Place Bellecour"
+      "name_local": "Place Bellecour",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_5",
+      "id": "lyn_lyon_5",
       "name": "Place des Terreaux & Bartholdi Fountain",
       "category": "Landmark",
       "rating": "★4.7",
@@ -273,10 +281,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Place des Terreaux & Bartholdi Fountain"
+      "name_local": "Place des Terreaux & Bartholdi Fountain",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_6",
+      "id": "lyn_lyon_6",
       "name": "Grand Hôtel-Dieu",
       "category": "Landmark",
       "rating": "★4.7",
@@ -329,10 +339,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Grand Hôtel-Dieu"
+      "name_local": "Grand Hôtel-Dieu",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_7",
+      "id": "lyn_lyon_7",
       "name": "Amphitheatre of the Three Gauls",
       "category": "Landmark",
       "rating": "★4.5",
@@ -383,10 +395,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Amphitheatre of the Three Gauls"
+      "name_local": "Amphitheatre of the Three Gauls",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_8",
+      "id": "lyn_lyon_8",
       "name": "Église Saint-Nizier",
       "category": "Landmark",
       "rating": "★4.6",
@@ -437,10 +451,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Église Saint-Nizier"
+      "name_local": "Église Saint-Nizier",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_9",
+      "id": "lyn_lyon_9",
       "name": "Fresque des Canuts",
       "category": "Landmark",
       "rating": "★4.7",
@@ -491,10 +507,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Fresque des Canuts"
+      "name_local": "Fresque des Canuts",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_10",
+      "id": "lyn_lyon_10",
       "name": "Château de Rochetaillée",
       "category": "Landmark",
       "rating": "★4.6",
@@ -546,10 +564,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Château de Rochetaillée"
+      "name_local": "Château de Rochetaillée",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "lyon_11",
+      "id": "lyn_lyon_11",
       "name": "Musée des Beaux-Arts de Lyon",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -600,10 +620,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Beaux-Arts de Lyon"
+      "name_local": "Musée des Beaux-Arts de Lyon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_12",
+      "id": "lyn_lyon_12",
       "name": "Musée des Confluences",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -655,10 +677,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Confluences"
+      "name_local": "Musée des Confluences",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_13",
+      "id": "lyn_lyon_13",
       "name": "Cinema and Miniature Museum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -710,10 +734,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Cinema and Miniature Museum"
+      "name_local": "Cinema and Miniature Museum",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "lyon_14",
+      "id": "lyn_lyon_14",
       "name": "Institut Lumière",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -764,10 +790,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Institut Lumière"
+      "name_local": "Institut Lumière",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "lyon_15",
+      "id": "lyn_lyon_15",
       "name": "Gadagne Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -819,10 +847,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Gadagne Museum"
+      "name_local": "Gadagne Museum",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "lyon_16",
+      "id": "lyn_lyon_16",
       "name": "Musée des Tissus et des Arts Décoratifs",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -873,10 +903,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Tissus et des Arts Décoratifs"
+      "name_local": "Musée des Tissus et des Arts Décoratifs",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_17",
+      "id": "lyn_lyon_17",
       "name": "Museum of Printing and Graphic Communication",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -927,10 +959,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum of Printing and Graphic Communication"
+      "name_local": "Museum of Printing and Graphic Communication",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_18",
+      "id": "lyn_lyon_18",
       "name": "Lugdunum Museum & Roman Theatres",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -981,10 +1015,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Lugdunum Museum & Roman Theatres"
+      "name_local": "Lugdunum Museum & Roman Theatres",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_19",
+      "id": "lyn_lyon_19",
       "name": "Centre d'Histoire de la Résistance et de la Déportation",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1035,10 +1071,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Centre d'Histoire de la Résistance et de la Déportation"
+      "name_local": "Centre d'Histoire de la Résistance et de la Déportation",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_20",
+      "id": "lyn_lyon_20",
       "name": "macLYON",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -1091,10 +1129,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "macLYON"
+      "name_local": "macLYON",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_21",
+      "id": "lyn_lyon_21",
       "name": "Tony Garnier Open-Air Urban Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -1145,10 +1185,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Tony Garnier Open-Air Urban Museum"
+      "name_local": "Tony Garnier Open-Air Urban Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_22",
+      "id": "lyn_lyon_22",
       "name": "Clément Ader Aviation Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1199,10 +1241,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Clément Ader Aviation Museum"
+      "name_local": "Clément Ader Aviation Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_23",
+      "id": "lyn_lyon_23",
       "name": "Les Halles de Lyon Paul Bocuse",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1253,10 +1297,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Les Halles de Lyon Paul Bocuse"
+      "name_local": "Les Halles de Lyon Paul Bocuse",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_24",
+      "id": "lyn_lyon_24",
       "name": "Historic Bouchon Lyonnais",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1307,10 +1353,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Historic Bouchon Lyonnais"
+      "name_local": "Historic Bouchon Lyonnais",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_25",
+      "id": "lyn_lyon_25",
       "name": "Cité Internationale de la Gastronomie de Lyon",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1362,10 +1410,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Cité Internationale de la Gastronomie de Lyon"
+      "name_local": "Cité Internationale de la Gastronomie de Lyon",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "lyon_26",
+      "id": "lyn_lyon_26",
       "name": "La Maison Sève",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1416,10 +1466,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "La Maison Sève"
+      "name_local": "La Maison Sève",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_27",
+      "id": "lyn_lyon_27",
       "name": "Maison Bernachon",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1471,10 +1523,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Maison Bernachon"
+      "name_local": "Maison Bernachon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_28",
+      "id": "lyn_lyon_28",
       "name": "Café Comptoir Abel",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1525,10 +1579,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Café Comptoir Abel"
+      "name_local": "Café Comptoir Abel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_29",
+      "id": "lyn_lyon_29",
       "name": "Brasserie Georges",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1580,10 +1636,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Brasserie Georges"
+      "name_local": "Brasserie Georges",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_30",
+      "id": "lyn_lyon_30",
       "name": "Restaurant Paul Bocuse",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1634,10 +1692,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Restaurant Paul Bocuse"
+      "name_local": "Restaurant Paul Bocuse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_31",
+      "id": "lyn_lyon_31",
       "name": "Vieux Lyon & Secret Traboules",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1689,10 +1749,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Vieux Lyon & Secret Traboules"
+      "name_local": "Vieux Lyon & Secret Traboules",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_32",
+      "id": "lyn_lyon_32",
       "name": "Croix-Rousse Hill & Pentes",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1744,10 +1806,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Croix-Rousse Hill & Pentes"
+      "name_local": "Croix-Rousse Hill & Pentes",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_33",
+      "id": "lyn_lyon_33",
       "name": "Cour des Voraces",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1798,10 +1862,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Cour des Voraces"
+      "name_local": "Cour des Voraces",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_34",
+      "id": "lyn_lyon_34",
       "name": "Fresque des Lyonnais",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1852,10 +1918,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Fresque des Lyonnais"
+      "name_local": "Fresque des Lyonnais",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_35",
+      "id": "lyn_lyon_35",
       "name": "Mur des Canuts",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1906,10 +1974,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Mur des Canuts"
+      "name_local": "Mur des Canuts",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_36",
+      "id": "lyn_lyon_36",
       "name": "Passerelle Saint-Georges",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1961,10 +2031,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Passerelle Saint-Georges"
+      "name_local": "Passerelle Saint-Georges",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_37",
+      "id": "lyn_lyon_37",
       "name": "Saône & Rhône Riverbanks Promenade",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2017,10 +2089,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Saône & Rhône Riverbanks Promenade"
+      "name_local": "Saône & Rhône Riverbanks Promenade",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_38",
+      "id": "lyn_lyon_38",
       "name": "Jardin des Curiosités",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2072,10 +2146,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Jardin des Curiosités"
+      "name_local": "Jardin des Curiosités",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_39",
+      "id": "lyn_lyon_39",
       "name": "Confluence Waterfront District",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -2127,10 +2203,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Confluence Waterfront District"
+      "name_local": "Confluence Waterfront District",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_40",
+      "id": "lyn_lyon_40",
       "name": "Île Barbe",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -2184,10 +2262,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Île Barbe"
+      "name_local": "Île Barbe",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_41",
+      "id": "lyn_lyon_41",
       "name": "Medieval Village of Pérouges",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2239,10 +2319,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Medieval Village of Pérouges"
+      "name_local": "Medieval Village of Pérouges",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_42",
+      "id": "lyn_lyon_42",
       "name": "Parc de la Tête d'Or",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -2294,10 +2376,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Parc de la Tête d'Or"
+      "name_local": "Parc de la Tête d'Or",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_43",
+      "id": "lyn_lyon_43",
       "name": "Théâtre Guignol de Lyon / Maison de Guignol",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2348,10 +2432,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Théâtre Guignol de Lyon / Maison de Guignol"
+      "name_local": "Théâtre Guignol de Lyon / Maison de Guignol",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_44",
+      "id": "lyn_lyon_44",
       "name": "Aquarium de Lyon",
       "category": "Kids & Family",
       "rating": "★4.5",
@@ -2403,10 +2489,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Aquarium de Lyon"
+      "name_local": "Aquarium de Lyon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_45",
+      "id": "lyn_lyon_45",
       "name": "Mini World Lyon",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2458,10 +2546,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Mini World Lyon"
+      "name_local": "Mini World Lyon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "lyon_46",
+      "id": "lyn_lyon_46",
       "name": "Planétarium de Vaulx-en-Velin",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2513,7 +2603,9 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Planétarium de Vaulx-en-Velin"
+      "name_local": "Planétarium de Vaulx-en-Velin",
+      "top7": false,
+      "hiddenGem": false
     }
   ]
 }

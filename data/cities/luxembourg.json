@@ -48,7 +48,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Bock-Kasematten"
+    "name_local": "Bock-Kasematten",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "lux_2",
@@ -100,7 +102,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Le Chemin de la Corniche"
+    "name_local": "Le Chemin de la Corniche",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "lux_3",
@@ -151,7 +155,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Palais Grand-Ducal"
+    "name_local": "Palais Grand-Ducal",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "lux_4",
@@ -202,7 +208,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Pétrusse-Kasematten"
+    "name_local": "Pétrusse-Kasematten",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "lux_5",
@@ -253,7 +261,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Pont Adolphe"
+    "name_local": "Pont Adolphe",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "lux_6",
@@ -305,7 +315,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Grund"
+    "name_local": "Grund",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_7",
@@ -356,7 +368,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Neimënster"
+    "name_local": "Neimënster",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_8",
@@ -410,7 +424,9 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Cathédrale Notre-Dame"
+    "name_local": "Cathédrale Notre-Dame",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_9",
@@ -463,7 +479,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Place Guillaume II"
+    "name_local": "Place Guillaume II",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_10",
@@ -515,7 +533,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Place d'Armes"
+    "name_local": "Place d'Armes",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "lux_11",
@@ -567,7 +587,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "MUDAM"
+    "name_local": "MUDAM",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "lux_12",
@@ -620,7 +642,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Musée Dräi Eechelen"
+    "name_local": "Musée Dräi Eechelen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_13",
@@ -671,7 +695,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Pfaffenthal Panoramic Glass Lift"
+    "name_local": "Pfaffenthal Panoramic Glass Lift",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_14",
@@ -723,7 +749,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Vallée de la Pétrusse"
+    "name_local": "Vallée de la Pétrusse",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_15",
@@ -774,7 +802,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Monument du Souvenir"
+    "name_local": "Monument du Souvenir",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "lux_16",
@@ -826,7 +856,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Lëtzebuerg City Museum"
+    "name_local": "Lëtzebuerg City Museum",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "lux_17",
@@ -879,7 +911,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Nationalmusée um Fëschmaart"
+    "name_local": "Nationalmusée um Fëschmaart",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "lux_18",
@@ -931,7 +965,9 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Rives de Clausen"
+    "name_local": "Rives de Clausen",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "lux_19",
@@ -982,7 +1018,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Plateau du Kirchberg"
+    "name_local": "Plateau du Kirchberg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_20",
@@ -1033,7 +1071,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Philharmonie Luxembourg"
+    "name_local": "Philharmonie Luxembourg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_21",
@@ -1084,7 +1124,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Pont Grande-Duchesse Charlotte"
+    "name_local": "Pont Grande-Duchesse Charlotte",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_22",
@@ -1136,7 +1178,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Grand-Rue & Rue Philippe II"
+    "name_local": "Grand-Rue & Rue Philippe II",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_23",
@@ -1189,7 +1233,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Parc Municipal de Luxembourg"
+    "name_local": "Parc Municipal de Luxembourg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_24",
@@ -1241,7 +1287,9 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Casino Luxembourg"
+    "name_local": "Casino Luxembourg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_25",
@@ -1292,7 +1340,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Musée National d'Histoire Naturelle"
+    "name_local": "Musée National d'Histoire Naturelle",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_26",
@@ -1345,7 +1395,9 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Gare de Luxembourg"
+    "name_local": "Gare de Luxembourg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_27",
@@ -1398,7 +1450,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Avenue de la Liberté"
+    "name_local": "Avenue de la Liberté",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "lux_28",
@@ -1451,7 +1505,9 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Rotondes"
+    "name_local": "Rotondes",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_29",
@@ -1502,7 +1558,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Funiculaire Pfaffenthal-Kirchberg"
+    "name_local": "Funiculaire Pfaffenthal-Kirchberg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_30",
@@ -1556,7 +1614,9 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Plateau du Rham"
+    "name_local": "Plateau du Rham",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_31",
@@ -1607,7 +1667,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Passerelle / Viaduc de Luxembourg"
+    "name_local": "Passerelle / Viaduc de Luxembourg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_32",
@@ -1660,7 +1722,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Villa Vauban"
+    "name_local": "Villa Vauban",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_33",
@@ -1711,7 +1775,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Église Saint-Michel"
+    "name_local": "Église Saint-Michel",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_34",
@@ -1762,7 +1828,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Église Saint-Jean-du-Grund"
+    "name_local": "Église Saint-Jean-du-Grund",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_35",
@@ -1815,7 +1883,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Parc des Trois Glands"
+    "name_local": "Parc des Trois Glands",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_36",
@@ -1866,7 +1936,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Luxtram"
+    "name_local": "Luxtram",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_37",
@@ -1919,7 +1991,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Square Jan Palach"
+    "name_local": "Square Jan Palach",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_38",
@@ -1970,7 +2044,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Court of Justice of the EU"
+    "name_local": "Court of Justice of the EU",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_39",
@@ -2021,7 +2097,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "d'Coque"
+    "name_local": "d'Coque",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_40",
@@ -2074,7 +2152,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Ville Haute Delicatessens"
+    "name_local": "Ville Haute Delicatessens",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_41",
@@ -2125,7 +2205,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Château de Vianden"
+    "name_local": "Château de Vianden",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "lux_42",
@@ -2176,6 +2258,8 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Mullerthal Region"
+    "name_local": "Mullerthal Region",
+    "top7": false,
+    "hiddenGem": false
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "b_1",
+    "id": "bru_c_b_1",
     "name": "Grand-Place",
     "category": "Landmark",
     "rating": "★4.8",
@@ -50,10 +50,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Grand-Place"
+    "name_local": "Grand-Place",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "b_2",
+    "id": "bru_c_b_2",
     "name": "Manneken Pis",
     "category": "Landmark",
     "rating": "★4.3",
@@ -101,10 +103,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Manneken Pis"
+    "name_local": "Manneken Pis",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "b_3",
+    "id": "bru_c_b_3",
     "name": "Atomium",
     "category": "Landmark",
     "rating": "★4.6",
@@ -153,10 +157,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Atomium"
+    "name_local": "Atomium",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "b_4",
+    "id": "bru_c_b_4",
     "name": "Koninklijke Musea voor Schone Kunsten",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -204,10 +210,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Koninklijke Musea voor Schone Kunsten"
+    "name_local": "Koninklijke Musea voor Schone Kunsten",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "b_5",
+    "id": "bru_c_b_5",
     "name": "Musée Magritte Museum",
     "category": "Museum & Gallery",
     "rating": "★4.8",
@@ -256,10 +264,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Musée Magritte Museum"
+    "name_local": "Musée Magritte Museum",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "b_6",
+    "id": "bru_c_b_6",
     "name": "Cathédrale Saints-Michel-et-Gudule",
     "category": "Landmark",
     "rating": "★4.7",
@@ -307,10 +317,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Cathédrale Saints-Michel-et-Gudule"
+    "name_local": "Cathédrale Saints-Michel-et-Gudule",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_7",
+    "id": "bru_c_b_7",
     "name": "Galeries Royales Saint-Hubert",
     "category": "Shopping",
     "rating": "★4.7",
@@ -360,10 +372,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Galeries Royales Saint-Hubert"
+    "name_local": "Galeries Royales Saint-Hubert",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "b_8",
+    "id": "bru_c_b_8",
     "name": "Mini-Europe",
     "category": "Landmark",
     "rating": "★4.6",
@@ -414,10 +428,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Mini-Europe"
+    "name_local": "Mini-Europe",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_9",
+    "id": "bru_c_b_9",
     "name": "Koninklijk Paleis van Brussel",
     "category": "Landmark",
     "rating": "★4.6",
@@ -467,10 +483,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Koninklijk Paleis van Brussel"
+    "name_local": "Koninklijk Paleis van Brussel",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_10",
+    "id": "bru_c_b_10",
     "name": "Parc de Bruxelles",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -522,10 +540,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Parc de Bruxelles"
+    "name_local": "Parc de Bruxelles",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_11",
+    "id": "bru_c_b_11",
     "name": "Mont des Arts",
     "category": "Scenery & Walk",
     "rating": "★4.8",
@@ -576,10 +596,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Mont des Arts"
+    "name_local": "Mont des Arts",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_12",
+    "id": "bru_c_b_12",
     "name": "Musée des Instruments de Musique",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -627,10 +649,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Musée des Instruments de Musique"
+    "name_local": "Musée des Instruments de Musique",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_13",
+    "id": "bru_c_b_13",
     "name": "Belgisch Stripcentrum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
@@ -678,10 +702,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Belgisch Stripcentrum"
+    "name_local": "Belgisch Stripcentrum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_14",
+    "id": "bru_c_b_14",
     "name": "Striproute Brussel",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -729,10 +755,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Striproute Brussel"
+    "name_local": "Striproute Brussel",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_15",
+    "id": "bru_c_b_15",
     "name": "Musée Horta",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -781,10 +809,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Musée Horta"
+    "name_local": "Musée Horta",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_16",
+    "id": "bru_c_b_16",
     "name": "Koninklijk Museum van het Leger",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -834,10 +864,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Koninklijk Museum van het Leger"
+    "name_local": "Koninklijk Museum van het Leger",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "b_17",
+    "id": "bru_c_b_17",
     "name": "Autoworld Brussels",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -887,10 +919,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Autoworld Brussels"
+    "name_local": "Autoworld Brussels",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "b_18",
+    "id": "bru_c_b_18",
     "name": "Parc du Cinquantenaire",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -941,10 +975,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Parc du Cinquantenaire"
+    "name_local": "Parc du Cinquantenaire",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "b_19",
+    "id": "bru_c_b_19",
     "name": "Europees Parlement & Parlamentarium",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -992,10 +1028,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Europees Parlement & Parlamentarium"
+    "name_local": "Europees Parlement & Parlamentarium",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_20",
+    "id": "bru_c_b_20",
     "name": "Huis van de Europese Geschiedenis",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -1046,10 +1084,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Huis van de Europese Geschiedenis"
+    "name_local": "Huis van de Europese Geschiedenis",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_21",
+    "id": "bru_c_b_21",
     "name": "Jeanneke-Pis & Delirium Café",
     "category": "Café & Bistro",
     "rating": "★4.5",
@@ -1097,10 +1137,12 @@
       "Café"
     ],
     "is_night_spot": false,
-    "name_local": "Jeanneke-Pis & Delirium Café"
+    "name_local": "Jeanneke-Pis & Delirium Café",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "b_22",
+    "id": "bru_c_b_22",
     "name": "Het Zinneke / Zinneke Pis",
     "category": "Landmark",
     "rating": "★4.3",
@@ -1148,10 +1190,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Het Zinneke / Zinneke Pis"
+    "name_local": "Het Zinneke / Zinneke Pis",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_23",
+    "id": "bru_c_b_23",
     "name": "Sint-Gorikshallen",
     "category": "Café & Bistro",
     "rating": "★4.5",
@@ -1201,10 +1245,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Sint-Gorikshallen"
+    "name_local": "Sint-Gorikshallen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_24",
+    "id": "bru_c_b_24",
     "name": "Sint-Katelijne & Vismet",
     "category": "Café & Bistro",
     "rating": "★4.6",
@@ -1255,10 +1301,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Sint-Katelijne & Vismet"
+    "name_local": "Sint-Katelijne & Vismet",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_25",
+    "id": "bru_c_b_25",
     "name": "Vlooienmarkt Vossenplein",
     "category": "Shopping",
     "rating": "★4.5",
@@ -1307,10 +1355,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Vlooienmarkt Vossenplein"
+    "name_local": "Vlooienmarkt Vossenplein",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_26",
+    "id": "bru_c_b_26",
     "name": "Justitiepaleis & Poelaertplein",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1358,10 +1408,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Justitiepaleis & Poelaertplein"
+    "name_local": "Justitiepaleis & Poelaertplein",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_27",
+    "id": "bru_c_b_27",
     "name": "De Marollen",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -1411,10 +1463,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "De Marollen"
+    "name_local": "De Marollen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_28",
+    "id": "bru_c_b_28",
     "name": "Koninklijke Muntschouwburg",
     "category": "Landmark",
     "rating": "★4.6",
@@ -1462,10 +1516,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Koninklijke Muntschouwburg"
+    "name_local": "Koninklijke Muntschouwburg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_29",
+    "id": "bru_c_b_29",
     "name": "Koninklijke Serres van Laken",
     "category": "Landmark",
     "rating": "★4.9",
@@ -1513,10 +1569,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Koninklijke Serres van Laken"
+    "name_local": "Koninklijke Serres van Laken",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_30",
+    "id": "bru_c_b_30",
     "name": "Choco-Story Brussels",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1567,10 +1625,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Choco-Story Brussels"
+    "name_local": "Choco-Story Brussels",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_31",
+    "id": "bru_c_b_31",
     "name": "Museum van het Natuurwetenschappen",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1619,10 +1679,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Museum van het Natuurwetenschappen"
+    "name_local": "Museum van het Natuurwetenschappen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_32",
+    "id": "bru_c_b_32",
     "name": "Cantillon Brouwerij",
     "category": "Landmark",
     "rating": "★4.8",
@@ -1672,10 +1734,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Cantillon Brouwerij"
+    "name_local": "Cantillon Brouwerij",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "b_33",
+    "id": "bru_c_b_33",
     "name": "Maison Dandoy",
     "category": "Café & Bistro",
     "rating": "★4.6",
@@ -1724,10 +1788,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Maison Dandoy"
+    "name_local": "Maison Dandoy",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_34",
+    "id": "bru_c_b_34",
     "name": "Église Notre-Dame des Victoires au Sablon",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1775,10 +1841,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Église Notre-Dame des Victoires au Sablon"
+    "name_local": "Église Notre-Dame des Victoires au Sablon",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_35",
+    "id": "bru_c_b_35",
     "name": "De Zavel / Le Sablon",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1830,10 +1898,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "De Zavel / Le Sablon"
+    "name_local": "De Zavel / Le Sablon",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_36",
+    "id": "bru_c_b_36",
     "name": "Train World",
     "category": "Museum & Gallery",
     "rating": "★4.8",
@@ -1881,10 +1951,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Train World"
+    "name_local": "Train World",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_37",
+    "id": "bru_c_b_37",
     "name": "Koninklijk Paleis van Laken",
     "category": "Landmark",
     "rating": "★4.5",
@@ -1934,10 +2006,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Koninklijk Paleis van Laken"
+    "name_local": "Koninklijk Paleis van Laken",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_38",
+    "id": "bru_c_b_38",
     "name": "Plantentuin Meise",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1986,10 +2060,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Plantentuin Meise"
+    "name_local": "Plantentuin Meise",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_39",
+    "id": "bru_c_b_39",
     "name": "Maison du Roi / Broodhuis",
     "category": "Museum & Gallery",
     "rating": "★4.6",
@@ -2038,10 +2114,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Maison du Roi / Broodhuis"
+    "name_local": "Maison du Roi / Broodhuis",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_40",
+    "id": "bru_c_b_40",
     "name": "Abdij Ter Kameren",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -2089,10 +2167,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Abdij Ter Kameren"
+    "name_local": "Abdij Ter Kameren",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_41",
+    "id": "bru_c_b_41",
     "name": "Bois de la Cambre",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -2143,10 +2223,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Bois de la Cambre"
+    "name_local": "Bois de la Cambre",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "b_42",
+    "id": "bru_c_b_42",
     "name": "Zoniënwoud",
     "category": "Scenery & Walk",
     "rating": "★4.8",
@@ -2195,10 +2277,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Zoniënwoud"
+    "name_local": "Zoniënwoud",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_43",
+    "id": "bru_c_b_43",
     "name": "Slagveld van Waterloo",
     "category": "Landmark",
     "rating": "★4.7",
@@ -2247,10 +2331,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Slagveld van Waterloo"
+    "name_local": "Slagveld van Waterloo",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_44",
+    "id": "bru_c_b_44",
     "name": "Historisch Leuven",
     "category": "Landmark",
     "rating": "★4.7",
@@ -2301,10 +2387,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Historisch Leuven"
+    "name_local": "Historisch Leuven",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_45",
+    "id": "bru_c_b_45",
     "name": "Kasteel van Gaasbeek",
     "category": "Landmark",
     "rating": "★4.6",
@@ -2354,10 +2442,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Kasteel van Gaasbeek"
+    "name_local": "Kasteel van Gaasbeek",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_46",
+    "id": "bru_c_b_46",
     "name": "Hallebos",
     "category": "Scenery & Walk",
     "rating": "★4.9",
@@ -2407,10 +2497,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Hallebos"
+    "name_local": "Hallebos",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_47",
+    "id": "bru_c_b_47",
     "name": "Historisch Mechelen",
     "category": "Landmark",
     "rating": "★4.7",
@@ -2461,10 +2553,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Historisch Mechelen"
+    "name_local": "Historisch Mechelen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_48",
+    "id": "bru_c_b_48",
     "name": "Maison Antoine & Frietkoten",
     "category": "Café & Bistro",
     "rating": "★4.7",
@@ -2513,10 +2607,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Maison Antoine & Frietkoten"
+    "name_local": "Maison Antoine & Frietkoten",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_49",
+    "id": "bru_c_b_49",
     "name": "Fin-de-Siècle Museum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -2564,10 +2660,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Fin-de-Siècle Museum"
+    "name_local": "Fin-de-Siècle Museum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_50",
+    "id": "bru_c_b_50",
     "name": "Musée BELvue",
     "category": "Museum & Gallery",
     "rating": "★4.5",
@@ -2616,10 +2714,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Musée BELvue"
+    "name_local": "Musée BELvue",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_51",
+    "id": "bru_c_b_51",
     "name": "Paleis van Coudenberg",
     "category": "Landmark",
     "rating": "★4.6",
@@ -2667,10 +2767,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Paleis van Coudenberg"
+    "name_local": "Paleis van Coudenberg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_52",
+    "id": "bru_c_b_52",
     "name": "Villa Empain",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -2720,10 +2822,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Villa Empain"
+    "name_local": "Villa Empain",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_53",
+    "id": "bru_c_b_53",
     "name": "Sint-Gillis & Flagey",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -2771,10 +2875,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Gillis & Flagey"
+    "name_local": "Sint-Gillis & Flagey",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_54",
+    "id": "bru_c_b_54",
     "name": "Flageyplein & Maison de la Radio",
     "category": "Scenery & Walk",
     "rating": "★4.6",
@@ -2824,10 +2930,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Flageyplein & Maison de la Radio"
+    "name_local": "Flageyplein & Maison de la Radio",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "b_55",
+    "id": "bru_c_b_55",
     "name": "Rue Neuve & Notre-Dame du Finistère",
     "category": "Shopping",
     "rating": "★4.5",
@@ -2879,6 +2987,8 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Rue Neuve & Notre-Dame du Finistère"
+    "name_local": "Rue Neuve & Notre-Dame du Finistère",
+    "top7": false,
+    "hiddenGem": false
   }
 ]

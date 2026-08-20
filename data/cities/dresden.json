@@ -4,7 +4,7 @@
   "flag": "🇩🇪",
   "spots": [
     {
-      "id": "dr_1",
+      "id": "drs_dr_1",
       "name": "Frauenkirche Dresden",
       "category": "Landmark",
       "rating": "★4.9",
@@ -54,10 +54,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Frauenkirche Dresden"
+      "name_local": "Frauenkirche Dresden",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dr_2",
+      "id": "drs_dr_2",
       "name": "Dresdner Zwinger",
       "category": "Landmark",
       "rating": "★4.8",
@@ -108,10 +110,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Dresdner Zwinger"
+      "name_local": "Dresdner Zwinger",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dr_3",
+      "id": "drs_dr_3",
       "name": "Gemäldegalerie Alte Meister",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -160,10 +164,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Gemäldegalerie Alte Meister"
+      "name_local": "Gemäldegalerie Alte Meister",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dr_4",
+      "id": "drs_dr_4",
       "name": "Mathematisch-Physikalischer Salon",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -212,10 +218,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Mathematisch-Physikalischer Salon"
+      "name_local": "Mathematisch-Physikalischer Salon",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dr_5",
+      "id": "drs_dr_5",
       "name": "Dresdner Porzellansammlung",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -262,10 +270,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Dresdner Porzellansammlung"
+      "name_local": "Dresdner Porzellansammlung",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dr_6",
+      "id": "drs_dr_6",
       "name": "Residenzschloss Dresden",
       "category": "Landmark",
       "rating": "★4.7",
@@ -315,10 +325,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Residenzschloss Dresden"
+      "name_local": "Residenzschloss Dresden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_7",
+      "id": "drs_dr_7",
       "name": "Grünes Gewölbe",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -368,10 +380,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Grünes Gewölbe"
+      "name_local": "Grünes Gewölbe",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_8",
+      "id": "drs_dr_8",
       "name": "Türckische Cammer & Rüstkammer",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -418,10 +432,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Türckische Cammer & Rüstkammer"
+      "name_local": "Türckische Cammer & Rüstkammer",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_9",
+      "id": "drs_dr_9",
       "name": "Fürstenzug",
       "category": "Landmark",
       "rating": "★4.8",
@@ -471,10 +487,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Fürstenzug"
+      "name_local": "Fürstenzug",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_10",
+      "id": "drs_dr_10",
       "name": "Semperoper Dresden",
       "category": "Landmark",
       "rating": "★4.8",
@@ -522,10 +540,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Semperoper Dresden"
+      "name_local": "Semperoper Dresden",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dr_11",
+      "id": "drs_dr_11",
       "name": "Katholische Hofkirche",
       "category": "Landmark",
       "rating": "★4.7",
@@ -575,10 +595,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Katholische Hofkirche"
+      "name_local": "Katholische Hofkirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_12",
+      "id": "drs_dr_12",
       "name": "Brühlsche Terrasse",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -627,10 +649,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Brühlsche Terrasse"
+      "name_local": "Brühlsche Terrasse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_13",
+      "id": "drs_dr_13",
       "name": "Dresdner Neumarkt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -681,10 +705,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Dresdner Neumarkt"
+      "name_local": "Dresdner Neumarkt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_14",
+      "id": "drs_dr_14",
       "name": "Dresdner Altmarkt",
       "category": "Shopping",
       "rating": "★4.6",
@@ -731,10 +757,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Dresdner Altmarkt"
+      "name_local": "Dresdner Altmarkt",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dr_15",
+      "id": "drs_dr_15",
       "name": "Kreuzkirche Dresden",
       "category": "Landmark",
       "rating": "★4.6",
@@ -782,10 +810,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Kreuzkirche Dresden"
+      "name_local": "Kreuzkirche Dresden",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dr_16",
+      "id": "drs_dr_16",
       "name": "Dresdner Molkerei Gebrüder Pfund",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -834,10 +864,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Dresdner Molkerei Gebrüder Pfund"
+      "name_local": "Dresdner Molkerei Gebrüder Pfund",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dr_17",
+      "id": "drs_dr_17",
       "name": "Kunsthofpassage",
       "category": "Landmark",
       "rating": "★4.7",
@@ -886,10 +918,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Kunsthofpassage"
+      "name_local": "Kunsthofpassage",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dr_18",
+      "id": "drs_dr_18",
       "name": "Äußere Neustadt",
       "category": "Shopping",
       "rating": "★4.6",
@@ -939,10 +973,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Äußere Neustadt"
+      "name_local": "Äußere Neustadt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dr_19",
+      "id": "drs_dr_19",
       "name": "Goldener Reiter",
       "category": "Landmark",
       "rating": "★4.6",
@@ -990,10 +1026,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Goldener Reiter"
+      "name_local": "Goldener Reiter",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_20",
+      "id": "drs_dr_20",
       "name": "Großer Garten & Dresdner Parkeisenbahn",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -1042,10 +1080,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Großer Garten & Dresdner Parkeisenbahn"
+      "name_local": "Großer Garten & Dresdner Parkeisenbahn",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_21",
+      "id": "drs_dr_21",
       "name": "Sommerpalais",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1097,10 +1137,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Sommerpalais"
+      "name_local": "Sommerpalais",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_22",
+      "id": "drs_dr_22",
       "name": "Zoo Dresden",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -1150,10 +1192,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Zoo Dresden"
+      "name_local": "Zoo Dresden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_23",
+      "id": "drs_dr_23",
       "name": "Botanischer Garten der TU Dresden",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1199,10 +1243,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Botanischer Garten der TU Dresden"
+      "name_local": "Botanischer Garten der TU Dresden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_24",
+      "id": "drs_dr_24",
       "name": "Deutsches Hygiene-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1251,10 +1297,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Hygiene-Museum"
+      "name_local": "Deutsches Hygiene-Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_25",
+      "id": "drs_dr_25",
       "name": "Militärhistorisches Museum der Bundeswehr",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -1302,10 +1350,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Militärhistorisches Museum der Bundeswehr"
+      "name_local": "Militärhistorisches Museum der Bundeswehr",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_26",
+      "id": "drs_dr_26",
       "name": "Panometer Dresden",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1355,10 +1405,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Panometer Dresden"
+      "name_local": "Panometer Dresden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_27",
+      "id": "drs_dr_27",
       "name": "Albertinum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -1406,10 +1458,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Albertinum"
+      "name_local": "Albertinum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_28",
+      "id": "drs_dr_28",
       "name": "Verkehrsmuseum Dresden",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1458,10 +1512,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Verkehrsmuseum Dresden"
+      "name_local": "Verkehrsmuseum Dresden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_29",
+      "id": "drs_dr_29",
       "name": "Gläserne Manufaktur",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1509,10 +1565,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Gläserne Manufaktur"
+      "name_local": "Gläserne Manufaktur",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_30",
+      "id": "drs_dr_30",
       "name": "Sächsische Dampfschiffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1562,10 +1620,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Sächsische Dampfschiffahrt"
+      "name_local": "Sächsische Dampfschiffahrt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_31",
+      "id": "drs_dr_31",
       "name": "Loschwitz & Blaues Wunder",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1612,10 +1672,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Loschwitz & Blaues Wunder"
+      "name_local": "Loschwitz & Blaues Wunder",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_32",
+      "id": "drs_dr_32",
       "name": "Standseilbahn Dresden & Schwebebahn Dresden",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1661,10 +1723,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Standseilbahn Dresden & Schwebebahn Dresden"
+      "name_local": "Standseilbahn Dresden & Schwebebahn Dresden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_33",
+      "id": "drs_dr_33",
       "name": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1711,10 +1775,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg"
+      "name_local": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_34",
+      "id": "drs_dr_34",
       "name": "Prager Straße",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1764,10 +1830,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Prager Straße"
+      "name_local": "Prager Straße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_35",
+      "id": "drs_dr_35",
       "name": "Altmarkt-Galerie Dresden",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1815,10 +1883,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Altmarkt-Galerie Dresden"
+      "name_local": "Altmarkt-Galerie Dresden",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dr_36",
+      "id": "drs_dr_36",
       "name": "Kutscherschänke & Pulverturm an der Frauenkirche",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1866,10 +1936,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Kutscherschänke & Pulverturm an der Frauenkirche"
+      "name_local": "Kutscherschänke & Pulverturm an der Frauenkirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_37",
+      "id": "drs_dr_37",
       "name": "Sophienkeller im Taschenbergpalais",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1917,10 +1989,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Sophienkeller im Taschenbergpalais"
+      "name_local": "Sophienkeller im Taschenbergpalais",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_38",
+      "id": "drs_dr_38",
       "name": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1968,10 +2042,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais"
+      "name_local": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_39",
+      "id": "drs_dr_39",
       "name": "Yenidze",
       "category": "Landmark",
       "rating": "★4.6",
@@ -2019,10 +2095,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Yenidze"
+      "name_local": "Yenidze",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_40",
+      "id": "drs_dr_40",
       "name": "Lingnerstadt & Blüherpark",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -2073,10 +2151,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Lingnerstadt & Blüherpark"
+      "name_local": "Lingnerstadt & Blüherpark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_41",
+      "id": "drs_dr_41",
       "name": "Nationalpark Sächsische Schweiz & Basteibrücke",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -2124,10 +2204,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Nationalpark Sächsische Schweiz & Basteibrücke"
+      "name_local": "Nationalpark Sächsische Schweiz & Basteibrücke",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_42",
+      "id": "drs_dr_42",
       "name": "Festung Königstein",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2176,10 +2258,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Festung Königstein"
+      "name_local": "Festung Königstein",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_43",
+      "id": "drs_dr_43",
       "name": "Schloss Moritzburg & Fasanenschlösschen",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2230,10 +2314,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Schloss Moritzburg & Fasanenschlösschen"
+      "name_local": "Schloss Moritzburg & Fasanenschlösschen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_44",
+      "id": "drs_dr_44",
       "name": "Porzellanmanufaktur Meissen & Erlebniswelt",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -2283,10 +2369,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Porzellanmanufaktur Meissen & Erlebniswelt"
+      "name_local": "Porzellanmanufaktur Meissen & Erlebniswelt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dr_45",
+      "id": "drs_dr_45",
       "name": "Albrechtsburg Meißen & Dom zu Meißen",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2333,7 +2421,9 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Albrechtsburg Meißen & Dom zu Meißen"
+      "name_local": "Albrechtsburg Meißen & Dom zu Meißen",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 45

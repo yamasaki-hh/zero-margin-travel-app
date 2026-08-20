@@ -5,7 +5,7 @@
   "country_ja": "オランダ",
   "spots": [
     {
-      "id": "a_1",
+      "id": "ams_a_1",
       "name": "Rijksmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -54,10 +54,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Rijksmuseum"
+      "name_local": "Rijksmuseum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "a_2",
+      "id": "ams_a_2",
       "name": "Van Gogh Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -105,10 +107,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Van Gogh Museum"
+      "name_local": "Van Gogh Museum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "a_3",
+      "id": "ams_a_3",
       "name": "Anne Frank House",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -157,10 +161,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Anne Frank House"
+      "name_local": "Anne Frank House",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "a_4",
+      "id": "ams_a_4",
       "name": "Amsterdam Canal Cruise",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -210,10 +216,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Amsterdam Canal Cruise"
+      "name_local": "Amsterdam Canal Cruise",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "a_5",
+      "id": "ams_a_5",
       "name": "Dam Square & Royal Palace Amsterdam",
       "category": "Landmark",
       "rating": "★4.7",
@@ -261,10 +269,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Dam Square & Royal Palace Amsterdam"
+      "name_local": "Dam Square & Royal Palace Amsterdam",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "a_6",
+      "id": "ams_a_6",
       "name": "Heineken Experience",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -313,10 +323,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Heineken Experience"
+      "name_local": "Heineken Experience",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "a_7",
+      "id": "ams_a_7",
       "name": "Zaanse Schans",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -365,10 +377,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Zaanse Schans"
+      "name_local": "Zaanse Schans",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_8",
+      "id": "ams_a_8",
       "name": "Keukenhof",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -417,10 +431,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Keukenhof"
+      "name_local": "Keukenhof",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_9",
+      "id": "ams_a_9",
       "name": "A'DAM LOOKOUT",
       "category": "Landmark",
       "rating": "★4.7",
@@ -469,10 +485,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "A'DAM LOOKOUT"
+      "name_local": "A'DAM LOOKOUT",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_10",
+      "id": "ams_a_10",
       "name": "Vondelpark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -522,10 +540,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Vondelpark"
+      "name_local": "Vondelpark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_11",
+      "id": "ams_a_11",
       "name": "De Jordaan",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -574,10 +594,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "De Jordaan"
+      "name_local": "De Jordaan",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "a_12",
+      "id": "ams_a_12",
       "name": "De Negen Straatjes",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -626,10 +648,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "De Negen Straatjes"
+      "name_local": "De Negen Straatjes",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_13",
+      "id": "ams_a_13",
       "name": "Drijvende Bloemenmarkt",
       "category": "Landmark",
       "rating": "★4.7",
@@ -681,10 +705,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Drijvende Bloemenmarkt"
+      "name_local": "Drijvende Bloemenmarkt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_14",
+      "id": "ams_a_14",
       "name": "Stedelijk Museum Amsterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -732,10 +758,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Stedelijk Museum Amsterdam"
+      "name_local": "Stedelijk Museum Amsterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_15",
+      "id": "ams_a_15",
       "name": "NEMO Science Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -784,10 +812,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "NEMO Science Museum"
+      "name_local": "NEMO Science Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_16",
+      "id": "ams_a_16",
       "name": "Albert Cuypmarkt",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -837,10 +867,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Albert Cuypmarkt"
+      "name_local": "Albert Cuypmarkt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "a_17",
+      "id": "ams_a_17",
       "name": "Het Scheepvaartmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -889,10 +921,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Het Scheepvaartmuseum"
+      "name_local": "Het Scheepvaartmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_18",
+      "id": "ams_a_18",
       "name": "Museum Het Rembrandthuis",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -940,10 +974,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Het Rembrandthuis"
+      "name_local": "Museum Het Rembrandthuis",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_19",
+      "id": "ams_a_19",
       "name": "Rembrandtplein",
       "category": "Landmark",
       "rating": "★4.7",
@@ -993,10 +1029,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Rembrandtplein"
+      "name_local": "Rembrandtplein",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "a_20",
+      "id": "ams_a_20",
       "name": "De Oude Kerk",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1046,10 +1084,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "De Oude Kerk"
+      "name_local": "De Oude Kerk",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "a_21",
+      "id": "ams_a_21",
       "name": "Westerkerk",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1097,10 +1137,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Westerkerk"
+      "name_local": "Westerkerk",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "a_22",
+      "id": "ams_a_22",
       "name": "De Wallen",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1150,10 +1192,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "De Wallen"
+      "name_local": "De Wallen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_23",
+      "id": "ams_a_23",
       "name": "Het Begijnhof",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1201,10 +1245,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Het Begijnhof"
+      "name_local": "Het Begijnhof",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "a_24",
+      "id": "ams_a_24",
       "name": "Magere Brug",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1252,10 +1298,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Magere Brug"
+      "name_local": "Magere Brug",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_25",
+      "id": "ams_a_25",
       "name": "Eye Filmmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1303,10 +1351,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Eye Filmmuseum"
+      "name_local": "Eye Filmmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_26",
+      "id": "ams_a_26",
       "name": "Volendam & Marken",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1355,10 +1405,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Volendam & Marken"
+      "name_local": "Volendam & Marken",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_27",
+      "id": "ams_a_27",
       "name": "Historisch Centrum Haarlem",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1411,10 +1463,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Historisch Centrum Haarlem"
+      "name_local": "Historisch Centrum Haarlem",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_28",
+      "id": "ams_a_28",
       "name": "Moco Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1464,10 +1518,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Moco Museum"
+      "name_local": "Moco Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_29",
+      "id": "ams_a_29",
       "name": "De Pijp",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1518,10 +1574,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "De Pijp"
+      "name_local": "De Pijp",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_30",
+      "id": "ams_a_30",
       "name": "NDSM-werf",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1572,10 +1630,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "NDSM-werf"
+      "name_local": "NDSM-werf",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_31",
+      "id": "ams_a_31",
       "name": "STRAAT Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1623,10 +1683,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "STRAAT Museum"
+      "name_local": "STRAAT Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_32",
+      "id": "ams_a_32",
       "name": "The Amsterdam Dungeon",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1674,10 +1736,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "The Amsterdam Dungeon"
+      "name_local": "The Amsterdam Dungeon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_33",
+      "id": "ams_a_33",
       "name": "BODY WORLDS Amsterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1725,10 +1789,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "BODY WORLDS Amsterdam"
+      "name_local": "BODY WORLDS Amsterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_34",
+      "id": "ams_a_34",
       "name": "ARTIS & Micropia",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1779,10 +1845,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "ARTIS & Micropia"
+      "name_local": "ARTIS & Micropia",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_35",
+      "id": "ams_a_35",
       "name": "Wereldmuseum Amsterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1831,10 +1899,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Wereldmuseum Amsterdam"
+      "name_local": "Wereldmuseum Amsterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_36",
+      "id": "ams_a_36",
       "name": "Brouwerij 't IJ",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1883,10 +1953,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Brouwerij 't IJ"
+      "name_local": "Brouwerij 't IJ",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_37",
+      "id": "ams_a_37",
       "name": "Kalverstraat & Damrak",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1938,10 +2010,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Kalverstraat & Damrak"
+      "name_local": "Kalverstraat & Damrak",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_38",
+      "id": "ams_a_38",
       "name": "De Bijenkorf",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1990,10 +2064,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "De Bijenkorf"
+      "name_local": "De Bijenkorf",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_39",
+      "id": "ams_a_39",
       "name": "Café de Klos & Bruine Cafés",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -2042,10 +2118,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Café de Klos & Bruine Cafés"
+      "name_local": "Café de Klos & Bruine Cafés",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_40",
+      "id": "ams_a_40",
       "name": "OBA Oosterdok",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2095,10 +2173,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "OBA Oosterdok"
+      "name_local": "OBA Oosterdok",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_41",
+      "id": "ams_a_41",
       "name": "Foodhallen Amsterdam",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -2146,10 +2226,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Foodhallen Amsterdam"
+      "name_local": "Foodhallen Amsterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_42",
+      "id": "ams_a_42",
       "name": "Station Amsterdam Centraal",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2198,10 +2280,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Station Amsterdam Centraal"
+      "name_local": "Station Amsterdam Centraal",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_43",
+      "id": "ams_a_43",
       "name": "Het Amsterdamse Bos",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2250,10 +2334,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Het Amsterdamse Bos"
+      "name_local": "Het Amsterdamse Bos",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_44",
+      "id": "ams_a_44",
       "name": "Hortus Botanicus Amsterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2301,10 +2387,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Hortus Botanicus Amsterdam"
+      "name_local": "Hortus Botanicus Amsterdam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_45",
+      "id": "ams_a_45",
       "name": "Joods Cultureel Kwartier",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2352,10 +2440,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Joods Cultureel Kwartier"
+      "name_local": "Joods Cultureel Kwartier",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_46",
+      "id": "ams_a_46",
       "name": "Nationaal Holocaust Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2404,10 +2494,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Nationaal Holocaust Museum"
+      "name_local": "Nationaal Holocaust Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_47",
+      "id": "ams_a_47",
       "name": "Westergas",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2457,10 +2549,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Westergas"
+      "name_local": "Westergas",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_48",
+      "id": "ams_a_48",
       "name": "Magna Plaza",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2509,10 +2603,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Magna Plaza"
+      "name_local": "Magna Plaza",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_49",
+      "id": "ams_a_49",
       "name": "Proeflokaal In de Wildeman",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -2561,10 +2657,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Proeflokaal In de Wildeman"
+      "name_local": "Proeflokaal In de Wildeman",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_50",
+      "id": "ams_a_50",
       "name": "Kaasmarkt Alkmaar",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2613,10 +2711,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Kaasmarkt Alkmaar"
+      "name_local": "Kaasmarkt Alkmaar",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_51",
+      "id": "ams_a_51",
       "name": "Panoramaterras Schiphol",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2666,10 +2766,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Panoramaterras Schiphol"
+      "name_local": "Panoramaterras Schiphol",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_52",
+      "id": "ams_a_52",
       "name": "Forteiland Pampus & Muiderslot",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2717,10 +2819,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Forteiland Pampus & Muiderslot"
+      "name_local": "Forteiland Pampus & Muiderslot",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_53",
+      "id": "ams_a_53",
       "name": "Singel & Herengracht Canal Ring",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2769,10 +2873,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Singel & Herengracht Canal Ring"
+      "name_local": "Singel & Herengracht Canal Ring",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_54",
+      "id": "ams_a_54",
       "name": "Electric Ladyland",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2821,10 +2927,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Electric Ladyland"
+      "name_local": "Electric Ladyland",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_55",
+      "id": "ams_a_55",
       "name": "Kattenkabinet",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2874,10 +2982,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kattenkabinet"
+      "name_local": "Kattenkabinet",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_56",
+      "id": "ams_a_56",
       "name": "Willet-Holthuysen Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2926,10 +3036,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Willet-Holthuysen Museum"
+      "name_local": "Willet-Holthuysen Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_57",
+      "id": "ams_a_57",
       "name": "Museum Van Loon",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2979,10 +3091,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Van Loon"
+      "name_local": "Museum Van Loon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_58",
+      "id": "ams_a_58",
       "name": "Amsterdam Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -3030,10 +3144,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Amsterdam Museum"
+      "name_local": "Amsterdam Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_59",
+      "id": "ams_a_59",
       "name": "House of Bols",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -3081,10 +3197,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "House of Bols"
+      "name_local": "House of Bols",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "a_60",
+      "id": "ams_a_60",
       "name": "Concertgebouw",
       "category": "Landmark",
       "rating": "★4.7",
@@ -3132,7 +3250,9 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Concertgebouw"
+      "name_local": "Concertgebouw",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 60

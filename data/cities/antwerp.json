@@ -48,7 +48,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Antwerpen-Centraal"
+    "name_local": "Antwerpen-Centraal",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "ant_2",
@@ -99,7 +101,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Onze-Lieve-Vrouwekathedraal"
+    "name_local": "Onze-Lieve-Vrouwekathedraal",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "ant_3",
@@ -150,7 +154,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Grote Markt & Brabo Fountain"
+    "name_local": "Grote Markt & Brabo Fountain",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "ant_4",
@@ -204,7 +210,9 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "MAS | Museum aan de Stroom"
+    "name_local": "MAS | Museum aan de Stroom",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "ant_5",
@@ -256,7 +264,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Rubenshuis"
+    "name_local": "Rubenshuis",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "ant_6",
@@ -307,7 +317,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Het Steen"
+    "name_local": "Het Steen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_7",
@@ -359,7 +371,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Museum Plantin-Moretus"
+    "name_local": "Museum Plantin-Moretus",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_8",
@@ -411,7 +425,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "KMSKA"
+    "name_local": "KMSKA",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_9",
@@ -463,7 +479,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Carolus Borromeuskerk"
+    "name_local": "Sint-Carolus Borromeuskerk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_10",
@@ -515,7 +533,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Havenhuis"
+    "name_local": "Havenhuis",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "ant_11",
@@ -566,7 +586,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Diamantkwartier"
+    "name_local": "Diamantkwartier",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_12",
@@ -620,7 +642,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "DIVA Museum"
+    "name_local": "DIVA Museum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_13",
@@ -671,7 +695,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Annatunnel"
+    "name_local": "Sint-Annatunnel",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_14",
@@ -724,7 +750,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Linkeroever"
+    "name_local": "Linkeroever",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "ant_15",
@@ -777,7 +805,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "ZOO Antwerpen"
+    "name_local": "ZOO Antwerpen",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "ant_16",
@@ -828,7 +858,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Red Star Line Museum"
+    "name_local": "Red Star Line Museum",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "ant_17",
@@ -881,7 +913,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "MoMu - ModeMuseum Antwerpen"
+    "name_local": "MoMu - ModeMuseum Antwerpen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_18",
@@ -934,7 +968,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Meir & Stadsfeestzaal"
+    "name_local": "Meir & Stadsfeestzaal",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_19",
@@ -988,7 +1024,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "The Chocolate Line"
+    "name_local": "The Chocolate Line",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "ant_20",
@@ -1039,7 +1077,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Museum Mayer van den Bergh"
+    "name_local": "Museum Mayer van den Bergh",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_21",
@@ -1090,7 +1130,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Vlaeykensgang"
+    "name_local": "Vlaeykensgang",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_22",
@@ -1142,7 +1184,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Pauluskerk"
+    "name_local": "Sint-Pauluskerk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_23",
@@ -1196,7 +1240,9 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Het Zuid"
+    "name_local": "Het Zuid",
+    "top7": false,
+    "hiddenGem": true
   },
   {
     "id": "ant_24",
@@ -1248,7 +1294,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Eilandje"
+    "name_local": "Eilandje",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_25",
@@ -1299,7 +1347,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Begijnhof Antwerpen"
+    "name_local": "Begijnhof Antwerpen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_26",
@@ -1353,7 +1403,9 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Hendrik Conscienceplein"
+    "name_local": "Hendrik Conscienceplein",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_27",
@@ -1406,7 +1458,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Middelheimmuseum"
+    "name_local": "Middelheimmuseum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_28",
@@ -1459,7 +1513,9 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Stadsbrouwerij De Koninck"
+    "name_local": "Stadsbrouwerij De Koninck",
+    "top7": true,
+    "hiddenGem": false
   },
   {
     "id": "ant_29",
@@ -1510,7 +1566,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Zurenborg & Cogels-Osylei"
+    "name_local": "Zurenborg & Cogels-Osylei",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_30",
@@ -1563,7 +1621,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Dageraadplaats"
+    "name_local": "Dageraadplaats",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_31",
@@ -1615,7 +1675,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Fotomuseum Antwerpen / FOMU"
+    "name_local": "Fotomuseum Antwerpen / FOMU",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_32",
@@ -1666,7 +1728,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "M HKA"
+    "name_local": "M HKA",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_33",
@@ -1719,7 +1783,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Stadspark Antwerpen"
+    "name_local": "Stadspark Antwerpen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_34",
@@ -1773,7 +1839,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Park Spoor Noord"
+    "name_local": "Park Spoor Noord",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_35",
@@ -1824,7 +1892,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Boerentoren"
+    "name_local": "Boerentoren",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_36",
@@ -1876,7 +1946,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Kloosterstraat"
+    "name_local": "Kloosterstraat",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_37",
@@ -1931,7 +2003,9 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Vrijdagmarkt"
+    "name_local": "Vrijdagmarkt",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_38",
@@ -1983,7 +2057,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Paleis op de Meir"
+    "name_local": "Paleis op de Meir",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_39",
@@ -2034,7 +2110,9 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Jacobskerk"
+    "name_local": "Sint-Jacobskerk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_40",
@@ -2087,7 +2165,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Chocolate Nation"
+    "name_local": "Chocolate Nation",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_41",
@@ -2139,7 +2219,9 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Historisch Lier"
+    "name_local": "Historisch Lier",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_42",
@@ -2191,7 +2273,9 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Fort van Breendonk"
+    "name_local": "Fort van Breendonk",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_43",
@@ -2242,7 +2326,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Kalmthoutse Heide"
+    "name_local": "Kalmthoutse Heide",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_44",
@@ -2295,7 +2381,9 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Rivierenhof"
+    "name_local": "Rivierenhof",
+    "top7": false,
+    "hiddenGem": false
   },
   {
     "id": "ant_45",
@@ -2350,6 +2438,8 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Kasteel van Brasschaat"
+    "name_local": "Kasteel van Brasschaat",
+    "top7": false,
+    "hiddenGem": false
   }
 ]

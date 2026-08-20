@@ -3,7 +3,7 @@
   "spotCount": 40,
   "spots": [
     {
-      "id": "bo_1",
+      "id": "bod_bo_1",
       "name": "Place de la Bourse & Miroir d'eau",
       "category": "Landmark",
       "rating": "★4.8",
@@ -54,10 +54,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Place de la Bourse & Miroir d'eau"
+      "name_local": "Place de la Bourse & Miroir d'eau",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "bo_2",
+      "id": "bod_bo_2",
       "name": "Grand Théâtre de Bordeaux",
       "category": "Landmark",
       "rating": "★4.7",
@@ -108,10 +110,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Grand Théâtre de Bordeaux"
+      "name_local": "Grand Théâtre de Bordeaux",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "bo_3",
+      "id": "bod_bo_3",
       "name": "Cathédrale Saint-André & Tour Pey-Berland",
       "category": "Landmark",
       "rating": "★4.7",
@@ -162,10 +166,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Cathédrale Saint-André & Tour Pey-Berland"
+      "name_local": "Cathédrale Saint-André & Tour Pey-Berland",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "bo_4",
+      "id": "bod_bo_4",
       "name": "Porte Cailhau",
       "category": "Landmark",
       "rating": "★4.7",
@@ -216,10 +222,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Porte Cailhau"
+      "name_local": "Porte Cailhau",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "bo_5",
+      "id": "bod_bo_5",
       "name": "Grosse Cloche",
       "category": "Landmark",
       "rating": "★4.7",
@@ -270,10 +278,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Grosse Cloche"
+      "name_local": "Grosse Cloche",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "bo_6",
+      "id": "bod_bo_6",
       "name": "Basilique Saint-Michel & Flèche Saint-Michel",
       "category": "Landmark",
       "rating": "★4.6",
@@ -324,10 +334,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Basilique Saint-Michel & Flèche Saint-Michel"
+      "name_local": "Basilique Saint-Michel & Flèche Saint-Michel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_7",
+      "id": "bod_bo_7",
       "name": "Monument aux Girondins",
       "category": "Landmark",
       "rating": "★4.7",
@@ -378,10 +390,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Monument aux Girondins"
+      "name_local": "Monument aux Girondins",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_8",
+      "id": "bod_bo_8",
       "name": "Palais Gallien",
       "category": "Landmark",
       "rating": "★4.5",
@@ -432,10 +446,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Palais Gallien"
+      "name_local": "Palais Gallien",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_9",
+      "id": "bod_bo_9",
       "name": "Pont de Pierre",
       "category": "Landmark",
       "rating": "★4.7",
@@ -486,10 +502,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Pont de Pierre"
+      "name_local": "Pont de Pierre",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_10",
+      "id": "bod_bo_10",
       "name": "Château de Roquetaillade",
       "category": "Landmark",
       "rating": "★4.7",
@@ -541,10 +559,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Château de Roquetaillade"
+      "name_local": "Château de Roquetaillade",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_11",
+      "id": "bod_bo_11",
       "name": "Château de La Brède",
       "category": "Landmark",
       "rating": "★4.7",
@@ -596,10 +616,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Château de La Brède"
+      "name_local": "Château de La Brède",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_12",
+      "id": "bod_bo_12",
       "name": "Cité du Vin",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -650,10 +672,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Cité du Vin"
+      "name_local": "Cité du Vin",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "bo_13",
+      "id": "bod_bo_13",
       "name": "Bassins des Lumières",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -704,10 +728,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Bassins des Lumières"
+      "name_local": "Bassins des Lumières",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "bo_14",
+      "id": "bod_bo_14",
       "name": "Musée d'Aquitaine",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -758,10 +784,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée d'Aquitaine"
+      "name_local": "Musée d'Aquitaine",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "bo_15",
+      "id": "bod_bo_15",
       "name": "Musée des Beaux-Arts de Bordeaux",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -812,10 +840,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Beaux-Arts de Bordeaux"
+      "name_local": "Musée des Beaux-Arts de Bordeaux",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_16",
+      "id": "bod_bo_16",
       "name": "CAPC Musée d'Art Contemporain",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -866,10 +896,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "CAPC Musée d'Art Contemporain"
+      "name_local": "CAPC Musée d'Art Contemporain",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_17",
+      "id": "bod_bo_17",
       "name": "MADD",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -920,10 +952,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "MADD"
+      "name_local": "MADD",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_18",
+      "id": "bod_bo_18",
       "name": "Musée Mer Marine",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -974,10 +1008,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Mer Marine"
+      "name_local": "Musée Mer Marine",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_19",
+      "id": "bod_bo_19",
       "name": "Musée National des Douanes",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -1029,10 +1065,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée National des Douanes"
+      "name_local": "Musée National des Douanes",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_20",
+      "id": "bod_bo_20",
       "name": "Marché des Capucins",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1084,10 +1122,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Marché des Capucins"
+      "name_local": "Marché des Capucins",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "bo_21",
+      "id": "bod_bo_21",
       "name": "Brasserie Bordelaise",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1138,10 +1178,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Brasserie Bordelaise"
+      "name_local": "Brasserie Bordelaise",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "bo_22",
+      "id": "bod_bo_22",
       "name": "Canelé Baillardran & La Toque Cuivrée",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1193,10 +1235,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Canelé Baillardran & La Toque Cuivrée"
+      "name_local": "Canelé Baillardran & La Toque Cuivrée",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_23",
+      "id": "bod_bo_23",
       "name": "Le Bar à Vin",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1248,10 +1292,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Le Bar à Vin"
+      "name_local": "Le Bar à Vin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_24",
+      "id": "bod_bo_24",
       "name": "Café Français",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1303,10 +1349,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Café Français"
+      "name_local": "Café Français",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_25",
+      "id": "bod_bo_25",
       "name": "L'Entrecôte Bordeaux",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1357,10 +1405,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "L'Entrecôte Bordeaux"
+      "name_local": "L'Entrecôte Bordeaux",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_26",
+      "id": "bod_bo_26",
       "name": "Grand Cru Wineries",
       "category": "Café & Bistro",
       "rating": "★4.9",
@@ -1411,10 +1461,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Grand Cru Wineries"
+      "name_local": "Grand Cru Wineries",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_27",
+      "id": "bod_bo_27",
       "name": "Quartier Saint-Pierre",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1468,10 +1520,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Quartier Saint-Pierre"
+      "name_local": "Quartier Saint-Pierre",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "bo_28",
+      "id": "bod_bo_28",
       "name": "Quartier des Chartrons",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1523,10 +1577,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Quartier des Chartrons"
+      "name_local": "Quartier des Chartrons",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_29",
+      "id": "bod_bo_29",
       "name": "Les Quais de Bordeaux & Garonne Promenade",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1578,10 +1634,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Les Quais de Bordeaux & Garonne Promenade"
+      "name_local": "Les Quais de Bordeaux & Garonne Promenade",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_30",
+      "id": "bod_bo_30",
       "name": "Rue Sainte-Catherine",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1634,10 +1692,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Rue Sainte-Catherine"
+      "name_local": "Rue Sainte-Catherine",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_31",
+      "id": "bod_bo_31",
       "name": "Place des Quinconces",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1689,10 +1749,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Place des Quinconces"
+      "name_local": "Place des Quinconces",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_32",
+      "id": "bod_bo_32",
       "name": "Darwin Eco-Système",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1745,10 +1807,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Darwin Eco-Système"
+      "name_local": "Darwin Eco-Système",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "bo_33",
+      "id": "bod_bo_33",
       "name": "Saint-Émilion Medieval Village",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -1800,10 +1864,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Saint-Émilion Medieval Village"
+      "name_local": "Saint-Émilion Medieval Village",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_34",
+      "id": "bod_bo_34",
       "name": "Dune du Pilat & Arcachon Bay",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -1854,10 +1920,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Dune du Pilat & Arcachon Bay"
+      "name_local": "Dune du Pilat & Arcachon Bay",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_35",
+      "id": "bod_bo_35",
       "name": "Jardin Public & Muséum de Bordeaux",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -1912,10 +1980,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Jardin Public & Muséum de Bordeaux"
+      "name_local": "Jardin Public & Muséum de Bordeaux",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_36",
+      "id": "bod_bo_36",
       "name": "Cap Sciences",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -1967,10 +2037,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Cap Sciences"
+      "name_local": "Cap Sciences",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_37",
+      "id": "bod_bo_37",
       "name": "Bordeaux River Cruise / Bat3 Water Taxi",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2024,10 +2096,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Bordeaux River Cruise / Bat3 Water Taxi"
+      "name_local": "Bordeaux River Cruise / Bat3 Water Taxi",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_38",
+      "id": "bod_bo_38",
       "name": "Parc Bordelais",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2080,10 +2154,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Parc Bordelais"
+      "name_local": "Parc Bordelais",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_39",
+      "id": "bod_bo_39",
       "name": "Zoo de Bordeaux-Pessac",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2135,10 +2211,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Zoo de Bordeaux-Pessac"
+      "name_local": "Zoo de Bordeaux-Pessac",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "bo_40",
+      "id": "bod_bo_40",
       "name": "La Forêt des Accro-Batches",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2190,7 +2268,9 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "La Forêt des Accro-Batches"
+      "name_local": "La Forêt des Accro-Batches",
+      "top7": false,
+      "hiddenGem": false
     }
   ]
 }

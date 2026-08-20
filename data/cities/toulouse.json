@@ -4,7 +4,7 @@
   "country": "France",
   "spots": [
     {
-      "id": "to_1",
+      "id": "tls_to_1",
       "name": "Place du Capitole & Capitole de Toulouse",
       "category": "Landmark",
       "rating": "★4.7",
@@ -50,10 +50,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Place du Capitole & Capitole de Toulouse"
+      "name_local": "Place du Capitole & Capitole de Toulouse",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "to_2",
+      "id": "tls_to_2",
       "name": "Basilique Saint-Sernin",
       "category": "Landmark",
       "rating": "★4.7",
@@ -99,10 +101,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Basilique Saint-Sernin"
+      "name_local": "Basilique Saint-Sernin",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "to_3",
+      "id": "tls_to_3",
       "name": "Couvent des Jacobins",
       "category": "Landmark",
       "rating": "★4.7",
@@ -148,10 +152,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Couvent des Jacobins"
+      "name_local": "Couvent des Jacobins",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "to_4",
+      "id": "tls_to_4",
       "name": "Pont Neuf Toulouse",
       "category": "Landmark",
       "rating": "★4.6",
@@ -197,10 +203,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Pont Neuf Toulouse"
+      "name_local": "Pont Neuf Toulouse",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "to_5",
+      "id": "tls_to_5",
       "name": "Cathédrale Saint-Étienne de Toulouse",
       "category": "Landmark",
       "rating": "★4.6",
@@ -246,10 +254,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Cathédrale Saint-Étienne de Toulouse"
+      "name_local": "Cathédrale Saint-Étienne de Toulouse",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "to_6",
+      "id": "tls_to_6",
       "name": "Hôtel d'Assézat",
       "category": "Landmark",
       "rating": "★4.7",
@@ -295,10 +305,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Hôtel d'Assézat"
+      "name_local": "Hôtel d'Assézat",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_7",
+      "id": "tls_to_7",
       "name": "Chapelle des Carmélites",
       "category": "Landmark",
       "rating": "★4.7",
@@ -344,10 +356,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Chapelle des Carmélites"
+      "name_local": "Chapelle des Carmélites",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_8",
+      "id": "tls_to_8",
       "name": "Hôtel-Dieu Saint-Jacques",
       "category": "Landmark",
       "rating": "★4.6",
@@ -394,10 +408,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Hôtel-Dieu Saint-Jacques"
+      "name_local": "Hôtel-Dieu Saint-Jacques",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_9",
+      "id": "tls_to_9",
       "name": "Cité de Carcassonne",
       "category": "Landmark",
       "rating": "★4.8",
@@ -443,10 +459,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Cité de Carcassonne"
+      "name_local": "Cité de Carcassonne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_10",
+      "id": "tls_to_10",
       "name": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
       "category": "Landmark",
       "rating": "★4.8",
@@ -493,10 +511,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile"
+      "name_local": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "to_11",
+      "id": "tls_to_11",
       "name": "Musée des Augustins",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -542,10 +562,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Augustins"
+      "name_local": "Musée des Augustins",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_12",
+      "id": "tls_to_12",
       "name": "Fondation Bemberg",
       "category": "Museum & Art",
       "rating": "★4.7",
@@ -591,10 +613,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Fondation Bemberg"
+      "name_local": "Fondation Bemberg",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "to_13",
+      "id": "tls_to_13",
       "name": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
       "category": "Museum & Art",
       "rating": "★4.5",
@@ -641,10 +665,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Les Abattoirs, Musée - Frac Occitanie Toulouse"
+      "name_local": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "to_14",
+      "id": "tls_to_14",
       "name": "Musée Saint-Raymond",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -690,10 +716,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Saint-Raymond"
+      "name_local": "Musée Saint-Raymond",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "to_15",
+      "id": "tls_to_15",
       "name": "Muséum de Toulouse",
       "category": "Museum & Art",
       "rating": "★4.6",
@@ -741,10 +769,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Muséum de Toulouse"
+      "name_local": "Muséum de Toulouse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_16",
+      "id": "tls_to_16",
       "name": "Musée Paul-Dupuy",
       "category": "Museum & Art",
       "rating": "★4.5",
@@ -790,10 +820,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Paul-Dupuy"
+      "name_local": "Musée Paul-Dupuy",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_17",
+      "id": "tls_to_17",
       "name": "Aeroscopia Aviation Museum",
       "category": "Museum & Art",
       "rating": "★4.7",
@@ -839,10 +871,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Aeroscopia Aviation Museum"
+      "name_local": "Aeroscopia Aviation Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_18",
+      "id": "tls_to_18",
       "name": "Let's Visit Airbus Tour",
       "category": "Museum & Art",
       "rating": "★4.7",
@@ -888,10 +922,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Let's Visit Airbus Tour"
+      "name_local": "Let's Visit Airbus Tour",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_19",
+      "id": "tls_to_19",
       "name": "Marché Victor Hugo",
       "category": "Café & Dining",
       "rating": "★4.6",
@@ -938,10 +974,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Marché Victor Hugo"
+      "name_local": "Marché Victor Hugo",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "to_20",
+      "id": "tls_to_20",
       "name": "Le Bibent",
       "category": "Café & Dining",
       "rating": "★4.5",
@@ -988,10 +1026,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Le Bibent"
+      "name_local": "Le Bibent",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "to_21",
+      "id": "tls_to_21",
       "name": "Le Colombier Cassoulet",
       "category": "Café & Dining",
       "rating": "★4.6",
@@ -1037,10 +1077,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Le Colombier Cassoulet"
+      "name_local": "Le Colombier Cassoulet",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "to_22",
+      "id": "tls_to_22",
       "name": "La Maison de la Violette",
       "category": "Café & Dining",
       "rating": "★4.6",
@@ -1088,10 +1130,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "La Maison de la Violette"
+      "name_local": "La Maison de la Violette",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_23",
+      "id": "tls_to_23",
       "name": "Marché des Carmes",
       "category": "Café & Dining",
       "rating": "★4.5",
@@ -1139,10 +1183,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Marché des Carmes"
+      "name_local": "Marché des Carmes",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_24",
+      "id": "tls_to_24",
       "name": "Maison Pillon & Pâtisserie Bault",
       "category": "Café & Dining",
       "rating": "★4.7",
@@ -1189,10 +1235,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Maison Pillon & Pâtisserie Bault"
+      "name_local": "Maison Pillon & Pâtisserie Bault",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_25",
+      "id": "tls_to_25",
       "name": "Domaine de Montjoie & Fronton Wineries",
       "category": "Café & Dining",
       "rating": "★4.6",
@@ -1238,10 +1286,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Domaine de Montjoie & Fronton Wineries"
+      "name_local": "Domaine de Montjoie & Fronton Wineries",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_26",
+      "id": "tls_to_26",
       "name": "Quai de la Daurade & Promenade de la Garonne",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1288,10 +1338,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Quai de la Daurade & Promenade de la Garonne"
+      "name_local": "Quai de la Daurade & Promenade de la Garonne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_27",
+      "id": "tls_to_27",
       "name": "Quartier des Carmes & Quartier Saint-Étienne",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1338,10 +1390,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Quartier des Carmes & Quartier Saint-Étienne"
+      "name_local": "Quartier des Carmes & Quartier Saint-Étienne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_28",
+      "id": "tls_to_28",
       "name": "Canal du Midi",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1388,10 +1442,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Canal du Midi"
+      "name_local": "Canal du Midi",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_29",
+      "id": "tls_to_29",
       "name": "Place Saint-Georges",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1439,10 +1495,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Place Saint-Georges"
+      "name_local": "Place Saint-Georges",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_30",
+      "id": "tls_to_30",
       "name": "Jardin Japonais Pierre Baudis",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1489,10 +1547,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Jardin Japonais Pierre Baudis"
+      "name_local": "Jardin Japonais Pierre Baudis",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_31",
+      "id": "tls_to_31",
       "name": "Bateaux Toulousains Cruise",
       "category": "Scenery & Walk",
       "rating": "★4.5",
@@ -1541,10 +1601,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Bateaux Toulousains Cruise"
+      "name_local": "Bateaux Toulousains Cruise",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_32",
+      "id": "tls_to_32",
       "name": "Canal de Brienne",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1590,10 +1652,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Canal de Brienne"
+      "name_local": "Canal de Brienne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_33",
+      "id": "tls_to_33",
       "name": "Cordes-sur-Ciel",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1639,10 +1703,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Cordes-sur-Ciel"
+      "name_local": "Cordes-sur-Ciel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_34",
+      "id": "tls_to_34",
       "name": "Cité de l'Espace",
       "category": "Kids & Family",
       "kids": true,
@@ -1691,10 +1757,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Cité de l'Espace"
+      "name_local": "Cité de l'Espace",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_35",
+      "id": "tls_to_35",
       "name": "La Halle de la Machine",
       "category": "Kids & Family",
       "kids": true,
@@ -1741,10 +1809,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "La Halle de la Machine"
+      "name_local": "La Halle de la Machine",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_36",
+      "id": "tls_to_36",
       "name": "L'Envol des Pionniers",
       "category": "Kids & Family",
       "kids": true,
@@ -1791,10 +1861,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "L'Envol des Pionniers"
+      "name_local": "L'Envol des Pionniers",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_37",
+      "id": "tls_to_37",
       "name": "Jardin des Plantes & Le Grand Rond",
       "category": "Kids & Family",
       "kids": true,
@@ -1841,10 +1913,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Jardin des Plantes & Le Grand Rond"
+      "name_local": "Jardin des Plantes & Le Grand Rond",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_38",
+      "id": "tls_to_38",
       "name": "Animaparc Occitanie",
       "category": "Kids & Family",
       "kids": true,
@@ -1891,10 +1965,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Animaparc Occitanie"
+      "name_local": "Animaparc Occitanie",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "to_39",
+      "id": "tls_to_39",
       "name": "Le Labyrinthe de Merville",
       "category": "Kids & Family",
       "kids": true,
@@ -1941,7 +2017,9 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Le Labyrinthe de Merville"
+      "name_local": "Le Labyrinthe de Merville",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 39

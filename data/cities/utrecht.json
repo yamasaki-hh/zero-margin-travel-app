@@ -5,7 +5,7 @@
   "country_ja": "オランダ",
   "spots": [
     {
-      "id": "ut_1",
+      "id": "utr_ut_1",
       "name": "Domtoren Utrecht",
       "category": "Landmark",
       "rating": "★4.7",
@@ -53,10 +53,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Domtoren Utrecht"
+      "name_local": "Domtoren Utrecht",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ut_2",
+      "id": "utr_ut_2",
       "name": "Domkerk & Pandhof",
       "category": "Landmark",
       "rating": "★4.7",
@@ -105,10 +107,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Domkerk & Pandhof"
+      "name_local": "Domkerk & Pandhof",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ut_3",
+      "id": "utr_ut_3",
       "name": "Oudegracht & Werfkelder",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -157,10 +161,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Oudegracht & Werfkelder"
+      "name_local": "Oudegracht & Werfkelder",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ut_4",
+      "id": "utr_ut_4",
       "name": "Nijntje Museum",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -209,10 +215,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Nijntje Museum"
+      "name_local": "Nijntje Museum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ut_5",
+      "id": "utr_ut_5",
       "name": "Rietveld Schröderhuis",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -261,10 +269,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Rietveld Schröderhuis"
+      "name_local": "Rietveld Schröderhuis",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ut_6",
+      "id": "utr_ut_6",
       "name": "Centraal Museum Utrecht",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -312,10 +322,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Centraal Museum Utrecht"
+      "name_local": "Centraal Museum Utrecht",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ut_7",
+      "id": "utr_ut_7",
       "name": "Museum Speelklok",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -366,10 +378,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Museum Speelklok"
+      "name_local": "Museum Speelklok",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_8",
+      "id": "utr_ut_8",
       "name": "Spoorwegmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -420,10 +434,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Spoorwegmuseum"
+      "name_local": "Spoorwegmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_9",
+      "id": "utr_ut_9",
       "name": "Kasteel de Haar",
       "category": "Landmark",
       "rating": "★4.7",
@@ -471,10 +487,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kasteel de Haar"
+      "name_local": "Kasteel de Haar",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_10",
+      "id": "utr_ut_10",
       "name": "DOMunder",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -523,10 +541,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "DOMunder"
+      "name_local": "DOMunder",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_11",
+      "id": "utr_ut_11",
       "name": "TivoliVredenburg",
       "category": "Landmark",
       "rating": "★4.7",
@@ -575,10 +595,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "TivoliVredenburg"
+      "name_local": "TivoliVredenburg",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ut_12",
+      "id": "utr_ut_12",
       "name": "Botanische Tuinen Universiteit Utrecht",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -627,10 +649,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Botanische Tuinen Universiteit Utrecht"
+      "name_local": "Botanische Tuinen Universiteit Utrecht",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_13",
+      "id": "utr_ut_13",
       "name": "Neude & Voormalig Hoofdpostkantoor",
       "category": "Landmark",
       "rating": "★4.7",
@@ -679,10 +703,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Neude & Voormalig Hoofdpostkantoor"
+      "name_local": "Neude & Voormalig Hoofdpostkantoor",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ut_14",
+      "id": "utr_ut_14",
       "name": "Museum Catharijneconvent",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -730,10 +756,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Catharijneconvent"
+      "name_local": "Museum Catharijneconvent",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_15",
+      "id": "utr_ut_15",
       "name": "Sonnenborgh Museum & Sterrenwacht",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -782,10 +810,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Sonnenborgh Museum & Sterrenwacht"
+      "name_local": "Sonnenborgh Museum & Sterrenwacht",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_16",
+      "id": "utr_ut_16",
       "name": "Grachtengordel Singel & Zocherpark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -836,10 +866,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Grachtengordel Singel & Zocherpark"
+      "name_local": "Grachtengordel Singel & Zocherpark",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ut_17",
+      "id": "utr_ut_17",
       "name": "Janskerkhof & Bloemenmarkt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -889,10 +921,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Janskerkhof & Bloemenmarkt"
+      "name_local": "Janskerkhof & Bloemenmarkt",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ut_18",
+      "id": "utr_ut_18",
       "name": "Nieuwegracht",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -940,10 +974,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Nieuwegracht"
+      "name_local": "Nieuwegracht",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ut_19",
+      "id": "utr_ut_19",
       "name": "Station Utrecht Centraal & Hoog Catharijne",
       "category": "Landmark",
       "rating": "★4.7",
@@ -992,10 +1028,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Station Utrecht Centraal & Hoog Catharijne"
+      "name_local": "Station Utrecht Centraal & Hoog Catharijne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_20",
+      "id": "utr_ut_20",
       "name": "Daffodil & Dick Bruna Statue",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1048,10 +1086,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Daffodil & Dick Bruna Statue"
+      "name_local": "Daffodil & Dick Bruna Statue",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_21",
+      "id": "utr_ut_21",
       "name": "Stadsschouwburg Utrecht",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1099,10 +1139,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Stadsschouwburg Utrecht"
+      "name_local": "Stadsschouwburg Utrecht",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_22",
+      "id": "utr_ut_22",
       "name": "Universiteitsmuseum Utrecht",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1151,10 +1193,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Universiteitsmuseum Utrecht"
+      "name_local": "Universiteitsmuseum Utrecht",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_23",
+      "id": "utr_ut_23",
       "name": "Wilhelminapark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1204,10 +1248,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Wilhelminapark"
+      "name_local": "Wilhelminapark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_24",
+      "id": "utr_ut_24",
       "name": "Kano Verhuur Oudegracht",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1255,10 +1301,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kano Verhuur Oudegracht"
+      "name_local": "Kano Verhuur Oudegracht",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_25",
+      "id": "utr_ut_25",
       "name": "Brouwerij Maximus & Oudaen",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1308,10 +1356,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Brouwerij Maximus & Oudaen"
+      "name_local": "Brouwerij Maximus & Oudaen",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ut_26",
+      "id": "utr_ut_26",
       "name": "Molen De Ster",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1359,10 +1409,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Molen De Ster"
+      "name_local": "Molen De Ster",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_27",
+      "id": "utr_ut_27",
       "name": "Lombok & Kanaalstraat",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1411,10 +1463,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Lombok & Kanaalstraat"
+      "name_local": "Lombok & Kanaalstraat",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_28",
+      "id": "utr_ut_28",
       "name": "Winkel van Sinkel",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1463,10 +1517,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Winkel van Sinkel"
+      "name_local": "Winkel van Sinkel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_29",
+      "id": "utr_ut_29",
       "name": "Paushuize",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1514,10 +1570,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Paushuize"
+      "name_local": "Paushuize",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_30",
+      "id": "utr_ut_30",
       "name": "Fort bij Vechten",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1566,10 +1624,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Fort bij Vechten"
+      "name_local": "Fort bij Vechten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_31",
+      "id": "utr_ut_31",
       "name": "Pyramide van Austerlitz",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1617,10 +1677,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Pyramide van Austerlitz"
+      "name_local": "Pyramide van Austerlitz",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_32",
+      "id": "utr_ut_32",
       "name": "Nationaal Park Utrechtse Heuvelrug",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1669,10 +1731,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Nationaal Park Utrechtse Heuvelrug"
+      "name_local": "Nationaal Park Utrechtse Heuvelrug",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_33",
+      "id": "utr_ut_33",
       "name": "Kasteel Amerongen",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1720,10 +1784,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kasteel Amerongen"
+      "name_local": "Kasteel Amerongen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_34",
+      "id": "utr_ut_34",
       "name": "Slot Zeist",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1774,10 +1840,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Slot Zeist"
+      "name_local": "Slot Zeist",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_35",
+      "id": "utr_ut_35",
       "name": "Historisch Amersfoort",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1827,10 +1895,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Amersfoort"
+      "name_local": "Historisch Amersfoort",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_36",
+      "id": "utr_ut_36",
       "name": "Mondriaanhuis Amersfoort",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1878,10 +1948,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Mondriaanhuis Amersfoort"
+      "name_local": "Mondriaanhuis Amersfoort",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_37",
+      "id": "utr_ut_37",
       "name": "DierenPark Amersfoort",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1930,10 +2002,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "DierenPark Amersfoort"
+      "name_local": "DierenPark Amersfoort",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_38",
+      "id": "utr_ut_38",
       "name": "Nationaal Militair Museum Soesterberg",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1981,10 +2055,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Nationaal Militair Museum Soesterberg"
+      "name_local": "Nationaal Militair Museum Soesterberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_39",
+      "id": "utr_ut_39",
       "name": "Paleis Soestdijk",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2034,10 +2110,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Paleis Soestdijk"
+      "name_local": "Paleis Soestdijk",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_40",
+      "id": "utr_ut_40",
       "name": "Kasteel Groeneveld",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2087,10 +2165,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Kasteel Groeneveld"
+      "name_local": "Kasteel Groeneveld",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_41",
+      "id": "utr_ut_41",
       "name": "Historisch Woerden",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2140,10 +2220,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Woerden"
+      "name_local": "Historisch Woerden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ut_42",
+      "id": "utr_ut_42",
       "name": "Loosdrechtse Plassen",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2192,7 +2274,9 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Loosdrechtse Plassen"
+      "name_local": "Loosdrechtse Plassen",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 42

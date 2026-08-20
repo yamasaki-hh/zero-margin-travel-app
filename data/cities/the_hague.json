@@ -5,7 +5,7 @@
   "country_ja": "オランダ",
   "spots": [
     {
-      "id": "dh_1",
+      "id": "hga_dh_1",
       "name": "Mauritshuis",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -54,10 +54,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Mauritshuis"
+      "name_local": "Mauritshuis",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dh_2",
+      "id": "hga_dh_2",
       "name": "Het Binnenhof & Ridderzaal",
       "category": "Landmark",
       "rating": "★4.7",
@@ -106,10 +108,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Het Binnenhof & Ridderzaal"
+      "name_local": "Het Binnenhof & Ridderzaal",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dh_3",
+      "id": "hga_dh_3",
       "name": "Vredespaleis",
       "category": "Landmark",
       "rating": "★4.7",
@@ -157,10 +161,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Vredespaleis"
+      "name_local": "Vredespaleis",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dh_4",
+      "id": "hga_dh_4",
       "name": "Kunstmuseum Den Haag",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -209,10 +215,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Kunstmuseum Den Haag"
+      "name_local": "Kunstmuseum Den Haag",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dh_5",
+      "id": "hga_dh_5",
       "name": "Panorama Mesdag",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -260,10 +268,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Panorama Mesdag"
+      "name_local": "Panorama Mesdag",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dh_6",
+      "id": "hga_dh_6",
       "name": "Escher in Het Paleis",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -312,10 +322,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Escher in Het Paleis"
+      "name_local": "Escher in Het Paleis",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_7",
+      "id": "hga_dh_7",
       "name": "De Pier Scheveningen & Reuzenrad",
       "category": "Landmark",
       "rating": "★4.7",
@@ -365,10 +377,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "De Pier Scheveningen & Reuzenrad"
+      "name_local": "De Pier Scheveningen & Reuzenrad",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_8",
+      "id": "hga_dh_8",
       "name": "Scheveningen Strand & Boulevard",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -416,10 +430,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Scheveningen Strand & Boulevard"
+      "name_local": "Scheveningen Strand & Boulevard",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_9",
+      "id": "hga_dh_9",
       "name": "Grand Hotel Amrâth Kurhaus",
       "category": "Landmark",
       "rating": "★4.7",
@@ -468,10 +484,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Grand Hotel Amrâth Kurhaus"
+      "name_local": "Grand Hotel Amrâth Kurhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_10",
+      "id": "hga_dh_10",
       "name": "Lange Voorhout",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -520,10 +538,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Lange Voorhout"
+      "name_local": "Lange Voorhout",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dh_11",
+      "id": "hga_dh_11",
       "name": "Paleis Noordeinde & Paleistuin",
       "category": "Landmark",
       "rating": "★4.7",
@@ -574,10 +594,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Paleis Noordeinde & Paleistuin"
+      "name_local": "Paleis Noordeinde & Paleistuin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_12",
+      "id": "hga_dh_12",
       "name": "Madurodam",
       "category": "Landmark",
       "rating": "★4.7",
@@ -627,10 +649,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Madurodam"
+      "name_local": "Madurodam",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_13",
+      "id": "hga_dh_13",
       "name": "Museum Beelden aan Zee",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -678,10 +702,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Beelden aan Zee"
+      "name_local": "Museum Beelden aan Zee",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_14",
+      "id": "hga_dh_14",
       "name": "Louwman Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -729,10 +755,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Louwman Museum"
+      "name_local": "Louwman Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_15",
+      "id": "hga_dh_15",
       "name": "De Passage",
       "category": "Landmark",
       "rating": "★4.7",
@@ -781,10 +809,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "De Passage"
+      "name_local": "De Passage",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dh_16",
+      "id": "hga_dh_16",
       "name": "SEA LIFE Scheveningen",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -833,10 +863,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "SEA LIFE Scheveningen"
+      "name_local": "SEA LIFE Scheveningen",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dh_17",
+      "id": "hga_dh_17",
       "name": "Museum Bredius",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -885,10 +917,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Bredius"
+      "name_local": "Museum Bredius",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dh_18",
+      "id": "hga_dh_18",
       "name": "Grote of Sint-Jacobskerk",
       "category": "Landmark",
       "rating": "★4.7",
@@ -936,10 +970,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Grote of Sint-Jacobskerk"
+      "name_local": "Grote of Sint-Jacobskerk",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_19",
+      "id": "hga_dh_19",
       "name": "Oude Stadhuis Den Haag",
       "category": "Landmark",
       "rating": "★4.7",
@@ -987,10 +1023,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Oude Stadhuis Den Haag"
+      "name_local": "Oude Stadhuis Den Haag",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_20",
+      "id": "hga_dh_20",
       "name": "Den Haag Centraal & Babylon",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1039,10 +1077,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Den Haag Centraal & Babylon"
+      "name_local": "Den Haag Centraal & Babylon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_21",
+      "id": "hga_dh_21",
       "name": "Noordeinde & Denneweg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1092,10 +1132,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Noordeinde & Denneweg"
+      "name_local": "Noordeinde & Denneweg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dh_22",
+      "id": "hga_dh_22",
       "name": "Chinatown Den Haag",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1145,10 +1187,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Chinatown Den Haag"
+      "name_local": "Chinatown Den Haag",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_23",
+      "id": "hga_dh_23",
       "name": "Westbroekpark & Rosarium",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1197,10 +1241,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Westbroekpark & Rosarium"
+      "name_local": "Westbroekpark & Rosarium",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_24",
+      "id": "hga_dh_24",
       "name": "Clingendael & Japanse Tuin",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1248,10 +1294,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Clingendael & Japanse Tuin"
+      "name_local": "Clingendael & Japanse Tuin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_25",
+      "id": "hga_dh_25",
       "name": "Muzee Scheveningen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1299,10 +1347,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Muzee Scheveningen"
+      "name_local": "Muzee Scheveningen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_26",
+      "id": "hga_dh_26",
       "name": "De Haagse Markt",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1351,10 +1401,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "De Haagse Markt"
+      "name_local": "De Haagse Markt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "dh_27",
+      "id": "hga_dh_27",
       "name": "Museum Meermanno / Huis van het Boek",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1403,10 +1455,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Meermanno / Huis van het Boek"
+      "name_local": "Museum Meermanno / Huis van het Boek",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_28",
+      "id": "hga_dh_28",
       "name": "Gevangenpoort",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1455,10 +1509,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Gevangenpoort"
+      "name_local": "Gevangenpoort",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_29",
+      "id": "hga_dh_29",
       "name": "Scheveningse Bosjes & Indisch Monument",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1506,10 +1562,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Scheveningse Bosjes & Indisch Monument"
+      "name_local": "Scheveningse Bosjes & Indisch Monument",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_30",
+      "id": "hga_dh_30",
       "name": "Museon-Omniversum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1560,10 +1618,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Museon-Omniversum"
+      "name_local": "Museon-Omniversum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_31",
+      "id": "hga_dh_31",
       "name": "Paleis Huis ten Bosch",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1611,10 +1671,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Paleis Huis ten Bosch"
+      "name_local": "Paleis Huis ten Bosch",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_32",
+      "id": "hga_dh_32",
       "name": "Haagse Bos & Malieveld",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1663,10 +1725,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Haagse Bos & Malieveld"
+      "name_local": "Haagse Bos & Malieveld",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_33",
+      "id": "hga_dh_33",
       "name": "Haven van Scheveningen",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1716,10 +1780,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Haven van Scheveningen"
+      "name_local": "Haven van Scheveningen",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "dh_34",
+      "id": "hga_dh_34",
       "name": "Stadhuis Den Haag",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1767,10 +1833,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Stadhuis Den Haag"
+      "name_local": "Stadhuis Den Haag",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_35",
+      "id": "hga_dh_35",
       "name": "De Zandmotor & Zuiderstrand",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1818,10 +1886,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "De Zandmotor & Zuiderstrand"
+      "name_local": "De Zandmotor & Zuiderstrand",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_36",
+      "id": "hga_dh_36",
       "name": "Park Zorgvliet & Catshuis",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1870,10 +1940,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Park Zorgvliet & Catshuis"
+      "name_local": "Park Zorgvliet & Catshuis",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_37",
+      "id": "hga_dh_37",
       "name": "Koninklijke Schouwburg",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1921,10 +1993,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Koninklijke Schouwburg"
+      "name_local": "Koninklijke Schouwburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_38",
+      "id": "hga_dh_38",
       "name": "Indische Buurt & Archipelbuurt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1972,10 +2046,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Indische Buurt & Archipelbuurt"
+      "name_local": "Indische Buurt & Archipelbuurt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_39",
+      "id": "hga_dh_39",
       "name": "Nieuwe Kerk Den Haag & Spinoza",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2025,10 +2101,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Nieuwe Kerk Den Haag & Spinoza"
+      "name_local": "Nieuwe Kerk Den Haag & Spinoza",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_40",
+      "id": "hga_dh_40",
       "name": "Drievliet Familiepark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2077,10 +2155,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Drievliet Familiepark"
+      "name_local": "Drievliet Familiepark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_41",
+      "id": "hga_dh_41",
       "name": "Historisch Leiden",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2130,10 +2210,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Leiden"
+      "name_local": "Historisch Leiden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_42",
+      "id": "hga_dh_42",
       "name": "CORPUS Journey Through the Human Body",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2182,10 +2264,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "CORPUS Journey Through the Human Body"
+      "name_local": "CORPUS Journey Through the Human Body",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_43",
+      "id": "hga_dh_43",
       "name": "Museum Voorlinden",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -2234,10 +2318,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Voorlinden"
+      "name_local": "Museum Voorlinden",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_44",
+      "id": "hga_dh_44",
       "name": "Kasteel Duivenvoorde",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2286,10 +2372,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kasteel Duivenvoorde"
+      "name_local": "Kasteel Duivenvoorde",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "dh_45",
+      "id": "hga_dh_45",
       "name": "Historisch Delft",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2338,7 +2426,9 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Historisch Delft"
+      "name_local": "Historisch Delft",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 45

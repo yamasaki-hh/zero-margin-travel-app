@@ -4,7 +4,7 @@
   "flag": "🇩🇪",
   "spots": [
     {
-      "id": "nu_1",
+      "id": "nue_nu_1",
       "name": "Kaiserburg Nürnberg",
       "category": "Landmark",
       "rating": "★4.9",
@@ -53,10 +53,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kaiserburg Nürnberg"
+      "name_local": "Kaiserburg Nürnberg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nu_2",
+      "id": "nue_nu_2",
       "name": "Hauptmarkt & Christkindlesmarkt",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -104,10 +106,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Hauptmarkt & Christkindlesmarkt"
+      "name_local": "Hauptmarkt & Christkindlesmarkt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nu_3",
+      "id": "nue_nu_3",
       "name": "Schöner Brunnen",
       "category": "Landmark",
       "rating": "★4.8",
@@ -155,10 +159,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Schöner Brunnen"
+      "name_local": "Schöner Brunnen",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nu_4",
+      "id": "nue_nu_4",
       "name": "Frauenkirche Nürnberg",
       "category": "Landmark",
       "rating": "★4.8",
@@ -204,10 +210,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Frauenkirche Nürnberg"
+      "name_local": "Frauenkirche Nürnberg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nu_5",
+      "id": "nue_nu_5",
       "name": "St. Lorenz Kirche",
       "category": "Landmark",
       "rating": "★4.9",
@@ -253,10 +261,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "St. Lorenz Kirche"
+      "name_local": "St. Lorenz Kirche",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nu_6",
+      "id": "nue_nu_6",
       "name": "St. Sebaldus Kirche",
       "category": "Landmark",
       "rating": "★4.8",
@@ -302,10 +312,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "St. Sebaldus Kirche"
+      "name_local": "St. Sebaldus Kirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_7",
+      "id": "nue_nu_7",
       "name": "Germanisches Nationalmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.9",
@@ -353,10 +365,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Germanisches Nationalmuseum"
+      "name_local": "Germanisches Nationalmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_8",
+      "id": "nue_nu_8",
       "name": "Albrecht-Dürer-Haus",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -404,10 +418,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Albrecht-Dürer-Haus"
+      "name_local": "Albrecht-Dürer-Haus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_9",
+      "id": "nue_nu_9",
       "name": "Weißgerbergasse",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -456,10 +472,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Weißgerbergasse"
+      "name_local": "Weißgerbergasse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_10",
+      "id": "nue_nu_10",
       "name": "Henkersteg & Weinstadel",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -505,10 +523,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Henkersteg & Weinstadel"
+      "name_local": "Henkersteg & Weinstadel",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nu_11",
+      "id": "nue_nu_11",
       "name": "Heilig-Geist-Spital",
       "category": "Landmark",
       "rating": "★4.8",
@@ -556,10 +576,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Heilig-Geist-Spital"
+      "name_local": "Heilig-Geist-Spital",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_12",
+      "id": "nue_nu_12",
       "name": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -609,10 +631,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld"
+      "name_local": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_13",
+      "id": "nue_nu_13",
       "name": "Memorium Nürnberger Prozesse",
       "category": "Museum & Gallery",
       "rating": "★4.9",
@@ -661,10 +685,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Memorium Nürnberger Prozesse"
+      "name_local": "Memorium Nürnberger Prozesse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_14",
+      "id": "nue_nu_14",
       "name": "Spielzeugmuseum Nürnberg",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -713,10 +739,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Spielzeugmuseum Nürnberg"
+      "name_local": "Spielzeugmuseum Nürnberg",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nu_15",
+      "id": "nue_nu_15",
       "name": "DB Museum",
       "category": "Museum & Gallery",
       "rating": "★4.9",
@@ -764,10 +792,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "DB Museum"
+      "name_local": "DB Museum",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nu_16",
+      "id": "nue_nu_16",
       "name": "Museum für Kommunikation Nürnberg",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -816,10 +846,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Museum für Kommunikation Nürnberg"
+      "name_local": "Museum für Kommunikation Nürnberg",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nu_17",
+      "id": "nue_nu_17",
       "name": "Historische Felsengänge",
       "category": "Landmark",
       "rating": "★4.9",
@@ -867,10 +899,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Historische Felsengänge"
+      "name_local": "Historische Felsengänge",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_18",
+      "id": "nue_nu_18",
       "name": "Historischer Kunstbunker",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -919,10 +953,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Historischer Kunstbunker"
+      "name_local": "Historischer Kunstbunker",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_19",
+      "id": "nue_nu_19",
       "name": "Mittelalterliche Lochgefängnisse",
       "category": "Landmark",
       "rating": "★4.7",
@@ -968,10 +1004,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Mittelalterliche Lochgefängnisse"
+      "name_local": "Mittelalterliche Lochgefängnisse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_20",
+      "id": "nue_nu_20",
       "name": "Deutsches Museum Nürnberg - Das Zukunftsmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -1020,10 +1058,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Museum Nürnberg - Das Zukunftsmuseum"
+      "name_local": "Deutsches Museum Nürnberg - Das Zukunftsmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_21",
+      "id": "nue_nu_21",
       "name": "Neues Museum Nürnberg",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1071,10 +1111,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Neues Museum Nürnberg"
+      "name_local": "Neues Museum Nürnberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_22",
+      "id": "nue_nu_22",
       "name": "Stadtmuseum im Fembo-Haus",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1121,10 +1163,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Stadtmuseum im Fembo-Haus"
+      "name_local": "Stadtmuseum im Fembo-Haus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_23",
+      "id": "nue_nu_23",
       "name": "Handwerkerhof Nürnberg",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1175,10 +1219,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Handwerkerhof Nürnberg"
+      "name_local": "Handwerkerhof Nürnberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_24",
+      "id": "nue_nu_24",
       "name": "Straße der Menschenrechte",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1227,10 +1273,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Straße der Menschenrechte"
+      "name_local": "Straße der Menschenrechte",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_25",
+      "id": "nue_nu_25",
       "name": "Ehekarussell",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1278,10 +1326,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Ehekarussell"
+      "name_local": "Ehekarussell",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_26",
+      "id": "nue_nu_26",
       "name": "Kettensteg & Maxbrücke",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1327,10 +1377,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kettensteg & Maxbrücke"
+      "name_local": "Kettensteg & Maxbrücke",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_27",
+      "id": "nue_nu_27",
       "name": "Stadtmauer Nürnberg & Tore",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1376,10 +1428,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Stadtmauer Nürnberg & Tore"
+      "name_local": "Stadtmauer Nürnberg & Tore",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_28",
+      "id": "nue_nu_28",
       "name": "Johannisfriedhof",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1427,10 +1481,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Johannisfriedhof"
+      "name_local": "Johannisfriedhof",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_29",
+      "id": "nue_nu_29",
       "name": "Tiergarten Nürnberg & Delphinlagune",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -1477,10 +1533,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Tiergarten Nürnberg & Delphinlagune"
+      "name_local": "Tiergarten Nürnberg & Delphinlagune",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_30",
+      "id": "nue_nu_30",
       "name": "Nicolaus-Copernicus-Planetarium",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -1529,10 +1587,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Nicolaus-Copernicus-Planetarium"
+      "name_local": "Nicolaus-Copernicus-Planetarium",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_31",
+      "id": "nue_nu_31",
       "name": "Museum Tucherschloss und Hirsvogelsaal",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1579,10 +1639,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Tucherschloss und Hirsvogelsaal"
+      "name_local": "Museum Tucherschloss und Hirsvogelsaal",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_32",
+      "id": "nue_nu_32",
       "name": "Bratwursthäusle bei St. Sebald",
       "category": "Café & Bistro",
       "rating": "★4.9",
@@ -1630,10 +1692,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Bratwursthäusle bei St. Sebald"
+      "name_local": "Bratwursthäusle bei St. Sebald",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nu_33",
+      "id": "nue_nu_33",
       "name": "Historische Bratwurstküche \"Zum Gulden Stern\"",
       "category": "Café & Bistro",
       "rating": "★4.9",
@@ -1680,10 +1744,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Historische Bratwurstküche \"Zum Gulden Stern\""
+      "name_local": "Historische Bratwurstküche \"Zum Gulden Stern\"",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nu_34",
+      "id": "nue_nu_34",
       "name": "Hausbrauerei Altstadthof",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1731,10 +1797,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Hausbrauerei Altstadthof"
+      "name_local": "Hausbrauerei Altstadthof",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nu_35",
+      "id": "nue_nu_35",
       "name": "Nürnberger Lebkuchen",
       "category": "Café & Bistro",
       "rating": "★4.9",
@@ -1783,10 +1851,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Nürnberger Lebkuchen"
+      "name_local": "Nürnberger Lebkuchen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_36",
+      "id": "nue_nu_36",
       "name": "Königstraße & Karolinenstraße",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1835,10 +1905,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Königstraße & Karolinenstraße"
+      "name_local": "Königstraße & Karolinenstraße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_37",
+      "id": "nue_nu_37",
       "name": "Breite Gasse",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1887,10 +1959,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Breite Gasse"
+      "name_local": "Breite Gasse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_38",
+      "id": "nue_nu_38",
       "name": "Trödelmarkt",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1939,10 +2013,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Trödelmarkt"
+      "name_local": "Trödelmarkt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_39",
+      "id": "nue_nu_39",
       "name": "Wöhrder Wiese & Wöhrder See",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1989,10 +2065,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Wöhrder Wiese & Wöhrder See"
+      "name_local": "Wöhrder Wiese & Wöhrder See",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_40",
+      "id": "nue_nu_40",
       "name": "Turm der Sinne",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2042,10 +2120,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Turm der Sinne"
+      "name_local": "Turm der Sinne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_41",
+      "id": "nue_nu_41",
       "name": "Rothenburg ob der Tauber",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2097,10 +2177,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Rothenburg ob der Tauber"
+      "name_local": "Rothenburg ob der Tauber",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_42",
+      "id": "nue_nu_42",
       "name": "Playmobil FunPark",
       "category": "Kids & Family",
       "rating": "★4.9",
@@ -2152,10 +2234,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Playmobil FunPark"
+      "name_local": "Playmobil FunPark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_43",
+      "id": "nue_nu_43",
       "name": "Bamberg: Altstadt & Altes Rathaus",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2202,10 +2286,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Bamberg: Altstadt & Altes Rathaus"
+      "name_local": "Bamberg: Altstadt & Altes Rathaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_44",
+      "id": "nue_nu_44",
       "name": "Würzburg: Residenz & Hofgarten",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2255,10 +2341,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Würzburg: Residenz & Hofgarten"
+      "name_local": "Würzburg: Residenz & Hofgarten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nu_45",
+      "id": "nue_nu_45",
       "name": "Cadolzburg",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2307,7 +2395,9 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Cadolzburg"
+      "name_local": "Cadolzburg",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 45

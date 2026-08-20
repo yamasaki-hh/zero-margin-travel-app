@@ -3,7 +3,7 @@
   "spotCount": 40,
   "spots": [
     {
-      "id": "nice_1",
+      "id": "nce_nice_1",
       "name": "Promenade des Anglais",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -53,10 +53,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Promenade des Anglais"
+      "name_local": "Promenade des Anglais",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nice_2",
+      "id": "nce_nice_2",
       "name": "Colline du Château",
       "category": "Landmark",
       "rating": "★4.7",
@@ -108,10 +110,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Colline du Château"
+      "name_local": "Colline du Château",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nice_3",
+      "id": "nce_nice_3",
       "name": "Old Town Nice",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -165,10 +169,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Old Town Nice"
+      "name_local": "Old Town Nice",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nice_4",
+      "id": "nce_nice_4",
       "name": "Cours Saleya Flower Market",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -219,10 +225,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Cours Saleya Flower Market"
+      "name_local": "Cours Saleya Flower Market",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nice_5",
+      "id": "nce_nice_5",
       "name": "Place Masséna",
       "category": "Landmark",
       "rating": "★4.6",
@@ -274,10 +282,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Place Masséna"
+      "name_local": "Place Masséna",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nice_6",
+      "id": "nce_nice_6",
       "name": "Marc Chagall National Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -328,10 +338,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Marc Chagall National Museum"
+      "name_local": "Marc Chagall National Museum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nice_7",
+      "id": "nce_nice_7",
       "name": "Matisse Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -382,10 +394,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Matisse Museum"
+      "name_local": "Matisse Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_8",
+      "id": "nce_nice_8",
       "name": "Museum of Modern & Contemporary Art",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -435,10 +449,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum of Modern & Contemporary Art"
+      "name_local": "Museum of Modern & Contemporary Art",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_9",
+      "id": "nce_nice_9",
       "name": "St. Nicholas Russian Orthodox Cathedral",
       "category": "Landmark",
       "rating": "★4.6",
@@ -488,10 +504,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "St. Nicholas Russian Orthodox Cathedral"
+      "name_local": "St. Nicholas Russian Orthodox Cathedral",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_10",
+      "id": "nce_nice_10",
       "name": "Promenade du Paillon",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -542,10 +560,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Promenade du Paillon"
+      "name_local": "Promenade du Paillon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_11",
+      "id": "nce_nice_11",
       "name": "Cimiez Arenas & Monastery Gardens",
       "category": "Landmark",
       "rating": "★4.6",
@@ -596,10 +616,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Cimiez Arenas & Monastery Gardens"
+      "name_local": "Cimiez Arenas & Monastery Gardens",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_12",
+      "id": "nce_nice_12",
       "name": "Masséna Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -650,10 +672,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Masséna Museum"
+      "name_local": "Masséna Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_13",
+      "id": "nce_nice_13",
       "name": "Jules Chéret Fine Arts Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -704,10 +728,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Jules Chéret Fine Arts Museum"
+      "name_local": "Jules Chéret Fine Arts Museum",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nice_14",
+      "id": "nce_nice_14",
       "name": "Place Garibaldi",
       "category": "Landmark",
       "rating": "★4.6",
@@ -757,10 +783,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Place Garibaldi"
+      "name_local": "Place Garibaldi",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "nice_15",
+      "id": "nce_nice_15",
       "name": "Nice Cathedral",
       "category": "Landmark",
       "rating": "★4.6",
@@ -812,10 +840,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Nice Cathedral"
+      "name_local": "Nice Cathedral",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nice_16",
+      "id": "nce_nice_16",
       "name": "Port Lympia",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -865,10 +895,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Port Lympia"
+      "name_local": "Port Lympia",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nice_17",
+      "id": "nce_nice_17",
       "name": "Phoenix Botanical & Zoological Park",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -919,10 +951,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Phoenix Botanical & Zoological Park"
+      "name_local": "Phoenix Botanical & Zoological Park",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_18",
+      "id": "nce_nice_18",
       "name": "Mont Boron Forest Park",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -974,10 +1008,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Mont Boron Forest Park"
+      "name_local": "Mont Boron Forest Park",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_19",
+      "id": "nce_nice_19",
       "name": "Glacier Fenocchio",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1029,10 +1065,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Glacier Fenocchio"
+      "name_local": "Glacier Fenocchio",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "nice_20",
+      "id": "nce_nice_20",
       "name": "Chez René Socca",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1082,10 +1120,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Chez René Socca"
+      "name_local": "Chez René Socca",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_21",
+      "id": "nce_nice_21",
       "name": "Le Plongeoir",
       "category": "Café & Bistro",
       "rating": "★4.4",
@@ -1136,10 +1176,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Le Plongeoir"
+      "name_local": "Le Plongeoir",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_22",
+      "id": "nce_nice_22",
       "name": "Grand Café de Turin",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1190,10 +1232,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Grand Café de Turin"
+      "name_local": "Grand Café de Turin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_23",
+      "id": "nce_nice_23",
       "name": "Exotic Garden of Èze & Medieval Village",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1244,10 +1288,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Exotic Garden of Èze & Medieval Village"
+      "name_local": "Exotic Garden of Èze & Medieval Village",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_24",
+      "id": "nce_nice_24",
       "name": "Villa Ephrussi de Rothschild",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1298,10 +1344,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Villa Ephrussi de Rothschild"
+      "name_local": "Villa Ephrussi de Rothschild",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_25",
+      "id": "nce_nice_25",
       "name": "Villa Kérylos",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1351,10 +1399,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Villa Kérylos"
+      "name_local": "Villa Kérylos",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_26",
+      "id": "nce_nice_26",
       "name": "Villefranche-sur-Mer Old Town & Citadel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1406,10 +1456,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Villefranche-sur-Mer Old Town & Citadel"
+      "name_local": "Villefranche-sur-Mer Old Town & Citadel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_27",
+      "id": "nce_nice_27",
       "name": "Saint-Paul-de-Vence Medieval Village",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1460,10 +1512,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Saint-Paul-de-Vence Medieval Village"
+      "name_local": "Saint-Paul-de-Vence Medieval Village",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_28",
+      "id": "nce_nice_28",
       "name": "Fondation Maeght",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1513,10 +1567,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Fondation Maeght"
+      "name_local": "Fondation Maeght",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_29",
+      "id": "nce_nice_29",
       "name": "Prince's Palace of Monaco & The Rock",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1567,10 +1623,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Prince's Palace of Monaco & The Rock"
+      "name_local": "Prince's Palace of Monaco & The Rock",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_30",
+      "id": "nce_nice_30",
       "name": "Oceanographic Museum of Monaco",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -1624,10 +1682,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Oceanographic Museum of Monaco"
+      "name_local": "Oceanographic Museum of Monaco",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_31",
+      "id": "nce_nice_31",
       "name": "Musée Picasso",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1677,10 +1737,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Picasso"
+      "name_local": "Musée Picasso",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_32",
+      "id": "nce_nice_32",
       "name": "Casino de Monte-Carlo",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1731,10 +1793,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Casino de Monte-Carlo"
+      "name_local": "Casino de Monte-Carlo",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_33",
+      "id": "nce_nice_33",
       "name": "Basilique Saint-Michel Archange & Menton Old Town",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1787,10 +1851,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Basilique Saint-Michel Archange & Menton Old Town"
+      "name_local": "Basilique Saint-Michel Archange & Menton Old Town",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_34",
+      "id": "nce_nice_34",
       "name": "Le Sentier du Littoral",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1840,10 +1906,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Le Sentier du Littoral"
+      "name_local": "Le Sentier du Littoral",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_35",
+      "id": "nce_nice_35",
       "name": "Abbaye de Lérins",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1893,10 +1961,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Abbaye de Lérins"
+      "name_local": "Abbaye de Lérins",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_36",
+      "id": "nce_nice_36",
       "name": "Fort du Mont Alban",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1946,10 +2016,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Fort du Mont Alban"
+      "name_local": "Fort du Mont Alban",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_37",
+      "id": "nce_nice_37",
       "name": "Promenade de la Croisette",
       "name_ja": "Promenade de la Croisette（プロムナード・デ・ラ・クロワゼット（カンヌ）",
       "name_en": "Promenade de la Croisette (Cannes)",
@@ -1983,10 +2055,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Promenade de la Croisette"
+      "name_local": "Promenade de la Croisette",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_38",
+      "id": "nce_nice_38",
       "name": "Vieux Menton & Basilique Saint-Michel",
       "name_ja": "Vieux Menton & Basilique Saint-Michel（マントン旧市街＆サン・ミッシェル聖堂）",
       "name_en": "Vieux Menton & Basilique Saint-Michel (Vieux Menton & Saint-Michel Basilica)",
@@ -2019,10 +2093,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Vieux Menton & Basilique Saint-Michel"
+      "name_local": "Vieux Menton & Basilique Saint-Michel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_39",
+      "id": "nce_nice_39",
       "name": "Villa Santo Sospir & Cap Ferrat",
       "name_ja": "Villa Santo Sospir & Cap Ferrat（ヴィラ・サント・ソスピル＆キャップ・フェラ）",
       "name_en": "Villa Santo Sospir & Cap Ferrat",
@@ -2053,10 +2129,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Villa Santo Sospir & Cap Ferrat"
+      "name_local": "Villa Santo Sospir & Cap Ferrat",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "nice_40",
+      "id": "nce_nice_40",
       "name": "Plage du Larvotto",
       "name_ja": "Plage du Larvotto（ラルヴォット・ビーチ＆プロムナード（モナコ）",
       "name_en": "Plage du Larvotto (Monaco)",
@@ -2090,7 +2168,9 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Plage du Larvotto"
+      "name_local": "Plage du Larvotto",
+      "top7": false,
+      "hiddenGem": true
     }
   ]
 }

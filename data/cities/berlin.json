@@ -2,7 +2,7 @@
   "cityName": "Berlin, Germany",
   "spots": [
     {
-      "id": "b_1",
+      "id": "ber_b_1",
       "name": "Brandenburger Tor",
       "category": "Landmark",
       "rating": "★4.8",
@@ -48,10 +48,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Brandenburger Tor"
+      "name_local": "Brandenburger Tor",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "b_2",
+      "id": "ber_b_2",
       "name": "Reichstagsgebäude",
       "category": "Landmark",
       "rating": "★4.8",
@@ -97,10 +99,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Reichstagsgebäude"
+      "name_local": "Reichstagsgebäude",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "b_3",
+      "id": "ber_b_3",
       "name": "Museumsinsel",
       "category": "Museum & Gallery",
       "rating": "★4.9",
@@ -147,10 +151,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museumsinsel"
+      "name_local": "Museumsinsel",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "b_4",
+      "id": "ber_b_4",
       "name": "Pergamonmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -199,10 +205,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Pergamonmuseum"
+      "name_local": "Pergamonmuseum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "b_5",
+      "id": "ber_b_5",
       "name": "Neues Museum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -248,10 +256,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Neues Museum"
+      "name_local": "Neues Museum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "b_6",
+      "id": "ber_b_6",
       "name": "Alte Nationalgalerie",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -298,10 +308,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Alte Nationalgalerie"
+      "name_local": "Alte Nationalgalerie",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_7",
+      "id": "ber_b_7",
       "name": "Bode-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -349,10 +361,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Bode-Museum"
+      "name_local": "Bode-Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_8",
+      "id": "ber_b_8",
       "name": "Altes Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -399,10 +413,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Altes Museum"
+      "name_local": "Altes Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_9",
+      "id": "ber_b_9",
       "name": "Berliner Dom",
       "category": "Landmark",
       "rating": "★4.7",
@@ -450,10 +466,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Berliner Dom"
+      "name_local": "Berliner Dom",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_10",
+      "id": "ber_b_10",
       "name": "Humboldt Forum & Berliner Schloss",
       "category": "Landmark",
       "rating": "★4.7",
@@ -501,10 +519,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Humboldt Forum & Berliner Schloss"
+      "name_local": "Humboldt Forum & Berliner Schloss",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "b_11",
+      "id": "ber_b_11",
       "name": "East Side Gallery",
       "category": "Landmark",
       "rating": "★4.6",
@@ -551,10 +571,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "East Side Gallery"
+      "name_local": "East Side Gallery",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_12",
+      "id": "ber_b_12",
       "name": "Gedenkstätte Berliner Mauer",
       "category": "Landmark",
       "rating": "★4.8",
@@ -602,10 +624,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Gedenkstätte Berliner Mauer"
+      "name_local": "Gedenkstätte Berliner Mauer",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_13",
+      "id": "ber_b_13",
       "name": "Checkpoint Charlie & Mauermuseum",
       "category": "Landmark",
       "rating": "★4.5",
@@ -654,10 +678,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Checkpoint Charlie & Mauermuseum"
+      "name_local": "Checkpoint Charlie & Mauermuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_14",
+      "id": "ber_b_14",
       "name": "Topographie des Terrors",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -703,10 +729,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Topographie des Terrors"
+      "name_local": "Topographie des Terrors",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_15",
+      "id": "ber_b_15",
       "name": "Denkmal für die ermordeten Juden Europas",
       "category": "Landmark",
       "rating": "★4.6",
@@ -752,10 +780,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Denkmal für die ermordeten Juden Europas"
+      "name_local": "Denkmal für die ermordeten Juden Europas",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_16",
+      "id": "ber_b_16",
       "name": "Berliner Fernsehturm",
       "category": "Landmark",
       "rating": "★4.6",
@@ -804,10 +834,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Berliner Fernsehturm"
+      "name_local": "Berliner Fernsehturm",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_17",
+      "id": "ber_b_17",
       "name": "Alexanderplatz & Weltzeituhr",
       "category": "Landmark",
       "rating": "★4.5",
@@ -853,10 +885,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Alexanderplatz & Weltzeituhr"
+      "name_local": "Alexanderplatz & Weltzeituhr",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_18",
+      "id": "ber_b_18",
       "name": "Gendarmenmarkt",
       "category": "Landmark",
       "rating": "★4.8",
@@ -902,10 +936,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Gendarmenmarkt"
+      "name_local": "Gendarmenmarkt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_19",
+      "id": "ber_b_19",
       "name": "Kaiser-Wilhelm-Gedächtniskirche",
       "category": "Landmark",
       "rating": "★4.6",
@@ -951,10 +987,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kaiser-Wilhelm-Gedächtniskirche"
+      "name_local": "Kaiser-Wilhelm-Gedächtniskirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_20",
+      "id": "ber_b_20",
       "name": "Schloss Charlottenburg",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1000,10 +1038,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Charlottenburg"
+      "name_local": "Schloss Charlottenburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_21",
+      "id": "ber_b_21",
       "name": "Kulturforum & Gemäldegalerie",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -1049,10 +1089,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Kulturforum & Gemäldegalerie"
+      "name_local": "Kulturforum & Gemäldegalerie",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "b_22",
+      "id": "ber_b_22",
       "name": "Neue Nationalgalerie",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1098,10 +1140,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Neue Nationalgalerie"
+      "name_local": "Neue Nationalgalerie",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "b_23",
+      "id": "ber_b_23",
       "name": "Hamburger Bahnhof",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1149,10 +1193,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Hamburger Bahnhof"
+      "name_local": "Hamburger Bahnhof",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "b_24",
+      "id": "ber_b_24",
       "name": "Jüdisches Museum Berlin",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1199,10 +1245,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Jüdisches Museum Berlin"
+      "name_local": "Jüdisches Museum Berlin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_25",
+      "id": "ber_b_25",
       "name": "Deutsches Historisches Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1248,10 +1296,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Historisches Museum"
+      "name_local": "Deutsches Historisches Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_26",
+      "id": "ber_b_26",
       "name": "Deutsches Technikmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -1297,10 +1347,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Technikmuseum"
+      "name_local": "Deutsches Technikmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_27",
+      "id": "ber_b_27",
       "name": "Museum für Naturkunde",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1346,10 +1398,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum für Naturkunde"
+      "name_local": "Museum für Naturkunde",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_28",
+      "id": "ber_b_28",
       "name": "Futurium",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1395,10 +1449,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Futurium"
+      "name_local": "Futurium",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_29",
+      "id": "ber_b_29",
       "name": "Computerspielemuseum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -1446,10 +1502,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Computerspielemuseum"
+      "name_local": "Computerspielemuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_30",
+      "id": "ber_b_30",
       "name": "Spionagemuseum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1495,10 +1553,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Spionagemuseum"
+      "name_local": "Spionagemuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_31",
+      "id": "ber_b_31",
       "name": "DDR Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -1544,10 +1604,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "DDR Museum"
+      "name_local": "DDR Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_32",
+      "id": "ber_b_32",
       "name": "Berliner Unterwelten",
       "category": "Landmark",
       "rating": "★4.8",
@@ -1593,10 +1655,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Berliner Unterwelten"
+      "name_local": "Berliner Unterwelten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_33",
+      "id": "ber_b_33",
       "name": "Siegessäule & Großer Tiergarten",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1642,10 +1706,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Siegessäule & Großer Tiergarten"
+      "name_local": "Siegessäule & Großer Tiergarten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_34",
+      "id": "ber_b_34",
       "name": "Potsdamer Platz & Sony Center",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1691,10 +1757,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Potsdamer Platz & Sony Center"
+      "name_local": "Potsdamer Platz & Sony Center",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_35",
+      "id": "ber_b_35",
       "name": "Kurfürstendamm  & Tauentzienstraße",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1740,10 +1808,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Kurfürstendamm  & Tauentzienstraße"
+      "name_local": "Kurfürstendamm  & Tauentzienstraße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_36",
+      "id": "ber_b_36",
       "name": "KaDeWe",
       "category": "Shopping",
       "rating": "★4.7",
@@ -1789,10 +1859,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "KaDeWe"
+      "name_local": "KaDeWe",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_37",
+      "id": "ber_b_37",
       "name": "Mall of Berlin",
       "category": "Shopping",
       "rating": "★4.5",
@@ -1839,10 +1911,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Mall of Berlin"
+      "name_local": "Mall of Berlin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_38",
+      "id": "ber_b_38",
       "name": "Bikini Berlin",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1890,10 +1964,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Bikini Berlin"
+      "name_local": "Bikini Berlin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_39",
+      "id": "ber_b_39",
       "name": "Hackesche Höfe & Hackescher Markt",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1940,10 +2016,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Hackesche Höfe & Hackescher Markt"
+      "name_local": "Hackesche Höfe & Hackescher Markt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "b_40",
+      "id": "ber_b_40",
       "name": "Mauerpark & Flohmarkt",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1991,10 +2069,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Mauerpark & Flohmarkt"
+      "name_local": "Mauerpark & Flohmarkt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_41",
+      "id": "ber_b_41",
       "name": "Markthalle Neun",
       "category": "Shopping",
       "rating": "★4.6",
@@ -2040,10 +2120,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Markthalle Neun"
+      "name_local": "Markthalle Neun",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_42",
+      "id": "ber_b_42",
       "name": "Kollwitzplatz & Prenzlauer Berg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2091,10 +2173,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Kollwitzplatz & Prenzlauer Berg"
+      "name_local": "Kollwitzplatz & Prenzlauer Berg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "b_43",
+      "id": "ber_b_43",
       "name": "Bergmannstraße & Kreuzberg",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -2141,10 +2225,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Bergmannstraße & Kreuzberg"
+      "name_local": "Bergmannstraße & Kreuzberg",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "b_44",
+      "id": "ber_b_44",
       "name": "RAW-Gelände",
       "category": "Scenery & Walk",
       "rating": "★4.5",
@@ -2190,10 +2276,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "RAW-Gelände"
+      "name_local": "RAW-Gelände",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_45",
+      "id": "ber_b_45",
       "name": "Holzmarkt 25",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2241,10 +2329,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Holzmarkt 25"
+      "name_local": "Holzmarkt 25",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_46",
+      "id": "ber_b_46",
       "name": "Zoologischer Garten Berlin & Aquarium Berlin",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -2291,10 +2381,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Zoologischer Garten Berlin & Aquarium Berlin"
+      "name_local": "Zoologischer Garten Berlin & Aquarium Berlin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_47",
+      "id": "ber_b_47",
       "name": "Tierpark Berlin & Schloss Friedrichsfelde",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2341,10 +2433,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Tierpark Berlin & Schloss Friedrichsfelde"
+      "name_local": "Tierpark Berlin & Schloss Friedrichsfelde",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_48",
+      "id": "ber_b_48",
       "name": "Tempelhofer Feld",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2391,10 +2485,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Tempelhofer Feld"
+      "name_local": "Tempelhofer Feld",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_49",
+      "id": "ber_b_49",
       "name": "Gärten der Welt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2440,10 +2536,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Gärten der Welt"
+      "name_local": "Gärten der Welt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_50",
+      "id": "ber_b_50",
       "name": "Spree-Schifffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2491,10 +2589,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Spree-Schifffahrt"
+      "name_local": "Spree-Schifffahrt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_51",
+      "id": "ber_b_51",
       "name": "Badeschiff",
       "category": "Scenery & Walk",
       "rating": "★4.5",
@@ -2542,10 +2642,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Badeschiff"
+      "name_local": "Badeschiff",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_52",
+      "id": "ber_b_52",
       "name": "Curry 36 & Konnopke's Imbiß",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -2591,10 +2693,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Curry 36 & Konnopke's Imbiß"
+      "name_local": "Curry 36 & Konnopke's Imbiß",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_53",
+      "id": "ber_b_53",
       "name": "Mustafa's Gemüsedöner",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -2640,10 +2744,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Mustafa's Gemüsedöner"
+      "name_local": "Mustafa's Gemüsedöner",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_54",
+      "id": "ber_b_54",
       "name": "Café Einstein Stammhaus",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -2689,10 +2795,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Café Einstein Stammhaus"
+      "name_local": "Café Einstein Stammhaus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_55",
+      "id": "ber_b_55",
       "name": "Prater Biergarten",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -2739,10 +2847,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Prater Biergarten"
+      "name_local": "Prater Biergarten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_56",
+      "id": "ber_b_56",
       "name": "Brauhaus Georgbræu & Nikolaiviertel",
       "category": "Landmark",
       "rating": "★4.6",
@@ -2790,10 +2900,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Brauhaus Georgbræu & Nikolaiviertel"
+      "name_local": "Brauhaus Georgbræu & Nikolaiviertel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_57",
+      "id": "ber_b_57",
       "name": "ANOHA - Die Kinderwelt des Jüdischen Museums",
       "category": "Kids & Family",
       "rating": "★4.9",
@@ -2840,10 +2952,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "ANOHA - Die Kinderwelt des Jüdischen Museums"
+      "name_local": "ANOHA - Die Kinderwelt des Jüdischen Museums",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_58",
+      "id": "ber_b_58",
       "name": "Loxx / Lego Discovery Centre Berlin",
       "category": "Kids & Family",
       "rating": "★4.5",
@@ -2889,10 +3003,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Loxx / Lego Discovery Centre Berlin"
+      "name_local": "Loxx / Lego Discovery Centre Berlin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_59",
+      "id": "ber_b_59",
       "name": "SEA LIFE Berlin",
       "category": "Kids & Family",
       "rating": "★4.4",
@@ -2940,10 +3056,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "SEA LIFE Berlin"
+      "name_local": "SEA LIFE Berlin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_60",
+      "id": "ber_b_60",
       "name": "Liquidrom",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2989,10 +3107,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Liquidrom"
+      "name_local": "Liquidrom",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_61",
+      "id": "ber_b_61",
       "name": "Schloss Sanssouci & Park Sanssouci",
       "category": "Landmark",
       "rating": "★4.9",
@@ -3039,10 +3159,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Sanssouci & Park Sanssouci"
+      "name_local": "Schloss Sanssouci & Park Sanssouci",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_62",
+      "id": "ber_b_62",
       "name": "Neues Palais",
       "category": "Landmark",
       "rating": "★4.8",
@@ -3090,10 +3212,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Neues Palais"
+      "name_local": "Neues Palais",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_63",
+      "id": "ber_b_63",
       "name": "Schloss Cecilienhof",
       "category": "Landmark",
       "rating": "★4.7",
@@ -3139,10 +3263,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Cecilienhof"
+      "name_local": "Schloss Cecilienhof",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_64",
+      "id": "ber_b_64",
       "name": "Holländisches Viertel",
       "category": "Landmark",
       "rating": "★4.6",
@@ -3188,10 +3314,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Holländisches Viertel"
+      "name_local": "Holländisches Viertel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_65",
+      "id": "ber_b_65",
       "name": "Museum Barberini",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -3239,10 +3367,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Museum Barberini"
+      "name_local": "Museum Barberini",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_66",
+      "id": "ber_b_66",
       "name": "Glienicker Brücke",
       "category": "Landmark",
       "rating": "★4.6",
@@ -3288,10 +3418,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Glienicker Brücke"
+      "name_local": "Glienicker Brücke",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_67",
+      "id": "ber_b_67",
       "name": "Filmpark Babelsberg",
       "category": "Kids & Family",
       "rating": "★4.5",
@@ -3338,10 +3470,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Filmpark Babelsberg"
+      "name_local": "Filmpark Babelsberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_68",
+      "id": "ber_b_68",
       "name": "KZ-Gedenkstätte Sachsenhausen",
       "category": "Landmark",
       "rating": "★4.8",
@@ -3387,10 +3521,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "KZ-Gedenkstätte Sachsenhausen"
+      "name_local": "KZ-Gedenkstätte Sachsenhausen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_69",
+      "id": "ber_b_69",
       "name": "Spreewald",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -3436,10 +3572,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Spreewald"
+      "name_local": "Spreewald",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_70",
+      "id": "ber_b_70",
       "name": "Tropical Islands Resort",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -3486,10 +3624,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Tropical Islands Resort"
+      "name_local": "Tropical Islands Resort",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_71",
+      "id": "ber_b_71",
       "name": "Pfaueninsel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -3536,10 +3676,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Pfaueninsel"
+      "name_local": "Pfaueninsel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_72",
+      "id": "ber_b_72",
       "name": "Wannsee & Haus der Wannsee-Konferenz",
       "category": "Landmark",
       "rating": "★4.6",
@@ -3586,10 +3728,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Wannsee & Haus der Wannsee-Konferenz"
+      "name_local": "Wannsee & Haus der Wannsee-Konferenz",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_73",
+      "id": "ber_b_73",
       "name": "Teufelsberg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -3635,10 +3779,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Teufelsberg"
+      "name_local": "Teufelsberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_74",
+      "id": "ber_b_74",
       "name": "Zitadelle Spandau",
       "category": "Landmark",
       "rating": "★4.7",
@@ -3684,10 +3830,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Zitadelle Spandau"
+      "name_local": "Zitadelle Spandau",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "b_75",
+      "id": "ber_b_75",
       "name": "Designer Outlet Berlin",
       "category": "Shopping",
       "rating": "★4.6",
@@ -3733,7 +3881,9 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Designer Outlet Berlin"
+      "name_local": "Designer Outlet Berlin",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 75

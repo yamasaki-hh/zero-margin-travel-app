@@ -2,7 +2,7 @@
   "cityName": "Frankfurt, Germany",
   "spots": [
     {
-      "id": "f_1",
+      "id": "fra_f_1",
       "name": "Römerberg & Rathaus Römer",
       "category": "Landmark",
       "rating": "★4.8",
@@ -48,10 +48,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Römerberg & Rathaus Römer"
+      "name_local": "Römerberg & Rathaus Römer",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "f_2",
+      "id": "fra_f_2",
       "name": "Kaiserdom St. Bartholomäus",
       "category": "Landmark",
       "rating": "★4.7",
@@ -99,10 +101,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Kaiserdom St. Bartholomäus"
+      "name_local": "Kaiserdom St. Bartholomäus",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "f_3",
+      "id": "fra_f_3",
       "name": "Goethe-Haus",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -148,10 +152,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Goethe-Haus"
+      "name_local": "Goethe-Haus",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "f_4",
+      "id": "fra_f_4",
       "name": "Städel Museum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -197,10 +203,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Städel Museum"
+      "name_local": "Städel Museum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "f_5",
+      "id": "fra_f_5",
       "name": "Main Tower",
       "category": "Landmark",
       "rating": "★4.7",
@@ -247,10 +255,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Main Tower"
+      "name_local": "Main Tower",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "f_6",
+      "id": "fra_f_6",
       "name": "Eiserner Steg",
       "category": "Landmark",
       "rating": "★4.6",
@@ -296,10 +306,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Eiserner Steg"
+      "name_local": "Eiserner Steg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_7",
+      "id": "fra_f_7",
       "name": "Paulskirche",
       "category": "Landmark",
       "rating": "★4.5",
@@ -345,10 +357,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Paulskirche"
+      "name_local": "Paulskirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_8",
+      "id": "fra_f_8",
       "name": "Alte Oper",
       "category": "Landmark",
       "rating": "★4.7",
@@ -394,10 +408,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Alte Oper"
+      "name_local": "Alte Oper",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_9",
+      "id": "fra_f_9",
       "name": "Palmengarten",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -443,10 +459,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Palmengarten"
+      "name_local": "Palmengarten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_10",
+      "id": "fra_f_10",
       "name": "Historisches Museum Frankfurt",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -492,10 +510,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Historisches Museum Frankfurt"
+      "name_local": "Historisches Museum Frankfurt",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "f_11",
+      "id": "fra_f_11",
       "name": "Liebieghaus Skulpturensammlung",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -542,10 +562,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Liebieghaus Skulpturensammlung"
+      "name_local": "Liebieghaus Skulpturensammlung",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_12",
+      "id": "fra_f_12",
       "name": "Museum Angewandte Kunst",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -591,10 +613,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Angewandte Kunst"
+      "name_local": "Museum Angewandte Kunst",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_13",
+      "id": "fra_f_13",
       "name": "Deutsches Filminstitut & Filmmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -640,10 +664,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Filminstitut & Filmmuseum"
+      "name_local": "Deutsches Filminstitut & Filmmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_14",
+      "id": "fra_f_14",
       "name": "Museum für Moderne Kunst",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -689,10 +715,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum für Moderne Kunst"
+      "name_local": "Museum für Moderne Kunst",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_15",
+      "id": "fra_f_15",
       "name": "Schirn Kunsthalle Frankfurt",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -739,10 +767,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Schirn Kunsthalle Frankfurt"
+      "name_local": "Schirn Kunsthalle Frankfurt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_16",
+      "id": "fra_f_16",
       "name": "Museumsufer",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -789,10 +819,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Museumsufer"
+      "name_local": "Museumsufer",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "f_17",
+      "id": "fra_f_17",
       "name": "Kleinmarkthalle",
       "category": "Shopping",
       "rating": "★4.7",
@@ -838,10 +870,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Kleinmarkthalle"
+      "name_local": "Kleinmarkthalle",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "f_18",
+      "id": "fra_f_18",
       "name": "Neue Altstadt",
       "category": "Landmark",
       "rating": "★4.7",
@@ -887,10 +921,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Neue Altstadt"
+      "name_local": "Neue Altstadt",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "f_19",
+      "id": "fra_f_19",
       "name": "Sachsenhausen",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -939,10 +975,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Sachsenhausen"
+      "name_local": "Sachsenhausen",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "f_20",
+      "id": "fra_f_20",
       "name": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -988,10 +1026,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Zur Sonne / Zum Gemalten Haus / Atschel"
+      "name_local": "Zur Sonne / Zum Gemalten Haus / Atschel",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "f_21",
+      "id": "fra_f_21",
       "name": "Zeil & MyZeil",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1038,10 +1078,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Zeil & MyZeil"
+      "name_local": "Zeil & MyZeil",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_22",
+      "id": "fra_f_22",
       "name": "Goethestraße",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1088,10 +1130,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Goethestraße"
+      "name_local": "Goethestraße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_23",
+      "id": "fra_f_23",
       "name": "Große Bockenheimer Straße",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1138,10 +1182,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Große Bockenheimer Straße"
+      "name_local": "Große Bockenheimer Straße",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "f_24",
+      "id": "fra_f_24",
       "name": "Hauptwache & Katharinenkirche",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1187,10 +1233,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Hauptwache & Katharinenkirche"
+      "name_local": "Hauptwache & Katharinenkirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_25",
+      "id": "fra_f_25",
       "name": "Mainufer-Promenade",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1238,10 +1286,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Mainufer-Promenade"
+      "name_local": "Mainufer-Promenade",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_26",
+      "id": "fra_f_26",
       "name": "Zoo Frankfurt",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -1288,10 +1338,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Zoo Frankfurt"
+      "name_local": "Zoo Frankfurt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_27",
+      "id": "fra_f_27",
       "name": "Senckenberg Naturmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1337,10 +1389,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Senckenberg Naturmuseum"
+      "name_local": "Senckenberg Naturmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_28",
+      "id": "fra_f_28",
       "name": "Frankfurter Wertpapierbörse",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1386,10 +1440,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Frankfurter Wertpapierbörse"
+      "name_local": "Frankfurter Wertpapierbörse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_29",
+      "id": "fra_f_29",
       "name": "Euro-Skulptur",
       "category": "Landmark",
       "rating": "★4.5",
@@ -1435,10 +1491,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Euro-Skulptur"
+      "name_local": "Euro-Skulptur",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_30",
+      "id": "fra_f_30",
       "name": "Europaviertel & Skyline Plaza",
       "category": "Shopping",
       "rating": "★4.5",
@@ -1485,10 +1543,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Europaviertel & Skyline Plaza"
+      "name_local": "Europaviertel & Skyline Plaza",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_31",
+      "id": "fra_f_31",
       "name": "Grüneburgpark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1535,10 +1595,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Grüneburgpark"
+      "name_local": "Grüneburgpark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_32",
+      "id": "fra_f_32",
       "name": "Hafenpark & Ostpark",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1585,10 +1647,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Hafenpark & Ostpark"
+      "name_local": "Hafenpark & Ostpark",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_33",
+      "id": "fra_f_33",
       "name": "Europäische Zentralbank",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1634,10 +1698,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Europäische Zentralbank"
+      "name_local": "Europäische Zentralbank",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_34",
+      "id": "fra_f_34",
       "name": "Jüdisches Museum Frankfurt",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1684,10 +1750,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Jüdisches Museum Frankfurt"
+      "name_local": "Jüdisches Museum Frankfurt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_35",
+      "id": "fra_f_35",
       "name": "Museum Judengasse",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1733,10 +1801,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum Judengasse"
+      "name_local": "Museum Judengasse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_36",
+      "id": "fra_f_36",
       "name": "Eschenheimer Turm",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1782,10 +1852,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Eschenheimer Turm"
+      "name_local": "Eschenheimer Turm",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_37",
+      "id": "fra_f_37",
       "name": "Café Hauptwache",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1831,10 +1903,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Café Hauptwache"
+      "name_local": "Café Hauptwache",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_38",
+      "id": "fra_f_38",
       "name": "Wacker's Kaffee",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1880,10 +1954,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Wacker's Kaffee"
+      "name_local": "Wacker's Kaffee",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_39",
+      "id": "fra_f_39",
       "name": "Lohrberg",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1931,10 +2007,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Lohrberg"
+      "name_local": "Lohrberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_40",
+      "id": "fra_f_40",
       "name": "Nizza Gärten",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1980,10 +2058,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Nizza Gärten"
+      "name_local": "Nizza Gärten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_41",
+      "id": "fra_f_41",
       "name": "Rebstockbad",
       "category": "Kids & Family",
       "rating": "★4.5",
@@ -2032,10 +2112,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Rebstockbad"
+      "name_local": "Rebstockbad",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_42",
+      "id": "fra_f_42",
       "name": "Experiminta ScienceCenter",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2082,10 +2164,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Experiminta ScienceCenter"
+      "name_local": "Experiminta ScienceCenter",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_43",
+      "id": "fra_f_43",
       "name": "Bibelhaus Erlebnis Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -2131,10 +2215,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Bibelhaus Erlebnis Museum"
+      "name_local": "Bibelhaus Erlebnis Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_44",
+      "id": "fra_f_44",
       "name": "DialogMuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -2180,10 +2266,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "DialogMuseum"
+      "name_local": "DialogMuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_45",
+      "id": "fra_f_45",
       "name": "Historische Straßenbahn Frankfurt",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2229,10 +2317,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Historische Straßenbahn Frankfurt"
+      "name_local": "Historische Straßenbahn Frankfurt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_46",
+      "id": "fra_f_46",
       "name": "Rüdesheim am Rhein & Drosselgasse",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2278,10 +2368,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Rüdesheim am Rhein & Drosselgasse"
+      "name_local": "Rüdesheim am Rhein & Drosselgasse",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_47",
+      "id": "fra_f_47",
       "name": "Burg Eltz",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2327,10 +2419,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Burg Eltz"
+      "name_local": "Burg Eltz",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_48",
+      "id": "fra_f_48",
       "name": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2377,10 +2471,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Mainz: Dom St. Martin & Gutenberg-Museum"
+      "name_local": "Mainz: Dom St. Martin & Gutenberg-Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_49",
+      "id": "fra_f_49",
       "name": "Wiesbaden: Kurhaus & Nerobergbahn",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2428,10 +2524,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Wiesbaden: Kurhaus & Nerobergbahn"
+      "name_local": "Wiesbaden: Kurhaus & Nerobergbahn",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "f_50",
+      "id": "fra_f_50",
       "name": "Kaiserpfalz Ingelheim",
       "category": "Landmark",
       "rating": "★4.5",
@@ -2477,7 +2575,9 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kaiserpfalz Ingelheim"
+      "name_local": "Kaiserpfalz Ingelheim",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 50

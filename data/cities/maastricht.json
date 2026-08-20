@@ -1,6 +1,6 @@
 [
   {
-    "id": "ma_1",
+    "id": "mst_ma_1",
     "name": "Vrijthof Square",
     "category": "Landmark",
     "rating": "★4.7",
@@ -50,10 +50,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Vrijthof Square"
+    "name_local": "Vrijthof Square",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "ma_2",
+    "id": "mst_ma_2",
     "name": "Sint-Servaaskerk & Schatkamer",
     "category": "Landmark",
     "rating": "★4.7",
@@ -101,10 +103,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Servaaskerk & Schatkamer"
+    "name_local": "Sint-Servaaskerk & Schatkamer",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "ma_3",
+    "id": "mst_ma_3",
     "name": "Boekhandel Dominicanen",
     "category": "Landmark",
     "rating": "★4.7",
@@ -153,10 +157,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Boekhandel Dominicanen"
+    "name_local": "Boekhandel Dominicanen",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "ma_4",
+    "id": "mst_ma_4",
     "name": "Helpoort",
     "category": "Landmark",
     "rating": "★4.7",
@@ -204,10 +210,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Helpoort"
+    "name_local": "Helpoort",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "ma_5",
+    "id": "mst_ma_5",
     "name": "St. Servaasbrug",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -255,10 +263,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "St. Servaasbrug"
+    "name_local": "St. Servaasbrug",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "ma_6",
+    "id": "mst_ma_6",
     "name": "Onze-Lieve-Vrouwebasiliek",
     "category": "Landmark",
     "rating": "★4.7",
@@ -306,10 +316,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Onze-Lieve-Vrouwebasiliek"
+    "name_local": "Onze-Lieve-Vrouwebasiliek",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "ma_7",
+    "id": "mst_ma_7",
     "name": "Grotten van Sint Pietersberg",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -358,10 +370,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "Grotten van Sint Pietersberg"
+    "name_local": "Grotten van Sint Pietersberg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_8",
+    "id": "mst_ma_8",
     "name": "Stadspark Maastricht & Jekerkwartier",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -413,10 +427,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Stadspark Maastricht & Jekerkwartier"
+    "name_local": "Stadspark Maastricht & Jekerkwartier",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "ma_9",
+    "id": "mst_ma_9",
     "name": "Bonnefantenmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -464,10 +480,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Bonnefantenmuseum"
+    "name_local": "Bonnefantenmuseum",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_10",
+    "id": "mst_ma_10",
     "name": "Bisschopsmolen",
     "category": "Café & Bistro",
     "rating": "★4.7",
@@ -516,10 +534,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Bisschopsmolen"
+    "name_local": "Bisschopsmolen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_11",
+    "id": "mst_ma_11",
     "name": "Fort Sint Pieter",
     "category": "Landmark",
     "rating": "★4.7",
@@ -567,10 +587,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Fort Sint Pieter"
+    "name_local": "Fort Sint Pieter",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_12",
+    "id": "mst_ma_12",
     "name": "Stadhuis Maastricht & Markt",
     "category": "Landmark",
     "rating": "★4.7",
@@ -619,10 +641,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Stadhuis Maastricht & Markt"
+    "name_local": "Stadhuis Maastricht & Markt",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_13",
+    "id": "mst_ma_13",
     "name": "Sint-Janskerk",
     "category": "Landmark",
     "rating": "★4.7",
@@ -670,10 +694,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Sint-Janskerk"
+    "name_local": "Sint-Janskerk",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "ma_14",
+    "id": "mst_ma_14",
     "name": "Natuurhistorisch Museum Maastricht",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -721,10 +747,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Natuurhistorisch Museum Maastricht"
+    "name_local": "Natuurhistorisch Museum Maastricht",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_15",
+    "id": "mst_ma_15",
     "name": "Château Neercanne",
     "category": "Landmark",
     "rating": "★4.7",
@@ -775,10 +803,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Château Neercanne"
+    "name_local": "Château Neercanne",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "ma_16",
+    "id": "mst_ma_16",
     "name": "Kasteel Hoeve Lichtenberg",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -827,10 +857,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Kasteel Hoeve Lichtenberg"
+    "name_local": "Kasteel Hoeve Lichtenberg",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "ma_17",
+    "id": "mst_ma_17",
     "name": "Kazematten Maastricht",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -879,10 +911,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Kazematten Maastricht"
+    "name_local": "Kazematten Maastricht",
+    "top7": false,
+    "hiddenGem": true
   },
   {
-    "id": "ma_18",
+    "id": "mst_ma_18",
     "name": "Stokstraatkwartier",
     "category": "Shopping",
     "rating": "★4.7",
@@ -932,10 +966,12 @@
       "Shopping"
     ],
     "is_night_spot": true,
-    "name_local": "Stokstraatkwartier"
+    "name_local": "Stokstraatkwartier",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_19",
+    "id": "mst_ma_19",
     "name": "Maastricht University & Tongersestraat",
     "category": "Landmark",
     "rating": "★4.7",
@@ -983,10 +1019,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Maastricht University & Tongersestraat"
+    "name_local": "Maastricht University & Tongersestraat",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_20",
+    "id": "mst_ma_20",
     "name": "Wyck Quarter & Rechtstraat",
     "category": "Shopping",
     "rating": "★4.7",
@@ -1035,10 +1073,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Wyck Quarter & Rechtstraat"
+    "name_local": "Wyck Quarter & Rechtstraat",
+    "top7": true,
+    "hiddenGem": false
   },
   {
-    "id": "ma_21",
+    "id": "mst_ma_21",
     "name": "Plein 1992 & Centre Céramique",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1087,10 +1127,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Plein 1992 & Centre Céramique"
+    "name_local": "Plein 1992 & Centre Céramique",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_22",
+    "id": "mst_ma_22",
     "name": "Maasboulevard & Rederij Stiphout",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1140,10 +1182,12 @@
       "Scenery"
     ],
     "is_night_spot": true,
-    "name_local": "Maasboulevard & Rederij Stiphout"
+    "name_local": "Maasboulevard & Rederij Stiphout",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_23",
+    "id": "mst_ma_23",
     "name": "Jekerdal & Slavante",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1192,10 +1236,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Jekerdal & Slavante"
+    "name_local": "Jekerdal & Slavante",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_24",
+    "id": "mst_ma_24",
     "name": "Apostelhoeve Wijngoed",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1243,10 +1289,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Apostelhoeve Wijngoed"
+    "name_local": "Apostelhoeve Wijngoed",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_25",
+    "id": "mst_ma_25",
     "name": "Dominicanerkerk Organ & Canopy Cafe",
     "category": "Café & Bistro",
     "rating": "★4.7",
@@ -1295,10 +1343,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Dominicanerkerk Organ & Canopy Cafe"
+    "name_local": "Dominicanerkerk Organ & Canopy Cafe",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_26",
+    "id": "mst_ma_26",
     "name": "Dinghuis & VVV Maastricht",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1347,10 +1397,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Dinghuis & VVV Maastricht"
+    "name_local": "Dinghuis & VVV Maastricht",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_27",
+    "id": "mst_ma_27",
     "name": "Museum Aan het Vrijthof",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1399,10 +1451,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Museum Aan het Vrijthof"
+    "name_local": "Museum Aan het Vrijthof",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_28",
+    "id": "mst_ma_28",
     "name": "Kleine Looiersstraat & Jeker Canal",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1450,10 +1504,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Kleine Looiersstraat & Jeker Canal"
+    "name_local": "Kleine Looiersstraat & Jeker Canal",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_29",
+    "id": "mst_ma_29",
     "name": "Buitenplaats Vaeshartelt",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1503,10 +1559,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Buitenplaats Vaeshartelt"
+    "name_local": "Buitenplaats Vaeshartelt",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_30",
+    "id": "mst_ma_30",
     "name": "Drielandenpunt Vaals",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1554,10 +1612,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Drielandenpunt Vaals"
+    "name_local": "Drielandenpunt Vaals",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_31",
+    "id": "mst_ma_31",
     "name": "Historisch Valkenburg aan de Geul",
     "category": "Scenery & Walk",
     "rating": "★4.7",
@@ -1607,10 +1667,12 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Historisch Valkenburg aan de Geul"
+    "name_local": "Historisch Valkenburg aan de Geul",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_32",
+    "id": "mst_ma_32",
     "name": "Kasteelruïne Valkenburg",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1658,10 +1720,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Kasteelruïne Valkenburg"
+    "name_local": "Kasteelruïne Valkenburg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_33",
+    "id": "mst_ma_33",
     "name": "Fluweelengrot Valkenburg",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1710,10 +1774,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Fluweelengrot Valkenburg"
+    "name_local": "Fluweelengrot Valkenburg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_34",
+    "id": "mst_ma_34",
     "name": "Thermae 2000 Valkenburg",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1761,10 +1827,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Thermae 2000 Valkenburg"
+    "name_local": "Thermae 2000 Valkenburg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_35",
+    "id": "mst_ma_35",
     "name": "MergelRijk Valkenburg",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1814,10 +1882,12 @@
       "Night"
     ],
     "is_night_spot": true,
-    "name_local": "MergelRijk Valkenburg"
+    "name_local": "MergelRijk Valkenburg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_36",
+    "id": "mst_ma_36",
     "name": "Steenkolenmijn Valkenburg",
     "category": "Museum & Gallery",
     "rating": "★4.7",
@@ -1865,10 +1935,12 @@
       "Museum"
     ],
     "is_night_spot": false,
-    "name_local": "Steenkolenmijn Valkenburg"
+    "name_local": "Steenkolenmijn Valkenburg",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_37",
+    "id": "mst_ma_37",
     "name": "Kasteel Elsloo & Botanische Heemtuin",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1918,10 +1990,12 @@
       "Scenery"
     ],
     "is_night_spot": false,
-    "name_local": "Kasteel Elsloo & Botanische Heemtuin"
+    "name_local": "Kasteel Elsloo & Botanische Heemtuin",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_38",
+    "id": "mst_ma_38",
     "name": "Basiliek van het H. Sacrament Meerssen",
     "category": "Landmark",
     "rating": "★4.7",
@@ -1969,10 +2043,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Basiliek van het H. Sacrament Meerssen"
+    "name_local": "Basiliek van het H. Sacrament Meerssen",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_39",
+    "id": "mst_ma_39",
     "name": "Kasteel Hoensbroek",
     "category": "Landmark",
     "rating": "★4.7",
@@ -2020,10 +2096,12 @@
       "Landmark"
     ],
     "is_night_spot": false,
-    "name_local": "Kasteel Hoensbroek"
+    "name_local": "Kasteel Hoensbroek",
+    "top7": false,
+    "hiddenGem": false
   },
   {
-    "id": "ma_40",
+    "id": "mst_ma_40",
     "name": "Historisch Roermond & Designer Outlet",
     "category": "Shopping",
     "rating": "★4.7",
@@ -2072,6 +2150,8 @@
       "Shopping"
     ],
     "is_night_spot": false,
-    "name_local": "Historisch Roermond & Designer Outlet"
+    "name_local": "Historisch Roermond & Designer Outlet",
+    "top7": false,
+    "hiddenGem": false
   }
 ]

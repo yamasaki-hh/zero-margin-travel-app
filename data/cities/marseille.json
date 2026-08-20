@@ -3,7 +3,7 @@
   "spotCount": 43,
   "spots": [
     {
-      "id": "ma_1",
+      "id": "mrs_ma_1",
       "name": "Basilique Notre-Dame de la Garde",
       "category": "Landmark",
       "rating": "★4.8",
@@ -54,10 +54,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Basilique Notre-Dame de la Garde"
+      "name_local": "Basilique Notre-Dame de la Garde",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ma_2",
+      "id": "mrs_ma_2",
       "name": "Vieux-Port de Marseille & Ombrière",
       "category": "Landmark",
       "rating": "★4.7",
@@ -109,10 +111,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Vieux-Port de Marseille & Ombrière"
+      "name_local": "Vieux-Port de Marseille & Ombrière",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ma_3",
+      "id": "mrs_ma_3",
       "name": "Cathédrale de la Major",
       "category": "Landmark",
       "rating": "★4.7",
@@ -163,10 +167,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Cathédrale de la Major"
+      "name_local": "Cathédrale de la Major",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ma_4",
+      "id": "mrs_ma_4",
       "name": "Fort Saint-Jean",
       "category": "Landmark",
       "rating": "★4.7",
@@ -217,10 +223,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Fort Saint-Jean"
+      "name_local": "Fort Saint-Jean",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ma_5",
+      "id": "mrs_ma_5",
       "name": "Fort Saint-Nicolas",
       "category": "Landmark",
       "rating": "★4.6",
@@ -271,10 +279,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Fort Saint-Nicolas"
+      "name_local": "Fort Saint-Nicolas",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ma_6",
+      "id": "mrs_ma_6",
       "name": "Palais Longchamp",
       "category": "Landmark",
       "rating": "★4.7",
@@ -326,10 +336,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Palais Longchamp"
+      "name_local": "Palais Longchamp",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_7",
+      "id": "mrs_ma_7",
       "name": "Cité Radieuse Le Corbusier",
       "category": "Landmark",
       "rating": "★4.6",
@@ -382,10 +394,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Cité Radieuse Le Corbusier"
+      "name_local": "Cité Radieuse Le Corbusier",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_8",
+      "id": "mrs_ma_8",
       "name": "Abbaye Saint-Victor",
       "category": "Landmark",
       "rating": "★4.6",
@@ -436,10 +450,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Abbaye Saint-Victor"
+      "name_local": "Abbaye Saint-Victor",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_9",
+      "id": "mrs_ma_9",
       "name": "Orange Vélodrome Stadium",
       "category": "Landmark",
       "rating": "★4.7",
@@ -490,10 +506,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Orange Vélodrome Stadium"
+      "name_local": "Orange Vélodrome Stadium",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_10",
+      "id": "mrs_ma_10",
       "name": "Château d'If",
       "category": "Landmark",
       "rating": "★4.7",
@@ -544,10 +562,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Château d'If"
+      "name_local": "Château d'If",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ma_11",
+      "id": "mrs_ma_11",
       "name": "Château de la Buzine",
       "category": "Landmark",
       "rating": "★4.6",
@@ -598,10 +618,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Château de la Buzine"
+      "name_local": "Château de la Buzine",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_12",
+      "id": "mrs_ma_12",
       "name": "MuCEM",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -653,10 +675,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "MuCEM"
+      "name_local": "MuCEM",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_13",
+      "id": "mrs_ma_13",
       "name": "Grotte Cosquer",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -707,10 +731,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Grotte Cosquer"
+      "name_local": "Grotte Cosquer",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ma_14",
+      "id": "mrs_ma_14",
       "name": "Musée d'Histoire de Marseille & Jardin des Vestiges",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -762,10 +788,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Musée d'Histoire de Marseille & Jardin des Vestiges"
+      "name_local": "Musée d'Histoire de Marseille & Jardin des Vestiges",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ma_15",
+      "id": "mrs_ma_15",
       "name": "Musée des Beaux-Arts de Marseille",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -816,10 +844,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée des Beaux-Arts de Marseille"
+      "name_local": "Musée des Beaux-Arts de Marseille",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ma_16",
+      "id": "mrs_ma_16",
       "name": "Musée Cantini",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -870,10 +900,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée Cantini"
+      "name_local": "Musée Cantini",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_17",
+      "id": "mrs_ma_17",
       "name": "MAC",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -924,10 +956,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "MAC"
+      "name_local": "MAC",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_18",
+      "id": "mrs_ma_18",
       "name": "Muséum d'Histoire Naturelle de Marseille",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -980,10 +1014,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Muséum d'Histoire Naturelle de Marseille"
+      "name_local": "Muséum d'Histoire Naturelle de Marseille",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_19",
+      "id": "mrs_ma_19",
       "name": "Friche la Belle de Mai",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1037,10 +1073,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Friche la Belle de Mai"
+      "name_local": "Friche la Belle de Mai",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_20",
+      "id": "mrs_ma_20",
       "name": "Musée de la Faïence",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1091,10 +1129,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Musée de la Faïence"
+      "name_local": "Musée de la Faïence",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_21",
+      "id": "mrs_ma_21",
       "name": "Chez Fonfon",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1145,10 +1185,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Chez Fonfon"
+      "name_local": "Chez Fonfon",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ma_22",
+      "id": "mrs_ma_22",
       "name": "Le Miramar",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1200,10 +1242,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Le Miramar"
+      "name_local": "Le Miramar",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "ma_23",
+      "id": "mrs_ma_23",
       "name": "Marché aux Poissons du Vieux-Port",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1255,10 +1299,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Marché aux Poissons du Vieux-Port"
+      "name_local": "Marché aux Poissons du Vieux-Port",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_24",
+      "id": "mrs_ma_24",
       "name": "Marché de Noailles",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1311,10 +1357,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Marché de Noailles"
+      "name_local": "Marché de Noailles",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_25",
+      "id": "mrs_ma_25",
       "name": "Four des Navettes",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1366,10 +1414,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Four des Navettes"
+      "name_local": "Four des Navettes",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_26",
+      "id": "mrs_ma_26",
       "name": "La Samaritaine & Café de la Banque",
       "category": "Café & Bistro",
       "rating": "★4.5",
@@ -1422,10 +1472,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "La Samaritaine & Café de la Banque"
+      "name_local": "La Samaritaine & Café de la Banque",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_27",
+      "id": "mrs_ma_27",
       "name": "Maison de la Boule & Savonneries Marseillaises",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1478,10 +1530,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Maison de la Boule & Savonneries Marseillaises"
+      "name_local": "Maison de la Boule & Savonneries Marseillaises",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_28",
+      "id": "mrs_ma_28",
       "name": "L'Épuisette",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1533,10 +1587,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "L'Épuisette"
+      "name_local": "L'Épuisette",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_29",
+      "id": "mrs_ma_29",
       "name": "Le Panier",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1587,10 +1643,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Le Panier"
+      "name_local": "Le Panier",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_30",
+      "id": "mrs_ma_30",
       "name": "Vallon des Auffes",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1641,10 +1699,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Vallon des Auffes"
+      "name_local": "Vallon des Auffes",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_31",
+      "id": "mrs_ma_31",
       "name": "Corniche du Président John F. Kennedy",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1696,10 +1756,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Corniche du Président John F. Kennedy"
+      "name_local": "Corniche du Président John F. Kennedy",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_32",
+      "id": "mrs_ma_32",
       "name": "Cours Julien",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1752,10 +1814,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Cours Julien"
+      "name_local": "Cours Julien",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_33",
+      "id": "mrs_ma_33",
       "name": "Vieille Charité",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1807,10 +1871,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Vieille Charité"
+      "name_local": "Vieille Charité",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_34",
+      "id": "mrs_ma_34",
       "name": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1863,10 +1929,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves"
+      "name_local": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "ma_35",
+      "id": "mrs_ma_35",
       "name": "Parc National des Calanques",
       "category": "Scenery & Walk",
       "rating": "★4.9",
@@ -1919,10 +1987,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Parc National des Calanques"
+      "name_local": "Parc National des Calanques",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_36",
+      "id": "mrs_ma_36",
       "name": "Îles du Frioul",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1973,10 +2043,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Îles du Frioul"
+      "name_local": "Îles du Frioul",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_37",
+      "id": "mrs_ma_37",
       "name": "Les Goudes & Cap Croisette",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2027,10 +2099,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Les Goudes & Cap Croisette"
+      "name_local": "Les Goudes & Cap Croisette",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_38",
+      "id": "mrs_ma_38",
       "name": "Parc Borély & Jardin Botanique",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -2083,10 +2157,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Parc Borély & Jardin Botanique"
+      "name_local": "Parc Borély & Jardin Botanique",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_39",
+      "id": "mrs_ma_39",
       "name": "Le Petit Train de Marseille",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2138,10 +2214,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Le Petit Train de Marseille"
+      "name_local": "Le Petit Train de Marseille",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_40",
+      "id": "mrs_ma_40",
       "name": "Croisières du Vieux-Port",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2194,10 +2272,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Croisières du Vieux-Port"
+      "name_local": "Croisières du Vieux-Port",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_41",
+      "id": "mrs_ma_41",
       "name": "Plage du Prado & Park",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2249,10 +2329,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Plage du Prado & Park"
+      "name_local": "Plage du Prado & Park",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_42",
+      "id": "mrs_ma_42",
       "name": "Magic Park Land",
       "category": "Kids & Family",
       "rating": "★4.5",
@@ -2304,10 +2386,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Magic Park Land"
+      "name_local": "Magic Park Land",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "ma_43",
+      "id": "mrs_ma_43",
       "name": "Parc de Figuerolles",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -2360,7 +2444,9 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Parc de Figuerolles"
+      "name_local": "Parc de Figuerolles",
+      "top7": false,
+      "hiddenGem": false
     }
   ]
 }

@@ -4,7 +4,7 @@
   "flag": "🇩🇪",
   "spots": [
     {
-      "id": "hd_1",
+      "id": "hdb_hd_1",
       "name": "Heidelberger Schloss",
       "category": "Landmark",
       "rating": "★4.8",
@@ -52,10 +52,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Heidelberger Schloss"
+      "name_local": "Heidelberger Schloss",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "hd_2",
+      "id": "hdb_hd_2",
       "name": "Großes Fass",
       "category": "Landmark",
       "rating": "★4.6",
@@ -103,10 +105,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Großes Fass"
+      "name_local": "Großes Fass",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "hd_3",
+      "id": "hdb_hd_3",
       "name": "Deutsches Apotheken-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -155,10 +159,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Deutsches Apotheken-Museum"
+      "name_local": "Deutsches Apotheken-Museum",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "hd_4",
+      "id": "hdb_hd_4",
       "name": "Schlossgarten",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -205,10 +211,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Schlossgarten"
+      "name_local": "Schlossgarten",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "hd_5",
+      "id": "hdb_hd_5",
       "name": "Alte Brücke",
       "category": "Landmark",
       "rating": "★4.8",
@@ -256,10 +264,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Alte Brücke"
+      "name_local": "Alte Brücke",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "hd_6",
+      "id": "hdb_hd_6",
       "name": "Brückenaffe",
       "category": "Landmark",
       "rating": "★4.6",
@@ -305,10 +315,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Brückenaffe"
+      "name_local": "Brückenaffe",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_7",
+      "id": "hdb_hd_7",
       "name": "Philosophenweg",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -356,10 +368,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Philosophenweg"
+      "name_local": "Philosophenweg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_8",
+      "id": "hdb_hd_8",
       "name": "Heiliggeistkirche",
       "category": "Landmark",
       "rating": "★4.7",
@@ -408,10 +422,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Heiliggeistkirche"
+      "name_local": "Heiliggeistkirche",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_9",
+      "id": "hdb_hd_9",
       "name": "Hauptstraße Heidelberg",
       "category": "Shopping",
       "rating": "★4.7",
@@ -461,10 +477,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Hauptstraße Heidelberg"
+      "name_local": "Hauptstraße Heidelberg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "hd_10",
+      "id": "hdb_hd_10",
       "name": "Marktplatz & Herkulesbrunnen",
       "category": "Landmark",
       "rating": "★4.6",
@@ -513,10 +531,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Marktplatz & Herkulesbrunnen"
+      "name_local": "Marktplatz & Herkulesbrunnen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_11",
+      "id": "hdb_hd_11",
       "name": "Kornmarkt & Madonnenstatue",
       "category": "Landmark",
       "rating": "★4.7",
@@ -565,10 +585,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Kornmarkt & Madonnenstatue"
+      "name_local": "Kornmarkt & Madonnenstatue",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "hd_12",
+      "id": "hdb_hd_12",
       "name": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg",
       "category": "Landmark",
       "rating": "★4.6",
@@ -614,10 +636,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg"
+      "name_local": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_13",
+      "id": "hdb_hd_13",
       "name": "Studentenkarzer & Alte Aula",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -663,10 +687,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Studentenkarzer & Alte Aula"
+      "name_local": "Studentenkarzer & Alte Aula",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_14",
+      "id": "hdb_hd_14",
       "name": "Universitätsbibliothek Heidelberg",
       "category": "Landmark",
       "rating": "★4.7",
@@ -714,10 +740,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Universitätsbibliothek Heidelberg"
+      "name_local": "Universitätsbibliothek Heidelberg",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "hd_15",
+      "id": "hdb_hd_15",
       "name": "Haus zum Ritter St. Georg",
       "category": "Landmark",
       "rating": "★4.7",
@@ -764,10 +792,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Haus zum Ritter St. Georg"
+      "name_local": "Haus zum Ritter St. Georg",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "hd_16",
+      "id": "hdb_hd_16",
       "name": "Heidelberger Bergbahn",
       "category": "Landmark",
       "rating": "★4.8",
@@ -815,10 +845,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Heidelberger Bergbahn"
+      "name_local": "Heidelberger Bergbahn",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "hd_17",
+      "id": "hdb_hd_17",
       "name": "Königstuhl",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -866,10 +898,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Königstuhl"
+      "name_local": "Königstuhl",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_18",
+      "id": "hdb_hd_18",
       "name": "Märchenparadies Königstuhl",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -918,10 +952,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Märchenparadies Königstuhl"
+      "name_local": "Märchenparadies Königstuhl",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_19",
+      "id": "hdb_hd_19",
       "name": "Kurpfälzisches Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -970,10 +1006,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Kurpfälzisches Museum"
+      "name_local": "Kurpfälzisches Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_20",
+      "id": "hdb_hd_20",
       "name": "Tinnunculus Falknerei",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -1019,10 +1057,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Tinnunculus Falknerei"
+      "name_local": "Tinnunculus Falknerei",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_21",
+      "id": "hdb_hd_21",
       "name": "Zoo Heidelberg",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -1071,10 +1111,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Zoo Heidelberg"
+      "name_local": "Zoo Heidelberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_22",
+      "id": "hdb_hd_22",
       "name": "Botanischer Garten der Universität Heidelberg",
       "category": "Scenery & Walk",
       "rating": "★4.6",
@@ -1122,10 +1164,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Botanischer Garten der Universität Heidelberg"
+      "name_local": "Botanischer Garten der Universität Heidelberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_23",
+      "id": "hdb_hd_23",
       "name": "Neckarwiese",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -1175,10 +1219,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Neckarwiese"
+      "name_local": "Neckarwiese",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_24",
+      "id": "hdb_hd_24",
       "name": "Thingstätte & Michaelskloster",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1224,10 +1270,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Thingstätte & Michaelskloster"
+      "name_local": "Thingstätte & Michaelskloster",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_25",
+      "id": "hdb_hd_25",
       "name": "Neckar-Schifffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1275,10 +1323,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Neckar-Schifffahrt"
+      "name_local": "Neckar-Schifffahrt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_26",
+      "id": "hdb_hd_26",
       "name": "Kulturbrauerei Heidelberg",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1325,10 +1375,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Kulturbrauerei Heidelberg"
+      "name_local": "Kulturbrauerei Heidelberg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "hd_27",
+      "id": "hdb_hd_27",
       "name": "Brauhaus Vetter",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1375,10 +1427,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Brauhaus Vetter"
+      "name_local": "Brauhaus Vetter",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "hd_28",
+      "id": "hdb_hd_28",
       "name": "Café Knösel & Heidelberger Studentenkuß",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -1426,10 +1480,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Café Knösel & Heidelberger Studentenkuß"
+      "name_local": "Café Knösel & Heidelberger Studentenkuß",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_29",
+      "id": "hdb_hd_29",
       "name": "Café Schafheutle",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1477,10 +1533,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Café Schafheutle"
+      "name_local": "Café Schafheutle",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_30",
+      "id": "hdb_hd_30",
       "name": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1528,10 +1586,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma"
+      "name_local": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_31",
+      "id": "hdb_hd_31",
       "name": "Sammlung Prinzhorn",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -1579,10 +1639,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Sammlung Prinzhorn"
+      "name_local": "Sammlung Prinzhorn",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_32",
+      "id": "hdb_hd_32",
       "name": "Körperwelten Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1630,10 +1692,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Körperwelten Museum"
+      "name_local": "Körperwelten Museum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_33",
+      "id": "hdb_hd_33",
       "name": "Exploratorium Heidelberg",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -1680,10 +1744,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Exploratorium Heidelberg"
+      "name_local": "Exploratorium Heidelberg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_34",
+      "id": "hdb_hd_34",
       "name": "Bahnstadt & Halle02",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1732,10 +1798,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Bahnstadt & Halle02"
+      "name_local": "Bahnstadt & Halle02",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_35",
+      "id": "hdb_hd_35",
       "name": "Plöck & Untere Straße",
       "category": "Shopping",
       "rating": "★4.7",
@@ -1784,10 +1852,12 @@
         "Shopping"
       ],
       "is_night_spot": true,
-      "name_local": "Plöck & Untere Straße"
+      "name_local": "Plöck & Untere Straße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_36",
+      "id": "hdb_hd_36",
       "name": "Schloss Schwetzingen & Schlossgarten",
       "category": "Landmark",
       "rating": "★4.9",
@@ -1838,10 +1908,12 @@
         "Scenery"
       ],
       "is_night_spot": true,
-      "name_local": "Schloss Schwetzingen & Schlossgarten"
+      "name_local": "Schloss Schwetzingen & Schlossgarten",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_37",
+      "id": "hdb_hd_37",
       "name": "Speyerer Dom",
       "category": "Landmark",
       "rating": "★4.9",
@@ -1889,10 +1961,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Speyerer Dom"
+      "name_local": "Speyerer Dom",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_38",
+      "id": "hdb_hd_38",
       "name": "Technik Museum Speyer",
       "category": "Museum & Gallery",
       "rating": "★4.9",
@@ -1940,10 +2014,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Technik Museum Speyer"
+      "name_local": "Technik Museum Speyer",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_39",
+      "id": "hdb_hd_39",
       "name": "Technik Museum Sinsheim",
       "category": "Museum & Gallery",
       "rating": "★4.9",
@@ -1991,10 +2067,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Technik Museum Sinsheim"
+      "name_local": "Technik Museum Sinsheim",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_40",
+      "id": "hdb_hd_40",
       "name": "Barockschloss Mannheim",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2044,10 +2122,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Barockschloss Mannheim"
+      "name_local": "Barockschloss Mannheim",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_41",
+      "id": "hdb_hd_41",
       "name": "Wasserturm & Friedrichsplatz",
       "category": "Landmark",
       "rating": "★4.8",
@@ -2094,10 +2174,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Wasserturm & Friedrichsplatz"
+      "name_local": "Wasserturm & Friedrichsplatz",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "hd_42",
+      "id": "hdb_hd_42",
       "name": "Luisenpark Mannheim",
       "category": "Kids & Family",
       "rating": "★4.8",
@@ -2146,7 +2228,9 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Luisenpark Mannheim"
+      "name_local": "Luisenpark Mannheim",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 42

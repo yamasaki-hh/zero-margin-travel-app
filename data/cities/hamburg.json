@@ -2,7 +2,7 @@
   "cityName": "Hamburg, Germany",
   "spots": [
     {
-      "id": "h_1",
+      "id": "ham_h_1",
       "name": "Miniatur Wunderland",
       "category": "Kids & Family",
       "rating": "★4.9",
@@ -49,10 +49,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Miniatur Wunderland"
+      "name_local": "Miniatur Wunderland",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "h_2",
+      "id": "ham_h_2",
       "name": "Elbphilharmonie Hamburg",
       "category": "Landmark",
       "rating": "★4.8",
@@ -100,10 +102,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Elbphilharmonie Hamburg"
+      "name_local": "Elbphilharmonie Hamburg",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "h_3",
+      "id": "ham_h_3",
       "name": "Speicherstadt",
       "category": "Landmark",
       "rating": "★4.8",
@@ -149,10 +153,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Speicherstadt"
+      "name_local": "Speicherstadt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "h_4",
+      "id": "ham_h_4",
       "name": "Kontorhausviertel & Chilehaus",
       "category": "Landmark",
       "rating": "★4.7",
@@ -198,10 +204,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Kontorhausviertel & Chilehaus"
+      "name_local": "Kontorhausviertel & Chilehaus",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "h_5",
+      "id": "ham_h_5",
       "name": "Hamburger Rathaus & Rathausmarkt",
       "category": "Landmark",
       "rating": "★4.8",
@@ -247,10 +255,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Hamburger Rathaus & Rathausmarkt"
+      "name_local": "Hamburger Rathaus & Rathausmarkt",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "h_6",
+      "id": "ham_h_6",
       "name": "Hauptkirche St. Michaelis",
       "category": "Landmark",
       "rating": "★4.7",
@@ -297,10 +307,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Hauptkirche St. Michaelis"
+      "name_local": "Hauptkirche St. Michaelis",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_7",
+      "id": "ham_h_7",
       "name": "Hamburger Hafen & Landungsbrücken",
       "category": "Landmark",
       "rating": "★4.7",
@@ -347,10 +359,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Hamburger Hafen & Landungsbrücken"
+      "name_local": "Hamburger Hafen & Landungsbrücken",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_8",
+      "id": "ham_h_8",
       "name": "Alter Elbtunnel",
       "category": "Landmark",
       "rating": "★4.7",
@@ -396,10 +410,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Alter Elbtunnel"
+      "name_local": "Alter Elbtunnel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_9",
+      "id": "ham_h_9",
       "name": "HafenCity",
       "category": "Landmark",
       "rating": "★4.6",
@@ -445,10 +461,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "HafenCity"
+      "name_local": "HafenCity",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_10",
+      "id": "ham_h_10",
       "name": "Binnenalster & Außenalster",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -494,10 +512,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Binnenalster & Außenalster"
+      "name_local": "Binnenalster & Außenalster",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "h_11",
+      "id": "ham_h_11",
       "name": "Hamburger Kunsthalle",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -543,10 +563,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Hamburger Kunsthalle"
+      "name_local": "Hamburger Kunsthalle",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_12",
+      "id": "ham_h_12",
       "name": "Internationales Maritimes Museum Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -592,10 +614,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Internationales Maritimes Museum Hamburg"
+      "name_local": "Internationales Maritimes Museum Hamburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_13",
+      "id": "ham_h_13",
       "name": "Museum für Kunst und Gewerbe Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -641,10 +665,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museum für Kunst und Gewerbe Hamburg"
+      "name_local": "Museum für Kunst und Gewerbe Hamburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_14",
+      "id": "ham_h_14",
       "name": "Deichtorhallen Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -691,10 +717,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Deichtorhallen Hamburg"
+      "name_local": "Deichtorhallen Hamburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_15",
+      "id": "ham_h_15",
       "name": "Cap San Diego",
       "category": "Landmark",
       "rating": "★4.7",
@@ -741,10 +769,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Cap San Diego"
+      "name_local": "Cap San Diego",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_16",
+      "id": "ham_h_16",
       "name": "Rickmer Rickmers",
       "category": "Landmark",
       "rating": "★4.6",
@@ -792,10 +822,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Rickmer Rickmers"
+      "name_local": "Rickmer Rickmers",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "h_17",
+      "id": "ham_h_17",
       "name": "Submarine Museum U-434",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -841,10 +873,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Submarine Museum U-434"
+      "name_local": "Submarine Museum U-434",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "h_18",
+      "id": "ham_h_18",
       "name": "St. Nikolai Memorial",
       "category": "Landmark",
       "rating": "★4.6",
@@ -890,10 +924,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "St. Nikolai Memorial"
+      "name_local": "St. Nikolai Memorial",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "h_19",
+      "id": "ham_h_19",
       "name": "Planten un Blomen",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -940,10 +976,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Planten un Blomen"
+      "name_local": "Planten un Blomen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_20",
+      "id": "ham_h_20",
       "name": "Tierpark Hagenbeck & Tropen-Aquarium",
       "category": "Kids & Family",
       "rating": "★4.7",
@@ -990,10 +1028,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Tierpark Hagenbeck & Tropen-Aquarium"
+      "name_local": "Tierpark Hagenbeck & Tropen-Aquarium",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_21",
+      "id": "ham_h_21",
       "name": "Fischmarkt",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1040,10 +1080,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Fischmarkt"
+      "name_local": "Fischmarkt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_22",
+      "id": "ham_h_22",
       "name": "Reeperbahn & St. Pauli",
       "category": "Landmark",
       "rating": "★4.5",
@@ -1091,10 +1133,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Reeperbahn & St. Pauli"
+      "name_local": "Reeperbahn & St. Pauli",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_23",
+      "id": "ham_h_23",
       "name": "Beatles-Platz & Indra Club / Kaiserkeller",
       "category": "Landmark",
       "rating": "★4.6",
@@ -1140,10 +1184,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Beatles-Platz & Indra Club / Kaiserkeller"
+      "name_local": "Beatles-Platz & Indra Club / Kaiserkeller",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_24",
+      "id": "ham_h_24",
       "name": "Jungfernstieg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1189,10 +1235,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Jungfernstieg"
+      "name_local": "Jungfernstieg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_25",
+      "id": "ham_h_25",
       "name": "Alsterarkaden",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1240,10 +1288,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Alsterarkaden"
+      "name_local": "Alsterarkaden",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "h_26",
+      "id": "ham_h_26",
       "name": "Mönckebergstraße & Spitalerstraße",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1290,10 +1340,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Mönckebergstraße & Spitalerstraße"
+      "name_local": "Mönckebergstraße & Spitalerstraße",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_27",
+      "id": "ham_h_27",
       "name": "Neuer Wall & Große Bleichen",
       "category": "Shopping",
       "rating": "★4.7",
@@ -1340,10 +1392,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Neuer Wall & Große Bleichen"
+      "name_local": "Neuer Wall & Große Bleichen",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_28",
+      "id": "ham_h_28",
       "name": "Hanse-Viertel & Europa Passage",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1389,10 +1443,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Hanse-Viertel & Europa Passage"
+      "name_local": "Hanse-Viertel & Europa Passage",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_29",
+      "id": "ham_h_29",
       "name": "Sternschanze",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -1439,10 +1495,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Sternschanze"
+      "name_local": "Sternschanze",
+      "top7": true,
+      "hiddenGem": false
     },
     {
-      "id": "h_30",
+      "id": "ham_h_30",
       "name": "Karolinenviertel",
       "category": "Shopping",
       "rating": "★4.6",
@@ -1489,10 +1547,12 @@
         "Shopping"
       ],
       "is_night_spot": false,
-      "name_local": "Karolinenviertel"
+      "name_local": "Karolinenviertel",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_31",
+      "id": "ham_h_31",
       "name": "Museum der Natur - Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1540,10 +1600,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Museum der Natur - Hamburg"
+      "name_local": "Museum der Natur - Hamburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_32",
+      "id": "ham_h_32",
       "name": "Hamburg Dungeon",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -1589,10 +1651,12 @@
         "Kids"
       ],
       "is_night_spot": false,
-      "name_local": "Hamburg Dungeon"
+      "name_local": "Hamburg Dungeon",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_33",
+      "id": "ham_h_33",
       "name": "Dialog im Dunkeln",
       "category": "Museum & Gallery",
       "rating": "★4.8",
@@ -1638,10 +1702,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Dialog im Dunkeln"
+      "name_local": "Dialog im Dunkeln",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_34",
+      "id": "ham_h_34",
       "name": "Chocoversum by Hachez",
       "category": "Museum & Gallery",
       "rating": "★4.7",
@@ -1688,10 +1754,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Chocoversum by Hachez"
+      "name_local": "Chocoversum by Hachez",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_35",
+      "id": "ham_h_35",
       "name": "Spicy's Gewürzmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
@@ -1737,10 +1805,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Spicy's Gewürzmuseum"
+      "name_local": "Spicy's Gewürzmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_36",
+      "id": "ham_h_36",
       "name": "Zollmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
@@ -1787,10 +1857,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Zollmuseum"
+      "name_local": "Zollmuseum",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_37",
+      "id": "ham_h_37",
       "name": "Krameramtsstuben",
       "category": "Landmark",
       "rating": "★4.7",
@@ -1836,10 +1908,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Krameramtsstuben"
+      "name_local": "Krameramtsstuben",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_38",
+      "id": "ham_h_38",
       "name": "Fischbrötchen-Buden an den Landungsbrücken",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1885,10 +1959,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Fischbrötchen-Buden an den Landungsbrücken"
+      "name_local": "Fischbrötchen-Buden an den Landungsbrücken",
+      "top7": false,
+      "hiddenGem": true
     },
     {
-      "id": "h_39",
+      "id": "ham_h_39",
       "name": "Old Commercial Room",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -1934,10 +2010,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Old Commercial Room"
+      "name_local": "Old Commercial Room",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_40",
+      "id": "ham_h_40",
       "name": "Café Paris",
       "category": "Café & Bistro",
       "rating": "★4.7",
@@ -1983,10 +2061,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Café Paris"
+      "name_local": "Café Paris",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_41",
+      "id": "ham_h_41",
       "name": "Rive Fisch & Fischereihafen Restaurant",
       "category": "Café & Bistro",
       "rating": "★4.8",
@@ -2032,10 +2112,12 @@
         "Café"
       ],
       "is_night_spot": false,
-      "name_local": "Rive Fisch & Fischereihafen Restaurant"
+      "name_local": "Rive Fisch & Fischereihafen Restaurant",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_42",
+      "id": "ham_h_42",
       "name": "Gröninger Privatbrauerei",
       "category": "Café & Bistro",
       "rating": "★4.6",
@@ -2082,10 +2164,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Gröninger Privatbrauerei"
+      "name_local": "Gröninger Privatbrauerei",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_43",
+      "id": "ham_h_43",
       "name": "Elbstrand",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2131,10 +2215,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Elbstrand"
+      "name_local": "Elbstrand",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_44",
+      "id": "ham_h_44",
       "name": "Museumshafen Övelgönne",
       "category": "Landmark",
       "rating": "★4.6",
@@ -2181,10 +2267,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Museumshafen Övelgönne"
+      "name_local": "Museumshafen Övelgönne",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_45",
+      "id": "ham_h_45",
       "name": "Stadtpark Hamburg & Planetarium Hamburg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2233,10 +2321,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Stadtpark Hamburg & Planetarium Hamburg"
+      "name_local": "Stadtpark Hamburg & Planetarium Hamburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_46",
+      "id": "ham_h_46",
       "name": "Jenischpark & Jenisch Haus",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2283,10 +2373,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Jenischpark & Jenisch Haus"
+      "name_local": "Jenischpark & Jenisch Haus",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_47",
+      "id": "ham_h_47",
       "name": "Energiebunker Wilhelmsburg",
       "category": "Landmark",
       "rating": "★4.6",
@@ -2333,10 +2425,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Energiebunker Wilhelmsburg"
+      "name_local": "Energiebunker Wilhelmsburg",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_48",
+      "id": "ham_h_48",
       "name": "HADAG-Hafenfähren",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2382,10 +2476,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "HADAG-Hafenfähren"
+      "name_local": "HADAG-Hafenfähren",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_49",
+      "id": "ham_h_49",
       "name": "Bäderland Holthusenbad",
       "category": "Kids & Family",
       "rating": "★4.6",
@@ -2433,10 +2529,12 @@
         "Night"
       ],
       "is_night_spot": true,
-      "name_local": "Bäderland Holthusenbad"
+      "name_local": "Bäderland Holthusenbad",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_50",
+      "id": "ham_h_50",
       "name": "Lübeck: Altstadt & Holstentor",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2482,10 +2580,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Lübeck: Altstadt & Holstentor"
+      "name_local": "Lübeck: Altstadt & Holstentor",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_51",
+      "id": "ham_h_51",
       "name": "Lüneburg: Historische Altstadt",
       "category": "Landmark",
       "rating": "★4.7",
@@ -2532,10 +2632,12 @@
         "Museum"
       ],
       "is_night_spot": false,
-      "name_local": "Lüneburg: Historische Altstadt"
+      "name_local": "Lüneburg: Historische Altstadt",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_52",
+      "id": "ham_h_52",
       "name": "Schloss Schwerin",
       "category": "Landmark",
       "rating": "★4.9",
@@ -2581,10 +2683,12 @@
         "Landmark"
       ],
       "is_night_spot": false,
-      "name_local": "Schloss Schwerin"
+      "name_local": "Schloss Schwerin",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_53",
+      "id": "ham_h_53",
       "name": "Stade & Altes Land",
       "category": "Scenery & Walk",
       "rating": "★4.7",
@@ -2630,10 +2734,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Stade & Altes Land"
+      "name_local": "Stade & Altes Land",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_54",
+      "id": "ham_h_54",
       "name": "Cuxhaven & Wattenmeer",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2679,10 +2785,12 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Cuxhaven & Wattenmeer"
+      "name_local": "Cuxhaven & Wattenmeer",
+      "top7": false,
+      "hiddenGem": false
     },
     {
-      "id": "h_55",
+      "id": "ham_h_55",
       "name": "Helgoland",
       "category": "Scenery & Walk",
       "rating": "★4.8",
@@ -2728,7 +2836,9 @@
         "Scenery"
       ],
       "is_night_spot": false,
-      "name_local": "Helgoland"
+      "name_local": "Helgoland",
+      "top7": false,
+      "hiddenGem": false
     }
   ],
   "spotCount": 55
