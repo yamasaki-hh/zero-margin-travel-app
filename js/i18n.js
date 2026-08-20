@@ -18,7 +18,20 @@ const I18nEngine = {
 
   translations: {
     "en": {
-        "modal.termsBody": "While 0 Margin Travel(EU) strives to provide accurate spot information, opening hours, and routes, we do not guarantee complete accuracy or timeliness. Please verify official venue channels prior to travel. The site administrator accepts no liability for any losses, damages, or inconvenience resulting from the use of this website. Use at your own discretion.",
+        "footer.aiNotice": "🤖 Powered by AI analysis & human curation (Verified ★4.5+), but 100% accuracy is not guaranteed. Please verify with official venue channels prior to your trip.",
+        "modal.termsBody": "【1. Nature of Service, AI Content & Curation】
+0 Margin Travel(EU) is a free travel planning tool built by combining AI algorithms with human verification (selecting ★4.5+ top-rated spots). While rigorous audits are conducted, due to the dynamic nature of travel information (sudden closures, schedule changes, relocations) and AI characteristics, 100% completeness, accuracy, or real-time timeliness is NOT guaranteed.
+
+【2. Duty of Pre-Visit Verification & Self-Responsibility】
+All spot details, opening hours, coordinates, and route suggestions are provided solely as informative references. Users bear the sole obligation to verify details via official venue or transportation channels prior to actual travel. Any action taken based on the information provided on this site is performed entirely at the user's own risk and discretion.
+
+【3. Maximum Disclaimer of Liability】
+This website is provided free of charge. To the maximum extent permitted by applicable law, the site administrator, developers, and providers shall NOT be held liable for any direct, indirect, incidental, consequential, special, or punitive damages (including but not limited to travel costs, accommodation cancellation fees, lost opportunities, personal disputes, or inconvenience) arising out of or related to the use of, or inability to use, this service or reliance on any information presented.
+
+【4. Modifications & Termination】
+The contents, features, and database of this platform may be modified, updated, suspended, or terminated at any time without prior notice.
+
+* By accessing and using this site, you acknowledge and agree to all terms and conditions set forth in this Legal Disclaimer.",
         "modal.termsTitle": "⚖️ Terms of Use & Liability Disclaimer",
         "modal.sendBtn": "✉️ Send Feedback & Error Report",
         "modal.emailPlaceholder": "your.email@example.com (if you want a reply)",
@@ -102,7 +115,17 @@ const I18nEngine = {
         "mobile.top": "Top"
     },
     "nl": {
-        "modal.termsBody": "Hoewel 0 Margin Travel(EU) streeft naar nauwkeurige informatie, garanderen wij geen volledige juistheid. Controleer altijd de officiële bronnen voor je bezoek. De beheerder is niet aansprakelijk voor schade of ongemak voortvloeiend uit het gebruik van deze website.",
+        "footer.aiNotice": "🤖 Aangedreven door AI-analyse & menselijke curatie (★4.5+), maar 100% nauwkeurigheid wordt niet gegarandeerd. Controleer altijd de officiële bronnen voor je bezoek.",
+        "modal.termsBody": "【1. Aard van de dienst & AI-inhoud】
+0 Margin Travel(EU) is een gratis reisplanningstool die AI-analyse combineert met menselijke controle (★4.5+ locaties). Hoewel wij sturen op nauwkeurigheid, wordt 100% volledigheid of realtime juistheid niet gegarandeerd.
+
+【2. Verplichting tot controle & Eigen verantwoordelijkheid】
+Alle informatie is uitsluitend ter referentie. Gebruikers zijn verplicht om openingstijden en details vooraf via officiële kanalen te verifiëren. Elk gebruik vindt plaats op eigen risico.
+
+【3. Maximale uitsluiting van aansprakelijkheid】
+Voor zover wettelijk toegestaan, is de beheerder niet aansprakelijk voor enige directe of indirecte schade (zoals reiskosten, annuleringskosten of gemiste kansen) voortvloeiend uit het gebruik van deze gratis website.
+
+* Door gebruik te maken van deze site gaat u akkoord met deze voorwaarden.",
         "modal.termsTitle": "⚖️ Gebruiksvoorwaarden & Disclaimer",
         "modal.sendBtn": "✉️ Feedback Versturen",
         "modal.emailPlaceholder": "jouw.email@example.com",
@@ -179,8 +202,21 @@ const I18nEngine = {
         "mobile.top": "Boven"
     },
     "ja": {
-        "modal.termsBody": "当サイト「0 Margin Travel(EU)」で提供するスポット情報、営業時間、位置情報、ルート案内等の正確性については細心の注意を払っておりますが、その完全性や最新性を保証するものではありません。実際の訪問に際しては、事前に施設公式情報等をご確認ください。当サイトの利用によって生じた損害・トラブル・不利益等について、当管理者は一切の責任を負いかねます。あらかじめご了承の上、自己責任にてご利用ください。",
-        "modal.termsTitle": "⚖️ 利用規約・免責事項",
+        "footer.aiNotice": "🤖 当ツールはAI分析と専門リサーチ（★4.5+厳選）を融合して構築されていますが、情報の100%の完全性を保証するものではありません。訪問前に必ず公式情報をご確認ください。",
+        "modal.termsBody": "【1. サービスの性質とAIコンテンツ・監査について】
+当サイト「0 Margin Travel(EU)」は、最新のAIデータ解析と人の手によるリサーチ（★4.5以上の高評価スポット基準）を融合して開発された「無料の情報案内・ルート作成補助ツール」です。掲載情報の精度向上および監査には万全を期しておりますが、AIの性質および現地のリアルタイムな状況変化（店舗の移転、臨時休業、営業時間・料金の変更等）により、100%の完全性、正確性、最新性を保証するものではありません。
+
+【2. 公式情報の事前確認義務と自己責任原則】
+当サイトで提供されるスポット情報、位置情報、営業時間、交通ルート案内等は参考情報に過ぎません。利用者は、実際の訪問や行動に先立ち、必ず各施設・店舗・交通機関の公式ウェブサイトや最新の公式案内等をご自身で確認する義務を負うものとします。当サイトの利用、および掲載情報に基づいて行われた一切の行動は、利用者ご自身の自己責任において行われるものとします。
+
+【3. 責任の最大免責（損害賠償義務の不発生）】
+当サイトは完全無償で提供されるサービスであり、利用者が当サイトを利用したこと、または利用できなかったこと、掲載情報の誤り、遅延、欠落等に起因して被った一切の損害（交通費・宿泊キャンセル料・機会損失・損害賠償・身体的/精神的不利益・現地でのトラブル等を含むがこれらに限定されない）について、当サイトの提供者、開発者および管理者は、法律上許容される最大限の範囲において一切の法的責任および損害賠償義務を負いません。
+
+【4. サービスの変更・中断・終了】
+当サイトの掲載内容、機能、データベースは、利用者に予告することなく随時変更、追加、修正、または一時停止・終了される場合があります。
+
+※当サイトをご利用いただくことで、本利用規約および免責事項のすべての条件に同意いただいたものとみなします。",
+        "modal.termsTitle": "⚖️ 利用規約・免責事項 (Legal Disclaimer & Terms)",
         "modal.sendBtn": "✉️ ご意見・誤り指摘を送信する",
         "modal.emailPlaceholder": "your.email@example.com （返信をご希望の場合）",
         "modal.emailLabel": "ご連絡先メールアドレス（任意）:",
@@ -259,7 +295,17 @@ const I18nEngine = {
         "mobile.top": "トップへ"
     },
     "es": {
-        "modal.termsBody": "Aunque 0 Margin Travel(EU) se esfuerza por ofrecer información precisa, no garantizamos su total exactitud. Verifique los canales oficiales antes de su visita. El administrador no asume responsabilidad por pérdidas o inconvenientes derivados del uso de este sitio.",
+        "footer.aiNotice": "🤖 Impulsado por análisis de IA y selección humana (★4.5+), pero no se garantiza el 100% de precisión. Verifique los canales oficiales antes de viajar.",
+        "modal.termsBody": "【1. Naturaleza del servicio y Contenido de IA】
+0 Margin Travel(EU) es una herramienta gratuita que combina análisis de IA con verificación humana (lugares ★4.5+). No se garantiza el 100% de exactitud o actualización en tiempo real.
+
+【2. Obligación de verificación previa y Auto-responsabilidad】
+Toda la información es meramente orientativa. El usuario tiene la obligación de verificar los detalles a través de canales oficiales antes de viajar. El uso del sitio es bajo su propio riesgo.
+
+【3. Exención máxima de responsabilidad】
+En la máxima medida permitida por la ley, el administrador no asumirá responsabilidad por daños directos o indirectos (gastos de viaje, cancelación, pérdidas de oportunidad) derivados del uso de este sitio gratuito.
+
+* El uso de este sitio implica la aceptación total de estos términos.",
         "modal.termsTitle": "⚖️ Términos de Uso y Aviso Legal",
         "modal.sendBtn": "✉️ Enviar Comentario",
         "modal.emailPlaceholder": "su.email@example.com",
@@ -339,8 +385,18 @@ const I18nEngine = {
         "mobile.top": "Arriba"
     },
     "zh": {
-        "modal.termsBody": "尽管0 Margin Travel(EU)力求提供准确的景点和路线信息，但不对其完整性或时效性作绝对保证。出行前请务必核实官方最新信息。对于因使用本网站而产生的任何损失或不便，本站管理者概不承担法律责任。请您自行斟酌使用。",
-        "modal.termsTitle": "⚖️ 使用条款与免责声明",
+        "footer.aiNotice": "🤖 本工具结合AI分析与人工精心筛选（★4.5+严选），但无法保证100%绝对准确。出行前请务必核实官方最新信息。",
+        "modal.termsBody": "【1. 服务性质与AI生成说明】
+0 Margin Travel(EU) 是一款结合最新AI算法分析与人工核实（★4.5+高分景点严选）的免费旅行规划辅助工具。尽管我们力求严谨，但受AI技术特性及当地实时动态（如临时闭馆、营业时间变动、搬迁等）影响，无法保证信息100%绝对准确、完整或实时更新。
+
+【2. 出行前核实义务与自主责任原则】
+本网站提供的所有景点、坐标、营业时间及路线规划仅供参考。用户在实际出行前，有义务通过景点或交通机构的官方渠道核实最新信息。基于本网站信息所做出的任何行为均由用户自行承担责任。
+
+【3. 法律允许的最大限度免责声明】
+本服务为完全免费提供。在法律允许的最大范围内，本网站管理者及开发人员不对因使用或无法使用本服务、或依赖本网站信息而产生的任何直接、间接、附带或衍生损失（包括但不限于交通费、退订损失、机会损失等）承担任何法律责任或赔偿义务。
+
+* 使用本网站即表示您已阅读、理解并同意本免责声明的所有条款。",
+        "modal.termsTitle": "⚖️ 使用条款与法律免责声明",
         "modal.sendBtn": "✉️ 提交意见与纠错",
         "modal.emailPlaceholder": "your.email@example.com",
         "modal.emailLabel": "您的联系邮箱（可选）:",
@@ -419,8 +475,18 @@ const I18nEngine = {
         "mobile.top": "回到顶部"
     },
     "fr": {
-        "modal.termsBody": "Bien que 0 Margin Travel(EU) s'efforce de fournir des informations exactes, nous ne garantissons pas leur exhaustivité. Veuillez vérifier auprès des sites officiels avant votre visite. L'administrateur décline toute responsabilité pour les dommages résultant de l'utilisation de ce site.",
-        "modal.termsTitle": "⚖️ Conditions d'Utilisation & Avertissement",
+        "footer.aiNotice": "🤖 Propulsé par l'analyse IA & la sélection humaine (★4.5+), mais l'exactitude à 100% n'est pas garantie. Veuillez vérifier auprès des sites officiels avant votre visite.",
+        "modal.termsBody": "【1. Nature du service & Contenu IA】
+0 Margin Travel(EU) est un outil gratuit combinant analyse IA et vérification humaine (lieux ★4.5+). L'exactitude ou l'exhaustivité à 100% ne peut être garantie en raison des changements fréquents sur le terrain.
+
+【2. Obligation de vérification préalable & Responsabilité】
+Toutes les informations sont fournies à titre indicatif. L'utilisateur a l'obligation de vérifier les détails auprès des canaux officiels avant son déplacement. L'utilisation du site se fait sous sa propre responsabilité.
+
+【3. Exonération maximale de responsabilité】
+Dans la mesure maximale permise par la loi, l'administrateur décline toute responsabilité pour tout dommage direct ou indirect (frais de transport, annulations, pertes d'opportunité) découlant de l'utilisation de ce service gratuit.
+
+* L'utilisation de ce site vaut acceptation pleine et entière des présentes conditions.",
+        "modal.termsTitle": "⚖️ Conditions d'Utilisation & Avertissement Légal",
         "modal.sendBtn": "✉️ Envoyer votre Signalement",
         "modal.emailPlaceholder": "votre.email@example.com",
         "modal.emailLabel": "Votre e-mail (facultatif) :",
@@ -499,7 +565,17 @@ const I18nEngine = {
         "mobile.top": "Haut"
     },
     "de": {
-        "modal.termsBody": "Obwohl 0 Margin Travel(EU) um Genauigkeit bemüht ist, übernehmen wir keine Gewähr für die Vollständigkeit. Bitte prüfen Sie vor Ihrer Reise die offiziellen Angaben. Der Betreiber haftet nicht für Schäden, die aus der Nutzung dieser Website entstehen.",
+        "footer.aiNotice": "🤖 KI-Analyse & menschliche Prüfung (★4.5+), jedoch wird 100% Genauigkeit nicht garantiert. Bitte prüfen Sie vor Ihrer Reise die offiziellen Angaben.",
+        "modal.termsBody": "【1. Natur des Dienstes & KI-Inhalte】
+0 Margin Travel(EU) ist ein kostenloses Planungstool, das KI-Analysen mit menschlicher Kuratierung (★4.5+ Orte) kombiniert. Eine 100%ige Vollständigkeit oder Aktualität wird nicht garantiert.
+
+【2. Prüfungspflicht & Eigenverantwortung】
+Alle Angaben dienen lediglich als Orientierung. Nutzer sind verpflichtet, Details vor der Anreise über offizielle Kanäle zu überprüfen. Die Nutzung erfolgt auf eigene Gefahr.
+
+【3. Maximaler Haftungsausschluss】
+Soweit gesetzlich zulässig, übernimmt der Betreiber keinerlei Haftung für direkte oder indirekte Schäden (z. B. Reisekosten, Stornogebühren oder entgangene Chancen) aus der Nutzung dieser kostenlosen Website.
+
+* Mit der Nutzung dieser Website erklären Sie sich mit diesen Bedingungen einverstanden.",
         "modal.termsTitle": "⚖️ Nutzungsbedingungen & Haftungsausschluss",
         "modal.sendBtn": "✉️ Feedback Absenden",
         "modal.emailPlaceholder": "ihre.email@example.com",
