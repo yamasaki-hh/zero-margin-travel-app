@@ -224,11 +224,10 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/i18n.js?v=20260820_1920"></script>
-  <script src="js/ai-travel-engine.js?v=20260820_1920"></script>
-  <script src="js/travel-app.js?v=20260820_1920"></script>
+  <script src="js/i18n.js?v=20260820_2000"></script>
+  <script src="js/ai-travel-engine.js?v=20260820_2000"></script>
+  <script src="js/travel-app.js?v=20260820_2000"></script>
   <script>
-    // Inline execution fallback to guarantee candidate spots grid renders instantly on DOM load
     window.addEventListener('DOMContentLoaded', function() {
       if (window.I18nEngine) {
         window.I18nEngine.init();
@@ -236,22 +235,6 @@
       if (window.AITravelEngine) {
         window.AITravelEngine.renderCandidateSpots();
       }
-    });
-    window.addEventListener('load', function() {
-      if (window.AITravelEngine) {
-        window.AITravelEngine.onCountryChange();
-      }
-    });
-    // Multi-stage fallback retries for slow mobile connections
-    [100, 300, 700, 1500].forEach(function(delay) {
-      setTimeout(function() {
-        if (window.AITravelEngine) {
-          const grid = document.getElementById('candidateSpotsGrid');
-          if (grid && (!grid.children || grid.children.length === 0)) {
-            window.AITravelEngine.onCountryChange();
-          }
-        }
-      }, delay);
     });
   </script>
 
