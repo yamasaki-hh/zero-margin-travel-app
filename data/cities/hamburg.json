@@ -3,7 +3,7 @@
   "spots": [
     {
       "id": "h_1",
-      "name": "Miniatur Wunderland（ミニチュアワンダーランド）",
+      "name": "Miniatur Wunderland",
       "category": "Kids & Family",
       "rating": "★4.9",
       "locationZone": "city",
@@ -34,7 +34,7 @@
       "name_en": "Miniatur Wunderland",
       "name_ja": "Miniatur Wunderland（ミニチュアワンダーランド）",
       "name_es": "Miniatur Wunderland",
-      "name_zh": "Miniatur Wunderland (ミニチュアワンダーランド)",
+      "name_zh": "Miniatur Wunderland",
       "name_fr": "Miniatur Wunderland",
       "name_de": "Miniatur Wunderland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Miniatur_wunderland.jpg/330px-Miniatur_wunderland.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -48,11 +48,12 @@
       "categories": [
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Miniatur Wunderland"
     },
     {
       "id": "h_2",
-      "name": "Elbphilharmonie Hamburg（エルプフィルハーモニー・ハンブルク）",
+      "name": "Elbphilharmonie Hamburg",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -83,7 +84,7 @@
       "name_en": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
       "name_ja": "Elbphilharmonie Hamburg（エルプフィルハーモニー・ハンブルク）",
       "name_es": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
-      "name_zh": "Elbphilharmonie Hamburg (エルプフィルハーモニー・ハンブルク)",
+      "name_zh": "Elbphilharmonie Hamburg",
       "name_fr": "Elbphilharmonie Hamburg (Elbphilharmonie Concert Hall)",
       "name_de": "Elbphilharmonie Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elbphilharmonie%2C_Hamburg.jpg/330px-Elbphilharmonie%2C_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -98,11 +99,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Elbphilharmonie Hamburg"
     },
     {
       "id": "h_3",
-      "name": "Speicherstadt（世界遺産赤レンガ倉庫街）",
+      "name": "Speicherstadt",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -133,7 +135,7 @@
       "name_en": "Speicherstadt (Speicherstadt Warehouse District)",
       "name_ja": "Speicherstadt（世界遺産赤レンガ倉庫街）",
       "name_es": "Speicherstadt (Speicherstadt Warehouse District)",
-      "name_zh": "Speicherstadt (世界遺産赤レンガ倉庫街)",
+      "name_zh": "Speicherstadt",
       "name_fr": "Speicherstadt (Speicherstadt Warehouse District)",
       "name_de": "Speicherstadt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Wasserschloss_at_sunset.jpg/330px-The_Wasserschloss_at_sunset.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -146,11 +148,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Speicherstadt"
     },
     {
       "id": "h_4",
-      "name": "Kontorhausviertel & Chilehaus（コントーアハウス地区＆チリハウス）",
+      "name": "Kontorhausviertel & Chilehaus",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -181,7 +184,7 @@
       "name_en": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
       "name_ja": "Kontorhausviertel & Chilehaus（コントーアハウス地区＆チリハウス）",
       "name_es": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
-      "name_zh": "Kontorhausviertel & Chilehaus (コントーアハウス地区＆チリハウス)",
+      "name_zh": "Kontorhausviertel & Chilehaus",
       "name_fr": "Kontorhausviertel & Chilehaus (Chilehaus & Kontorhaus District)",
       "name_de": "Kontorhausviertel & Chilehaus",
       "image": "",
@@ -194,11 +197,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kontorhausviertel & Chilehaus"
     },
     {
       "id": "h_5",
-      "name": "Hamburger Rathaus & Rathausmarkt（ハンブルク市庁舎＆市庁舎前広場）",
+      "name": "Hamburger Rathaus & Rathausmarkt",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -229,7 +233,7 @@
       "name_en": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
       "name_ja": "Hamburger Rathaus & Rathausmarkt（ハンブルク市庁舎＆市庁舎前広場）",
       "name_es": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
-      "name_zh": "Hamburger Rathaus & Rathausmarkt (ハンブルク市庁舎＆市庁舎前広場)",
+      "name_zh": "Hamburger Rathaus & Rathausmarkt",
       "name_fr": "Hamburger Rathaus & Rathausmarkt (Hamburg City Hall)",
       "name_de": "Hamburger Rathaus & Rathausmarkt",
       "image": "",
@@ -242,11 +246,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hamburger Rathaus & Rathausmarkt"
     },
     {
       "id": "h_6",
-      "name": "Hauptkirche St. Michaelis（Michel）",
+      "name": "Hauptkirche St. Michaelis",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -275,9 +280,9 @@
       "price_fr": "聖堂無料（塔8€）",
       "price_de": "聖堂無料（塔8€）",
       "name_en": "Hauptkirche St. Michaelis (St. Michael's Church)",
-      "name_ja": "Hauptkirche St. Michaelis（Michel）",
+      "name_ja": "Hauptkirche St. Michaelis",
       "name_es": "Hauptkirche St. Michaelis (St. Michael's Church)",
-      "name_zh": "Hauptkirche St. Michaelis (聖ミヒャエリス教会)",
+      "name_zh": "Hauptkirche St. Michaelis",
       "name_fr": "Hauptkirche St. Michaelis (St. Michael's Church)",
       "name_de": "Hauptkirche St. Michaelis (Michel)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/330px-Sankt-Michaelis-Kirche_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -291,11 +296,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hauptkirche St. Michaelis"
     },
     {
       "id": "h_7",
-      "name": "Hamburger Hafen & Landungsbrücken（ハンブルク港＆ザンクト・パウリ桟橋）",
+      "name": "Hamburger Hafen & Landungsbrücken",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -326,7 +332,7 @@
       "name_en": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
       "name_ja": "Hamburger Hafen & Landungsbrücken（ハンブルク港＆ザンクト・パウリ桟橋）",
       "name_es": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
-      "name_zh": "Hamburger Hafen & Landungsbrücken (ハンブルク港＆ザンクト・パウリ桟橋)",
+      "name_zh": "Hamburger Hafen & Landungsbrücken",
       "name_fr": "Hamburger Hafen & Landungsbrücken (Hamburg Harbor & St. Pauli Piers)",
       "name_de": "Hamburger Hafen & Landungsbrücken",
       "image": "",
@@ -340,11 +346,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hamburger Hafen & Landungsbrücken"
     },
     {
       "id": "h_8",
-      "name": "Alter Elbtunnel（旧エルベトンネル）",
+      "name": "Alter Elbtunnel",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -375,7 +382,7 @@
       "name_en": "Alter Elbtunnel (Old Elbe Tunnel)",
       "name_ja": "Alter Elbtunnel（旧エルベトンネル）",
       "name_es": "Alter Elbtunnel (Old Elbe Tunnel)",
-      "name_zh": "Alter Elbtunnel (旧エルベトンネル)",
+      "name_zh": "Alter Elbtunnel",
       "name_fr": "Alter Elbtunnel (Old Elbe Tunnel)",
       "name_de": "Alter Elbtunnel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg/330px-Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -388,11 +395,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Alter Elbtunnel"
     },
     {
       "id": "h_9",
-      "name": "HafenCity（ハーフェンシティ）",
+      "name": "HafenCity",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -423,7 +431,7 @@
       "name_en": "HafenCity (HafenCity District)",
       "name_ja": "HafenCity（ハーフェンシティ）",
       "name_es": "HafenCity (HafenCity District)",
-      "name_zh": "HafenCity (ハーフェンシティ)",
+      "name_zh": "HafenCity",
       "name_fr": "HafenCity (HafenCity District)",
       "name_de": "HafenCity",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HafenCity_in_HH.svg/langde-330px-HafenCity_in_HH.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -436,11 +444,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "HafenCity"
     },
     {
       "id": "h_10",
-      "name": "Binnenalster & Außenalster（ビンネンアルスター湖＆アウセンアルスター湖）",
+      "name": "Binnenalster & Außenalster",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -471,7 +480,7 @@
       "name_en": "Binnenalster & Außenalster (Alster Lakes)",
       "name_ja": "Binnenalster & Außenalster（ビンネンアルスター湖＆アウセンアルスター湖）",
       "name_es": "Binnenalster & Außenalster (Alster Lakes)",
-      "name_zh": "Binnenalster & Außenalster (ビンネンアルスター湖＆アウセンアルスター湖)",
+      "name_zh": "Binnenalster & Außenalster",
       "name_fr": "Binnenalster & Außenalster (Alster Lakes)",
       "name_de": "Binnenalster & Außenalster",
       "image": "",
@@ -484,11 +493,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Binnenalster & Außenalster"
     },
     {
       "id": "h_11",
-      "name": "Hamburger Kunsthalle（ハンブルク美術館）",
+      "name": "Hamburger Kunsthalle",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -519,7 +529,7 @@
       "name_en": "Hamburger Kunsthalle (Hamburg Art Museum)",
       "name_ja": "Hamburger Kunsthalle（ハンブルク美術館）",
       "name_es": "Hamburger Kunsthalle (Hamburg Art Museum)",
-      "name_zh": "Hamburger Kunsthalle (ハンブルク美術館)",
+      "name_zh": "Hamburger Kunsthalle",
       "name_fr": "Hamburger Kunsthalle (Hamburg Art Museum)",
       "name_de": "Hamburger Kunsthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/330px-Hamburger_Kunsthalle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -532,11 +542,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hamburger Kunsthalle"
     },
     {
       "id": "h_12",
-      "name": "Internationales Maritimes Museum Hamburg（国際海洋博物館）",
+      "name": "Internationales Maritimes Museum Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -580,11 +591,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Internationales Maritimes Museum Hamburg"
     },
     {
       "id": "h_13",
-      "name": "Museum für Kunst und Gewerbe Hamburg（MK&G）",
+      "name": "Museum für Kunst und Gewerbe Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -613,7 +625,7 @@
       "price_fr": "入場料: 14€",
       "price_de": "入場料: 14€",
       "name_en": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
-      "name_ja": "Museum für Kunst und Gewerbe Hamburg（MK&G）",
+      "name_ja": "Museum für Kunst und Gewerbe Hamburg",
       "name_es": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
       "name_zh": "Museum für Kunst und Gewerbe Hamburg (工芸美術館)",
       "name_fr": "Museum für Kunst und Gewerbe Hamburg (Museum of Arts and Crafts Hamburg)",
@@ -628,11 +640,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum für Kunst und Gewerbe Hamburg"
     },
     {
       "id": "h_14",
-      "name": "Deichtorhallen Hamburg（ダイヒトーアハレン）",
+      "name": "Deichtorhallen Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -663,7 +676,7 @@
       "name_en": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
       "name_ja": "Deichtorhallen Hamburg（ダイヒトーアハレン）",
       "name_es": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
-      "name_zh": "Deichtorhallen Hamburg (ダイヒトーアハレン)",
+      "name_zh": "Deichtorhallen Hamburg",
       "name_fr": "Deichtorhallen Hamburg (Deichtorhallen Contemporary Art)",
       "name_de": "Deichtorhallen Hamburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_der_Deichtorhallen.png/330px-Logo_der_Deichtorhallen.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -677,11 +690,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deichtorhallen Hamburg"
     },
     {
       "id": "h_15",
-      "name": "Cap San Diego（カプ・サン・ディエゴ号）",
+      "name": "Cap San Diego",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -712,7 +726,7 @@
       "name_en": "Cap San Diego (Cap San Diego Museum Ship)",
       "name_ja": "Cap San Diego（カプ・サン・ディエゴ号）",
       "name_es": "Cap San Diego (Cap San Diego Museum Ship)",
-      "name_zh": "Cap San Diego (カプ・サン・ディエゴ号)",
+      "name_zh": "Cap San Diego",
       "name_fr": "Cap San Diego (Cap San Diego Museum Ship)",
       "name_de": "Cap San Diego",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cap_San_Diego_07.jpg/330px-Cap_San_Diego_07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -726,11 +740,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cap San Diego"
     },
     {
       "id": "h_16",
-      "name": "Rickmer Rickmers（リックマー・リックマース号）",
+      "name": "Rickmer Rickmers",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -761,7 +776,7 @@
       "name_en": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
       "name_ja": "Rickmer Rickmers（リックマー・リックマース号）",
       "name_es": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
-      "name_zh": "Rickmer Rickmers (リックマー・リックマース号)",
+      "name_zh": "Rickmer Rickmers",
       "name_fr": "Rickmer Rickmers (Rickmer Rickmers Sailing Ship)",
       "name_de": "Rickmer Rickmers",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg/330px-Rickmer_Rickmers_nach_Restaurierung_09-2016_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -776,11 +791,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Rickmer Rickmers"
     },
     {
       "id": "h_17",
-      "name": "Submarine Museum U-434（潜水艦博物館 U-434）",
+      "name": "Submarine Museum U-434",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -824,11 +840,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Submarine Museum U-434"
     },
     {
       "id": "h_18",
-      "name": "St. Nikolai Memorial（Mahnmal St. Nikolai）",
+      "name": "St. Nikolai Memorial",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -857,9 +874,9 @@
       "price_fr": "廃墟無料（エレベーター6€）",
       "price_de": "廃墟無料（エレベーター6€）",
       "name_en": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
-      "name_ja": "St. Nikolai Memorial（Mahnmal St. Nikolai）",
+      "name_ja": "St. Nikolai Memorial",
       "name_es": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
-      "name_zh": "St. Nikolai Memorial (聖ニコライ教会廃墟記念碑)",
+      "name_zh": "St. Nikolai Memorial",
       "name_fr": "St. Nikolai Memorial (St. Nikolai Memorial Spire)",
       "name_de": "St. Nikolai Memorial (Mahnmal St. Nikolai)",
       "image": "",
@@ -872,11 +889,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Nikolai Memorial"
     },
     {
       "id": "h_19",
-      "name": "Planten un Blomen（プランテン・ウン・ブローメン公園）",
+      "name": "Planten un Blomen",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -907,7 +925,7 @@
       "name_en": "Planten un Blomen",
       "name_ja": "Planten un Blomen（プランテン・ウン・ブローメン公園）",
       "name_es": "Planten un Blomen",
-      "name_zh": "Planten un Blomen (プランテン・ウン・ブローメン公園)",
+      "name_zh": "Planten un Blomen",
       "name_fr": "Planten un Blomen",
       "name_de": "Planten un Blomen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hh-dammtordamm_fig.jpg/330px-Hh-dammtordamm_fig.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -921,11 +939,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Planten un Blomen"
     },
     {
       "id": "h_20",
-      "name": "Tierpark Hagenbeck & Tropen-Aquarium（ハーゲンベック動物園＆熱帯水族館）",
+      "name": "Tierpark Hagenbeck & Tropen-Aquarium",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "city",
@@ -956,7 +975,7 @@
       "name_en": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
       "name_ja": "Tierpark Hagenbeck & Tropen-Aquarium（ハーゲンベック動物園＆熱帯水族館）",
       "name_es": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
-      "name_zh": "Tierpark Hagenbeck & Tropen-Aquarium (ハーゲンベック動物園＆熱帯水族館)",
+      "name_zh": "Tierpark Hagenbeck & Tropen-Aquarium",
       "name_fr": "Tierpark Hagenbeck & Tropen-Aquarium (Tierpark Hagenbeck)",
       "name_de": "Tierpark Hagenbeck & Tropen-Aquarium",
       "image": "",
@@ -970,11 +989,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tierpark Hagenbeck & Tropen-Aquarium"
     },
     {
       "id": "h_21",
-      "name": "Fischmarkt（Altona）",
+      "name": "Fischmarkt",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1003,9 +1023,9 @@
       "price_fr": "入場無料",
       "price_de": "入場無料",
       "name_en": "Fischmarkt (Altona Fish Market)",
-      "name_ja": "Fischmarkt（Altona）",
+      "name_ja": "Fischmarkt",
       "name_es": "Fischmarkt (Altona Fish Market)",
-      "name_zh": "Fischmarkt (アルトナの魚市場＆フィッシュオークションホール)",
+      "name_zh": "Fischmarkt",
       "name_fr": "Fischmarkt (Altona Fish Market)",
       "name_de": "Fischmarkt (Altona)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hamburg.Fischmarkt.wmt.jpg/330px-Hamburg.Fischmarkt.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1019,11 +1039,12 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fischmarkt"
     },
     {
       "id": "h_22",
-      "name": "Reeperbahn & St. Pauli（レーパーバーン＆ザンクト・パウリ地区）",
+      "name": "Reeperbahn & St. Pauli",
       "category": "Landmark",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1054,7 +1075,7 @@
       "name_en": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
       "name_ja": "Reeperbahn & St. Pauli（レーパーバーン＆ザンクト・パウリ地区）",
       "name_es": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
-      "name_zh": "Reeperbahn & St. Pauli (レーパーバーン＆ザンクト・パウリ地区)",
+      "name_zh": "Reeperbahn & St. Pauli",
       "name_fr": "Reeperbahn & St. Pauli (Reeperbahn Nightlife District)",
       "name_de": "Reeperbahn & St. Pauli",
       "image": "",
@@ -1069,11 +1090,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Reeperbahn & St. Pauli"
     },
     {
       "id": "h_23",
-      "name": "Beatles-Platz & Indra Club / Kaiserkeller（ビートルズ広場＆ゆかりのライブハウス群）",
+      "name": "Beatles-Platz & Indra Club / Kaiserkeller",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1104,7 +1126,7 @@
       "name_en": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
       "name_ja": "Beatles-Platz & Indra Club / Kaiserkeller（ビートルズ広場＆ゆかりのライブハウス群）",
       "name_es": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
-      "name_zh": "Beatles-Platz & Indra Club / Kaiserkeller (ビートルズ広場＆ゆかりのライブハウス群)",
+      "name_zh": "Beatles-Platz & Indra Club / Kaiserkeller",
       "name_fr": "Beatles-Platz & Indra Club / Kaiserkeller (Beatles-Platz & Indra / Kaiserkeller)",
       "name_de": "Beatles-Platz & Indra Club / Kaiserkeller",
       "image": "",
@@ -1117,11 +1139,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Beatles-Platz & Indra Club / Kaiserkeller"
     },
     {
       "id": "h_24",
-      "name": "Jungfernstieg（ユングフェルンシュティーク）",
+      "name": "Jungfernstieg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1152,7 +1175,7 @@
       "name_en": "Jungfernstieg (Jungfernstieg Boulevard)",
       "name_ja": "Jungfernstieg（ユングフェルンシュティーク）",
       "name_es": "Jungfernstieg (Jungfernstieg Boulevard)",
-      "name_zh": "Jungfernstieg (ユングフェルンシュティーク)",
+      "name_zh": "Jungfernstieg",
       "name_fr": "Jungfernstieg (Jungfernstieg Boulevard)",
       "name_de": "Jungfernstieg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jungfernstieg.wmt.jpg/330px-Jungfernstieg.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1165,11 +1188,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jungfernstieg"
     },
     {
       "id": "h_25",
-      "name": "Alsterarkaden（アルスター・アルケード）",
+      "name": "Alsterarkaden",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1200,7 +1224,7 @@
       "name_en": "Alsterarkaden (Alster Arcades)",
       "name_ja": "Alsterarkaden（アルスター・アルケード）",
       "name_es": "Alsterarkaden (Alster Arcades)",
-      "name_zh": "Alsterarkaden (アルスター・アルケード)",
+      "name_zh": "Alsterarkaden",
       "name_fr": "Alsterarkaden (Alster Arcades)",
       "name_de": "Alsterarkaden",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg/330px-The_Alsterarkaden_in_Hamburg_at_sunrise_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1215,11 +1239,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Alsterarkaden"
     },
     {
       "id": "h_26",
-      "name": "Mönckebergstraße & Spitalerstraße（メンケベルク通り＆シュピタラー通り）",
+      "name": "Mönckebergstraße & Spitalerstraße",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1250,7 +1275,7 @@
       "name_en": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
       "name_ja": "Mönckebergstraße & Spitalerstraße（メンケベルク通り＆シュピタラー通り）",
       "name_es": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
-      "name_zh": "Mönckebergstraße & Spitalerstraße (メンケベルク通り＆シュピタラー通り)",
+      "name_zh": "Mönckebergstraße & Spitalerstraße",
       "name_fr": "Mönckebergstraße & Spitalerstraße (Mönckebergstraße Shopping Street)",
       "name_de": "Mönckebergstraße & Spitalerstraße",
       "image": "",
@@ -1264,11 +1289,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mönckebergstraße & Spitalerstraße"
     },
     {
       "id": "h_27",
-      "name": "Neuer Wall & Große Bleichen（ノイアー・ヴァル＆グローセ・ブライヒェン）",
+      "name": "Neuer Wall & Große Bleichen",
       "category": "Shopping",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1299,7 +1325,7 @@
       "name_en": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
       "name_ja": "Neuer Wall & Große Bleichen（ノイアー・ヴァル＆グローセ・ブライヒェン）",
       "name_es": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
-      "name_zh": "Neuer Wall & Große Bleichen (ノイアー・ヴァル＆グローセ・ブライヒェン)",
+      "name_zh": "Neuer Wall & Große Bleichen",
       "name_fr": "Neuer Wall & Große Bleichen (Neuer Wall Luxury Shopping)",
       "name_de": "Neuer Wall & Große Bleichen",
       "image": "",
@@ -1313,11 +1339,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neuer Wall & Große Bleichen"
     },
     {
       "id": "h_28",
-      "name": "Hanse-Viertel & Europa Passage（ハンゼ・フィアテル＆オイローパ・パサージュ）",
+      "name": "Hanse-Viertel & Europa Passage",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1348,7 +1375,7 @@
       "name_en": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
       "name_ja": "Hanse-Viertel & Europa Passage（ハンゼ・フィアテル＆オイローパ・パサージュ）",
       "name_es": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
-      "name_zh": "Hanse-Viertel & Europa Passage (ハンゼ・フィアテル＆オイローパ・パサージュ)",
+      "name_zh": "Hanse-Viertel & Europa Passage",
       "name_fr": "Hanse-Viertel & Europa Passage (Europa Passage & Hanse-Viertel)",
       "name_de": "Hanse-Viertel & Europa Passage",
       "image": "",
@@ -1361,11 +1388,12 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hanse-Viertel & Europa Passage"
     },
     {
       "id": "h_29",
-      "name": "Sternschanze（Schanzenviertel）",
+      "name": "Sternschanze",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1394,9 +1422,9 @@
       "price_fr": "散策無料",
       "price_de": "散策無料",
       "name_en": "Sternschanze (Sternschanze Quarter)",
-      "name_ja": "Sternschanze（Schanzenviertel）",
+      "name_ja": "Sternschanze",
       "name_es": "Sternschanze (Sternschanze Quarter)",
-      "name_zh": "Sternschanze (シャンツェン地区)",
+      "name_zh": "Sternschanze",
       "name_fr": "Sternschanze (Sternschanze Quarter)",
       "name_de": "Sternschanze (Schanzenviertel)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/330px-Hh-schanze-susannen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1410,11 +1438,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Sternschanze"
     },
     {
       "id": "h_30",
-      "name": "Karolinenviertel（Karoviertel）",
+      "name": "Karolinenviertel",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1443,9 +1472,9 @@
       "price_fr": "散策無料",
       "price_de": "散策無料",
       "name_en": "Karolinenviertel (Karolinenviertel District)",
-      "name_ja": "Karolinenviertel（Karoviertel）",
+      "name_ja": "Karolinenviertel",
       "name_es": "Karolinenviertel (Karolinenviertel District)",
-      "name_zh": "Karolinenviertel (カロリーネン地区)",
+      "name_zh": "Karolinenviertel",
       "name_fr": "Karolinenviertel (Karolinenviertel District)",
       "name_de": "Karolinenviertel (Karoviertel)",
       "image": "",
@@ -1459,11 +1488,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Karolinenviertel"
     },
     {
       "id": "h_31",
-      "name": "Museum der Natur - Hamburg（自然博物館）",
+      "name": "Museum der Natur - Hamburg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1509,11 +1539,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum der Natur - Hamburg"
     },
     {
       "id": "h_32",
-      "name": "Hamburg Dungeon（ハンブルク・ダンジョン）",
+      "name": "Hamburg Dungeon",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1544,7 +1575,7 @@
       "name_en": "Hamburg Dungeon",
       "name_ja": "Hamburg Dungeon（ハンブルク・ダンジョン）",
       "name_es": "Hamburg Dungeon",
-      "name_zh": "Hamburg Dungeon (ハンブルク・ダンジョン)",
+      "name_zh": "Hamburg Dungeon",
       "name_fr": "Hamburg Dungeon",
       "name_de": "Hamburg Dungeon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/330px-HamburgDungeon.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1557,11 +1588,12 @@
       "categories": [
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hamburg Dungeon"
     },
     {
       "id": "h_33",
-      "name": "Dialog im Dunkeln（Dialoghaus Hamburg）",
+      "name": "Dialog im Dunkeln",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1590,9 +1622,9 @@
       "price_fr": "体験料: 19.50€",
       "price_de": "体験料: 19.50€",
       "name_en": "Dialog im Dunkeln (Dialog in the Dark)",
-      "name_ja": "Dialog im Dunkeln（Dialoghaus Hamburg）",
+      "name_ja": "Dialog im Dunkeln",
       "name_es": "Dialog im Dunkeln (Dialog in the Dark)",
-      "name_zh": "Dialog im Dunkeln (ダイアログ・イン・ザ・ダーク)",
+      "name_zh": "Dialog im Dunkeln",
       "name_fr": "Dialog im Dunkeln (Dialog in the Dark)",
       "name_de": "Dialog im Dunkeln (Dialoghaus Hamburg)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_DID-HH_2014.png/330px-Logo_DID-HH_2014.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1605,11 +1637,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dialog im Dunkeln"
     },
     {
       "id": "h_34",
-      "name": "Chocoversum by Hachez（チョコヴェルサム）",
+      "name": "Chocoversum by Hachez",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1640,7 +1673,7 @@
       "name_en": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
       "name_ja": "Chocoversum by Hachez（チョコヴェルサム）",
       "name_es": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
-      "name_zh": "Chocoversum by Hachez (チョコヴェルサム)",
+      "name_zh": "Chocoversum by Hachez",
       "name_fr": "Chocoversum by Hachez (Chocoversum Chocolate Museum)",
       "name_de": "Chocoversum by Hachez",
       "image": "",
@@ -1654,11 +1687,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Chocoversum by Hachez"
     },
     {
       "id": "h_35",
-      "name": "Spicy's Gewürzmuseum（スパイシーズ香辛料博物館）",
+      "name": "Spicy's Gewürzmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1689,7 +1723,7 @@
       "name_en": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
       "name_ja": "Spicy's Gewürzmuseum（スパイシーズ香辛料博物館）",
       "name_es": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
-      "name_zh": "Spicy's Gewürzmuseum (スパイシーズ香辛料博物館)",
+      "name_zh": "Spicy's Gewürzmuseum",
       "name_fr": "Spicy's Gewürzmuseum (Spicy's Spice Museum)",
       "name_de": "Spicy's Gewürzmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gew%C3%BCrzmuseum_Hamburg_01.jpg/330px-Gew%C3%BCrzmuseum_Hamburg_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1702,11 +1736,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Spicy's Gewürzmuseum"
     },
     {
       "id": "h_36",
-      "name": "Zollmuseum（Deutsches Zollmuseum）",
+      "name": "Zollmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1735,9 +1770,9 @@
       "price_fr": "入場料: 2€",
       "price_de": "入場料: 2€",
       "name_en": "Zollmuseum (German Customs Museum)",
-      "name_ja": "Zollmuseum（Deutsches Zollmuseum）",
+      "name_ja": "Zollmuseum",
       "name_es": "Zollmuseum (German Customs Museum)",
-      "name_zh": "Zollmuseum (ドイツ連邦税関博物館)",
+      "name_zh": "Zollmuseum",
       "name_fr": "Zollmuseum (German Customs Museum)",
       "name_de": "Zollmuseum (Deutsches Zollmuseum)",
       "image": "",
@@ -1751,11 +1786,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zollmuseum"
     },
     {
       "id": "h_37",
-      "name": "Krameramtsstuben（クラーマーアムツストゥーベン）",
+      "name": "Krameramtsstuben",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1786,7 +1822,7 @@
       "name_en": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
       "name_ja": "Krameramtsstuben（クラーマーアムツストゥーベン）",
       "name_es": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
-      "name_zh": "Krameramtsstuben (クラーマーアムツストゥーベン)",
+      "name_zh": "Krameramtsstuben",
       "name_fr": "Krameramtsstuben (Krameramtsstuben Guild Houses)",
       "name_de": "Krameramtsstuben",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/330px-Krameramtsstuben.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1799,11 +1835,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Krameramtsstuben"
     },
     {
       "id": "h_38",
-      "name": "Fischbrötchen-Buden an den Landungsbrücken（桟橋のフィッシュブレートヒェン屋台群）",
+      "name": "Fischbrötchen-Buden an den Landungsbrücken",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1834,7 +1871,7 @@
       "name_en": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
       "name_ja": "Fischbrötchen-Buden an den Landungsbrücken（桟橋のフィッシュブレートヒェン屋台群）",
       "name_es": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
-      "name_zh": "Fischbrötchen-Buden an den Landungsbrücken (桟橋のフィッシュブレートヒェン屋台群)",
+      "name_zh": "Fischbrötchen-Buden an den Landungsbrücken",
       "name_fr": "Fischbrötchen-Buden an den Landungsbrücken (Landungsbrücken Fish Roll Stalls)",
       "name_de": "Fischbrötchen-Buden an den Landungsbrücken",
       "image": "",
@@ -1847,11 +1884,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fischbrötchen-Buden an den Landungsbrücken"
     },
     {
       "id": "h_39",
-      "name": "Old Commercial Room（オールド・コマーシャル・ルーム）",
+      "name": "Old Commercial Room",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1882,7 +1920,7 @@
       "name_en": "Old Commercial Room (Old Commercial Room Restaurant)",
       "name_ja": "Old Commercial Room（オールド・コマーシャル・ルーム）",
       "name_es": "Old Commercial Room (Old Commercial Room Restaurant)",
-      "name_zh": "Old Commercial Room (オールド・コマーシャル・ルーム)",
+      "name_zh": "Old Commercial Room",
       "name_fr": "Old Commercial Room (Old Commercial Room Restaurant)",
       "name_de": "Old Commercial Room",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_Commercial_Room_Hamburg.jpg/330px-Old_Commercial_Room_Hamburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1895,11 +1933,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Old Commercial Room"
     },
     {
       "id": "h_40",
-      "name": "Café Paris（Hamburg）",
+      "name": "Café Paris",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1928,9 +1967,9 @@
       "price_fr": "コーヒー: 4.50€",
       "price_de": "コーヒー: 4.50€",
       "name_en": "Café Paris (Café Paris Hamburg)",
-      "name_ja": "Café Paris（Hamburg）",
+      "name_ja": "Café Paris",
       "name_es": "Café Paris (Café Paris Hamburg)",
-      "name_zh": "Café Paris (カフェ・パリ)",
+      "name_zh": "Café Paris",
       "name_fr": "Café Paris (Café Paris Hamburg)",
       "name_de": "Café Paris (Hamburg)",
       "image": "",
@@ -1943,11 +1982,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Paris"
     },
     {
       "id": "h_41",
-      "name": "Rive Fisch & Fischereihafen Restaurant（フィッシェライハーフェン・レストラン）",
+      "name": "Rive Fisch & Fischereihafen Restaurant",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1978,7 +2018,7 @@
       "name_en": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
       "name_ja": "Rive Fisch & Fischereihafen Restaurant（フィッシェライハーフェン・レストラン）",
       "name_es": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
-      "name_zh": "Rive Fisch & Fischereihafen Restaurant (フィッシェライハーフェン・レストラン)",
+      "name_zh": "Rive Fisch & Fischereihafen Restaurant",
       "name_fr": "Rive Fisch & Fischereihafen Restaurant (Fischereihafen Restaurant)",
       "name_de": "Rive Fisch & Fischereihafen Restaurant",
       "image": "",
@@ -1991,11 +2031,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Rive Fisch & Fischereihafen Restaurant"
     },
     {
       "id": "h_42",
-      "name": "Gröninger Privatbrauerei（グレーニンガー自家醸造所）",
+      "name": "Gröninger Privatbrauerei",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2026,7 +2067,7 @@
       "name_en": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
       "name_ja": "Gröninger Privatbrauerei（グレーニンガー自家醸造所）",
       "name_es": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
-      "name_zh": "Gröninger Privatbrauerei (グレーニンガー自家醸造所)",
+      "name_zh": "Gröninger Privatbrauerei",
       "name_fr": "Gröninger Privatbrauerei (Gröninger Private Brewery)",
       "name_de": "Gröninger Privatbrauerei",
       "image": "",
@@ -2040,11 +2081,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Gröninger Privatbrauerei"
     },
     {
       "id": "h_43",
-      "name": "Elbstrand（Övelgönne）",
+      "name": "Elbstrand",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2073,9 +2115,9 @@
       "price_fr": "砂浜無料",
       "price_de": "砂浜無料",
       "name_en": "Elbstrand (Elbstrand Beach Övelgönne)",
-      "name_ja": "Elbstrand（Övelgönne）",
+      "name_ja": "Elbstrand",
       "name_es": "Elbstrand (Elbstrand Beach Övelgönne)",
-      "name_zh": "Elbstrand (エルプシュトラント)",
+      "name_zh": "Elbstrand",
       "name_fr": "Elbstrand (Elbstrand Beach Övelgönne)",
       "name_de": "Elbstrand (Övelgönne)",
       "image": "",
@@ -2088,11 +2130,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Elbstrand"
     },
     {
       "id": "h_44",
-      "name": "Museumshafen Övelgönne（オイヴェルゲンネ博物館港）",
+      "name": "Museumshafen Övelgönne",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2123,7 +2166,7 @@
       "name_en": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
       "name_ja": "Museumshafen Övelgönne（オイヴェルゲンネ博物館港）",
       "name_es": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
-      "name_zh": "Museumshafen Övelgönne (オイヴェルゲンネ博物館港)",
+      "name_zh": "Museumshafen Övelgönne",
       "name_fr": "Museumshafen Övelgönne (Övelgönne Museum Harbor)",
       "name_de": "Museumshafen Övelgönne",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbe.Anleger_Neum%C3%BChlen.wmt.jpg/330px-Elbe.Anleger_Neum%C3%BChlen.wmt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2137,11 +2180,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museumshafen Övelgönne"
     },
     {
       "id": "h_45",
-      "name": "Stadtpark Hamburg & Planetarium Hamburg（ハンブルク市立公園＆プラネタリウム）",
+      "name": "Stadtpark Hamburg & Planetarium Hamburg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2172,7 +2216,7 @@
       "name_en": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
       "name_ja": "Stadtpark Hamburg & Planetarium Hamburg（ハンブルク市立公園＆プラネタリウム）",
       "name_es": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
-      "name_zh": "Stadtpark Hamburg & Planetarium Hamburg (ハンブルク市立公園＆プラネタリウム)",
+      "name_zh": "Stadtpark Hamburg & Planetarium Hamburg",
       "name_fr": "Stadtpark Hamburg & Planetarium Hamburg (Stadtpark & Planetarium)",
       "name_de": "Stadtpark Hamburg & Planetarium Hamburg",
       "image": "",
@@ -2188,11 +2232,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stadtpark Hamburg & Planetarium Hamburg"
     },
     {
       "id": "h_46",
-      "name": "Jenischpark & Jenisch Haus（イェーニッシュ公園＆イェーニッシュ・ハウス）",
+      "name": "Jenischpark & Jenisch Haus",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2223,7 +2268,7 @@
       "name_en": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
       "name_ja": "Jenischpark & Jenisch Haus（イェーニッシュ公園＆イェーニッシュ・ハウス）",
       "name_es": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
-      "name_zh": "Jenischpark & Jenisch Haus (イェーニッシュ公園＆イェーニッシュ・ハウス)",
+      "name_zh": "Jenischpark & Jenisch Haus",
       "name_fr": "Jenischpark & Jenisch Haus (Jenisch Park & House)",
       "name_de": "Jenischpark & Jenisch Haus",
       "image": "",
@@ -2237,11 +2282,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jenischpark & Jenisch Haus"
     },
     {
       "id": "h_47",
-      "name": "Energiebunker Wilhelmsburg（エネルギーブンカー・ヴィルヘルムスブルク）",
+      "name": "Energiebunker Wilhelmsburg",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2272,7 +2318,7 @@
       "name_en": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
       "name_ja": "Energiebunker Wilhelmsburg（エネルギーブンカー・ヴィルヘルムスブルク）",
       "name_es": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
-      "name_zh": "Energiebunker Wilhelmsburg (エネルギーブンカー・ヴィルヘルムスブルク)",
+      "name_zh": "Energiebunker Wilhelmsburg",
       "name_fr": "Energiebunker Wilhelmsburg (Wilhelmsburg Energy Bunker)",
       "name_de": "Energiebunker Wilhelmsburg",
       "image": "",
@@ -2286,11 +2332,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Energiebunker Wilhelmsburg"
     },
     {
       "id": "h_48",
-      "name": "HADAG-Hafenfähren（Linie 62）",
+      "name": "HADAG-Hafenfähren",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -2319,9 +2366,9 @@
       "price_fr": "HVV乗車券適用",
       "price_de": "HVV乗車券適用",
       "name_en": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
-      "name_ja": "HADAG-Hafenfähren（Linie 62）",
+      "name_ja": "HADAG-Hafenfähren",
       "name_es": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
-      "name_zh": "HADAG-Hafenfähren (HADAG港湾定期フェリー62番線)",
+      "name_zh": "HADAG-Hafenfähren",
       "name_fr": "HADAG-Hafenfähren (HADAG Harbor Ferry Line 62)",
       "name_de": "HADAG-Hafenfähren (Linie 62)",
       "image": "",
@@ -2334,11 +2381,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "HADAG-Hafenfähren"
     },
     {
       "id": "h_49",
-      "name": "Bäderland Holthusenbad（ホルトフーゼンバート）",
+      "name": "Bäderland Holthusenbad",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2369,7 +2417,7 @@
       "name_en": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
       "name_ja": "Bäderland Holthusenbad（ホルトフーゼンバート）",
       "name_es": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
-      "name_zh": "Bäderland Holthusenbad (ホルトフーゼンバート)",
+      "name_zh": "Bäderland Holthusenbad",
       "name_fr": "Bäderland Holthusenbad (Holthusenbad Historic Spa)",
       "name_de": "Bäderland Holthusenbad",
       "image": "",
@@ -2384,11 +2432,12 @@
         "Kids",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Bäderland Holthusenbad"
     },
     {
       "id": "h_50",
-      "name": "Lübeck: Altstadt & Holstentor（UNESCO）",
+      "name": "Lübeck: Altstadt & Holstentor",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2417,9 +2466,9 @@
       "price_fr": "旧市街無料",
       "price_de": "旧市街無料",
       "name_en": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
-      "name_ja": "Lübeck: Altstadt & Holstentor（UNESCO）",
+      "name_ja": "Lübeck: Altstadt & Holstentor",
       "name_es": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
-      "name_zh": "Lübeck: Altstadt & Holstentor (リューベック：世界遺産旧市街＆ホルステン門)",
+      "name_zh": "Lübeck: Altstadt & Holstentor",
       "name_fr": "Lübeck: Altstadt & Holstentor (Lübeck Old Town & Holsten Gate)",
       "name_de": "Lübeck: Altstadt & Holstentor (UNESCO)",
       "image": "",
@@ -2432,11 +2481,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Lübeck: Altstadt & Holstentor"
     },
     {
       "id": "h_51",
-      "name": "Lüneburg: Historische Altstadt（リューネブルク：歴史的旧市街＆ドイツ塩博物館）",
+      "name": "Lüneburg: Historische Altstadt",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2467,7 +2517,7 @@
       "name_en": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
       "name_ja": "Lüneburg: Historische Altstadt（リューネブルク：歴史的旧市街＆ドイツ塩博物館）",
       "name_es": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
-      "name_zh": "Lüneburg: Historische Altstadt (リューネブルク：歴史的旧市街＆ドイツ塩博物館)",
+      "name_zh": "Lüneburg: Historische Altstadt",
       "name_fr": "Lüneburg: Historische Altstadt (Lüneburg Old Town & Salt Museum)",
       "name_de": "Lüneburg: Historische Altstadt",
       "image": "",
@@ -2481,11 +2531,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Lüneburg: Historische Altstadt"
     },
     {
       "id": "h_52",
-      "name": "Schloss Schwerin（シュヴェリーン城）",
+      "name": "Schloss Schwerin",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2516,7 +2567,7 @@
       "name_en": "Schloss Schwerin (Schwerin Castle)",
       "name_ja": "Schloss Schwerin（シュヴェリーン城）",
       "name_es": "Schloss Schwerin (Schwerin Castle)",
-      "name_zh": "Schloss Schwerin (シュヴェリーン城)",
+      "name_zh": "Schloss Schwerin",
       "name_fr": "Schloss Schwerin (Schwerin Castle)",
       "name_de": "Schloss Schwerin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg/330px-Aerial_image_of_Schwerin_Castle_%28view_from_the_east%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2529,11 +2580,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Schwerin"
     },
     {
       "id": "h_53",
-      "name": "Stade & Altes Land（シュターデ＆アルテス・ラント）",
+      "name": "Stade & Altes Land",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2564,7 +2616,7 @@
       "name_en": "Stade & Altes Land (Stade & Altes Land Orchards)",
       "name_ja": "Stade & Altes Land（シュターデ＆アルテス・ラント）",
       "name_es": "Stade & Altes Land (Stade & Altes Land Orchards)",
-      "name_zh": "Stade & Altes Land (シュターデ＆アルテス・ラント)",
+      "name_zh": "Stade & Altes Land",
       "name_fr": "Stade & Altes Land (Stade & Altes Land Orchards)",
       "name_de": "Stade & Altes Land",
       "image": "",
@@ -2577,11 +2629,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stade & Altes Land"
     },
     {
       "id": "h_54",
-      "name": "Cuxhaven & Wattenmeer（UNESCO）",
+      "name": "Cuxhaven & Wattenmeer",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2610,9 +2663,9 @@
       "price_fr": "海岸無料",
       "price_de": "海岸無料",
       "name_en": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
-      "name_ja": "Cuxhaven & Wattenmeer（UNESCO）",
+      "name_ja": "Cuxhaven & Wattenmeer",
       "name_es": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
-      "name_zh": "Cuxhaven & Wattenmeer (クックスハーフェン＆世界遺産ワッデン海)",
+      "name_zh": "Cuxhaven & Wattenmeer",
       "name_fr": "Cuxhaven & Wattenmeer (Cuxhaven & Wadden Sea)",
       "name_de": "Cuxhaven & Wattenmeer (UNESCO)",
       "image": "",
@@ -2625,11 +2678,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cuxhaven & Wattenmeer"
     },
     {
       "id": "h_55",
-      "name": "Helgoland（ヘルゴラント島）",
+      "name": "Helgoland",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2660,7 +2714,7 @@
       "name_en": "Helgoland (Heligoland Island)",
       "name_ja": "Helgoland（ヘルゴラント島）",
       "name_es": "Helgoland (Heligoland Island)",
-      "name_zh": "Helgoland (ヘルゴラント島)",
+      "name_zh": "Helgoland",
       "name_fr": "Helgoland (Heligoland Island)",
       "name_de": "Helgoland",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DEU_Helgoland_COA.svg/langde-330px-DEU_Helgoland_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2673,7 +2727,8 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Helgoland"
     }
   ],
   "spotCount": 55

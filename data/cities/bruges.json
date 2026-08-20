@@ -1,7 +1,7 @@
 [
   {
     "id": "bg_1",
-    "name": "Belfort van Brugge（マルクト広場の鐘楼 / 世界遺産）",
+    "name": "Belfort van Brugge",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -47,11 +47,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Belfort van Brugge"
   },
   {
     "id": "bg_2",
-    "name": "De Markt（マルクト広場）",
+    "name": "De Markt",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -97,11 +98,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "De Markt"
   },
   {
     "id": "bg_3",
-    "name": "De Burg & Stadhuis（ブルグ広場＆市庁舎）",
+    "name": "De Burg & Stadhuis",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -147,11 +149,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "De Burg & Stadhuis"
   },
   {
     "id": "bg_4",
-    "name": "Heilig-Bloedbasiliek（聖血礼拝堂）",
+    "name": "Heilig-Bloedbasiliek",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -197,11 +200,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Heilig-Bloedbasiliek"
   },
   {
     "id": "bg_5",
-    "name": "Rozenhoedkaai（ロゼンフートカイ / 薔薇の帽子桟橋）",
+    "name": "Rozenhoedkaai",
     "category": "Scenery & Walk",
     "rating": "★4.9",
     "locationZone": "city",
@@ -247,11 +251,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Rozenhoedkaai"
   },
   {
     "id": "bg_6",
-    "name": "Boottochten op de Brugse Reien（ブルージュ運河観光ボート）",
+    "name": "Boottochten op de Brugse Reien",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -297,11 +302,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Boottochten op de Brugse Reien"
   },
   {
     "id": "bg_7",
-    "name": "Onze-Lieve-Vrouwekerk（聖母教会 / ミケランジェロの聖母子像）",
+    "name": "Onze-Lieve-Vrouwekerk",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -347,11 +353,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Onze-Lieve-Vrouwekerk"
   },
   {
     "id": "bg_8",
-    "name": "Sint-Janshospitaal（旧聖ヨハネ市中病院 / メムリンク美術館）",
+    "name": "Sint-Janshospitaal",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -397,11 +404,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Janshospitaal"
   },
   {
     "id": "bg_9",
-    "name": "Groeningemuseum（グルーニング美術館）",
+    "name": "Groeningemuseum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -447,11 +455,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Groeningemuseum"
   },
   {
     "id": "bg_10",
-    "name": "Begijnhof Ten Wijngaerde（ペギンホフ修道院 / 世界遺産）",
+    "name": "Begijnhof Ten Wijngaerde",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -498,11 +507,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Begijnhof Ten Wijngaerde"
   },
   {
     "id": "bg_11",
-    "name": "Minnewater & Minnewaterpark（愛の湖公園）",
+    "name": "Minnewater & Minnewaterpark",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -550,11 +560,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Minnewater & Minnewaterpark"
   },
   {
     "id": "bg_12",
-    "name": "Brouwerij De Halve Maan（ドゥ・ハルヴ・マーン醸造所＆地下ビールパイプライン）",
+    "name": "Brouwerij De Halve Maan",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -603,11 +614,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Brouwerij De Halve Maan"
   },
   {
     "id": "bg_13",
-    "name": "Bonifaciusbrug（ボニファティウス橋 / 恋人たちの橋）",
+    "name": "Bonifaciusbrug",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -654,11 +666,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Bonifaciusbrug"
   },
   {
     "id": "bg_14",
-    "name": "Gruuthusemuseum（グルートゥーズ博物館）",
+    "name": "Gruuthusemuseum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -705,11 +718,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Gruuthusemuseum"
   },
   {
     "id": "bg_15",
-    "name": "Sint-Salvatorskathedraal（救世主大聖堂）",
+    "name": "Sint-Salvatorskathedraal",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -755,11 +769,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Salvatorskathedraal"
   },
   {
     "id": "bg_16",
-    "name": "Choco-Story Brugge（チョコ・ストーリー・ブルージュ）",
+    "name": "Choco-Story Brugge",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -808,11 +823,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Choco-Story Brugge"
   },
   {
     "id": "bg_17",
-    "name": "Frietmuseum（フリッツ博物館 / 世界唯一のポテトフライドミュージアム）",
+    "name": "Frietmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -859,11 +875,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Frietmuseum"
   },
   {
     "id": "bg_18",
-    "name": "Historium Brugge（ヒストリウム・ブルージュ / 1435年VR体験）",
+    "name": "Historium Brugge",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -909,11 +926,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Historium Brugge"
   },
   {
     "id": "bg_19",
-    "name": "Kantcentrum & Kantmuseum（レースセンター＆レース博物館）",
+    "name": "Kantcentrum & Kantmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -960,11 +978,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Kantcentrum & Kantmuseum"
   },
   {
     "id": "bg_20",
-    "name": "Jerusalemkapel（エルサレム礼拝堂）",
+    "name": "Jerusalemkapel",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1010,11 +1029,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Jerusalemkapel"
   },
   {
     "id": "bg_21",
-    "name": "Huidenvettersplein（皮たし職人広場）",
+    "name": "Huidenvettersplein",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1063,11 +1083,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Huidenvettersplein"
   },
   {
     "id": "bg_22",
-    "name": "Vismarkt（旧魚市場）",
+    "name": "Vismarkt",
     "category": "Scenery & Walk",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1114,11 +1135,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Vismarkt"
   },
   {
     "id": "bg_23",
-    "name": "Kruispoort & Gentpoort（クルフス門＆ヘント門 / 中世の城門）",
+    "name": "Kruispoort & Gentpoort",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1166,11 +1188,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Kruispoort & Gentpoort"
   },
   {
     "id": "bg_24",
-    "name": "Sint-Janshuismolen（ブルージュの風車群 / 聖ヤンハウス風車）",
+    "name": "Sint-Janshuismolen",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1216,11 +1239,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Janshuismolen"
   },
   {
     "id": "bg_25",
-    "name": "Steenstraat & Wollestraat（スティーン通り＆ヴォレ通りショッピング街）",
+    "name": "Steenstraat & Wollestraat",
     "category": "Shopping",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1270,11 +1294,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Steenstraat & Wollestraat"
   },
   {
     "id": "bg_26",
-    "name": "2be Beer Wall（ザ・ビールウォール / 運河テラス）",
+    "name": "2be Beer Wall",
     "category": "Café & Bistro",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1323,11 +1348,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "2be Beer Wall"
   },
   {
     "id": "bg_27",
-    "name": "Volkskundemuseum（民俗博物館 / 17世紀の生活再現）",
+    "name": "Volkskundemuseum",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1375,11 +1401,12 @@
       "Night",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Volkskundemuseum"
   },
   {
     "id": "bg_28",
-    "name": "Godshuizen（ゴッズハウス / 伝統の白壁福祉住宅）",
+    "name": "Godshuizen",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1425,11 +1452,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Godshuizen"
   },
   {
     "id": "bg_29",
-    "name": "Koningin Astridpark（アストリッド女王公園）",
+    "name": "Koningin Astridpark",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1476,11 +1504,12 @@
       "Kids",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Koningin Astridpark"
   },
   {
     "id": "bg_30",
-    "name": "Sint-Annakerk（聖アンナ教会）",
+    "name": "Sint-Annakerk",
     "category": "Landmark",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1528,11 +1557,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Sint-Annakerk"
   },
   {
     "id": "bg_31",
-    "name": "Brouwerij Bourgogne des Flandres（ブルゴーニュ・デ・フランドル醸造所）",
+    "name": "Brouwerij Bourgogne des Flandres",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1581,11 +1611,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Brouwerij Bourgogne des Flandres"
   },
   {
     "id": "bg_32",
-    "name": "Hof Arents（アレンツ庭園＆黙示録の4人の騎士像）",
+    "name": "Hof Arents",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1632,11 +1663,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Hof Arents"
   },
   {
     "id": "bg_33",
-    "name": "Chocolaterie Dumon（デュモン / 15世紀の小コテージショコラティエ）",
+    "name": "Chocolaterie Dumon",
     "category": "Café & Bistro",
     "rating": "★4.8",
     "locationZone": "city",
@@ -1684,11 +1716,12 @@
       "Kids",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Chocolaterie Dumon"
   },
   {
     "id": "bg_34",
-    "name": "Oud Sint-Jan（オールド・セント・ジョン文化センター）",
+    "name": "Oud Sint-Jan",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1735,11 +1768,12 @@
       "Café",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Oud Sint-Jan"
   },
   {
     "id": "bg_35",
-    "name": "Diamond Museum（ブルージュ・ダイヤモンド博物館）",
+    "name": "Diamond Museum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1785,11 +1819,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Diamond Museum"
   },
   {
     "id": "bg_36",
-    "name": "Jan van Eyckplein（ヤン・ファン・エイク広場）",
+    "name": "Jan van Eyckplein",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1835,11 +1870,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Jan van Eyckplein"
   },
   {
     "id": "bg_37",
-    "name": "Spiegelrei & Langerei（シュピーゲルレイ＆ランゲレイ閑静運河）",
+    "name": "Spiegelrei & Langerei",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1885,11 +1921,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Spiegelrei & Langerei"
   },
   {
     "id": "bg_38",
-    "name": "Engels Klooster（イングリッシュ・コンヴェント / 英国修道院）",
+    "name": "Engels Klooster",
     "category": "Landmark",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1937,11 +1974,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Engels Klooster"
   },
   {
     "id": "bg_39",
-    "name": "Gezelle Memorial Museum（ギド・ゲゼル記念館）",
+    "name": "Gezelle Memorial Museum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1988,11 +2026,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Gezelle Memorial Museum"
   },
   {
     "id": "bg_40",
-    "name": "Vesten van Brugge（ブルージュ城壁グリーンベルト遊歩道）",
+    "name": "Vesten van Brugge",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -2040,11 +2079,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Vesten van Brugge"
   },
   {
     "id": "bg_41",
-    "name": "Historisch Damme（ダム中世の文学と本の運河村）",
+    "name": "Historisch Damme",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -2092,11 +2132,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Historisch Damme"
   },
   {
     "id": "bg_42",
-    "name": "Kasteel van Loppem（ロッペム城＆百年生け垣迷路）",
+    "name": "Kasteel van Loppem",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -2142,6 +2183,7 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Kasteel van Loppem"
   }
 ]

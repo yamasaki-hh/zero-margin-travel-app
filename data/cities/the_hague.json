@@ -6,7 +6,7 @@
   "spots": [
     {
       "id": "dh_1",
-      "name": "Mauritshuis（マウリッツハイス美術館）",
+      "name": "Mauritshuis",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -53,11 +53,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mauritshuis"
     },
     {
       "id": "dh_2",
-      "name": "Het Binnenhof & Ridderzaal（ビネンホフ＆騎士の館）",
+      "name": "Het Binnenhof & Ridderzaal",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -104,11 +105,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Het Binnenhof & Ridderzaal"
     },
     {
       "id": "dh_3",
-      "name": "Vredespaleis）（平和宮（国際司法裁判所）",
+      "name": "Vredespaleis",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -123,12 +125,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Friedenspalast_Den_Haag_%28100MP%29.jpg/330px-Friedenspalast_Den_Haag_%28100MP%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Friedenspalast_Den_Haag_%28100MP%29.jpg/330px-Friedenspalast_Den_Haag_%28100MP%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "name_en": "Vredespaleis）",
-      "name_ja": "Vredespaleis）（平和宮（国際司法裁判所）",
-      "name_es": "Vredespaleis）",
-      "name_zh": "Vredespaleis）",
-      "name_fr": "Vredespaleis）",
-      "name_de": "Vredespaleis）",
+      "name_en": "Vredespaleis",
+      "name_ja": "Vredespaleis（平和宮（国際司法裁判所）",
+      "name_es": "Vredespaleis",
+      "name_zh": "Vredespaleis",
+      "name_fr": "Vredespaleis",
+      "name_de": "Vredespaleis",
       "desc_en": "Imposing 1913 Neo-Renaissance palace housing the UN International Court of Justice (ICJ) and Permanent Court of Arbitration.",
       "desc_ja": "1913年完成のネオ・ルネサンス様式宮殿。国連の「国際司法裁判所（ICJ）」および常設仲裁裁判所が置かれる国際法の殿堂。",
       "desc_es": "Imposing 1913 Neo-Renaissance palace housing the UN International Court of Justice (ICJ) and Permanent Court of Arbitration.",
@@ -147,18 +149,19 @@
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
       "price_de": "Freier Zugang",
-      "name_nl": "Vredespaleis）",
+      "name_nl": "Vredespaleis",
       "desc_nl": "Imposing 1913 Neo-Renaissance palace housing the UN International Court of Justice (ICJ) and Permanent Court of Arbitration.",
       "tip_nl": "🏛️ Interior access is by guided weekend tour only. The Visitors Centre outside the gate offers a free audio guide exhibition.",
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Vredespaleis"
     },
     {
       "id": "dh_4",
-      "name": "Kunstmuseum Den Haag（ハーグ市立美術館）",
+      "name": "Kunstmuseum Den Haag",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -205,11 +208,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kunstmuseum Den Haag"
     },
     {
       "id": "dh_5",
-      "name": "Panorama Mesdag（パノラマ・メスダフ美術館）",
+      "name": "Panorama Mesdag",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -255,11 +259,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Panorama Mesdag"
     },
     {
       "id": "dh_6",
-      "name": "Escher in Het Paleis）（エッシャー・イン・ヘット・パライス（旧宮殿）",
+      "name": "Escher in Het Paleis",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -274,12 +279,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "Escher in Het Paleis）",
-      "name_ja": "Escher in Het Paleis）（エッシャー・イン・ヘット・パライス（旧宮殿）",
-      "name_es": "Escher in Het Paleis）",
-      "name_zh": "Escher in Het Paleis）",
-      "name_fr": "Escher in Het Paleis）",
-      "name_de": "Escher in Het Paleis）",
+      "name_en": "Escher in Het Paleis",
+      "name_ja": "Escher in Het Paleis（エッシャー・イン・ヘット・パライス（旧宮殿）",
+      "name_es": "Escher in Het Paleis",
+      "name_zh": "Escher in Het Paleis",
+      "name_fr": "Escher in Het Paleis",
+      "name_de": "Escher in Het Paleis",
       "desc_en": "Museum in Queen Mother Emma's 18th-century winter palace, dedicated to the mind-bending optical illusions of M.C. Escher.",
       "desc_ja": "ランゲ・フォアハウトの旧王太后エマ宮殿内にある、騙し絵・無限階段で知られる版画家M.C.エッシャーの全作品を展示する美術館。",
       "desc_es": "Museum in Queen Mother Emma's 18th-century winter palace, dedicated to the mind-bending optical illusions of M.C. Escher.",
@@ -298,7 +303,7 @@
       "price_zh": "门票：€12.50",
       "price_fr": "Entrée : €12.50",
       "price_de": "Eintritt: €12.50",
-      "name_nl": "Escher in Het Paleis）",
+      "name_nl": "Escher in Het Paleis",
       "desc_nl": "Museum in Queen Mother Emma's 18th-century winter palace, dedicated to the mind-bending optical illusions of M.C. Escher.",
       "tip_nl": "🪄 Step into the top-floor 'Escher Room' (Ames room illusion) where optical perspective makes one person look tiny and another giant.",
       "price_nl": "Toegang: €14.50",
@@ -306,11 +311,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Escher in Het Paleis"
     },
     {
       "id": "dh_7",
-      "name": "De Pier Scheveningen & Reuzenrad（スヘフェニンゲン・ピア＆大観覧車）",
+      "name": "De Pier Scheveningen & Reuzenrad",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -358,11 +364,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "De Pier Scheveningen & Reuzenrad"
     },
     {
       "id": "dh_8",
-      "name": "Scheveningen Strand & Boulevard（スヘフェニンゲン海岸＆プロムナード）",
+      "name": "Scheveningen Strand & Boulevard",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -408,11 +415,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Scheveningen Strand & Boulevard"
     },
     {
       "id": "dh_9",
-      "name": "Grand Hotel Amrâth Kurhaus（スヘフェニンゲン・クルハウスホテル）",
+      "name": "Grand Hotel Amrâth Kurhaus",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -459,11 +467,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grand Hotel Amrâth Kurhaus"
     },
     {
       "id": "dh_10",
-      "name": "Lange Voorhout（ランゲ・フォアハウト通り）",
+      "name": "Lange Voorhout",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -510,11 +519,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Lange Voorhout"
     },
     {
       "id": "dh_11",
-      "name": "Paleis Noordeinde & Paleistuin（ノーオルデインデ宮殿＆王立庭園）",
+      "name": "Paleis Noordeinde & Paleistuin",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -563,11 +573,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Paleis Noordeinde & Paleistuin"
     },
     {
       "id": "dh_12",
-      "name": "Madurodam（マドローダム・ミニチュアパーク）",
+      "name": "Madurodam",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -615,11 +626,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Madurodam"
     },
     {
       "id": "dh_13",
-      "name": "Museum Beelden aan Zee）（彫刻美術館（シー・スカルプチャーズ）",
+      "name": "Museum Beelden aan Zee",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -634,12 +646,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/April_2004_Beeld_Scheveningen.JPG/330px-April_2004_Beeld_Scheveningen.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "wikiImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/April_2004_Beeld_Scheveningen.JPG/330px-April_2004_Beeld_Scheveningen.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "hasWiki": true,
-      "name_en": "Museum Beelden aan Zee）",
-      "name_ja": "Museum Beelden aan Zee）（彫刻美術館（シー・スカルプチャーズ）",
-      "name_es": "Museum Beelden aan Zee）",
-      "name_zh": "Museum Beelden aan Zee）",
-      "name_fr": "Museum Beelden aan Zee）",
-      "name_de": "Museum Beelden aan Zee）",
+      "name_en": "Museum Beelden aan Zee",
+      "name_ja": "Museum Beelden aan Zee（彫刻美術館（シー・スカルプチャーズ）",
+      "name_es": "Museum Beelden aan Zee",
+      "name_zh": "Museum Beelden aan Zee",
+      "name_fr": "Museum Beelden aan Zee",
+      "name_de": "Museum Beelden aan Zee",
       "desc_en": "Modern museum set inside coastal sand dunes of Scheveningen, dedicated to modern and contemporary sculpture.",
       "desc_ja": "スヘフェニンゲンの砂丘内部に埋め込まれるように建てられたモダン美術館。国際的な現代彫刻コレクションと砂丘テラスを併設。",
       "desc_es": "Modern museum set inside coastal sand dunes of Scheveningen, dedicated to modern and contemporary sculpture.",
@@ -658,18 +670,19 @@
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
       "price_de": "Freier Zugang",
-      "name_nl": "Museum Beelden aan Zee）",
+      "name_nl": "Museum Beelden aan Zee",
       "desc_nl": "Modern museum set inside coastal sand dunes of Scheveningen, dedicated to modern and contemporary sculpture.",
       "tip_nl": "🗿 Walk freely among the fairytale bronze sculptures created by Tom Otterness along the public beach promenade.",
       "price_nl": "Free Entry",
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Beelden aan Zee"
     },
     {
       "id": "dh_14",
-      "name": "Louwman Museum（ローマン自動車博物館）",
+      "name": "Louwman Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -715,11 +728,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Louwman Museum"
     },
     {
       "id": "dh_15",
-      "name": "De Passage（デ・パサージュアーケード）",
+      "name": "De Passage",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -766,11 +780,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Passage"
     },
     {
       "id": "dh_16",
-      "name": "SEA LIFE Scheveningen（シーライフ・スヘフェニンゲン水族館）",
+      "name": "SEA LIFE Scheveningen",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -817,11 +832,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "SEA LIFE Scheveningen"
     },
     {
       "id": "dh_17",
-      "name": "Museum Bredius（ブレディウス美術館）",
+      "name": "Museum Bredius",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -868,11 +884,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Bredius"
     },
     {
       "id": "dh_18",
-      "name": "Grote of Sint-Jacobskerk（大ヤコブ教会）",
+      "name": "Grote of Sint-Jacobskerk",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -918,11 +935,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grote of Sint-Jacobskerk"
     },
     {
       "id": "dh_19",
-      "name": "Oude Stadhuis Den Haag（ハーグ旧市役所）",
+      "name": "Oude Stadhuis Den Haag",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -968,11 +986,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Oude Stadhuis Den Haag"
     },
     {
       "id": "dh_20",
-      "name": "Den Haag Centraal & Babylon（ハーグ中央駅＆ニューバビロン）",
+      "name": "Den Haag Centraal & Babylon",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1019,11 +1038,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Den Haag Centraal & Babylon"
     },
     {
       "id": "dh_21",
-      "name": "Noordeinde & Denneweg（デンネヴェフ＆ノーオルデインデ・ブティック街）",
+      "name": "Noordeinde & Denneweg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1071,11 +1091,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Noordeinde & Denneweg"
     },
     {
       "id": "dh_22",
-      "name": "Chinatown Den Haag（ハーグ中華街）",
+      "name": "Chinatown Den Haag",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1123,11 +1144,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Chinatown Den Haag"
     },
     {
       "id": "dh_23",
-      "name": "Westbroekpark & Rosarium（ウェストブルック公園バラ園）",
+      "name": "Westbroekpark & Rosarium",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1174,11 +1196,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Westbroekpark & Rosarium"
     },
     {
       "id": "dh_24",
-      "name": "Clingendael & Japanse Tuin（クリンゲンダール荘園＆日本庭園）",
+      "name": "Clingendael & Japanse Tuin",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1224,11 +1247,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Clingendael & Japanse Tuin"
     },
     {
       "id": "dh_25",
-      "name": "Muzee Scheveningen（スヘフェニンゲン郷土博物館）",
+      "name": "Muzee Scheveningen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1274,11 +1298,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Muzee Scheveningen"
     },
     {
       "id": "dh_26",
-      "name": "De Haagse Markt（ハーグ青空市場）",
+      "name": "De Haagse Markt",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1325,11 +1350,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Haagse Markt"
     },
     {
       "id": "dh_27",
-      "name": "Museum Meermanno / Huis van het Boek）（本の本博物館（旧メールマンノ博物館）",
+      "name": "Museum Meermanno / Huis van het Boek",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1344,12 +1370,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "Museum Meermanno / Huis van het Boek）",
-      "name_ja": "Museum Meermanno / Huis van het Boek）（本の本博物館（旧メールマンノ博物館）",
-      "name_es": "Museum Meermanno / Huis van het Boek）",
-      "name_zh": "Museum Meermanno / Huis van het Boek）",
-      "name_fr": "Museum Meermanno / Huis van het Boek）",
-      "name_de": "Museum Meermanno / Huis van het Boek）",
+      "name_en": "Museum Meermanno / Huis van het Boek",
+      "name_ja": "Museum Meermanno / Huis van het Boek（本の本博物館（旧メールマンノ博物館）",
+      "name_es": "Museum Meermanno / Huis van het Boek",
+      "name_zh": "Museum Meermanno / Huis van het Boek",
+      "name_fr": "Museum Meermanno / Huis van het Boek",
+      "name_de": "Museum Meermanno / Huis van het Boek",
       "desc_en": "The oldest book museum in the world, dedicated to medieval manuscripts, early printed books, and typography.",
       "desc_ja": "プリンセッセフラハト沿いの18世紀邸宅内にある世界最古の書籍専門博物館。中世の手写本からグーテンベルク印刷本まで展示。",
       "desc_es": "The oldest book museum in the world, dedicated to medieval manuscripts, early printed books, and typography.",
@@ -1368,7 +1394,7 @@
       "price_zh": "门票：€12.00",
       "price_fr": "Entrée : €12.00",
       "price_de": "Eintritt: €12.00",
-      "name_nl": "Museum Meermanno / Huis van het Boek）",
+      "name_nl": "Museum Meermanno / Huis van het Boek",
       "desc_nl": "The oldest book museum in the world, dedicated to medieval manuscripts, early printed books, and typography.",
       "tip_nl": "📖 Visit the historic 19th-century book gallery (Boekenzaal) with floor-to-ceiling wooden bookshelves.",
       "price_nl": "Entry: €12.00",
@@ -1376,11 +1402,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Meermanno / Huis van het Boek"
     },
     {
       "id": "dh_28",
-      "name": "Gevangenpoort（囚人の門博物館）",
+      "name": "Gevangenpoort",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1427,11 +1454,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Gevangenpoort"
     },
     {
       "id": "dh_29",
-      "name": "Scheveningse Bosjes & Indisch Monument（スヘフェニンゲン森＆インドネシア戦没者慰霊碑）",
+      "name": "Scheveningse Bosjes & Indisch Monument",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1477,11 +1505,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Scheveningse Bosjes & Indisch Monument"
     },
     {
       "id": "dh_30",
-      "name": "Museon-Omniversum（ミューゼオン・オムニバース全天周映画館）",
+      "name": "Museon-Omniversum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1530,11 +1559,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Museon-Omniversum"
     },
     {
       "id": "dh_31",
-      "name": "Paleis Huis ten Bosch（ハウステンボス宮殿）",
+      "name": "Paleis Huis ten Bosch",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1580,11 +1610,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Paleis Huis ten Bosch"
     },
     {
       "id": "dh_32",
-      "name": "Haagse Bos & Malieveld（ハーグの森＆マリエフェルト広場）",
+      "name": "Haagse Bos & Malieveld",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1631,11 +1662,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Haagse Bos & Malieveld"
     },
     {
       "id": "dh_33",
-      "name": "Haven van Scheveningen（スヘフェニンゲン漁港）",
+      "name": "Haven van Scheveningen",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1683,11 +1715,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Haven van Scheveningen"
     },
     {
       "id": "dh_34",
-      "name": "Stadhuis Den Haag）（ハーグ市役所（アイスパレス）",
+      "name": "Stadhuis Den Haag",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1702,12 +1735,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "Stadhuis Den Haag）",
-      "name_ja": "Stadhuis Den Haag）（ハーグ市役所（アイスパレス）",
-      "name_es": "Stadhuis Den Haag）",
-      "name_zh": "Stadhuis Den Haag）",
-      "name_fr": "Stadhuis Den Haag）",
-      "name_de": "Stadhuis Den Haag）",
+      "name_en": "Stadhuis Den Haag",
+      "name_ja": "Stadhuis Den Haag（ハーグ市役所（アイスパレス）",
+      "name_es": "Stadhuis Den Haag",
+      "name_zh": "Stadhuis Den Haag",
+      "name_fr": "Stadhuis Den Haag",
+      "name_de": "Stadhuis Den Haag",
       "desc_en": "Designed by architect Richard Meier, a stark-white modernist municipal complex featuring a soaring indoor atrium.",
       "desc_ja": "アメリカの建築家リチャード・マイヤー設計の1995年完成の近代市役所。白一色の光に満ちた巨大な屋内アトリウムを持つ。",
       "desc_es": "Designed by architect Richard Meier, a stark-white modernist municipal complex featuring a soaring indoor atrium.",
@@ -1726,18 +1759,19 @@
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
       "price_de": "Freier Zugang",
-      "name_nl": "Stadhuis Den Haag）",
+      "name_nl": "Stadhuis Den Haag",
       "desc_nl": "Designed by architect Richard Meier, a stark-white modernist municipal complex featuring a soaring indoor atrium.",
       "tip_nl": "🏛️ Walk into the massive central white atrium for free to admire the Meier architecture and civic art exhibits.",
       "price_nl": "Free Entry",
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stadhuis Den Haag"
     },
     {
       "id": "dh_35",
-      "name": "De Zandmotor & Zuiderstrand）（サンドモーター＆南海岸（ザイデルストランド）",
+      "name": "De Zandmotor & Zuiderstrand",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1752,12 +1786,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "De Zandmotor & Zuiderstrand）",
-      "name_ja": "De Zandmotor & Zuiderstrand）（サンドモーター＆南海岸（ザイデルストランド）",
-      "name_es": "De Zandmotor & Zuiderstrand）",
-      "name_zh": "De Zandmotor & Zuiderstrand）",
-      "name_fr": "De Zandmotor & Zuiderstrand）",
-      "name_de": "De Zandmotor & Zuiderstrand）",
+      "name_en": "De Zandmotor & Zuiderstrand",
+      "name_ja": "De Zandmotor & Zuiderstrand（サンドモーター＆南海岸（ザイデルストランド）",
+      "name_es": "De Zandmotor & Zuiderstrand",
+      "name_zh": "De Zandmotor & Zuiderstrand",
+      "name_fr": "De Zandmotor & Zuiderstrand",
+      "name_de": "De Zandmotor & Zuiderstrand",
       "desc_en": "Quiet natural dune beach south of Scheveningen harbor, home to De Zandmotor artificial sand peninsula.",
       "desc_ja": "スヘフェニンゲン港の南側に広がる落ち着いた静かな天然砂浜「Zuiderstrand」。潮流で砂丘を保全する巨大人工砂半島「Sand Engine」が位置する。",
       "desc_es": "Quiet natural dune beach south of Scheveningen harbor, home to De Zandmotor artificial sand peninsula.",
@@ -1776,18 +1810,19 @@
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
       "price_de": "Freier Zugang",
-      "name_nl": "De Zandmotor & Zuiderstrand）",
+      "name_nl": "De Zandmotor & Zuiderstrand",
       "desc_nl": "Quiet natural dune beach south of Scheveningen harbor, home to De Zandmotor artificial sand peninsula.",
       "tip_nl": "🏄 Ideal for kitesurfing and dune walks; beach pavilions here are far more relaxed than central Scheveningen.",
       "price_nl": "Free Entry",
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Zandmotor & Zuiderstrand"
     },
     {
       "id": "dh_36",
-      "name": "Park Zorgvliet & Catshuis）（ゾルヒフリート公園＆キャッツハウス（首相公邸）",
+      "name": "Park Zorgvliet & Catshuis",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1802,12 +1837,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "Park Zorgvliet & Catshuis）",
-      "name_ja": "Park Zorgvliet & Catshuis）（ゾルヒフリート公園＆キャッツハウス（首相公邸）",
-      "name_es": "Park Zorgvliet & Catshuis）",
-      "name_zh": "Park Zorgvliet & Catshuis）",
-      "name_fr": "Park Zorgvliet & Catshuis）",
-      "name_de": "Park Zorgvliet & Catshuis）",
+      "name_en": "Park Zorgvliet & Catshuis",
+      "name_ja": "Park Zorgvliet & Catshuis（ゾルヒフリート公園＆キャッツハウス（首相公邸）",
+      "name_es": "Park Zorgvliet & Catshuis",
+      "name_zh": "Park Zorgvliet & Catshuis",
+      "name_fr": "Park Zorgvliet & Catshuis",
+      "name_de": "Park Zorgvliet & Catshuis",
       "desc_en": "Protected historic landscape park containing the Catshuis, official 17th-century country residence of Dutch Prime Minister.",
       "desc_ja": "中心部と海岸の間に広がる保護歴史風景公園。園内には17世紀建造のオランダ首相公邸「Catshuis」が位置する。",
       "desc_es": "Protected historic landscape park containing the Catshuis, official 17th-century country residence of Dutch Prime Minister.",
@@ -1826,7 +1861,7 @@
       "price_zh": "免费参观",
       "price_fr": "Accès gratuit",
       "price_de": "Freier Zugang",
-      "name_nl": "Park Zorgvliet & Catshuis）",
+      "name_nl": "Park Zorgvliet & Catshuis",
       "desc_nl": "Protected historic landscape park containing the Catshuis, official 17th-century country residence of Dutch Prime Minister.",
       "tip_nl": "🌿 Access requires a nominal annual walking permit from municipality to preserve rare birds, keeping it serene.",
       "price_nl": "Free Entry",
@@ -1834,11 +1869,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Park Zorgvliet & Catshuis"
     },
     {
       "id": "dh_37",
-      "name": "Koninklijke Schouwburg（ハーグ王立劇場）",
+      "name": "Koninklijke Schouwburg",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1884,11 +1920,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Koninklijke Schouwburg"
     },
     {
       "id": "dh_38",
-      "name": "Indische Buurt & Archipelbuurt（インドネシア地区＆ライスタッフェル街）",
+      "name": "Indische Buurt & Archipelbuurt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1934,11 +1971,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Indische Buurt & Archipelbuurt"
     },
     {
       "id": "dh_39",
-      "name": "Nieuwe Kerk Den Haag & Spinoza（ハーグ新教会＆スピノザの墓）",
+      "name": "Nieuwe Kerk Den Haag & Spinoza",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1986,11 +2024,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Nieuwe Kerk Den Haag & Spinoza"
     },
     {
       "id": "dh_40",
-      "name": "Drievliet Familiepark（ドリーフリート遊園地）",
+      "name": "Drievliet Familiepark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2037,11 +2076,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Drievliet Familiepark"
     },
     {
       "id": "dh_41",
-      "name": "Historisch Leiden（ライデン歴史地区）",
+      "name": "Historisch Leiden",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2089,11 +2129,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historisch Leiden"
     },
     {
       "id": "dh_42",
-      "name": "CORPUS Journey Through the Human Body（コーパス人体探検ミュージアム）",
+      "name": "CORPUS Journey Through the Human Body",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2140,11 +2181,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "CORPUS Journey Through the Human Body"
     },
     {
       "id": "dh_43",
-      "name": "Museum Voorlinden（フォールリンデン現代美術館）",
+      "name": "Museum Voorlinden",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2191,11 +2233,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Voorlinden"
     },
     {
       "id": "dh_44",
-      "name": "Kasteel Duivenvoorde（ドイフェンフォールデ城）",
+      "name": "Kasteel Duivenvoorde",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2242,11 +2285,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kasteel Duivenvoorde"
     },
     {
       "id": "dh_45",
-      "name": "Historisch Delft（デルフト歴史地区）",
+      "name": "Historisch Delft",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2293,7 +2337,8 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historisch Delft"
     }
   ],
   "spotCount": 45

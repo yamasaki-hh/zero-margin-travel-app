@@ -6,7 +6,7 @@
   "spots": [
     {
       "id": "ro_1",
-      "name": "Erasmusbrug（エラスムス橋）",
+      "name": "Erasmusbrug",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -52,11 +52,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Erasmusbrug"
     },
     {
       "id": "ro_2",
-      "name": "Markthal Rotterdam（マルクトハル）",
+      "name": "Markthal Rotterdam",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -103,11 +104,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Markthal Rotterdam"
     },
     {
       "id": "ro_3",
-      "name": "Kijk-Kubus & Kubuswoningen（キューブハウス）",
+      "name": "Kijk-Kubus & Kubuswoningen",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -154,11 +156,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kijk-Kubus & Kubuswoningen"
     },
     {
       "id": "ro_4",
-      "name": "Depot Boijmans Van Beuningen（デポ・ボイマンス・ファン・ベーニンゲン）",
+      "name": "Depot Boijmans Van Beuningen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -204,11 +207,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Depot Boijmans Van Beuningen"
     },
     {
       "id": "ro_5",
-      "name": "Euromast & Euroscoop（ユーロマスト）",
+      "name": "Euromast & Euroscoop",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -255,11 +259,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Euromast & Euroscoop"
     },
     {
       "id": "ro_6",
-      "name": "Werelderfgoed Kinderdijk（キンデルダイクの風車群）",
+      "name": "Werelderfgoed Kinderdijk",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -306,11 +311,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Werelderfgoed Kinderdijk"
     },
     {
       "id": "ro_7",
-      "name": "Historisch Delfshaven（歴史的デルフスハーフェン）",
+      "name": "Historisch Delfshaven",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -356,11 +362,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historisch Delfshaven"
     },
     {
       "id": "ro_8",
-      "name": "SS Rotterdam（SSロッテルダム号）",
+      "name": "SS Rotterdam",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -406,11 +413,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "SS Rotterdam"
     },
     {
       "id": "ro_9",
-      "name": "De Rotterdam（デ・ロッテルダム）",
+      "name": "De Rotterdam",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -456,11 +464,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Rotterdam"
     },
     {
       "id": "ro_10",
-      "name": "Rotterdam Watertaxi（ロッテルダム水上タクシー）",
+      "name": "Rotterdam Watertaxi",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -506,11 +515,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Rotterdam Watertaxi"
     },
     {
       "id": "ro_11",
-      "name": "Hotel New York & Wilhelminapier（ホテル・ニューヨーク＆ウィルヘルミナ埠頭）",
+      "name": "Hotel New York & Wilhelminapier",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -558,11 +568,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hotel New York & Wilhelminapier"
     },
     {
       "id": "ro_12",
-      "name": "Fenix Food Factory & Katendrecht（フェニックス・フード・ファクトリー）",
+      "name": "Fenix Food Factory & Katendrecht",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -608,11 +619,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fenix Food Factory & Katendrecht"
     },
     {
       "id": "ro_13",
-      "name": "Museum Boijmans Van Beuningen（ボイマンス・ファン・ベーニンゲン美術館）",
+      "name": "Museum Boijmans Van Beuningen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -660,11 +672,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Boijmans Van Beuningen"
     },
     {
       "id": "ro_14",
-      "name": "Kunsthal Rotterdam（クンストハル・ロッテルダム）",
+      "name": "Kunsthal Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -711,11 +724,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kunsthal Rotterdam"
     },
     {
       "id": "ro_15",
-      "name": "Het Nieuwe Instituut & Huis Sonneveld（ゾンネフェルト邸＆国立建築デザイン文化ミュージアム）",
+      "name": "Het Nieuwe Instituut & Huis Sonneveld",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -761,11 +775,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Het Nieuwe Instituut & Huis Sonneveld"
     },
     {
       "id": "ro_16",
-      "name": "Maritiem Museum Rotterdam（ロッテルダム海事博物館）",
+      "name": "Maritiem Museum Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -811,11 +826,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Maritiem Museum Rotterdam"
     },
     {
       "id": "ro_17",
-      "name": "Witte de Withstraat（ヴィッテ・デ・ヴィト通り）",
+      "name": "Witte de Withstraat",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -863,11 +879,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Witte de Withstraat"
     },
     {
       "id": "ro_18",
-      "name": "Station Rotterdam Centraal（ロッテルダム中央駅）",
+      "name": "Station Rotterdam Centraal",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -913,11 +930,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Station Rotterdam Centraal"
     },
     {
       "id": "ro_19",
-      "name": "Laurenskerk（聖ローレンス教会）",
+      "name": "Laurenskerk",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -963,11 +981,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Laurenskerk"
     },
     {
       "id": "ro_20",
-      "name": "Oude Haven & Witte Huis（旧港＆ホワイトハウス）",
+      "name": "Oude Haven & Witte Huis",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1013,11 +1032,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Oude Haven & Witte Huis"
     },
     {
       "id": "ro_21",
-      "name": "Luchtsingel（ルフトシンゲル黄色い歩道橋）",
+      "name": "Luchtsingel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1063,11 +1083,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Luchtsingel"
     },
     {
       "id": "ro_22",
-      "name": "Diergaarde Blijdorp（ブライドルプ動物園）",
+      "name": "Diergaarde Blijdorp",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1114,11 +1135,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Diergaarde Blijdorp"
     },
     {
       "id": "ro_23",
-      "name": "Miniworld Rotterdam（ミニワールド・ロッテルダム）",
+      "name": "Miniworld Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1165,11 +1187,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Miniworld Rotterdam"
     },
     {
       "id": "ro_24",
-      "name": "Spido Havenrondvaart（スピド港湾巡航船）",
+      "name": "Spido Havenrondvaart",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1216,11 +1239,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Spido Havenrondvaart"
     },
     {
       "id": "ro_25",
-      "name": "Het Park & De Heuvel（ユーロマスト公園）",
+      "name": "Het Park & De Heuvel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1268,11 +1292,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Het Park & De Heuvel"
     },
     {
       "id": "a_26",
-      "name": "Lijnbaan & Beurstraverse（ラインバーン＆コープホート）",
+      "name": "Lijnbaan & Beurstraverse",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1321,11 +1346,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Lijnbaan & Beurstraverse"
     },
     {
       "id": "ro_27",
-      "name": "Remastered Rotterdam（リマスタード・デジタルアート）",
+      "name": "Remastered Rotterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1371,11 +1397,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Remastered Rotterdam"
     },
     {
       "id": "ro_28",
-      "name": "Dakpark Rotterdam（ダックパーク屋上公園）",
+      "name": "Dakpark Rotterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1425,11 +1452,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Dakpark Rotterdam"
     },
     {
       "id": "ro_29",
-      "name": "Nederlands Fotomuseum（オランダ写真美術館 / Pakhuis Santos）",
+      "name": "Nederlands Fotomuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1476,11 +1504,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Nederlands Fotomuseum"
     },
     {
       "id": "ro_30",
-      "name": "Kralingse Bos & Kralingse Plas（クラーリンセの森と湖）",
+      "name": "Kralingse Bos & Kralingse Plas",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1526,11 +1555,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kralingse Bos & Kralingse Plas"
     },
     {
       "id": "ro_31",
-      "name": "Willemsbrug（ウィレムス橋）",
+      "name": "Willemsbrug",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1576,11 +1606,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Willemsbrug"
     },
     {
       "id": "ro_32",
-      "name": "Noordereiland（ノーデルエイランド島）",
+      "name": "Noordereiland",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1626,11 +1657,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Noordereiland"
     },
     {
       "id": "ro_33",
-      "name": "Trompenburg Tuinen & Arboretum（トロンペンブルク樹木園）",
+      "name": "Trompenburg Tuinen & Arboretum",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1676,11 +1708,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Trompenburg Tuinen & Arboretum"
     },
     {
       "id": "ro_34",
-      "name": "Stadhuis Rotterdam（ロッテルダム市役所）",
+      "name": "Stadhuis Rotterdam",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1726,11 +1759,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stadhuis Rotterdam"
     },
     {
       "id": "ro_35",
-      "name": "Fenix Migration Museum（フェニックス移民美術館）",
+      "name": "Fenix Migration Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1776,11 +1810,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fenix Migration Museum"
     },
     {
       "id": "ro_36",
-      "name": "Splashtours Rotterdam（スプラッシュツアー水陸両用バス）",
+      "name": "Splashtours Rotterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1826,11 +1861,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Splashtours Rotterdam"
     },
     {
       "id": "ro_37",
-      "name": "Maassilo & Now&Wow（マースシロ）",
+      "name": "Maassilo & Now&Wow",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1876,11 +1912,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Maassilo & Now&Wow"
     },
     {
       "id": "ro_38",
-      "name": "Binnenrotte Markt（ビネンロッテ青空市場）",
+      "name": "Binnenrotte Markt",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1928,11 +1965,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Binnenrotte Markt"
     },
     {
       "id": "ro_39",
-      "name": "Pannekoekenboot Rotterdam（パンケーキボート）",
+      "name": "Pannekoekenboot Rotterdam",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1979,11 +2017,12 @@
         "Café",
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Pannekoekenboot Rotterdam"
     },
     {
       "id": "ro_40",
-      "name": "De Doelen & Schouwburgplein（デ・ドゥーレン＆スハウブルフ広場）",
+      "name": "De Doelen & Schouwburgplein",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2029,11 +2068,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Doelen & Schouwburgplein"
     },
     {
       "id": "ro_41",
-      "name": "Historisch Gouda（ゴーダ歴史地区）",
+      "name": "Historisch Gouda",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2081,11 +2121,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historisch Gouda"
     },
     {
       "id": "ro_42",
-      "name": "Historisch Dordrecht（ドルトレヒト歴史地区）",
+      "name": "Historisch Dordrecht",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2131,11 +2172,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historisch Dordrecht"
     },
     {
       "id": "ro_43",
-      "name": "Nationaal Park De Biesbosch（ビースボッシュ国立公園）",
+      "name": "Nationaal Park De Biesbosch",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2184,11 +2226,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Nationaal Park De Biesbosch"
     },
     {
       "id": "ro_44",
-      "name": "Portlantis - Maasvlakte 2 Havenbeleveniscentrum（ポートランティス・マースブラクテ2港湾体験センター）",
+      "name": "Portlantis - Maasvlakte 2 Havenbeleveniscentrum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2234,11 +2277,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Portlantis - Maasvlakte 2 Havenbeleveniscentrum"
     },
     {
       "id": "ro_45",
-      "name": "Historisch Schiedam（スキーダム歴史風車群＆イエネーフェル博物館）",
+      "name": "Historisch Schiedam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2285,11 +2329,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historisch Schiedam"
     },
     {
       "id": "ro_46",
-      "name": "Hoek van Holland Strand（フック・ファン・ホランド海岸＆可動式防波堤）",
+      "name": "Hoek van Holland Strand",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2337,11 +2382,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hoek van Holland Strand"
     },
     {
       "id": "ro_47",
-      "name": "Plaswijckpark Rotterdam（プラスワイクパーク）",
+      "name": "Plaswijckpark Rotterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2388,11 +2434,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Plaswijckpark Rotterdam"
     },
     {
       "id": "ro_48",
-      "name": "Van Nelle Fabriek（ファン・ネレ工場）",
+      "name": "Van Nelle Fabriek",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2438,7 +2485,8 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Van Nelle Fabriek"
     }
   ],
   "spotCount": 48

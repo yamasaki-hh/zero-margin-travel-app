@@ -5,7 +5,7 @@
   "spots": [
     {
       "id": "to_1",
-      "name": "Place du Capitole & Capitole de Toulouse（キャピトル広場とトゥールーズ キャピトル）",
+      "name": "Place du Capitole & Capitole de Toulouse",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -49,11 +49,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place du Capitole & Capitole de Toulouse"
     },
     {
       "id": "to_2",
-      "name": "Basilique Saint-Sernin（サン・セルナン大聖堂）",
+      "name": "Basilique Saint-Sernin",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -97,11 +98,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Basilique Saint-Sernin"
     },
     {
       "id": "to_3",
-      "name": "Couvent des Jacobins（クーヴァン デ ジャコバン）",
+      "name": "Couvent des Jacobins",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -145,11 +147,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Couvent des Jacobins"
     },
     {
       "id": "to_4",
-      "name": "Pont Neuf Toulouse（ポン ヌフ トゥールーズ）",
+      "name": "Pont Neuf Toulouse",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -193,11 +196,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Pont Neuf Toulouse"
     },
     {
       "id": "to_5",
-      "name": "Cathédrale Saint-Étienne de Toulouse（トゥールーズ サンテティエンヌ大聖堂）",
+      "name": "Cathédrale Saint-Étienne de Toulouse",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -241,11 +245,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cathédrale Saint-Étienne de Toulouse"
     },
     {
       "id": "to_6",
-      "name": "Hôtel d'Assézat（オテル ダセザ）",
+      "name": "Hôtel d'Assézat",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -289,11 +294,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hôtel d'Assézat"
     },
     {
       "id": "to_7",
-      "name": "Chapelle des Carmélites（カルメル会修道院礼拝堂）",
+      "name": "Chapelle des Carmélites",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -337,11 +343,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Chapelle des Carmélites"
     },
     {
       "id": "to_8",
-      "name": "Hôtel-Dieu Saint-Jacques（オテル デュー サン ジャック）",
+      "name": "Hôtel-Dieu Saint-Jacques",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -386,11 +393,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hôtel-Dieu Saint-Jacques"
     },
     {
       "id": "to_9",
-      "name": "Cité de Carcassonne（シテ ド カルカソンヌ）",
+      "name": "Cité de Carcassonne",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -434,11 +442,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cité de Carcassonne"
     },
     {
       "id": "to_10",
-      "name": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile（アルビ司教座聖堂とサント セシル大聖堂）",
+      "name": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -483,11 +492,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cité Épiscopale d'Albi & Cathédrale Sainte-Cécile"
     },
     {
       "id": "to_11",
-      "name": "Musée des Augustins（オーギュスタン美術館）",
+      "name": "Musée des Augustins",
       "category": "Museum & Art",
       "rating": "★4.6",
       "locationZone": "city",
@@ -531,11 +541,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Augustins"
     },
     {
       "id": "to_12",
-      "name": "Fondation Bemberg（ベンベルク財団）",
+      "name": "Fondation Bemberg",
       "category": "Museum & Art",
       "rating": "★4.7",
       "locationZone": "city",
@@ -579,11 +590,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fondation Bemberg"
     },
     {
       "id": "to_13",
-      "name": "Les Abattoirs, Musée - Frac Occitanie Toulouse（レ アバトワール、ミュゼ - Frac Occitanie トゥールーズ）",
+      "name": "Les Abattoirs, Musée - Frac Occitanie Toulouse",
       "category": "Museum & Art",
       "rating": "★4.5",
       "locationZone": "city",
@@ -628,11 +640,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Les Abattoirs, Musée - Frac Occitanie Toulouse"
     },
     {
       "id": "to_14",
-      "name": "Musée Saint-Raymond（サン・レーモン美術館）",
+      "name": "Musée Saint-Raymond",
       "category": "Museum & Art",
       "rating": "★4.6",
       "locationZone": "city",
@@ -676,11 +689,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Saint-Raymond"
     },
     {
       "id": "to_15",
-      "name": "Muséum de Toulouse（トゥールーズ美術館）",
+      "name": "Muséum de Toulouse",
       "category": "Museum & Art",
       "rating": "★4.6",
       "locationZone": "city",
@@ -726,11 +740,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Muséum de Toulouse"
     },
     {
       "id": "to_16",
-      "name": "Musée Paul-Dupuy（ポール・デュピュイ美術館）",
+      "name": "Musée Paul-Dupuy",
       "category": "Museum & Art",
       "rating": "★4.5",
       "locationZone": "city",
@@ -774,11 +789,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Paul-Dupuy"
     },
     {
       "id": "to_17",
-      "name": "Aeroscopia Aviation Museum（アエロスコピア航空博物館）",
+      "name": "Aeroscopia Aviation Museum",
       "category": "Museum & Art",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -822,11 +838,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Aeroscopia Aviation Museum"
     },
     {
       "id": "to_18",
-      "name": "Let's Visit Airbus Tour（エアバスツアーに行ってみよう）",
+      "name": "Let's Visit Airbus Tour",
       "category": "Museum & Art",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -870,11 +887,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Let's Visit Airbus Tour"
     },
     {
       "id": "to_19",
-      "name": "Marché Victor Hugo（マルシェ ヴィクトル ユーゴー）",
+      "name": "Marché Victor Hugo",
       "category": "Café & Dining",
       "rating": "★4.6",
       "locationZone": "city",
@@ -919,11 +937,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Marché Victor Hugo"
     },
     {
       "id": "to_20",
-      "name": "Le Bibent（ル ビベン）",
+      "name": "Le Bibent",
       "category": "Café & Dining",
       "rating": "★4.5",
       "locationZone": "city",
@@ -968,11 +987,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Bibent"
     },
     {
       "id": "to_21",
-      "name": "Le Colombier Cassoulet（ル コロンビエ カスレ）",
+      "name": "Le Colombier Cassoulet",
       "category": "Café & Dining",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1016,11 +1036,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Colombier Cassoulet"
     },
     {
       "id": "to_22",
-      "name": "La Maison de la Violette（ラ メゾン ドゥ ラ ヴィオレット）",
+      "name": "La Maison de la Violette",
       "category": "Café & Dining",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1066,11 +1087,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "La Maison de la Violette"
     },
     {
       "id": "to_23",
-      "name": "Marché des Carmes（マルシェ デ カルム）",
+      "name": "Marché des Carmes",
       "category": "Café & Dining",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1116,11 +1138,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Marché des Carmes"
     },
     {
       "id": "to_24",
-      "name": "Maison Pillon & Pâtisserie Bault（メゾン ピヨン & パティスリー ボー）",
+      "name": "Maison Pillon & Pâtisserie Bault",
       "category": "Café & Dining",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1165,11 +1188,12 @@
         "Café",
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Maison Pillon & Pâtisserie Bault"
     },
     {
       "id": "to_25",
-      "name": "Domaine de Montjoie & Fronton Wineries（ドメーヌ ド モンジョワ & フロントン ワイナリー）",
+      "name": "Domaine de Montjoie & Fronton Wineries",
       "category": "Café & Dining",
       "rating": "★4.6",
       "locationZone": "suburban",
@@ -1213,11 +1237,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Domaine de Montjoie & Fronton Wineries"
     },
     {
       "id": "to_26",
-      "name": "Quai de la Daurade & Promenade de la Garonne（ドラード通りとガロンヌ プロムナード）",
+      "name": "Quai de la Daurade & Promenade de la Garonne",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1262,11 +1287,12 @@
         "Scenery",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Quai de la Daurade & Promenade de la Garonne"
     },
     {
       "id": "to_27",
-      "name": "Quartier des Carmes & Quartier Saint-Étienne（カルティエ デ カルムとカルティエ サンテティエンヌ）",
+      "name": "Quartier des Carmes & Quartier Saint-Étienne",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1311,11 +1337,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Quartier des Carmes & Quartier Saint-Étienne"
     },
     {
       "id": "to_28",
-      "name": "Canal du Midi（ミディ運河 (ポール ドゥ ランブシュール）",
+      "name": "Canal du Midi",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1360,11 +1387,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Canal du Midi"
     },
     {
       "id": "to_29",
-      "name": "Place Saint-Georges（サンジョルジュ広場）",
+      "name": "Place Saint-Georges",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1410,11 +1438,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place Saint-Georges"
     },
     {
       "id": "to_30",
-      "name": "Jardin Japonais Pierre Baudis（日本庭園 ピエール・ボーディ）",
+      "name": "Jardin Japonais Pierre Baudis",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1459,11 +1488,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jardin Japonais Pierre Baudis"
     },
     {
       "id": "to_31",
-      "name": "Bateaux Toulousains Cruise（バトー トゥールーザン クルーズ）",
+      "name": "Bateaux Toulousains Cruise",
       "category": "Scenery & Walk",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1510,11 +1540,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Bateaux Toulousains Cruise"
     },
     {
       "id": "to_32",
-      "name": "Canal de Brienne（ブリエンヌ運河）",
+      "name": "Canal de Brienne",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "suburban",
@@ -1558,11 +1589,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Canal de Brienne"
     },
     {
       "id": "to_33",
-      "name": "Cordes-sur-Ciel（コルド・シュル・シエル）",
+      "name": "Cordes-sur-Ciel",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -1606,11 +1638,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cordes-sur-Ciel"
     },
     {
       "id": "to_34",
-      "name": "Cité de l'Espace（シテ ド レスパス）",
+      "name": "Cité de l'Espace",
       "category": "Kids & Family",
       "kids": true,
       "rating": "★4.7",
@@ -1657,11 +1690,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cité de l'Espace"
     },
     {
       "id": "to_35",
-      "name": "La Halle de la Machine（ラ・アル・ドゥ・ラ・マシン）",
+      "name": "La Halle de la Machine",
       "category": "Kids & Family",
       "kids": true,
       "rating": "★4.8",
@@ -1706,11 +1740,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "La Halle de la Machine"
     },
     {
       "id": "to_36",
-      "name": "L'Envol des Pionniers（ランヴォル デ ピオニエ）",
+      "name": "L'Envol des Pionniers",
       "category": "Kids & Family",
       "kids": true,
       "rating": "★4.6",
@@ -1755,11 +1790,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "L'Envol des Pionniers"
     },
     {
       "id": "to_37",
-      "name": "Jardin des Plantes & Le Grand Rond（植物園とル グラン ロン）",
+      "name": "Jardin des Plantes & Le Grand Rond",
       "category": "Kids & Family",
       "kids": true,
       "rating": "★4.7",
@@ -1804,11 +1840,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jardin des Plantes & Le Grand Rond"
     },
     {
       "id": "to_38",
-      "name": "Animaparc Occitanie（アニマパーク オクシタニー）",
+      "name": "Animaparc Occitanie",
       "category": "Kids & Family",
       "kids": true,
       "rating": "★4.6",
@@ -1853,11 +1890,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Animaparc Occitanie"
     },
     {
       "id": "to_39",
-      "name": "Le Labyrinthe de Merville（ル ラビリンス ドゥ メルヴィル）",
+      "name": "Le Labyrinthe de Merville",
       "category": "Kids & Family",
       "kids": true,
       "rating": "★4.6",
@@ -1902,7 +1940,8 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Labyrinthe de Merville"
     }
   ],
   "spotCount": 39

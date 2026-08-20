@@ -1,7 +1,7 @@
 [
   {
     "id": "ant_1",
-    "name": "Antwerpen-Centraal（アントワープ中央駅 / 鉄道の大聖堂）",
+    "name": "Antwerpen-Centraal",
     "category": "Landmark",
     "rating": "★4.9",
     "locationZone": "city",
@@ -47,11 +47,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Antwerpen-Centraal"
   },
   {
     "id": "ant_2",
-    "name": "Onze-Lieve-Vrouwekathedraal（聖母大聖堂 / フランダースの犬）",
+    "name": "Onze-Lieve-Vrouwekathedraal",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -97,11 +98,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Onze-Lieve-Vrouwekathedraal"
   },
   {
     "id": "ant_3",
-    "name": "Grote Markt & Brabo Fountain（フルーテ・マルクト広場＆ブラボーの噴水）",
+    "name": "Grote Markt & Brabo Fountain",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -147,11 +149,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Grote Markt & Brabo Fountain"
   },
   {
     "id": "ant_4",
-    "name": "MAS | Museum aan de Stroom（MAS・リバーサイドミュージアム）",
+    "name": "MAS | Museum aan de Stroom",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "city",
@@ -200,11 +203,12 @@
       "Museum",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "MAS | Museum aan de Stroom"
   },
   {
     "id": "ant_5",
-    "name": "Rubenshuis（ルーベンスの家）",
+    "name": "Rubenshuis",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -251,11 +255,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Rubenshuis"
   },
   {
     "id": "ant_6",
-    "name": "Het Steen（ステーン要塞 / アントワープビジターセンター）",
+    "name": "Het Steen",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -301,11 +306,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Het Steen"
   },
   {
     "id": "ant_7",
-    "name": "Museum Plantin-Moretus（プランタン＝モレトゥス博物館 / 世界遺産）",
+    "name": "Museum Plantin-Moretus",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "city",
@@ -352,11 +358,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Museum Plantin-Moretus"
   },
   {
     "id": "ant_8",
-    "name": "KMSKA（アントワープ王立美術館）",
+    "name": "KMSKA",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "city",
@@ -403,11 +410,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "KMSKA"
   },
   {
     "id": "ant_9",
-    "name": "Sint-Carolus Borromeuskerk（サン・カルロ・ボッロメーオ教会）",
+    "name": "Sint-Carolus Borromeuskerk",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -454,11 +462,12 @@
       "Kids",
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Carolus Borromeuskerk"
   },
   {
     "id": "ant_10",
-    "name": "Havenhuis（アントワープ港湾ハウス / ザハ・ハディド建築）",
+    "name": "Havenhuis",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -505,11 +514,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Havenhuis"
   },
   {
     "id": "ant_11",
-    "name": "Diamantkwartier（ダイヤモンド街）",
+    "name": "Diamantkwartier",
     "category": "Shopping",
     "rating": "★4.5",
     "locationZone": "city",
@@ -555,11 +565,12 @@
     "categories": [
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Diamantkwartier"
   },
   {
     "id": "ant_12",
-    "name": "DIVA Museum（DIVA・ダイヤモンド＆ジュエリー博物館）",
+    "name": "DIVA Museum",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -608,11 +619,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "DIVA Museum"
   },
   {
     "id": "ant_13",
-    "name": "Sint-Annatunnel（聖アンナ歩行者用川底トンネル）",
+    "name": "Sint-Annatunnel",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -658,11 +670,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Annatunnel"
   },
   {
     "id": "ant_14",
-    "name": "Linkeroever（リンケローファー / 対岸のパノラマ展望台）",
+    "name": "Linkeroever",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -710,11 +723,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Linkeroever"
   },
   {
     "id": "ant_15",
-    "name": "ZOO Antwerpen（アントワープ動物園）",
+    "name": "ZOO Antwerpen",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -762,11 +776,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "ZOO Antwerpen"
   },
   {
     "id": "ant_16",
-    "name": "Red Star Line Museum（レッド・スター・ライン移民博物館）",
+    "name": "Red Star Line Museum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -812,11 +827,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Red Star Line Museum"
   },
   {
     "id": "ant_17",
-    "name": "MoMu - ModeMuseum Antwerpen（アントワープモード美術館）",
+    "name": "MoMu - ModeMuseum Antwerpen",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -864,11 +880,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "MoMu - ModeMuseum Antwerpen"
   },
   {
     "id": "ant_18",
-    "name": "Meir & Stadsfeestzaal（メール通り＆スタッズフェーストザール）",
+    "name": "Meir & Stadsfeestzaal",
     "category": "Shopping",
     "rating": "★4.7",
     "locationZone": "city",
@@ -916,11 +933,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Meir & Stadsfeestzaal"
   },
   {
     "id": "ant_19",
-    "name": "The Chocolate Line（ザ・チョコレート・ライン / 王宮のショコラティエ）",
+    "name": "The Chocolate Line",
     "category": "Café & Bistro",
     "rating": "★4.8",
     "locationZone": "city",
@@ -969,11 +987,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "The Chocolate Line"
   },
   {
     "id": "ant_20",
-    "name": "Museum Mayer van den Bergh（マイヤー・ファン・デン・ベルグ美術館）",
+    "name": "Museum Mayer van den Bergh",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1019,11 +1038,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Museum Mayer van den Bergh"
   },
   {
     "id": "ant_21",
-    "name": "Vlaeykensgang（フレイケンスハング / 1591年の隠れ小路）",
+    "name": "Vlaeykensgang",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -1069,11 +1089,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Vlaeykensgang"
   },
   {
     "id": "ant_22",
-    "name": "Sint-Pauluskerk（聖パウロ教会＆カルヴァリオの丘庭園）",
+    "name": "Sint-Pauluskerk",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1120,11 +1141,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Pauluskerk"
   },
   {
     "id": "ant_23",
-    "name": "Het Zuid（ヘット・ザイド / 南地区パリ風ブールバール）",
+    "name": "Het Zuid",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1173,11 +1195,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Het Zuid"
   },
   {
     "id": "ant_24",
-    "name": "Eilandje（アイランド地区 / 歴史的旧港ドック）",
+    "name": "Eilandje",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1224,11 +1247,12 @@
       "Café",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Eilandje"
   },
   {
     "id": "ant_25",
-    "name": "Begijnhof Antwerpen（アントワープのベギンホフ修道院）",
+    "name": "Begijnhof Antwerpen",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1274,11 +1298,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Begijnhof Antwerpen"
   },
   {
     "id": "ant_26",
-    "name": "Hendrik Conscienceplein（ヘンドリック・コンシエンス広場）",
+    "name": "Hendrik Conscienceplein",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1327,11 +1352,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Hendrik Conscienceplein"
   },
   {
     "id": "ant_27",
-    "name": "Middelheimmuseum（ミデルハイム屋外野外彫刻美術館）",
+    "name": "Middelheimmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "suburban",
@@ -1379,11 +1405,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Middelheimmuseum"
   },
   {
     "id": "ant_28",
-    "name": "Stadsbrouwerij De Koninck（ドゥ・コーニンク都市型醸造所体験館）",
+    "name": "Stadsbrouwerij De Koninck",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1431,11 +1458,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Stadsbrouwerij De Koninck"
   },
   {
     "id": "ant_29",
-    "name": "Zurenborg & Cogels-Osylei（ズーレンボルグ＆ベル・エポック建築街）",
+    "name": "Zurenborg & Cogels-Osylei",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -1481,11 +1509,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Zurenborg & Cogels-Osylei"
   },
   {
     "id": "ant_30",
-    "name": "Dageraadplaats（ダヘラートプラーツ広場 / ズーレンボルグ）",
+    "name": "Dageraadplaats",
     "category": "Café & Bistro",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1533,11 +1562,12 @@
       "Kids",
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Dageraadplaats"
   },
   {
     "id": "ant_31",
-    "name": "Fotomuseum Antwerpen / FOMU（アントワープ写真美術館）",
+    "name": "Fotomuseum Antwerpen / FOMU",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1584,11 +1614,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Fotomuseum Antwerpen / FOMU"
   },
   {
     "id": "ant_32",
-    "name": "M HKA（アントワープ現代美術館 / サイロ改修ミュージアム）",
+    "name": "M HKA",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1634,11 +1665,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "M HKA"
   },
   {
     "id": "ant_33",
-    "name": "Stadspark Antwerpen（アントワープ市立公園）",
+    "name": "Stadspark Antwerpen",
     "category": "Scenery & Walk",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1686,11 +1718,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Stadspark Antwerpen"
   },
   {
     "id": "ant_34",
-    "name": "Park Spoor Noord（パーク・スポール・ノールト / 水遊び広場）",
+    "name": "Park Spoor Noord",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1739,11 +1772,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Park Spoor Noord"
   },
   {
     "id": "ant_35",
-    "name": "Boerentoren（ブーレントーレン / ヨーロッパ最古の高層ビル）",
+    "name": "Boerentoren",
     "category": "Landmark",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1789,11 +1823,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Boerentoren"
   },
   {
     "id": "ant_36",
-    "name": "Kloosterstraat（クローステルストラート / レトロアンティーク街）",
+    "name": "Kloosterstraat",
     "category": "Shopping",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1840,11 +1875,12 @@
       "Café",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Kloosterstraat"
   },
   {
     "id": "ant_37",
-    "name": "Vrijdagmarkt（金曜市場広場 / 16世紀からのセリ市）",
+    "name": "Vrijdagmarkt",
     "category": "Shopping",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1894,11 +1930,12 @@
       "Night",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Vrijdagmarkt"
   },
   {
     "id": "ant_38",
-    "name": "Paleis op de Meir（メール通りの王宮館）",
+    "name": "Paleis op de Meir",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1945,11 +1982,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Paleis op de Meir"
   },
   {
     "id": "ant_39",
-    "name": "Sint-Jacobskerk（聖ヤコブ教会 / ルーベンスの墓所）",
+    "name": "Sint-Jacobskerk",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1995,11 +2033,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Jacobskerk"
   },
   {
     "id": "ant_40",
-    "name": "Chocolate Nation（チョコレート・ネーション / 世界最大のベルギーチョコ体験館）",
+    "name": "Chocolate Nation",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "city",
@@ -2047,11 +2086,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Chocolate Nation"
   },
   {
     "id": "ant_41",
-    "name": "Historisch Lier（リール旧市街＆ツィンマーの天文時計塔）",
+    "name": "Historisch Lier",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -2098,11 +2138,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Historisch Lier"
   },
   {
     "id": "ant_42",
-    "name": "Fort van Breendonk（ブレーンドンク要塞・ナチス収容所メモリアル）",
+    "name": "Fort van Breendonk",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "suburban",
@@ -2149,11 +2190,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Fort van Breendonk"
   },
   {
     "id": "ant_43",
-    "name": "Kalmthoutse Heide（カルムトハウトのヒース自然保護区）",
+    "name": "Kalmthoutse Heide",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "suburban",
@@ -2199,11 +2241,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Kalmthoutse Heide"
   },
   {
     "id": "ant_44",
-    "name": "Rivierenhof（リヴィエレンホフ城＆州立公園）",
+    "name": "Rivierenhof",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -2251,11 +2294,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Rivierenhof"
   },
   {
     "id": "ant_45",
-    "name": "Kasteel van Brasschaat（ブラッスハート城＆森林公園）",
+    "name": "Kasteel van Brasschaat",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "suburban",
@@ -2305,6 +2349,7 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Kasteel van Brasschaat"
   }
 ]

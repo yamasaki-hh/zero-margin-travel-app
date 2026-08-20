@@ -1,7 +1,7 @@
 [
   {
     "id": "gh_1",
-    "name": "Gravensteen（フランドル伯の居城）",
+    "name": "Gravensteen",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -48,11 +48,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Gravensteen"
   },
   {
     "id": "gh_2",
-    "name": "Sint-Baafskathedraal（聖バフ大聖堂 / 神秘の仔羊）",
+    "name": "Sint-Baafskathedraal",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -98,11 +99,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Baafskathedraal"
   },
   {
     "id": "gh_3",
-    "name": "Het Lam Gods（『神秘の仔羊』ゲントの祭壇画パネル）",
+    "name": "Het Lam Gods",
     "category": "Museum & Gallery",
     "rating": "★4.9",
     "locationZone": "city",
@@ -148,11 +150,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Het Lam Gods"
   },
   {
     "id": "gh_4",
-    "name": "Het Belfort van Gent（ゲントの鐘楼 / 金色の竜 / 世界遺産）",
+    "name": "Het Belfort van Gent",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -198,11 +201,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Het Belfort van Gent"
   },
   {
     "id": "gh_5",
-    "name": "Graslei & Korenlei（グラスライ＆コーレンライ歴史的運河河岸）",
+    "name": "Graslei & Korenlei",
     "category": "Scenery & Walk",
     "rating": "★4.9",
     "locationZone": "city",
@@ -248,11 +252,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Graslei & Korenlei"
   },
   {
     "id": "gh_6",
-    "name": "Sint-Michielsbrug（聖ミヒエル橋 / 3つの塔のパノラマ）",
+    "name": "Sint-Michielsbrug",
     "category": "Scenery & Walk",
     "rating": "★4.9",
     "locationZone": "city",
@@ -299,11 +304,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Michielsbrug"
   },
   {
     "id": "gh_7",
-    "name": "Sint-Niklaaskerk（聖ニコラス教会）",
+    "name": "Sint-Niklaaskerk",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -349,11 +355,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Niklaaskerk"
   },
   {
     "id": "gh_8",
-    "name": "Boottochten Gent（ゲント運河観光ボート）",
+    "name": "Boottochten Gent",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -401,11 +408,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Boottochten Gent"
   },
   {
     "id": "gh_9",
-    "name": "Korenmarkt（コーレンマルクト小麦市場広場）",
+    "name": "Korenmarkt",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -455,11 +463,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Korenmarkt"
   },
   {
     "id": "gh_10",
-    "name": "Patershol（パテルスホル中世石畳グルメ地区）",
+    "name": "Patershol",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -507,11 +516,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Patershol"
   },
   {
     "id": "gh_11",
-    "name": "Werregarenstraat（グラフィティ・ストリート / 公式ストリートアート小路）",
+    "name": "Werregarenstraat",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -559,11 +569,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Werregarenstraat"
   },
   {
     "id": "gh_12",
-    "name": "MSK（ゲント美術館 / ボス＆修復工房）",
+    "name": "MSK",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -609,11 +620,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "MSK"
   },
   {
     "id": "gh_13",
-    "name": "S.M.A.K.（ゲント市立現代美術館）",
+    "name": "S.M.A.K.",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -661,11 +673,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "S.M.A.K."
   },
   {
     "id": "gh_14",
-    "name": "STAM（STAM・ゲント市立歴史博物館）",
+    "name": "STAM",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -711,11 +724,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "STAM"
   },
   {
     "id": "gh_15",
-    "name": "Klein Begijnhof（小ベギンホフ修道院 / 世界遺産）",
+    "name": "Klein Begijnhof",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -762,11 +776,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Klein Begijnhof"
   },
   {
     "id": "gh_16",
-    "name": "Groot Begijnhof Sint-Amandsberg（大ベギンホフ・シント＝アマンズベルク / 世界遺産）",
+    "name": "Groot Begijnhof Sint-Amandsberg",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -812,11 +827,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Groot Begijnhof Sint-Amandsberg"
   },
   {
     "id": "gh_17",
-    "name": "Sint-Pietersabdij（聖ピエトロ修道院＆葡萄園テラス）",
+    "name": "Sint-Pietersabdij",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -862,11 +878,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Pietersabdij"
   },
   {
     "id": "gh_18",
-    "name": "Vrijdagmarkt & Dulle Griet（金曜広場＆フライングシューズパブ）",
+    "name": "Vrijdagmarkt & Dulle Griet",
     "category": "Café & Bistro",
     "rating": "★4.7",
     "locationZone": "city",
@@ -914,11 +931,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Vrijdagmarkt & Dulle Griet"
   },
   {
     "id": "gh_19",
-    "name": "Het Groot Vleeshuis（大精肉店ホール）",
+    "name": "Het Groot Vleeshuis",
     "category": "Landmark",
     "rating": "★4.5",
     "locationZone": "city",
@@ -965,11 +983,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Het Groot Vleeshuis"
   },
   {
     "id": "gh_20",
-    "name": "Tierenteyn-Verlent（ティーレンテイン・ヴェルラント1790年創業マスタード店）",
+    "name": "Tierenteyn-Verlent",
     "category": "Shopping",
     "rating": "★4.8",
     "locationZone": "city",
@@ -1018,11 +1037,12 @@
       "Night",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Tierenteyn-Verlent"
   },
   {
     "id": "gh_21",
-    "name": "Gentse Neuzenvetes & Cuberdons（キュベルドン / ゲント名物鼻型キャンディ台車）",
+    "name": "Gentse Neuzenvetes & Cuberdons",
     "category": "Café & Bistro",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1070,11 +1090,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Gentse Neuzenvetes & Cuberdons"
   },
   {
     "id": "gh_22",
-    "name": "Citadelpark（シタデル公園＆要塞跡）",
+    "name": "Citadelpark",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1123,11 +1144,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Citadelpark"
   },
   {
     "id": "gh_23",
-    "name": "Plantentuin Universiteit Gent（ゲント大学植物園）",
+    "name": "Plantentuin Universiteit Gent",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1174,11 +1196,12 @@
       "Kids",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Plantentuin Universiteit Gent"
   },
   {
     "id": "gh_24",
-    "name": "De Krook（デ・クローク市立図書館＆文化ハブ）",
+    "name": "De Krook",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1224,11 +1247,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "De Krook"
   },
   {
     "id": "gh_25",
-    "name": "Prinsenhof（プリンセンホフ / 神聖ローマ皇帝カール5世生誕地）",
+    "name": "Prinsenhof",
     "category": "Scenery & Walk",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1275,11 +1299,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Prinsenhof"
   },
   {
     "id": "gh_26",
-    "name": "Huis van Alijn（アラインの家 / フランドル日常の暮らしの博物館）",
+    "name": "Huis van Alijn",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1328,11 +1353,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Huis van Alijn"
   },
   {
     "id": "gh_27",
-    "name": "Design Museum Gent（ゲント・デザイン博物館）",
+    "name": "Design Museum Gent",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1379,11 +1405,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Design Museum Gent"
   },
   {
     "id": "gh_28",
-    "name": "Bij Sint-Jacobs（聖ヤコブ広場＆週末骨董市）",
+    "name": "Bij Sint-Jacobs",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1431,11 +1458,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Bij Sint-Jacobs"
   },
   {
     "id": "gh_29",
-    "name": "De Kuip van Gent & Lichtplan（ゲントナイトウォーク＆都市照明プラン）",
+    "name": "De Kuip van Gent & Lichtplan",
     "category": "Scenery & Walk",
     "rating": "★4.9",
     "locationZone": "city",
@@ -1482,11 +1510,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "De Kuip van Gent & Lichtplan"
   },
   {
     "id": "gh_30",
-    "name": "Rabot（ラボット要塞水門）",
+    "name": "Rabot",
     "category": "Landmark",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1533,11 +1562,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Rabot"
   },
   {
     "id": "gh_31",
-    "name": "Dok Noord（ドック・ノールト / 港湾カルチャーリノベーション）",
+    "name": "Dok Noord",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1586,11 +1616,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Dok Noord"
   },
   {
     "id": "gh_32",
-    "name": "Veldstraat（フェルトストラート通りのショッピング街）",
+    "name": "Veldstraat",
     "category": "Shopping",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1637,11 +1668,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Veldstraat"
   },
   {
     "id": "gh_33",
-    "name": "GUM - Gents Universiteitsmuseum（ゲント大学科学＆疑問博物館）",
+    "name": "GUM - Gents Universiteitsmuseum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1689,11 +1721,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "GUM - Gents Universiteitsmuseum"
   },
   {
     "id": "gh_34",
-    "name": "Stadhuis van Gent（ゲント市庁舎）",
+    "name": "Stadhuis van Gent",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1739,11 +1772,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Stadhuis van Gent"
   },
   {
     "id": "gh_35",
-    "name": "Stadshal（スタッズハル / 現代キャノピー木造パビリオン）",
+    "name": "Stadshal",
     "category": "Landmark",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1790,11 +1824,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Stadshal"
   },
   {
     "id": "gh_36",
-    "name": "Achtersikkel（アハテルシッケルの中世隠れ回廊）",
+    "name": "Achtersikkel",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1841,11 +1876,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Achtersikkel"
   },
   {
     "id": "gh_37",
-    "name": "Gruut Brouwerij（グルート・ハーブビール都市型醸造所）",
+    "name": "Gruut Brouwerij",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1893,11 +1929,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Gruut Brouwerij"
   },
   {
     "id": "gh_38",
-    "name": "Sint-Michielskerk（聖ミヒエル教会）",
+    "name": "Sint-Michielskerk",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1943,11 +1980,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Michielskerk"
   },
   {
     "id": "gh_39",
-    "name": "Blaarmeersen Recreatiegebied（ブラーメールセン水辺レジャー公園）",
+    "name": "Blaarmeersen Recreatiegebied",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1994,11 +2032,12 @@
       "Kids",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Blaarmeersen Recreatiegebied"
   },
   {
     "id": "gh_40",
-    "name": "Baudelo Park（ボードロ公園）",
+    "name": "Baudelo Park",
     "category": "Scenery & Walk",
     "rating": "★4.5",
     "locationZone": "city",
@@ -2045,11 +2084,12 @@
       "Kids",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Baudelo Park"
   },
   {
     "id": "gh_41",
-    "name": "Kasteel Ooidonk（オイドンク城 / フランドルの水掘ルネサンス城）",
+    "name": "Kasteel Ooidonk",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "suburban",
@@ -2096,11 +2136,12 @@
       "Kids",
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Kasteel Ooidonk"
   },
   {
     "id": "gh_42",
-    "name": "Historisch Aalst（アースト旧市街＆カーニバル）",
+    "name": "Historisch Aalst",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "suburban",
@@ -2147,6 +2188,7 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Historisch Aalst"
   }
 ]

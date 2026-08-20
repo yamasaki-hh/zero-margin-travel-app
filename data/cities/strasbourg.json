@@ -4,7 +4,7 @@
   "spots": [
     {
       "id": "st_1",
-      "name": "Strasbourg Cathedral（ストラスブール大聖堂 (ノートルダム大聖堂）",
+      "name": "Strasbourg Cathedral",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "Masterpiece of Gothic architecture crafted from pink sandstone, featuring a 142m spire and a 16th-century astronomical clock.",
@@ -53,11 +53,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Strasbourg Cathedral"
     },
     {
       "id": "st_2",
-      "name": "Barrage Vauban（弾幕ヴォーバン）",
+      "name": "Barrage Vauban",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "17th-century fortified dam engineered by Vauban, featuring a panoramic roof terrace overlooking Petite France and medieval bridges.",
@@ -108,11 +109,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Barrage Vauban"
     },
     {
       "id": "st_3",
-      "name": "Ponts Couverts（ポン・クヴェール）",
+      "name": "Ponts Couverts",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Set of three 13th-century bridges and four stone defense towers spanning the Ill River, iconic symbols of medieval Strasbourg.",
@@ -161,11 +163,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Ponts Couverts"
     },
     {
       "id": "st_4",
-      "name": "Palais Rohan（パレ ロアン）",
+      "name": "Palais Rohan",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Magnificent 18th-century Baroque palace of the Prince-Bishops, now housing three of Strasbourg's premier museums.",
@@ -217,11 +220,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Palais Rohan"
     },
     {
       "id": "st_5",
-      "name": "Maison Kammerzell（メゾン カマーツェル）",
+      "name": "Maison Kammerzell",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Pinnacle of 15th-century timber-framed architecture with 75 intricately carved wooden window frames near the Cathedral.",
@@ -270,11 +274,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Maison Kammerzell"
     },
     {
       "id": "st_6",
-      "name": "Place Kléber（クレベール広場）",
+      "name": "Place Kléber",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Central square of Strasbourg, bustling with shops and centerpiece of the famous Christkindelsmärik Christmas market.",
@@ -324,11 +329,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place Kléber"
     },
     {
       "id": "st_7",
-      "name": "Place Gutenberg（グーテンベルク広場）",
+      "name": "Place Gutenberg",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Historic square honoring Johannes Gutenberg, inventor of the printing press, surrounded by Renaissance buildings.",
@@ -377,11 +383,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place Gutenberg"
     },
     {
       "id": "st_8",
-      "name": "European Parliament Strasbourg（欧州議会ストラスブール）",
+      "name": "European Parliament Strasbourg",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Futuristic glass building seating the European Union legislature, offering visits to the Hemicycle chamber.",
@@ -430,11 +437,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "European Parliament Strasbourg"
     },
     {
       "id": "st_9",
-      "name": "Palais du Rhin & Place de la République（ラン宮殿とレピュブリック広場）",
+      "name": "Palais du Rhin & Place de la République",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Imperial Neo-Renaissance palace built under German rule, standing at the heart of the UNESCO-listed Neustadt district.",
@@ -485,11 +493,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Palais du Rhin & Place de la République"
     },
     {
       "id": "st_10",
-      "name": "Église Saint-Thomas（サン・トマ教会）",
+      "name": "Église Saint-Thomas",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Main Protestant church of Alsace, housing the historic Silbermann pipe organ played by Mozart.",
@@ -540,11 +549,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Église Saint-Thomas"
     },
     {
       "id": "st_11",
-      "name": "Église Réformée Saint-Paul（サン ポール教会レフォルメ教会）",
+      "name": "Église Réformée Saint-Paul",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Neo-Gothic twin-spired church standing dramatically at the junction of the Ill River and canals.",
@@ -594,11 +604,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Église Réformée Saint-Paul"
     },
     {
       "id": "st_12",
-      "name": "Château du Haut-Kœnigsbourg（シャトー デュ オー ケニヒスブール）",
+      "name": "Château du Haut-Kœnigsbourg",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Formidable 12th-century mountain fortress perched on a Vosges ridge with panoramic views over Alsace.",
@@ -647,11 +658,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Château du Haut-Kœnigsbourg"
     },
     {
       "id": "st_13",
-      "name": "Mont Sainte-Odile Monastery（モン サント ディール修道院）",
+      "name": "Mont Sainte-Odile Monastery",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Hilltop convent dedicated to the patron saint of Alsace, offering cliffside views over the Rhine Plain.",
@@ -700,11 +712,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mont Sainte-Odile Monastery"
     },
     {
       "id": "st_14",
-      "name": "Musée Alsacien（アルザス美術館）",
+      "name": "Musée Alsacien",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Charming folk museum spanning linked 16th-century timber houses, displaying traditional Alsatian costumes, ceramics, and rural life.",
@@ -753,11 +766,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Alsacien"
     },
     {
       "id": "st_15",
-      "name": "Musée de l'Œuvre Notre-Dame（ノートルダム美術館）",
+      "name": "Musée de l'Œuvre Notre-Dame",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "desc": "Museum opposite the Cathedral housing original medieval sculptures, stained glass, and Upper Rhine masterworks.",
@@ -807,11 +821,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée de l'Œuvre Notre-Dame"
     },
     {
       "id": "st_16",
-      "name": "Musée des Beaux-Arts de Strasbourg（ストラスブール美術館）",
+      "name": "Musée des Beaux-Arts de Strasbourg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Fine arts collection inside Palais Rohan showcasing European painting masters from Giotto and Botticelli to Goya.",
@@ -860,11 +875,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Beaux-Arts de Strasbourg"
     },
     {
       "id": "st_17",
-      "name": "Musée des Arts Décoratifs（装飾芸術美術館）",
+      "name": "Musée des Arts Décoratifs",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Decorative arts museum inside Palais Rohan displaying lavish cardinal apartments and Strasbourgeois ceramics.",
@@ -913,11 +929,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Arts Décoratifs"
     },
     {
       "id": "st_18",
-      "name": "MAMCS（近現代美術館）",
+      "name": "MAMCS",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Sleek glass museum along the Ill River housing works by Monet, Picasso, Kandinsky, and Gustave Doré.",
@@ -966,11 +983,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "MAMCS"
     },
     {
       "id": "st_19",
-      "name": "Musée Tomi Ungerer（Illustration Center）",
+      "name": "Musée Tomi Ungerer",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Museum dedicated to Strasbourgeois illustrator Tomi Ungerer, showcasing original children's book art and satirical drawings.",
@@ -997,7 +1015,7 @@
       "tip_fr": "Installé dans l'ancienne Grande Boucherie du XIVe siècle sur l'histoire politique et sociale de Strasbourg.",
       "tip_de": "Stadtgeschichtliches Museum in der ehemaligen Ausführung der Großen Fleischhalle von 1385.",
       "name_en": "Musée Tomi Ungerer (Illustration Center)",
-      "name_ja": "Musée Tomi Ungerer（Illustration Center）",
+      "name_ja": "Musée Tomi Ungerer",
       "name_es": "Musée Tomi Ungerer (Centro de Ilustración)",
       "name_zh": "Musée Tomi Ungerer (插图中心)",
       "name_fr": "Musée Tomi Ungerer (Centre de l'Illustration)",
@@ -1019,11 +1037,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Tomi Ungerer"
     },
     {
       "id": "st_20",
-      "name": "Musée Historique de la Ville de Strasbourg（ストラスブール市歴史博物館）",
+      "name": "Musée Historique de la Ville de Strasbourg",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Housed in a 16th-century former slaughterhouse, detailing Strasbourg's journey from medieval free city to EU capital.",
@@ -1072,11 +1091,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Historique de la Ville de Strasbourg"
     },
     {
       "id": "st_21",
-      "name": "Château Musée Vodou（ヴドゥー城博物館）",
+      "name": "Château Musée Vodou",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Unique museum in a converted 19th-century water tower displaying the world's largest collection of West African Vodou objects.",
@@ -1126,11 +1146,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Château Musée Vodou"
     },
     {
       "id": "st_22",
-      "name": "Musée Lalique（ラリック美術館）",
+      "name": "Musée Lalique",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "desc": "Dedicated museum in Wingen-sur-Moder showcasing René Lalique's Art Nouveau and Art Deco glass masterpieces.",
@@ -1179,11 +1200,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Lalique"
     },
     {
       "id": "st_23",
-      "name": "Cave Historique des Hospices de Strasbourg（ストラスブールのオスピス歴史洞窟）",
+      "name": "Cave Historique des Hospices de Strasbourg",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "1395 hospital wine cellar housing ancient oak barrels, including the world's oldest barrel-stored wine from 1472.",
@@ -1234,11 +1256,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Cave Historique des Hospices de Strasbourg"
     },
     {
       "id": "st_24",
-      "name": "Maison des Tanneurs（メゾン デ タヌール）",
+      "name": "Maison des Tanneurs",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Iconic 1572 half-timbered restaurant in Petite France famous for traditional Alsatian choucroute garnie.",
@@ -1289,11 +1312,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Maison des Tanneurs"
     },
     {
       "id": "st_25",
-      "name": "Winstub Chez Yvonne（ウィンストゥブ シェ イヴォンヌ）",
+      "name": "Winstub Chez Yvonne",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Historic Alsatian winstub frequented by presidents and royalty, serving authentic baeckeoffe and pork knuckle.",
@@ -1342,11 +1366,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Winstub Chez Yvonne"
     },
     {
       "id": "st_26",
-      "name": "Winstub Le Tire-Bouchon（ウィンスタブ ル ティレ ブション）",
+      "name": "Winstub Le Tire-Bouchon",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Cozy traditional winstub near the Cathedral serving homemade Alsatian specialties amidst red-checkered tablecloths.",
@@ -1396,11 +1421,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Winstub Le Tire-Bouchon"
     },
     {
       "id": "st_27",
-      "name": "Pâtisserie Christian（パティスリー クリスチャン）",
+      "name": "Pâtisserie Christian",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Refined tea salon with an ornate facade, renowned for hot chocolate, kugelhopf, and exquisite Alsatian tarts.",
@@ -1450,11 +1476,12 @@
         "Café",
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Pâtisserie Christian"
     },
     {
       "id": "st_28",
-      "name": "Traditional Kugelhopf & Gingerbread Bakeries（伝統的なクーゲルホップとジンジャーブレッドのパン屋）",
+      "name": "Traditional Kugelhopf & Gingerbread Bakeries",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Artisanal bakeries around Cathedral square selling fresh Kugelhopf yeast cakes, pain d'épices, and pretzels.",
@@ -1504,11 +1531,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Traditional Kugelhopf & Gingerbread Bakeries"
     },
     {
       "id": "st_29",
-      "name": "Brasserie Les Haras（ブラッスリー レ アラ）",
+      "name": "Brasserie Les Haras",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Modern brasserie inside an 18th-century former royal stud farm featuring a grand wooden spiral staircase.",
@@ -1557,11 +1585,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Brasserie Les Haras"
     },
     {
       "id": "st_30",
-      "name": "Route des Vins d'Alsace Wineries（ルート デ ヴァン ダルザス ワイナリー）",
+      "name": "Route des Vins d'Alsace Wineries",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "desc": "Historic winery estates in Obernai and Marlenheim producing world-class Riesling and Gewürztraminer wines.",
@@ -1610,11 +1639,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Route des Vins d'Alsace Wineries"
     },
     {
       "id": "st_31",
-      "name": "La Petite France（ラ プティット フランス）",
+      "name": "La Petite France",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Picturesque quarter of 16th-century half-timbered tanners' houses along quiet canals and cobblestone lanes.",
@@ -1663,11 +1693,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "La Petite France"
     },
     {
       "id": "st_32",
-      "name": "La Grande Île（ラ グランド イル (ユネスコ歴史島）",
+      "name": "La Grande Île",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "UNESCO World Heritage island surrounded by the Ill River, forming Strasbourg's historic pedestrian core.",
@@ -1717,11 +1748,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "La Grande Île"
     },
     {
       "id": "st_33",
-      "name": "Quartier Neustadt（カルティエ ノイシュタット (ドイツ地区）",
+      "name": "Quartier Neustadt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Grand 19th-century German imperial urban expansion district featuring wide avenues and majestic architecture.",
@@ -1770,11 +1802,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Quartier Neustadt"
     },
     {
       "id": "st_34",
-      "name": "Quai des Bateliers & Berges de l'Ill（ケ デ バトリエ & ベルジュ ドゥ リル）",
+      "name": "Quai des Bateliers & Berges de l'Ill",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Pedestrianized waterfront promenade along the Ill River lined with tree-shaded cafe terraces overlooking Palais Rohan.",
@@ -1824,11 +1857,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Quai des Bateliers & Berges de l'Ill"
     },
     {
       "id": "st_35",
-      "name": "Lycée des Pontonniers & Canal View（リセ デ ポントニエとカナル ビュー）",
+      "name": "Lycée des Pontonniers & Canal View",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Fairytale-like Neo-Gothic school building set along the river canal, a favorite photo spot for travelers.",
@@ -1878,11 +1912,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Lycée des Pontonniers & Canal View"
     },
     {
       "id": "st_36",
-      "name": "Quartier de la Krutenau（ラ クルトゥノー地区）",
+      "name": "Quartier de la Krutenau",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Trendy former boatmen's district filled with bohemian bars, independent boutiques, and lively dining patios.",
@@ -1934,11 +1969,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Quartier de la Krutenau"
     },
     {
       "id": "st_37",
-      "name": "Batorama Boat Tour（バトラマ ボート ツアー）",
+      "name": "Batorama Boat Tour",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Essential boat cruise circling La Grande Île and navigating through the locks out to the European Parliament.",
@@ -1989,11 +2025,12 @@
         "Scenery",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Batorama Boat Tour"
     },
     {
       "id": "st_38",
-      "name": "Obernai Medieval Town（オベルネの中世の町）",
+      "name": "Obernai Medieval Town",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Walled Alsatian wine town 30 mins from Strasbourg, featuring half-timbered houses, belfry, and vineyards.",
@@ -2043,11 +2080,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Obernai Medieval Town"
     },
     {
       "id": "st_39",
-      "name": "Riquewihr & Kaysersberg Medieval Villages（リクヴィールとケゼルスベールの中世の村）",
+      "name": "Riquewihr & Kaysersberg Medieval Villages",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "desc": "Storybook Alsatian wine villages nestled among vineyards, named among France's Most Beautiful Villages.",
@@ -2096,11 +2134,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Riquewihr & Kaysersberg Medieval Villages"
     },
     {
       "id": "st_40",
-      "name": "Parc de l'Orangerie & Stork Sanctuary（オランジェリー公園とコウノトリ保護区）",
+      "name": "Parc de l'Orangerie & Stork Sanctuary",
       "category": "Kids & Family",
       "rating": "★4.8",
       "desc": "Strasbourg's oldest city park featuring a free stork reintroduction center, boating lake, mini-zoo, and playgrounds.",
@@ -2150,11 +2189,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Parc de l'Orangerie & Stork Sanctuary"
     },
     {
       "id": "st_41",
-      "name": "Le Vaisseau Science Center（ル ヴェソー科学センター）",
+      "name": "Le Vaisseau Science Center",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "Interactive hands-on science museum designed for children aged 3–15, focusing on discovery, water, and building.",
@@ -2204,11 +2244,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Vaisseau Science Center"
     },
     {
       "id": "st_42",
-      "name": "Parc de la Citadelle（シタデル公園）",
+      "name": "Parc de la Citadelle",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "Lush park built around the remnants of Vauban's 17th-century citadel, featuring water ponds and extensive play areas.",
@@ -2259,11 +2300,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Parc de la Citadelle"
     },
     {
       "id": "st_43",
-      "name": "Jardin des Deux Rives（ジャルダン デ ドゥ リーヴ (ツー バンクス ガーデン）",
+      "name": "Jardin des Deux Rives",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "Cross-border park connecting Strasbourg (France) and Kehl (Germany) via a striking pedestrian suspension bridge.",
@@ -2313,11 +2355,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jardin des Deux Rives"
     },
     {
       "id": "st_44",
-      "name": "Écomusée d'Alsace（アルザス エコムゼ）",
+      "name": "Écomusée d'Alsace",
       "category": "Kids & Family",
       "rating": "★4.8",
       "desc": "France's largest open-air museum featuring 70+ authentic relocated Alsatian half-timbered houses, craft workshops, and farm animals.",
@@ -2367,11 +2410,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Écomusée d'Alsace"
     },
     {
       "id": "st_45",
-      "name": "Europa-Park（ヨーロッパパーク）",
+      "name": "Europa-Park",
       "category": "Kids & Family",
       "rating": "★4.8",
       "desc": "Europe's premier theme park located just across the German border in Rust, featuring 100+ rollercoasters and themed European lands.",
@@ -2421,7 +2465,8 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Europa-Park"
     }
   ]
 }

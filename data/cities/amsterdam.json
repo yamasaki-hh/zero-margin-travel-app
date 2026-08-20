@@ -6,7 +6,7 @@
   "spots": [
     {
       "id": "a_1",
-      "name": "Rijksmuseum（アムステルダム国立美術館）",
+      "name": "Rijksmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -53,11 +53,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Rijksmuseum"
     },
     {
       "id": "a_2",
-      "name": "Van Gogh Museum（ゴッホ美術館）",
+      "name": "Van Gogh Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -103,11 +104,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Van Gogh Museum"
     },
     {
       "id": "a_3",
-      "name": "Anne Frank House（アンネ・フランクの家）",
+      "name": "Anne Frank House",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -154,11 +156,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Anne Frank House"
     },
     {
       "id": "a_4",
-      "name": "Amsterdam Canal Cruise（アムステルダム運河クルーズ）",
+      "name": "Amsterdam Canal Cruise",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -206,11 +209,12 @@
         "Scenery",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Amsterdam Canal Cruise"
     },
     {
       "id": "a_5",
-      "name": "Dam Square & Royal Palace Amsterdam（ダム広場＆アムステルダム王宮）",
+      "name": "Dam Square & Royal Palace Amsterdam",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -256,11 +260,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dam Square & Royal Palace Amsterdam"
     },
     {
       "id": "a_6",
-      "name": "Heineken Experience（ハイネケン・エクスペリエンス）",
+      "name": "Heineken Experience",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -307,11 +312,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Heineken Experience"
     },
     {
       "id": "a_7",
-      "name": "Zaanse Schans（ザーンセ・スカンス伝統木造建築群＆風車村）",
+      "name": "Zaanse Schans",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -358,11 +364,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zaanse Schans"
     },
     {
       "id": "a_8",
-      "name": "Keukenhof（キューケンホフ公園）",
+      "name": "Keukenhof",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -409,11 +416,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Keukenhof"
     },
     {
       "id": "a_9",
-      "name": "A'DAM LOOKOUT（アダム・ルックアウト＆空中ブランコ）",
+      "name": "A'DAM LOOKOUT",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -460,11 +468,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "A'DAM LOOKOUT"
     },
     {
       "id": "a_10",
-      "name": "Vondelpark（フォンデル公園）",
+      "name": "Vondelpark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -512,11 +521,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Vondelpark"
     },
     {
       "id": "a_11",
-      "name": "De Jordaan（ヨルダーン地区）",
+      "name": "De Jordaan",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -563,11 +573,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Jordaan"
     },
     {
       "id": "a_12",
-      "name": "De Negen Straatjes（ナイン・ストリート）",
+      "name": "De Negen Straatjes",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -614,11 +625,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Negen Straatjes"
     },
     {
       "id": "a_13",
-      "name": "Drijvende Bloemenmarkt（シンゲルの水上花市場）",
+      "name": "Drijvende Bloemenmarkt",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -668,11 +680,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Drijvende Bloemenmarkt"
     },
     {
       "id": "a_14",
-      "name": "Stedelijk Museum Amsterdam（アムステルダム市立美術館）",
+      "name": "Stedelijk Museum Amsterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -718,11 +731,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stedelijk Museum Amsterdam"
     },
     {
       "id": "a_15",
-      "name": "NEMO Science Museum（NEMO科学館）",
+      "name": "NEMO Science Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -769,11 +783,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "NEMO Science Museum"
     },
     {
       "id": "a_16",
-      "name": "Albert Cuypmarkt（アルバート・カイプ市場）",
+      "name": "Albert Cuypmarkt",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -821,11 +836,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Albert Cuypmarkt"
     },
     {
       "id": "a_17",
-      "name": "Het Scheepvaartmuseum（国立海事博物館）",
+      "name": "Het Scheepvaartmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -872,11 +888,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Het Scheepvaartmuseum"
     },
     {
       "id": "a_18",
-      "name": "Museum Het Rembrandthuis（レンブラントの家美術館）",
+      "name": "Museum Het Rembrandthuis",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -922,11 +939,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Het Rembrandthuis"
     },
     {
       "id": "a_19",
-      "name": "Rembrandtplein（レンブラント広場）",
+      "name": "Rembrandtplein",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -974,11 +992,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Rembrandtplein"
     },
     {
       "id": "a_20",
-      "name": "De Oude Kerk（旧教会）",
+      "name": "De Oude Kerk",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1026,11 +1045,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "De Oude Kerk"
     },
     {
       "id": "a_21",
-      "name": "Westerkerk（西教会）",
+      "name": "Westerkerk",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1076,11 +1096,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Westerkerk"
     },
     {
       "id": "a_22",
-      "name": "De Wallen（飾り窓地区）",
+      "name": "De Wallen",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1128,11 +1149,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Wallen"
     },
     {
       "id": "a_23",
-      "name": "Het Begijnhof（ベギンホフ修道院中庭）",
+      "name": "Het Begijnhof",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1178,11 +1200,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Het Begijnhof"
     },
     {
       "id": "a_24",
-      "name": "Magere Brug（マヘレの跳ね橋）",
+      "name": "Magere Brug",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1228,11 +1251,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Magere Brug"
     },
     {
       "id": "a_25",
-      "name": "Eye Filmmuseum（アイ映画ミュージアム）",
+      "name": "Eye Filmmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1278,11 +1302,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Eye Filmmuseum"
     },
     {
       "id": "a_26",
-      "name": "Volendam & Marken（フォーレンダム＆マルケン漁村）",
+      "name": "Volendam & Marken",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -1329,11 +1354,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Volendam & Marken"
     },
     {
       "id": "a_27",
-      "name": "Historisch Centrum Haarlem（ハーレム歴史地区）",
+      "name": "Historisch Centrum Haarlem",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -1384,11 +1410,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Historisch Centrum Haarlem"
     },
     {
       "id": "a_28",
-      "name": "Moco Museum（モコ美術館）",
+      "name": "Moco Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1436,11 +1463,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Moco Museum"
     },
     {
       "id": "a_29",
-      "name": "De Pijp（デ・パイプ地区）",
+      "name": "De Pijp",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1489,11 +1517,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "De Pijp"
     },
     {
       "id": "a_30",
-      "name": "NDSM-werf（NDSM造船所跡アートエリア）",
+      "name": "NDSM-werf",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1542,11 +1571,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "NDSM-werf"
     },
     {
       "id": "a_31",
-      "name": "STRAAT Museum（STRAATストリートアート美術館）",
+      "name": "STRAAT Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1592,11 +1622,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "STRAAT Museum"
     },
     {
       "id": "a_32",
-      "name": "The Amsterdam Dungeon（アムステルダム・ダンジョン）",
+      "name": "The Amsterdam Dungeon",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1642,11 +1673,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "The Amsterdam Dungeon"
     },
     {
       "id": "a_33",
-      "name": "BODY WORLDS Amsterdam（ボディ・ワールド）",
+      "name": "BODY WORLDS Amsterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1692,11 +1724,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "BODY WORLDS Amsterdam"
     },
     {
       "id": "a_34",
-      "name": "ARTIS & Micropia（アルティス動物園＆マイクロピア）",
+      "name": "ARTIS & Micropia",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1745,11 +1778,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "ARTIS & Micropia"
     },
     {
       "id": "a_35",
-      "name": "Wereldmuseum Amsterdam）（熱帯博物館（世界博物館）",
+      "name": "Wereldmuseum Amsterdam",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1764,12 +1798,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "Wereldmuseum Amsterdam）",
-      "name_ja": "Wereldmuseum Amsterdam）（熱帯博物館（世界博物館）",
-      "name_es": "Wereldmuseum Amsterdam）",
-      "name_zh": "Wereldmuseum Amsterdam）",
-      "name_fr": "Wereldmuseum Amsterdam）",
-      "name_de": "Wereldmuseum Amsterdam）",
+      "name_en": "Wereldmuseum Amsterdam",
+      "name_ja": "Wereldmuseum Amsterdam（熱帯博物館（世界博物館）",
+      "name_es": "Wereldmuseum Amsterdam",
+      "name_zh": "Wereldmuseum Amsterdam",
+      "name_fr": "Wereldmuseum Amsterdam",
+      "name_de": "Wereldmuseum Amsterdam",
       "desc_en": "Ethnographical museum housed in a colonial institute palace, exploring global material culture.",
       "desc_ja": "東南アジア、アフリカ、中南米の民俗品・文化遺産を巨大な大理石大ホールに展示する文化人類学博物館。",
       "desc_es": "Ethnographical museum housed in a colonial institute palace, exploring global material culture.",
@@ -1788,7 +1822,7 @@
       "price_zh": "门票：€16.00",
       "price_fr": "Entrée : €16.00",
       "price_de": "Eintritt: €16.00",
-      "name_nl": "Wereldmuseum Amsterdam）",
+      "name_nl": "Wereldmuseum Amsterdam",
       "desc_nl": "Ethnographical museum housed in a colonial institute palace, exploring global material culture.",
       "tip_nl": "🏛️ The three-story monumental marble central Grand Hall is an architectural wonder and rarely crowded.",
       "price_nl": "Entry: €16.00",
@@ -1796,11 +1830,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Wereldmuseum Amsterdam"
     },
     {
       "id": "a_36",
-      "name": "Brouwerij 't IJ（アイ醸造所）",
+      "name": "Brouwerij 't IJ",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1847,11 +1882,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Brouwerij 't IJ"
     },
     {
       "id": "a_37",
-      "name": "Kalverstraat & Damrak（カルバー通り＆ダムラック）",
+      "name": "Kalverstraat & Damrak",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1901,11 +1937,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Kalverstraat & Damrak"
     },
     {
       "id": "a_38",
-      "name": "De Bijenkorf（デ・バイエンコルフ高級百貨店）",
+      "name": "De Bijenkorf",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1952,11 +1989,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "De Bijenkorf"
     },
     {
       "id": "a_39",
-      "name": "Café de Klos & Bruine Cafés（伝統的ブラウンカフェ＆名物リブ店）",
+      "name": "Café de Klos & Bruine Cafés",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2003,11 +2041,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Café de Klos & Bruine Cafés"
     },
     {
       "id": "a_40",
-      "name": "OBA Oosterdok（アムステルダム中央図書館）",
+      "name": "OBA Oosterdok",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2055,11 +2094,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "OBA Oosterdok"
     },
     {
       "id": "a_41",
-      "name": "Foodhallen Amsterdam（フードハレン）",
+      "name": "Foodhallen Amsterdam",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2105,11 +2145,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Foodhallen Amsterdam"
     },
     {
       "id": "a_42",
-      "name": "Station Amsterdam Centraal（アムステルダム中央駅）",
+      "name": "Station Amsterdam Centraal",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2156,11 +2197,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Station Amsterdam Centraal"
     },
     {
       "id": "a_43",
-      "name": "Het Amsterdamse Bos（アムステルダムの森）",
+      "name": "Het Amsterdamse Bos",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2207,11 +2249,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Het Amsterdamse Bos"
     },
     {
       "id": "a_44",
-      "name": "Hortus Botanicus Amsterdam（アムステルダム植物園）",
+      "name": "Hortus Botanicus Amsterdam",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2257,11 +2300,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hortus Botanicus Amsterdam"
     },
     {
       "id": "a_45",
-      "name": "Joods Cultureel Kwartier（ユダヤ文化地区＆ポルトガル・シナゴーグ）",
+      "name": "Joods Cultureel Kwartier",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2307,11 +2351,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Joods Cultureel Kwartier"
     },
     {
       "id": "a_46",
-      "name": "Nationaal Holocaust Museum（国立ホロコースト博物館）",
+      "name": "Nationaal Holocaust Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2358,11 +2403,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Nationaal Holocaust Museum"
     },
     {
       "id": "a_47",
-      "name": "Westergas（ウェスターガス文化公園）",
+      "name": "Westergas",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2410,11 +2456,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Westergas"
     },
     {
       "id": "a_48",
-      "name": "Magna Plaza（マグナ・プラザ）",
+      "name": "Magna Plaza",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2461,11 +2508,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Magna Plaza"
     },
     {
       "id": "a_49",
-      "name": "Proeflokaal In de Wildeman（イン・デ・ヴィルデマン）",
+      "name": "Proeflokaal In de Wildeman",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2512,11 +2560,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Proeflokaal In de Wildeman"
     },
     {
       "id": "a_50",
-      "name": "Kaasmarkt Alkmaar（アルクマール・チーズ市）",
+      "name": "Kaasmarkt Alkmaar",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2563,11 +2612,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kaasmarkt Alkmaar"
     },
     {
       "id": "a_51",
-      "name": "Panoramaterras Schiphol（スキポール空港パノラマテラス）",
+      "name": "Panoramaterras Schiphol",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2615,11 +2665,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Panoramaterras Schiphol"
     },
     {
       "id": "a_52",
-      "name": "Forteiland Pampus & Muiderslot（パムパス要塞島＆マウデン城）",
+      "name": "Forteiland Pampus & Muiderslot",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2665,11 +2716,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Forteiland Pampus & Muiderslot"
     },
     {
       "id": "a_53",
-      "name": "Singel & Herengracht Canal Ring（シンゲル＆ヘレンフラハト二重環状運河）",
+      "name": "Singel & Herengracht Canal Ring",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2716,11 +2768,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Singel & Herengracht Canal Ring"
     },
     {
       "id": "a_54",
-      "name": "Electric Ladyland）（蛍光アート美術館（エレクトリック・レディランド）",
+      "name": "Electric Ladyland",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2735,12 +2788,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "Electric Ladyland）",
-      "name_ja": "Electric Ladyland）（蛍光アート美術館（エレクトリック・レディランド）",
-      "name_es": "Electric Ladyland）",
-      "name_zh": "Electric Ladyland）",
-      "name_fr": "Electric Ladyland）",
-      "name_de": "Electric Ladyland）",
+      "name_en": "Electric Ladyland",
+      "name_ja": "Electric Ladyland（蛍光アート美術館（エレクトリック・レディランド）",
+      "name_es": "Electric Ladyland",
+      "name_zh": "Electric Ladyland",
+      "name_fr": "Electric Ladyland",
+      "name_de": "Electric Ladyland",
       "desc_en": "The first museum dedicated entirely to fluorescent art and glowing minerals under ultraviolet light.",
       "desc_ja": "世界唯一のブラックライト蛍光アート専門ミュージアム。鉱物や現代アートが神秘的に発光。",
       "desc_es": "The first museum dedicated entirely to fluorescent art and glowing minerals under ultraviolet light.",
@@ -2759,7 +2812,7 @@
       "price_zh": "门票：€5.00",
       "price_fr": "Entrée : €5.00",
       "price_de": "Eintritt: €5.00",
-      "name_nl": "Electric Ladyland）",
+      "name_nl": "Electric Ladyland",
       "desc_nl": "The first museum dedicated entirely to fluorescent art and glowing minerals under ultraviolet light.",
       "tip_nl": "🎨 Guided small-group tours only. Experience participating in the fluorescent art space in the basement.",
       "price_nl": "Entry: €5.00",
@@ -2767,11 +2820,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Electric Ladyland"
     },
     {
       "id": "a_55",
-      "name": "Kattenkabinet）（猫の美術館（カテンカビネット）",
+      "name": "Kattenkabinet",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2786,12 +2840,12 @@
       "image": "",
       "wikiImage": "",
       "hasWiki": false,
-      "name_en": "Kattenkabinet）",
-      "name_ja": "Kattenkabinet）（猫の美術館（カテンカビネット）",
-      "name_es": "Kattenkabinet）",
-      "name_zh": "Kattenkabinet）",
-      "name_fr": "Kattenkabinet）",
-      "name_de": "Kattenkabinet）",
+      "name_en": "Kattenkabinet",
+      "name_ja": "Kattenkabinet（猫の美術館（カテンカビネット）",
+      "name_es": "Kattenkabinet",
+      "name_zh": "Kattenkabinet",
+      "name_fr": "Kattenkabinet",
+      "name_de": "Kattenkabinet",
       "desc_en": "Art museum in a 17th-century canal house dedicated exclusively to cat-themed fine art by famous masters.",
       "desc_ja": "ヘレンフラハト沿いの17世紀運河邸宅内にある、猫をテーマにした美術品（ピカソ、レンブラント等）専門美術館。",
       "desc_es": "Art museum in a 17th-century canal house dedicated exclusively to cat-themed fine art by famous masters.",
@@ -2810,7 +2864,7 @@
       "price_zh": "门票：€10.00",
       "price_fr": "Entrée : €10.00",
       "price_de": "Eintritt: €10.00",
-      "name_nl": "Kattenkabinet）",
+      "name_nl": "Kattenkabinet",
       "desc_nl": "Art museum in a 17th-century canal house dedicated exclusively to cat-themed fine art by famous masters.",
       "tip_nl": "🐈 Resident museum cats roam freely through the opulent period rooms and sleep on antique furniture.",
       "price_nl": "Entry: €10.00",
@@ -2819,11 +2873,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kattenkabinet"
     },
     {
       "id": "a_56",
-      "name": "Willet-Holthuysen Museum（ウィレット・ホルトハイゼン邸）",
+      "name": "Willet-Holthuysen Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2870,11 +2925,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Willet-Holthuysen Museum"
     },
     {
       "id": "a_57",
-      "name": "Museum Van Loon（ファン・ローン邸）",
+      "name": "Museum Van Loon",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2922,11 +2978,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Van Loon"
     },
     {
       "id": "a_58",
-      "name": "Amsterdam Museum（アムステルダム歴史博物館）",
+      "name": "Amsterdam Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2972,11 +3029,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Amsterdam Museum"
     },
     {
       "id": "a_59",
-      "name": "House of Bols（ハウス・オブ・ボルス・カクテル体験）",
+      "name": "House of Bols",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -3022,11 +3080,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "House of Bols"
     },
     {
       "id": "a_60",
-      "name": "Concertgebouw（アムステルダム・コンセルトヘボウ）",
+      "name": "Concertgebouw",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -3072,7 +3131,8 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Concertgebouw"
     }
   ],
   "spotCount": 60

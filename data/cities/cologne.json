@@ -3,7 +3,7 @@
   "spots": [
     {
       "id": "c_1",
-      "name": "Kölner Dom（UNESCO）",
+      "name": "Kölner Dom",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "city",
@@ -32,9 +32,9 @@
       "price_fr": "聖堂無料（塔6€）",
       "price_de": "聖堂無料（塔6€）",
       "name_en": "Kölner Dom (Cologne Cathedral)",
-      "name_ja": "Kölner Dom（UNESCO）",
+      "name_ja": "Kölner Dom",
       "name_es": "Kölner Dom (Cologne Cathedral)",
-      "name_zh": "Kölner Dom (ケルン大聖堂)",
+      "name_zh": "Kölner Dom",
       "name_fr": "Kölner Dom (Cologne Cathedral)",
       "name_de": "Kölner Dom (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/K%C3%B6lner_Dom_nachts_2013.jpg/330px-K%C3%B6lner_Dom_nachts_2013.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -48,11 +48,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kölner Dom"
     },
     {
       "id": "c_2",
-      "name": "Hohenzollernbrücke（ホーエンツォレルン橋）",
+      "name": "Hohenzollernbrücke",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -83,7 +84,7 @@
       "name_en": "Hohenzollernbrücke (Hohenzollern Bridge)",
       "name_ja": "Hohenzollernbrücke（ホーエンツォレルン橋）",
       "name_es": "Hohenzollernbrücke (Hohenzollern Bridge)",
-      "name_zh": "Hohenzollernbrücke (ホーエンツォレルン橋)",
+      "name_zh": "Hohenzollernbrücke",
       "name_fr": "Hohenzollernbrücke (Hohenzollern Bridge)",
       "name_de": "Hohenzollernbrücke",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg/330px-Hohenzollernbr%C3%BCcke_K%C3%B6ln_von_oben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -96,11 +97,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hohenzollernbrücke"
     },
     {
       "id": "c_3",
-      "name": "Altstadt Köln & Alter Markt（ケルン旧市街＆アルター・マルクト）",
+      "name": "Altstadt Köln & Alter Markt",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -131,7 +133,7 @@
       "name_en": "Altstadt Köln & Alter Markt (Cologne Old Town & Alter Markt)",
       "name_ja": "Altstadt Köln & Alter Markt（ケルン旧市街＆アルター・マルクト）",
       "name_es": "Altstadt Köln & Alter Markt (Cologne Old Town & Alter Markt)",
-      "name_zh": "Altstadt Köln & Alter Markt (ケルン旧市街＆アルター・マルクト)",
+      "name_zh": "Altstadt Köln & Alter Markt",
       "name_fr": "Altstadt Köln & Alter Markt (Cologne Old Town & Alter Markt)",
       "name_de": "Altstadt Köln & Alter Markt",
       "desc_de": "Imposante romanische Stiftskirche, die die bunten Altstadthäuser von Köln überragt.",
@@ -144,11 +146,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Altstadt Köln & Alter Markt"
     },
     {
       "id": "c_4",
-      "name": "Heumarkt（ホイマルクト広場）",
+      "name": "Heumarkt",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -179,7 +182,7 @@
       "name_en": "Heumarkt (Heumarkt Square)",
       "name_ja": "Heumarkt（ホイマルクト広場）",
       "name_es": "Heumarkt (Heumarkt Square)",
-      "name_zh": "Heumarkt (ホイマルクト広場)",
+      "name_zh": "Heumarkt",
       "name_fr": "Heumarkt (Heumarkt Square)",
       "name_de": "Heumarkt",
       "image": "",
@@ -192,11 +195,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Heumarkt"
     },
     {
       "id": "c_5",
-      "name": "Kölner Rathaus & Historische Ratslaube（ケルン市庁舎＆歴史的ルネサンス回廊）",
+      "name": "Kölner Rathaus & Historische Ratslaube",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -227,7 +231,7 @@
       "name_en": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
       "name_ja": "Kölner Rathaus & Historische Ratslaube（ケルン市庁舎＆歴史的ルネサンス回廊）",
       "name_es": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
-      "name_zh": "Kölner Rathaus & Historische Ratslaube (ケルン市庁舎＆歴史的ルネサンス回廊)",
+      "name_zh": "Kölner Rathaus & Historische Ratslaube",
       "name_fr": "Kölner Rathaus & Historische Ratslaube (Cologne City Hall)",
       "name_de": "Kölner Rathaus & Historische Ratslaube",
       "image": "",
@@ -240,11 +244,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kölner Rathaus & Historische Ratslaube"
     },
     {
       "id": "c_6",
-      "name": "Groß St. Martin（大聖マルティン教会）",
+      "name": "Groß St. Martin",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -275,7 +280,7 @@
       "name_en": "Groß St. Martin (Great St. Martin Church)",
       "name_ja": "Groß St. Martin（大聖マルティン教会）",
       "name_es": "Groß St. Martin (Great St. Martin Church)",
-      "name_zh": "Groß St. Martin (大聖マルティン教会)",
+      "name_zh": "Groß St. Martin",
       "name_fr": "Groß St. Martin (Great St. Martin Church)",
       "name_de": "Groß St. Martin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fischmarkt.jpg/330px-Fischmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -290,11 +295,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Groß St. Martin"
     },
     {
       "id": "c_7",
-      "name": "Rheinauhafen & Kranhäuser（ライナウハーフェン＆クレーンハウス）",
+      "name": "Rheinauhafen & Kranhäuser",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -325,7 +331,7 @@
       "name_en": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
       "name_ja": "Rheinauhafen & Kranhäuser（ライナウハーフェン＆クレーンハウス）",
       "name_es": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
-      "name_zh": "Rheinauhafen & Kranhäuser (ライナウハーフェン＆クレーンハウス)",
+      "name_zh": "Rheinauhafen & Kranhäuser",
       "name_fr": "Rheinauhafen & Kranhäuser (Rheinauhafen & Crane Houses)",
       "name_de": "Rheinauhafen & Kranhäuser",
       "image": "",
@@ -340,11 +346,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Rheinauhafen & Kranhäuser"
     },
     {
       "id": "c_8",
-      "name": "KölnTriangle（Panorama-Plattform）",
+      "name": "KölnTriangle",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -373,9 +380,9 @@
       "price_fr": "入場料: 5€",
       "price_de": "入場料: 5€",
       "name_en": "KölnTriangle (KölnTriangle Panorama Deck)",
-      "name_ja": "KölnTriangle（Panorama-Plattform）",
+      "name_ja": "KölnTriangle",
       "name_es": "KölnTriangle (KölnTriangle Panorama Deck)",
-      "name_zh": "KölnTriangle (ケルントライアングル展望台)",
+      "name_zh": "KölnTriangle",
       "name_fr": "KölnTriangle (KölnTriangle Panorama Deck)",
       "name_de": "KölnTriangle (Panorama-Plattform)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lnTriangle_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -389,11 +396,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "KölnTriangle"
     },
     {
       "id": "c_9",
-      "name": "Schokoladenmuseum Köln（ケルン・チョコレート博物館）",
+      "name": "Schokoladenmuseum Köln",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -424,7 +432,7 @@
       "name_en": "Schokoladenmuseum Köln (Cologne Chocolate Museum)",
       "name_ja": "Schokoladenmuseum Köln（ケルン・チョコレート博物館）",
       "name_es": "Schokoladenmuseum Köln (Cologne Chocolate Museum)",
-      "name_zh": "Schokoladenmuseum Köln (ケルン・チョコレート博物館)",
+      "name_zh": "Schokoladenmuseum Köln",
       "name_fr": "Schokoladenmuseum Köln (Cologne Chocolate Museum)",
       "name_de": "Schokoladenmuseum Köln",
       "desc_de": "Traditionsreiches Grand Café mit Terrasse und direktem Blick auf den Kölner Dom.",
@@ -439,11 +447,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schokoladenmuseum Köln"
     },
     {
       "id": "c_10",
-      "name": "Museum Ludwig（ルートヴィヒ美術館）",
+      "name": "Museum Ludwig",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -474,7 +483,7 @@
       "name_en": "Museum Ludwig",
       "name_ja": "Museum Ludwig（ルートヴィヒ美術館）",
       "name_es": "Museum Ludwig",
-      "name_zh": "Museum Ludwig (ルートヴィヒ美術館)",
+      "name_zh": "Museum Ludwig",
       "name_fr": "Museum Ludwig",
       "name_de": "Museum Ludwig",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg/330px-Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -488,11 +497,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Ludwig"
     },
     {
       "id": "c_11",
-      "name": "Wallraf-Richartz-Museum & Fondation Corboud（ヴァルラフ＝リヒャルツ美術館）",
+      "name": "Wallraf-Richartz-Museum & Fondation Corboud",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -523,7 +533,7 @@
       "name_en": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
       "name_ja": "Wallraf-Richartz-Museum & Fondation Corboud（ヴァルラフ＝リヒャルツ美術館）",
       "name_es": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
-      "name_zh": "Wallraf-Richartz-Museum & Fondation Corboud (ヴァルラフ＝リヒャルツ美術館)",
+      "name_zh": "Wallraf-Richartz-Museum & Fondation Corboud",
       "name_fr": "Wallraf-Richartz-Museum & Fondation Corboud (Wallraf-Richartz-Museum)",
       "name_de": "Wallraf-Richartz-Museum & Fondation Corboud",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg/330px-Wallraf-Richartz-Museum_%26_Foundation_Corboud%2C_Frontansicht%2C_Oktober_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -536,11 +546,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Wallraf-Richartz-Museum & Fondation Corboud"
     },
     {
       "id": "c_12",
-      "name": "Römisch-Germanisches Museum（ローマ・ゲルマン博物館）",
+      "name": "Römisch-Germanisches Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -571,7 +582,7 @@
       "name_en": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
       "name_ja": "Römisch-Germanisches Museum（ローマ・ゲルマン博物館）",
       "name_es": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
-      "name_zh": "Römisch-Germanisches Museum (ローマ・ゲルマン博物館)",
+      "name_zh": "Römisch-Germanisches Museum",
       "name_fr": "Römisch-Germanisches Museum (Romano-Germanic Museum)",
       "name_de": "Römisch-Germanisches Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg/330px-R%C3%B6misch-Germanisches_Museum_K%C3%B6ln_%282514-16%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -585,11 +596,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Römisch-Germanisches Museum"
     },
     {
       "id": "c_13",
-      "name": "Farina Duftmuseum（Duftmuseum im Farina-Haus）",
+      "name": "Farina Duftmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -618,9 +630,9 @@
       "price_fr": "ツアー料: 9€",
       "price_de": "ツアー料: 9€",
       "name_en": "Farina Duftmuseum (Farina Fragrance Museum)",
-      "name_ja": "Farina Duftmuseum（Duftmuseum im Farina-Haus）",
+      "name_ja": "Farina Duftmuseum",
       "name_es": "Farina Duftmuseum (Farina Fragrance Museum)",
-      "name_zh": "Farina Duftmuseum (ファリナ香水博物館)",
+      "name_zh": "Farina Duftmuseum",
       "name_fr": "Farina Duftmuseum (Farina Fragrance Museum)",
       "name_de": "Farina Duftmuseum (Duftmuseum im Farina-Haus)",
       "image": "",
@@ -633,11 +645,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Farina Duftmuseum"
     },
     {
       "id": "c_14",
-      "name": "4711 Stammhaus（Glockengasse）",
+      "name": "4711 Stammhaus",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -666,7 +679,7 @@
       "price_fr": "入館無料",
       "price_de": "入館無料",
       "name_en": "4711 Stammhaus (4711 Flagship Store)",
-      "name_ja": "4711 Stammhaus（Glockengasse）",
+      "name_ja": "4711 Stammhaus",
       "name_es": "4711 Stammhaus (4711 Flagship Store)",
       "name_zh": "4711 Stammhaus (4711本店)",
       "name_fr": "4711 Stammhaus (4711 Flagship Store)",
@@ -681,11 +694,12 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "4711 Stammhaus"
     },
     {
       "id": "c_15",
-      "name": "Kolumba（Kunstmuseum des Erzbistums Köln）",
+      "name": "Kolumba",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -714,9 +728,9 @@
       "price_fr": "入場料: 8€",
       "price_de": "入場料: 8€",
       "name_en": "Kolumba (Kolumba Art Museum)",
-      "name_ja": "Kolumba（Kunstmuseum des Erzbistums Köln）",
+      "name_ja": "Kolumba",
       "name_es": "Kolumba (Kolumba Art Museum)",
-      "name_zh": "Kolumba (コロンバ美術館)",
+      "name_zh": "Kolumba",
       "name_fr": "Kolumba (Kolumba Art Museum)",
       "name_de": "Kolumba (Kunstmuseum des Erzbistums Köln)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kolumba.jpg/330px-Kolumba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -730,11 +744,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kolumba"
     },
     {
       "id": "c_16",
-      "name": "Museum für Angewandte Kunst Köln（MAKK）",
+      "name": "Museum für Angewandte Kunst Köln",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -763,9 +778,9 @@
       "price_fr": "入場料: 6€",
       "price_de": "入場料: 6€",
       "name_en": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
-      "name_ja": "Museum für Angewandte Kunst Köln（MAKK）",
+      "name_ja": "Museum für Angewandte Kunst Köln",
       "name_es": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
-      "name_zh": "Museum für Angewandte Kunst Köln (ケルン応用工芸博物館)",
+      "name_zh": "Museum für Angewandte Kunst Köln",
       "name_fr": "Museum für Angewandte Kunst Köln (Museum of Applied Arts Cologne)",
       "name_de": "Museum für Angewandte Kunst Köln (MAKK)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg/330px-Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Minoritenkirche.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -778,11 +793,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum für Angewandte Kunst Köln"
     },
     {
       "id": "c_17",
-      "name": "NS-Dokumentationszentrum（EL-DE-Haus）",
+      "name": "NS-Dokumentationszentrum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -811,9 +827,9 @@
       "price_fr": "入場料: 4.50€",
       "price_de": "入場料: 4.50€",
       "name_en": "NS-Dokumentationszentrum (NS Documentation Center)",
-      "name_ja": "NS-Dokumentationszentrum（EL-DE-Haus）",
+      "name_ja": "NS-Dokumentationszentrum",
       "name_es": "NS-Dokumentationszentrum (NS Documentation Center)",
-      "name_zh": "NS-Dokumentationszentrum (ナチス文書センター)",
+      "name_zh": "NS-Dokumentationszentrum",
       "name_fr": "NS-Dokumentationszentrum (NS Documentation Center)",
       "name_de": "NS-Dokumentationszentrum (EL-DE-Haus)",
       "image": "",
@@ -826,11 +842,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "NS-Dokumentationszentrum"
     },
     {
       "id": "c_18",
-      "name": "Rautenstrauch-Joest-Museum（ラウテンシュトラウホ＝ヨースト博物館）",
+      "name": "Rautenstrauch-Joest-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -861,7 +878,7 @@
       "name_en": "Rautenstrauch-Joest-Museum",
       "name_ja": "Rautenstrauch-Joest-Museum（ラウテンシュトラウホ＝ヨースト博物館）",
       "name_es": "Rautenstrauch-Joest-Museum",
-      "name_zh": "Rautenstrauch-Joest-Museum (ラウテンシュトラウホ＝ヨースト博物館)",
+      "name_zh": "Rautenstrauch-Joest-Museum",
       "name_fr": "Rautenstrauch-Joest-Museum",
       "name_de": "Rautenstrauch-Joest-Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg/330px-Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_%286904-06%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -874,11 +891,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Rautenstrauch-Joest-Museum"
     },
     {
       "id": "c_19",
-      "name": "Museum Schnütgen（シュニュートゲン美術館）",
+      "name": "Museum Schnütgen",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -909,7 +927,7 @@
       "name_en": "Museum Schnütgen",
       "name_ja": "Museum Schnütgen（シュニュートゲン美術館）",
       "name_es": "Museum Schnütgen",
-      "name_zh": "Museum Schnütgen (シュニュートゲン美術館)",
+      "name_zh": "Museum Schnütgen",
       "name_fr": "Museum Schnütgen",
       "name_de": "Museum Schnütgen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg/330px-Museum_Schn%C3%BCtgen%2C_K%C3%B6ln_-_Innen-6692.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -923,11 +941,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Schnütgen"
     },
     {
       "id": "c_20",
-      "name": "Deutsches Sport & Olympia Museum（ドイツ・スポーツ＆オリンピック博物館）",
+      "name": "Deutsches Sport & Olympia Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -958,7 +977,7 @@
       "name_en": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
       "name_ja": "Deutsches Sport & Olympia Museum（ドイツ・スポーツ＆オリンピック博物館）",
       "name_es": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
-      "name_zh": "Deutsches Sport & Olympia Museum (ドイツ・スポーツ＆オリンピック博物館)",
+      "name_zh": "Deutsches Sport & Olympia Museum",
       "name_fr": "Deutsches Sport & Olympia Museum (German Sport & Olympic Museum)",
       "name_de": "Deutsches Sport & Olympia Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/K%C3%B6ln_012_020.jpg/330px-K%C3%B6ln_012_020.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -971,11 +990,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Sport & Olympia Museum"
     },
     {
       "id": "c_21",
-      "name": "Kölner Seilbahn（ケルン・ロープウェイ）",
+      "name": "Kölner Seilbahn",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1006,7 +1026,7 @@
       "name_en": "Kölner Seilbahn (Cologne Cable Car)",
       "name_ja": "Kölner Seilbahn（ケルン・ロープウェイ）",
       "name_es": "Kölner Seilbahn (Cologne Cable Car)",
-      "name_zh": "Kölner Seilbahn (ケルン・ロープウェイ)",
+      "name_zh": "Kölner Seilbahn",
       "name_fr": "Kölner Seilbahn (Cologne Cable Car)",
       "name_de": "Kölner Seilbahn",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/K%C3%B6lner_Seilbahn_logo.svg/langde-330px-K%C3%B6lner_Seilbahn_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1021,11 +1041,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kölner Seilbahn"
     },
     {
       "id": "c_22",
-      "name": "Kölner Zoo（ケルン動物園）",
+      "name": "Kölner Zoo",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1056,7 +1077,7 @@
       "name_en": "Kölner Zoo (Cologne Zoo)",
       "name_ja": "Kölner Zoo（ケルン動物園）",
       "name_es": "Kölner Zoo (Cologne Zoo)",
-      "name_zh": "Kölner Zoo (ケルン動物園)",
+      "name_zh": "Kölner Zoo",
       "name_fr": "Kölner Zoo (Cologne Zoo)",
       "name_de": "Kölner Zoo",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg/330px-K%C3%B6lner_Zoo_%28Flight_over_Cologne%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1070,11 +1091,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kölner Zoo"
     },
     {
       "id": "c_23",
-      "name": "Aquarium Köln（ケルン水族館）",
+      "name": "Aquarium Köln",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1105,7 +1127,7 @@
       "name_en": "Aquarium Köln (Cologne Aquarium)",
       "name_ja": "Aquarium Köln（ケルン水族館）",
       "name_es": "Aquarium Köln (Cologne Aquarium)",
-      "name_zh": "Aquarium Köln (ケルン水族館)",
+      "name_zh": "Aquarium Köln",
       "name_fr": "Aquarium Köln (Cologne Aquarium)",
       "name_de": "Aquarium Köln",
       "image": "",
@@ -1120,11 +1142,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Aquarium Köln"
     },
     {
       "id": "c_24",
-      "name": "Flora Köln & Botanischer Garten（フローラ＆ケルン植物園）",
+      "name": "Flora Köln & Botanischer Garten",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1155,7 +1178,7 @@
       "name_en": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
       "name_ja": "Flora Köln & Botanischer Garten（フローラ＆ケルン植物園）",
       "name_es": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
-      "name_zh": "Flora Köln & Botanischer Garten (フローラ＆ケルン植物園)",
+      "name_zh": "Flora Köln & Botanischer Garten",
       "name_fr": "Flora Köln & Botanischer Garten (Flora & Botanical Garden Cologne)",
       "name_de": "Flora Köln & Botanischer Garten",
       "image": "",
@@ -1169,11 +1192,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Flora Köln & Botanischer Garten"
     },
     {
       "id": "c_25",
-      "name": "Schildergasse & Hohe Straße（シルダークロイツ通り＆ホーエ通り）",
+      "name": "Schildergasse & Hohe Straße",
       "category": "Shopping",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1204,7 +1228,7 @@
       "name_en": "Schildergasse & Hohe Straße",
       "name_ja": "Schildergasse & Hohe Straße（シルダークロイツ通り＆ホーエ通り）",
       "name_es": "Schildergasse & Hohe Straße",
-      "name_zh": "Schildergasse & Hohe Straße (シルダークロイツ通り＆ホーエ通り)",
+      "name_zh": "Schildergasse & Hohe Straße",
       "name_fr": "Schildergasse & Hohe Straße",
       "name_de": "Schildergasse & Hohe Straße",
       "image": "",
@@ -1218,11 +1242,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schildergasse & Hohe Straße"
     },
     {
       "id": "c_26",
-      "name": "Ehrenstraße & Belgisches Viertel（エーレン通り＆ベルギー地区）",
+      "name": "Ehrenstraße & Belgisches Viertel",
       "category": "Shopping",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1253,7 +1278,7 @@
       "name_en": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
       "name_ja": "Ehrenstraße & Belgisches Viertel（エーレン通り＆ベルギー地区）",
       "name_es": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
-      "name_zh": "Ehrenstraße & Belgisches Viertel (エーレン通り＆ベルギー地区)",
+      "name_zh": "Ehrenstraße & Belgisches Viertel",
       "name_fr": "Ehrenstraße & Belgisches Viertel (Ehrenstraße & Belgian Quarter)",
       "name_de": "Ehrenstraße & Belgisches Viertel",
       "image": "",
@@ -1268,11 +1293,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Ehrenstraße & Belgisches Viertel"
     },
     {
       "id": "c_27",
-      "name": "Neumarkt & Neumarkt Passage（ノイマルクト広場＆パサージュ）",
+      "name": "Neumarkt & Neumarkt Passage",
       "category": "Shopping",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1303,7 +1329,7 @@
       "name_en": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
       "name_ja": "Neumarkt & Neumarkt Passage（ノイマルクト広場＆パサージュ）",
       "name_es": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
-      "name_zh": "Neumarkt & Neumarkt Passage (ノイマルクト広場＆パサージュ)",
+      "name_zh": "Neumarkt & Neumarkt Passage",
       "name_fr": "Neumarkt & Neumarkt Passage (Neumarkt Square & Passage)",
       "name_de": "Neumarkt & Neumarkt Passage",
       "image": "",
@@ -1317,11 +1343,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neumarkt & Neumarkt Passage"
     },
     {
       "id": "c_28",
-      "name": "DuMont Carré & Opern Passagen（デュモン・カレ＆オペルン・パサージェン）",
+      "name": "DuMont Carré & Opern Passagen",
       "category": "Shopping",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1352,7 +1379,7 @@
       "name_en": "DuMont Carré & Opern Passagen",
       "name_ja": "DuMont Carré & Opern Passagen（デュモン・カレ＆オペルン・パサージェン）",
       "name_es": "DuMont Carré & Opern Passagen",
-      "name_zh": "DuMont Carré & Opern Passagen (デュモン・カレ＆オペルン・パサージェン)",
+      "name_zh": "DuMont Carré & Opern Passagen",
       "name_fr": "DuMont Carré & Opern Passagen",
       "name_de": "DuMont Carré & Opern Passagen",
       "image": "",
@@ -1366,11 +1393,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "DuMont Carré & Opern Passagen"
     },
     {
       "id": "c_29",
-      "name": "Brauhaus Früh am Dom（フリュー・アム・ドーム）",
+      "name": "Brauhaus Früh am Dom",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1401,7 +1429,7 @@
       "name_en": "Brauhaus Früh am Dom",
       "name_ja": "Brauhaus Früh am Dom（フリュー・アム・ドーム）",
       "name_es": "Brauhaus Früh am Dom",
-      "name_zh": "Brauhaus Früh am Dom (フリュー・アム・ドーム)",
+      "name_zh": "Brauhaus Früh am Dom",
       "name_fr": "Brauhaus Früh am Dom",
       "name_de": "Brauhaus Früh am Dom",
       "image": "",
@@ -1416,11 +1444,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Brauhaus Früh am Dom"
     },
     {
       "id": "c_30",
-      "name": "Brauhaus Sion（ブラウハウス・ジオン）",
+      "name": "Brauhaus Sion",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1451,7 +1480,7 @@
       "name_en": "Brauhaus Sion",
       "name_ja": "Brauhaus Sion（ブラウハウス・ジオン）",
       "name_es": "Brauhaus Sion",
-      "name_zh": "Brauhaus Sion (ブラウハウス・ジオン)",
+      "name_zh": "Brauhaus Sion",
       "name_fr": "Brauhaus Sion",
       "name_de": "Brauhaus Sion",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/330px-Brauhaus_Sion_Front_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1465,11 +1494,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Brauhaus Sion"
     },
     {
       "id": "c_31",
-      "name": "Gilden im Zims \"Heimat kölscher Helden\"（ギルデン・イム・ツィムス）",
+      "name": "Gilden im Zims \"Heimat kölscher Helden\"",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1500,7 +1530,7 @@
       "name_en": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
       "name_ja": "Gilden im Zims \"Heimat kölscher Helden\"（ギルデン・イム・ツィムス）",
       "name_es": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
-      "name_zh": "Gilden im Zims \"Heimat kölscher Helden\" (ギルデン・イム・ツィムス)",
+      "name_zh": "Gilden im Zims \"Heimat kölscher Helden\"",
       "name_fr": "Gilden im Zims \"Heimat kölscher Helden\" (Gilden im Zims)",
       "name_de": "Gilden im Zims \"Heimat kölscher Helden\"",
       "image": "",
@@ -1514,11 +1544,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Gilden im Zims \"Heimat kölscher Helden\""
     },
     {
       "id": "c_32",
-      "name": "Brauerei Päffgen（ペフゲン醸造所）",
+      "name": "Brauerei Päffgen",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1549,7 +1580,7 @@
       "name_en": "Brauerei Päffgen",
       "name_ja": "Brauerei Päffgen（ペフゲン醸造所）",
       "name_es": "Brauerei Päffgen",
-      "name_zh": "Brauerei Päffgen (ペフゲン醸造所)",
+      "name_zh": "Brauerei Päffgen",
       "name_fr": "Brauerei Päffgen",
       "name_de": "Brauerei Päffgen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg/330px-P%C3%A4ffgen_Brauhaus%2C_Friesenstra%C3%9Fe_64-66%2C_K%C3%B6ln-0979.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1564,11 +1595,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Brauerei Päffgen"
     },
     {
       "id": "c_33",
-      "name": "Peters Brauhaus（ペータース・ブラウハウス）",
+      "name": "Peters Brauhaus",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1599,7 +1631,7 @@
       "name_en": "Peters Brauhaus",
       "name_ja": "Peters Brauhaus（ペータース・ブラウハウス）",
       "name_es": "Peters Brauhaus",
-      "name_zh": "Peters Brauhaus (ペータース・ブラウハウス)",
+      "name_zh": "Peters Brauhaus",
       "name_fr": "Peters Brauhaus",
       "name_de": "Peters Brauhaus",
       "image": "https://upload.wikimedia.org/wikipedia/de/thumb/7/71/HKB-Logo.jpg/330px-HKB-Logo.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1612,11 +1644,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Peters Brauhaus"
     },
     {
       "id": "c_34",
-      "name": "Lommerzheim（Lommi）",
+      "name": "Lommerzheim",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1645,9 +1678,9 @@
       "price_fr": "ポークチョップ: 14€",
       "price_de": "ポークチョップ: 14€",
       "name_en": "Lommerzheim",
-      "name_ja": "Lommerzheim（Lommi）",
+      "name_ja": "Lommerzheim",
       "name_es": "Lommerzheim",
-      "name_zh": "Lommerzheim (ロンメルツハイム)",
+      "name_zh": "Lommerzheim",
       "name_fr": "Lommerzheim",
       "name_de": "Lommerzheim (Lommi)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2019-11-15-Lommerzheim-7697.jpg/330px-2019-11-15-Lommerzheim-7697.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1661,11 +1694,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Lommerzheim"
     },
     {
       "id": "c_35",
-      "name": "Café Reichard（カフェ・ライヒャルト）",
+      "name": "Café Reichard",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1696,7 +1730,7 @@
       "name_en": "Café Reichard",
       "name_ja": "Café Reichard（カフェ・ライヒャルト）",
       "name_es": "Café Reichard",
-      "name_zh": "Café Reichard (カフェ・ライヒャルト)",
+      "name_zh": "Café Reichard",
       "name_fr": "Café Reichard",
       "name_de": "Café Reichard",
       "image": "",
@@ -1710,11 +1744,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Reichard"
     },
     {
       "id": "c_36",
-      "name": "Odonien（オドニエン）",
+      "name": "Odonien",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1745,7 +1780,7 @@
       "name_en": "Odonien (Odonien Outdoor Art Park)",
       "name_ja": "Odonien（オドニエン）",
       "name_es": "Odonien (Odonien Outdoor Art Park)",
-      "name_zh": "Odonien (オドニエン)",
+      "name_zh": "Odonien",
       "name_fr": "Odonien (Odonien Outdoor Art Park)",
       "name_de": "Odonien",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg/330px-Odo_Rumpf_auf_Ateliergel%C3%A4nde_%281698%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1758,11 +1793,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Odonien"
     },
     {
       "id": "c_37",
-      "name": "Claudius Therme（クラウディウス・テルメ）",
+      "name": "Claudius Therme",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1793,7 +1829,7 @@
       "name_en": "Claudius Therme (Claudius Therme Thermal Bath)",
       "name_ja": "Claudius Therme（クラウディウス・テルメ）",
       "name_es": "Claudius Therme (Claudius Therme Thermal Bath)",
-      "name_zh": "Claudius Therme (クラウディウス・テルメ)",
+      "name_zh": "Claudius Therme",
       "name_fr": "Claudius Therme (Claudius Therme Thermal Bath)",
       "name_de": "Claudius Therme",
       "image": "",
@@ -1808,11 +1844,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Claudius Therme"
     },
     {
       "id": "c_38",
-      "name": "Rheinpark & Kleinbahn（ライン公園＆ミニSL鉄道）",
+      "name": "Rheinpark & Kleinbahn",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1843,7 +1880,7 @@
       "name_en": "Rheinpark & Kleinbahn",
       "name_ja": "Rheinpark & Kleinbahn（ライン公園＆ミニSL鉄道）",
       "name_es": "Rheinpark & Kleinbahn",
-      "name_zh": "Rheinpark & Kleinbahn (ライン公園＆ミニSL鉄道)",
+      "name_zh": "Rheinpark & Kleinbahn",
       "name_fr": "Rheinpark & Kleinbahn",
       "name_de": "Rheinpark & Kleinbahn",
       "image": "",
@@ -1857,11 +1894,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Rheinpark & Kleinbahn"
     },
     {
       "id": "c_39",
-      "name": "Stadtwald Köln & Lindenthaler Tierpark（ケルン市民の森＆リンデンタール動物ふれあい公園）",
+      "name": "Stadtwald Köln & Lindenthaler Tierpark",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1892,7 +1930,7 @@
       "name_en": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
       "name_ja": "Stadtwald Köln & Lindenthaler Tierpark（ケルン市民の森＆リンデンタール動物ふれあい公園）",
       "name_es": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
-      "name_zh": "Stadtwald Köln & Lindenthaler Tierpark (ケルン市民の森＆リンデンタール動物ふれあい公園)",
+      "name_zh": "Stadtwald Köln & Lindenthaler Tierpark",
       "name_fr": "Stadtwald Köln & Lindenthaler Tierpark (Stadtwald & Lindenthal Zoo)",
       "name_de": "Stadtwald Köln & Lindenthaler Tierpark",
       "image": "",
@@ -1906,11 +1944,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stadtwald Köln & Lindenthaler Tierpark"
     },
     {
       "id": "c_40",
-      "name": "Melaten-Friedhof（メラテン墓地）",
+      "name": "Melaten-Friedhof",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1941,7 +1980,7 @@
       "name_en": "Melaten-Friedhof (Melaten Cemetery)",
       "name_ja": "Melaten-Friedhof（メラテン墓地）",
       "name_es": "Melaten-Friedhof (Melaten Cemetery)",
-      "name_zh": "Melaten-Friedhof (メラテン墓地)",
+      "name_zh": "Melaten-Friedhof",
       "name_fr": "Melaten-Friedhof (Melaten Cemetery)",
       "name_de": "Melaten-Friedhof",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg/330px-2022-06-19-Sensemann_%28August_Schmiemann%29-9947.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1955,11 +1994,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Melaten-Friedhof"
     },
     {
       "id": "c_41",
-      "name": "Odysseum Science Center（オディッセウム科学館）",
+      "name": "Odysseum Science Center",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1990,7 +2030,7 @@
       "name_en": "Odysseum Science Center",
       "name_ja": "Odysseum Science Center（オディッセウム科学館）",
       "name_es": "Odysseum Science Center",
-      "name_zh": "Odysseum Science Center (オディッセウム科学館)",
+      "name_zh": "Odysseum Science Center",
       "name_fr": "Odysseum Science Center",
       "name_de": "Odysseum Science Center",
       "image": "",
@@ -2004,11 +2044,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Odysseum Science Center"
     },
     {
       "id": "c_42",
-      "name": "RheinSchiffahrt（Köln-Düsseldorfer / KD River Cruises）",
+      "name": "RheinSchiffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2037,9 +2078,9 @@
       "price_fr": "クルーズ: 15€",
       "price_de": "クルーズ: 15€",
       "name_en": "RheinSchiffahrt (KD Rhine River Cruise)",
-      "name_ja": "RheinSchiffahrt（Köln-Düsseldorfer / KD River Cruises）",
+      "name_ja": "RheinSchiffahrt",
       "name_es": "RheinSchiffahrt (KD Rhine River Cruise)",
-      "name_zh": "RheinSchiffahrt (ライン川観光遊覧船)",
+      "name_zh": "RheinSchiffahrt",
       "name_fr": "RheinSchiffahrt (KD Rhine River Cruise)",
       "name_de": "RheinSchiffahrt (Köln-Düsseldorfer / KD River Cruises)",
       "image": "",
@@ -2054,11 +2095,12 @@
         "Scenery",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "RheinSchiffahrt"
     },
     {
       "id": "c_43",
-      "name": "St. Gereon（聖ゲレオン教会）",
+      "name": "St. Gereon",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -2089,7 +2131,7 @@
       "name_en": "St. Gereon (St. Gereon Basilica)",
       "name_ja": "St. Gereon（聖ゲレオン教会）",
       "name_es": "St. Gereon (St. Gereon Basilica)",
-      "name_zh": "St. Gereon (聖ゲレオン教会)",
+      "name_zh": "St. Gereon",
       "name_fr": "St. Gereon (St. Gereon Basilica)",
       "name_de": "St. Gereon",
       "image": "",
@@ -2102,11 +2144,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Gereon"
     },
     {
       "id": "c_44",
-      "name": "St. Ursula（聖ウルスラ教会）",
+      "name": "St. Ursula",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2137,7 +2180,7 @@
       "name_en": "St. Ursula (St. Ursula Basilica)",
       "name_ja": "St. Ursula（聖ウルスラ教会）",
       "name_es": "St. Ursula (St. Ursula Basilica)",
-      "name_zh": "St. Ursula (聖ウルスラ教会)",
+      "name_zh": "St. Ursula",
       "name_fr": "St. Ursula (St. Ursula Basilica)",
       "name_de": "St. Ursula",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wappen_Koeln.svg/langde-330px-Wappen_Koeln.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2150,11 +2193,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Ursula"
     },
     {
       "id": "c_45",
-      "name": "St. Aposteln（聖使徒教会）",
+      "name": "St. Aposteln",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2198,11 +2242,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Aposteln"
     },
     {
       "id": "c_46",
-      "name": "Schlösser Augustusburg und Falkenlust（Brühl / UNESCO）",
+      "name": "Schlösser Augustusburg und Falkenlust",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2231,9 +2276,9 @@
       "price_fr": "宮殿: 10€",
       "price_de": "宮殿: 10€",
       "name_en": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
-      "name_ja": "Schlösser Augustusburg und Falkenlust（Brühl / UNESCO）",
+      "name_ja": "Schlösser Augustusburg und Falkenlust",
       "name_es": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
-      "name_zh": "Schlösser Augustusburg und Falkenlust (アウグストゥスブルク城＆ファルケンルスト城)",
+      "name_zh": "Schlösser Augustusburg und Falkenlust",
       "name_fr": "Schlösser Augustusburg und Falkenlust (Augustusburg & Falkenlust Palaces)",
       "name_de": "Schlösser Augustusburg und Falkenlust (Brühl / UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg/330px-Br%C3%BChl_Germany_Schloss-Augustusburg-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2247,11 +2292,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schlösser Augustusburg und Falkenlust"
     },
     {
       "id": "c_47",
-      "name": "Phantasialand（Brühl）",
+      "name": "Phantasialand",
       "category": "Kids & Family",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2280,9 +2326,9 @@
       "price_fr": "ワンデーパス: 54〜61€",
       "price_de": "ワンデーパス: 54〜61€",
       "name_en": "Phantasialand (Phantasialand Theme Park)",
-      "name_ja": "Phantasialand（Brühl）",
+      "name_ja": "Phantasialand",
       "name_es": "Phantasialand (Phantasialand Theme Park)",
-      "name_zh": "Phantasialand (ファンタジアランド)",
+      "name_zh": "Phantasialand",
       "name_fr": "Phantasialand (Phantasialand Theme Park)",
       "name_de": "Phantasialand (Brühl)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Phantasialand_Logo.svg/langde-330px-Phantasialand_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2296,11 +2342,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Phantasialand"
     },
     {
       "id": "c_48",
-      "name": "Aachener Dom & Domschatzkammer（Aachen / UNESCO）",
+      "name": "Aachener Dom & Domschatzkammer",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2329,9 +2376,9 @@
       "price_fr": "大聖堂無料（ガイド5€）",
       "price_de": "大聖堂無料（ガイド5€）",
       "name_en": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
-      "name_ja": "Aachener Dom & Domschatzkammer（Aachen / UNESCO）",
+      "name_ja": "Aachener Dom & Domschatzkammer",
       "name_es": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
-      "name_zh": "Aachener Dom & Domschatzkammer (アーヘン大聖堂＆宝物館)",
+      "name_zh": "Aachener Dom & Domschatzkammer",
       "name_fr": "Aachener Dom & Domschatzkammer (Aachen Cathedral & Treasury)",
       "name_de": "Aachener Dom & Domschatzkammer (Aachen / UNESCO)",
       "image": "",
@@ -2344,11 +2391,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Aachener Dom & Domschatzkammer"
     },
     {
       "id": "c_49",
-      "name": "Königswinter（Drachenburg Castle & Drachenfels）",
+      "name": "Königswinter",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2377,9 +2425,9 @@
       "price_fr": "登山鉄道: 12€往復",
       "price_de": "登山鉄道: 12€往復",
       "name_en": "Königswinter (Drachenburg Castle & Drachenfels)",
-      "name_ja": "Königswinter（Drachenburg Castle & Drachenfels）",
+      "name_ja": "Königswinter",
       "name_es": "Königswinter (Drachenburg Castle & Drachenfels)",
-      "name_zh": "Königswinter (ドラッヘンブルク城＆竜の岩山)",
+      "name_zh": "Königswinter",
       "name_fr": "Königswinter (Drachenburg Castle & Drachenfels)",
       "name_de": "Königswinter (Drachenburg Castle & Drachenfels)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DEU_Koenigswinter_COA.svg/langde-330px-DEU_Koenigswinter_COA.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2393,11 +2441,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Königswinter"
     },
     {
       "id": "c_50",
-      "name": "Schloss Benrath（Düsseldorf）",
+      "name": "Schloss Benrath",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2426,9 +2475,9 @@
       "price_fr": "庭園無料（宮殿10€）",
       "price_de": "庭園無料（宮殿10€）",
       "name_en": "Schloss Benrath (Benrath Palace)",
-      "name_ja": "Schloss Benrath（Düsseldorf）",
+      "name_ja": "Schloss Benrath",
       "name_es": "Schloss Benrath (Benrath Palace)",
-      "name_zh": "Schloss Benrath (ベンラート宮殿)",
+      "name_zh": "Schloss Benrath",
       "name_fr": "Schloss Benrath (Benrath Palace)",
       "name_de": "Schloss Benrath (Düsseldorf)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Benrath_Jan2012.jpg/330px-Schloss_Benrath_Jan2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2441,7 +2490,8 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Benrath"
     }
   ],
   "spotCount": 50

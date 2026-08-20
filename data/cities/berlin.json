@@ -3,7 +3,7 @@
   "spots": [
     {
       "id": "b_1",
-      "name": "Brandenburger Tor（ブランデンブルク門）",
+      "name": "Brandenburger Tor",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -34,7 +34,7 @@
       "name_en": "Brandenburger Tor (Brandenburg Gate)",
       "name_ja": "Brandenburger Tor（ブランデンブルク門）",
       "name_es": "Brandenburger Tor (Brandenburg Gate)",
-      "name_zh": "Brandenburger Tor (ブランデンブルク門)",
+      "name_zh": "Brandenburger Tor",
       "name_fr": "Brandenburger Tor (Brandenburg Gate)",
       "name_de": "Brandenburger Tor",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BerlinBrandenburgerTor1985.jpg/330px-BerlinBrandenburgerTor1985.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -47,11 +47,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Brandenburger Tor"
     },
     {
       "id": "b_2",
-      "name": "Reichstagsgebäude（連邦議会議事堂）",
+      "name": "Reichstagsgebäude",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -95,11 +96,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Reichstagsgebäude"
     },
     {
       "id": "b_3",
-      "name": "Museumsinsel（UNESCO）",
+      "name": "Museumsinsel",
       "category": "Museum & Gallery",
       "rating": "★4.9",
       "locationZone": "city",
@@ -128,7 +130,7 @@
       "price_fr": "共通券: 19€",
       "price_de": "共通券: 19€",
       "name_en": "Museumsinsel (UNESCO)",
-      "name_ja": "Museumsinsel（UNESCO）",
+      "name_ja": "Museumsinsel",
       "name_es": "Museumsinsel (UNESCO)",
       "name_zh": "Museumsinsel (博物館島)",
       "name_fr": "Museumsinsel (UNESCO)",
@@ -144,11 +146,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museumsinsel"
     },
     {
       "id": "b_4",
-      "name": "Pergamonmuseum（ペルガモン博物館）",
+      "name": "Pergamonmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -179,7 +182,7 @@
       "name_en": "Pergamonmuseum",
       "name_ja": "Pergamonmuseum（ペルガモン博物館）",
       "name_es": "Pergamonmuseum",
-      "name_zh": "Pergamonmuseum (ペルガモン博物館)",
+      "name_zh": "Pergamonmuseum",
       "name_fr": "Pergamonmuseum",
       "name_de": "Pergamonmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/330px-Pergamonmuseum_Front.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -195,11 +198,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Pergamonmuseum"
     },
     {
       "id": "b_5",
-      "name": "Neues Museum（新博物館）",
+      "name": "Neues Museum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -243,11 +247,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neues Museum"
     },
     {
       "id": "b_6",
-      "name": "Alte Nationalgalerie（旧国立美術館）",
+      "name": "Alte Nationalgalerie",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -292,11 +297,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Alte Nationalgalerie"
     },
     {
       "id": "b_7",
-      "name": "Bode-Museum（ボーデ博物館）",
+      "name": "Bode-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -327,7 +333,7 @@
       "name_en": "Bode-Museum",
       "name_ja": "Bode-Museum（ボーデ博物館）",
       "name_es": "Bode-Museum",
-      "name_zh": "Bode-Museum (ボーデ博物館)",
+      "name_zh": "Bode-Museum",
       "name_fr": "Bode-Museum",
       "name_de": "Bode-Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/330px-Berlin_Museumsinsel_Fernsehturm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -342,11 +348,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bode-Museum"
     },
     {
       "id": "b_8",
-      "name": "Altes Museum（旧博物館）",
+      "name": "Altes Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -391,11 +398,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Altes Museum"
     },
     {
       "id": "b_9",
-      "name": "Berliner Dom（ベルリン大聖堂）",
+      "name": "Berliner Dom",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -426,7 +434,7 @@
       "name_en": "Berliner Dom (Berlin Cathedral)",
       "name_ja": "Berliner Dom（ベルリン大聖堂）",
       "name_es": "Berliner Dom (Berlin Cathedral)",
-      "name_zh": "Berliner Dom (ベルリン大聖堂)",
+      "name_zh": "Berliner Dom",
       "name_fr": "Berliner Dom (Berlin Cathedral)",
       "name_de": "Berliner Dom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Berliner_Dom_-_Westfassade_--_01.jpg/330px-2023_Berliner_Dom_-_Westfassade_--_01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -441,11 +449,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Berliner Dom"
     },
     {
       "id": "b_10",
-      "name": "Humboldt Forum & Berliner Schloss（フンボルト・フォーラム＆ベルリン王宮）",
+      "name": "Humboldt Forum & Berliner Schloss",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -476,7 +485,7 @@
       "name_en": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
       "name_ja": "Humboldt Forum & Berliner Schloss（フンボルト・フォーラム＆ベルリン王宮）",
       "name_es": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
-      "name_zh": "Humboldt Forum & Berliner Schloss (フンボルト・フォーラム＆ベルリン王宮)",
+      "name_zh": "Humboldt Forum & Berliner Schloss",
       "name_fr": "Humboldt Forum & Berliner Schloss (Humboldt Forum)",
       "name_de": "Humboldt Forum & Berliner Schloss",
       "image": "",
@@ -491,11 +500,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Humboldt Forum & Berliner Schloss"
     },
     {
       "id": "b_11",
-      "name": "East Side Gallery（イーストサイドギャラリー）",
+      "name": "East Side Gallery",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -526,7 +536,7 @@
       "name_en": "East Side Gallery",
       "name_ja": "East Side Gallery（イーストサイドギャラリー）",
       "name_es": "East Side Gallery",
-      "name_zh": "East Side Gallery (イーストサイドギャラリー)",
+      "name_zh": "East Side Gallery",
       "name_fr": "East Side Gallery",
       "name_de": "East Side Gallery",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg/330px-Bundesarchiv_B_145_Bild-F088809-0038%2C_Berlin%2C_East_Side_Gallery.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -540,11 +550,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "East Side Gallery"
     },
     {
       "id": "b_12",
-      "name": "Gedenkstätte Berliner Mauer（Bernauer Straße）",
+      "name": "Gedenkstätte Berliner Mauer",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -573,9 +584,9 @@
       "price_fr": "見学無料",
       "price_de": "見学無料",
       "name_en": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
-      "name_ja": "Gedenkstätte Berliner Mauer（Bernauer Straße）",
+      "name_ja": "Gedenkstätte Berliner Mauer",
       "name_es": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
-      "name_zh": "Gedenkstätte Berliner Mauer (ベルリンの壁記念館)",
+      "name_zh": "Gedenkstätte Berliner Mauer",
       "name_fr": "Gedenkstätte Berliner Mauer (Berlin Wall Memorial)",
       "name_de": "Gedenkstätte Berliner Mauer (Bernauer Straße)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg/330px-Berlin%2C_Bernauer_Stra%C3%9Fe%2C_%C3%9Cberblick_2014-07.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -590,11 +601,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Gedenkstätte Berliner Mauer"
     },
     {
       "id": "b_13",
-      "name": "Checkpoint Charlie & Mauermuseum（チェックポイント・チャーリー＆壁博物館）",
+      "name": "Checkpoint Charlie & Mauermuseum",
       "category": "Landmark",
       "rating": "★4.5",
       "locationZone": "city",
@@ -625,7 +637,7 @@
       "name_en": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
       "name_ja": "Checkpoint Charlie & Mauermuseum（チェックポイント・チャーリー＆壁博物館）",
       "name_es": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
-      "name_zh": "Checkpoint Charlie & Mauermuseum (チェックポイント・チャーリー＆壁博物館)",
+      "name_zh": "Checkpoint Charlie & Mauermuseum",
       "name_fr": "Checkpoint Charlie & Mauermuseum (Checkpoint Charlie)",
       "name_de": "Checkpoint Charlie & Mauermuseum",
       "image": "",
@@ -641,11 +653,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Checkpoint Charlie & Mauermuseum"
     },
     {
       "id": "b_14",
-      "name": "Topographie des Terrors（トポグラフィー・オブ・テラー）",
+      "name": "Topographie des Terrors",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -676,7 +689,7 @@
       "name_en": "Topographie des Terrors (Topography of Terror)",
       "name_ja": "Topographie des Terrors（トポグラフィー・オブ・テラー）",
       "name_es": "Topographie des Terrors (Topography of Terror)",
-      "name_zh": "Topographie des Terrors (トポグラフィー・オブ・テラー)",
+      "name_zh": "Topographie des Terrors",
       "name_fr": "Topographie des Terrors (Topography of Terror)",
       "name_de": "Topographie des Terrors",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dokumentationszentrum_Topographie_des_Terrors.jpg/330px-Dokumentationszentrum_Topographie_des_Terrors.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -689,11 +702,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Topographie des Terrors"
     },
     {
       "id": "b_15",
-      "name": "Denkmal für die ermordeten Juden Europas（ホロコースト慰霊碑）",
+      "name": "Denkmal für die ermordeten Juden Europas",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -724,7 +738,7 @@
       "name_en": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
       "name_ja": "Denkmal für die ermordeten Juden Europas（ホロコースト慰霊碑）",
       "name_es": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
-      "name_zh": "Denkmal für die ermordeten Juden Europas (ホロコースト慰霊碑)",
+      "name_zh": "Denkmal für die ermordeten Juden Europas",
       "name_fr": "Denkmal für die ermordeten Juden Europas (Holocaust Memorial)",
       "name_de": "Denkmal für die ermordeten Juden Europas",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/330px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -737,11 +751,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Denkmal für die ermordeten Juden Europas"
     },
     {
       "id": "b_16",
-      "name": "Berliner Fernsehturm（ベルリンテレビ塔）",
+      "name": "Berliner Fernsehturm",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -772,7 +787,7 @@
       "name_en": "Berliner Fernsehturm (Berlin TV Tower)",
       "name_ja": "Berliner Fernsehturm（ベルリンテレビ塔）",
       "name_es": "Berliner Fernsehturm (Berlin TV Tower)",
-      "name_zh": "Berliner Fernsehturm (ベルリンテレビ塔)",
+      "name_zh": "Berliner Fernsehturm",
       "name_fr": "Berliner Fernsehturm (Berlin TV Tower)",
       "name_de": "Berliner Fernsehturm",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fernsehturm_Berlin_logo.png/330px-Fernsehturm_Berlin_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -788,11 +803,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Berliner Fernsehturm"
     },
     {
       "id": "b_17",
-      "name": "Alexanderplatz & Weltzeituhr（アレクサンダー広場＆世界時計）",
+      "name": "Alexanderplatz & Weltzeituhr",
       "category": "Landmark",
       "rating": "★4.5",
       "locationZone": "city",
@@ -823,7 +839,7 @@
       "name_en": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
       "name_ja": "Alexanderplatz & Weltzeituhr（アレクサンダー広場＆世界時計）",
       "name_es": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
-      "name_zh": "Alexanderplatz & Weltzeituhr (アレクサンダー広場＆世界時計)",
+      "name_zh": "Alexanderplatz & Weltzeituhr",
       "name_fr": "Alexanderplatz & Weltzeituhr (Alexanderplatz & World Clock)",
       "name_de": "Alexanderplatz & Weltzeituhr",
       "image": "",
@@ -836,11 +852,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Alexanderplatz & Weltzeituhr"
     },
     {
       "id": "b_18",
-      "name": "Gendarmenmarkt（ジャンダルメンマルクト）",
+      "name": "Gendarmenmarkt",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -871,7 +888,7 @@
       "name_en": "Gendarmenmarkt",
       "name_ja": "Gendarmenmarkt（ジャンダルメンマルクト）",
       "name_es": "Gendarmenmarkt",
-      "name_zh": "Gendarmenmarkt (ジャンダルメンマルクト)",
+      "name_zh": "Gendarmenmarkt",
       "name_fr": "Gendarmenmarkt",
       "name_de": "Gendarmenmarkt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg/330px-150418_Konzerthaus_Berlin_Gendarmenmarkt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -884,11 +901,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Gendarmenmarkt"
     },
     {
       "id": "b_19",
-      "name": "Kaiser-Wilhelm-Gedächtniskirche（カイザー・ヴィルヘルム記念教会）",
+      "name": "Kaiser-Wilhelm-Gedächtniskirche",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -919,7 +937,7 @@
       "name_en": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
       "name_ja": "Kaiser-Wilhelm-Gedächtniskirche（カイザー・ヴィルヘルム記念教会）",
       "name_es": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
-      "name_zh": "Kaiser-Wilhelm-Gedächtniskirche (カイザー・ヴィルヘルム記念教会)",
+      "name_zh": "Kaiser-Wilhelm-Gedächtniskirche",
       "name_fr": "Kaiser-Wilhelm-Gedächtniskirche (Kaiser Wilhelm Memorial Church)",
       "name_de": "Kaiser-Wilhelm-Gedächtniskirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/330px-Ged%C3%A4chtniskirche1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -932,11 +950,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kaiser-Wilhelm-Gedächtniskirche"
     },
     {
       "id": "b_20",
-      "name": "Schloss Charlottenburg（シャルロッテンブルク宮殿）",
+      "name": "Schloss Charlottenburg",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -967,7 +986,7 @@
       "name_en": "Schloss Charlottenburg (Charlottenburg Palace)",
       "name_ja": "Schloss Charlottenburg（シャルロッテンブルク宮殿）",
       "name_es": "Schloss Charlottenburg (Charlottenburg Palace)",
-      "name_zh": "Schloss Charlottenburg (シャルロッテンブルク宮殿)",
+      "name_zh": "Schloss Charlottenburg",
       "name_fr": "Schloss Charlottenburg (Charlottenburg Palace)",
       "name_de": "Schloss Charlottenburg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin_Charlottenburger_Schloss_Strassenseite.jpg/330px-Berlin_Charlottenburger_Schloss_Strassenseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -980,11 +999,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Charlottenburg"
     },
     {
       "id": "b_21",
-      "name": "Kulturforum & Gemäldegalerie）（絵画館（クルトゥールフォルム）",
+      "name": "Kulturforum & Gemäldegalerie",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1012,27 +1032,28 @@
       "price_zh": "入場料: 14€",
       "price_fr": "入場料: 14€",
       "price_de": "入場料: 14€",
-      "name_en": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
-      "name_ja": "Kulturforum & Gemäldegalerie）（絵画館（クルトゥールフォルム）",
-      "name_es": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
-      "name_zh": "Kulturforum & Gemäldegalerie） (クルトゥールフォルム)",
-      "name_fr": "Kulturforum & Gemäldegalerie） (Gemäldegalerie Art Gallery)",
-      "name_de": "Kulturforum & Gemäldegalerie）",
+      "name_en": "Kulturforum & Gemäldegalerie (Gemäldegalerie Art Gallery)",
+      "name_ja": "Kulturforum & Gemäldegalerie（絵画館（クルトゥールフォルム）",
+      "name_es": "Kulturforum & Gemäldegalerie (Gemäldegalerie Art Gallery)",
+      "name_zh": "Kulturforum & Gemäldegalerie",
+      "name_fr": "Kulturforum & Gemäldegalerie (Gemäldegalerie Art Gallery)",
+      "name_de": "Kulturforum & Gemäldegalerie",
       "image": "",
       "hasWiki": false,
       "desc_de": "Gemäldegalerie Art Gallery in City district.",
-      "name_nl": "Kulturforum & Gemäldegalerie）",
+      "name_nl": "Kulturforum & Gemäldegalerie",
       "desc_nl": "Gemäldegalerie Art Gallery in City district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
       "price_nl": "入場料: 14€",
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kulturforum & Gemäldegalerie"
     },
     {
       "id": "b_22",
-      "name": "Neue Nationalgalerie（新国立美術館）",
+      "name": "Neue Nationalgalerie",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1076,11 +1097,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neue Nationalgalerie"
     },
     {
       "id": "b_23",
-      "name": "Hamburger Bahnhof（ハンブルガー・バーンホフ現代美術館）",
+      "name": "Hamburger Bahnhof",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1111,7 +1133,7 @@
       "name_en": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
       "name_ja": "Hamburger Bahnhof（ハンブルガー・バーンホフ現代美術館）",
       "name_es": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
-      "name_zh": "Hamburger Bahnhof (ハンブルガー・バーンホフ現代美術館)",
+      "name_zh": "Hamburger Bahnhof",
       "name_fr": "Hamburger Bahnhof (Hamburger Bahnhof Contemporary Art)",
       "name_de": "Hamburger Bahnhof",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/InvalidenstrBerlin_12-2017_img1.jpg/330px-InvalidenstrBerlin_12-2017_img1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1126,11 +1148,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hamburger Bahnhof"
     },
     {
       "id": "b_24",
-      "name": "Jüdisches Museum Berlin（ユダヤ博物館）",
+      "name": "Jüdisches Museum Berlin",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1161,7 +1184,7 @@
       "name_en": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
       "name_ja": "Jüdisches Museum Berlin（ユダヤ博物館）",
       "name_es": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
-      "name_zh": "Jüdisches Museum Berlin (ユダヤ博物館)",
+      "name_zh": "Jüdisches Museum Berlin",
       "name_fr": "Jüdisches Museum Berlin (Jewish Museum Berlin)",
       "name_de": "Jüdisches Museum Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jewish_Museum_Berlin_-_panoramio_%282%29.jpg/330px-Jewish_Museum_Berlin_-_panoramio_%282%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1175,11 +1198,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jüdisches Museum Berlin"
     },
     {
       "id": "b_25",
-      "name": "Deutsches Historisches Museum（DHM）",
+      "name": "Deutsches Historisches Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1208,9 +1232,9 @@
       "price_fr": "入場料: 10€",
       "price_de": "入場料: 10€",
       "name_en": "Deutsches Historisches Museum (German Historical Museum)",
-      "name_ja": "Deutsches Historisches Museum（DHM）",
+      "name_ja": "Deutsches Historisches Museum",
       "name_es": "Deutsches Historisches Museum (German Historical Museum)",
-      "name_zh": "Deutsches Historisches Museum (ドイツ歴史博物館)",
+      "name_zh": "Deutsches Historisches Museum",
       "name_fr": "Deutsches Historisches Museum (German Historical Museum)",
       "name_de": "Deutsches Historisches Museum (DHM)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zeughaus_Berlin_2012.jpg/330px-Zeughaus_Berlin_2012.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1223,11 +1247,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Historisches Museum"
     },
     {
       "id": "b_26",
-      "name": "Deutsches Technikmuseum（ドイツ技術博物館＆スペクトラム）",
+      "name": "Deutsches Technikmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1258,7 +1283,7 @@
       "name_en": "Deutsches Technikmuseum (German Museum of Technology)",
       "name_ja": "Deutsches Technikmuseum（ドイツ技術博物館＆スペクトラム）",
       "name_es": "Deutsches Technikmuseum (German Museum of Technology)",
-      "name_zh": "Deutsches Technikmuseum (ドイツ技術博物館＆スペクトラム)",
+      "name_zh": "Deutsches Technikmuseum",
       "name_fr": "Deutsches Technikmuseum (German Museum of Technology)",
       "name_de": "Deutsches Technikmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Deutsches_technikmuseum_berlin_20080429.jpg/330px-Deutsches_technikmuseum_berlin_20080429.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1271,11 +1296,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Technikmuseum"
     },
     {
       "id": "b_27",
-      "name": "Museum für Naturkunde（ベルリン自然史博物館）",
+      "name": "Museum für Naturkunde",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1306,7 +1332,7 @@
       "name_en": "Museum für Naturkunde (Berlin Natural History Museum)",
       "name_ja": "Museum für Naturkunde（ベルリン自然史博物館）",
       "name_es": "Museum für Naturkunde (Berlin Natural History Museum)",
-      "name_zh": "Museum für Naturkunde (ベルリン自然史博物館)",
+      "name_zh": "Museum für Naturkunde",
       "name_fr": "Museum für Naturkunde (Berlin Natural History Museum)",
       "name_de": "Museum für Naturkunde",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg/330px-Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1319,11 +1345,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum für Naturkunde"
     },
     {
       "id": "b_28",
-      "name": "Futurium（フトゥリウム）",
+      "name": "Futurium",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1354,7 +1381,7 @@
       "name_en": "Futurium",
       "name_ja": "Futurium（フトゥリウム）",
       "name_es": "Futurium",
-      "name_zh": "Futurium (フトゥリウム)",
+      "name_zh": "Futurium",
       "name_fr": "Futurium",
       "name_de": "Futurium",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FuturiumBerlin2021.jpg/330px-FuturiumBerlin2021.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1367,11 +1394,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Futurium"
     },
     {
       "id": "b_29",
-      "name": "Computerspielemuseum（コンピュータゲーム博物館）",
+      "name": "Computerspielemuseum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1402,7 +1430,7 @@
       "name_en": "Computerspielemuseum (Computer Games Museum)",
       "name_ja": "Computerspielemuseum（コンピュータゲーム博物館）",
       "name_es": "Computerspielemuseum (Computer Games Museum)",
-      "name_zh": "Computerspielemuseum (コンピュータゲーム博物館)",
+      "name_zh": "Computerspielemuseum",
       "name_fr": "Computerspielemuseum (Computer Games Museum)",
       "name_de": "Computerspielemuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ausstellung_Computerspielemuseum_2.JPG/330px-Ausstellung_Computerspielemuseum_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1417,11 +1445,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Computerspielemuseum"
     },
     {
       "id": "b_30",
-      "name": "Spionagemuseum（German Spy Museum）",
+      "name": "Spionagemuseum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1450,9 +1479,9 @@
       "price_fr": "入場料: 15€",
       "price_de": "入場料: 15€",
       "name_en": "Spionagemuseum (German Spy Museum)",
-      "name_ja": "Spionagemuseum（German Spy Museum）",
+      "name_ja": "Spionagemuseum",
       "name_es": "Spionagemuseum (German Spy Museum)",
-      "name_zh": "Spionagemuseum (ドイツスパイ博物館)",
+      "name_zh": "Spionagemuseum",
       "name_fr": "Spionagemuseum (German Spy Museum)",
       "name_de": "Spionagemuseum (German Spy Museum)",
       "image": "",
@@ -1465,11 +1494,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Spionagemuseum"
     },
     {
       "id": "b_31",
-      "name": "DDR Museum（DDR博物館）",
+      "name": "DDR Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1513,11 +1543,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "DDR Museum"
     },
     {
       "id": "b_32",
-      "name": "Berliner Unterwelten（ベルリン地下世界ツアー）",
+      "name": "Berliner Unterwelten",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1548,7 +1579,7 @@
       "name_en": "Berliner Unterwelten (Berlin Underground Tours)",
       "name_ja": "Berliner Unterwelten（ベルリン地下世界ツアー）",
       "name_es": "Berliner Unterwelten (Berlin Underground Tours)",
-      "name_zh": "Berliner Unterwelten (ベルリン地下世界ツアー)",
+      "name_zh": "Berliner Unterwelten",
       "name_fr": "Berliner Unterwelten (Berlin Underground Tours)",
       "name_de": "Berliner Unterwelten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ticketshop_Berliner_Unterwelten.jpg/330px-Ticketshop_Berliner_Unterwelten.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1561,11 +1592,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Berliner Unterwelten"
     },
     {
       "id": "b_33",
-      "name": "Siegessäule & Großer Tiergarten（戦勝記念塔＆大ティーアガルテン）",
+      "name": "Siegessäule & Großer Tiergarten",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1596,7 +1628,7 @@
       "name_en": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
       "name_ja": "Siegessäule & Großer Tiergarten（戦勝記念塔＆大ティーアガルテン）",
       "name_es": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
-      "name_zh": "Siegessäule & Großer Tiergarten (戦勝記念塔＆大ティーアガルテン)",
+      "name_zh": "Siegessäule & Großer Tiergarten",
       "name_fr": "Siegessäule & Großer Tiergarten (Victory Column & Tiergarten)",
       "name_de": "Siegessäule & Großer Tiergarten",
       "image": "",
@@ -1609,11 +1641,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Siegessäule & Großer Tiergarten"
     },
     {
       "id": "b_34",
-      "name": "Potsdamer Platz & Sony Center（ポツダム広場＆ソニーセンター）",
+      "name": "Potsdamer Platz & Sony Center",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1644,7 +1677,7 @@
       "name_en": "Potsdamer Platz & Sony Center",
       "name_ja": "Potsdamer Platz & Sony Center（ポツダム広場＆ソニーセンター）",
       "name_es": "Potsdamer Platz & Sony Center",
-      "name_zh": "Potsdamer Platz & Sony Center (ポツダム広場＆ソニーセンター)",
+      "name_zh": "Potsdamer Platz & Sony Center",
       "name_fr": "Potsdamer Platz & Sony Center",
       "name_de": "Potsdamer Platz & Sony Center",
       "image": "",
@@ -1657,11 +1690,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Potsdamer Platz & Sony Center"
     },
     {
       "id": "b_35",
-      "name": "Kurfürstendamm  & Tauentzienstraße（Ku'damm）",
+      "name": "Kurfürstendamm  & Tauentzienstraße",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1690,9 +1724,9 @@
       "price_fr": "散策無料",
       "price_de": "散策無料",
       "name_en": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
-      "name_ja": "Kurfürstendamm  & Tauentzienstraße（Ku'damm）",
+      "name_ja": "Kurfürstendamm  & Tauentzienstraße",
       "name_es": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
-      "name_zh": "Kurfürstendamm  & Tauentzienstraße (クーダム＆タウエンツィエン通り)",
+      "name_zh": "Kurfürstendamm  & Tauentzienstraße",
       "name_fr": "Kurfürstendamm  & Tauentzienstraße (Kurfürstendamm Shopping Street)",
       "name_de": "Kurfürstendamm  & Tauentzienstraße (Ku'damm)",
       "image": "",
@@ -1705,11 +1739,12 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kurfürstendamm  & Tauentzienstraße"
     },
     {
       "id": "b_36",
-      "name": "KaDeWe（Kaufhaus des Westens）",
+      "name": "KaDeWe",
       "category": "Shopping",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1738,9 +1773,9 @@
       "price_fr": "入館無料",
       "price_de": "入館無料",
       "name_en": "KaDeWe (KaDeWe Department Store)",
-      "name_ja": "KaDeWe（Kaufhaus des Westens）",
+      "name_ja": "KaDeWe",
       "name_es": "KaDeWe (KaDeWe Department Store)",
-      "name_zh": "KaDeWe (カーデーヴェー百貨店)",
+      "name_zh": "KaDeWe",
       "name_fr": "KaDeWe (KaDeWe Department Store)",
       "name_de": "KaDeWe (Kaufhaus des Westens)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg/330px-Berlin%2C_Schoeneberg%2C_Tauentzienstrasse_21-24%2C_KaDeWe.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1753,11 +1788,12 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "KaDeWe"
     },
     {
       "id": "b_37",
-      "name": "Mall of Berlin（モール・オブ・ベルリン）",
+      "name": "Mall of Berlin",
       "category": "Shopping",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1788,7 +1824,7 @@
       "name_en": "Mall of Berlin",
       "name_ja": "Mall of Berlin（モール・オブ・ベルリン）",
       "name_es": "Mall of Berlin",
-      "name_zh": "Mall of Berlin (モール・オブ・ベルリン)",
+      "name_zh": "Mall of Berlin",
       "name_fr": "Mall of Berlin",
       "name_de": "Mall of Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg/330px-18-01-06-Potsdamer-Platz-Berlin-RalfR-_RR70342.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1802,11 +1838,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mall of Berlin"
     },
     {
       "id": "b_38",
-      "name": "Bikini Berlin（ビキニ・ベルリン）",
+      "name": "Bikini Berlin",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1837,7 +1874,7 @@
       "name_en": "Bikini Berlin (Bikini Berlin Concept Mall)",
       "name_ja": "Bikini Berlin（ビキニ・ベルリン）",
       "name_es": "Bikini Berlin (Bikini Berlin Concept Mall)",
-      "name_zh": "Bikini Berlin (ビキニ・ベルリン)",
+      "name_zh": "Bikini Berlin",
       "name_fr": "Bikini Berlin (Bikini Berlin Concept Mall)",
       "name_de": "Bikini Berlin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg/330px-Bikini_Berlin_Stra%C3%9Fenansicht_2014.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1852,11 +1889,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bikini Berlin"
     },
     {
       "id": "b_39",
-      "name": "Hackesche Höfe & Hackescher Markt（ハッケシャー・ヘーフェ＆ハッケシャー・マルクト）",
+      "name": "Hackesche Höfe & Hackescher Markt",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1887,7 +1925,7 @@
       "name_en": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
       "name_ja": "Hackesche Höfe & Hackescher Markt（ハッケシャー・ヘーフェ＆ハッケシャー・マルクト）",
       "name_es": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
-      "name_zh": "Hackesche Höfe & Hackescher Markt (ハッケシャー・ヘーフェ＆ハッケシャー・マルクト)",
+      "name_zh": "Hackesche Höfe & Hackescher Markt",
       "name_fr": "Hackesche Höfe & Hackescher Markt (Hackesche Höfe Courtyards)",
       "name_de": "Hackesche Höfe & Hackescher Markt",
       "image": "",
@@ -1901,11 +1939,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hackesche Höfe & Hackescher Markt"
     },
     {
       "id": "b_40",
-      "name": "Mauerpark & Flohmarkt（マウアーパーク＆日曜蚤の市）",
+      "name": "Mauerpark & Flohmarkt",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1936,7 +1975,7 @@
       "name_en": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
       "name_ja": "Mauerpark & Flohmarkt（マウアーパーク＆日曜蚤の市）",
       "name_es": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
-      "name_zh": "Mauerpark & Flohmarkt (マウアーパーク＆日曜蚤の市)",
+      "name_zh": "Mauerpark & Flohmarkt",
       "name_fr": "Mauerpark & Flohmarkt (Mauerpark & Sunday Market)",
       "name_de": "Mauerpark & Flohmarkt",
       "image": "",
@@ -1951,11 +1990,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mauerpark & Flohmarkt"
     },
     {
       "id": "b_41",
-      "name": "Markthalle Neun（マルクトハレ・ノイン）",
+      "name": "Markthalle Neun",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1986,7 +2026,7 @@
       "name_en": "Markthalle Neun (Markthalle Neun Market)",
       "name_ja": "Markthalle Neun（マルクトハレ・ノイン）",
       "name_es": "Markthalle Neun (Markthalle Neun Market)",
-      "name_zh": "Markthalle Neun (マルクトハレ・ノイン)",
+      "name_zh": "Markthalle Neun",
       "name_fr": "Markthalle Neun (Markthalle Neun Market)",
       "name_de": "Markthalle Neun",
       "image": "",
@@ -1999,11 +2039,12 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Markthalle Neun"
     },
     {
       "id": "b_42",
-      "name": "Kollwitzplatz & Prenzlauer Berg（コルヴィッツ広場＆プレンツラウアー・ベルク）",
+      "name": "Kollwitzplatz & Prenzlauer Berg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2034,7 +2075,7 @@
       "name_en": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
       "name_ja": "Kollwitzplatz & Prenzlauer Berg（コルヴィッツ広場＆プレンツラウアー・ベルク）",
       "name_es": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
-      "name_zh": "Kollwitzplatz & Prenzlauer Berg (コルヴィッツ広場＆プレンツラウアー・ベルク)",
+      "name_zh": "Kollwitzplatz & Prenzlauer Berg",
       "name_fr": "Kollwitzplatz & Prenzlauer Berg (Kollwitzplatz Quarter)",
       "name_de": "Kollwitzplatz & Prenzlauer Berg",
       "image": "",
@@ -2049,11 +2090,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kollwitzplatz & Prenzlauer Berg"
     },
     {
       "id": "b_43",
-      "name": "Bergmannstraße & Kreuzberg（ベルクマン通り＆クロイツベルク）",
+      "name": "Bergmannstraße & Kreuzberg",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2084,7 +2126,7 @@
       "name_en": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
       "name_ja": "Bergmannstraße & Kreuzberg（ベルクマン通り＆クロイツベルク）",
       "name_es": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
-      "name_zh": "Bergmannstraße & Kreuzberg (ベルクマン通り＆クロイツベルク)",
+      "name_zh": "Bergmannstraße & Kreuzberg",
       "name_fr": "Bergmannstraße & Kreuzberg (Bergmannstraße Quarter)",
       "name_de": "Bergmannstraße & Kreuzberg",
       "image": "",
@@ -2098,11 +2140,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bergmannstraße & Kreuzberg"
     },
     {
       "id": "b_44",
-      "name": "RAW-Gelände（RAWゲレンデ）",
+      "name": "RAW-Gelände",
       "category": "Scenery & Walk",
       "rating": "★4.5",
       "locationZone": "city",
@@ -2133,7 +2176,7 @@
       "name_en": "RAW-Gelände (RAW Complex Cultural Center)",
       "name_ja": "RAW-Gelände（RAWゲレンデ）",
       "name_es": "RAW-Gelände (RAW Complex Cultural Center)",
-      "name_zh": "RAW-Gelände (RAWゲレンデ)",
+      "name_zh": "RAW-Gelände",
       "name_fr": "RAW-Gelände (RAW Complex Cultural Center)",
       "name_de": "RAW-Gelände",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RAW_Berlin_Tor1.jpg/330px-RAW_Berlin_Tor1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2146,11 +2189,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "RAW-Gelände"
     },
     {
       "id": "b_45",
-      "name": "Holzmarkt 25（ホルツマルクト25）",
+      "name": "Holzmarkt 25",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2181,7 +2225,7 @@
       "name_en": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
       "name_ja": "Holzmarkt 25（ホルツマルクト25）",
       "name_es": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
-      "name_zh": "Holzmarkt 25 (ホルツマルクト25)",
+      "name_zh": "Holzmarkt 25",
       "name_fr": "Holzmarkt 25 (Holzmarkt 25 Creative Village)",
       "name_de": "Holzmarkt 25",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg/330px-Holzmarkt_Berlin_S%C3%A4%C3%A4lchen_Spree_View.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2196,11 +2240,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Holzmarkt 25"
     },
     {
       "id": "b_46",
-      "name": "Zoologischer Garten Berlin & Aquarium Berlin（ベルリン動物園＆水族館）",
+      "name": "Zoologischer Garten Berlin & Aquarium Berlin",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "city",
@@ -2231,7 +2276,7 @@
       "name_en": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
       "name_ja": "Zoologischer Garten Berlin & Aquarium Berlin（ベルリン動物園＆水族館）",
       "name_es": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
-      "name_zh": "Zoologischer Garten Berlin & Aquarium Berlin (ベルリン動物園＆水族館)",
+      "name_zh": "Zoologischer Garten Berlin & Aquarium Berlin",
       "name_fr": "Zoologischer Garten Berlin & Aquarium Berlin (Berlin Zoo & Aquarium)",
       "name_de": "Zoologischer Garten Berlin & Aquarium Berlin",
       "image": "",
@@ -2245,11 +2290,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zoologischer Garten Berlin & Aquarium Berlin"
     },
     {
       "id": "b_47",
-      "name": "Tierpark Berlin & Schloss Friedrichsfelde（ティーアパーク・ベルリン）",
+      "name": "Tierpark Berlin & Schloss Friedrichsfelde",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2280,7 +2326,7 @@
       "name_en": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
       "name_ja": "Tierpark Berlin & Schloss Friedrichsfelde（ティーアパーク・ベルリン）",
       "name_es": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
-      "name_zh": "Tierpark Berlin & Schloss Friedrichsfelde (ティーアパーク・ベルリン)",
+      "name_zh": "Tierpark Berlin & Schloss Friedrichsfelde",
       "name_fr": "Tierpark Berlin & Schloss Friedrichsfelde (Tierpark Berlin)",
       "name_de": "Tierpark Berlin & Schloss Friedrichsfelde",
       "image": "",
@@ -2294,11 +2340,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tierpark Berlin & Schloss Friedrichsfelde"
     },
     {
       "id": "b_48",
-      "name": "Tempelhofer Feld（テンペルホーフ空港跡地公園）",
+      "name": "Tempelhofer Feld",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -2329,7 +2376,7 @@
       "name_en": "Tempelhofer Feld (Tempelhof Airport Park)",
       "name_ja": "Tempelhofer Feld（テンペルホーフ空港跡地公園）",
       "name_es": "Tempelhofer Feld (Tempelhof Airport Park)",
-      "name_zh": "Tempelhofer Feld (テンペルホーフ空港跡地公園)",
+      "name_zh": "Tempelhofer Feld",
       "name_fr": "Tempelhofer Feld (Tempelhof Airport Park)",
       "name_de": "Tempelhofer Feld",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial%2C_Berlin_%28_1090064%29.jpg/330px-Aerial%2C_Berlin_%28_1090064%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2343,11 +2390,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tempelhofer Feld"
     },
     {
       "id": "b_49",
-      "name": "Gärten der Welt（世界の庭園）",
+      "name": "Gärten der Welt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2378,7 +2426,7 @@
       "name_en": "Gärten der Welt (Gardens of the World)",
       "name_ja": "Gärten der Welt（世界の庭園）",
       "name_es": "Gärten der Welt (Gardens of the World)",
-      "name_zh": "Gärten der Welt (世界の庭園)",
+      "name_zh": "Gärten der Welt",
       "name_fr": "Gärten der Welt (Gardens of the World)",
       "name_de": "Gärten der Welt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/330px-Erholungspark_Marzahn_2009.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2391,11 +2439,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Gärten der Welt"
     },
     {
       "id": "b_50",
-      "name": "Spree-Schifffahrt（Spree River Cruise）",
+      "name": "Spree-Schifffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2424,9 +2473,9 @@
       "price_fr": "クルーズ: 19€",
       "price_de": "クルーズ: 19€",
       "name_en": "Spree-Schifffahrt (Spree River Cruise)",
-      "name_ja": "Spree-Schifffahrt（Spree River Cruise）",
+      "name_ja": "Spree-Schifffahrt",
       "name_es": "Spree-Schifffahrt (Spree River Cruise)",
-      "name_zh": "Spree-Schifffahrt (シュプレー川観光クルーズ船)",
+      "name_zh": "Spree-Schifffahrt",
       "name_fr": "Spree-Schifffahrt (Spree River Cruise)",
       "name_de": "Spree-Schifffahrt (Spree River Cruise)",
       "image": "",
@@ -2441,11 +2490,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Spree-Schifffahrt"
     },
     {
       "id": "b_51",
-      "name": "Badeschiff（バーデシッフ）",
+      "name": "Badeschiff",
       "category": "Scenery & Walk",
       "rating": "★4.5",
       "locationZone": "city",
@@ -2476,7 +2526,7 @@
       "name_en": "Badeschiff (Badeschiff Floating Pool)",
       "name_ja": "Badeschiff（バーデシッフ）",
       "name_es": "Badeschiff (Badeschiff Floating Pool)",
-      "name_zh": "Badeschiff (バーデシッフ)",
+      "name_zh": "Badeschiff",
       "name_fr": "Badeschiff (Badeschiff Floating Pool)",
       "name_de": "Badeschiff",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Badeschiff_Kohl.jpg/330px-Badeschiff_Kohl.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2491,11 +2541,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Badeschiff"
     },
     {
       "id": "b_52",
-      "name": "Curry 36 & Konnopke's Imbiß（カリー36＆コノプケ）",
+      "name": "Curry 36 & Konnopke's Imbiß",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2526,7 +2577,7 @@
       "name_en": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
       "name_ja": "Curry 36 & Konnopke's Imbiß（カリー36＆コノプケ）",
       "name_es": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
-      "name_zh": "Curry 36 & Konnopke's Imbiß (カリー36＆コノプケ)",
+      "name_zh": "Curry 36 & Konnopke's Imbiß",
       "name_fr": "Curry 36 & Konnopke's Imbiß (Curry 36 & Konnopke's Currywurst)",
       "name_de": "Curry 36 & Konnopke's Imbiß",
       "image": "",
@@ -2539,11 +2590,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Curry 36 & Konnopke's Imbiß"
     },
     {
       "id": "b_53",
-      "name": "Mustafa's Gemüsedöner（ムスタファズ・ゲミューゼドネル）",
+      "name": "Mustafa's Gemüsedöner",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2574,7 +2626,7 @@
       "name_en": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
       "name_ja": "Mustafa's Gemüsedöner（ムスタファズ・ゲミューゼドネル）",
       "name_es": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
-      "name_zh": "Mustafa's Gemüsedöner (ムスタファズ・ゲミューゼドネル)",
+      "name_zh": "Mustafa's Gemüsedöner",
       "name_fr": "Mustafa's Gemüsedöner (Mustafa's Vegetable Kebab)",
       "name_de": "Mustafa's Gemüsedöner",
       "image": "",
@@ -2587,11 +2639,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mustafa's Gemüsedöner"
     },
     {
       "id": "b_54",
-      "name": "Café Einstein Stammhaus（カフェ・アインシュタイン本店）",
+      "name": "Café Einstein Stammhaus",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2622,7 +2675,7 @@
       "name_en": "Café Einstein Stammhaus",
       "name_ja": "Café Einstein Stammhaus（カフェ・アインシュタイン本店）",
       "name_es": "Café Einstein Stammhaus",
-      "name_zh": "Café Einstein Stammhaus (カフェ・アインシュタイン本店)",
+      "name_zh": "Café Einstein Stammhaus",
       "name_fr": "Café Einstein Stammhaus",
       "name_de": "Café Einstein Stammhaus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg/330px-TiergartenKurf%C3%BCrstenstra%C3%9FeCafeEinstein.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2635,11 +2688,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Einstein Stammhaus"
     },
     {
       "id": "b_55",
-      "name": "Prater Biergarten（プラーター・ビアガーデン）",
+      "name": "Prater Biergarten",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2670,7 +2724,7 @@
       "name_en": "Prater Biergarten (Prater Beer Garden)",
       "name_ja": "Prater Biergarten（プラーター・ビアガーデン）",
       "name_es": "Prater Biergarten (Prater Beer Garden)",
-      "name_zh": "Prater Biergarten (プラーター・ビアガーデン)",
+      "name_zh": "Prater Biergarten",
       "name_fr": "Prater Biergarten (Prater Beer Garden)",
       "name_de": "Prater Biergarten",
       "image": "",
@@ -2684,11 +2738,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Prater Biergarten"
     },
     {
       "id": "b_56",
-      "name": "Brauhaus Georgbræu & Nikolaiviertel（ニコライ地区＆ゲオルグブロイ）",
+      "name": "Brauhaus Georgbræu & Nikolaiviertel",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2719,7 +2774,7 @@
       "name_en": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
       "name_ja": "Brauhaus Georgbræu & Nikolaiviertel（ニコライ地区＆ゲオルグブロイ）",
       "name_es": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
-      "name_zh": "Brauhaus Georgbræu & Nikolaiviertel (ニコライ地区＆ゲオルグブロイ)",
+      "name_zh": "Brauhaus Georgbræu & Nikolaiviertel",
       "name_fr": "Brauhaus Georgbræu & Nikolaiviertel (Nikolaiviertel & Georgbræu Brewery)",
       "name_de": "Brauhaus Georgbræu & Nikolaiviertel",
       "image": "",
@@ -2734,11 +2789,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Brauhaus Georgbræu & Nikolaiviertel"
     },
     {
       "id": "b_57",
-      "name": "ANOHA - Die Kinderwelt des Jüdischen Museums（アノハ・子供の世界）",
+      "name": "ANOHA - Die Kinderwelt des Jüdischen Museums",
       "category": "Kids & Family",
       "rating": "★4.9",
       "locationZone": "city",
@@ -2769,7 +2825,7 @@
       "name_en": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
       "name_ja": "ANOHA - Die Kinderwelt des Jüdischen Museums（アノハ・子供の世界）",
       "name_es": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
-      "name_zh": "ANOHA - Die Kinderwelt des Jüdischen Museums (アノハ・子供の世界)",
+      "name_zh": "ANOHA - Die Kinderwelt des Jüdischen Museums",
       "name_fr": "ANOHA - Die Kinderwelt des Jüdischen Museums (ANOHA Children's World)",
       "name_de": "ANOHA - Die Kinderwelt des Jüdischen Museums",
       "image": "",
@@ -2783,11 +2839,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "ANOHA - Die Kinderwelt des Jüdischen Museums"
     },
     {
       "id": "b_58",
-      "name": "Loxx / Lego Discovery Centre Berlin（レゴランド・ディスカバリー・センター）",
+      "name": "Loxx / Lego Discovery Centre Berlin",
       "category": "Kids & Family",
       "rating": "★4.5",
       "locationZone": "city",
@@ -2818,7 +2875,7 @@
       "name_en": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
       "name_ja": "Loxx / Lego Discovery Centre Berlin（レゴランド・ディスカバリー・センター）",
       "name_es": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
-      "name_zh": "Loxx / Lego Discovery Centre Berlin (レゴランド・ディスカバリー・センター)",
+      "name_zh": "Loxx / Lego Discovery Centre Berlin",
       "name_fr": "Loxx / Lego Discovery Centre Berlin (Lego Discovery Centre Berlin)",
       "name_de": "Loxx / Lego Discovery Centre Berlin",
       "image": "",
@@ -2831,11 +2888,12 @@
       "categories": [
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Loxx / Lego Discovery Centre Berlin"
     },
     {
       "id": "b_59",
-      "name": "SEA LIFE Berlin（シーライフ・ベルリン（屋内水族館）",
+      "name": "SEA LIFE Berlin",
       "category": "Kids & Family",
       "rating": "★4.4",
       "locationZone": "city",
@@ -2866,7 +2924,7 @@
       "name_en": "SEA LIFE Berlin",
       "name_ja": "SEA LIFE Berlin（シーライフ・ベルリン（屋内水族館）",
       "name_es": "SEA LIFE Berlin",
-      "name_zh": "SEA LIFE Berlin (シーライフ・ベルリン)",
+      "name_zh": "SEA LIFE Berlin",
       "name_fr": "SEA LIFE Berlin",
       "name_de": "SEA LIFE Berlin (AquaDom & SEA LIFE Berlin)",
       "image": "",
@@ -2881,11 +2939,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "SEA LIFE Berlin"
     },
     {
       "id": "b_60",
-      "name": "Liquidrom（リキッドローム）",
+      "name": "Liquidrom",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -2916,7 +2975,7 @@
       "name_en": "Liquidrom (Liquidrom Thermal Bath)",
       "name_ja": "Liquidrom（リキッドローム）",
       "name_es": "Liquidrom (Liquidrom Thermal Bath)",
-      "name_zh": "Liquidrom (リキッドローム)",
+      "name_zh": "Liquidrom",
       "name_fr": "Liquidrom (Liquidrom Thermal Bath)",
       "name_de": "Liquidrom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/330px-Tempodrom.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2929,11 +2988,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Liquidrom"
     },
     {
       "id": "b_61",
-      "name": "Schloss Sanssouci & Park Sanssouci（Potsdam / UNESCO）",
+      "name": "Schloss Sanssouci & Park Sanssouci",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2962,9 +3022,9 @@
       "price_fr": "宮殿: 14€（公園無料）",
       "price_de": "宮殿: 14€（公園無料）",
       "name_en": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
-      "name_ja": "Schloss Sanssouci & Park Sanssouci（Potsdam / UNESCO）",
+      "name_ja": "Schloss Sanssouci & Park Sanssouci",
       "name_es": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
-      "name_zh": "Schloss Sanssouci & Park Sanssouci (サンスーシ宮殿＆サンスーシ公園)",
+      "name_zh": "Schloss Sanssouci & Park Sanssouci",
       "name_fr": "Schloss Sanssouci & Park Sanssouci (Sanssouci Palace & Park)",
       "name_de": "Schloss Sanssouci & Park Sanssouci (Potsdam / UNESCO)",
       "image": "",
@@ -2978,11 +3038,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Sanssouci & Park Sanssouci"
     },
     {
       "id": "b_62",
-      "name": "Neues Palais ）（Potsdam）",
+      "name": "Neues Palais",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -3010,16 +3071,16 @@
       "price_zh": "宮殿: 14€",
       "price_fr": "宮殿: 14€",
       "price_de": "宮殿: 14€",
-      "name_en": "Neues Palais ） (New Palace in Sanssouci)",
-      "name_ja": "Neues Palais ）（Potsdam）",
-      "name_es": "Neues Palais ） (New Palace in Sanssouci)",
-      "name_zh": "Neues Palais ） (ポツダム)",
-      "name_fr": "Neues Palais ） (New Palace in Sanssouci)",
-      "name_de": "Neues Palais ） (Potsdam)",
+      "name_en": "Neues Palais (New Palace in Sanssouci)",
+      "name_ja": "Neues Palais",
+      "name_es": "Neues Palais (New Palace in Sanssouci)",
+      "name_zh": "Neues Palais",
+      "name_fr": "Neues Palais (New Palace in Sanssouci)",
+      "name_de": "Neues Palais (Potsdam)",
       "image": "",
       "hasWiki": false,
       "desc_de": "New Palace in Sanssouci in Suburban district.",
-      "name_nl": "Neues Palais ）",
+      "name_nl": "Neues Palais",
       "desc_nl": "New Palace in Sanssouci in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
       "price_nl": "宮殿: 14€",
@@ -3028,11 +3089,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neues Palais"
     },
     {
       "id": "b_63",
-      "name": "Schloss Cecilienhof（Potsdam）",
+      "name": "Schloss Cecilienhof",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -3061,9 +3123,9 @@
       "price_fr": "入場料: 12€",
       "price_de": "入場料: 12€",
       "name_en": "Schloss Cecilienhof (Cecilienhof Palace)",
-      "name_ja": "Schloss Cecilienhof（Potsdam）",
+      "name_ja": "Schloss Cecilienhof",
       "name_es": "Schloss Cecilienhof (Cecilienhof Palace)",
-      "name_zh": "Schloss Cecilienhof (ツェツィーリエンホーフ宮殿)",
+      "name_zh": "Schloss Cecilienhof",
       "name_fr": "Schloss Cecilienhof (Cecilienhof Palace)",
       "name_de": "Schloss Cecilienhof (Potsdam)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg/330px-La_cour_int%C3%A9rieure_du_ch%C3%A2teau_de_Cecilienhof_%28Potsdam%29_%282731361224%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3076,11 +3138,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Cecilienhof"
     },
     {
       "id": "b_64",
-      "name": "Holländisches Viertel ）（Potsdam）",
+      "name": "Holländisches Viertel",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "suburban",
@@ -3108,27 +3171,28 @@
       "price_zh": "散策無料",
       "price_fr": "散策無料",
       "price_de": "散策無料",
-      "name_en": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
-      "name_ja": "Holländisches Viertel ）（Potsdam）",
-      "name_es": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
-      "name_zh": "Holländisches Viertel ） (ポツダム)",
-      "name_fr": "Holländisches Viertel ） (Dutch Quarter Potsdam)",
-      "name_de": "Holländisches Viertel ） (Potsdam)",
+      "name_en": "Holländisches Viertel (Dutch Quarter Potsdam)",
+      "name_ja": "Holländisches Viertel",
+      "name_es": "Holländisches Viertel (Dutch Quarter Potsdam)",
+      "name_zh": "Holländisches Viertel",
+      "name_fr": "Holländisches Viertel (Dutch Quarter Potsdam)",
+      "name_de": "Holländisches Viertel (Potsdam)",
       "image": "",
       "hasWiki": false,
       "desc_de": "Dutch Quarter Potsdam in Suburban district.",
-      "name_nl": "Holländisches Viertel ）",
+      "name_nl": "Holländisches Viertel",
       "desc_nl": "Dutch Quarter Potsdam in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
       "price_nl": "散策無料",
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Holländisches Viertel"
     },
     {
       "id": "b_65",
-      "name": "Museum Barberini ）（Potsdam）",
+      "name": "Museum Barberini",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -3156,16 +3220,16 @@
       "price_zh": "入場料: 16€",
       "price_fr": "入場料: 16€",
       "price_de": "入場料: 16€",
-      "name_en": "Museum Barberini ） (Museum Barberini Potsdam)",
-      "name_ja": "Museum Barberini ）（Potsdam）",
-      "name_es": "Museum Barberini ） (Museum Barberini Potsdam)",
-      "name_zh": "Museum Barberini ） (ポツダム)",
-      "name_fr": "Museum Barberini ） (Museum Barberini Potsdam)",
-      "name_de": "Museum Barberini ） (Potsdam)",
+      "name_en": "Museum Barberini (Museum Barberini Potsdam)",
+      "name_ja": "Museum Barberini",
+      "name_es": "Museum Barberini (Museum Barberini Potsdam)",
+      "name_zh": "Museum Barberini",
+      "name_fr": "Museum Barberini (Museum Barberini Potsdam)",
+      "name_de": "Museum Barberini (Potsdam)",
       "image": "",
       "hasWiki": false,
       "desc_de": "Museum Barberini Potsdam in Suburban district.",
-      "name_nl": "Museum Barberini ）",
+      "name_nl": "Museum Barberini",
       "desc_nl": "Museum Barberini Potsdam in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
       "price_nl": "入場料: 16€",
@@ -3174,11 +3238,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Museum Barberini"
     },
     {
       "id": "b_66",
-      "name": "Glienicker Brücke ）（Potsdam / Berlin）",
+      "name": "Glienicker Brücke",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "suburban",
@@ -3206,27 +3271,28 @@
       "price_zh": "通行無料",
       "price_fr": "通行無料",
       "price_de": "通行無料",
-      "name_en": "Glienicker Brücke ） (Glienicke Bridge)",
-      "name_ja": "Glienicker Brücke ）（Potsdam / Berlin）",
-      "name_es": "Glienicker Brücke ） (Glienicke Bridge)",
-      "name_zh": "Glienicker Brücke ） (スパイの橋)",
-      "name_fr": "Glienicker Brücke ） (Glienicke Bridge)",
-      "name_de": "Glienicker Brücke ） (Potsdam / Berlin)",
+      "name_en": "Glienicker Brücke (Glienicke Bridge)",
+      "name_ja": "Glienicker Brücke",
+      "name_es": "Glienicker Brücke (Glienicke Bridge)",
+      "name_zh": "Glienicker Brücke",
+      "name_fr": "Glienicker Brücke (Glienicke Bridge)",
+      "name_de": "Glienicker Brücke (Potsdam / Berlin)",
       "image": "",
       "hasWiki": false,
       "desc_de": "Bridge of Spies (Glienicke Bridge) in Suburban district.",
-      "name_nl": "Glienicker Brücke ）",
+      "name_nl": "Glienicker Brücke",
       "desc_nl": "Bridge of Spies (Glienicke Bridge) in Suburban district.",
       "tip_nl": "💡 Great spot to visit for memorable photos and local atmosphere.",
       "price_nl": "通行無料",
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Glienicker Brücke"
     },
     {
       "id": "b_67",
-      "name": "Filmpark Babelsberg（Potsdam）",
+      "name": "Filmpark Babelsberg",
       "category": "Kids & Family",
       "rating": "★4.5",
       "locationZone": "suburban",
@@ -3255,9 +3321,9 @@
       "price_fr": "入場料: 23€",
       "price_de": "入場料: 23€",
       "name_en": "Filmpark Babelsberg",
-      "name_ja": "Filmpark Babelsberg（Potsdam）",
+      "name_ja": "Filmpark Babelsberg",
       "name_es": "Filmpark Babelsberg",
-      "name_zh": "Filmpark Babelsberg (フィルムパーク・バーベルスベルク)",
+      "name_zh": "Filmpark Babelsberg",
       "name_fr": "Filmpark Babelsberg",
       "name_de": "Filmpark Babelsberg (Potsdam)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg/330px-Potsdam_Filmpark_Babelsberg_09-2017_img1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3271,11 +3337,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Filmpark Babelsberg"
     },
     {
       "id": "b_68",
-      "name": "KZ-Gedenkstätte Sachsenhausen（Oranienburg）",
+      "name": "KZ-Gedenkstätte Sachsenhausen",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -3304,9 +3371,9 @@
       "price_fr": "入場無料",
       "price_de": "入場無料",
       "name_en": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
-      "name_ja": "KZ-Gedenkstätte Sachsenhausen（Oranienburg）",
+      "name_ja": "KZ-Gedenkstätte Sachsenhausen",
       "name_es": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
-      "name_zh": "KZ-Gedenkstätte Sachsenhausen (ザクセンハウゼン強制収容所記念館)",
+      "name_zh": "KZ-Gedenkstätte Sachsenhausen",
       "name_fr": "KZ-Gedenkstätte Sachsenhausen (Sachsenhausen Concentration Camp Memorial)",
       "name_de": "KZ-Gedenkstätte Sachsenhausen (Oranienburg)",
       "image": "",
@@ -3319,11 +3386,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "KZ-Gedenkstätte Sachsenhausen"
     },
     {
       "id": "b_69",
-      "name": "Spreewald（Lübbenau / Lehde - UNESCO）",
+      "name": "Spreewald",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -3352,9 +3420,9 @@
       "price_fr": "散策無料",
       "price_de": "散策無料",
       "name_en": "Spreewald (Spreewald Biosphere Reserve)",
-      "name_ja": "Spreewald（Lübbenau / Lehde - UNESCO）",
+      "name_ja": "Spreewald",
       "name_es": "Spreewald (Spreewald Biosphere Reserve)",
-      "name_zh": "Spreewald (シュプレーヴァルト)",
+      "name_zh": "Spreewald",
       "name_fr": "Spreewald (Spreewald Biosphere Reserve)",
       "name_de": "Spreewald (Lübbenau / Lehde - UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg/330px-Spreewald_04-2016_img03_Spree_near_Luebbenau.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3367,11 +3435,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Spreewald"
     },
     {
       "id": "b_70",
-      "name": "Tropical Islands Resort（Krausnick）",
+      "name": "Tropical Islands Resort",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -3400,9 +3469,9 @@
       "price_fr": "1日券: 47.90€",
       "price_de": "1日券: 47.90€",
       "name_en": "Tropical Islands Resort",
-      "name_ja": "Tropical Islands Resort（Krausnick）",
+      "name_ja": "Tropical Islands Resort",
       "name_es": "Tropical Islands Resort",
-      "name_zh": "Tropical Islands Resort (トロピカル・アイランズ)",
+      "name_zh": "Tropical Islands Resort",
       "name_fr": "Tropical Islands Resort",
       "name_de": "Tropical Islands Resort (Krausnick)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_06_TropicalIslands_IMG_2078.jpg/330px-2018_06_TropicalIslands_IMG_2078.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3416,11 +3485,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tropical Islands Resort"
     },
     {
       "id": "b_71",
-      "name": "Pfaueninsel（UNESCO）",
+      "name": "Pfaueninsel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -3449,9 +3519,9 @@
       "price_fr": "渡し船: 6€",
       "price_de": "渡し船: 6€",
       "name_en": "Pfaueninsel (UNESCO)",
-      "name_ja": "Pfaueninsel（UNESCO）",
+      "name_ja": "Pfaueninsel",
       "name_es": "Pfaueninsel (UNESCO)",
-      "name_zh": "Pfaueninsel (クジャク島)",
+      "name_zh": "Pfaueninsel",
       "name_fr": "Pfaueninsel (UNESCO)",
       "name_de": "Pfaueninsel (UNESCO)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%9Cbersichtskarte_Pfaueninsel.png/330px-%C3%9Cbersichtskarte_Pfaueninsel.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3465,11 +3535,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Pfaueninsel"
     },
     {
       "id": "b_72",
-      "name": "Wannsee & Haus der Wannsee-Konferenz（ヴァンゼー湖＆ヴァンゼー会議記念館）",
+      "name": "Wannsee & Haus der Wannsee-Konferenz",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "suburban",
@@ -3500,7 +3571,7 @@
       "name_en": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
       "name_ja": "Wannsee & Haus der Wannsee-Konferenz（ヴァンゼー湖＆ヴァンゼー会議記念館）",
       "name_es": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
-      "name_zh": "Wannsee & Haus der Wannsee-Konferenz (ヴァンゼー湖＆ヴァンゼー会議記念館)",
+      "name_zh": "Wannsee & Haus der Wannsee-Konferenz",
       "name_fr": "Wannsee & Haus der Wannsee-Konferenz (Wannsee & Conference House)",
       "name_de": "Wannsee & Haus der Wannsee-Konferenz",
       "image": "",
@@ -3514,11 +3585,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Wannsee & Haus der Wannsee-Konferenz"
     },
     {
       "id": "b_73",
-      "name": "Teufelsberg（トイフェルスベルク）",
+      "name": "Teufelsberg",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -3549,7 +3621,7 @@
       "name_en": "Teufelsberg (Teufelsberg Field Station)",
       "name_ja": "Teufelsberg（トイフェルスベルク）",
       "name_es": "Teufelsberg (Teufelsberg Field Station)",
-      "name_zh": "Teufelsberg (トイフェルスベルク)",
+      "name_zh": "Teufelsberg",
       "name_fr": "Teufelsberg (Teufelsberg Field Station)",
       "name_de": "Teufelsberg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Teufelsberg_ehem_Radaranlage.jpg/330px-Teufelsberg_ehem_Radaranlage.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3562,11 +3634,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Teufelsberg"
     },
     {
       "id": "b_74",
-      "name": "Zitadelle Spandau（シュパンダウ要塞）",
+      "name": "Zitadelle Spandau",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -3597,7 +3670,7 @@
       "name_en": "Zitadelle Spandau (Spandau Citadel)",
       "name_ja": "Zitadelle Spandau（シュパンダウ要塞）",
       "name_es": "Zitadelle Spandau (Spandau Citadel)",
-      "name_zh": "Zitadelle Spandau (シュパンダウ要塞)",
+      "name_zh": "Zitadelle Spandau",
       "name_fr": "Zitadelle Spandau (Spandau Citadel)",
       "name_de": "Zitadelle Spandau",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Spandau_Citadel_%28view_from_the_southeast%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3610,11 +3683,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zitadelle Spandau"
     },
     {
       "id": "b_75",
-      "name": "Designer Outlet Berlin（Wustermark）",
+      "name": "Designer Outlet Berlin",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "suburban",
@@ -3643,9 +3717,9 @@
       "price_fr": "入館無料",
       "price_de": "入館無料",
       "name_en": "Designer Outlet Berlin",
-      "name_ja": "Designer Outlet Berlin（Wustermark）",
+      "name_ja": "Designer Outlet Berlin",
       "name_es": "Designer Outlet Berlin",
-      "name_zh": "Designer Outlet Berlin (デザイナー・アウトレット・ベルリン)",
+      "name_zh": "Designer Outlet Berlin",
       "name_fr": "Designer Outlet Berlin",
       "name_de": "Designer Outlet Berlin (Wustermark)",
       "image": "",
@@ -3658,7 +3732,8 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Designer Outlet Berlin"
     }
   ],
   "spotCount": 75

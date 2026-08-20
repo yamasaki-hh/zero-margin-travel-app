@@ -5,7 +5,7 @@
   "spots": [
     {
       "id": "hd_1",
-      "name": "Heidelberger Schloss（ハイデルベルク城）",
+      "name": "Heidelberger Schloss",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -51,11 +51,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Heidelberger Schloss"
     },
     {
       "id": "hd_2",
-      "name": "Großes Fass（世界最大のワイン大樽）",
+      "name": "Großes Fass",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -101,11 +102,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Großes Fass"
     },
     {
       "id": "hd_3",
-      "name": "Deutsches Apotheken-Museum（ドイツ薬事博物館）",
+      "name": "Deutsches Apotheken-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -152,11 +154,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Apotheken-Museum"
     },
     {
       "id": "hd_4",
-      "name": "Schlossgarten（Hortus Palatinus）",
+      "name": "Schlossgarten",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -187,7 +190,7 @@
       "price_fr": "Entrée gratuite",
       "price_de": "Eintritt frei",
       "name_en": "Schlossgarten (Hortus Palatinus / Castle Gardens)",
-      "name_ja": "Schlossgarten（Hortus Palatinus）",
+      "name_ja": "Schlossgarten",
       "name_es": "Schlossgarten (Hortus Palatinus / Jardines del Castillo)",
       "name_zh": "Schlossgarten (Hortus Palatinus / 城堡花园)",
       "name_fr": "Schlossgarten (Hortus Palatinus / Jardins du Château)",
@@ -201,11 +204,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schlossgarten"
     },
     {
       "id": "hd_5",
-      "name": "Alte Brücke（Karl-Theodor-Brücke）",
+      "name": "Alte Brücke",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -236,7 +240,7 @@
       "price_fr": "Accès libre",
       "price_de": "Kostenlos",
       "name_en": "Alte Brücke (Old Bridge / Karl Theodor Bridge)",
-      "name_ja": "Alte Brücke（Karl-Theodor-Brücke）",
+      "name_ja": "Alte Brücke",
       "name_es": "Alte Brücke (Puente Viejo / Karl-Theodor-Brücke)",
       "name_zh": "Alte Brücke (老桥 / 卡尔·特奥多尔桥)",
       "name_fr": "Alte Brücke (Vieux Pont / Pont Karl-Theodor)",
@@ -251,11 +255,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Alte Brücke"
     },
     {
       "id": "hd_6",
-      "name": "Brückenaffe（ハイデルベルクの橋の猿）",
+      "name": "Brückenaffe",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -299,11 +304,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Brückenaffe"
     },
     {
       "id": "hd_7",
-      "name": "Philosophenweg（哲学者の道）",
+      "name": "Philosophenweg",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -349,11 +355,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Philosophenweg"
     },
     {
       "id": "hd_8",
-      "name": "Heiliggeistkirche（聖霊教会）",
+      "name": "Heiliggeistkirche",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -400,11 +407,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Heiliggeistkirche"
     },
     {
       "id": "hd_9",
-      "name": "Hauptstraße Heidelberg（ハウプト通り）",
+      "name": "Hauptstraße Heidelberg",
       "category": "Shopping",
       "rating": "★4.7",
       "locationZone": "city",
@@ -452,11 +460,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hauptstraße Heidelberg"
     },
     {
       "id": "hd_10",
-      "name": "Marktplatz & Herkulesbrunnen（マルクト広場＆ヘラクレスの噴水）",
+      "name": "Marktplatz & Herkulesbrunnen",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -503,11 +512,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Marktplatz & Herkulesbrunnen"
     },
     {
       "id": "hd_11",
-      "name": "Kornmarkt & Madonnenstatue（穀物市場＆マドンナ像）",
+      "name": "Kornmarkt & Madonnenstatue",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -554,11 +564,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Kornmarkt & Madonnenstatue"
     },
     {
       "id": "hd_12",
-      "name": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg（大学広場＆ハイデルベルク大学）",
+      "name": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -602,11 +613,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Universitätsplatz & Ruprecht-Karls-Universität Heidelberg"
     },
     {
       "id": "hd_13",
-      "name": "Studentenkarzer & Alte Aula（学生牢＆旧大学大講堂）",
+      "name": "Studentenkarzer & Alte Aula",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -650,11 +662,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Studentenkarzer & Alte Aula"
     },
     {
       "id": "hd_14",
-      "name": "Universitätsbibliothek Heidelberg（ハイデルベルク大学図書館）",
+      "name": "Universitätsbibliothek Heidelberg",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -700,11 +713,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Universitätsbibliothek Heidelberg"
     },
     {
       "id": "hd_15",
-      "name": "Haus zum Ritter St. Georg（騎士の家）",
+      "name": "Haus zum Ritter St. Georg",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -749,11 +763,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Haus zum Ritter St. Georg"
     },
     {
       "id": "hd_16",
-      "name": "Heidelberger Bergbahn（ハイデルベルク登山鉄道）",
+      "name": "Heidelberger Bergbahn",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -799,11 +814,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Heidelberger Bergbahn"
     },
     {
       "id": "hd_17",
-      "name": "Königstuhl（ケーニヒスシュトゥール山頂）",
+      "name": "Königstuhl",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -849,11 +865,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Königstuhl"
     },
     {
       "id": "hd_18",
-      "name": "Märchenparadies Königstuhl（ケーニヒスシュトゥールおとぎの国）",
+      "name": "Märchenparadies Königstuhl",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "city",
@@ -900,11 +917,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Märchenparadies Königstuhl"
     },
     {
       "id": "hd_19",
-      "name": "Kurpfälzisches Museum（プファルツ選帝侯博物館）",
+      "name": "Kurpfälzisches Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -951,11 +969,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kurpfälzisches Museum"
     },
     {
       "id": "hd_20",
-      "name": "Tinnunculus Falknerei（ケーニヒスシュトゥール鷹狩り園）",
+      "name": "Tinnunculus Falknerei",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "city",
@@ -999,11 +1018,12 @@
       "categories": [
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tinnunculus Falknerei"
     },
     {
       "id": "hd_21",
-      "name": "Zoo Heidelberg（ハイデルベルク動物園）",
+      "name": "Zoo Heidelberg",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1050,11 +1070,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zoo Heidelberg"
     },
     {
       "id": "hd_22",
-      "name": "Botanischer Garten der Universität Heidelberg（大学植物園）",
+      "name": "Botanischer Garten der Universität Heidelberg",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1100,11 +1121,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Botanischer Garten der Universität Heidelberg"
     },
     {
       "id": "hd_23",
-      "name": "Neckarwiese（ネッカーヴィーゼ公園）",
+      "name": "Neckarwiese",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1152,11 +1174,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neckarwiese"
     },
     {
       "id": "hd_24",
-      "name": "Thingstätte & Michaelskloster（Thingstätte野外劇場＆聖ミヒャエル修道院遺跡）",
+      "name": "Thingstätte & Michaelskloster",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1200,11 +1223,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Thingstätte & Michaelskloster"
     },
     {
       "id": "hd_25",
-      "name": "Neckar-Schifffahrt（ネッカー川遊覧船 / 白の船団）",
+      "name": "Neckar-Schifffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1250,11 +1274,12 @@
         "Scenery",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Neckar-Schifffahrt"
     },
     {
       "id": "hd_26",
-      "name": "Kulturbrauerei Heidelberg（クルトゥールブラウエライ）",
+      "name": "Kulturbrauerei Heidelberg",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1299,11 +1324,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Kulturbrauerei Heidelberg"
     },
     {
       "id": "hd_27",
-      "name": "Brauhaus Vetter（ブラウハウス・フェッター）",
+      "name": "Brauhaus Vetter",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1348,11 +1374,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Brauhaus Vetter"
     },
     {
       "id": "hd_28",
-      "name": "Café Knösel & Heidelberger Studentenkuß（カフェ・クネーゼル＆学生のキスチョコ）",
+      "name": "Café Knösel & Heidelberger Studentenkuß",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1398,11 +1425,12 @@
         "Kids",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Knösel & Heidelberger Studentenkuß"
     },
     {
       "id": "hd_29",
-      "name": "Café Schafheutle（カフェ・シャフホイトレ）",
+      "name": "Café Schafheutle",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1448,11 +1476,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Schafheutle"
     },
     {
       "id": "hd_30",
-      "name": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma（ドイツ・シンティ・ロマ文書文化センター）",
+      "name": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1498,11 +1527,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma"
     },
     {
       "id": "hd_31",
-      "name": "Sammlung Prinzhorn（プリンツホルン・コレクション）",
+      "name": "Sammlung Prinzhorn",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1548,11 +1578,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Sammlung Prinzhorn"
     },
     {
       "id": "hd_32",
-      "name": "Körperwelten Museum（Altes Hallenbad）",
+      "name": "Körperwelten Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1583,7 +1614,7 @@
       "price_fr": "Entrée : 19 €",
       "price_de": "Eintritt: 19 € (Ermäßigt 15 €)",
       "name_en": "Körperwelten Museum (Body Worlds Museum in Old Public Baths)",
-      "name_ja": "Körperwelten Museum（Altes Hallenbad）",
+      "name_ja": "Körperwelten Museum",
       "name_es": "Körperwelten Museum (Museo Body Worlds)",
       "name_zh": "Körperwelten Museum (海德堡人体奥秘博物馆)",
       "name_fr": "Körperwelten Museum (Musée Body Worlds)",
@@ -1598,11 +1629,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Körperwelten Museum"
     },
     {
       "id": "hd_33",
-      "name": "Exploratorium Heidelberg（エクスプロラトリウム錯視・科学体験館）",
+      "name": "Exploratorium Heidelberg",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1647,11 +1679,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Exploratorium Heidelberg"
     },
     {
       "id": "hd_34",
-      "name": "Bahnstadt & Halle02（バーンシュタット再開発地区＆ハレ02）",
+      "name": "Bahnstadt & Halle02",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1698,11 +1731,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Bahnstadt & Halle02"
     },
     {
       "id": "hd_35",
-      "name": "Plöck & Untere Straße（プレック＆ウンテレ通り）",
+      "name": "Plöck & Untere Straße",
       "category": "Shopping",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1749,11 +1783,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Plöck & Untere Straße"
     },
     {
       "id": "hd_36",
-      "name": "Schloss Schwetzingen & Schlossgarten（シュヴェツィンゲン宮殿＆庭園）",
+      "name": "Schloss Schwetzingen & Schlossgarten",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -1802,11 +1837,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Schloss Schwetzingen & Schlossgarten"
     },
     {
       "id": "hd_37",
-      "name": "Speyerer Dom（シュパイヤー大聖堂 / UNESCO世界遺産）",
+      "name": "Speyerer Dom",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -1852,11 +1888,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Speyerer Dom"
     },
     {
       "id": "hd_38",
-      "name": "Technik Museum Speyer（シュパイヤー技術博物館）",
+      "name": "Technik Museum Speyer",
       "category": "Museum & Gallery",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -1902,11 +1939,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Technik Museum Speyer"
     },
     {
       "id": "hd_39",
-      "name": "Technik Museum Sinsheim（ジンスハイム技術博物館）",
+      "name": "Technik Museum Sinsheim",
       "category": "Museum & Gallery",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -1952,11 +1990,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Technik Museum Sinsheim"
     },
     {
       "id": "hd_40",
-      "name": "Barockschloss Mannheim（マンハイム宮殿）",
+      "name": "Barockschloss Mannheim",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2004,11 +2043,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Barockschloss Mannheim"
     },
     {
       "id": "hd_41",
-      "name": "Wasserturm & Friedrichsplatz（マンハイム給水塔＆フリードリヒ広場）",
+      "name": "Wasserturm & Friedrichsplatz",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2053,11 +2093,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Wasserturm & Friedrichsplatz"
     },
     {
       "id": "hd_42",
-      "name": "Luisenpark Mannheim（ルイゼンパーク・マンハイム）",
+      "name": "Luisenpark Mannheim",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2104,7 +2145,8 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Luisenpark Mannheim"
     }
   ],
   "spotCount": 42

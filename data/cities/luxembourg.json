@@ -1,7 +1,7 @@
 [
   {
     "id": "lux_1",
-    "name": "Bock-Kasematten（ボックの回廊 / 世界遺産）",
+    "name": "Bock-Kasematten",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -47,11 +47,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Bock-Kasematten"
   },
   {
     "id": "lux_2",
-    "name": "Le Chemin de la Corniche（コーニッシュ展望散策路 / ヨーロッパで最も美しいバルコニー）",
+    "name": "Le Chemin de la Corniche",
     "category": "Scenery & Walk",
     "rating": "★4.9",
     "locationZone": "city",
@@ -98,11 +99,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Le Chemin de la Corniche"
   },
   {
     "id": "lux_3",
-    "name": "Palais Grand-Ducal（大公宮 / グランド・デューカル・パレス）",
+    "name": "Palais Grand-Ducal",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -148,11 +150,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Palais Grand-Ducal"
   },
   {
     "id": "lux_4",
-    "name": "Pétrusse-Kasematten（ペトリュス要塞回廊）",
+    "name": "Pétrusse-Kasematten",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -198,11 +201,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Pétrusse-Kasematten"
   },
   {
     "id": "lux_5",
-    "name": "Pont Adolphe（アドルフ橋＆空中吊り下げ自転車・歩行者橋）",
+    "name": "Pont Adolphe",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -248,11 +252,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Pont Adolphe"
   },
   {
     "id": "lux_6",
-    "name": "Grund（グルンド下町地区）",
+    "name": "Grund",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -299,11 +304,12 @@
       "Café",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Grund"
   },
   {
     "id": "lux_7",
-    "name": "Neimënster（ノイミュンスター修道院文化センター）",
+    "name": "Neimënster",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -349,11 +355,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Neimënster"
   },
   {
     "id": "lux_8",
-    "name": "Cathédrale Notre-Dame（ノートルダム大聖堂）",
+    "name": "Cathédrale Notre-Dame",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -402,11 +409,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Cathédrale Notre-Dame"
   },
   {
     "id": "lux_9",
-    "name": "Place Guillaume II（ギヨーム2世広場）",
+    "name": "Place Guillaume II",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -454,11 +462,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Place Guillaume II"
   },
   {
     "id": "lux_10",
-    "name": "Place d'Armes（ダルム広場 / 市民のサロン）",
+    "name": "Place d'Armes",
     "category": "Café & Bistro",
     "rating": "★4.7",
     "locationZone": "city",
@@ -505,11 +514,12 @@
       "Café",
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Place d'Armes"
   },
   {
     "id": "lux_11",
-    "name": "MUDAM（MUDAM・ジャン大公現代美術館 / I.M.ペイ設計）",
+    "name": "MUDAM",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -556,11 +566,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "MUDAM"
   },
   {
     "id": "lux_12",
-    "name": "Musée Dräi Eechelen（3つのどんぐり博物館 / トゥンゲン要塞）",
+    "name": "Musée Dräi Eechelen",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -608,11 +619,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Musée Dräi Eechelen"
   },
   {
     "id": "lux_13",
-    "name": "Pfaffenthal Panoramic Glass Lift（ファフェンタール無料ガラスパノラマエレベーター）",
+    "name": "Pfaffenthal Panoramic Glass Lift",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -658,11 +670,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Pfaffenthal Panoramic Glass Lift"
   },
   {
     "id": "lux_14",
-    "name": "Vallée de la Pétrusse（ペトリュス渓谷公園）",
+    "name": "Vallée de la Pétrusse",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -709,11 +722,12 @@
       "Kids",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Vallée de la Pétrusse"
   },
   {
     "id": "lux_15",
-    "name": "Monument du Souvenir（憲法広場＆黄金の女神像 Gëlle Fra）",
+    "name": "Monument du Souvenir",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -759,11 +773,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Monument du Souvenir"
   },
   {
     "id": "lux_16",
-    "name": "Lëtzebuerg City Museum（ルクセンブルク市立歴史博物館）",
+    "name": "Lëtzebuerg City Museum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -810,11 +825,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Lëtzebuerg City Museum"
   },
   {
     "id": "lux_17",
-    "name": "Nationalmusée um Fëschmaart（国立考古学・歴史・美術館 / MNAHA）",
+    "name": "Nationalmusée um Fëschmaart",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -862,11 +878,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Nationalmusée um Fëschmaart"
   },
   {
     "id": "lux_18",
-    "name": "Rives de Clausen（リーブ・ド・クラウゼン / 旧醸造所ナイトライフ街）",
+    "name": "Rives de Clausen",
     "category": "Café & Bistro",
     "rating": "★4.6",
     "locationZone": "city",
@@ -913,11 +930,12 @@
       "Café",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Rives de Clausen"
   },
   {
     "id": "lux_19",
-    "name": "Plateau du Kirchberg（キルヒベルク欧州機関＆現代建築街）",
+    "name": "Plateau du Kirchberg",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -963,11 +981,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Plateau du Kirchberg"
   },
   {
     "id": "lux_20",
-    "name": "Philharmonie Luxembourg（フィルハーモニー・ルクセンブルク）",
+    "name": "Philharmonie Luxembourg",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -1013,11 +1032,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Philharmonie Luxembourg"
   },
   {
     "id": "lux_21",
-    "name": "Pont Grande-Duchesse Charlotte（シャルロット大公妃橋 / 赤い橋）",
+    "name": "Pont Grande-Duchesse Charlotte",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1063,11 +1083,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Pont Grande-Duchesse Charlotte"
   },
   {
     "id": "lux_22",
-    "name": "Grand-Rue & Rue Philippe II（グラン通り＆フィリップ2世通りハイブランド街）",
+    "name": "Grand-Rue & Rue Philippe II",
     "category": "Shopping",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1114,11 +1135,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Grand-Rue & Rue Philippe II"
   },
   {
     "id": "lux_23",
-    "name": "Parc Municipal de Luxembourg（市立公園＆キネックスウィス大芝生広場）",
+    "name": "Parc Municipal de Luxembourg",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1166,11 +1188,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Parc Municipal de Luxembourg"
   },
   {
     "id": "lux_24",
-    "name": "Casino Luxembourg（カジノ・ルクセンブルク現代美術フォーラム）",
+    "name": "Casino Luxembourg",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1217,11 +1240,12 @@
       "Museum",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Casino Luxembourg"
   },
   {
     "id": "lux_25",
-    "name": "Musée National d'Histoire Naturelle（自然史博物館 / natur musée）",
+    "name": "Musée National d'Histoire Naturelle",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1267,11 +1291,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Musée National d'Histoire Naturelle"
   },
   {
     "id": "lux_26",
-    "name": "Gare de Luxembourg（ルクセンブルク中央駅）",
+    "name": "Gare de Luxembourg",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1319,11 +1344,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Gare de Luxembourg"
   },
   {
     "id": "lux_27",
-    "name": "Avenue de la Liberté（リベルテ通り＆駅前商業地区）",
+    "name": "Avenue de la Liberté",
     "category": "Shopping",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1371,11 +1397,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Avenue de la Liberté"
   },
   {
     "id": "lux_28",
-    "name": "Rotondes（ロトンド / 鉄道機関車転車台カルチャーハブ）",
+    "name": "Rotondes",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1423,11 +1450,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Rotondes"
   },
   {
     "id": "lux_29",
-    "name": "Funiculaire Pfaffenthal-Kirchberg（ファフェンタール・ケーブルカー）",
+    "name": "Funiculaire Pfaffenthal-Kirchberg",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1473,11 +1501,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Funiculaire Pfaffenthal-Kirchberg"
   },
   {
     "id": "lux_30",
-    "name": "Plateau du Rham（ラム台地要塞跡）",
+    "name": "Plateau du Rham",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1526,11 +1555,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Plateau du Rham"
   },
   {
     "id": "lux_31",
-    "name": "Passerelle / Viaduc de Luxembourg（旧高架橋 / パッセレル）",
+    "name": "Passerelle / Viaduc de Luxembourg",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1576,11 +1606,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Passerelle / Viaduc de Luxembourg"
   },
   {
     "id": "lux_32",
-    "name": "Villa Vauban（ヴィラ・ヴォーバン市立美術館）",
+    "name": "Villa Vauban",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1628,11 +1659,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Villa Vauban"
   },
   {
     "id": "lux_33",
-    "name": "Église Saint-Michel（サン・ミッシェル教会 / 市内最古の宗教建築）",
+    "name": "Église Saint-Michel",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1678,11 +1710,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Église Saint-Michel"
   },
   {
     "id": "lux_34",
-    "name": "Église Saint-Jean-du-Grund（サン＝ジャン＝デュ＝グルンド教会＆黒いマリア像）",
+    "name": "Église Saint-Jean-du-Grund",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1728,11 +1761,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Église Saint-Jean-du-Grund"
   },
   {
     "id": "lux_35",
-    "name": "Parc des Trois Glands（トゥンゲン要塞公園＆どんぐり丘）",
+    "name": "Parc des Trois Glands",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1780,11 +1814,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Parc des Trois Glands"
   },
   {
     "id": "lux_36",
-    "name": "Luxtram（ルクセンブルク最新ライトレール・トラム）",
+    "name": "Luxtram",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -1830,11 +1865,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Luxtram"
   },
   {
     "id": "lux_37",
-    "name": "Square Jan Palach（ヤン・パラフ広場＆アメリーの噴水）",
+    "name": "Square Jan Palach",
     "category": "Scenery & Walk",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1882,11 +1918,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Square Jan Palach"
   },
   {
     "id": "lux_38",
-    "name": "Court of Justice of the EU（EU司法裁判所ゴールドツインタワー）",
+    "name": "Court of Justice of the EU",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1932,11 +1969,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Court of Justice of the EU"
   },
   {
     "id": "lux_39",
-    "name": "d'Coque（コーク・ナショナルスポーツ＆アクアティックセンター）",
+    "name": "d'Coque",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1982,11 +2020,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "d'Coque"
   },
   {
     "id": "lux_40",
-    "name": "Ville Haute Delicatessens（旧市街高級デリカテッセン＆モーゼルワイン）",
+    "name": "Ville Haute Delicatessens",
     "category": "Café & Bistro",
     "rating": "★4.7",
     "locationZone": "city",
@@ -2034,11 +2073,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Ville Haute Delicatessens"
   },
   {
     "id": "lux_41",
-    "name": "Château de Vianden（ヴィアンデン城 / アルデンヌの断崖要塞）",
+    "name": "Château de Vianden",
     "category": "Landmark",
     "rating": "★4.9",
     "locationZone": "suburban",
@@ -2084,11 +2124,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Château de Vianden"
   },
   {
     "id": "lux_42",
-    "name": "Mullerthal Region（ミュラータール / ルクセンブルクの小スイス＆岩の迷路）",
+    "name": "Mullerthal Region",
     "category": "Scenery & Walk",
     "rating": "★4.9",
     "locationZone": "suburban",
@@ -2134,6 +2175,7 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Mullerthal Region"
   }
 ]

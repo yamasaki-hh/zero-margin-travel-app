@@ -3,7 +3,7 @@
   "spots": [
     {
       "id": "f_1",
-      "name": "Römerberg & Rathaus Römer（レーマー広場＆旧市庁舎レーマー）",
+      "name": "Römerberg & Rathaus Römer",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -34,7 +34,7 @@
       "name_en": "Römerberg & Rathaus Römer (Römerberg & City Hall)",
       "name_ja": "Römerberg & Rathaus Römer（レーマー広場＆旧市庁舎レーマー）",
       "name_es": "Römerberg & Rathaus Römer (Römerberg & City Hall)",
-      "name_zh": "Römerberg & Rathaus Römer (レーマー広場＆旧市庁舎レーマー)",
+      "name_zh": "Römerberg & Rathaus Römer",
       "name_fr": "Römerberg & Rathaus Römer (Römerberg & City Hall)",
       "name_de": "Römerberg & Rathaus Römer",
       "image": "",
@@ -47,11 +47,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Römerberg & Rathaus Römer"
     },
     {
       "id": "f_2",
-      "name": "Kaiserdom St. Bartholomäus（聖バルトロメウス大聖堂）",
+      "name": "Kaiserdom St. Bartholomäus",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -82,7 +83,7 @@
       "name_en": "Kaiserdom St. Bartholomäus (Frankfurt Cathedral)",
       "name_ja": "Kaiserdom St. Bartholomäus（聖バルトロメウス大聖堂）",
       "name_es": "Kaiserdom St. Bartholomäus (Frankfurt Cathedral)",
-      "name_zh": "Kaiserdom St. Bartholomäus (聖バルトロメウス大聖堂)",
+      "name_zh": "Kaiserdom St. Bartholomäus",
       "name_fr": "Kaiserdom St. Bartholomäus (Frankfurt Cathedral)",
       "name_de": "Kaiserdom St. Bartholomäus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg/330px-Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -97,11 +98,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Kaiserdom St. Bartholomäus"
     },
     {
       "id": "f_3",
-      "name": "Goethe-Haus（ゲーテハウス＆ドイツ・ロマン派博物館）",
+      "name": "Goethe-Haus",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -132,7 +134,7 @@
       "name_en": "Goethe-Haus (Goethe House & Museum)",
       "name_ja": "Goethe-Haus（ゲーテハウス＆ドイツ・ロマン派博物館）",
       "name_es": "Goethe-Haus (Goethe House & Museum)",
-      "name_zh": "Goethe-Haus (ゲーテハウス＆ドイツ・ロマン派博物館)",
+      "name_zh": "Goethe-Haus",
       "name_fr": "Goethe-Haus (Goethe House & Museum)",
       "name_de": "Goethe-Haus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/330px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -145,11 +147,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Goethe-Haus"
     },
     {
       "id": "f_4",
-      "name": "Städel Museum（シュテーデル美術館）",
+      "name": "Städel Museum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -180,7 +183,7 @@
       "name_en": "Städel Museum",
       "name_ja": "Städel Museum（シュテーデル美術館）",
       "name_es": "Städel Museum",
-      "name_zh": "Städel Museum (シュテーデル美術館)",
+      "name_zh": "Städel Museum",
       "name_fr": "Städel Museum",
       "name_de": "Städel Museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg/330px-St%C3%A4del_Museum%2C_Frankfurt_am_Main%2C_Au%C3%9Fenansicht_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -193,11 +196,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Städel Museum"
     },
     {
       "id": "f_5",
-      "name": "Main Tower（マインタワー）",
+      "name": "Main Tower",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -228,7 +232,7 @@
       "name_en": "Main Tower (Main Tower Observatory)",
       "name_ja": "Main Tower（マインタワー）",
       "name_es": "Main Tower (Main Tower Observatory)",
-      "name_zh": "Main Tower (マインタワー)",
+      "name_zh": "Main Tower",
       "name_fr": "Main Tower (Main Tower Observatory)",
       "name_de": "Main Tower",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Maintower_Frankfurt.jpg/330px-Maintower_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -242,11 +246,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Main Tower"
     },
     {
       "id": "f_6",
-      "name": "Eiserner Steg（アイゼルナー・シュテグ鉄橋）",
+      "name": "Eiserner Steg",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -277,7 +282,7 @@
       "name_en": "Eiserner Steg (Iron Footbridge)",
       "name_ja": "Eiserner Steg（アイゼルナー・シュテグ鉄橋）",
       "name_es": "Eiserner Steg (Iron Footbridge)",
-      "name_zh": "Eiserner Steg (アイゼルナー・シュテグ鉄橋)",
+      "name_zh": "Eiserner Steg",
       "name_fr": "Eiserner Steg (Iron Footbridge)",
       "name_de": "Eiserner Steg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg/330px-Frankfurt_Am_Main-Eiserner_Steg-Ansicht_vom_Domturm-20101024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -290,11 +295,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Eiserner Steg"
     },
     {
       "id": "f_7",
-      "name": "Paulskirche（聖パウロ教会）",
+      "name": "Paulskirche",
       "category": "Landmark",
       "rating": "★4.5",
       "locationZone": "city",
@@ -325,7 +331,7 @@
       "name_en": "Paulskirche (St. Paul's Church)",
       "name_ja": "Paulskirche（聖パウロ教会）",
       "name_es": "Paulskirche (St. Paul's Church)",
-      "name_zh": "Paulskirche (聖パウロ教会)",
+      "name_zh": "Paulskirche",
       "name_fr": "Paulskirche (St. Paul's Church)",
       "name_de": "Paulskirche",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg/330px-Frankfurt_Paulskirche_au%C3%9Fen_2011a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -338,11 +344,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Paulskirche"
     },
     {
       "id": "f_8",
-      "name": "Alte Oper（アルテ・オーパー旧オペラ座）",
+      "name": "Alte Oper",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -373,7 +380,7 @@
       "name_en": "Alte Oper (Old Opera House)",
       "name_ja": "Alte Oper（アルテ・オーパー旧オペラ座）",
       "name_es": "Alte Oper (Old Opera House)",
-      "name_zh": "Alte Oper (アルテ・オーパー旧オペラ座)",
+      "name_zh": "Alte Oper",
       "name_fr": "Alte Oper (Old Opera House)",
       "name_de": "Alte Oper",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/330px-Alte_Oper_Frankfurt_2019.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -386,11 +393,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Alte Oper"
     },
     {
       "id": "f_9",
-      "name": "Palmengarten（パルメンガルテン植物園）",
+      "name": "Palmengarten",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -421,7 +429,7 @@
       "name_en": "Palmengarten (Palmengarten Botanical Garden)",
       "name_ja": "Palmengarten（パルメンガルテン植物園）",
       "name_es": "Palmengarten (Palmengarten Botanical Garden)",
-      "name_zh": "Palmengarten (パルメンガルテン植物園)",
+      "name_zh": "Palmengarten",
       "name_fr": "Palmengarten (Palmengarten Botanical Garden)",
       "name_de": "Palmengarten",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NOI_Techpark_S%C3%BCdtirol_3.jpg/330px-NOI_Techpark_S%C3%BCdtirol_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -434,11 +442,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Palmengarten"
     },
     {
       "id": "f_10",
-      "name": "Historisches Museum Frankfurt（フランクフルト歴史博物館）",
+      "name": "Historisches Museum Frankfurt",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -469,7 +478,7 @@
       "name_en": "Historisches Museum Frankfurt (Frankfurt History Museum)",
       "name_ja": "Historisches Museum Frankfurt（フランクフルト歴史博物館）",
       "name_es": "Historisches Museum Frankfurt (Frankfurt History Museum)",
-      "name_zh": "Historisches Museum Frankfurt (フランクフルト歴史博物館)",
+      "name_zh": "Historisches Museum Frankfurt",
       "name_fr": "Historisches Museum Frankfurt (Frankfurt History Museum)",
       "name_de": "Historisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg/330px-Historisches-Museum-Frankfurt-30-01-2018-Ffm-781-784.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -482,11 +491,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historisches Museum Frankfurt"
     },
     {
       "id": "f_11",
-      "name": "Liebieghaus Skulpturensammlung（リービークハウス彫刻美術館）",
+      "name": "Liebieghaus Skulpturensammlung",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -517,7 +527,7 @@
       "name_en": "Liebieghaus Skulpturensammlung (Liebieghaus Sculpture Museum)",
       "name_ja": "Liebieghaus Skulpturensammlung（リービークハウス彫刻美術館）",
       "name_es": "Liebieghaus Skulpturensammlung (Liebieghaus Sculpture Museum)",
-      "name_zh": "Liebieghaus Skulpturensammlung (リービークハウス彫刻美術館)",
+      "name_zh": "Liebieghaus Skulpturensammlung",
       "name_fr": "Liebieghaus Skulpturensammlung (Liebieghaus Sculpture Museum)",
       "name_de": "Liebieghaus Skulpturensammlung",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Liebieghaus.jpg/330px-Liebieghaus.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -531,11 +541,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Liebieghaus Skulpturensammlung"
     },
     {
       "id": "f_12",
-      "name": "Museum Angewandte Kunst（応用工芸博物館）",
+      "name": "Museum Angewandte Kunst",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "locationZone": "city",
@@ -579,11 +590,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Angewandte Kunst"
     },
     {
       "id": "f_13",
-      "name": "Deutsches Filminstitut & Filmmuseum（ドイツ映画博物館）",
+      "name": "Deutsches Filminstitut & Filmmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -614,7 +626,7 @@
       "name_en": "Deutsches Filminstitut & Filmmuseum (DFF - German Film Institute & Film Museum)",
       "name_ja": "Deutsches Filminstitut & Filmmuseum（ドイツ映画博物館）",
       "name_es": "Deutsches Filminstitut & Filmmuseum (DFF - German Film Institute & Film Museum)",
-      "name_zh": "Deutsches Filminstitut & Filmmuseum (ドイツ映画博物館)",
+      "name_zh": "Deutsches Filminstitut & Filmmuseum",
       "name_fr": "Deutsches Filminstitut & Filmmuseum (DFF - German Film Institute & Film Museum)",
       "name_de": "Deutsches Filminstitut & Filmmuseum",
       "image": "",
@@ -627,11 +639,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Filminstitut & Filmmuseum"
     },
     {
       "id": "f_14",
-      "name": "Museum für Moderne Kunst（MMK）",
+      "name": "Museum für Moderne Kunst",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -660,9 +673,9 @@
       "price_fr": "入場料: 12€",
       "price_de": "入場料: 12€",
       "name_en": "Museum für Moderne Kunst (Museum of Modern Art)",
-      "name_ja": "Museum für Moderne Kunst（MMK）",
+      "name_ja": "Museum für Moderne Kunst",
       "name_es": "Museum für Moderne Kunst (Museum of Modern Art)",
-      "name_zh": "Museum für Moderne Kunst (フランクフルト現代美術館)",
+      "name_zh": "Museum für Moderne Kunst",
       "name_fr": "Museum für Moderne Kunst (Museum of Modern Art)",
       "name_de": "Museum für Moderne Kunst (MMK)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/330px-Museum_fuer_Moderne_Kunst_Portalseite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -675,11 +688,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum für Moderne Kunst"
     },
     {
       "id": "f_15",
-      "name": "Schirn Kunsthalle Frankfurt（シルン美術館）",
+      "name": "Schirn Kunsthalle Frankfurt",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -710,7 +724,7 @@
       "name_en": "Schirn Kunsthalle Frankfurt",
       "name_ja": "Schirn Kunsthalle Frankfurt（シルン美術館）",
       "name_es": "Schirn Kunsthalle Frankfurt",
-      "name_zh": "Schirn Kunsthalle Frankfurt (シルン美術館)",
+      "name_zh": "Schirn Kunsthalle Frankfurt",
       "name_fr": "Schirn Kunsthalle Frankfurt",
       "name_de": "Schirn Kunsthalle Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Schirn-ffm001.jpg/330px-Schirn-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -724,11 +738,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schirn Kunsthalle Frankfurt"
     },
     {
       "id": "f_16",
-      "name": "Museumsufer（博物館河岸エリア）",
+      "name": "Museumsufer",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -759,7 +774,7 @@
       "name_en": "Museumsufer (Museumsufer River Bank)",
       "name_ja": "Museumsufer（博物館河岸エリア）",
       "name_es": "Museumsufer (Museumsufer River Bank)",
-      "name_zh": "Museumsufer (博物館河岸エリア)",
+      "name_zh": "Museumsufer",
       "name_fr": "Museumsufer (Museumsufer River Bank)",
       "name_de": "Museumsufer",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Museumsufer-teil1-ffm001.jpg/330px-Museumsufer-teil1-ffm001.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -773,11 +788,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museumsufer"
     },
     {
       "id": "f_17",
-      "name": "Kleinmarkthalle（クラインマルクトハレ屋内市場）",
+      "name": "Kleinmarkthalle",
       "category": "Shopping",
       "rating": "★4.7",
       "locationZone": "city",
@@ -808,7 +824,7 @@
       "name_en": "Kleinmarkthalle (Kleinmarkthalle Market)",
       "name_ja": "Kleinmarkthalle（クラインマルクトハレ屋内市場）",
       "name_es": "Kleinmarkthalle (Kleinmarkthalle Market)",
-      "name_zh": "Kleinmarkthalle (クラインマルクトハレ屋内市場)",
+      "name_zh": "Kleinmarkthalle",
       "name_fr": "Kleinmarkthalle (Kleinmarkthalle Market)",
       "name_de": "Kleinmarkthalle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg/330px-Kleinmarkthalle_Frankfurt_Osten_entlaubt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -821,11 +837,12 @@
       "categories": [
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kleinmarkthalle"
     },
     {
       "id": "f_18",
-      "name": "Neue Altstadt（新旧市街）",
+      "name": "Neue Altstadt",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -869,11 +886,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neue Altstadt"
     },
     {
       "id": "f_19",
-      "name": "Sachsenhausen（ザクセンハウゼン地区＆居酒屋街）",
+      "name": "Sachsenhausen",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -904,7 +922,7 @@
       "name_en": "Sachsenhausen (Sachsenhausen Cider District)",
       "name_ja": "Sachsenhausen（ザクセンハウゼン地区＆居酒屋街）",
       "name_es": "Sachsenhausen (Sachsenhausen Cider District)",
-      "name_zh": "Sachsenhausen (ザクセンハウゼン地区＆居酒屋街)",
+      "name_zh": "Sachsenhausen",
       "name_fr": "Sachsenhausen (Sachsenhausen Cider District)",
       "name_de": "Sachsenhausen",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stadtteil_Sachsenhausen.svg/330px-Frankfurt_Stadtteil_Sachsenhausen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -920,11 +938,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Sachsenhausen"
     },
     {
       "id": "f_20",
-      "name": "Zur Sonne / Zum Gemalten Haus / Atschel（ザクセンハウゼンの歴史的アプフェルヴァイン酒場群）",
+      "name": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -955,7 +974,7 @@
       "name_en": "Zur Sonne / Zum Gemalten Haus / Atschel (Historic Apple Wine Taverns)",
       "name_ja": "Zur Sonne / Zum Gemalten Haus / Atschel（ザクセンハウゼンの歴史的アプフェルヴァイン酒場群）",
       "name_es": "Zur Sonne / Zum Gemalten Haus / Atschel (Historic Apple Wine Taverns)",
-      "name_zh": "Zur Sonne / Zum Gemalten Haus / Atschel (ザクセンハウゼンの歴史的アプフェルヴァイン酒場群)",
+      "name_zh": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "name_fr": "Zur Sonne / Zum Gemalten Haus / Atschel (Historic Apple Wine Taverns)",
       "name_de": "Zur Sonne / Zum Gemalten Haus / Atschel",
       "image": "",
@@ -968,11 +987,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zur Sonne / Zum Gemalten Haus / Atschel"
     },
     {
       "id": "f_21",
-      "name": "Zeil & MyZeil（ツァイル通り＆マイツァイル）",
+      "name": "Zeil & MyZeil",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1003,7 +1023,7 @@
       "name_en": "Zeil & MyZeil (Zeil Shopping Street & MyZeil)",
       "name_ja": "Zeil & MyZeil（ツァイル通り＆マイツァイル）",
       "name_es": "Zeil & MyZeil (Zeil Shopping Street & MyZeil)",
-      "name_zh": "Zeil & MyZeil (ツァイル通り＆マイツァイル)",
+      "name_zh": "Zeil & MyZeil",
       "name_fr": "Zeil & MyZeil (Zeil Shopping Street & MyZeil)",
       "name_de": "Zeil & MyZeil",
       "image": "",
@@ -1017,11 +1037,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zeil & MyZeil"
     },
     {
       "id": "f_22",
-      "name": "Goethestraße（ゲーテ通り）",
+      "name": "Goethestraße",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1052,7 +1073,7 @@
       "name_en": "Goethestraße (Goethestraße Luxury Street)",
       "name_ja": "Goethestraße（ゲーテ通り）",
       "name_es": "Goethestraße (Goethestraße Luxury Street)",
-      "name_zh": "Goethestraße (ゲーテ通り)",
+      "name_zh": "Goethestraße",
       "name_fr": "Goethestraße (Goethestraße Luxury Street)",
       "name_de": "Goethestraße",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goethestrasse_Rothofstrasse_Ffm.jpg/330px-Goethestrasse_Rothofstrasse_Ffm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1066,11 +1087,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Goethestraße"
     },
     {
       "id": "f_23",
-      "name": "Große Bockenheimer Straße（Fressgass）",
+      "name": "Große Bockenheimer Straße",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1099,9 +1121,9 @@
       "price_fr": "散策無料",
       "price_de": "散策無料",
       "name_en": "Große Bockenheimer Straße (Fressgass Culinary Street)",
-      "name_ja": "Große Bockenheimer Straße（Fressgass）",
+      "name_ja": "Große Bockenheimer Straße",
       "name_es": "Große Bockenheimer Straße (Fressgass Culinary Street)",
-      "name_zh": "Große Bockenheimer Straße (フレスガス通り)",
+      "name_zh": "Große Bockenheimer Straße",
       "name_fr": "Große Bockenheimer Straße (Fressgass Culinary Street)",
       "name_de": "Große Bockenheimer Straße (Fressgass)",
       "image": "",
@@ -1115,11 +1137,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Große Bockenheimer Straße"
     },
     {
       "id": "f_24",
-      "name": "Hauptwache & Katharinenkirche（ハウプトヴァッヘ広場＆聖カタリーナ教会）",
+      "name": "Hauptwache & Katharinenkirche",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1150,7 +1173,7 @@
       "name_en": "Hauptwache & Katharinenkirche (Hauptwache Square & St. Catherine's)",
       "name_ja": "Hauptwache & Katharinenkirche（ハウプトヴァッヘ広場＆聖カタリーナ教会）",
       "name_es": "Hauptwache & Katharinenkirche (Hauptwache Square & St. Catherine's)",
-      "name_zh": "Hauptwache & Katharinenkirche (ハウプトヴァッヘ広場＆聖カタリーナ教会)",
+      "name_zh": "Hauptwache & Katharinenkirche",
       "name_fr": "Hauptwache & Katharinenkirche (Hauptwache Square & St. Catherine's)",
       "name_de": "Hauptwache & Katharinenkirche",
       "image": "",
@@ -1163,11 +1186,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hauptwache & Katharinenkirche"
     },
     {
       "id": "f_25",
-      "name": "Mainufer-Promenade（マイン川河岸遊歩道）",
+      "name": "Mainufer-Promenade",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1198,7 +1222,7 @@
       "name_en": "Mainufer-Promenade (Main River Promenade)",
       "name_ja": "Mainufer-Promenade（マイン川河岸遊歩道）",
       "name_es": "Mainufer-Promenade (Main River Promenade)",
-      "name_zh": "Mainufer-Promenade (マイン川河岸遊歩道)",
+      "name_zh": "Mainufer-Promenade",
       "name_fr": "Mainufer-Promenade (Main River Promenade)",
       "name_de": "Mainufer-Promenade",
       "image": "",
@@ -1213,11 +1237,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Mainufer-Promenade"
     },
     {
       "id": "f_26",
-      "name": "Zoo Frankfurt（フランクフルト動物園）",
+      "name": "Zoo Frankfurt",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1248,7 +1273,7 @@
       "name_en": "Zoo Frankfurt (Frankfurt Zoo)",
       "name_ja": "Zoo Frankfurt（フランクフルト動物園）",
       "name_es": "Zoo Frankfurt (Frankfurt Zoo)",
-      "name_zh": "Zoo Frankfurt (フランクフルト動物園)",
+      "name_zh": "Zoo Frankfurt",
       "name_fr": "Zoo Frankfurt (Frankfurt Zoo)",
       "name_de": "Zoo Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Zoo-Frankfurt-Gesellschaftshaus-a.jpg/330px-Zoo-Frankfurt-Gesellschaftshaus-a.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1262,11 +1287,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zoo Frankfurt"
     },
     {
       "id": "f_27",
-      "name": "Senckenberg Naturmuseum（ゼンケンベルク自然博物館）",
+      "name": "Senckenberg Naturmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1297,7 +1323,7 @@
       "name_en": "Senckenberg Naturmuseum (Senckenberg Natural History Museum)",
       "name_ja": "Senckenberg Naturmuseum（ゼンケンベルク自然博物館）",
       "name_es": "Senckenberg Naturmuseum (Senckenberg Natural History Museum)",
-      "name_zh": "Senckenberg Naturmuseum (ゼンケンベルク自然博物館)",
+      "name_zh": "Senckenberg Naturmuseum",
       "name_fr": "Senckenberg Naturmuseum (Senckenberg Natural History Museum)",
       "name_de": "Senckenberg Naturmuseum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg/330px-Senckenberganlage_29%2C_Senckenberg_Museum_Frankfurt_am_Main_20200925_0035.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1310,11 +1336,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Senckenberg Naturmuseum"
     },
     {
       "id": "f_28",
-      "name": "Frankfurter Wertpapierbörse（Börse）",
+      "name": "Frankfurter Wertpapierbörse",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1343,9 +1370,9 @@
       "price_fr": "広場無料",
       "price_de": "広場無料",
       "name_en": "Frankfurter Wertpapierbörse (Frankfurt Stock Exchange)",
-      "name_ja": "Frankfurter Wertpapierbörse（Börse）",
+      "name_ja": "Frankfurter Wertpapierbörse",
       "name_es": "Frankfurter Wertpapierbörse (Frankfurt Stock Exchange)",
-      "name_zh": "Frankfurter Wertpapierbörse (フランクフルト証券取引所)",
+      "name_zh": "Frankfurter Wertpapierbörse",
       "name_fr": "Frankfurter Wertpapierbörse (Frankfurt Stock Exchange)",
       "name_de": "Frankfurter Wertpapierbörse (Börse)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg/330px-Frankfurt_Am_Main-Neue_Boerse_von_Suedosten-20120222.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1358,11 +1385,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Frankfurter Wertpapierbörse"
     },
     {
       "id": "f_29",
-      "name": "Euro-Skulptur（Willy-Brandt-Platz）",
+      "name": "Euro-Skulptur",
       "category": "Landmark",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1391,9 +1419,9 @@
       "price_fr": "見学無料",
       "price_de": "見学無料",
       "name_en": "Euro-Skulptur (Euro Sculpture)",
-      "name_ja": "Euro-Skulptur（Willy-Brandt-Platz）",
+      "name_ja": "Euro-Skulptur",
       "name_es": "Euro-Skulptur (Euro Sculpture)",
-      "name_zh": "Euro-Skulptur (巨大ユーロマーク像)",
+      "name_zh": "Euro-Skulptur",
       "name_fr": "Euro-Skulptur (Euro Sculpture)",
       "name_de": "Euro-Skulptur (Willy-Brandt-Platz)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg/330px-Eurotower_mit_Euro-Skulptur_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1406,11 +1434,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Euro-Skulptur"
     },
     {
       "id": "f_30",
-      "name": "Europaviertel & Skyline Plaza（オイローパフィアテル＆スカイライン・プラザ）",
+      "name": "Europaviertel & Skyline Plaza",
       "category": "Shopping",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1441,7 +1470,7 @@
       "name_en": "Europaviertel & Skyline Plaza",
       "name_ja": "Europaviertel & Skyline Plaza（オイローパフィアテル＆スカイライン・プラザ）",
       "name_es": "Europaviertel & Skyline Plaza",
-      "name_zh": "Europaviertel & Skyline Plaza (オイローパフィアテル＆スカイライン・プラザ)",
+      "name_zh": "Europaviertel & Skyline Plaza",
       "name_fr": "Europaviertel & Skyline Plaza",
       "name_de": "Europaviertel & Skyline Plaza",
       "image": "",
@@ -1455,11 +1484,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Europaviertel & Skyline Plaza"
     },
     {
       "id": "f_31",
-      "name": "Grüneburgpark（グリューネブルク公園＆フランクフルト植物園）",
+      "name": "Grüneburgpark",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1490,7 +1520,7 @@
       "name_en": "Grüneburgpark (Grüneburgpark & Botanical Garden)",
       "name_ja": "Grüneburgpark（グリューネブルク公園＆フランクフルト植物園）",
       "name_es": "Grüneburgpark (Grüneburgpark & Botanical Garden)",
-      "name_zh": "Grüneburgpark (グリューネブルク公園＆フランクフルト植物園)",
+      "name_zh": "Grüneburgpark",
       "name_fr": "Grüneburgpark (Grüneburgpark & Botanical Garden)",
       "name_de": "Grüneburgpark",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/FFM_Grueneburg_1864_Delkeskamp.jpg/330px-FFM_Grueneburg_1864_Delkeskamp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1504,11 +1534,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grüneburgpark"
     },
     {
       "id": "f_32",
-      "name": "Hafenpark & Ostpark（ハーフェンパーク＆オストパーク）",
+      "name": "Hafenpark & Ostpark",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1539,7 +1570,7 @@
       "name_en": "Hafenpark & Ostpark",
       "name_ja": "Hafenpark & Ostpark（ハーフェンパーク＆オストパーク）",
       "name_es": "Hafenpark & Ostpark",
-      "name_zh": "Hafenpark & Ostpark (ハーフェンパーク＆オストパーク)",
+      "name_zh": "Hafenpark & Ostpark",
       "name_fr": "Hafenpark & Ostpark",
       "name_de": "Hafenpark & Ostpark",
       "image": "",
@@ -1553,11 +1584,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hafenpark & Ostpark"
     },
     {
       "id": "f_33",
-      "name": "Europäische Zentralbank（ECB / EZB）",
+      "name": "Europäische Zentralbank",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1586,9 +1618,9 @@
       "price_fr": "外観無料",
       "price_de": "外観無料",
       "name_en": "Europäische Zentralbank (European Central Bank Headquarters)",
-      "name_ja": "Europäische Zentralbank（ECB / EZB）",
+      "name_ja": "Europäische Zentralbank",
       "name_es": "Europäische Zentralbank (European Central Bank Headquarters)",
-      "name_zh": "Europäische Zentralbank (欧州中央銀行新本部ビル)",
+      "name_zh": "Europäische Zentralbank",
       "name_fr": "Europäische Zentralbank (European Central Bank Headquarters)",
       "name_de": "Europäische Zentralbank (ECB / EZB)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/330px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1601,11 +1633,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Europäische Zentralbank"
     },
     {
       "id": "f_34",
-      "name": "Jüdisches Museum Frankfurt（ユダヤ博物館）",
+      "name": "Jüdisches Museum Frankfurt",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1636,7 +1669,7 @@
       "name_en": "Jüdisches Museum Frankfurt (Jewish Museum Frankfurt)",
       "name_ja": "Jüdisches Museum Frankfurt（ユダヤ博物館）",
       "name_es": "Jüdisches Museum Frankfurt (Jewish Museum Frankfurt)",
-      "name_zh": "Jüdisches Museum Frankfurt (ユダヤ博物館)",
+      "name_zh": "Jüdisches Museum Frankfurt",
       "name_fr": "Jüdisches Museum Frankfurt (Jewish Museum Frankfurt)",
       "name_de": "Jüdisches Museum Frankfurt",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1650,11 +1683,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jüdisches Museum Frankfurt"
     },
     {
       "id": "f_35",
-      "name": "Museum Judengasse（ユーデンガッセ博物館）",
+      "name": "Museum Judengasse",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1685,7 +1719,7 @@
       "name_en": "Museum Judengasse",
       "name_ja": "Museum Judengasse（ユーデンガッセ博物館）",
       "name_es": "Museum Judengasse",
-      "name_zh": "Museum Judengasse (ユーデンガッセ博物館)",
+      "name_zh": "Museum Judengasse",
       "name_fr": "Museum Judengasse",
       "name_de": "Museum Judengasse",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg/330px-Frankfurt_Am_Main-Untermainkai_15_von_Suedwesten-20100808.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1698,11 +1732,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Judengasse"
     },
     {
       "id": "f_36",
-      "name": "Eschenheimer Turm（エッシェンハイマー塔）",
+      "name": "Eschenheimer Turm",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1733,7 +1768,7 @@
       "name_en": "Eschenheimer Turm (Eschenheim Tower)",
       "name_ja": "Eschenheimer Turm（エッシェンハイマー塔）",
       "name_es": "Eschenheimer Turm (Eschenheim Tower)",
-      "name_zh": "Eschenheimer Turm (エッシェンハイマー塔)",
+      "name_zh": "Eschenheimer Turm",
       "name_fr": "Eschenheimer Turm (Eschenheim Tower)",
       "name_de": "Eschenheimer Turm",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Frankfurt_Nextower.20130514.jpg/330px-Frankfurt_Nextower.20130514.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1746,11 +1781,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Eschenheimer Turm"
     },
     {
       "id": "f_37",
-      "name": "Café Hauptwache（カフェ・ハウプトヴァッヘ）",
+      "name": "Café Hauptwache",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1781,7 +1817,7 @@
       "name_en": "Café Hauptwache",
       "name_ja": "Café Hauptwache（カフェ・ハウプトヴァッヘ）",
       "name_es": "Café Hauptwache",
-      "name_zh": "Café Hauptwache (カフェ・ハウプトヴァッヘ)",
+      "name_zh": "Café Hauptwache",
       "name_fr": "Café Hauptwache",
       "name_de": "Café Hauptwache",
       "image": "",
@@ -1794,11 +1830,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Hauptwache"
     },
     {
       "id": "f_38",
-      "name": "Wacker's Kaffee（ヴァッカーズ・カフェ）",
+      "name": "Wacker's Kaffee",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1829,7 +1866,7 @@
       "name_en": "Wacker's Kaffee",
       "name_ja": "Wacker's Kaffee（ヴァッカーズ・カフェ）",
       "name_es": "Wacker's Kaffee",
-      "name_zh": "Wacker's Kaffee (ヴァッカーズ・カフェ)",
+      "name_zh": "Wacker's Kaffee",
       "name_fr": "Wacker's Kaffee",
       "name_de": "Wacker's Kaffee",
       "image": "",
@@ -1842,11 +1879,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Wacker's Kaffee"
     },
     {
       "id": "f_39",
-      "name": "Lohrberg（Lohrpark）",
+      "name": "Lohrberg",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1875,9 +1913,9 @@
       "price_fr": "入園無料",
       "price_de": "入園無料",
       "name_en": "Lohrberg",
-      "name_ja": "Lohrberg（Lohrpark）",
+      "name_ja": "Lohrberg",
       "name_es": "Lohrberg",
-      "name_zh": "Lohrberg (ロールベルク展望公園)",
+      "name_zh": "Lohrberg",
       "name_fr": "Lohrberg",
       "name_de": "Lohrberg (Lohrpark)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lohrberg_3.jpg/330px-Lohrberg_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1892,11 +1930,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Lohrberg"
     },
     {
       "id": "f_40",
-      "name": "Nizza Gärten（ニッツァ庭園）",
+      "name": "Nizza Gärten",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1927,7 +1966,7 @@
       "name_en": "Nizza Gärten (Nizza Gardens)",
       "name_ja": "Nizza Gärten（ニッツァ庭園）",
       "name_es": "Nizza Gärten (Nizza Gardens)",
-      "name_zh": "Nizza Gärten (ニッツァ庭園)",
+      "name_zh": "Nizza Gärten",
       "name_fr": "Nizza Gärten (Nizza Gardens)",
       "name_de": "Nizza Gärten",
       "image": "",
@@ -1940,11 +1979,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Nizza Gärten"
     },
     {
       "id": "f_41",
-      "name": "Rebstockbad（レプシュトックバート）",
+      "name": "Rebstockbad",
       "category": "Kids & Family",
       "rating": "★4.5",
       "locationZone": "city",
@@ -1975,7 +2015,7 @@
       "name_en": "Rebstockbad (Rebstockbad Water Park)",
       "name_ja": "Rebstockbad（レプシュトックバート）",
       "name_es": "Rebstockbad (Rebstockbad Water Park)",
-      "name_zh": "Rebstockbad (レプシュトックバート)",
+      "name_zh": "Rebstockbad",
       "name_fr": "Rebstockbad (Rebstockbad Water Park)",
       "name_de": "Rebstockbad",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rebstockbad_Innenansicht.jpg/330px-Rebstockbad_Innenansicht.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1991,11 +2031,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Rebstockbad"
     },
     {
       "id": "f_42",
-      "name": "Experiminta ScienceCenter（エクスペリミンタ科学館）",
+      "name": "Experiminta ScienceCenter",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2026,7 +2067,7 @@
       "name_en": "Experiminta ScienceCenter",
       "name_ja": "Experiminta ScienceCenter（エクスペリミンタ科学館）",
       "name_es": "Experiminta ScienceCenter",
-      "name_zh": "Experiminta ScienceCenter (エクスペリミンタ科学館)",
+      "name_zh": "Experiminta ScienceCenter",
       "name_fr": "Experiminta ScienceCenter",
       "name_de": "Experiminta ScienceCenter",
       "image": "",
@@ -2040,11 +2081,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Experiminta ScienceCenter"
     },
     {
       "id": "f_43",
-      "name": "Bibelhaus Erlebnis Museum（聖書体験博物館）",
+      "name": "Bibelhaus Erlebnis Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "locationZone": "city",
@@ -2088,11 +2130,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bibelhaus Erlebnis Museum"
     },
     {
       "id": "f_44",
-      "name": "DialogMuseum（ダイアログ・ミュージアム）",
+      "name": "DialogMuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -2123,7 +2166,7 @@
       "name_en": "DialogMuseum",
       "name_ja": "DialogMuseum（ダイアログ・ミュージアム）",
       "name_es": "DialogMuseum",
-      "name_zh": "DialogMuseum (ダイアログ・ミュージアム)",
+      "name_zh": "DialogMuseum",
       "name_fr": "DialogMuseum",
       "name_de": "DialogMuseum",
       "image": "",
@@ -2136,11 +2179,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "DialogMuseum"
     },
     {
       "id": "f_45",
-      "name": "Historische Straßenbahn Frankfurt（エッベルヴァイ・エクスプレス）",
+      "name": "Historische Straßenbahn Frankfurt",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2171,7 +2215,7 @@
       "name_en": "Historische Straßenbahn Frankfurt (Ebbelwei-Express Tram)",
       "name_ja": "Historische Straßenbahn Frankfurt（エッベルヴァイ・エクスプレス）",
       "name_es": "Historische Straßenbahn Frankfurt (Ebbelwei-Express Tram)",
-      "name_zh": "Historische Straßenbahn Frankfurt (エッベルヴァイ・エクスプレス)",
+      "name_zh": "Historische Straßenbahn Frankfurt",
       "name_fr": "Historische Straßenbahn Frankfurt (Ebbelwei-Express Tram)",
       "name_de": "Historische Straßenbahn Frankfurt",
       "image": "",
@@ -2184,11 +2228,12 @@
       "categories": [
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historische Straßenbahn Frankfurt"
     },
     {
       "id": "f_46",
-      "name": "Rüdesheim am Rhein & Drosselgasse（リューデスハイム＆つぐみ横丁）",
+      "name": "Rüdesheim am Rhein & Drosselgasse",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2219,7 +2264,7 @@
       "name_en": "Rüdesheim am Rhein & Drosselgasse (Rüdesheim Rhine Valley)",
       "name_ja": "Rüdesheim am Rhein & Drosselgasse（リューデスハイム＆つぐみ横丁）",
       "name_es": "Rüdesheim am Rhein & Drosselgasse (Rüdesheim Rhine Valley)",
-      "name_zh": "Rüdesheim am Rhein & Drosselgasse (リューデスハイム＆つぐみ横丁)",
+      "name_zh": "Rüdesheim am Rhein & Drosselgasse",
       "name_fr": "Rüdesheim am Rhein & Drosselgasse (Rüdesheim Rhine Valley)",
       "name_de": "Rüdesheim am Rhein & Drosselgasse",
       "image": "",
@@ -2232,11 +2277,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Rüdesheim am Rhein & Drosselgasse"
     },
     {
       "id": "f_47",
-      "name": "Burg Eltz（エルツ城＆ライン川古城群）",
+      "name": "Burg Eltz",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2267,7 +2313,7 @@
       "name_en": "Burg Eltz (Eltz Castle)",
       "name_ja": "Burg Eltz（エルツ城＆ライン川古城群）",
       "name_es": "Burg Eltz (Eltz Castle)",
-      "name_zh": "Burg Eltz (エルツ城＆ライン川古城群)",
+      "name_zh": "Burg Eltz",
       "name_fr": "Burg Eltz (Eltz Castle)",
       "name_de": "Burg Eltz",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg/330px-Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2280,11 +2326,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Burg Eltz"
     },
     {
       "id": "f_48",
-      "name": "Mainz: Dom St. Martin & Gutenberg-Museum（マインツ：大聖堂＆グーテンベルク博物館）",
+      "name": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2315,7 +2362,7 @@
       "name_en": "Mainz: Dom St. Martin & Gutenberg-Museum (Mainz Cathedral & Museum)",
       "name_ja": "Mainz: Dom St. Martin & Gutenberg-Museum（マインツ：大聖堂＆グーテンベルク博物館）",
       "name_es": "Mainz: Dom St. Martin & Gutenberg-Museum (Mainz Cathedral & Museum)",
-      "name_zh": "Mainz: Dom St. Martin & Gutenberg-Museum (マインツ：大聖堂＆グーテンベルク博物館)",
+      "name_zh": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "name_fr": "Mainz: Dom St. Martin & Gutenberg-Museum (Mainz Cathedral & Museum)",
       "name_de": "Mainz: Dom St. Martin & Gutenberg-Museum",
       "image": "",
@@ -2329,11 +2376,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mainz: Dom St. Martin & Gutenberg-Museum"
     },
     {
       "id": "f_49",
-      "name": "Wiesbaden: Kurhaus & Nerobergbahn（ヴィースバーデン：クアハウス＆ネロベルク登山鉄道）",
+      "name": "Wiesbaden: Kurhaus & Nerobergbahn",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "suburban",
@@ -2364,7 +2412,7 @@
       "name_en": "Wiesbaden: Kurhaus & Nerobergbahn (Wiesbaden Kurhaus & Nerobergbahn)",
       "name_ja": "Wiesbaden: Kurhaus & Nerobergbahn（ヴィースバーデン：クアハウス＆ネロベルク登山鉄道）",
       "name_es": "Wiesbaden: Kurhaus & Nerobergbahn (Wiesbaden Kurhaus & Nerobergbahn)",
-      "name_zh": "Wiesbaden: Kurhaus & Nerobergbahn (ヴィースバーデン：クアハウス＆ネロベルク登山鉄道)",
+      "name_zh": "Wiesbaden: Kurhaus & Nerobergbahn",
       "name_fr": "Wiesbaden: Kurhaus & Nerobergbahn (Wiesbaden Kurhaus & Nerobergbahn)",
       "name_de": "Wiesbaden: Kurhaus & Nerobergbahn",
       "image": "",
@@ -2379,11 +2427,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Wiesbaden: Kurhaus & Nerobergbahn"
     },
     {
       "id": "f_50",
-      "name": "Kaiserpfalz Ingelheim（インゲルハイムのカール大帝宮殿跡）",
+      "name": "Kaiserpfalz Ingelheim",
       "category": "Landmark",
       "rating": "★4.5",
       "locationZone": "suburban",
@@ -2414,7 +2463,7 @@
       "name_en": "Kaiserpfalz Ingelheim (Ingelheim Imperial Palace)",
       "name_ja": "Kaiserpfalz Ingelheim（インゲルハイムのカール大帝宮殿跡）",
       "name_es": "Kaiserpfalz Ingelheim (Ingelheim Imperial Palace)",
-      "name_zh": "Kaiserpfalz Ingelheim (インゲルハイムのカール大帝宮殿跡)",
+      "name_zh": "Kaiserpfalz Ingelheim",
       "name_fr": "Kaiserpfalz Ingelheim (Ingelheim Imperial Palace)",
       "name_de": "Kaiserpfalz Ingelheim",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/330px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2427,7 +2476,8 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kaiserpfalz Ingelheim"
     }
   ],
   "spotCount": 50

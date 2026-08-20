@@ -4,7 +4,7 @@
   "spots": [
     {
       "id": "bo_1",
-      "name": "Place de la Bourse & Miroir d'eau（ブルス広場とミロワールドー）",
+      "name": "Place de la Bourse & Miroir d'eau",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "18th-century grand square set along the riverfront, home to the world's largest water mirror reflecting classical facades.",
@@ -53,11 +53,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place de la Bourse & Miroir d'eau"
     },
     {
       "id": "bo_2",
-      "name": "Grand Théâtre de Bordeaux（ボルドー大劇場）",
+      "name": "Grand Théâtre de Bordeaux",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Masterpiece of 18th-century Neoclassical architecture featuring a portico of 12 Corinthian columns topped by muses and goddesses.",
@@ -106,11 +107,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grand Théâtre de Bordeaux"
     },
     {
       "id": "bo_3",
-      "name": "Cathédrale Saint-André & Tour Pey-Berland（サンタンドレ大聖堂とペイ ベルラン ツアー）",
+      "name": "Cathédrale Saint-André & Tour Pey-Berland",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Gothic cathedral where Eleanor of Aquitaine married Louis VII, paired with a freestanding bell tower offering city views.",
@@ -159,11 +161,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cathédrale Saint-André & Tour Pey-Berland"
     },
     {
       "id": "bo_4",
-      "name": "Porte Cailhau（ポルト カイヨー）",
+      "name": "Porte Cailhau",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "15th-century white stone city gate standing 35 meters tall, built to commemorate King Charles VIII's victory at Fornovo.",
@@ -212,11 +215,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Porte Cailhau"
     },
     {
       "id": "bo_5",
-      "name": "Grosse Cloche（グロース・クロシェ）",
+      "name": "Grosse Cloche",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Historic 15th-century belfry of the former town hall, featuring twin conical towers and a massive 7,800kg bronze bell.",
@@ -265,11 +269,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grosse Cloche"
     },
     {
       "id": "bo_6",
-      "name": "Basilique Saint-Michel & Flèche Saint-Michel（サン ミッシェル大聖堂とフレッシュ サン ミッシェル）",
+      "name": "Basilique Saint-Michel & Flèche Saint-Michel",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Flamboyant Gothic basilica crowned by a freestanding 114m spire, one of the tallest in southern France.",
@@ -318,11 +323,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Basilique Saint-Michel & Flèche Saint-Michel"
     },
     {
       "id": "bo_7",
-      "name": "Monument aux Girondins（モニュメント・オ・ジロンダン (カンコンス広場）",
+      "name": "Monument aux Girondins",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Monumental 54-meter column topped by a bronze statue of Liberty, flanked by dramatic fountains honoring the Girondin martyrs.",
@@ -371,11 +377,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Monument aux Girondins"
     },
     {
       "id": "bo_8",
-      "name": "Palais Gallien（パレ ガリアン (ガロ ローマ円形劇場）",
+      "name": "Palais Gallien",
       "category": "Landmark",
       "rating": "★4.5",
       "desc": "Atmospheric arches and wall ruins of a 2nd-century Roman amphitheatre that once seated 15,000 spectators.",
@@ -424,11 +431,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Palais Gallien"
     },
     {
       "id": "bo_9",
-      "name": "Pont de Pierre（ポン・ド・ピエール）",
+      "name": "Pont de Pierre",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Historic 17-arch stone bridge commissioned by Napoleon I, connecting the left bank with the Bastide district.",
@@ -477,11 +485,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Pont de Pierre"
     },
     {
       "id": "bo_10",
-      "name": "Château de Roquetaillade（シャトー ド ロケタイラード）",
+      "name": "Château de Roquetaillade",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Imposing medieval castle fortress in Mazères restored by Viollet-le-Duc, showcasing intact feudal towers and interior furnishings.",
@@ -531,11 +540,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Château de Roquetaillade"
     },
     {
       "id": "bo_11",
-      "name": "Château de La Brède（シャトー ド ラ ブレード (モンテスキュー エステート）",
+      "name": "Château de La Brède",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Moated Gothic castle surrounded by parkland where political philosopher Montesquieu was born and wrote 'The Spirit of Laws'.",
@@ -585,11 +595,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Château de La Brède"
     },
     {
       "id": "bo_12",
-      "name": "Cité du Vin（シテ・デュ・ヴァン）",
+      "name": "Cité du Vin",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Futuristic decanter-shaped museum along the Garonne offering interactive exhibits on global wine culture and belvedere wine tasting.",
@@ -638,11 +649,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cité du Vin"
     },
     {
       "id": "bo_13",
-      "name": "Bassins des Lumières（バッサン デ リュミエール）",
+      "name": "Bassins des Lumières",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "desc": "World's largest digital art center housed inside a WWII German submarine base, projecting monumental masterpieces over water basins.",
@@ -691,11 +703,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bassins des Lumières"
     },
     {
       "id": "bo_14",
-      "name": "Musée d'Aquitaine（アキテーヌ美術館）",
+      "name": "Musée d'Aquitaine",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Regional history museum covering Bordeaux from prehistoric origins through Roman Gaul, medieval trade, and the transatlantic era.",
@@ -744,11 +757,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée d'Aquitaine"
     },
     {
       "id": "bo_15",
-      "name": "Musée des Beaux-Arts de Bordeaux（ボルドー美術館）",
+      "name": "Musée des Beaux-Arts de Bordeaux",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Prestigious fine arts museum in Palais Rohan wings displaying masterpieces by Titian, Rubens, Delacroix, and Matisse.",
@@ -797,11 +811,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Beaux-Arts de Bordeaux"
     },
     {
       "id": "bo_16",
-      "name": "CAPC Musée d'Art Contemporain（CAPC 現代美術館）",
+      "name": "CAPC Musée d'Art Contemporain",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Avant-garde contemporary art museum set in a majestic 19th-century colonial warehouse with vaulted brick halls.",
@@ -850,11 +865,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "CAPC Musée d'Art Contemporain"
     },
     {
       "id": "bo_17",
-      "name": "MADD（装飾およびデザイン美術館）",
+      "name": "MADD",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Housed in the 18th-century Hôtel de Lalande townhouse, showcasing period furniture, ceramics, and contemporary design exhibitions.",
@@ -903,11 +919,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "MADD"
     },
     {
       "id": "bo_18",
-      "name": "Musée Mer Marine（海洋博物館）",
+      "name": "Musée Mer Marine",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Modern maritime museum in the Bassins à Flot district tracing navigation history, ocean exploration, and marine conservation.",
@@ -956,11 +973,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Mer Marine"
     },
     {
       "id": "bo_19",
-      "name": "Musée National des Douanes（国立ドゥアンヌ美術館）",
+      "name": "Musée National des Douanes",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "France's only customs museum, located inside Place de la Bourse, showcasing contraband artifacts, smuggling history, and uniforms.",
@@ -1010,11 +1028,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée National des Douanes"
     },
     {
       "id": "bo_20",
-      "name": "Marché des Capucins（マルシェ デ カプサン）",
+      "name": "Marché des Capucins",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Bustling indoor market known as 'the belly of Bordeaux', famous for fresh Arcachon oysters paired with chilled white wine.",
@@ -1064,11 +1083,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Marché des Capucins"
     },
     {
       "id": "bo_21",
-      "name": "Brasserie Bordelaise（ブラッスリー ボルドレーズ）",
+      "name": "Brasserie Bordelaise",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Vibrant traditional brasserie serving authentic Aquitaine duck fillet, entrecôte bordelaise, and regional wines.",
@@ -1117,11 +1137,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Brasserie Bordelaise"
     },
     {
       "id": "bo_22",
-      "name": "Canelé Baillardran & La Toque Cuivrée（カヌレ・バイヤルダン＆ラ・トック・キュイヴレ）",
+      "name": "Canelé Baillardran & La Toque Cuivrée",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Bordeaux's famous bakery boutiques crafting warm, caramelized rum-and-vanilla canelés baked in copper molds.",
@@ -1171,11 +1192,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Canelé Baillardran & La Toque Cuivrée"
     },
     {
       "id": "bo_23",
-      "name": "Le Bar à Vin（ル・バー・ア・ヴァン (CIVB）",
+      "name": "Le Bar à Vin",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Official Bordeaux Wine Council wine bar inside an 18th-century mansion offering sommelier-poured Grand Cru wines at factory prices.",
@@ -1225,11 +1247,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Le Bar à Vin"
     },
     {
       "id": "bo_24",
-      "name": "Café Français（カフェフランセ）",
+      "name": "Café Français",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Historic grand cafe with outdoor terrace seating directly facing the Cathedral of Saint-André.",
@@ -1279,11 +1302,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Français"
     },
     {
       "id": "bo_25",
-      "name": "L'Entrecôte Bordeaux（ラントルコート ボルドー）",
+      "name": "L'Entrecôte Bordeaux",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Legendary restaurant near Grand Théâtre serving a single famous menu: sirloin steak with secret butter sauce and unlimited fries.",
@@ -1332,11 +1356,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "L'Entrecôte Bordeaux"
     },
     {
       "id": "bo_26",
-      "name": "Grand Cru Wineries（グラン クリュ ワイナリー (サンテミリオン、メドック）",
+      "name": "Grand Cru Wineries",
       "category": "Café & Bistro",
       "rating": "★4.9",
       "desc": "World-renowned wine estates like Château Margaux and Château Pape Clément offering cellar tours and premier tastings.",
@@ -1385,11 +1410,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grand Cru Wineries"
     },
     {
       "id": "bo_27",
-      "name": "Quartier Saint-Pierre（カルティエ サン ピエール）",
+      "name": "Quartier Saint-Pierre",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Historic heart of old Bordeaux with narrow cobblestone alleys, shaded squares, wine bars, and lively restaurant terraces.",
@@ -1441,11 +1467,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Quartier Saint-Pierre"
     },
     {
       "id": "bo_28",
-      "name": "Quartier des Chartrons（カルティエ デ シャルトロン）",
+      "name": "Quartier des Chartrons",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Historic wine merchants' quarter turned trendy bohemian neighborhood filled with antique shops, art galleries, and cafes.",
@@ -1495,11 +1522,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Quartier des Chartrons"
     },
     {
       "id": "bo_29",
-      "name": "Les Quais de Bordeaux & Garonne Promenade（レ ケ ド ボルドーとガロンヌ プロムナード）",
+      "name": "Les Quais de Bordeaux & Garonne Promenade",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Vast 4.5km pedestrian riverfront promenade stretching from Place de la Bourse to Cité du Vin with gardens and skateparks.",
@@ -1549,11 +1577,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Les Quais de Bordeaux & Garonne Promenade"
     },
     {
       "id": "bo_30",
-      "name": "Rue Sainte-Catherine（サント・カトリーヌ通り）",
+      "name": "Rue Sainte-Catherine",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Europe's longest pedestrian shopping street (1.2km) running straight through the historic center from Place de la Comédie.",
@@ -1604,11 +1633,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Rue Sainte-Catherine"
     },
     {
       "id": "bo_31",
-      "name": "Place des Quinconces（カンコンス広場）",
+      "name": "Place des Quinconces",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "One of Europe's largest city squares (12 hectares) lined with tree avenues overlooking the Garonne River.",
@@ -1658,11 +1688,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place des Quinconces"
     },
     {
       "id": "bo_32",
-      "name": "Darwin Eco-Système（ダーウィン エコ システム）",
+      "name": "Darwin Eco-Système",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Repurposed military barracks on the right bank turned alternative hub featuring organic bistro, indoor skatepark, and street art.",
@@ -1713,11 +1744,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Darwin Eco-Système"
     },
     {
       "id": "bo_33",
-      "name": "Saint-Émilion Medieval Village（サンテミリオン中世村 (ユネスコ）",
+      "name": "Saint-Émilion Medieval Village",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "desc": "UNESCO World Heritage medieval village famous for its monolithic underground church and rolling vineyard landscape.",
@@ -1767,11 +1799,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Saint-Émilion Medieval Village"
     },
     {
       "id": "bo_34",
-      "name": "Dune du Pilat & Arcachon Bay（ピラ砂丘とアルカション湾）",
+      "name": "Dune du Pilat & Arcachon Bay",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "desc": "Europe's tallest sand dune (100m+) offering breathtaking views over Atlantic ocean pine forests and Arcachon oyster ports.",
@@ -1820,11 +1853,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dune du Pilat & Arcachon Bay"
     },
     {
       "id": "bo_35",
-      "name": "Jardin Public & Muséum de Bordeaux（パブリック庭園とボルドー美術館）",
+      "name": "Jardin Public & Muséum de Bordeaux",
       "category": "Kids & Family",
       "rating": "★4.8",
       "desc": "18th-century English-style park featuring a duck lake, historic Guignol puppet theatre, playgrounds, and Natural History Museum.",
@@ -1877,11 +1911,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Jardin Public & Muséum de Bordeaux"
     },
     {
       "id": "bo_36",
-      "name": "Cap Sciences（キャップサイエンス）",
+      "name": "Cap Sciences",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "Interactive science discovery museum along the riverfront designed for kids and teens with hands-on tech workshops.",
@@ -1931,11 +1966,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cap Sciences"
     },
     {
       "id": "bo_37",
-      "name": "Bordeaux River Cruise / Bat3 Water Taxi（ボルドー リバー クルーズ / Bat3 水上タクシー）",
+      "name": "Bordeaux River Cruise / Bat3 Water Taxi",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "Riverboat excursions and public catamaran water taxis providing panoramic views of Bordeaux's UNESCO riverfront facades.",
@@ -1987,11 +2023,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Bordeaux River Cruise / Bat3 Water Taxi"
     },
     {
       "id": "bo_38",
-      "name": "Parc Bordelais（ボルドレー公園）",
+      "name": "Parc Bordelais",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "Bordeaux's largest urban park (28 hectares) featuring farm animals, a miniature steam train, electric car circuit, and lake.",
@@ -2042,11 +2079,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Parc Bordelais"
     },
     {
       "id": "bo_39",
-      "name": "Zoo de Bordeaux-Pessac（ボルドー ペサック動物園）",
+      "name": "Zoo de Bordeaux-Pessac",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "Suburban family zoo home to white tigers, giant pandas, and up-close animal feeding experiences.",
@@ -2096,11 +2134,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zoo de Bordeaux-Pessac"
     },
     {
       "id": "bo_40",
-      "name": "La Forêt des Accro-Batches（ラ フォレ デ アクロバッチ）",
+      "name": "La Forêt des Accro-Batches",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "Tree-top adventure park set in maritime pine forest with zip-lines and obstacle courses for all skill levels.",
@@ -2150,7 +2189,8 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "La Forêt des Accro-Batches"
     }
   ]
 }

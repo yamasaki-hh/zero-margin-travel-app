@@ -1,7 +1,7 @@
 [
   {
     "id": "b_1",
-    "name": "Grand-Place（グランプラス / 世界遺産）",
+    "name": "Grand-Place",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -49,11 +49,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Grand-Place"
   },
   {
     "id": "b_2",
-    "name": "Manneken Pis（小便小僧ジュリアン君）",
+    "name": "Manneken Pis",
     "category": "Landmark",
     "rating": "★4.3",
     "locationZone": "city",
@@ -99,11 +100,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Manneken Pis"
   },
   {
     "id": "b_3",
-    "name": "Atomium（アトミウム / 1958年万博シンボル）",
+    "name": "Atomium",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -150,11 +152,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Atomium"
   },
   {
     "id": "b_4",
-    "name": "Koninklijke Musea voor Schone Kunsten（ベルギー王立美術館）",
+    "name": "Koninklijke Musea voor Schone Kunsten",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -200,11 +203,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Koninklijke Musea voor Schone Kunsten"
   },
   {
     "id": "b_5",
-    "name": "Musée Magritte Museum（マグリット美術館）",
+    "name": "Musée Magritte Museum",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "city",
@@ -251,11 +255,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Musée Magritte Museum"
   },
   {
     "id": "b_6",
-    "name": "Cathédrale Saints-Michel-et-Gudule（サン・ミッシェル大聖堂）",
+    "name": "Cathédrale Saints-Michel-et-Gudule",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -301,11 +306,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Cathédrale Saints-Michel-et-Gudule"
   },
   {
     "id": "b_7",
-    "name": "Galeries Royales Saint-Hubert（ギャルリー・サンチュベール）",
+    "name": "Galeries Royales Saint-Hubert",
     "category": "Shopping",
     "rating": "★4.7",
     "locationZone": "city",
@@ -353,11 +359,12 @@
       "Kids",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Galeries Royales Saint-Hubert"
   },
   {
     "id": "b_8",
-    "name": "Mini-Europe（ミニ・ヨーロッパ）",
+    "name": "Mini-Europe",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "suburban",
@@ -406,11 +413,12 @@
       "Scenery",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Mini-Europe"
   },
   {
     "id": "b_9",
-    "name": "Koninklijk Paleis van Brussel（ブリュッセル王宮）",
+    "name": "Koninklijk Paleis van Brussel",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -458,11 +466,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Koninklijk Paleis van Brussel"
   },
   {
     "id": "b_10",
-    "name": "Parc de Bruxelles（ブリュッセル公園）",
+    "name": "Parc de Bruxelles",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -512,11 +521,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Parc de Bruxelles"
   },
   {
     "id": "b_11",
-    "name": "Mont des Arts（芸術の丘）",
+    "name": "Mont des Arts",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "city",
@@ -565,11 +575,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Mont des Arts"
   },
   {
     "id": "b_12",
-    "name": "Musée des Instruments de Musique（楽器博物館 / MIM）",
+    "name": "Musée des Instruments de Musique",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -615,11 +626,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Musée des Instruments de Musique"
   },
   {
     "id": "b_13",
-    "name": "Belgisch Stripcentrum（ベルギー漫画センター）",
+    "name": "Belgisch Stripcentrum",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -665,11 +677,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Belgisch Stripcentrum"
   },
   {
     "id": "b_14",
-    "name": "Striproute Brussel（マンガ壁画ルート）",
+    "name": "Striproute Brussel",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -715,11 +728,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Striproute Brussel"
   },
   {
     "id": "b_15",
-    "name": "Musée Horta（オルタ美術館 / ユネスコ）",
+    "name": "Musée Horta",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -766,11 +780,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Musée Horta"
   },
   {
     "id": "b_16",
-    "name": "Koninklijk Museum van het Leger（王立軍事歴史博物館）",
+    "name": "Koninklijk Museum van het Leger",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -818,11 +833,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Koninklijk Museum van het Leger"
   },
   {
     "id": "b_17",
-    "name": "Autoworld Brussels（オートワールド）",
+    "name": "Autoworld Brussels",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -870,11 +886,12 @@
       "Museum",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Autoworld Brussels"
   },
   {
     "id": "b_18",
-    "name": "Parc du Cinquantenaire（サンカン特有公園＆勝利のアーチ）",
+    "name": "Parc du Cinquantenaire",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -923,11 +940,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Parc du Cinquantenaire"
   },
   {
     "id": "b_19",
-    "name": "Europees Parlement & Parlamentarium（欧州議会＆パルラメンタリウム）",
+    "name": "Europees Parlement & Parlamentarium",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -973,11 +991,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Europees Parlement & Parlamentarium"
   },
   {
     "id": "b_20",
-    "name": "Huis van de Europese Geschiedenis（欧州歴史の家）",
+    "name": "Huis van de Europese Geschiedenis",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1026,11 +1045,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Huis van de Europese Geschiedenis"
   },
   {
     "id": "b_21",
-    "name": "Jeanneke-Pis & Delirium Café（ジャンネケピス＆デリリウムカフェ）",
+    "name": "Jeanneke-Pis & Delirium Café",
     "category": "Café & Bistro",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1076,11 +1096,12 @@
     "categories": [
       "Café"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Jeanneke-Pis & Delirium Café"
   },
   {
     "id": "b_22",
-    "name": "Het Zinneke / Zinneke Pis（小便犬ジネケ像）",
+    "name": "Het Zinneke / Zinneke Pis",
     "category": "Landmark",
     "rating": "★4.3",
     "locationZone": "city",
@@ -1126,11 +1147,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Het Zinneke / Zinneke Pis"
   },
   {
     "id": "b_23",
-    "name": "Sint-Gorikshallen（サン＝ジェリ屋内市場ホール）",
+    "name": "Sint-Gorikshallen",
     "category": "Café & Bistro",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1178,11 +1200,12 @@
       "Night",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Sint-Gorikshallen"
   },
   {
     "id": "b_24",
-    "name": "Sint-Katelijne & Vismet（サント・カトリーヌ魚市場地区）",
+    "name": "Sint-Katelijne & Vismet",
     "category": "Café & Bistro",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1231,11 +1254,12 @@
       "Night",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Sint-Katelijne & Vismet"
   },
   {
     "id": "b_25",
-    "name": "Vlooienmarkt Vossenplein（ジュ・ド・ボール広場蚤の市）",
+    "name": "Vlooienmarkt Vossenplein",
     "category": "Shopping",
     "rating": "★4.5",
     "locationZone": "city",
@@ -1282,11 +1306,12 @@
       "Landmark",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Vlooienmarkt Vossenplein"
   },
   {
     "id": "b_26",
-    "name": "Justitiepaleis & Poelaertplein（最高裁判所＆プエラール広場）",
+    "name": "Justitiepaleis & Poelaertplein",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1332,11 +1357,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Justitiepaleis & Poelaertplein"
   },
   {
     "id": "b_27",
-    "name": "De Marollen（マロール下町地区）",
+    "name": "De Marollen",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1384,11 +1410,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "De Marollen"
   },
   {
     "id": "b_28",
-    "name": "Koninklijke Muntschouwburg（モネ劇場 / ベルギー王立歌劇場）",
+    "name": "Koninklijke Muntschouwburg",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1434,11 +1461,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Koninklijke Muntschouwburg"
   },
   {
     "id": "b_29",
-    "name": "Koninklijke Serres van Laken（ラーケン王立温室 / 春季限定公開）",
+    "name": "Koninklijke Serres van Laken",
     "category": "Landmark",
     "rating": "★4.9",
     "locationZone": "suburban",
@@ -1484,11 +1512,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Koninklijke Serres van Laken"
   },
   {
     "id": "b_30",
-    "name": "Choco-Story Brussels（チョコ・ストーリー体験型チョコレート博物館）",
+    "name": "Choco-Story Brussels",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1537,11 +1566,12 @@
       "Museum",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Choco-Story Brussels"
   },
   {
     "id": "b_31",
-    "name": "Museum van het Natuurwetenschappen（王立自然史博物館 / 恐竜ギャラリー）",
+    "name": "Museum van het Natuurwetenschappen",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1588,11 +1618,12 @@
       "Kids",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Museum van het Natuurwetenschappen"
   },
   {
     "id": "b_32",
-    "name": "Cantillon Brouwerij（カンティヨン伝統ランビック醸造所）",
+    "name": "Cantillon Brouwerij",
     "category": "Landmark",
     "rating": "★4.8",
     "locationZone": "city",
@@ -1640,11 +1671,12 @@
       "Landmark",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Cantillon Brouwerij"
   },
   {
     "id": "b_33",
-    "name": "Maison Dandoy（メゾン・ダンドワ本店 / ワッフル＆スペキュロス）",
+    "name": "Maison Dandoy",
     "category": "Café & Bistro",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1691,11 +1723,12 @@
       "Café",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Maison Dandoy"
   },
   {
     "id": "b_34",
-    "name": "Église Notre-Dame des Victoires au Sablon（サブロン教会）",
+    "name": "Église Notre-Dame des Victoires au Sablon",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1741,11 +1774,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Église Notre-Dame des Victoires au Sablon"
   },
   {
     "id": "b_35",
-    "name": "De Zavel / Le Sablon（グラン・サブロン＆プチ・サブロン広場）",
+    "name": "De Zavel / Le Sablon",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -1795,11 +1829,12 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "De Zavel / Le Sablon"
   },
   {
     "id": "b_36",
-    "name": "Train World（トレイン・ワールド / ベルギー鉄道博物館）",
+    "name": "Train World",
     "category": "Museum & Gallery",
     "rating": "★4.8",
     "locationZone": "suburban",
@@ -1845,11 +1880,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Train World"
   },
   {
     "id": "b_37",
-    "name": "Koninklijk Paleis van Laken（ラーケン宮殿）",
+    "name": "Koninklijk Paleis van Laken",
     "category": "Landmark",
     "rating": "★4.5",
     "locationZone": "suburban",
@@ -1897,11 +1933,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Koninklijk Paleis van Laken"
   },
   {
     "id": "b_38",
-    "name": "Plantentuin Meise（メイゼ植物園 / 92ヘクタール大植物園）",
+    "name": "Plantentuin Meise",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -1948,11 +1985,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Plantentuin Meise"
   },
   {
     "id": "b_39",
-    "name": "Maison du Roi / Broodhuis（王の家 / ブリュッセル市立博物館）",
+    "name": "Maison du Roi / Broodhuis",
     "category": "Museum & Gallery",
     "rating": "★4.6",
     "locationZone": "city",
@@ -1999,11 +2037,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Maison du Roi / Broodhuis"
   },
   {
     "id": "b_40",
-    "name": "Abdij Ter Kameren（カンブル修道院）",
+    "name": "Abdij Ter Kameren",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -2049,11 +2088,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Abdij Ter Kameren"
   },
   {
     "id": "b_41",
-    "name": "Bois de la Cambre（カンブルの森＆ロビンソン島）",
+    "name": "Bois de la Cambre",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -2102,11 +2142,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Bois de la Cambre"
   },
   {
     "id": "b_42",
-    "name": "Zoniënwoud（ソワニュの森 / ユネスコ世界遺産）",
+    "name": "Zoniënwoud",
     "category": "Scenery & Walk",
     "rating": "★4.8",
     "locationZone": "suburban",
@@ -2153,11 +2194,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Zoniënwoud"
   },
   {
     "id": "b_43",
-    "name": "Slagveld van Waterloo（ワーテルロー古戦場＆ライオンの丘）",
+    "name": "Slagveld van Waterloo",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -2204,11 +2246,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Slagveld van Waterloo"
   },
   {
     "id": "b_44",
-    "name": "Historisch Leuven（ルーヴェン旧市街：市庁舎＆最長バー街）",
+    "name": "Historisch Leuven",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -2257,11 +2300,12 @@
       "Night",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Historisch Leuven"
   },
   {
     "id": "b_45",
-    "name": "Kasteel van Gaasbeek（ハースベーク城）",
+    "name": "Kasteel van Gaasbeek",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "suburban",
@@ -2309,11 +2353,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Kasteel van Gaasbeek"
   },
   {
     "id": "b_46",
-    "name": "Hallebos（ハレの森 / 青い絨毯の青紫色の森・春限定）",
+    "name": "Hallebos",
     "category": "Scenery & Walk",
     "rating": "★4.9",
     "locationZone": "suburban",
@@ -2361,11 +2406,12 @@
       "Night",
       "Scenery"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Hallebos"
   },
   {
     "id": "b_47",
-    "name": "Historisch Mechelen（メヘレン歴史地区＆聖ロンバウツ塔）",
+    "name": "Historisch Mechelen",
     "category": "Landmark",
     "rating": "★4.7",
     "locationZone": "suburban",
@@ -2414,11 +2460,12 @@
       "Night",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Historisch Mechelen"
   },
   {
     "id": "b_48",
-    "name": "Maison Antoine & Frietkoten（アントワーヌ名物フリッツスタンド）",
+    "name": "Maison Antoine & Frietkoten",
     "category": "Café & Bistro",
     "rating": "★4.7",
     "locationZone": "city",
@@ -2465,11 +2512,12 @@
       "Café",
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Maison Antoine & Frietkoten"
   },
   {
     "id": "b_49",
-    "name": "Fin-de-Siècle Museum（世紀末美術館）",
+    "name": "Fin-de-Siècle Museum",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -2515,11 +2563,12 @@
     "categories": [
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Fin-de-Siècle Museum"
   },
   {
     "id": "b_50",
-    "name": "Musée BELvue（ベルヴュー歴史博物館）",
+    "name": "Musée BELvue",
     "category": "Museum & Gallery",
     "rating": "★4.5",
     "locationZone": "city",
@@ -2566,11 +2615,12 @@
       "Landmark",
       "Museum"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Musée BELvue"
   },
   {
     "id": "b_51",
-    "name": "Paleis van Coudenberg（クーデンベルグ宮殿地下遺構）",
+    "name": "Paleis van Coudenberg",
     "category": "Landmark",
     "rating": "★4.6",
     "locationZone": "city",
@@ -2616,11 +2666,12 @@
     "categories": [
       "Landmark"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Paleis van Coudenberg"
   },
   {
     "id": "b_52",
-    "name": "Villa Empain（ヴィラ・アンパン / アール・デコ芸術センター）",
+    "name": "Villa Empain",
     "category": "Museum & Gallery",
     "rating": "★4.7",
     "locationZone": "city",
@@ -2668,11 +2719,12 @@
       "Museum",
       "Night"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Villa Empain"
   },
   {
     "id": "b_53",
-    "name": "Sint-Gillis & Flagey（サン＝ジレ＆フラジェ・アール・ヌーヴォー建築街）",
+    "name": "Sint-Gillis & Flagey",
     "category": "Scenery & Walk",
     "rating": "★4.7",
     "locationZone": "city",
@@ -2718,11 +2770,12 @@
     "categories": [
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Sint-Gillis & Flagey"
   },
   {
     "id": "b_54",
-    "name": "Flageyplein & Maison de la Radio（フラジェ広場＆旧ラジオ局Le Paquebot）",
+    "name": "Flageyplein & Maison de la Radio",
     "category": "Scenery & Walk",
     "rating": "★4.6",
     "locationZone": "city",
@@ -2770,11 +2823,12 @@
       "Landmark",
       "Scenery"
     ],
-    "is_night_spot": false
+    "is_night_spot": false,
+    "name_local": "Flageyplein & Maison de la Radio"
   },
   {
     "id": "b_55",
-    "name": "Rue Neuve & Notre-Dame du Finistère（ヌーヴ通り＆フィニステル教会）",
+    "name": "Rue Neuve & Notre-Dame du Finistère",
     "category": "Shopping",
     "rating": "★4.5",
     "locationZone": "city",
@@ -2824,6 +2878,7 @@
       "Scenery",
       "Shopping"
     ],
-    "is_night_spot": true
+    "is_night_spot": true,
+    "name_local": "Rue Neuve & Notre-Dame du Finistère"
   }
 ]

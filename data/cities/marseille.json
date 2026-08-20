@@ -4,7 +4,7 @@
   "spots": [
     {
       "id": "ma_1",
-      "name": "Basilique Notre-Dame de la Garde（ノートルダム ド ラ ガルド大聖堂）",
+      "name": "Basilique Notre-Dame de la Garde",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "Iconic Neo-Byzantine basilica perched 150m above Marseille, topped by a golden statue of the Virgin Mary offering 360° Mediterranean panoramas.",
@@ -53,11 +53,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Basilique Notre-Dame de la Garde"
     },
     {
       "id": "ma_2",
-      "name": "Vieux-Port de Marseille & Ombrière（ヴュー ポール ド マルセイユ & オンブリエール）",
+      "name": "Vieux-Port de Marseille & Ombrière",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Historic harbor dating to 600 BC, featuring a daily morning fish market and Norman Foster's giant stainless steel mirror canopy.",
@@ -107,11 +108,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Vieux-Port de Marseille & Ombrière"
     },
     {
       "id": "ma_3",
-      "name": "Cathédrale de la Major（大聖堂）",
+      "name": "Cathédrale de la Major",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Monumental 19th-century Neo-Byzantine cathedral adorned with distinctive green and white marble stripes overlooking the sea.",
@@ -160,11 +162,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cathédrale de la Major"
     },
     {
       "id": "ma_4",
-      "name": "Fort Saint-Jean（フォート・サン・ジャン）",
+      "name": "Fort Saint-Jean",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "17th-century harbor fortress built by Louis XIV, connected to MuCEM by a dramatic high-altitude pedestrian footbridge.",
@@ -213,11 +216,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fort Saint-Jean"
     },
     {
       "id": "ma_5",
-      "name": "Fort Saint-Nicolas（フォート・セント・ニコラス）",
+      "name": "Fort Saint-Nicolas",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Star-shaped citadel standing opposite Fort Saint-Jean, guarding the entrance to the Old Port.",
@@ -266,11 +270,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fort Saint-Nicolas"
     },
     {
       "id": "ma_6",
-      "name": "Palais Longchamp（パレ ロンシャン）",
+      "name": "Palais Longchamp",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Grand 19th-century palace built to celebrate the Durance canal, featuring cascading fountains, colonnaded wings, and lush gardens.",
@@ -320,11 +325,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Palais Longchamp"
     },
     {
       "id": "ma_7",
-      "name": "Cité Radieuse Le Corbusier（シテ・ラデューズ・ル・コルビュジエ（ユニテ・ダビタシオン）",
+      "name": "Cité Radieuse Le Corbusier",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "UNESCO-listed modernist residential housing block designed by Le Corbusier, featuring a public roof terrace, hotel, and design shops.",
@@ -375,11 +381,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Cité Radieuse Le Corbusier"
     },
     {
       "id": "ma_8",
-      "name": "Abbaye Saint-Victor（サン ヴィクトール修道院）",
+      "name": "Abbaye Saint-Victor",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Fortified 5th-century abbey, one of the oldest Christian sites in France, housing early Christian sarcophagi in its crypt.",
@@ -428,11 +435,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Abbaye Saint-Victor"
     },
     {
       "id": "ma_9",
-      "name": "Orange Vélodrome Stadium（オレンジ ヴェロドローム スタジアム）",
+      "name": "Orange Vélodrome Stadium",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "State-of-the-art home stadium of Olympique de Marseille (OM), famous for its undulating white translucent roof.",
@@ -481,11 +489,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Orange Vélodrome Stadium"
     },
     {
       "id": "ma_10",
-      "name": "Château d'If（イフ島要塞）",
+      "name": "Château d'If",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Island fortress prison made famous as the setting of Alexandre Dumas' novel 'The Count of Monte Cristo'.",
@@ -534,11 +543,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Château d'If"
     },
     {
       "id": "ma_11",
-      "name": "Château de la Buzine（「母の城」）",
+      "name": "Château de la Buzine",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "19th-century estate made famous by writer Marcel Pagnol's memoirs, now a cultural center dedicated to Mediterranean cinema.",
@@ -587,11 +597,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Château de la Buzine"
     },
     {
       "id": "ma_12",
-      "name": "MuCEM（ヨーロッパ地中海文明博物館）",
+      "name": "MuCEM",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "desc": "Striking seafront museum designed by Rudy Ricciotti with intricate lattice concrete walls, dedicated to Mediterranean culture.",
@@ -641,11 +652,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "MuCEM"
     },
     {
       "id": "ma_13",
-      "name": "Grotte Cosquer（地中海コスケール）",
+      "name": "Grotte Cosquer",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "High-tech immersive replica of the prehistoric Cosquer cave, showcasing underwater cave paintings discovered 37m deep in the Calanques.",
@@ -694,11 +706,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grotte Cosquer"
     },
     {
       "id": "ma_14",
-      "name": "Musée d'Histoire de Marseille & Jardin des Vestiges（マルセイユ歴史博物館と歴史庭園）",
+      "name": "Musée d'Histoire de Marseille & Jardin des Vestiges",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "City history museum attached to ancient Greek and Roman port ruins, displaying 2,600 years of Marseille urban archaeology.",
@@ -748,11 +761,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée d'Histoire de Marseille & Jardin des Vestiges"
     },
     {
       "id": "ma_15",
-      "name": "Musée des Beaux-Arts de Marseille（マルセイユ美術館）",
+      "name": "Musée des Beaux-Arts de Marseille",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Fine arts museum inside Palais Longchamp wing displaying 16th–19th century French and Italian master paintings.",
@@ -801,11 +815,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Beaux-Arts de Marseille"
     },
     {
       "id": "ma_16",
-      "name": "Musée Cantini（カンティーニ美術館）",
+      "name": "Musée Cantini",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Housed in a 17th-century mansion, featuring modern art and Surrealist collections by Picasso, Ernst, Miró, and Giacometti.",
@@ -854,11 +869,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Cantini"
     },
     {
       "id": "ma_17",
-      "name": "MAC（現代美術館）",
+      "name": "MAC",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Contemporary art museum exhibiting major Pop Art, Nouveau Réalisme, and Arte Povera movements from the 1960s onward.",
@@ -907,11 +923,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "MAC"
     },
     {
       "id": "ma_18",
-      "name": "Muséum d'Histoire Naturelle de Marseille（マルセイユ自然歴史博物館）",
+      "name": "Muséum d'Histoire Naturelle de Marseille",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Natural history museum inside Palais Longchamp showcasing rich Provençal paleontology specimens, minerals, and zoology.",
@@ -962,11 +979,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Muséum d'Histoire Naturelle de Marseille"
     },
     {
       "id": "ma_19",
-      "name": "Friche la Belle de Mai（フリッシュ・ラ・ベル・ド・メ）",
+      "name": "Friche la Belle de Mai",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Vast creative arts complex inside a former tobacco factory, featuring art galleries, rooftop terrace bar, and skatepark.",
@@ -1018,11 +1036,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Friche la Belle de Mai"
     },
     {
       "id": "ma_20",
-      "name": "Musée de la Faïence（Château Borély）",
+      "name": "Musée de la Faïence",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Ceramics museum in Château Borély displaying 17th–18th century Marseille tin-glazed faience pottery and earthenware.",
@@ -1049,7 +1068,7 @@
       "tip_fr": "Installé dans le Château Borély : céramiques d'art de Marseille du XVIIIe siècle et pièces de haute couture.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Musée de la Faïence (Château Borély)",
-      "name_ja": "Musée de la Faïence（Château Borély）",
+      "name_ja": "Musée de la Faïence",
       "name_es": "Musée de la Faïence (Château Borély)",
       "name_zh": "Musée de la Faïence (博雷利城堡)",
       "name_fr": "Musée de la Faïence (Château Borély)",
@@ -1071,11 +1090,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée de la Faïence"
     },
     {
       "id": "ma_21",
-      "name": "Chez Fonfon（シェ・フォンフォン（ヴァロン・デ・オーフ）",
+      "name": "Chez Fonfon",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Iconic cove restaurant enforcing the authentic Bouillabaisse Charter, serving legendary fish stew right by the water.",
@@ -1124,11 +1144,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Chez Fonfon"
     },
     {
       "id": "ma_22",
-      "name": "Le Miramar（ル ミラマール）",
+      "name": "Le Miramar",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Historic Old Port restaurant renowned for authentic bouillabaisse and fresh Mediterranean seafood platters.",
@@ -1178,11 +1199,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Miramar"
     },
     {
       "id": "ma_23",
-      "name": "Marché aux Poissons du Vieux-Port（旧港の魚市場）",
+      "name": "Marché aux Poissons du Vieux-Port",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Vibrant traditional morning fish market along the Old Port where local fishermen sell fresh catch directly from boats.",
@@ -1232,11 +1254,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Marché aux Poissons du Vieux-Port"
     },
     {
       "id": "ma_24",
-      "name": "Marché de Noailles（マルシェ・ド・ノアイユ（カプサン市場）",
+      "name": "Marché de Noailles",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Multi-ethnic street market scented with North African spices, fresh mint, herbs, and Middle Eastern baklava pastries.",
@@ -1287,11 +1310,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Marché de Noailles"
     },
     {
       "id": "ma_25",
-      "name": "Four des Navettes（フール デ ナベット）",
+      "name": "Four des Navettes",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Marseille's oldest bakery (1781) famous for baking boat-shaped orange blossom scented Navette biscuits.",
@@ -1341,11 +1365,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Four des Navettes"
     },
     {
       "id": "ma_26",
-      "name": "La Samaritaine & Café de la Banque（ラ・サマリテーヌ＆カフェ・ド・ラ・バンク）",
+      "name": "La Samaritaine & Café de la Banque",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Classic harbourfront cafe terrace serving chilled Pastis anise aperitifs overlooking the Old Port.",
@@ -1396,11 +1421,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "La Samaritaine & Café de la Banque"
     },
     {
       "id": "ma_27",
-      "name": "Maison de la Boule & Savonneries Marseillaises（メゾン ド ラ ブール エ サヴォヌリー マルセイエーズ）",
+      "name": "Maison de la Boule & Savonneries Marseillaises",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Artisanal boutiques in Le Panier showcasing petanque ball history and authentic olive oil Savon de Marseille soaps.",
@@ -1451,11 +1477,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Maison de la Boule & Savonneries Marseillaises"
     },
     {
       "id": "ma_28",
-      "name": "L'Épuisette（レピュイゼット）",
+      "name": "L'Épuisette",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Michelin-starred seafood gastronomy perched dramatically on a rock promontory in Vallon des Auffes with panoramic sea views.",
@@ -1505,11 +1532,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "L'Épuisette"
     },
     {
       "id": "ma_29",
-      "name": "Le Panier（ル パニエ (旧市街）",
+      "name": "Le Panier",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Marseille's oldest neighborhood filled with steep cobblestone alleys, colorful street murals, and artisan workshops.",
@@ -1558,11 +1586,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Panier"
     },
     {
       "id": "ma_30",
-      "name": "Vallon des Auffes（ヴァロン・デ・ゾフ漁港）",
+      "name": "Vallon des Auffes",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Picturesque fishing cove tucked beneath a stone bridge arch, filled with traditional wooden pointu boats.",
@@ -1611,11 +1640,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Vallon des Auffes"
     },
     {
       "id": "ma_31",
-      "name": "Corniche du Président John F. Kennedy（コーニッシュ デュ プレジデント ジョン F. ケネディ）",
+      "name": "Corniche du Président John F. Kennedy",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Scenic coastal boulevard offering sweeping sea views and home to one of the world's longest seaside benches (3km).",
@@ -1665,11 +1695,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Corniche du Président John F. Kennedy"
     },
     {
       "id": "ma_32",
-      "name": "Cours Julien（クール ジュリアン）",
+      "name": "Cours Julien",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Bohemian artistic quarter covered in vivid street art graffiti, thrift stores, indie music venues, and cafe terraces.",
@@ -1720,11 +1751,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cours Julien"
     },
     {
       "id": "ma_33",
-      "name": "Vieille Charité（ヴィエイユ シャリテ）",
+      "name": "Vieille Charité",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Architectural gem designed by Pierre Puget in 1671, featuring a central domed chapel and three tiers of arcaded arcades.",
@@ -1774,11 +1806,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Vieille Charité"
     },
     {
       "id": "ma_34",
-      "name": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves（プレイス オ ユイル & クール オノレ デスティエンヌ ドルヴ）",
+      "name": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Italianate pedestrian square lined with lively restaurant terraces near the Old Port.",
@@ -1829,11 +1862,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place aux Huiles & Cours Honoré-d'Estienne-d'Orves"
     },
     {
       "id": "ma_35",
-      "name": "Parc National des Calanques（カランク国立公園）",
+      "name": "Parc National des Calanques",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "desc": "Breathtaking national park of steep limestone sea cliffs and turquoise fjord inlets stretching from Marseille to Cassis.",
@@ -1884,11 +1918,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Parc National des Calanques"
     },
     {
       "id": "ma_36",
-      "name": "Îles du Frioul（フリウル島 (フリウル諸島）",
+      "name": "Îles du Frioul",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Car-free archipelago 20 mins by ferry from Old Port, offering pristine coves, turquoise swimming spots, and walking trails.",
@@ -1937,11 +1972,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Îles du Frioul"
     },
     {
       "id": "ma_37",
-      "name": "Les Goudes & Cap Croisette（レ・グード＆キャップ・クロワゼット (「エンド・オブ・ザ・ワールド」）",
+      "name": "Les Goudes & Cap Croisette",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Wild rocky promontory and tiny fishing village at Marseille's southern tip, affectionately known as 'the end of the world'.",
@@ -1990,11 +2026,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Les Goudes & Cap Croisette"
     },
     {
       "id": "ma_38",
-      "name": "Parc Borély & Jardin Botanique（ボレリー公園と植物園）",
+      "name": "Parc Borély & Jardin Botanique",
       "category": "Kids & Family",
       "rating": "★4.8",
       "desc": "Vast 54-hectare park featuring a boating lake, rose garden, 4-seater surrey bike rentals, and Botanical Garden.",
@@ -2045,11 +2082,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Parc Borély & Jardin Botanique"
     },
     {
       "id": "ma_39",
-      "name": "Le Petit Train de Marseille（ル プティ トラン ドゥ マルセイユ）",
+      "name": "Le Petit Train de Marseille",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "Fun tourist road train departing from Old Port along the coastal road up to Notre-Dame de la Garde.",
@@ -2099,11 +2137,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Petit Train de Marseille"
     },
     {
       "id": "ma_40",
-      "name": "Croisières du Vieux-Port（カランク ボート ツアー）",
+      "name": "Croisières du Vieux-Port",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "Sightseeing boat cruises departing Old Port to explore Château d'If and the majestic sea cliffs of the Calanques.",
@@ -2154,11 +2193,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Croisières du Vieux-Port"
     },
     {
       "id": "ma_41",
-      "name": "Plage du Prado & Park（プラージュ デュ プラド & パーク）",
+      "name": "Plage du Prado & Park",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "Expansive coastal beach park featuring sandy shores, grassy lawns, splash areas, and a famous skate park bowl.",
@@ -2208,11 +2248,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Plage du Prado & Park"
     },
     {
       "id": "ma_42",
-      "name": "Magic Park Land（マジックパークランド）",
+      "name": "Magic Park Land",
       "category": "Kids & Family",
       "rating": "★4.5",
       "desc": "Family amusement park near Marseille with Western-themed rides, roller coasters, and live shows.",
@@ -2262,11 +2303,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Magic Park Land"
     },
     {
       "id": "ma_43",
-      "name": "Parc de Figuerolles（フィゲロール公園）",
+      "name": "Parc de Figuerolles",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "Large suburban nature park offering pony rides, an educational farm, tree-top adventure courses, and picnic areas.",
@@ -2317,7 +2359,8 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Parc de Figuerolles"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "spots": [
     {
       "id": "dr_1",
-      "name": "Frauenkirche Dresden（ドレスデン聖母教会）",
+      "name": "Frauenkirche Dresden",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "city",
@@ -53,11 +53,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Frauenkirche Dresden"
     },
     {
       "id": "dr_2",
-      "name": "Dresdner Zwinger（ツヴィンガー宮殿）",
+      "name": "Dresdner Zwinger",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -106,11 +107,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Dresdner Zwinger"
     },
     {
       "id": "dr_3",
-      "name": "Gemäldegalerie Alte Meister（アルテ・マイスター絵画館）",
+      "name": "Gemäldegalerie Alte Meister",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -157,11 +159,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Gemäldegalerie Alte Meister"
     },
     {
       "id": "dr_4",
-      "name": "Mathematisch-Physikalischer Salon（数学物理学サロン）",
+      "name": "Mathematisch-Physikalischer Salon",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -208,11 +211,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mathematisch-Physikalischer Salon"
     },
     {
       "id": "dr_5",
-      "name": "Dresdner Porzellansammlung（ドレスデン陶磁器コレクション）",
+      "name": "Dresdner Porzellansammlung",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "locationZone": "city",
@@ -257,11 +261,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dresdner Porzellansammlung"
     },
     {
       "id": "dr_6",
-      "name": "Residenzschloss Dresden（ドレスデン城）",
+      "name": "Residenzschloss Dresden",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -309,11 +314,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Residenzschloss Dresden"
     },
     {
       "id": "dr_7",
-      "name": "Grünes Gewölbe（緑の丸天井）",
+      "name": "Grünes Gewölbe",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -361,11 +367,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Grünes Gewölbe"
     },
     {
       "id": "dr_8",
-      "name": "Türckische Cammer & Rüstkammer（トルコ小部屋＆軍事・甲冑博物館）",
+      "name": "Türckische Cammer & Rüstkammer",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -410,11 +417,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Türckische Cammer & Rüstkammer"
     },
     {
       "id": "dr_9",
-      "name": "Fürstenzug（君主の行列）",
+      "name": "Fürstenzug",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -462,11 +470,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fürstenzug"
     },
     {
       "id": "dr_10",
-      "name": "Semperoper Dresden（ゼンパー・オーパー）",
+      "name": "Semperoper Dresden",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -512,11 +521,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Semperoper Dresden"
     },
     {
       "id": "dr_11",
-      "name": "Katholische Hofkirche（ドレスデン宮廷教会 / カテドラル）",
+      "name": "Katholische Hofkirche",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -564,11 +574,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Katholische Hofkirche"
     },
     {
       "id": "dr_12",
-      "name": "Brühlsche Terrasse（ブリュールのテラス）",
+      "name": "Brühlsche Terrasse",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -615,11 +626,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Brühlsche Terrasse"
     },
     {
       "id": "dr_13",
-      "name": "Dresdner Neumarkt（ノイマルクト広場）",
+      "name": "Dresdner Neumarkt",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -668,11 +680,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Dresdner Neumarkt"
     },
     {
       "id": "dr_14",
-      "name": "Dresdner Altmarkt（アルトマルクト広場 / シュトリーツェルマルクト）",
+      "name": "Dresdner Altmarkt",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -717,11 +730,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dresdner Altmarkt"
     },
     {
       "id": "dr_15",
-      "name": "Kreuzkirche Dresden（ドレスデン聖十字架教会）",
+      "name": "Kreuzkirche Dresden",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -767,11 +781,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Kreuzkirche Dresden"
     },
     {
       "id": "dr_16",
-      "name": "Dresdner Molkerei Gebrüder Pfund（Pfunds Molkerei）",
+      "name": "Dresdner Molkerei Gebrüder Pfund",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -802,7 +817,7 @@
       "price_fr": "Entrée libre (Verre de Buttermilch env. 2 €)",
       "price_de": "Eintritt frei (Glas Buttermilch ca. 2 €)",
       "name_en": "Dresdner Molkerei Gebrüder Pfund (The World's Most Beautiful Milk Shop)",
-      "name_ja": "Dresdner Molkerei Gebrüder Pfund（Pfunds Molkerei）",
+      "name_ja": "Dresdner Molkerei Gebrüder Pfund",
       "name_es": "Dresdner Molkerei Gebrüder Pfund (La Lechería más Bonita del Mundo)",
       "name_zh": "Dresdner Molkerei Gebrüder Pfund (普夫恩德牛奶店 / 世界上最美的牛奶店)",
       "name_fr": "Dresdner Molkerei Gebrüder Pfund (La Plus Belle Laiterie du Monde)",
@@ -818,11 +833,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dresdner Molkerei Gebrüder Pfund"
     },
     {
       "id": "dr_17",
-      "name": "Kunsthofpassage（Dresden-Neustadt）",
+      "name": "Kunsthofpassage",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -853,7 +869,7 @@
       "price_fr": "Accès libre",
       "price_de": "Kostenlos",
       "name_en": "Kunsthofpassage (Art Courtyards Passage)",
-      "name_ja": "Kunsthofpassage（Dresden-Neustadt）",
+      "name_ja": "Kunsthofpassage",
       "name_es": "Kunsthofpassage (Pasaje de los Patios del Arte)",
       "name_zh": "Kunsthofpassage (艺术庭院通廊)",
       "name_fr": "Kunsthofpassage (Passage des Cours de l'Art)",
@@ -869,11 +885,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kunsthofpassage"
     },
     {
       "id": "dr_18",
-      "name": "Äußere Neustadt（アウター・ノイシュタット / ボヘミアン地区）",
+      "name": "Äußere Neustadt",
       "category": "Shopping",
       "rating": "★4.6",
       "locationZone": "city",
@@ -921,11 +938,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Äußere Neustadt"
     },
     {
       "id": "dr_19",
-      "name": "Goldener Reiter（黄金の騎士像）",
+      "name": "Goldener Reiter",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -971,11 +989,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Goldener Reiter"
     },
     {
       "id": "dr_20",
-      "name": "Großer Garten & Dresdner Parkeisenbahn（グローサー・ガルテン＆ドレスデン公園鉄道）",
+      "name": "Großer Garten & Dresdner Parkeisenbahn",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1022,11 +1041,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Großer Garten & Dresdner Parkeisenbahn"
     },
     {
       "id": "dr_21",
-      "name": "Sommerpalais（Palais im Großen Garten）",
+      "name": "Sommerpalais",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1057,7 +1077,7 @@
       "price_fr": "Extérieur libre (Expositions payantes)",
       "price_de": "Außenbereich frei (Ausstellungen/Konzerte separat)",
       "name_en": "Sommerpalais (Palais im Großen Garten)",
-      "name_ja": "Sommerpalais（Palais im Großen Garten）",
+      "name_ja": "Sommerpalais",
       "name_es": "Sommerpalais (Palacio del Gran Jardín)",
       "name_zh": "Sommerpalais (大花园宫殿)",
       "name_fr": "Sommerpalais (Palais du Grand Jardin)",
@@ -1076,11 +1096,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Sommerpalais"
     },
     {
       "id": "dr_22",
-      "name": "Zoo Dresden（ドレスデン動物園）",
+      "name": "Zoo Dresden",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1128,11 +1149,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zoo Dresden"
     },
     {
       "id": "dr_23",
-      "name": "Botanischer Garten der TU Dresden（ドレスデン工科大学植物園）",
+      "name": "Botanischer Garten der TU Dresden",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1176,11 +1198,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Botanischer Garten der TU Dresden"
     },
     {
       "id": "dr_24",
-      "name": "Deutsches Hygiene-Museum（ドイツ衛生博物館）",
+      "name": "Deutsches Hygiene-Museum",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1227,11 +1250,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Hygiene-Museum"
     },
     {
       "id": "dr_25",
-      "name": "Militärhistorisches Museum der Bundeswehr（MHM）",
+      "name": "Militärhistorisches Museum der Bundeswehr",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1262,7 +1286,7 @@
       "price_fr": "Adultes : 5 € / Réduit : 3 € / Gratuit le lundi de 18h à 21h",
       "price_de": "Erwachsene: 5 € / Ermäßigt: 3 € / Montags 18–21 Uhr frei",
       "name_en": "Militärhistorisches Museum der Bundeswehr (Bundeswehr Military History Museum)",
-      "name_ja": "Militärhistorisches Museum der Bundeswehr（MHM）",
+      "name_ja": "Militärhistorisches Museum der Bundeswehr",
       "name_es": "Militärhistorisches Museum der Bundeswehr (Museo de Historia Militar de la Bundeswehr)",
       "name_zh": "Militärhistorisches Museum der Bundeswehr (德国联邦军军事史博物馆)",
       "name_fr": "Militärhistorisches Museum der Bundeswehr (Musée d'Histoire Militaire de la Bundeswehr)",
@@ -1277,11 +1301,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Militärhistorisches Museum der Bundeswehr"
     },
     {
       "id": "dr_26",
-      "name": "Panometer Dresden（パノメーター・ドレスデン）",
+      "name": "Panometer Dresden",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1329,11 +1354,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Panometer Dresden"
     },
     {
       "id": "dr_27",
-      "name": "Albertinum（アルベルティヌム / 近代名画館・彫刻館）",
+      "name": "Albertinum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1379,11 +1405,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Albertinum"
     },
     {
       "id": "dr_28",
-      "name": "Verkehrsmuseum Dresden（Johanneum）",
+      "name": "Verkehrsmuseum Dresden",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1414,7 +1441,7 @@
       "price_fr": "Adultes : 11 € / Réduit : 5 € / Famille : 22 €",
       "price_de": "Erwachsene: 11 € / Ermäßigt: 5 € / Familienkarte: 22 €",
       "name_en": "Verkehrsmuseum Dresden (Dresden Transport Museum)",
-      "name_ja": "Verkehrsmuseum Dresden（Johanneum）",
+      "name_ja": "Verkehrsmuseum Dresden",
       "name_es": "Verkehrsmuseum Dresden (Museo del Transporte de Dresde)",
       "name_zh": "Verkehrsmuseum Dresden (德累斯顿交通博物馆)",
       "name_fr": "Verkehrsmuseum Dresden (Musée des Transports de Dresde)",
@@ -1430,11 +1457,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Verkehrsmuseum Dresden"
     },
     {
       "id": "dr_29",
-      "name": "Gläserne Manufaktur（Volkswagen）",
+      "name": "Gläserne Manufaktur",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1465,7 +1493,7 @@
       "price_fr": "Visite guidée : 9 € / Réduit : 6 € / Famille : 20 €",
       "price_de": "Führung: 9 € / Ermäßigt: 6 € / Familienkarte: 20 €",
       "name_en": "Gläserne Manufaktur (Volkswagen Transparent Factory)",
-      "name_ja": "Gläserne Manufaktur（Volkswagen）",
+      "name_ja": "Gläserne Manufaktur",
       "name_es": "Gläserne Manufaktur (Fábrica Cristalina de Volkswagen)",
       "name_zh": "Gläserne Manufaktur (大众汽车透明工厂)",
       "name_fr": "Gläserne Manufaktur (Usine Vitrée Volkswagen)",
@@ -1480,11 +1508,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Gläserne Manufaktur"
     },
     {
       "id": "dr_30",
-      "name": "Sächsische Dampfschiffahrt（エルベ川蒸気船クルーズ）",
+      "name": "Sächsische Dampfschiffahrt",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1532,11 +1561,12 @@
         "Scenery",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Sächsische Dampfschiffahrt"
     },
     {
       "id": "dr_31",
-      "name": "Loschwitz & Blaues Wunder（Loschwitzer Brücke）",
+      "name": "Loschwitz & Blaues Wunder",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1567,7 +1597,7 @@
       "price_fr": "Promenade pont et quartier : Gratuit",
       "price_de": "Brückenüberquerung & Areal frei",
       "name_en": "Loschwitz & Blaues Wunder (Blaues Wunder)",
-      "name_ja": "Loschwitz & Blaues Wunder（Loschwitzer Brücke）",
+      "name_ja": "Loschwitz & Blaues Wunder",
       "name_es": "Loschwitz & Blaues Wunder (Distrito de Loschwitz y Puente Milagro Azul)",
       "name_zh": "Loschwitz & Blaues Wunder (洛斯维茨街区与蓝色奇迹大桥)",
       "name_fr": "Loschwitz & Blaues Wunder (Quartier Loschwitz et Pont du Miracle Bleu)",
@@ -1581,11 +1611,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Loschwitz & Blaues Wunder"
     },
     {
       "id": "dr_32",
-      "name": "Standseilbahn Dresden & Schwebebahn Dresden（ドレスデンケーブルカー＆懸垂式モノレール）",
+      "name": "Standseilbahn Dresden & Schwebebahn Dresden",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1629,11 +1660,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Standseilbahn Dresden & Schwebebahn Dresden"
     },
     {
       "id": "dr_33",
-      "name": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg（エルベ高台の三宮殿）",
+      "name": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1678,11 +1710,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Albrechtsberg, Lingnerschloss & Schloss Eckberg"
     },
     {
       "id": "dr_34",
-      "name": "Prager Straße（プラーガー通り歩行者天国）",
+      "name": "Prager Straße",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1730,11 +1763,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Prager Straße"
     },
     {
       "id": "dr_35",
-      "name": "Altmarkt-Galerie Dresden（アルトマルクト・ギャラリー・ショッピングモール）",
+      "name": "Altmarkt-Galerie Dresden",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1780,11 +1814,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Altmarkt-Galerie Dresden"
     },
     {
       "id": "dr_36",
-      "name": "Kutscherschänke & Pulverturm an der Frauenkirche（聖母教会横の伝統居酒屋＆火薬塔レストラン）",
+      "name": "Kutscherschänke & Pulverturm an der Frauenkirche",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1830,11 +1865,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Kutscherschänke & Pulverturm an der Frauenkirche"
     },
     {
       "id": "dr_37",
-      "name": "Sophienkeller im Taschenbergpalais（タッシェンベルク宮殿地下ゾフィエンケラー）",
+      "name": "Sophienkeller im Taschenbergpalais",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1880,11 +1916,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Sophienkeller im Taschenbergpalais"
     },
     {
       "id": "dr_38",
-      "name": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais（ドレスデン名物アイアーシェッケ＆シュトレン）",
+      "name": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1930,11 +1967,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dresdner Eierschecke & Stollen: Café Kreutzkamm & Coselpalais"
     },
     {
       "id": "dr_39",
-      "name": "Yenidze（イェニツェ / 旧オリエンタル風タバコ工場）",
+      "name": "Yenidze",
       "category": "Landmark",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1980,11 +2018,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Yenidze"
     },
     {
       "id": "dr_40",
-      "name": "Lingnerstadt & Blüherpark（リングナーシュタット＆ブリューアー公園）",
+      "name": "Lingnerstadt & Blüherpark",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2033,11 +2072,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Lingnerstadt & Blüherpark"
     },
     {
       "id": "dr_41",
-      "name": "Nationalpark Sächsische Schweiz & Basteibrücke（Rathen）",
+      "name": "Nationalpark Sächsische Schweiz & Basteibrücke",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2068,7 +2108,7 @@
       "price_fr": "Parc et pont : Gratuit / Traversée en bac : 2,50 €",
       "price_de": "Nationalpark & Basteibrücke frei / Fähre einfach: 2,50 €",
       "name_en": "Nationalpark Sächsische Schweiz & Basteibrücke (Sächsische Schweiz & Basteibrücke)",
-      "name_ja": "Nationalpark Sächsische Schweiz & Basteibrücke（Rathen）",
+      "name_ja": "Nationalpark Sächsische Schweiz & Basteibrücke",
       "name_es": "Nationalpark Sächsische Schweiz & Basteibrücke (Parque Nacional de la Suiza Sajona y Puente Bastei)",
       "name_zh": "Nationalpark Sächsische Schweiz & Basteibrücke (萨克森小瑞士国家公园与巴斯泰石桥)",
       "name_fr": "Nationalpark Sächsische Schweiz & Basteibrücke (Parc National de la Suisse Saxonne et Pont de Bastei)",
@@ -2083,11 +2123,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Nationalpark Sächsische Schweiz & Basteibrücke"
     },
     {
       "id": "dr_42",
-      "name": "Festung Königstein（ケーニヒシュタイン要塞）",
+      "name": "Festung Königstein",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2134,11 +2175,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Festung Königstein"
     },
     {
       "id": "dr_43",
-      "name": "Schloss Moritzburg & Fasanenschlösschen（モーリッツブルク城＆キジ館）",
+      "name": "Schloss Moritzburg & Fasanenschlösschen",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2187,11 +2229,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Schloss Moritzburg & Fasanenschlösschen"
     },
     {
       "id": "dr_44",
-      "name": "Porzellanmanufaktur Meissen & Erlebniswelt（Meißen）",
+      "name": "Porzellanmanufaktur Meissen & Erlebniswelt",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2222,7 +2265,7 @@
       "price_fr": "Billet Erlebniswelt : 12 € / Réduit : 10 € / Famille : 29 €",
       "price_de": "Erlebniswelt Ticket: 12 € / Ermäßigt: 10 € / Familie: 29 €",
       "name_en": "Porzellanmanufaktur Meissen & Erlebniswelt (Porzellanmanufaktur Meissen)",
-      "name_ja": "Porzellanmanufaktur Meissen & Erlebniswelt（Meißen）",
+      "name_ja": "Porzellanmanufaktur Meissen & Erlebniswelt",
       "name_es": "Porzellanmanufaktur Meissen & Erlebniswelt (Manufactura de Porcelana de Meissen)",
       "name_zh": "Porzellanmanufaktur Meissen & Erlebniswelt (迈森瓷器工坊与瓷器博物馆)",
       "name_fr": "Porzellanmanufaktur Meissen & Erlebniswelt (Manufacture de Porcelaine de Meissen)",
@@ -2239,11 +2282,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Porzellanmanufaktur Meissen & Erlebniswelt"
     },
     {
       "id": "dr_45",
-      "name": "Albrechtsburg Meißen & Dom zu Meißen（Meißen）",
+      "name": "Albrechtsburg Meißen & Dom zu Meißen",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "suburban",
@@ -2274,7 +2318,7 @@
       "price_fr": "Château : 10 € / Cathédrale : 6,50 € / Combiné : 14,50 €",
       "price_de": "Albrechtsburg: 10 € / Dom: 6,50 € / Kombiticket: 14,50 €",
       "name_en": "Albrechtsburg Meißen & Dom zu Meißen (Albrechtsburg & Dom Meißen)",
-      "name_ja": "Albrechtsburg Meißen & Dom zu Meißen（Meißen）",
+      "name_ja": "Albrechtsburg Meißen & Dom zu Meißen",
       "name_es": "Albrechtsburg Meißen & Dom zu Meißen (Albrechtsburg Meißen & Catedral de Meissen)",
       "name_zh": "Albrechtsburg Meißen & Dom zu Meißen (阿尔布雷希特城与迈森大教堂)",
       "name_fr": "Albrechtsburg Meißen & Dom zu Meißen (Albrechtsburg Meißen & Cathédrale de Meissen)",
@@ -2288,7 +2332,8 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Albrechtsburg Meißen & Dom zu Meißen"
     }
   ],
   "spotCount": 45

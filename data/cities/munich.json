@@ -4,7 +4,7 @@
   "spots": [
     {
       "id": "m_1",
-      "name": "Marienplatz & New Town Hall（マリエン広場と新市庁舎（グロッケンシュピール）",
+      "name": "Marienplatz & New Town Hall",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Central square famous for Glockenspiel chime show & Neo-Gothic Rathaus facade.",
@@ -53,11 +53,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Marienplatz & New Town Hall"
     },
     {
       "id": "m_2",
-      "name": "Frauenkirche（フラウエン教会（聖母教会・悪魔の足跡）",
+      "name": "Frauenkirche",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Gothic brick cathedral featuring twin onion domes & legendary Devil's Footprint.",
@@ -106,11 +107,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Frauenkirche"
     },
     {
       "id": "m_3",
-      "name": "Munich Residenz & Treasury（ミュンヘン・レジデンツ（旧王宮・宝物館・キュビリエ劇場）",
+      "name": "Munich Residenz & Treasury",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Former royal palace of Wittelsbach monarchs with Antiquarium hall & Treasury.",
@@ -160,11 +162,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Munich Residenz & Treasury"
     },
     {
       "id": "m_4",
-      "name": "Nymphenburg Palace & Gardens（ニンフェンブルク城（宮殿・庭園・馬車博物館・磁器博物館）",
+      "name": "Nymphenburg Palace & Gardens",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Grand Baroque summer palace with swan canal, Marstallmuseum carriages & porcelain.",
@@ -220,11 +223,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Nymphenburg Palace & Gardens"
     },
     {
       "id": "m_5",
-      "name": "Deutsches Museum（ドイツ博物館（世界最大級の科学技術博物館）",
+      "name": "Deutsches Museum",
       "category": "Museum & Art",
       "rating": "★4.7",
       "desc": "World's largest museum of science and technology located on an island in the Isar.",
@@ -277,11 +281,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Museum"
     },
     {
       "id": "m_6",
-      "name": "Alte Pinakothek（アルテ・ピナコテーク（古典絵画館）",
+      "name": "Alte Pinakothek",
       "category": "Museum & Art",
       "rating": "★4.7",
       "desc": "World-class gallery housing Old Master paintings from Da Vinci to Dürer & Rubens.",
@@ -333,11 +338,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Alte Pinakothek"
     },
     {
       "id": "m_7",
-      "name": "Neue Pinakothek（ノイエ・ピナコテーク（19世紀絵画館）",
+      "name": "Neue Pinakothek",
       "category": "Museum & Art",
       "rating": "★4.6",
       "desc": "19th-century art gallery showcasing Impressionists (Van Gogh, Monet, Turner).",
@@ -389,11 +395,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neue Pinakothek"
     },
     {
       "id": "m_8",
-      "name": "Pinakothek der Moderne（ピナコテーク・デア・モデルネ（現代美術・建築・デザイン）",
+      "name": "Pinakothek der Moderne",
       "category": "Museum & Art",
       "rating": "★4.6",
       "desc": "Four museums under one roof: Modern Art, Architecture, Design (Die Neue Sammlung) & Works on Paper.",
@@ -445,11 +452,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Pinakothek der Moderne"
     },
     {
       "id": "m_9",
-      "name": "Museum Brandhorst（ブランドホルスト博物館（アンディ・ウォーホル、サイ・トゥオンブリー等）",
+      "name": "Museum Brandhorst",
       "category": "Museum & Art",
       "rating": "★4.5",
       "desc": "Colorful ceramic facade museum housing Andy Warhol & Cy Twombly masterworks.",
@@ -500,11 +508,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Brandhorst"
     },
     {
       "id": "m_10",
-      "name": "Städtische Galerie im Lenbachhaus（レンバッハハウス美術館（青騎士・カンディンスキー等）",
+      "name": "Städtische Galerie im Lenbachhaus",
       "category": "Museum & Art",
       "rating": "★4.6",
       "desc": "Florentine villa museum world-famous for Blue Rider (Der Blaue Reiter) & Kandinsky art.",
@@ -556,11 +565,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Städtische Galerie im Lenbachhaus"
     },
     {
       "id": "m_11",
-      "name": "BMW Museum & BMW Welt（BMW博物館＆BMWヴェルト）",
+      "name": "BMW Museum & BMW Welt",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "Futuristic automotive showcase & museum displaying legendary BMW cars & motorcycles.",
@@ -612,11 +622,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "BMW Museum & BMW Welt"
     },
     {
       "id": "m_12",
-      "name": "Englischer Garten & Eisbachwelle（英国庭園（アイスバッハのサーフィン・中国の塔ビアガーデン）",
+      "name": "Englischer Garten & Eisbachwelle",
       "category": "Scenery",
       "rating": "★4.8",
       "desc": "Vast urban park featuring Eisbach river surfers & Chinese Tower beer garden.",
@@ -669,11 +680,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Englischer Garten & Eisbachwelle"
     },
     {
       "id": "m_13",
-      "name": "Viktualienmarkt（ヴィクトアーリエンマルクト（屋外中央市場・グルメ屋台）",
+      "name": "Viktualienmarkt",
       "category": "Café & Dining",
       "rating": "★4.7",
       "desc": "Open-air food market operating since 1807 with gourmet stalls, cheeses & beer garden.",
@@ -726,11 +738,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Viktualienmarkt"
     },
     {
       "id": "m_14",
-      "name": "Hofbräuhaus am Platzl（ホフブロイハウス（世界一有名な老舗ビアホール）",
+      "name": "Hofbräuhaus am Platzl",
       "category": "Café & Dining",
       "rating": "★4.5",
       "desc": "World's most famous beer hall operating since 1589 with brass bands & 1L Maß mugs.",
@@ -782,11 +795,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hofbräuhaus am Platzl"
     },
     {
       "id": "m_15",
-      "name": "Augustiner-Keller & Stammhaus（アウグスティナー・ケラー（ミュンヘン最古の醸造所ビアガーデン）",
+      "name": "Augustiner-Keller & Stammhaus",
       "category": "Café & Dining",
       "rating": "★4.6",
       "desc": "Munich's oldest brewery restaurant & 5000-seat chestnut shade beer garden.",
@@ -840,11 +854,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Augustiner-Keller & Stammhaus"
     },
     {
       "id": "m_16",
-      "name": "Olympiapark München & Olympiaturm（オリンピアパーク＆オリンピアタワー（展望塔）",
+      "name": "Olympiapark München & Olympiaturm",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "1972 Olympic park with iconic tent roof architecture & 291m observation tower.",
@@ -896,11 +911,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Olympiapark München & Olympiaturm"
     },
     {
       "id": "m_17",
-      "name": "Allianz Arena & FC Bayern Museum（アリアンツ・アレーナ（FCバイエルン本拠地＆博物館）",
+      "name": "Allianz Arena & FC Bayern Museum",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Futuristic color-changing stadium home to FC Bayern Munich with club museum.",
@@ -953,11 +969,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Allianz Arena & FC Bayern Museum"
     },
     {
       "id": "m_18",
-      "name": "Tierpark Hellabrunn（ヘラブルン動物園（世界初のジオズー・自然地理的動物園）",
+      "name": "Tierpark Hellabrunn",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "World's first Geo-zoo (1911) set in a lush Isar river nature reserve.",
@@ -1010,11 +1027,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tierpark Hellabrunn"
     },
     {
       "id": "m_19",
-      "name": "Sea Life München（シーライフ・ミュンヘン（オリンピアパーク内水族館）",
+      "name": "Sea Life München",
       "category": "Landmark",
       "rating": "★4.3",
       "desc": "Indoor aquarium in Olympiapark featuring tropical sharks, rays & ocean tunnel.",
@@ -1068,11 +1086,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Sea Life München"
     },
     {
       "id": "m_20",
-      "name": "St. Peter's Church（聖ペーター教会（オルター・ペーター / 最古の教会・市内展望塔）",
+      "name": "St. Peter's Church",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Munich's oldest parish church (1181) with 306-step tower offer classic skyline views.",
@@ -1124,11 +1143,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Peter's Church"
     },
     {
       "id": "m_21",
-      "name": "Asamkirche（アザム教会（聖ヨハン・ネポムク教会・ロココ建築の至宝）",
+      "name": "Asamkirche",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "Bavarian Late Baroque & Rococo masterpiece tucked tightly between historic houses.",
@@ -1181,11 +1201,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Asamkirche"
     },
     {
       "id": "m_22",
-      "name": "Theatinerkirche（テアティーナー教会（オデオン広場の黄色いイタリアン・バロック教会）",
+      "name": "Theatinerkirche",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Striking yellow Italian High Baroque church facing Odeonsplatz.",
@@ -1238,11 +1259,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Theatinerkirche"
     },
     {
       "id": "m_23",
-      "name": "Odeonsplatz & Feldherrnhalle（オデオン広場＆将軍堂（Feldherrnhalle）",
+      "name": "Odeonsplatz & Feldherrnhalle",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Italianate plaza featuring Feldherrnhalle monument & Hofgarten palace gardens.",
@@ -1294,11 +1316,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Odeonsplatz & Feldherrnhalle"
     },
     {
       "id": "m_24",
-      "name": "Kaufingerstraße & Neuhauser Straße（カウフィンガー通り＆ノイハウザー通り（歩行者天国ショッピング街）",
+      "name": "Kaufingerstraße & Neuhauser Straße",
       "category": "Scenery",
       "rating": "★4.6",
       "desc": "Munich's primary pedestrian shopping boulevard stretching between Karlsplatz & Marienplatz.",
@@ -1351,11 +1374,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kaufingerstraße & Neuhauser Straße"
     },
     {
       "id": "m_25",
-      "name": "Maximilianstraße（マクシミリアン通り（ハイブランド・高級ブティック街）",
+      "name": "Maximilianstraße",
       "category": "Scenery",
       "rating": "★4.5",
       "desc": "Exclusive luxury shopping avenue lined with haute couture boutiques & Maximilianeum.",
@@ -1407,11 +1431,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Maximilianstraße"
     },
     {
       "id": "m_26",
-      "name": "Kaufingertor & FÜNF HÖFE（フュンフ・ヘーフェ（FÜNF HÖFE / 洗練された屋内パサージュ・ショッピングモール）",
+      "name": "Kaufingertor & FÜNF HÖFE",
       "category": "Scenery",
       "rating": "★4.6",
       "desc": "Sophisticated five-courtyard shopping arcade designed by Herzog & de Meuron with hanging plants.",
@@ -1463,11 +1488,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kaufingertor & FÜNF HÖFE"
     },
     {
       "id": "m_27",
-      "name": "Botanischer Garten München-Nymphenburg（ミュンヘン＝ニンフェンブルク植物園（大温室）",
+      "name": "Botanischer Garten München-Nymphenburg",
       "category": "Scenery",
       "rating": "★4.7",
       "desc": "Lush 53-acre botanical garden adjacent to Nymphenburg Palace with giant tropical greenhouses.",
@@ -1519,11 +1545,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Botanischer Garten München-Nymphenburg"
     },
     {
       "id": "m_28",
-      "name": "NS-Dokumentationszentrum München（ナチス文書センター（歴史学習・無料展示）",
+      "name": "NS-Dokumentationszentrum München",
       "category": "Museum & Art",
       "rating": "★4.6",
       "desc": "Modern documentation center on site of Nazi party headquarters providing free historical education.",
@@ -1575,11 +1602,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "NS-Dokumentationszentrum München"
     },
     {
       "id": "m_29",
-      "name": "Bayerisches Nationalmuseum（バイエルン国立博物館（彫刻・工芸・クリッペコレクション）",
+      "name": "Bayerisches Nationalmuseum",
       "category": "Museum & Art",
       "rating": "★4.6",
       "desc": "Palatial museum of European decorative arts, sculptures & world's largest Krippe nativity scenes.",
@@ -1630,11 +1658,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bayerisches Nationalmuseum"
     },
     {
       "id": "m_30",
-      "name": "Staatliches Museum Ägyptischer Kunst（国立エジプト美術博物館（地下モダニズム建築）",
+      "name": "Staatliches Museum Ägyptischer Kunst",
       "category": "Museum & Art",
       "rating": "★4.6",
       "desc": "Sleek subterranean museum focusing exclusively on ancient Egyptian sculptures & papyri.",
@@ -1685,11 +1714,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Staatliches Museum Ägyptischer Kunst"
     },
     {
       "id": "m_31",
-      "name": "Museum Mensch und Natur（人間と自然の博物館（ニンフェンブルク城内・体験型自然科学）",
+      "name": "Museum Mensch und Natur",
       "category": "Museum & Art",
       "rating": "★4.5",
       "desc": "Interactive natural history museum in Nymphenburg Palace showcasing solar system, dinosaurs & brain.",
@@ -1742,11 +1772,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Mensch und Natur"
     },
     {
       "id": "m_32",
-      "name": "Bier- und Oktoberfestmuseum（ビール＆オクトーバーフェスト博物館（14世紀最古の町家建築）",
+      "name": "Bier- und Oktoberfestmuseum",
       "category": "Museum & Art",
       "rating": "★4.4",
       "desc": "Museum inside Munich's oldest townhouse (1340) detailing brewing history & beer tasting.",
@@ -1799,11 +1830,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Bier- und Oktoberfestmuseum"
     },
     {
       "id": "m_33",
-      "name": "Spielzeugmuseum im Alten Rathaus（旧市庁舎内おもちゃ博物館（Spielzeugmuseum）",
+      "name": "Spielzeugmuseum im Alten Rathaus",
       "category": "Museum & Art",
       "rating": "★4.3",
       "desc": "Charming toy museum inside the Gothic tower of the Old Town Hall.",
@@ -1856,11 +1888,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Spielzeugmuseum im Alten Rathaus"
     },
     {
       "id": "m_34",
-      "name": "Theresienwiese & Bavaria Statue（テレージエンヴィーゼ（オクトーバーフェスト会場＆バヴァリア女神像）",
+      "name": "Theresienwiese & Bavaria Statue",
       "category": "Landmark",
       "rating": "★4.5",
       "desc": "Official Oktoberfest grounds dominated by the colossal 18m bronze Bavaria statue.",
@@ -1913,11 +1946,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Theresienwiese & Bavaria Statue"
     },
     {
       "id": "m_35",
-      "name": "Sendlinger Tor & Karlsplatz（ゼントリンガー門＆カールス広場（Stachus / 歴史的城門と大広場）",
+      "name": "Sendlinger Tor & Karlsplatz",
       "category": "Landmark",
       "rating": "★4.5",
       "desc": "Historic 14th-century Gothic city gates bounding Munich's inner old town.",
@@ -1969,11 +2003,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Sendlinger Tor & Karlsplatz"
     },
     {
       "id": "m_36",
-      "name": "Flaucher & Isarauen River Park（フラウヒャー＆イザール川の河川敷（自然ピクニック・川遊びエリア）",
+      "name": "Flaucher & Isarauen River Park",
       "category": "Scenery",
       "rating": "★4.7",
       "desc": "Natural pebble beaches & Isar river islands popular for summer swimming & BBQs.",
@@ -2025,11 +2060,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Flaucher & Isarauen River Park"
     },
     {
       "id": "m_37",
-      "name": "Dallmayr Delikatessenhaus（ダルマイヤー本店（Dallmayr / 1700年創業の王室御用達高級デリカテッセン）",
+      "name": "Dallmayr Delikatessenhaus",
       "category": "Café & Dining",
       "rating": "★4.6",
       "desc": "1700 Royal Bavarian purveyor of luxury coffees, chocolates & gourmet delicatessen.",
@@ -2082,11 +2118,12 @@
         "Café",
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dallmayr Delikatessenhaus"
     },
     {
       "id": "m_38",
-      "name": "Schneider Bräuhaus（シュナイダー・ブロイハウス（ヴァイスビア・白ビールの老舗）",
+      "name": "Schneider Bräuhaus",
       "category": "Café & Dining",
       "rating": "★4.6",
       "desc": "Historic brewery tavern world-renowned for Schneider Weisse wheat beer & traditional cuisine.",
@@ -2140,11 +2177,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Schneider Bräuhaus"
     },
     {
       "id": "m_39",
-      "name": "Café Frischhut（カフェ・フリッシュフット（Der Schmalznudel / 伝統揚げ菓子シュマルツヌーデルの老舗）",
+      "name": "Café Frischhut",
       "category": "Café & Dining",
       "rating": "★4.7",
       "desc": "Famous traditional bakery frying fresh hot Schmalznudeln & Krapfen doughnuts since 1973.",
@@ -2197,11 +2235,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Frischhut"
     },
     {
       "id": "m_40",
-      "name": "Café Luitpold（カフェ・ルイトポルト（1888年創業の歴史的グランドカフェ＆パティスリー）",
+      "name": "Café Luitpold",
       "category": "Café & Dining",
       "rating": "★4.5",
       "desc": "Grand historic coffeehouse (1888) famed for exquisite pralines, tortes & elegant atrium.",
@@ -2253,11 +2292,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Luitpold"
     },
     {
       "id": "m_41",
-      "name": "Bavariapark & Verkehrszentrum（バヴァリア公園＆ドイツ博物館交通館（Verkehrszentrum）",
+      "name": "Bavariapark & Verkehrszentrum",
       "category": "Museum & Art",
       "rating": "★4.5",
       "desc": "Deutsches Museum transport branch displaying trains, vintage cars & bicycles in historic halls.",
@@ -2311,11 +2351,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bavariapark & Verkehrszentrum"
     },
     {
       "id": "m_42",
-      "name": "Westpark & East Asian Pagodas（ウェストパーク（Westpark / 日本庭園・中国庭園・タイの仏塔）",
+      "name": "Westpark & East Asian Pagodas",
       "category": "Scenery",
       "rating": "★4.7",
       "desc": "Sprawling park featuring authentic Japanese garden, Chinese garden & Thai Buddha Sala.",
@@ -2368,11 +2409,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Westpark & East Asian Pagodas"
     },
     {
       "id": "m_43",
-      "name": "Königlicher Hirschgarten（ヒルシュガルテン（Königlicher Hirschgarten / 鹿園併設・世界最大8000席ビアガーデン）",
+      "name": "Königlicher Hirschgarten",
       "category": "Café & Dining",
       "rating": "★4.7",
       "desc": "World's largest beer garden (8000 seats) adjacent to a live deer park enclosure.",
@@ -2424,11 +2466,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Königlicher Hirschgarten"
     },
     {
       "id": "m_44",
-      "name": "Müller'sches Volksbad（ミュラー公衆浴場（Müller'sches Volksbad / アールヌーヴォー様式の歴史的温水プール）",
+      "name": "Müller'sches Volksbad",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Historic 1901 Art Nouveau (Jugendstil) public swimming bath & Roman steam saunas.",
@@ -2482,11 +2525,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Müller'sches Volksbad"
     },
     {
       "id": "m_45",
-      "name": "Werksviertel-Mitte & Umadum Ferris Wheel（ヴェルクスフィアテル＆ウマドゥム大観覧車（Werksviertel-Mitte / カルチャー再開発地区）",
+      "name": "Werksviertel-Mitte & Umadum Ferris Wheel",
       "category": "Scenery",
       "rating": "★4.6",
       "desc": "Trendy converted industrial district featuring street art, container bars & world's largest mobile Ferris wheel.",
@@ -2540,11 +2584,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Werksviertel-Mitte & Umadum Ferris Wheel"
     },
     {
       "id": "m_46",
-      "name": "Schloss Neuschwanstein & Hohenschwangau（ノイシュヴァンシュタイン城＆フュッセン（Marienbrücke・アルプ湖・ホーエンシュヴァンガウ城）",
+      "name": "Schloss Neuschwanstein & Hohenschwangau",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "Fairy-tale castle of King Ludwig II that inspired Disney, set in the Bavarian Alps.",
@@ -2598,11 +2643,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Neuschwanstein & Hohenschwangau"
     },
     {
       "id": "m_47",
-      "name": "Wieskirche（ヴィース巡礼教会（Wieskirche / ユネスコ世界遺産・ロココ建築の最高峰）",
+      "name": "Wieskirche",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "UNESCO World Heritage Rococo pilgrimage church set peacefully in Alpine meadows.",
@@ -2654,11 +2700,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Wieskirche"
     },
     {
       "id": "m_48",
-      "name": "Dachau Concentration Camp Memorial Site（ダッハウ強制収容所記念館（KZ-Gedenkstätte Dachau）",
+      "name": "Dachau Concentration Camp Memorial Site",
       "category": "Museum & Art",
       "rating": "★4.7",
       "desc": "Solemn historic memorial & museum at Germany's first Nazi concentration camp (1933).",
@@ -2710,11 +2757,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dachau Concentration Camp Memorial Site"
     },
     {
       "id": "m_49",
-      "name": "Schloss Schleißheim & Lustheim（シュライスハイム宮殿（新宮殿・旧宮殿・ルストハイム館・バロック庭園）",
+      "name": "Schloss Schleißheim & Lustheim",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Grand Baroque palace complex with New Palace, Old Palace, Lustheim & canal gardens.",
@@ -2768,11 +2816,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Schloss Schleißheim & Lustheim"
     },
     {
       "id": "m_50",
-      "name": "Flugwerft Schleißheim（ドイツ博物館航空館シュライスハイム（Flugwerft Schleißheim / 航空機実機展示）",
+      "name": "Flugwerft Schleißheim",
       "category": "Museum & Art",
       "rating": "★4.7",
       "desc": "Aviation museum at Germany's oldest airfield displaying 70+ historic aircraft & VTOL jets.",
@@ -2824,11 +2873,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Flugwerft Schleißheim"
     },
     {
       "id": "m_51",
-      "name": "Starnberger See & Roseninsel（シュタルンベルク湖（Starnberger See / ルートヴィヒ2世ゆかりの湖・ローゼン島）",
+      "name": "Starnberger See & Roseninsel",
       "category": "Scenery",
       "rating": "★4.7",
       "desc": "Idyllic Alpine lake associated with King Ludwig II with passenger ferries & Roseninsel island.",
@@ -2881,11 +2931,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Starnberger See & Roseninsel"
     },
     {
       "id": "m_52",
-      "name": "Ammersee & Kloster Andechs（アンマー湖＆アンデックス修道院（Kloster Andechs / 聖なる丘の修道院醸造所ビール）",
+      "name": "Ammersee & Kloster Andechs",
       "category": "Scenery",
       "rating": "★4.8",
       "desc": "Scenic lake & sacred hilltop Benedictine monastery famous for dark Doppelbock beer.",
@@ -2939,11 +2990,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Ammersee & Kloster Andechs"
     },
     {
       "id": "m_53",
-      "name": "Schloss Linderhof（リンダーホーフ城（Schloss Linderhof / ルートヴィヒ2世の小宮殿）",
+      "name": "Schloss Linderhof",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Intimate French Rococo jewel palace of Ludwig II with golden fountains & Venus Grotto.",
@@ -2996,11 +3048,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schloss Linderhof"
     },
     {
       "id": "m_54",
-      "name": "Kloster Ettal（エッタール修道院（Kloster Ettal / バロック大聖堂・修道院リキュール）",
+      "name": "Kloster Ettal",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Magnificent Benedictine abbey with huge Baroque dome, monastery liqueur & cheese making.",
@@ -3054,11 +3107,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Kloster Ettal"
     },
     {
       "id": "m_55",
-      "name": "Partnachklamm Gorge（パルトナハ渓谷（Partnachklamm / ガルミッシュ＝パルテンキルヒェン）",
+      "name": "Partnachklamm Gorge",
       "category": "Scenery",
       "rating": "★4.8",
       "desc": "Dramatic 700m natural gorge cut into vertical limestone cliffs with roaring waterfalls.",
@@ -3109,11 +3163,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Partnachklamm Gorge"
     },
     {
       "id": "m_56",
-      "name": "Zugspitze & Eibsee（ツークシュピッツェ（標高2962m・ドイツ最高峰＆アイプ湖）",
+      "name": "Zugspitze & Eibsee",
       "category": "Scenery",
       "rating": "★4.8",
       "desc": "Germany's highest mountain peak (2,962m) with 4-country panoramic views & turquoise Eibsee.",
@@ -3165,11 +3220,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Zugspitze & Eibsee"
     },
     {
       "id": "m_57",
-      "name": "Tegernsee & Schliersee Lakes（テーゲルン湖＆シュリアー湖（バイエルン・アルプスの高級保養リゾート湖）",
+      "name": "Tegernsee & Schliersee Lakes",
       "category": "Scenery",
       "rating": "★4.7",
       "desc": "Pristine Alpine lakes offering sailing, lakeside saunas & Herzogliches Bräustüberl beer.",
@@ -3223,11 +3279,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Tegernsee & Schliersee Lakes"
     },
     {
       "id": "m_58",
-      "name": "Therme Erding（テルメ・エルディング（Therme Erding / 欧州最大級の巨大全天候型温泉スパリゾート）",
+      "name": "Therme Erding",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Europe's largest thermal water spa resort with 28 water slides & exotic sauna world.",
@@ -3279,11 +3336,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Therme Erding"
     },
     {
       "id": "m_59",
-      "name": "Freising & Brauerei Weihenstephan（フライジング＆ヴァイエンシュテファン（西暦1040年創業・世界最古の現役ビール醸造所）",
+      "name": "Freising & Brauerei Weihenstephan",
       "category": "Café & Dining",
       "rating": "★4.7",
       "desc": "Historic cathedral city hosting world's oldest continuously operating brewery (since 1040).",
@@ -3337,11 +3395,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Freising & Brauerei Weihenstephan"
     },
     {
       "id": "m_60",
-      "name": "Bavaria Filmstadt（バヴァリア・フィルムシュタット（Bavaria Filmstadt / 映画撮影所スタジオツアー）",
+      "name": "Bavaria Filmstadt",
       "category": "Museum & Art",
       "rating": "★4.4",
       "desc": "Famous film studio tour featuring real props from 'Das Boot', 'The Neverending Story' & 4D cinema.",
@@ -3395,7 +3454,8 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Bavaria Filmstadt"
     }
   ]
 }

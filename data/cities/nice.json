@@ -4,7 +4,7 @@
   "spots": [
     {
       "id": "nice_1",
-      "name": "Promenade des Anglais（プロムナード デ ザングレ）",
+      "name": "Promenade des Anglais",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Iconic 7km Mediterranean seaside boulevard lined with palm trees, blue chairs, and beach clubs.",
@@ -52,11 +52,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Promenade des Anglais"
     },
     {
       "id": "nice_2",
-      "name": "Colline du Château（キャッスル ヒル パーク (コリーヌ デュ シャトー）",
+      "name": "Colline du Château",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Hilltop park offering spectacular panoramic views over Baie des Anges, a man-made waterfall, and castle ruins.",
@@ -106,11 +107,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Colline du Château"
     },
     {
       "id": "nice_3",
-      "name": "Old Town Nice（ニース旧市街 (ヴュー・ニース）",
+      "name": "Old Town Nice",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Charming maze of narrow cobblestone streets, pastel Baroque buildings, artisanal boutiques, and lively squares.",
@@ -162,11 +164,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Old Town Nice"
     },
     {
       "id": "nice_4",
-      "name": "Cours Saleya Flower Market（クール サレヤ フラワー マーケット）",
+      "name": "Cours Saleya Flower Market",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Vibrant open-air flower, fruit, and Riviera produce market in Vieux Nice, surrounded by outdoor dining terraces.",
@@ -215,11 +218,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cours Saleya Flower Market"
     },
     {
       "id": "nice_5",
-      "name": "Place Masséna（マセナ広場）",
+      "name": "Place Masséna",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Grand red-paved plaza with checkerboard tiles, Jaume Plensa sculptures, and 12-hectare urban park with water mirrors.",
@@ -269,11 +273,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place Masséna"
     },
     {
       "id": "nice_6",
-      "name": "Marc Chagall National Museum（マルク・シャガール国立美術館）",
+      "name": "Marc Chagall National Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "National museum dedicated to Marc Chagall featuring his monumental Biblical Message series and stained glass.",
@@ -322,11 +327,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Marc Chagall National Museum"
     },
     {
       "id": "nice_7",
-      "name": "Matisse Museum（マティス美術館）",
+      "name": "Matisse Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "17th-century Genoese villa in Cimiez housing one of the world's largest collections of Henri Matisse works.",
@@ -375,11 +381,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Matisse Museum"
     },
     {
       "id": "nice_8",
-      "name": "Museum of Modern & Contemporary Art（近現代美術館 (MAMAC）",
+      "name": "Museum of Modern & Contemporary Art",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Futuristic modern art museum showcasing Yves Klein, Niki de Saint Phalle, and Pop Art with rooftop views.",
@@ -427,11 +434,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum of Modern & Contemporary Art"
     },
     {
       "id": "nice_9",
-      "name": "St. Nicholas Russian Orthodox Cathedral（聖ニコラス ロシア正教会大聖堂）",
+      "name": "St. Nicholas Russian Orthodox Cathedral",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Largest Russian Orthodox cathedral outside Russia, built in 1912 with ornate onion domes and rich icons.",
@@ -479,11 +487,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Nicholas Russian Orthodox Cathedral"
     },
     {
       "id": "nice_10",
-      "name": "Promenade du Paillon（プロムナード デュ パイヨン）",
+      "name": "Promenade du Paillon",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "12-hectare urban greenway park featuring giant wooden sea creature playgrounds and an interactive mist water mirror.",
@@ -532,11 +541,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Promenade du Paillon"
     },
     {
       "id": "nice_11",
-      "name": "Cimiez Arenas & Monastery Gardens（シミエ アレナスと修道院の庭園）",
+      "name": "Cimiez Arenas & Monastery Gardens",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Ancient Roman amphitheater ruins set in an ancient olive grove alongside 16th-century Franciscan monastery rose gardens.",
@@ -585,11 +595,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cimiez Arenas & Monastery Gardens"
     },
     {
       "id": "nice_12",
-      "name": "Masséna Museum（マセナ博物館 (ヴィラ マセナ）",
+      "name": "Masséna Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Aristocratic Belle Époque villa on Promenade des Anglais depicting French Riviera history and Napoleonic relics.",
@@ -638,11 +649,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Masséna Museum"
     },
     {
       "id": "nice_13",
-      "name": "Jules Chéret Fine Arts Museum（ジュール シェレ美術館）",
+      "name": "Jules Chéret Fine Arts Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Belle Époque palace exhibiting fine art spanning four centuries, featuring Jules Chéret posters, Monet, and Rodin sculptures.",
@@ -691,11 +703,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jules Chéret Fine Arts Museum"
     },
     {
       "id": "nice_14",
-      "name": "Place Garibaldi（ガリバルディ広場）",
+      "name": "Place Garibaldi",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Grand 18th-century yellow Italianate plaza centered around the Garibaldi monument, famous for seafood brasseries.",
@@ -743,11 +756,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place Garibaldi"
     },
     {
       "id": "nice_15",
-      "name": "Nice Cathedral（ニース大聖堂 (Cathédrale Sainte-Réparate）",
+      "name": "Nice Cathedral",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "17th-century Roman Baroque cathedral on Place Rossetti with a colorful majolica tile dome and ten side chapels.",
@@ -797,11 +811,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Nice Cathedral"
     },
     {
       "id": "nice_16",
-      "name": "Port Lympia（Old Port of Nice）",
+      "name": "Port Lympia",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Photogenic harbor lined with pastel Venetian facades, traditional pointu fishing boats, and luxury yachts.",
@@ -827,7 +842,7 @@
       "tip_fr": "Admirez les barques traditionnelles en bois (pointus) peintes en couleurs vives amarrées le long des quais réaménagés.",
       "tip_de": "Am östlichen Kai liegen die traditionellen bunten Holzfischerboote (Pointus) – ein wunderschönes Fotomotiv.",
       "name_en": "Port Lympia (Old Port of Nice)",
-      "name_ja": "Port Lympia（Old Port of Nice）",
+      "name_ja": "Port Lympia",
       "name_es": "Port Lympia (Puerto Antiguo de Niza)",
       "name_zh": "Port Lympia (尼斯旧港)",
       "name_fr": "Port Lympia (Vieux Port de Nice)",
@@ -849,11 +864,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Port Lympia"
     },
     {
       "id": "nice_17",
-      "name": "Phoenix Botanical & Zoological Park（Parc Phoenix）",
+      "name": "Phoenix Botanical & Zoological Park",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "7-hectare family paradise with one of Europe's largest greenhouses, flamingos, lemurs, and play zones.",
@@ -879,7 +895,7 @@
       "tip_fr": "Musée d'art contemporain doté d'un toit-terrasse arboré proposant un panorama sensationnel sur la ville.",
       "tip_de": "Für tolle Fotos und weniger Menschenmassen empfiehlt sich ein Besuch am frühen Morgen oder zur goldenen Stunde.",
       "name_en": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
-      "name_ja": "Phoenix Botanical & Zoological Park（Parc Phoenix）",
+      "name_ja": "Phoenix Botanical & Zoological Park",
       "name_es": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
       "name_zh": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
       "name_fr": "Phoenix Botanical & Zoological Park (Parc Phoenix)",
@@ -902,11 +918,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Phoenix Botanical & Zoological Park"
     },
     {
       "id": "nice_18",
-      "name": "Mont Boron Forest Park（モンボロン森林公園）",
+      "name": "Mont Boron Forest Park",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Mediterranean pine forest ridge rising above Nice with 11km of coastal nature trails and 16th-century Fort du Mont Alban.",
@@ -956,11 +973,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mont Boron Forest Park"
     },
     {
       "id": "nice_19",
-      "name": "Glacier Fenocchio（フェノキオ氷河）",
+      "name": "Glacier Fenocchio",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Legendary ice cream parlor on Place Rossetti since 1966, serving over 90 artisan flavors including lavender, rose, and thyme.",
@@ -1010,11 +1028,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Glacier Fenocchio"
     },
     {
       "id": "nice_20",
-      "name": "Chez René Socca（シェ ルネ ソッカ）",
+      "name": "Chez René Socca",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Famous Old Nice street food spot serving piping hot wood-fired socca (chickpea pancake) and Nicoise street food.",
@@ -1062,11 +1081,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Chez René Socca"
     },
     {
       "id": "nice_21",
-      "name": "Le Plongeoir（ル・プロンジョワール）",
+      "name": "Le Plongeoir",
       "category": "Café & Bistro",
       "rating": "★4.4",
       "desc": "Dramatic coastal restaurant perched on a vintage diving board rock pillar over the Mediterranean sea.",
@@ -1115,11 +1135,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Plongeoir"
     },
     {
       "id": "nice_22",
-      "name": "Grand Café de Turin（グラン カフェ ドゥ トリノ）",
+      "name": "Grand Café de Turin",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Historic 1908 seafood institution on Place Garibaldi famed for fresh oyster platters and sea urchin towers.",
@@ -1168,11 +1189,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grand Café de Turin"
     },
     {
       "id": "nice_23",
-      "name": "Exotic Garden of Èze & Medieval Village（エズのエキゾチックな庭園と中世の村）",
+      "name": "Exotic Garden of Èze & Medieval Village",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Dramatic medieval hilltop village 429m above sea level with an exotic cactus garden and cliffside sea views.",
@@ -1221,11 +1243,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Exotic Garden of Èze & Medieval Village"
     },
     {
       "id": "nice_24",
-      "name": "Villa Ephrussi de Rothschild（ヴィラ エフルシ ド ロスチャイルド）",
+      "name": "Villa Ephrussi de Rothschild",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Fairy-tale pink Belle Époque palace on Cap Ferrat surrounded by nine themed gardens with musical fountains.",
@@ -1274,11 +1297,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Villa Ephrussi de Rothschild"
     },
     {
       "id": "nice_25",
-      "name": "Villa Kérylos（ヴィラ ケリロス）",
+      "name": "Villa Kérylos",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Reconstructed ancient Greek seaside noble dwelling built right on the water's edge in Beaulieu-sur-Mer.",
@@ -1326,11 +1350,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Villa Kérylos"
     },
     {
       "id": "nice_26",
-      "name": "Villefranche-sur-Mer Old Town & Citadel（ヴィルフランシュ シュル メールの旧市街と城塞）",
+      "name": "Villefranche-sur-Mer Old Town & Citadel",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Picturesque pastel fishing port with 16th-century St. Elme Citadel, waterfront cafes, and sandy beaches.",
@@ -1380,11 +1405,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Villefranche-sur-Mer Old Town & Citadel"
     },
     {
       "id": "nice_27",
-      "name": "Saint-Paul-de-Vence Medieval Village（サン ポール ド ヴァンス中世の村）",
+      "name": "Saint-Paul-de-Vence Medieval Village",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Famous fortified medieval hilltop village lined with art galleries, ramparts, and Marc Chagall's legacy.",
@@ -1433,11 +1459,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Saint-Paul-de-Vence Medieval Village"
     },
     {
       "id": "nice_28",
-      "name": "Fondation Maeght（マーグト財団）",
+      "name": "Fondation Maeght",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Renowned modern art private museum set in pine forest near Saint-Paul-de-Vence, showcasing Miró and Giacometti.",
@@ -1485,11 +1512,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fondation Maeght"
     },
     {
       "id": "nice_29",
-      "name": "Prince's Palace of Monaco & The Rock（モナコ大公宮殿とザ ロック）",
+      "name": "Prince's Palace of Monaco & The Rock",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Sovereign Prince residence atop the Rock of Monaco with daily changing-of-the-guard ceremonies and coastal views.",
@@ -1538,11 +1566,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Prince's Palace of Monaco & The Rock"
     },
     {
       "id": "nice_30",
-      "name": "Oceanographic Museum of Monaco（モナコ海洋博物館）",
+      "name": "Oceanographic Museum of Monaco",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "Cliff-hung neo-Baroque marine museum founded by Prince Albert I, housing giant coral reef aquariums and shark lagoons.",
@@ -1594,11 +1623,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Oceanographic Museum of Monaco"
     },
     {
       "id": "nice_31",
-      "name": "Musée Picasso（ピカソ美術館 (アンティーブ）",
+      "name": "Musée Picasso",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Château Grimaldi museum in Antibes where Picasso lived and worked in 1946, housing ceramics, paintings, and sea ramparts.",
@@ -1646,11 +1676,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée Picasso"
     },
     {
       "id": "nice_32",
-      "name": "Casino de Monte-Carlo（カジノ デ モンテカルロ）",
+      "name": "Casino de Monte-Carlo",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Legendary Belle Époque gambling palace designed by Charles Garnier, iconic backdrop of Monaco luxury and cinema.",
@@ -1699,11 +1730,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Casino de Monte-Carlo"
     },
     {
       "id": "nice_33",
-      "name": "Basilique Saint-Michel Archange & Menton Old Town（サン ミッシェル大聖堂とマントン旧市街）",
+      "name": "Basilique Saint-Michel Archange & Menton Old Town",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "17th-century Baroque basilica with a soaring bell tower overlooking Menton's pastel Old Town and Mediterranean beaches.",
@@ -1754,11 +1786,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Basilique Saint-Michel Archange & Menton Old Town"
     },
     {
       "id": "nice_34",
-      "name": "Le Sentier du Littoral（アンティーブ岬）",
+      "name": "Le Sentier du Littoral",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Dramatic 5km coastal cliffside trail winding around Cap d'Antibes past secret sea coves and limestone rocks.",
@@ -1806,11 +1839,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Le Sentier du Littoral"
     },
     {
       "id": "nice_35",
-      "name": "Abbaye de Lérins（レランス修道院 (サントノラ島）",
+      "name": "Abbaye de Lérins",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Historic 5th-century Cistercian monastery on Saint-Honorat Island off Cannes, famous for organic vineyards and peace.",
@@ -1858,11 +1892,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Abbaye de Lérins"
     },
     {
       "id": "nice_36",
-      "name": "Fort du Mont Alban（モンアルバン要塞）",
+      "name": "Fort du Mont Alban",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "1560 hilltop military fortress overlooking Nice and Villefranche Bay with panoramic views extending to Italy.",
@@ -1910,11 +1945,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fort du Mont Alban"
     },
     {
       "id": "nice_37",
-      "name": "Promenade de la Croisette（プロムナード・デ・ラ・クロワゼット（カンヌ）",
+      "name": "Promenade de la Croisette",
       "name_ja": "Promenade de la Croisette（プロムナード・デ・ラ・クロワゼット（カンヌ）",
       "name_en": "Promenade de la Croisette (Cannes)",
       "name_fr": "Promenade de la Croisette (Cannes)",
@@ -1946,11 +1982,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Promenade de la Croisette"
     },
     {
       "id": "nice_38",
-      "name": "Vieux Menton & Basilique Saint-Michel（マントン旧市街＆サン・ミッシェル聖堂）",
+      "name": "Vieux Menton & Basilique Saint-Michel",
       "name_ja": "Vieux Menton & Basilique Saint-Michel（マントン旧市街＆サン・ミッシェル聖堂）",
       "name_en": "Vieux Menton & Basilique Saint-Michel (Vieux Menton & Saint-Michel Basilica)",
       "name_fr": "Vieux Menton & Basilique Saint-Michel",
@@ -1981,11 +2018,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Vieux Menton & Basilique Saint-Michel"
     },
     {
       "id": "nice_39",
-      "name": "Villa Santo Sospir & Cap Ferrat（ヴィラ・サント・ソスピル＆キャップ・フェラ）",
+      "name": "Villa Santo Sospir & Cap Ferrat",
       "name_ja": "Villa Santo Sospir & Cap Ferrat（ヴィラ・サント・ソスピル＆キャップ・フェラ）",
       "name_en": "Villa Santo Sospir & Cap Ferrat",
       "name_fr": "Villa Santo Sospir & Cap Ferrat",
@@ -2014,11 +2052,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Villa Santo Sospir & Cap Ferrat"
     },
     {
       "id": "nice_40",
-      "name": "Plage du Larvotto（ラルヴォット・ビーチ＆プロムナード（モナコ）",
+      "name": "Plage du Larvotto",
       "name_ja": "Plage du Larvotto（ラルヴォット・ビーチ＆プロムナード（モナコ）",
       "name_en": "Plage du Larvotto (Monaco)",
       "name_fr": "Plage du Larvotto (Monaco)",
@@ -2050,7 +2089,8 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Plage du Larvotto"
     }
   ]
 }

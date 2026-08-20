@@ -5,7 +5,7 @@
   "spots": [
     {
       "id": "nu_1",
-      "name": "Kaiserburg Nürnberg（カイザーブルク / ニュルンベルク城）",
+      "name": "Kaiserburg Nürnberg",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "city",
@@ -52,11 +52,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kaiserburg Nürnberg"
     },
     {
       "id": "nu_2",
-      "name": "Hauptmarkt & Christkindlesmarkt（中央広場＆クリストキンドレスマルクト）",
+      "name": "Hauptmarkt & Christkindlesmarkt",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "locationZone": "city",
@@ -102,11 +103,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Hauptmarkt & Christkindlesmarkt"
     },
     {
       "id": "nu_3",
-      "name": "Schöner Brunnen（美しの泉）",
+      "name": "Schöner Brunnen",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -152,11 +154,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Schöner Brunnen"
     },
     {
       "id": "nu_4",
-      "name": "Frauenkirche Nürnberg（聖母教会）",
+      "name": "Frauenkirche Nürnberg",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -200,11 +203,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Frauenkirche Nürnberg"
     },
     {
       "id": "nu_5",
-      "name": "St. Lorenz Kirche（聖ローレンツ教会）",
+      "name": "St. Lorenz Kirche",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "city",
@@ -248,11 +252,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Lorenz Kirche"
     },
     {
       "id": "nu_6",
-      "name": "St. Sebaldus Kirche（聖ゼーバルト教会）",
+      "name": "St. Sebaldus Kirche",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -296,11 +301,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "St. Sebaldus Kirche"
     },
     {
       "id": "nu_7",
-      "name": "Germanisches Nationalmuseum（GNM）",
+      "name": "Germanisches Nationalmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.9",
       "locationZone": "city",
@@ -331,7 +337,7 @@
       "price_fr": "Adultes : 10 € / Réduit : 6 € / Gratuit le mercredi dès 17h30",
       "price_de": "Erwachsene: 10 € / Ermäßigt: 6 € / Mittwochs 17:30–20:30 Uhr frei",
       "name_en": "Germanisches Nationalmuseum (GNM)",
-      "name_ja": "Germanisches Nationalmuseum（GNM）",
+      "name_ja": "Germanisches Nationalmuseum",
       "name_es": "Germanisches Nationalmuseum (Museo Nacional Germánico)",
       "name_zh": "Germanisches Nationalmuseum (日耳曼国家博物馆)",
       "name_fr": "Germanisches Nationalmuseum (Musée National Germanique)",
@@ -346,11 +352,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Germanisches Nationalmuseum"
     },
     {
       "id": "nu_8",
-      "name": "Albrecht-Dürer-Haus（アルブレヒト・デューラーの家）",
+      "name": "Albrecht-Dürer-Haus",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -396,11 +403,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Albrecht-Dürer-Haus"
     },
     {
       "id": "nu_9",
-      "name": "Weißgerbergasse（白革なめし職人通り）",
+      "name": "Weißgerbergasse",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "locationZone": "city",
@@ -447,11 +455,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Weißgerbergasse"
     },
     {
       "id": "nu_10",
-      "name": "Henkersteg & Weinstadel（死刑執行人の小橋＆ワイン倉庫）",
+      "name": "Henkersteg & Weinstadel",
       "category": "Scenery & Walk",
       "rating": "★4.9",
       "locationZone": "city",
@@ -495,11 +504,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Henkersteg & Weinstadel"
     },
     {
       "id": "nu_11",
-      "name": "Heilig-Geist-Spital（聖霊病院）",
+      "name": "Heilig-Geist-Spital",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -545,11 +555,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Heilig-Geist-Spital"
     },
     {
       "id": "nu_12",
-      "name": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld（ナチ党大会会場跡文書センター＆ツェッペリン広場）",
+      "name": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -597,11 +608,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Dokumentationszentrum Reichsparteitagsgelände & Zeppelinfeld"
     },
     {
       "id": "nu_13",
-      "name": "Memorium Nürnberger Prozesse（Saal 600）",
+      "name": "Memorium Nürnberger Prozesse",
       "category": "Museum & Gallery",
       "rating": "★4.9",
       "locationZone": "city",
@@ -632,7 +644,7 @@
       "price_fr": "Adultes : 6 € / Réduit : 1,50 € (Audioguide inclus)",
       "price_de": "Erwachsene: 6 € / Ermäßigt: 1,50 € (Audioguide inklusive)",
       "name_en": "Memorium Nürnberger Prozesse (Courtroom 600)",
-      "name_ja": "Memorium Nürnberger Prozesse（Saal 600）",
+      "name_ja": "Memorium Nürnberger Prozesse",
       "name_es": "Memorium Nürnberger Prozesse (Palacio de Justicia Sala 600)",
       "name_zh": "Memorium Nürnberger Prozesse (纽伦堡审判纪念馆 / 600号法庭)",
       "name_fr": "Memorium Nürnberger Prozesse (Mémorial du Procès de Núremberg)",
@@ -648,11 +660,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Memorium Nürnberger Prozesse"
     },
     {
       "id": "nu_14",
-      "name": "Spielzeugmuseum Nürnberg（ニュルンベルクおもちゃ博物館）",
+      "name": "Spielzeugmuseum Nürnberg",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "city",
@@ -699,11 +712,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Spielzeugmuseum Nürnberg"
     },
     {
       "id": "nu_15",
-      "name": "DB Museum（Verkehrsmuseum Nürnberg）",
+      "name": "DB Museum",
       "category": "Museum & Gallery",
       "rating": "★4.9",
       "locationZone": "city",
@@ -734,7 +748,7 @@
       "price_fr": "Adultes : 9 € / Réduit : 5 € / Famille : 18 €",
       "price_de": "Erwachsene: 9 € / Ermäßigt: 5 € / Familienkarte: 18 €",
       "name_en": "DB Museum (German Railways Museum Nuremberg)",
-      "name_ja": "DB Museum（Verkehrsmuseum Nürnberg）",
+      "name_ja": "DB Museum",
       "name_es": "DB Museum (Museo del Ferrocarril de la DB)",
       "name_zh": "DB Museum (德国铁路博物馆)",
       "name_fr": "DB Museum (Musée des Chemins de Fer Allemands)",
@@ -749,11 +763,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "DB Museum"
     },
     {
       "id": "nu_16",
-      "name": "Museum für Kommunikation Nürnberg（通信博物館）",
+      "name": "Museum für Kommunikation Nürnberg",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -800,11 +815,12 @@
         "Museum",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum für Kommunikation Nürnberg"
     },
     {
       "id": "nu_17",
-      "name": "Historische Felsengänge（歴史的岩盤地下セラー）",
+      "name": "Historische Felsengänge",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "city",
@@ -850,11 +866,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historische Felsengänge"
     },
     {
       "id": "nu_18",
-      "name": "Historischer Kunstbunker（歴史的アートバンカー）",
+      "name": "Historischer Kunstbunker",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -901,11 +918,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historischer Kunstbunker"
     },
     {
       "id": "nu_19",
-      "name": "Mittelalterliche Lochgefängnisse（中世地下牢獄）",
+      "name": "Mittelalterliche Lochgefängnisse",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -949,11 +967,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mittelalterliche Lochgefängnisse"
     },
     {
       "id": "nu_20",
-      "name": "Deutsches Museum Nürnberg - Das Zukunftsmuseum（ドイツ博物館ニュルンベルク「未来博物館」）",
+      "name": "Deutsches Museum Nürnberg - Das Zukunftsmuseum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1000,11 +1019,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Deutsches Museum Nürnberg - Das Zukunftsmuseum"
     },
     {
       "id": "nu_21",
-      "name": "Neues Museum Nürnberg（Staatliches Museum für Kunst und Design）",
+      "name": "Neues Museum Nürnberg",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1035,7 +1055,7 @@
       "price_fr": "Adultes : 7 € / Réduit : 6 € / Dimanche seulement 1 €",
       "price_de": "Erwachsene: 7 € / Ermäßigt: 6 € / Sonntags nur 1 €",
       "name_en": "Neues Museum Nürnberg (State Museum for Art and Design)",
-      "name_ja": "Neues Museum Nürnberg（Staatliches Museum für Kunst und Design）",
+      "name_ja": "Neues Museum Nürnberg",
       "name_es": "Neues Museum Nürnberg (Museo Estatal de Arte y Diseño)",
       "name_zh": "Neues Museum Nürnberg (纽伦堡新美术馆 / 州立现代艺术与设计博物馆)",
       "name_fr": "Neues Museum Nürnberg (Musée d'Art Moderne et de Design)",
@@ -1050,11 +1070,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Neues Museum Nürnberg"
     },
     {
       "id": "nu_22",
-      "name": "Stadtmuseum im Fembo-Haus（フェンボ・ハウス市立博物館）",
+      "name": "Stadtmuseum im Fembo-Haus",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1099,11 +1120,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stadtmuseum im Fembo-Haus"
     },
     {
       "id": "nu_23",
-      "name": "Handwerkerhof Nürnberg（職人広場）",
+      "name": "Handwerkerhof Nürnberg",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1152,11 +1174,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Handwerkerhof Nürnberg"
     },
     {
       "id": "nu_24",
-      "name": "Straße der Menschenrechte（Way of Human Rights）",
+      "name": "Straße der Menschenrechte",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1187,7 +1210,7 @@
       "price_fr": "Accès libre: Gratuit",
       "price_de": "Frei zugänglich",
       "name_en": "Straße der Menschenrechte",
-      "name_ja": "Straße der Menschenrechte（Way of Human Rights）",
+      "name_ja": "Straße der Menschenrechte",
       "name_es": "Straße der Menschenrechte (Vía de los Derechos Humanos)",
       "name_zh": "Straße der Menschenrechte (人权大道)",
       "name_fr": "Straße der Menschenrechte (Allée des Droits de l'Homme)",
@@ -1203,11 +1226,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Straße der Menschenrechte"
     },
     {
       "id": "nu_25",
-      "name": "Ehekarussell（Brunnen \"Das bittere Eheleben\"）",
+      "name": "Ehekarussell",
       "category": "Landmark",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1238,7 +1262,7 @@
       "price_fr": "Accès libre",
       "price_de": "Kostenlos frei",
       "name_en": "Ehekarussell (Ehekarussell / Das bittere Eheleben)",
-      "name_ja": "Ehekarussell（Brunnen \"Das bittere Eheleben\"）",
+      "name_ja": "Ehekarussell",
       "name_es": "Ehekarussell (Fuente del Carrusel del Matrimonio)",
       "name_zh": "Ehekarussell (婚姻旋转木马喷泉 / 苦乐婚姻生活喷泉)",
       "name_fr": "Ehekarussell (Fontaine du Carrousel du Mariage)",
@@ -1253,11 +1277,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Ehekarussell"
     },
     {
       "id": "nu_26",
-      "name": "Kettensteg & Maxbrücke（ケッテンシュテグ＆マックス橋）",
+      "name": "Kettensteg & Maxbrücke",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1301,11 +1326,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Kettensteg & Maxbrücke"
     },
     {
       "id": "nu_27",
-      "name": "Stadtmauer Nürnberg & Tore（ニュルンベルク市壁・城門群）",
+      "name": "Stadtmauer Nürnberg & Tore",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1349,11 +1375,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Stadtmauer Nürnberg & Tore"
     },
     {
       "id": "nu_28",
-      "name": "Johannisfriedhof（St. John's Cemetery）",
+      "name": "Johannisfriedhof",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1384,7 +1411,7 @@
       "price_fr": "Accès libre: Gratuit",
       "price_de": "Kostenlos frei",
       "name_en": "Johannisfriedhof",
-      "name_ja": "Johannisfriedhof（St. John's Cemetery）",
+      "name_ja": "Johannisfriedhof",
       "name_es": "Johannisfriedhof (Cementerio de San Juan)",
       "name_zh": "Johannisfriedhof (圣约翰历史墓园)",
       "name_fr": "Johannisfriedhof (Cimetière Saint-Jean de Núremberg)",
@@ -1399,11 +1426,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Johannisfriedhof"
     },
     {
       "id": "nu_29",
-      "name": "Tiergarten Nürnberg & Delphinlagune（ニュルンベルク動物園＆イルカラグーン）",
+      "name": "Tiergarten Nürnberg & Delphinlagune",
       "category": "Kids & Family",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1448,11 +1476,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tiergarten Nürnberg & Delphinlagune"
     },
     {
       "id": "nu_30",
-      "name": "Nicolaus-Copernicus-Planetarium（コペルニクス・プラネタリウム）",
+      "name": "Nicolaus-Copernicus-Planetarium",
       "category": "Kids & Family",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1499,11 +1528,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Nicolaus-Copernicus-Planetarium"
     },
     {
       "id": "nu_31",
-      "name": "Museum Tucherschloss und Hirsvogelsaal（トゥーハー城＆ヒルシュフォーゲル・ホール）",
+      "name": "Museum Tucherschloss und Hirsvogelsaal",
       "category": "Landmark",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1548,11 +1578,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum Tucherschloss und Hirsvogelsaal"
     },
     {
       "id": "nu_32",
-      "name": "Bratwursthäusle bei St. Sebald（ブラートヴルストホイスレ）",
+      "name": "Bratwursthäusle bei St. Sebald",
       "category": "Café & Bistro",
       "rating": "★4.9",
       "locationZone": "city",
@@ -1598,11 +1629,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bratwursthäusle bei St. Sebald"
     },
     {
       "id": "nu_33",
-      "name": "Historische Bratwurstküche \"Zum Gulden Stern\"（ツム・グルデン・シュテルン）",
+      "name": "Historische Bratwurstküche \"Zum Gulden Stern\"",
       "category": "Café & Bistro",
       "rating": "★4.9",
       "locationZone": "city",
@@ -1647,11 +1679,12 @@
         "Café",
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historische Bratwurstküche \"Zum Gulden Stern\""
     },
     {
       "id": "nu_34",
-      "name": "Hausbrauerei Altstadthof（アルトシュタットホーフ地ビール醸造所）",
+      "name": "Hausbrauerei Altstadthof",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1697,11 +1730,12 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Hausbrauerei Altstadthof"
     },
     {
       "id": "nu_35",
-      "name": "Nürnberger Lebkuchen（銘菓レープクーヘン老舗群）",
+      "name": "Nürnberger Lebkuchen",
       "category": "Café & Bistro",
       "rating": "★4.9",
       "locationZone": "city",
@@ -1748,11 +1782,12 @@
         "Café",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Nürnberger Lebkuchen"
     },
     {
       "id": "nu_36",
-      "name": "Königstraße & Karolinenstraße（ケーニヒ通り＆カロリーネン通り）",
+      "name": "Königstraße & Karolinenstraße",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1799,11 +1834,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Königstraße & Karolinenstraße"
     },
     {
       "id": "nu_37",
-      "name": "Breite Gasse（ブライテ・ガッセ）",
+      "name": "Breite Gasse",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "locationZone": "city",
@@ -1850,11 +1886,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Breite Gasse"
     },
     {
       "id": "nu_38",
-      "name": "Trödelmarkt（トレデルマルクト中州小島）",
+      "name": "Trödelmarkt",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "locationZone": "city",
@@ -1901,11 +1938,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Trödelmarkt"
     },
     {
       "id": "nu_39",
-      "name": "Wöhrder Wiese & Wöhrder See（ヴェルダー湖水辺公園）",
+      "name": "Wöhrder Wiese & Wöhrder See",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "locationZone": "city",
@@ -1950,11 +1988,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Wöhrder Wiese & Wöhrder See"
     },
     {
       "id": "nu_40",
-      "name": "Turm der Sinne（感覚の塔）",
+      "name": "Turm der Sinne",
       "category": "Kids & Family",
       "rating": "★4.6",
       "locationZone": "city",
@@ -2002,11 +2041,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Turm der Sinne"
     },
     {
       "id": "nu_41",
-      "name": "Rothenburg ob der Tauber（ローテンブルク・オプ・デア・タウバー）",
+      "name": "Rothenburg ob der Tauber",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2056,11 +2096,12 @@
         "Night",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Rothenburg ob der Tauber"
     },
     {
       "id": "nu_42",
-      "name": "Playmobil FunPark（Zirndorf）",
+      "name": "Playmobil FunPark",
       "category": "Kids & Family",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2091,7 +2132,7 @@
       "price_fr": "Billet journée : 17,50 €–19,50 € / Moins de 3 ans gratuit",
       "price_de": "Tagesticket: 17,50 €–19,50 € / Unter 3 Jahren frei",
       "name_en": "Playmobil FunPark (Zirndorf Playmobil Theme Park)",
-      "name_ja": "Playmobil FunPark（Zirndorf）",
+      "name_ja": "Playmobil FunPark",
       "name_es": "Playmobil FunPark (Parque Temático Playmobil en Zirndorf)",
       "name_zh": "Playmobil FunPark (摩比世界主题乐园)",
       "name_fr": "Playmobil FunPark (Parc d'Attractions Playmobil de Zirndorf)",
@@ -2110,11 +2151,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Playmobil FunPark"
     },
     {
       "id": "nu_43",
-      "name": "Bamberg: Altstadt & Altes Rathaus（UNESCO）",
+      "name": "Bamberg: Altstadt & Altes Rathaus",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2145,7 +2187,7 @@
       "price_fr": "Accès vieille ville gratuit / Bière fumée : 4,60 €",
       "price_de": "Altstadt frei zugänglich / Schlenkerla Rauchbier: 4,60 €",
       "name_en": "Bamberg: Altstadt & Altes Rathaus (UNESCO World Heritage)",
-      "name_ja": "Bamberg: Altstadt & Altes Rathaus（UNESCO）",
+      "name_ja": "Bamberg: Altstadt & Altes Rathaus",
       "name_es": "Bamberg: Altstadt & Altes Rathaus (Casco Antiguo de Bamberg y Antiguo Ayuntamiento)",
       "name_zh": "Bamberg: Altstadt & Altes Rathaus (班贝格世界遗产老城与老市政厅)",
       "name_fr": "Bamberg: Altstadt & Altes Rathaus (Vieille Ville de Bamberg et Ancien Hôtel de Ville)",
@@ -2159,11 +2201,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Bamberg: Altstadt & Altes Rathaus"
     },
     {
       "id": "nu_44",
-      "name": "Würzburg: Residenz & Hofgarten（UNESCO）",
+      "name": "Würzburg: Residenz & Hofgarten",
       "category": "Landmark",
       "rating": "★4.9",
       "locationZone": "suburban",
@@ -2194,7 +2237,7 @@
       "price_fr": "Intérieur du palais : 9 € / Jardins : Accès libre",
       "price_de": "Residenz Innenräume: 9 € / Hofgarten: Eintritt frei",
       "name_en": "Würzburg: Residenz & Hofgarten (UNESCO World Heritage)",
-      "name_ja": "Würzburg: Residenz & Hofgarten（UNESCO）",
+      "name_ja": "Würzburg: Residenz & Hofgarten",
       "name_es": "Würzburg: Residenz & Hofgarten (Residenz & Hofgarten Würzburg)",
       "name_zh": "Würzburg: Residenz & Hofgarten (维尔茨堡世界遗产官邸与皇家庭园)",
       "name_fr": "Würzburg: Residenz & Hofgarten (Residenz & Hofgarten Würzburg)",
@@ -2211,7 +2254,8 @@
         "Landmark",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Würzburg: Residenz & Hofgarten"
     },
     {
       "id": "nu_45",
@@ -2262,7 +2306,8 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cadolzburg"
     }
   ],
   "spotCount": 45

@@ -4,7 +4,7 @@
   "spots": [
     {
       "id": "lyon_1",
-      "name": "Basilique Notre-Dame de Fourvière（フルヴィエール ノートルダム大聖堂）",
+      "name": "Basilique Notre-Dame de Fourvière",
       "category": "Landmark",
       "rating": "★4.8",
       "desc": "Iconic 19th-century hilltop basilica dominating Lyon's skyline with ornate mosaics and panoramic city views.",
@@ -53,11 +53,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Basilique Notre-Dame de Fourvière"
     },
     {
       "id": "lyon_2",
-      "name": "Cathédrale Saint-Jean-Baptiste（サン ジャン バティスト大聖堂）",
+      "name": "Cathédrale Saint-Jean-Baptiste",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Majestic Gothic cathedral in Vieux Lyon featuring a rare 14th-century astronomical clock.",
@@ -106,11 +107,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cathédrale Saint-Jean-Baptiste"
     },
     {
       "id": "lyon_3",
-      "name": "Ancient Theatre of Fourvière（フルヴィエールの古代劇場 (ローマ劇場）",
+      "name": "Ancient Theatre of Fourvière",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Grand 15 BC Roman amphitheatre built into the Fourvière hillside, still hosting summer performing arts festivals.",
@@ -159,11 +161,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Ancient Theatre of Fourvière"
     },
     {
       "id": "lyon_4",
-      "name": "Place Bellecour（ベルクール広場）",
+      "name": "Place Bellecour",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "One of Europe's largest pedestrian plazas, centered around an equestrian statue of King Louis XIV.",
@@ -212,11 +215,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Place Bellecour"
     },
     {
       "id": "lyon_5",
-      "name": "Place des Terreaux & Bartholdi Fountain（テロー広場＆バルトルディの噴水）",
+      "name": "Place des Terreaux & Bartholdi Fountain",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Vibrant city plaza framed by the Hôtel de Ville and Fine Arts Museum, featuring Frédéric-Auguste Bartholdi's monumental fountain.",
@@ -268,11 +272,12 @@
         "Museum",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Place des Terreaux & Bartholdi Fountain"
     },
     {
       "id": "lyon_6",
-      "name": "Grand Hôtel-Dieu（グラン オテル デュー）",
+      "name": "Grand Hôtel-Dieu",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "Magnificent 12th-century former hospital restored into a luxury heritage landmark with courtyards, dining, and shops.",
@@ -323,11 +328,12 @@
         "Landmark",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Grand Hôtel-Dieu"
     },
     {
       "id": "lyon_7",
-      "name": "Amphitheatre of the Three Gauls（三人のガリア人の円形劇場）",
+      "name": "Amphitheatre of the Three Gauls",
       "category": "Landmark",
       "rating": "★4.5",
       "desc": "Historical Roman amphitheatre where delegates from Gallic tribes gathered in antiquity on Croix-Rousse hill.",
@@ -376,11 +382,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Amphitheatre of the Three Gauls"
     },
     {
       "id": "lyon_8",
-      "name": "Église Saint-Nizier（サン ニジエ教会）",
+      "name": "Église Saint-Nizier",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Striking Flamboyant Gothic church on the Presqu'île peninsula with asymmetric spires and crypt history.",
@@ -429,11 +436,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Église Saint-Nizier"
     },
     {
       "id": "lyon_9",
-      "name": "Fresque des Canuts（カニュの壁画）",
+      "name": "Fresque des Canuts",
       "category": "Landmark",
       "rating": "★4.7",
       "desc": "UNESCO World Heritage Dominican priory designed by modernist architect Le Corbusier in Éveux.",
@@ -482,11 +490,12 @@
       "categories": [
         "Landmark"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fresque des Canuts"
     },
     {
       "id": "lyon_10",
-      "name": "Château de Rochetaillée（Henri Malartre Museum）",
+      "name": "Château de Rochetaillée",
       "category": "Landmark",
       "rating": "★4.6",
       "desc": "Charming riverside castle housing a vintage automobile collection including Hitler's Mercedes and rare cars.",
@@ -513,7 +522,7 @@
       "tip_fr": "Reposez-vous dans le magnifique jardin du cloître du XVIIe siècle au cœur du musée, un havre de paix gratuit.",
       "tip_de": "Entspannen Sie im ruhigen Klostergarten des 17. Jahrhunderts im Innenhof des Museums nahe dem Place des Terreaux.",
       "name_en": "Château de Rochetaillée (Henri Malartre Museum)",
-      "name_ja": "Château de Rochetaillée（Henri Malartre Museum）",
+      "name_ja": "Château de Rochetaillée",
       "name_es": "Château de Rochetaillée (Museo Henri Malartre)",
       "name_zh": "Château de Rochetaillée (亨利·马拉特博物馆)",
       "name_fr": "Château de Rochetaillée (Musée Henri Malartre)",
@@ -536,11 +545,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Château de Rochetaillée"
     },
     {
       "id": "lyon_11",
-      "name": "Musée des Beaux-Arts de Lyon（リヨン美術館）",
+      "name": "Musée des Beaux-Arts de Lyon",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "desc": "Nicknamed 'The Little Louvre', housed in a 17th-century Benedictine convent with masterworks from Rembrandt to Monet.",
@@ -589,11 +599,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Beaux-Arts de Lyon"
     },
     {
       "id": "lyon_12",
-      "name": "Musée des Confluences（コンフリュアンス美術館）",
+      "name": "Musée des Confluences",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Futuristic glass and steel museum at the confluence of the Rhône and Saône rivers exploring natural science and civilizations.",
@@ -643,11 +654,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Confluences"
     },
     {
       "id": "lyon_13",
-      "name": "Cinema and Miniature Museum（映画とミニチュアの博物館 (Musée Cinéma et Miniature）",
+      "name": "Cinema and Miniature Museum",
       "category": "Museum & Gallery",
       "rating": "★4.8",
       "desc": "Fascinating museum inside a 16th-century Renaissance mansion displaying movie props, special effects, and hyper-realistic miniature dioramas.",
@@ -697,11 +709,12 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cinema and Miniature Museum"
     },
     {
       "id": "lyon_14",
-      "name": "Institut Lumière（インスティテュート リュミエール (映画博物館）",
+      "name": "Institut Lumière",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "desc": "Birthplace of modern cinema located in the Art Nouveau villa of August and Louis Lumière, inventors of the Cinématographe.",
@@ -750,11 +763,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Institut Lumière"
     },
     {
       "id": "lyon_15",
-      "name": "Gadagne Museum（ガダーニュ美術館 (MAM & MHL）",
+      "name": "Gadagne Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Renaissance palace housing Lyon's History Museum and World Puppetry Museum dedicated to Guignol.",
@@ -804,11 +818,12 @@
         "Landmark",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Gadagne Museum"
     },
     {
       "id": "lyon_16",
-      "name": "Musée des Tissus et des Arts Décoratifs（織物装飾芸術美術館）",
+      "name": "Musée des Tissus et des Arts Décoratifs",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "World-renowned collection tracing 2,000 years of textile craftsmanship, reflecting Lyon's historic silk industry.",
@@ -857,11 +872,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Musée des Tissus et des Arts Décoratifs"
     },
     {
       "id": "lyon_17",
-      "name": "Museum of Printing and Graphic Communication（印刷とグラフィック コミュニケーションの博物館）",
+      "name": "Museum of Printing and Graphic Communication",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "15th-century mansion celebrating Lyon's legacy as a European printing capital with Gutenberg presses and rare manuscripts.",
@@ -910,11 +926,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Museum of Printing and Graphic Communication"
     },
     {
       "id": "lyon_18",
-      "name": "Lugdunum Museum & Roman Theatres（ルグドゥヌム博物館とローマ劇場）",
+      "name": "Lugdunum Museum & Roman Theatres",
       "category": "Museum & Gallery",
       "rating": "★4.7",
       "desc": "Underground archaeological museum integrated into the hillside adjacent to Roman theatres, preserving ancient Lugdunum relics.",
@@ -963,11 +980,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Lugdunum Museum & Roman Theatres"
     },
     {
       "id": "lyon_19",
-      "name": "Centre d'Histoire de la Résistance et de la Déportation（抵抗と国外追放の歴史センター (CHRD）",
+      "name": "Centre d'Histoire de la Résistance et de la Déportation",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Moving museum housed in former Gestapo headquarters honoring Lyon's role as the Capital of French Resistance in WWII.",
@@ -1016,11 +1034,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Centre d'Histoire de la Résistance et de la Déportation"
     },
     {
       "id": "lyon_20",
-      "name": "macLYON（マクリオン (リヨン現代美術館）",
+      "name": "macLYON",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Renzo Piano-designed contemporary art venue adjacent to Parc de la Tête d'Or, host of the Lyon Biennale.",
@@ -1071,11 +1090,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "macLYON"
     },
     {
       "id": "lyon_21",
-      "name": "Tony Garnier Open-Air Urban Museum（トニー ガルニエ野外都市博物館）",
+      "name": "Tony Garnier Open-Air Urban Museum",
       "category": "Museum & Gallery",
       "rating": "★4.5",
       "desc": "Open-air art gallery featuring 25 monumental wall murals painted on 1930s social housing designed by architect Tony Garnier.",
@@ -1124,11 +1144,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Tony Garnier Open-Air Urban Museum"
     },
     {
       "id": "lyon_22",
-      "name": "Clément Ader Aviation Museum（クレマン・アデール航空博物館）",
+      "name": "Clément Ader Aviation Museum",
       "category": "Museum & Gallery",
       "rating": "★4.6",
       "desc": "Aviation museum in Corbas displaying vintage military aircraft, jets, helicopters, and flight engines.",
@@ -1177,11 +1198,12 @@
       "categories": [
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Clément Ader Aviation Museum"
     },
     {
       "id": "lyon_23",
-      "name": "Les Halles de Lyon Paul Bocuse（レ アール ドゥ リヨン ポール ボキューズ）",
+      "name": "Les Halles de Lyon Paul Bocuse",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "The temple of Lyonnaise gastronomy featuring gourmet stalls selling Saint-Marcellin cheese, charcuterie, and fresh oysters.",
@@ -1230,11 +1252,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Les Halles de Lyon Paul Bocuse"
     },
     {
       "id": "lyon_24",
-      "name": "Historic Bouchon Lyonnais（歴史あるブション・リヨネ（カフェ・デ・フェデレーション）",
+      "name": "Historic Bouchon Lyonnais",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Authentic certified Lyonnaise bistro serving traditional quenelles, tablier de sapeur, and local Beaujolais wine.",
@@ -1283,11 +1306,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Historic Bouchon Lyonnais"
     },
     {
       "id": "lyon_25",
-      "name": "Cité Internationale de la Gastronomie de Lyon（リヨン国際美食センター）",
+      "name": "Cité Internationale de la Gastronomie de Lyon",
       "category": "Café & Bistro",
       "rating": "★4.5",
       "desc": "Interactive culinary exhibition center inside Grand Hôtel-Dieu celebrating UNESCO French gastronomy and tasting workshops.",
@@ -1337,11 +1361,12 @@
         "Café",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cité Internationale de la Gastronomie de Lyon"
     },
     {
       "id": "lyon_26",
-      "name": "La Maison Sève（ラ・メゾン・セーヴ（プラリネタルト工房）",
+      "name": "La Maison Sève",
       "category": "Café & Bistro",
       "rating": "★4.7",
       "desc": "Master pastry atelier famous for Lyon's signature pink-candied almond 'Tarte à la Praline' and artisanal sweets.",
@@ -1390,11 +1415,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "La Maison Sève"
     },
     {
       "id": "lyon_27",
-      "name": "Maison Bernachon（メゾン ベルナション（ショコラティエ）",
+      "name": "Maison Bernachon",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "desc": "Legendary bean-to-bar chocolatier since 1953, famous for the President cake created for Paul Bocuse.",
@@ -1444,11 +1470,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Maison Bernachon"
     },
     {
       "id": "lyon_28",
-      "name": "Café Comptoir Abel（カフェ コントワール アベル）",
+      "name": "Café Comptoir Abel",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "One of Lyon's oldest authentic bouchons serving pike quenelles with crayfish sauce in a 1700s timber-lined dining room.",
@@ -1497,11 +1524,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Café Comptoir Abel"
     },
     {
       "id": "lyon_29",
-      "name": "Brasserie Georges（ブラッスリー ジョルジュ）",
+      "name": "Brasserie Georges",
       "category": "Café & Bistro",
       "rating": "★4.6",
       "desc": "Historic 1836 Art Deco beer hall famous for house-brewed craft beers, choucroute, and vibrant atmosphere.",
@@ -1551,11 +1579,12 @@
         "Café",
         "Night"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Brasserie Georges"
     },
     {
       "id": "lyon_30",
-      "name": "Restaurant Paul Bocuse（レストラン ポール ボキューズ (ローベルジュ デュ ポン ドゥ コロンジュ）",
+      "name": "Restaurant Paul Bocuse",
       "category": "Café & Bistro",
       "rating": "★4.8",
       "desc": "The world-famous flagship temple of French gastronomy in Collonges-au-Mont-d'Or.",
@@ -1604,11 +1633,12 @@
       "categories": [
         "Café"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Restaurant Paul Bocuse"
     },
     {
       "id": "lyon_31",
-      "name": "Vieux Lyon & Secret Traboules（ヴュー リヨンとシークレット トラブール）",
+      "name": "Vieux Lyon & Secret Traboules",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "UNESCO Renaissance quarter of cobblestone alleyways and hidden passageways (traboules) through private courtyards.",
@@ -1658,11 +1688,12 @@
         "Scenery",
         "Shopping"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Vieux Lyon & Secret Traboules"
     },
     {
       "id": "lyon_32",
-      "name": "Croix-Rousse Hill & Pentes（クロワ・ルースの丘とペント）",
+      "name": "Croix-Rousse Hill & Pentes",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Bohemian hilltop neighborhood of former silk workers ('Canuts') featuring high-ceiling lofts, staircases, and vibrant cafés.",
@@ -1712,11 +1743,12 @@
         "Café",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Croix-Rousse Hill & Pentes"
     },
     {
       "id": "lyon_33",
-      "name": "Cour des Voraces（クール・デ・ヴォラセス (歴史的トラブール）",
+      "name": "Cour des Voraces",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Iconic 6-story open-air stairwell traboule on Croix-Rousse, central to 19th-century silk worker revolts.",
@@ -1765,11 +1797,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Cour des Voraces"
     },
     {
       "id": "lyon_34",
-      "name": "Fresque des Lyonnais（フレスク・デ・リヨネ (壁画）",
+      "name": "Fresque des Lyonnais",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Stunning 800m² trompe-l'œil mural depicting 30 famous historical figures of Lyon including Antoine de Saint-Exupéry.",
@@ -1818,11 +1851,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Fresque des Lyonnais"
     },
     {
       "id": "lyon_35",
-      "name": "Mur des Canuts（製糸労働者の壁画）",
+      "name": "Mur des Canuts",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Europe's largest trompe-l'œil wall painting (1,200m²), illustrating life in the Croix-Rousse silk district.",
@@ -1871,11 +1905,12 @@
       "categories": [
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mur des Canuts"
     },
     {
       "id": "lyon_36",
-      "name": "Passerelle Saint-Georges（サン ジョルジュ通り (吊り橋）",
+      "name": "Passerelle Saint-Georges",
       "category": "Scenery & Walk",
       "rating": "★4.7",
       "desc": "Elegant red pedestrian suspension footbridge over the Saône river offering views of Saint-Georges church.",
@@ -1925,11 +1960,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Passerelle Saint-Georges"
     },
     {
       "id": "lyon_37",
-      "name": "Saône & Rhône Riverbanks Promenade（ソーヌ＆ローヌ川岸のプロムナード）",
+      "name": "Saône & Rhône Riverbanks Promenade",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Landscaped riverfront boardwalks lined with barge cafes ('Péniches'), cycling lanes, and sunset rest spots.",
@@ -1980,11 +2016,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Saône & Rhône Riverbanks Promenade"
     },
     {
       "id": "lyon_38",
-      "name": "Jardin des Curiosités（好奇心庭園 (ベルビュー公園）",
+      "name": "Jardin des Curiosités",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "Hidden hilltop garden park gifted by Montreal offering romantic panoramic views over Lyon's red roofs.",
@@ -2034,11 +2071,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Jardin des Curiosités"
     },
     {
       "id": "lyon_39",
-      "name": "Confluence Waterfront District（コンフルエンス ウォーターフロント地区）",
+      "name": "Confluence Waterfront District",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Ultra-modern eco-district showcasing bold contemporary architecture such as the Orange Cube and docks.",
@@ -2088,11 +2126,12 @@
         "Museum",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Confluence Waterfront District"
     },
     {
       "id": "lyon_40",
-      "name": "Île Barbe（バルベ島 (バルベ島）",
+      "name": "Île Barbe",
       "category": "Scenery & Walk",
       "rating": "★4.6",
       "desc": "Peaceful green island on the Saône river featuring ruins of a 5th-century monastery and stone cottages.",
@@ -2144,11 +2183,12 @@
         "Night",
         "Scenery"
       ],
-      "is_night_spot": true
+      "is_night_spot": true,
+      "name_local": "Île Barbe"
     },
     {
       "id": "lyon_41",
-      "name": "Medieval Village of Pérouges（ペルージュの中世の村）",
+      "name": "Medieval Village of Pérouges",
       "category": "Scenery & Walk",
       "rating": "★4.8",
       "desc": "One of France's Most Beautiful Villages, boasting fully preserved 15th-century stone ramparts and galette pastry.",
@@ -2198,11 +2238,12 @@
         "Landmark",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Medieval Village of Pérouges"
     },
     {
       "id": "lyon_42",
-      "name": "Parc de la Tête d'Or（テットドール公園）",
+      "name": "Parc de la Tête d'Or",
       "category": "Kids & Family",
       "rating": "★4.8",
       "desc": "Sprawling 117-hectare urban park featuring a free zoo, botanical gardens, lake boats, and rose gardens.",
@@ -2252,11 +2293,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Parc de la Tête d'Or"
     },
     {
       "id": "lyon_43",
-      "name": "Théâtre Guignol de Lyon / Maison de Guignol（リヨン劇場 / ギニョル邸）",
+      "name": "Théâtre Guignol de Lyon / Maison de Guignol",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "Traditional puppet theatre carrying on the 200-year legacy of Lyon's famous Guignol puppet shows.",
@@ -2305,11 +2347,12 @@
       "categories": [
         "Kids"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Théâtre Guignol de Lyon / Maison de Guignol"
     },
     {
       "id": "lyon_44",
-      "name": "Aquarium de Lyon（リヨン水族館）",
+      "name": "Aquarium de Lyon",
       "category": "Kids & Family",
       "rating": "★4.5",
       "desc": "Riverside aquarium housing 5,000 fish across 47 tanks, featuring a shark tunnel and touch pool.",
@@ -2359,11 +2402,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Aquarium de Lyon"
     },
     {
       "id": "lyon_45",
-      "name": "Mini World Lyon（ミニワールド リヨン）",
+      "name": "Mini World Lyon",
       "category": "Kids & Family",
       "rating": "★4.7",
       "desc": "France's largest animated miniature park with 3,000 m² of interactive animated landscapes and model trains.",
@@ -2413,11 +2457,12 @@
         "Kids",
         "Scenery"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Mini World Lyon"
     },
     {
       "id": "lyon_46",
-      "name": "Planétarium de Vaulx-en-Velin（ヴォー アン ヴラン プラネタリウム）",
+      "name": "Planétarium de Vaulx-en-Velin",
       "category": "Kids & Family",
       "rating": "★4.6",
       "desc": "State-of-the-art astronomy center featuring 360-degree digital dome shows and hands-on space exhibits.",
@@ -2467,7 +2512,8 @@
         "Kids",
         "Museum"
       ],
-      "is_night_spot": false
+      "is_night_spot": false,
+      "name_local": "Planétarium de Vaulx-en-Velin"
     }
   ]
 }
