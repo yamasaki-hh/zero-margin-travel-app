@@ -948,6 +948,8 @@ footer {
 @media (max-width: 640px) {
   .container {
     padding: 0.25rem 0.15rem !important;
+    max-width: 100% !important;
+    overflow-x: hidden !important;
   }
   .planner-outer-box {
     padding: 0.4rem 0.15rem !important;
@@ -956,6 +958,27 @@ footer {
     padding: 0.35rem 0.15rem !important;
     margin-bottom: 0.85rem !important;
   }
+  /* Fix route result cards & candidate cards mobile overflow */
+  #aiPlanResult,
+  #aiPlanResult .card,
+  #routeA_itemList,
+  #routeB_itemList {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    overflow-x: hidden !important;
+  }
+  #aiPlanResult .card {
+    padding: 0.75rem 0.5rem !important;
+  }
+  #routeA_itemList > div,
+  #routeB_itemList > div {
+    padding: 0.4rem 0.45rem !important;
+    gap: 0.25rem !important;
+    box-sizing: border-box !important;
+    max-width: 100% !important;
+  }
+}
+
 @keyframes floatBounce {
   0%, 100% {
     transform: translateY(0px) rotate(0deg);
