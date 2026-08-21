@@ -8,6 +8,19 @@ const SVG_FALLBACK_IMAGE = `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.or
 
 let candidateSpotsDatabase = {};
 
+
+function getCategoryIcon(cat) {
+  if (!cat) return '📍';
+  const c = String(cat).toLowerCase();
+  if (c.includes('hotel') || c.includes('stay')) return '🏨';
+  if (c.includes('café') || c.includes('cafe') || c.includes('bakery')) return '☕';
+  if (c.includes('bistro') || c.includes('restaurant') || c.includes('dining')) return '🍷';
+  if (c.includes('park') || c.includes('garden')) return '🌳';
+  if (c.includes('museum') || c.includes('gallery')) return '🎨';
+  if (c.includes('palace') || c.includes('castle') || c.includes('church') || c.includes('cathedral') || c.includes('landmark')) return '🏛️';
+  return '📍';
+}
+
 const AITravelEngine = {
   selectedMustVisitIds: new Set(),
 
