@@ -7,6 +7,13 @@ const I18nEngine = {
   
   translations: {
     "en": {
+      "share.generalTitle": "Share this site",
+      "share.generalText": "A free app that automatically plans optimal Europe travel routes. Very helpful! ✈️ #0MarginTravel",
+      "share.routeTitle": "Share this itinerary",
+      "share.routeText": "I made a 1-day travel plan for [City]! Check out the route 🗺️",
+      "share.copy": "Copy Link",
+      "share.copied": "Copied!",
+
         "view.label": "View Mode:",
         "view.matching": "matching places",
         "view.compact": "📄 Compact",
@@ -95,6 +102,13 @@ const I18nEngine = {
       "step3.title": "Step 3: Launch in Maps — Choose Route A (Selected Only) or Route B (Curated Full-Day Loop)"
     },
     "ja": {
+      "share.generalTitle": "このサイトをシェアする",
+      "share.generalText": "ヨーロッパ旅行のルートを自動生成できる無料ツール。便利です！ ✈️ #0MarginTravel",
+      "share.routeTitle": "この旅程をシェアする",
+      "share.routeText": "[City]の1日観光プランを作りました！ルートをチェックしてみてね 🗺️",
+      "share.copy": "URLをコピー",
+      "share.copied": "コピーしました！",
+
         "view.label": "表示スタイル:",
         "view.matching": "件該当",
         "view.compact": "📄 コンパクト",
@@ -183,6 +197,13 @@ const I18nEngine = {
       "step3.title": "ステップ3: ナビ起動 — ルートA（選択のみ）またはルートB（1日フルおすすめコース）を選択"
     },
     "nl": {
+      "share.generalTitle": "Deel deze site",
+      "share.generalText": "Een gratis app die automatisch optimale reisroutes in Europa plant. Erg handig! ✈️ #0MarginTravel",
+      "share.routeTitle": "Deel dit reisplan",
+      "share.routeText": "Ik heb een 1-daags reisplan gemaakt voor [City]! Bekijk de route 🗺️",
+      "share.copy": "Kopieer link",
+      "share.copied": "Gekopieerd!",
+
         "view.label": "Weergavemodus:",
         "view.matching": "plekken gevonden",
         "view.compact": "📄 Compact",
@@ -271,6 +292,13 @@ const I18nEngine = {
       "step3.title": "Stap 3: Start Navigatie — Kies Route A of Route B"
     },
     "fr": {
+      "share.generalTitle": "Partager ce site",
+      "share.generalText": "Une appli gratuite qui crée automatiquement des itinéraires de voyage en Europe. Très pratique ! ✈️ #0MarginTravel",
+      "share.routeTitle": "Partager cet itinéraire",
+      "share.routeText": "J'ai créé un plan de voyage d'un jour pour [City] ! Découvrez l'itinéraire 🗺️",
+      "share.copy": "Copier le lien",
+      "share.copied": "Copié !",
+
         "view.label": "Mode d'affichage :",
         "view.matching": "lieux trouvés",
         "view.compact": "📄 Compact",
@@ -359,6 +387,13 @@ const I18nEngine = {
       "step3.title": "Étape 3: Lancez Maps — Choisissez la Route A ou la Route B"
     },
     "de": {
+      "share.generalTitle": "Diese Seite teilen",
+      "share.generalText": "Eine kostenlose App, die automatisch optimale Reiserouten für Europa plant. Sehr praktisch! ✈️ #0MarginTravel",
+      "share.routeTitle": "Diese Reiseroute teilen",
+      "share.routeText": "Ich habe einen 1-Tages-Reiseplan für [City] erstellt! Sieh dir die Route an 🗺️",
+      "share.copy": "Link kopieren",
+      "share.copied": "Kopiert!",
+
         "view.label": "Anzeigemodus:",
         "view.matching": "passende Orte",
         "view.compact": "📄 Kompakt",
@@ -447,6 +482,13 @@ const I18nEngine = {
       "step3.title": "Schritt 3: Navigation Starten — Route A oder Route B Wählen"
     },
     "es": {
+      "share.generalTitle": "Compartir este sitio",
+      "share.generalText": "Una aplicación gratuita que planifica rutas de viaje por Europa. ¡Muy útil! ✈️ #0MarginTravel",
+      "share.routeTitle": "Compartir este itinerario",
+      "share.routeText": "¡He creado un plan de viaje de 1 día para [City]! Mira la ruta 🗺️",
+      "share.copy": "Copiar enlace",
+      "share.copied": "¡Copiado!",
+
         "view.label": "Modo de vista:",
         "view.matching": "lugares encontrados",
         "view.compact": "📄 Compacto",
@@ -535,6 +577,13 @@ const I18nEngine = {
       "step3.title": "Paso 3: Inicie Navegación — Elija Ruta A o Ruta B"
     },
     "zh": {
+      "share.generalTitle": "分享这个网站",
+      "share.generalText": "一个免费的欧洲旅行路线自动生成工具。非常方便！ ✈️ #0MarginTravel",
+      "share.routeTitle": "分享此行程",
+      "share.routeText": "我制作了[City]的1日游计划！来看看这条路线吧 🗺️",
+      "share.copy": "复制链接",
+      "share.copied": "已复制！",
+
         "view.label": "视图模式:",
         "view.matching": "个相关景点",
         "view.compact": "📄 紧凑视图",

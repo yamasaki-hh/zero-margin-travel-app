@@ -29,10 +29,71 @@ const AITravelEngine = {
       const response = await fetch('data/spots.json');
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       candidateSpotsDatabase = await response.json();
+      this.restoreStateFromUrl();
     } catch (error) {
       console.error("Failed to load spot database:", error);
       candidateSpotsDatabase = {};
     }
+  },
+
+  restoreStateFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const city = params.get('city');
+    const spots = params.get('spots');
+    
+    if (city && spots) {
+      this.lastCity = decodeURIComponent(city);
+      const destElem = document.getElementById('aiPlanDestination');
+      if (destElem) destElem.value = this.lastCity;
+      
+      const spotIds = spots.split(',');
+      this.selectedMustVisitIds.clear();
+      spotIds.forEach(id => this.selectedMustVisitIds.add(id));
+      
+      setTimeout(() => {
+        this.renderCandidateSpots();
+        this.renderDualRouteManager(this.lastCity);
+        const routeContainer = document.getElementById('routeContainer');
+        if (routeContainer) {
+          routeContainer.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 100);
+    }
+  },
+
+  shareGeneral(platform) {
+    const t = (k) => window.I18nEngine ? window.I18nEngine.getText(k) : k;
+    const text = encodeURIComponent(t('share.generalText') || 'A free app that automatically plans optimal Europe travel routes. Very helpful! ✈️ #0MarginTravel');
+    const url = encodeURIComponent('https://zeromargin-travel.github.io/');
+    this.openShareLink(platform, text, url);
+  },
+
+  shareRoute(platform) {
+    if (!this.lastCity || this.selectedMustVisitIds.size === 0) return;
+    const t = (k) => window.I18nEngine ? window.I18nEngine.getText(k) : k;
+    let baseText = t('share.routeText') || 'I made a 1-day travel plan for [City]! Check out the route 🗺️';
+    baseText = baseText.replace('[City]', this.lastCity.split(',')[0]);
+    
+    const text = encodeURIComponent(baseText);
+    const spotIds = Array.from(this.selectedMustVisitIds).join(',');
+    const routeUrl = `https://zeromargin-travel.github.io/?city=${encodeURIComponent(this.lastCity)}&spots=${spotIds}`;
+    this.openShareLink(platform, text, encodeURIComponent(routeUrl));
+  },
+
+  openShareLink(platform, text, url) {
+    let shareUrl = '';
+    if (platform === 'x') shareUrl = `https://twitter.com/intent/tweet?text=${text}&url=${url}`;
+    if (platform === 'line') shareUrl = `https://line.me/R/msg/text/?${text}%20${url}`;
+    if (platform === 'wa') shareUrl = `https://api.whatsapp.com/send?text=${text}%20${url}`;
+    if (platform === 'copy') {
+      const decodedUrl = decodeURIComponent(url);
+      navigator.clipboard.writeText(decodedUrl).then(() => {
+        const t = (k) => window.I18nEngine ? window.I18nEngine.getText(k) : k;
+        alert(t('share.copied') || 'Copied!');
+      });
+      return;
+    }
+    if (shareUrl) window.open(shareUrl, '_blank');
   },
 
   // Helper to create single venue Google Maps live search link button
@@ -1299,7 +1360,24 @@ const viewModeBarHtml = categoryFilterBarHtml + `
         </div>
 
       </div>
+      
+      <!-- Bottom Share UI -->
+      <div style="margin-top:2rem; padding:1.5rem; background:#FEF3C7; border:2px dashed #B45309; border-radius:16px; text-align:center;">
+        <h4 style="font-size:1.1rem; color:#78350F; font-weight:800; margin-bottom:0.8rem; font-family:'Playfair Display', serif;" data-i18n="share.routeTitle">Share this itinerary</h4>
+        <div style="display:flex; gap:0.6rem; justify-content:center; align-items:center;">
+          <button onclick="AITravelEngine.shareRoute('line')" style="background:#06C755; color:white; border:none; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #047857; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="LINE">L</button>
+          <button onclick="AITravelEngine.shareRoute('x')" style="background:#000; color:white; border:none; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #333; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="X">X</button>
+          <button onclick="AITravelEngine.shareRoute('wa')" style="background:#25D366; color:white; border:none; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #166534; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="WhatsApp">W</button>
+          <button onclick="AITravelEngine.shareRoute('copy')" style="background:#FFF; color:#92400E; border:2px solid #B45309; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #B45309; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="Copy Link">🔗</button>
+        </div>
+      </div>
     `;
+
+    resultContainer.innerHTML = html;
+    
+    if (window.I18nEngine) {
+      window.I18nEngine.applyLanguage(window.I18nEngine.currentLang);
+    }
 
     setTimeout(() => {
       resultContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });

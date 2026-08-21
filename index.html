@@ -7,6 +7,14 @@
   <title>[Free] 0Margin Travel — AI Europe Trip Planner & Multi-Stop Google Maps Navigation</title>
   <meta name="description" content="Free AI Europe Trip Planner. Just pick ★4.5+ curated spots! Generate turn-by-turn Google Maps routes for Paris, Amsterdam, Berlin & more in 1 second.">
 
+  <!-- Open Graph / Social Media Meta Tags -->
+  <meta property="og:title" content="0 Margin Travel - Smart Europe Routes. Instantly.">
+  <meta property="og:description" content="Plan your perfect European trip for free. 25 cities, 1370+ spots.">
+  <meta property="og:image" content="https://zeromargin-travel.github.io/img/og-image.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://zeromargin-travel.github.io/">
+  <meta name="twitter:card" content="summary_large_image">
+
   <!-- Google Fonts: Inter, Playfair Display & Caveat -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,8 +43,14 @@
       </div>
     </div>
 
-    <!-- Global Language Selector Dropdown -->
-    <div style="display:flex; align-items:center; gap:0.4rem;">
+    <!-- Global Language Selector & Share -->
+    <div style="display:flex; align-items:center; gap:0.6rem;">
+      <div id="topShareContainer" style="display:flex; gap:0.4rem; align-items:center;">
+        <button onclick="AITravelEngine.shareGeneral('line')" style="background:#06C755; color:white; border:none; border-radius:6px; width:28px; height:28px; cursor:pointer; font-weight:bold; font-size:12px; display:flex; align-items:center; justify-content:center; box-shadow:1px 1px 0px var(--border-ink);" title="LINE">L</button>
+        <button onclick="AITravelEngine.shareGeneral('x')" style="background:#000; color:white; border:none; border-radius:6px; width:28px; height:28px; cursor:pointer; font-weight:bold; font-size:12px; display:flex; align-items:center; justify-content:center; box-shadow:1px 1px 0px var(--border-ink);" title="X">X</button>
+        <button onclick="AITravelEngine.shareGeneral('wa')" style="background:#25D366; color:white; border:none; border-radius:6px; width:28px; height:28px; cursor:pointer; font-weight:bold; font-size:12px; display:flex; align-items:center; justify-content:center; box-shadow:1px 1px 0px var(--border-ink);" title="WhatsApp">W</button>
+        <button onclick="AITravelEngine.shareGeneral('copy')" style="background:#FDE68A; color:#92400E; border:1.5px solid var(--border-ink); border-radius:6px; width:28px; height:28px; cursor:pointer; font-weight:bold; font-size:12px; display:flex; align-items:center; justify-content:center; box-shadow:1px 1px 0px var(--border-ink);" title="Copy Link">🔗</button>
+      </div>
       <select id="globalLanguageSelect" class="form-control" onchange="I18nEngine.setLanguage(this.value)" style="padding:0.3rem 0.6rem; font-size:0.85rem; font-weight:700; border-radius:8px; border:2px solid var(--border-ink); background:#FFF; cursor:pointer; box-shadow:1px 2px 0px var(--border-ink);">
         <option value="en">🇬🇧 English</option>
         <option value="nl">🇳🇱 Nederlands</option>
