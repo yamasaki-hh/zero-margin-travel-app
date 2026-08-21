@@ -1126,7 +1126,16 @@ const viewModeBarHtml = categoryFilterBarHtml + `
     const count = this.selectedMustVisitIds.size;
     if (count > 0) {
       const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
-      const ctaMsg = (lang === 'ja') ? `そのまま使えるGoogle MapsルートA＆Bを自動生成 (${count}/8件) ↗` : `Generate Ready-to-Use Dual Maps Routes (${count}/8 Selected) ↗`;
+      const ctaMsgMap = {
+        'ja': `そのまま使えるGoogle MapsルートA＆Bを自動生成 (${count}/8件) ↗`,
+        'nl': `Genereer Direct Te Gebruiken Google Maps Routen (${count}/8) ↗`,
+        'fr': `Générer les Itinéraires Google Maps Prêts à l'Emploi (${count}/8) ↗`,
+        'de': `Einsatzbereite Google Maps Routen Generieren (${count}/8) ↗`,
+        'es': `Generar Rutas Listas para Usar en Google Maps (${count}/8) ↗`,
+        'zh': `自动生成包含路线A与B的Google Maps导航 (${count}/8) ↗`,
+        'en': `Generate Ready-to-Use Dual Maps Routes (${count}/8 Selected) ↗`
+      };
+      const ctaMsg = ctaMsgMap[lang] || ctaMsgMap['en'];
       text.innerText = ctaMsg;
       if (fixedText) {
         fixedText.innerText = ctaMsg;
@@ -1423,10 +1432,10 @@ const viewModeBarHtml = categoryFilterBarHtml + `
                 </span>
               </div>
 
-              <h4 style="font-size:1.15rem; color:#FFFFFF; margin-bottom:0.35rem;" class="font-serif">
+              <h4 style="font-size:1.15rem; color:#065F46; margin-bottom:0.35rem;" class="font-serif">
                 ${t('routeA.title')}
               </h4>
-              <p class="route-card-desc" style="margin-bottom:1rem; color:#FFFFFF !important; font-weight:700;">
+              <p class="route-card-desc" style="margin-bottom:1rem; color:#047857; font-weight:700;">
                 ${t('routeA.sub')}
               </p>
 
@@ -1452,10 +1461,10 @@ const viewModeBarHtml = categoryFilterBarHtml + `
                 </span>
               </div>
 
-              <h4 style="font-size:1.15rem; color:#FFFFFF; margin-bottom:0.35rem;" class="font-serif">
+              <h4 style="font-size:1.15rem; color:#92400E; margin-bottom:0.35rem;" class="font-serif">
                 ${t('routeB.title')}
               </h4>
-              <p class="route-card-desc" style="margin-bottom:1rem; color:#FFFFFF !important; font-weight:700;">
+              <p class="route-card-desc" style="margin-bottom:1rem; color:#B45309; font-weight:700;">
                 ${t('routeB.sub')}
               </p>
 
@@ -1515,7 +1524,6 @@ const viewModeBarHtml = categoryFilterBarHtml + `
 
     `;
 
-    resultContainer.innerHTML = html;
     
     if (window.I18nEngine) {
       window.I18nEngine.applyLanguage(window.I18nEngine.currentLang);
