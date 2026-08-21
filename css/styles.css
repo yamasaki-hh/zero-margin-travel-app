@@ -4,34 +4,34 @@
    ========================================================================== */
 
 :root {
-  --bg-main: #FAF7F2;
-  --bg-card: #FFFFFF;
-  --bg-card-warm: #FFFDF9;
-  --bg-dark: #1E1B4B;
+  --bg-main: #070A12;
+  --bg-card: rgba(15, 23, 42, 0.85);
+  --bg-card-warm: rgba(30, 41, 59, 0.75);
+  --bg-dark: #030712;
   
-  --text-primary: #292524;
-  --text-secondary: #57534E;
-  --text-light: #78716C;
-  --text-inverse: #F5F5F4;
+  --text-primary: #F9FAFB;
+  --text-secondary: #CBD5E1;
+  --text-light: #94A3B8;
+  --text-inverse: #0F172A;
   
-  --primary-gold: #B45309;
-  --primary-gold-light: #FEF3C7;
-  --primary-sunlight: #F59E0B;
-  --primary-forest: #064E3B;
-  --primary-emerald: #047857;
-  --primary-emerald-light: #D1FAE5;
-  --primary-wood: #78350F;
-  --primary-navy: #1E1B4B;
-  --primary-indigo: #312E81;
-  --primary-indigo-light: #E0E7FF;
+  --primary-gold: #F59E0B;
+  --primary-gold-light: rgba(245, 158, 11, 0.18);
+  --primary-sunlight: #FCD34D;
+  --primary-forest: #10B981;
+  --primary-emerald: #059669;
+  --primary-emerald-light: rgba(5, 150, 105, 0.2);
+  --primary-wood: #FDE68A;
+  --primary-navy: #0F172A;
+  --primary-indigo: #6366F1;
+  --primary-indigo-light: rgba(99, 102, 241, 0.2);
   
-  --border-warm: #E6DCC8;
-  --border-ink: #292524;
+  --border-warm: rgba(255, 255, 255, 0.15);
+  --border-ink: rgba(255, 255, 255, 0.22);
   
-  --shadow-sketch: 3px 4px 0px #292524;
-  --shadow-soft: 0 10px 30px rgba(41, 37, 36, 0.06);
+  --shadow-sketch: 0 10px 30px rgba(0, 0, 0, 0.6);
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.5);
   
-  --font-serif: 'Cinzel', 'Noto Serif JP', Georgia, serif;
+  --font-serif: 'Playfair Display', 'Cinzel', 'Noto Serif JP', Georgia, serif;
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-hand: 'Caveat', cursive;
 }
@@ -51,10 +51,11 @@ html {
 body {
   background-color: var(--bg-main);
   background-image: 
-    radial-gradient(#D6C7B2 0.8px, transparent 0.8px),
-    radial-gradient(#D6C7B2 0.8px, var(--bg-main) 0.8px);
-  background-size: 24px 24px;
-  background-position: 0 0, 12px 12px;
+    radial-gradient(circle at 15% 15%, rgba(56, 189, 248, 0.14) 0%, transparent 40%),
+    radial-gradient(circle at 85% 65%, rgba(245, 158, 11, 0.12) 0%, transparent 45%),
+    radial-gradient(rgba(255, 255, 255, 0.07) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 28px 28px;
+  background-attachment: fixed;
   color: var(--text-primary);
   font-family: var(--font-sans);
   line-height: 1.7;
@@ -91,14 +92,16 @@ h1, h2, h3, h4 {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(250, 247, 242, 0.96);
-  backdrop-filter: blur(12px);
-  border-bottom: 2px solid var(--border-ink);
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0.875rem 1.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 .brand-container {
@@ -155,13 +158,13 @@ h1, h2, h3, h4 {
 
 /* Banner */
 .slogan-banner {
-  background: linear-gradient(90deg, #FEF3C7, #D1FAE5, #FEF3C7);
-  color: #064E3B;
+  background: linear-gradient(90deg, #1E1B4B, #0F172A, #1E1B4B);
+  color: #FCD34D;
   text-align: center;
   padding: 0.55rem 1rem;
   font-size: 0.88rem;
   font-weight: 700;
-  border-bottom: 2px solid var(--border-ink);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -240,19 +243,22 @@ h1, h2, h3, h4 {
 
 .card {
   background: var(--bg-card);
-  border: 2px solid var(--border-ink);
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 20px;
   padding: 1.5rem;
-  box-shadow: var(--shadow-sketch);
-  transition: all 0.25s ease;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  transition: all 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
   word-break: break-word;
   overflow-wrap: break-word;
   max-width: 100%;
 }
 
 .card:hover {
-  transform: translate(-2px, -2px);
-  box-shadow: 5px 6px 0px var(--border-ink);
+  transform: translateY(-3px);
+  border-color: rgba(245, 158, 11, 0.4);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6), 0 0 15px rgba(245, 158, 11, 0.2);
 }
 
 /* Hero Section */
@@ -266,14 +272,13 @@ h1, h2, h3, h4 {
   flex-direction: column;
   align-items: center;
   gap: 0.4rem;
-  background: #FEF3C7;
-  color: var(--primary-wood);
+  background: rgba(245, 158, 11, 0.15);
+  color: #FCD34D;
   padding: 0.75rem 1.25rem;
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-  border: 2.5px solid var(--border-ink);
-  box-shadow: var(--shadow-sketch);
+  border-radius: 9999px;
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  box-shadow: 0 0 20px rgba(245, 158, 11, 0.25);
   margin-bottom: 1.5rem;
-  transform: rotate(-0.5deg);
   max-width: 100%;
   word-break: break-word;
 }
@@ -313,14 +318,14 @@ h1, h2, h3, h4 {
   gap: 0.5rem;
   padding: 0.85rem 1.5rem;
   min-height: 48px; /* Touch target requirement */
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border-radius: 14px;
   font-weight: 800;
   font-size: 0.98rem;
   cursor: pointer;
-  transition: all 0.25s ease;
-  border: 2.5px solid var(--border-ink);
+  transition: all 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   text-decoration: none;
-  box-shadow: 4px 5px 0px var(--border-ink);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
   touch-action: manipulation;
   max-width: 100%;
   word-break: break-word;
@@ -329,14 +334,39 @@ h1, h2, h3, h4 {
 }
 
 .btn:hover, .btn:active {
-  transform: translate(-2px, -2px);
-  box-shadow: 6px 7px 0px var(--border-ink);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
 }
 
-.btn-primary { background: var(--primary-gold); color: #fff; }
-.btn-secondary { background: var(--bg-card); color: var(--text-primary); }
-.btn-emerald { background: var(--primary-forest); color: #fff; }
-.btn-indigo { background: var(--primary-navy); color: #fff; }
+.btn-primary { 
+  background: linear-gradient(135deg, var(--primary-gold), #D97706); 
+  color: #fff; 
+  border-color: rgba(245, 158, 11, 0.5);
+  box-shadow: 0 0 20px rgba(245, 158, 11, 0.35);
+}
+.btn-primary:hover {
+  box-shadow: 0 0 30px rgba(245, 158, 11, 0.6);
+}
+.btn-secondary { 
+  background: rgba(30, 41, 59, 0.8); 
+  color: var(--text-primary); 
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.btn-emerald { 
+  background: linear-gradient(135deg, #059669, #047857); 
+  color: #fff; 
+  border-color: rgba(16, 185, 129, 0.5);
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.4);
+}
+.btn-emerald:hover {
+  box-shadow: 0 0 30px rgba(16, 185, 129, 0.65);
+}
+.btn-indigo { 
+  background: linear-gradient(135deg, #6366F1, #4F46E5); 
+  color: #fff; 
+  border-color: rgba(99, 102, 241, 0.5);
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.4);
+}
 
 /* Savings Calculator Box */
 .calc-box {
