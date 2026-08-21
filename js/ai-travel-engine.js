@@ -29,6 +29,26 @@ const AITravelEngine = {
       const response = await fetch('data/spots.json');
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       candidateSpotsDatabase = await response.json();
+      
+      // *** Normalization Layer: Convert free-text strings and scattered booleans to strict tags ***
+      for (const city in candidateSpotsDatabase) {
+        if (!Array.isArray(candidateSpotsDatabase[city])) continue;
+        candidateSpotsDatabase[city].forEach(spot => {
+          const c = String(spot.category || '').toLowerCase();
+          spot.tags = {
+            isLandmark: c.includes('landmark') || c.includes('史跡') || c.includes('名所'),
+            isMuseum: c.includes('museum') || c.includes('art') || c.includes('ギャラリー') || c.includes('美術館') || c.includes('博物館'),
+            isCafe: c.includes('café') || c.includes('cafe') || c.includes('bistro') || c.includes('restaurant') || c.includes('dining') || c.includes('bakery') || c.includes('カフェ') || c.includes('レストラン'),
+            isScenery: c.includes('scenery') || c.includes('walk') || c.includes('park') || c.includes('プロムナード') || c.includes('散策'),
+            isKids: spot.kids === true || spot.family === true || c.includes('kids') || c.includes('family'),
+            isShopping: spot.shopping === true || c.includes('shopping') || c.includes('market')
+          };
+          // Sync boolean flags for consistent UI rendering elsewhere
+          spot.kids = spot.tags.isKids;
+          spot.shopping = spot.tags.isShopping;
+        });
+      }
+      
       this.restoreStateFromUrl();
     } catch (error) {
       console.error("Failed to load spot database:", error);
@@ -333,19 +353,14 @@ const AITravelEngine = {
     if (preset === 'HiddenGem' && spot.hiddenGem !== true) return false;
     if (preset === 'Night' && !(spot.is_night_spot === true || spot.night === true || (Array.isArray(spot.categories) && spot.categories.includes('Night')))) return false;
 
-    // Layer 2: Category Check (Pure Venue Genres)
+    // Layer 2: Category Check (Pure Venue Genres using Normalization Layer tags)
     if (category && category !== 'ALL') {
-      if (Array.isArray(spot.categories)) {
-        if (!spot.categories.includes(category)) return false;
-      } else {
-        const c = String(spot.category || '').toLowerCase();
-        if (category === 'Landmark' && !(c.includes('landmark') || c.includes('史跡') || c.includes('名所'))) return false;
-        if (category === 'Museum' && !(c.includes('museum') || c.includes('art') || c.includes('ギャラリー') || c.includes('美術館') || c.includes('博物館'))) return false;
-        if (category === 'Café' && !(c.includes('café') || c.includes('bistro') || c.includes('restaurant') || c.includes('dining') || c.includes('bakery') || c.includes('カフェ') || c.includes('レストラン'))) return false;
-        if (category === 'Scenery' && !(c.includes('scenery') || c.includes('walk') || c.includes('park') || c.includes('プロムナード') || c.includes('散策'))) return false;
-        if (category === 'Kids' && !(c.includes('kids') || spot.kids === true)) return false;
-        if (category === 'Shopping' && !(c.includes('shopping') || spot.shopping === true)) return false;
-      }
+      if (category === 'Landmark' && (!spot.tags || !spot.tags.isLandmark)) return false;
+      if (category === 'Museum' && (!spot.tags || !spot.tags.isMuseum)) return false;
+      if (category === 'Café' && (!spot.tags || !spot.tags.isCafe)) return false;
+      if (category === 'Scenery' && (!spot.tags || !spot.tags.isScenery)) return false;
+      if (category === 'Kids' && (!spot.tags || !spot.tags.isKids)) return false;
+      if (category === 'Shopping' && (!spot.tags || !spot.tags.isShopping)) return false;
     }
 
     // Layer 3: Conditions Check (AND Logic)
@@ -565,15 +580,45 @@ const AITravelEngine = {
     const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
     return spot['price_' + lang] || spot.price_en || spot.price || '';
   },
-  getLocalizedCategory(categoryKey) {
+  getLocalizedCategory(spot) {
     const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
-    const c = String(categoryKey || '').toLowerCase();
-    if (c.includes('landmark')) return lang === 'ja' ? '🏛️ 名所' : lang === 'es' ? '🏛️ Monumento' : lang === 'zh' ? '🏛️ 地标' : lang === 'fr' ? '🏛️ Monument' : lang === 'de' ? '🏛️ Highlight' : '🏛️ Landmark';
-    if (c.includes('museum') || c.includes('art')) return lang === 'ja' ? '🎨 美術館' : lang === 'es' ? '🎨 Museo' : lang === 'zh' ? '🎨 博物馆' : lang === 'fr' ? '🎨 Musée' : lang === 'de' ? '🎨 Museum' : '🎨 Museum';
-    if (c.includes('café') || c.includes('cafe') || c.includes('bistro') || c.includes('dining') || c.includes('restaurant')) return lang === 'ja' ? '☕ カフェ' : lang === 'es' ? '☕ Café' : lang === 'zh' ? '☕ 咖啡美食' : lang === 'fr' ? '☕ Café' : lang === 'de' ? '☕ Café' : '☕ Café';
-    if (c.includes('scenery') || c.includes('walk') || c.includes('park')) return lang === 'ja' ? '🌆 景観・散策' : lang === 'es' ? '🌆 Paseo' : lang === 'zh' ? '🌆 散步风光' : lang === 'fr' ? '🌆 Promenade' : lang === 'de' ? '🌆 Aussicht' : '🌆 Scenery & Walk';
-    if (c.includes('kids') || c.includes('family')) return lang === 'ja' ? '🧸 キッズ' : lang === 'es' ? '🧸 Niños' : lang === 'zh' ? '🧸 亲子' : lang === 'fr' ? '🧸 Enfants' : lang === 'de' ? '🧸 Kinder' : '🧸 Kids';
-    return categoryKey;
+    
+    // Fallback if spot or tags missing
+    if (!spot || !spot.tags) {
+       const c = String(spot ? spot.category || '' : '').toLowerCase();
+       if (c.includes('landmark')) return lang === 'ja' ? '🏛️ 名所' : lang === 'es' ? '🏛️ Monumento' : lang === 'zh' ? '🏛️ 地标' : lang === 'fr' ? '🏛️ Monument' : lang === 'de' ? '🏛️ Highlight' : '🏛️ Landmark';
+       return lang === 'ja' ? '📍 名所' : lang === 'es' ? '📍 Lugar' : lang === 'zh' ? '📍 景点' : lang === 'fr' ? '📍 Lieu' : lang === 'de' ? '📍 Ort' : '📍 Spot';
+    }
+    
+    let tags = [];
+    if (spot.tags.isLandmark) tags.push(lang === 'ja' ? '🏛️ 名所' : lang === 'es' ? '🏛️ Monumento' : lang === 'zh' ? '🏛️ 地标' : lang === 'fr' ? '🏛️ Monument' : lang === 'de' ? '🏛️ Highlight' : '🏛️ Landmark');
+    if (spot.tags.isMuseum) tags.push(lang === 'ja' ? '🎨 美術館' : lang === 'es' ? '🎨 Museo' : lang === 'zh' ? '🎨 博物馆' : lang === 'fr' ? '🎨 Musée' : lang === 'de' ? '🎨 Museum' : '🎨 Museum');
+    if (spot.tags.isCafe) tags.push(lang === 'ja' ? '☕ カフェ' : lang === 'es' ? '☕ Café' : lang === 'zh' ? '☕ 咖啡美食' : lang === 'fr' ? '☕ Café' : lang === 'de' ? '☕ Café' : '☕ Café');
+    if (spot.tags.isScenery) tags.push(lang === 'ja' ? '🌆 景観・散策' : lang === 'es' ? '🌆 Paseo' : lang === 'zh' ? '🌆 散步风光' : lang === 'fr' ? '🌆 Promenade' : lang === 'de' ? '🌆 Aussicht' : '🌆 Scenery & Walk');
+    if (spot.tags.isKids) tags.push(lang === 'ja' ? '🧸 キッズ' : lang === 'es' ? '🧸 Niños' : lang === 'zh' ? '🧸 亲子' : lang === 'fr' ? '🧸 Enfants' : lang === 'de' ? '🧸 Kinder' : '🧸 Kids');
+    if (spot.tags.isShopping) tags.push(lang === 'ja' ? '🛍️ 買物' : lang === 'es' ? '🛍️ Compras' : lang === 'zh' ? '🛍️ 购物' : lang === 'fr' ? '🛍️ Achats' : lang === 'de' ? '🛍️ Shopping' : '🛍️ Shopping');
+    
+    if (tags.length === 0) return lang === 'ja' ? '📍 名所' : lang === 'es' ? '📍 Lugar' : lang === 'zh' ? '📍 景点' : lang === 'fr' ? '📍 Lieu' : lang === 'de' ? '📍 Ort' : '📍 Spot';
+
+    // Prioritize the active genre if the user is filtering
+    const activeGenre = this.activeGenre;
+    if (activeGenre && activeGenre !== 'ALL') {
+      const activeTagIndex = tags.findIndex(t => {
+        if (activeGenre === 'Landmark') return t.includes('🏛️');
+        if (activeGenre === 'Museum') return t.includes('🎨');
+        if (activeGenre === 'Café') return t.includes('☕');
+        if (activeGenre === 'Scenery') return t.includes('🌆');
+        if (activeGenre === 'Kids') return t.includes('🧸');
+        if (activeGenre === 'Shopping') return t.includes('🛍️');
+        return false;
+      });
+      if (activeTagIndex > 0) {
+        const activeTag = tags.splice(activeTagIndex, 1)[0];
+        tags.unshift(activeTag);
+      }
+    }
+    
+    return tags[0];
   },
   getLocalizedZone(zone) {
     const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
@@ -633,7 +678,7 @@ const AITravelEngine = {
     const activeDesc = this.getLocalizedDesc(spot);
     const activeTip = this.getLocalizedTip(spot);
     const activePrice = this.getLocalizedPrice(spot);
-    const activeCat = this.getLocalizedCategory(spot.category);
+    const activeCat = this.getLocalizedCategory(spot);
     const activeZone = this.getLocalizedZone(spot.locationZone);
 
     const hasPhoto = Boolean(spot.image);
@@ -976,7 +1021,7 @@ const viewModeBarHtml = categoryFilterBarHtml + `
           const cardName = this.getLocalizedSpotName(s);
           const cardDesc = this.getLocalizedDesc(s);
           const cardPrice = this.getLocalizedPrice(s);
-          const cardCat = this.getLocalizedCategory(s.category);
+          const cardCat = this.getLocalizedCategory(s);
           const cardZone = this.getLocalizedZone(s.locationZone);
 
           return `
