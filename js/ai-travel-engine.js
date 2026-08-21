@@ -197,30 +197,30 @@ const AITravelEngine = {
     }
 
     return `
-      <div style="background:linear-gradient(135deg, #FEF3C7, #D1FAE5); border:2.5px solid var(--border-ink); border-radius:20px; padding:1.75rem; margin-bottom:1.75rem; box-shadow:var(--shadow-sketch);">
+      <div style="background:rgba(15, 23, 42, 0.92); border:1px solid rgba(255, 255, 255, 0.2); border-radius:20px; padding:1.75rem; margin-bottom:1.75rem; box-shadow:0 10px 30px rgba(0,0,0,0.6);">
         
         <div style="text-align:center; margin-bottom:1.5rem;">
-          <div style="font-size:1.45rem; color:var(--primary-forest); font-family:var(--font-serif); font-weight:800;" class="font-serif">
+          <div style="font-size:1.45rem; color:#FCD34D; font-family:var(--font-serif); font-weight:800; text-shadow:0 0 10px rgba(252,211,77,0.3);" class="font-serif">
             🗺️ Dual Multi-Stop Google Maps Navigation Routes
           </div>
-          <p style="font-size:0.9rem; color:var(--text-secondary); max-width:650px; margin:0.35rem auto 0;">
-            Select either <strong>Route A (Must-Visit Spots Only)</strong> or <strong>Route B (Full 1-Day AI Course)</strong> below to open all stops in sequential order in Google Maps!
+          <p style="font-size:0.9rem; color:#CBD5E1; max-width:650px; margin:0.35rem auto 0;">
+            Select either <strong style="color:#FFF;">Route A (Must-Visit Spots Only)</strong> or <strong style="color:#FFF;">Route B (Full 1-Day AI Course)</strong> below to open all stops in sequential order in Google Maps!
           </p>
         </div>
 
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap:1.5rem; margin-bottom:1rem;">
           
           <!-- ROUTE A CARD: MUST-VISIT SPOTS ONLY -->
-          <div style="background:#FFF; border:2.5px solid #047857; border-radius:16px; padding:1.5rem; display:flex; flex-direction:column; justify-content:space-between; box-shadow:0 4px 12px rgba(4,120,87,0.1);">
+          <div style="background:rgba(15, 23, 42, 0.95); border:2px solid #10B981; border-radius:16px; padding:1.5rem; display:flex; flex-direction:column; justify-content:space-between; box-shadow:0 0 20px rgba(16,185,129,0.3);">
             <div>
-              <div style="display:inline-block; background:#047857; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.2rem 0.65rem; border-radius:999px; margin-bottom:0.5rem;">
+              <div style="display:inline-block; background:#059669; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.2rem 0.65rem; border-radius:999px; margin-bottom:0.5rem;">
                 ROUTE A — MUST-VISIT SPOTS ONLY
               </div>
-              <h4 style="font-size:1.15rem; color:#047857; font-family:var(--font-serif); margin-bottom:0.35rem;" class="font-serif">
+              <h4 style="font-size:1.15rem; color:#34D399; font-family:var(--font-serif); margin-bottom:0.35rem;" class="font-serif">
                 🎯 Selected Spots Only (${cleanMust.length} Stops)
               </h4>
-              <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.85rem;">
-                Directly navigates through your handpicked <strong>Must-Visit places</strong> in optimal sequential order.
+              <p style="font-size:0.88rem; color:#F9FAFB; line-height:1.5; margin-bottom:0.85rem;">
+                Contains strictly your checked <strong>must-visit landmarks</strong> in optimal sequential order.
               </p>
               
               <div style="margin-bottom:1.25rem; line-height:1.8;">
@@ -229,13 +229,13 @@ const AITravelEngine = {
             </div>
 
             <div>
-              <a href="${masterUrlA}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="padding:0.85rem 1.25rem; font-size:1rem; text-decoration:none; text-align:center; width:100%; justify-content:center; background:#047857; border-color:#064E3B;">
+              <a href="${masterUrlA}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="padding:0.85rem 1.25rem; font-size:1rem; text-decoration:none; text-align:center; width:100%; justify-content:center; background:#059669; border-color:#10B981; color:#FFF; font-weight:800;">
                 📍 Open Route A in Google Maps (${cleanMust.length} Spots) ↗
               </a>
 
               ${cleanMust.length > 1 ? `
-                <details style="margin-top:0.75rem; text-align:left; background:#F0FDF4; border-radius:8px; padding:0.4rem 0.65rem; border:1px solid #A7F3D0;">
-                  <summary style="font-weight:700; color:#047857; cursor:pointer; font-size:0.82rem;">
+                <details style="margin-top:0.75rem; text-align:left; background:rgba(30, 41, 59, 0.9); border-radius:8px; padding:0.4rem 0.65rem; border:1px solid rgba(16,185,129,0.4);">
+                  <summary style="font-weight:700; color:#34D399; cursor:pointer; font-size:0.82rem;">
                     🚆 Route A Segment Details (${cleanMust.length - 1} Segments)
                   </summary>
                   <div style="margin-top:0.4rem;">
@@ -247,16 +247,16 @@ const AITravelEngine = {
           </div>
 
           <!-- ROUTE B CARD: FULL 1-DAY AI RECOMMENDED COURSE -->
-          <div style="background:#FFF; border:2.5px solid #B45309; border-radius:16px; padding:1.5rem; display:flex; flex-direction:column; justify-content:space-between; box-shadow:0 4px 12px rgba(180,83,9,0.1);">
+          <div style="background:rgba(15, 23, 42, 0.95); border:2px solid #F59E0B; border-radius:16px; padding:1.5rem; display:flex; flex-direction:column; justify-content:space-between; box-shadow:0 0 20px rgba(245,158,11,0.3);">
             <div>
-              <div style="display:inline-block; background:#B45309; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.2rem 0.65rem; border-radius:999px; margin-bottom:0.5rem;">
+              <div style="display:inline-block; background:#D97706; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.2rem 0.65rem; border-radius:999px; margin-bottom:0.5rem;">
                 ROUTE B — FULL 1-DAY AI RECOMMENDED COURSE
               </div>
-              <h4 style="font-size:1.15rem; color:#B45309; font-family:var(--font-serif); margin-bottom:0.35rem;" class="font-serif">
+              <h4 style="font-size:1.15rem; color:#FCD34D; font-family:var(--font-serif); margin-bottom:0.35rem;" class="font-serif">
                 ✨ Full 1-Day AI Course (${cleanFull.length} Stops)
               </h4>
-              <p style="font-size:0.85rem; color:var(--text-secondary); line-height:1.5; margin-bottom:0.85rem;">
-                Combines your selected spots with <strong>AI-curated morning landmarks, lunch bistros, cafés, and evening walks</strong>.
+              <p style="font-size:0.88rem; color:#F9FAFB; line-height:1.5; margin-bottom:0.85rem;">
+                Combines your selected spots with <strong>AI-curated bistros & attractions to form a full route</strong>.
               </p>
 
               <div style="margin-bottom:1.25rem; line-height:1.8;">
@@ -265,13 +265,13 @@ const AITravelEngine = {
             </div>
 
             <div>
-              <a href="${masterUrlB}" target="_blank" rel="noopener noreferrer" class="btn btn-emerald" style="padding:0.85rem 1.25rem; font-size:1rem; text-decoration:none; text-align:center; width:100%; justify-content:center; background:#B45309; border-color:#78350F;">
+              <a href="${masterUrlB}" target="_blank" rel="noopener noreferrer" class="btn btn-emerald" style="padding:0.85rem 1.25rem; font-size:1rem; text-decoration:none; text-align:center; width:100%; justify-content:center; background:#D97706; border-color:#F59E0B; color:#FFF; font-weight:800;">
                 ✨ Open Route B in Google Maps (${cleanFull.length} Full Stops) ↗
               </a>
 
               ${cleanFull.length > 1 ? `
-                <details style="margin-top:0.75rem; text-align:left; background:#FFFBEB; border-radius:8px; padding:0.4rem 0.65rem; border:1px solid #FDE68A;">
-                  <summary style="font-weight:700; color:#B45309; cursor:pointer; font-size:0.82rem;">
+                <details style="margin-top:0.75rem; text-align:left; background:rgba(30, 41, 59, 0.9); border-radius:8px; padding:0.4rem 0.65rem; border:1px solid rgba(245,158,11,0.4);">
+                  <summary style="font-weight:700; color:#FCD34D; cursor:pointer; font-size:0.82rem;">
                     🚆 Route B Segment Details (${cleanFull.length - 1} Segments)
                   </summary>
                   <div style="margin-top:0.4rem;">
@@ -1394,9 +1394,9 @@ const viewModeBarHtml = categoryFilterBarHtml + `
       </div>
       
       <!-- Bottom Share UI -->
-      <div style="margin-top:2.5rem; padding:1.75rem 1.25rem; background:#FFFDF9; border:2px solid var(--border-ink); border-radius:20px; text-align:center; box-shadow:4px 4px 0px var(--border-ink);">
-        <h4 style="font-size:1.15rem; color:var(--text-primary); font-weight:800; margin-bottom:0.4rem;" class="font-serif" data-i18n="share.routeTitle">Share this itinerary</h4>
-        <p style="font-size:0.85rem; color:#6B7280; margin-bottom:1.1rem;">Send this custom route directly to your travel partners</p>
+      <div style="margin-top:2.5rem; padding:1.75rem 1.25rem; background:rgba(15, 23, 42, 0.95); border:1.5px solid #F59E0B; border-radius:20px; text-align:center; box-shadow:0 0 25px rgba(245, 158, 11, 0.25);">
+        <h4 style="font-size:1.15rem; color:#FFFFFF; font-weight:800; margin-bottom:0.4rem;" class="font-serif" data-i18n="share.routeTitle">Share this itinerary</h4>
+        <p style="font-size:0.88rem; color:#CBD5E1; margin-bottom:1.1rem;">Send this custom route directly to your travel partners</p>
         
         <div style="display:flex; gap:0.6rem; justify-content:center; align-items:center; flex-wrap:wrap;">
           <!-- WhatsApp -->

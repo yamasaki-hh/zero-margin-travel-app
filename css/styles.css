@@ -1216,11 +1216,44 @@ footer {
   display: block;
   object-fit: cover;
   border-radius: 20px;
-  /* Feather only the extreme outer 8% edge so all text is 100% visible */
-  mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 90%, rgba(0,0,0,0) 100%);
-  -webkit-mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 90%, rgba(0,0,0,0) 100%);
+  /* Feather only the extreme outer 4% edge so all text is 100% visible */
+  mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 96%, rgba(0,0,0,0) 100%);
+  -webkit-mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 96%, rgba(0,0,0,0) 100%);
   filter: drop-shadow(0 0 35px rgba(56, 189, 248, 0.25));
 }
+
+/* Global Select & Option High Contrast Rules */
+select.form-control, .form-control {
+  background: rgba(30, 41, 59, 0.95) !important;
+  color: #FFFFFF !important;
+  border: 1.5px solid #F59E0B !important;
+  font-weight: 700 !important;
+}
+
+select.form-control option, option {
+  background-color: #0F172A !important;
+  color: #FFFFFF !important;
+  font-weight: 700 !important;
+}
+
+/* Mobile Header Navbar Layout & Prominent Language Selector */
+@media (max-width: 768px) {
+  #topShareContainer {
+    display: none !important; /* Hide header social icons on mobile so Language Selector gets maximum room */
+  }
+  #globalLanguageSelect {
+    min-width: 140px !important;
+    font-size: 0.92rem !important;
+    padding: 0.45rem 0.75rem !important;
+    background: #0F172A !important;
+    color: #FFFFFF !important;
+    border: 1.5px solid #F59E0B !important;
+    border-radius: 10px !important;
+    box-shadow: 0 0 12px rgba(245, 158, 11, 0.4) !important;
+    font-weight: 800 !important;
+  }
+}
+
 
 .hero-image-glow {
   position: absolute;

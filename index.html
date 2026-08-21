@@ -31,7 +31,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Caveat:wght@600&display=swap" rel="stylesheet">
 
   <!-- Correct CSS Path to Warm Organic Atelier Design System (Responsive) -->
-  <link rel="stylesheet" href="css/styles.css?v=20260821_darkv2_fix">
+  <link rel="stylesheet" href="css/styles.css?v=20260821_darkv2_contrastfix2">
 </head>
 <body>
 
@@ -140,7 +140,7 @@
           
           <!-- STEP 1: TRIP PARAMETERS -->
           <div class="step1-container" style="margin-bottom:1.5rem;">
-            <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:1rem; display:flex; align-items:center; gap:0.5rem;" class="font-serif">
+            <div style="font-size:1.15rem; font-weight:800; color:#FCD34D; margin-bottom:1rem; display:flex; align-items:center; gap:0.5rem; text-shadow:0 0 10px rgba(252,211,77,0.3);" class="font-serif">
               <img src="assets/mascot.png" alt="Mascot Guide" style="width:34px; height:34px; object-fit:contain; filter:drop-shadow(1px 1px 2px rgba(0,0,0,0.12));">
               <span>1️⃣</span> <span data-i18n="step1.title">Step 1: Choose Destination — Select your country & city</span>
             </div>
@@ -185,16 +185,16 @@
           <div class="step2-container" style="margin-bottom:1.5rem;">
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.25rem;">
               <div style="display:flex; align-items:center; gap:0.75rem; flex-wrap:wrap;">
-                <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); display:flex; align-items:center; gap:0.5rem;" class="font-serif">
+                <div style="font-size:1.15rem; font-weight:800; color:#FCD34D; display:flex; align-items:center; gap:0.5rem; text-shadow:0 0 10px rgba(252,211,77,0.3);" class="font-serif">
                   <img src="assets/mascot.png" alt="Mascot Guide" style="width:34px; height:34px; object-fit:contain; filter:drop-shadow(1px 1px 2px rgba(0,0,0,0.12));">
                   <span>2️⃣</span> <span data-i18n="step2.title">Step 2: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places</span>
                 </div>
-                <button type="button" onclick="openFeedbackModal()" style="background:#FFF7ED; color:#C2410C; border:1.5px solid #292524; padding:0.35rem 0.85rem; border-radius:999px; font-size:0.82rem; font-weight:800; box-shadow:2px 2px 0px #292524; cursor:pointer;" data-i18n="btn.reportError">
+                <button type="button" onclick="openFeedbackModal()" style="background:rgba(245,158,11,0.2); color:#FCD34D; border:1px solid rgba(245,158,11,0.4); padding:0.35rem 0.85rem; border-radius:999px; font-size:0.82rem; font-weight:800; cursor:pointer;" data-i18n="btn.reportError">
                   💬 Report Spot Error / Feedback
                 </button>
               </div>
 
-              <span id="spotsCounterBadge" style="font-size:0.88rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.35rem 0.85rem; border-radius:9999px; border:1.5px solid #0284C7;">
+              <span id="spotsCounterBadge" style="font-size:0.88rem; font-weight:700; background:rgba(56,189,248,0.2); color:#38BDF8; padding:0.35rem 0.85rem; border-radius:9999px; border:1px solid rgba(56,189,248,0.4);">
                 Selected: <strong>0 / 8</strong> (Max 8 Must-Visit Spots)
               </span>
             </div>
@@ -204,17 +204,17 @@
           </div>
 
                     <!-- Optional Custom Return Hotel Field -->
-          <div style="max-width:560px; margin:0 auto 1.5rem auto; background:#FAF7F2; border:1.5px solid #E2E8F0; padding:0.85rem 1.1rem; border-radius:14px; text-align:left;">
-            <label for="aiPlanHotelInput" style="font-size:0.85rem; font-weight:800; color:var(--primary-wood); display:flex; align-items:center; gap:0.4rem; margin-bottom:0.35rem;">
+          <div style="max-width:560px; margin:0 auto 1.5rem auto; background:rgba(15,23,42,0.92); border:1px solid rgba(255,255,255,0.2); padding:0.85rem 1.1rem; border-radius:14px; text-align:left; box-shadow:0 10px 30px rgba(0,0,0,0.5);">
+            <label for="aiPlanHotelInput" style="font-size:0.88rem; font-weight:800; color:#FCD34D; display:flex; align-items:center; gap:0.4rem; margin-bottom:0.35rem;">
               <span data-i18n="label.hotel">🏨 Return Hotel / Stay</span>
-              <span data-i18n="label.hotelSub" style="font-size:0.72rem; font-weight:600; color:#64748B;">(Optional — Appended as final destination to Route A & B)</span>
+              <span data-i18n="label.hotelSub" style="font-size:0.75rem; font-weight:600; color:#94A3B8;">(Optional — Appended as final destination to Route A & B)</span>
             </label>
-            <input type="text" id="aiPlanHotelInput" data-i18n-placeholder="placeholder.hotel" placeholder="e.g. Ritz Paris or your hotel address (leave blank to skip)" style="width:100%; padding:0.6rem 0.85rem; border-radius:10px; border:1.5px solid #CBD5E1; font-size:0.9rem; background:#FFF; font-family:var(--font-sans);">
+            <input type="text" id="aiPlanHotelInput" data-i18n-placeholder="placeholder.hotel" placeholder="e.g. Ritz Paris or your hotel address (leave blank to skip)" style="width:100%; padding:0.65rem 0.85rem; border-radius:10px; border:1.5px solid #F59E0B; font-size:0.9rem; background:rgba(30,41,59,0.95); color:#FFFFFF; font-weight:700; font-family:var(--font-sans);">
           </div>
 
           <!-- STEP 3: LAUNCH IN MAPS -->
           <div style="text-align:center; max-width:680px; margin:0 auto;">
-            <div style="font-size:1.15rem; font-weight:800; color:var(--primary-forest); margin-bottom:0.75rem; display:flex; align-items:center; justify-content:center; gap:0.5rem;" class="font-serif">
+            <div style="font-size:1.15rem; font-weight:800; color:#FCD34D; margin-bottom:0.75rem; display:flex; align-items:center; justify-content:center; gap:0.5rem; text-shadow:0 0 10px rgba(252,211,77,0.3);" class="font-serif">
               <img src="assets/mascot.png" alt="Mascot Guide" style="width:34px; height:34px; object-fit:contain; filter:drop-shadow(1px 1px 2px rgba(0,0,0,0.12));">
               <span>3️⃣</span> <span data-i18n="step3.title">Step 3: Launch in Maps — Choose Route A (Selected only) or Route B (Curated full-day loop)</span>
             </div>
