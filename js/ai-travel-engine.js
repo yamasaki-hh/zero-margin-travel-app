@@ -683,7 +683,7 @@ const AITravelEngine = {
 
     const hasPhoto = Boolean(spot.image);
     const cleanRating = String(spot.rating || '').startsWith('★') ? spot.rating : `★${spot.rating}`;
-    const cityClean = (this.lastCity || 'Paris, France').split(',')[0].trim();
+    const cityClean = (this.lastCity || '').split(',')[0].trim();
 
     modal.innerHTML = `
       <div class="modal-content" onclick="event.stopPropagation();" style="max-width:460px; padding:1.25rem; border-radius:20px; animation:fadeIn 0.2s ease;">
@@ -744,6 +744,9 @@ const AITravelEngine = {
     `;
 
     modal.classList.add('active');
+    // Hide floating CTA bar while modal is open to avoid z-index overlap
+    const floatingBar = document.getElementById('floatingCtaBar');
+    if (floatingBar) floatingBar.style.display = 'none';
   },
 
   closeSpotModal(event) {
@@ -754,6 +757,9 @@ const AITravelEngine = {
     if (modal) {
       modal.classList.remove('active');
     }
+    // Restore floating CTA bar visibility
+    const floatingBar = document.getElementById('floatingCtaBar');
+    if (floatingBar) floatingBar.style.display = '';
   },
 
   formatCompactPrice(priceStr) {
@@ -807,7 +813,10 @@ const AITravelEngine = {
         }
       }
       if (!spots || spots.length === 0) {
-        spots = candidateSpotsDatabase['Paris, France'] || [];
+        if (container) {
+          container.innerHTML = `<div style="grid-column:1/-1; padding:2rem; text-align:center; color:#F87171; font-weight:700;">⚠️ No spot data found for "${escapeHtml(city)}". Please select a different city.</div>`;
+        }
+        return;
       }
 
       const container = document.getElementById('candidateSpotsGrid');
@@ -1296,7 +1305,25 @@ const viewModeBarHtml = categoryFilterBarHtml + `
     const resultContainer = document.getElementById('aiPlanResult');
     if (!resultContainer) return;
 
-    const allSpots = candidateSpotsDatabase[destination] || candidateSpotsDatabase['Paris, France'];
+    // Look up spots for selected destination — never fall back silently
+    let allSpots = candidateSpotsDatabase[destination];
+    if (!allSpots || allSpots.length === 0) {
+      // Try fuzzy match
+      const cleanDest = destination.split(',')[0].trim().toLowerCase();
+      for (const k in candidateSpotsDatabase) {
+        if (k.toLowerCase().includes(cleanDest)) {
+          allSpots = candidateSpotsDatabase[k];
+          break;
+        }
+      }
+    }
+    if (!allSpots || allSpots.length === 0) {
+      if (resultContainer) {
+        const t = (key) => window.I18nEngine ? window.I18nEngine.getText(key) : key;
+        resultContainer.innerHTML = `<div style="padding:2rem; text-align:center; color:#F87171; font-weight:700; background:rgba(15,23,42,0.9); border:1.5px solid #F87171; border-radius:16px; margin-top:1rem;">⚠️ No spot data found for "${escapeHtml(destination)}". Please select a city from the dropdown above.</div>`;
+      }
+      return;
+    }
     const selectedIds = new Set(this.selectedMustVisitIds);
     
     // Extract checked must-visit spots
@@ -1635,7 +1662,7 @@ const viewModeBarHtml = categoryFilterBarHtml + `
   },
 
   refreshRouteCard(routeType) {
-    const destination = document.getElementById('aiPlanDestination')?.value || 'Paris, France';
+    const destination = document.getElementById('aiPlanDestination')?.value || this.lastCity || '';
     const cityClean = destination.split(',')[0].trim();
 
     const listContainer = document.getElementById(routeType === 'A' ? 'routeA_itemList' : 'routeB_itemList');
