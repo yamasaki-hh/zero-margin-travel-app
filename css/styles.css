@@ -1100,3 +1100,95 @@ footer {
   pointer-events: auto;
 }
 
+/* ==========================================================================
+   HIGH-CONTRAST & READABILITY OVERRIDES (Dark Cyber Luxe Theme)
+   ========================================================================== */
+
+/* Step Containers & Outer Boxes */
+.step1-container, .step2-container, .planner-outer-box, #aiPlanResult .card {
+  background: rgba(15, 23, 42, 0.92) !important;
+  border: 1px solid rgba(255, 255, 255, 0.18) !important;
+  color: #F9FAFB !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+/* Filter Row Labels */
+.step2-container div, .step2-container label, .step2-container span {
+  color: #F9FAFB;
+}
+
+/* Unselected Filter Chips */
+.filter-chip {
+  background: rgba(30, 41, 59, 0.92) !important;
+  color: #E2E8F0 !important;
+  border: 1px solid rgba(255, 255, 255, 0.22) !important;
+}
+
+.filter-chip:hover {
+  background: rgba(245, 158, 11, 0.25) !important;
+  border-color: #FCD34D !important;
+  color: #FFF !important;
+}
+
+/* Selected Filter Chips */
+.filter-chip.active {
+  background: linear-gradient(135deg, #059669, #047857) !important;
+  color: #FFFFFF !important;
+  border-color: #10B981 !important;
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.5) !important;
+}
+
+/* Spot Cards & Text Inside */
+.spot-card {
+  background: rgba(15, 23, 42, 0.92) !important;
+  border: 1px solid rgba(255, 255, 255, 0.18) !important;
+  color: #F9FAFB !important;
+}
+
+.spot-card h4, .spot-card-title, .spot-card strong {
+  color: #FFFFFF !important;
+  font-weight: 800 !important;
+}
+
+.spot-card p, .spot-card-desc, .spot-card span {
+  color: #CBD5E1 !important;
+}
+
+.spot-card .spot-price, .spot-card .spot-fee {
+  color: #FCD34D !important;
+  font-weight: 700 !important;
+}
+
+/* Selected Spot Cards */
+.spot-card.selected {
+  background: rgba(30, 41, 59, 0.98) !important;
+  border: 2px solid #F59E0B !important;
+  box-shadow: 0 0 25px rgba(245, 158, 11, 0.45) !important;
+}
+
+/* View Mode Text & Buttons */
+#candidateSpotsHeader span, #candidateSpotsHeader div {
+  color: #CBD5E1 !important;
+}
+
+.view-mode-btn {
+  background: rgba(30, 41, 59, 0.9) !important;
+  color: #E2E8F0 !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.view-mode-btn.active {
+  background: #0284C7 !important;
+  color: #FFFFFF !important;
+  border-color: #38BDF8 !important;
+  box-shadow: 0 0 12px rgba(56, 189, 248, 0.5) !important;
+}
+
+/* Category & Zone Badges inside Spot Cards */
+.spot-card .badge, .spot-card span[style*="background"] {
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+
