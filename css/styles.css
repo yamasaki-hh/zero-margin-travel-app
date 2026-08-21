@@ -988,3 +988,85 @@ footer {
   }
 }
 
+/* Premium SNS Share Buttons & Toast Notification System */
+.share-icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.5px solid var(--border-ink);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+  box-shadow: 1.5px 1.5px 0px var(--border-ink);
+  background: #FFFFFF;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.share-icon-btn:hover {
+  transform: translateY(-3px) scale(1.08);
+  box-shadow: 2.5px 3px 0px var(--border-ink);
+}
+
+.share-icon-btn:active {
+  transform: translateY(0px) scale(0.95);
+  box-shadow: 1px 1px 0px var(--border-ink);
+}
+
+.share-icon-btn svg {
+  width: 55%;
+  height: 55%;
+  fill: currentColor;
+}
+
+/* Share Pill Button for Web Share */
+.share-pill-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  border: 2px solid var(--border-ink);
+  font-weight: 700;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 2px 2px 0px var(--border-ink);
+  background: #FFF;
+  color: var(--text-primary);
+}
+
+.share-pill-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 3px 4px 0px var(--border-ink);
+  background: #FEF3C7;
+}
+
+/* Floating Toast Notification */
+.toast-notification {
+  position: fixed;
+  bottom: 85px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: #18181B;
+  color: #FAFAFA;
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35), 0 0 0 1px rgba(255,255,255,0.1);
+  z-index: 10000;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toast-notification.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0px);
+  pointer-events: auto;
+}
+

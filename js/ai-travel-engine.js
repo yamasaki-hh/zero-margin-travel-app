@@ -80,20 +80,52 @@ const AITravelEngine = {
     this.openShareLink(platform, text, encodeURIComponent(routeUrl));
   },
 
+  showToast(msg) {
+    const toast = document.getElementById('toastNotification');
+    if (!toast) return;
+    toast.innerHTML = msg;
+    toast.classList.add('show');
+    if (this._toastTimer) clearTimeout(this._toastTimer);
+    this._toastTimer = setTimeout(() => {
+      toast.classList.remove('show');
+    }, 2500);
+  },
+
   openShareLink(platform, text, url) {
     let shareUrl = '';
+    const decodedText = decodeURIComponent(text);
+    const decodedUrl = decodeURIComponent(url);
+
     if (platform === 'x') shareUrl = `https://twitter.com/intent/tweet?text=${text}&url=${url}`;
     if (platform === 'line') shareUrl = `https://line.me/R/msg/text/?${text}%20${url}`;
     if (platform === 'wa') shareUrl = `https://api.whatsapp.com/send?text=${text}%20${url}`;
+    if (platform === 'fb') shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+    if (platform === 'li') shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${url}`;
+
+    if (platform === 'native') {
+      if (navigator.share) {
+        navigator.share({
+          title: '0 Margin Travel',
+          text: decodedText,
+          url: decodedUrl
+        }).catch(() => {});
+        return;
+      } else {
+        platform = 'copy';
+      }
+    }
+
     if (platform === 'copy') {
-      const decodedUrl = decodeURIComponent(url);
       navigator.clipboard.writeText(decodedUrl).then(() => {
         const t = (k) => window.I18nEngine ? window.I18nEngine.getText(k) : k;
-        alert(t('share.copied') || 'Copied!');
+        this.showToast(t('share.toastCopied') || 'Link copied to clipboard! ✨');
+      }).catch(() => {
+        alert('Copy failed. URL: ' + decodedUrl);
       });
       return;
     }
-    if (shareUrl) window.open(shareUrl, '_blank');
+
+    if (shareUrl) window.open(shareUrl, '_blank', 'noopener,noreferrer');
   },
 
   // Helper to create single venue Google Maps live search link button
@@ -1362,15 +1394,42 @@ const viewModeBarHtml = categoryFilterBarHtml + `
       </div>
       
       <!-- Bottom Share UI -->
-      <div style="margin-top:2rem; padding:1.5rem; background:#FEF3C7; border:2px dashed #B45309; border-radius:16px; text-align:center;">
-        <h4 style="font-size:1.1rem; color:#78350F; font-weight:800; margin-bottom:0.8rem; font-family:'Playfair Display', serif;" data-i18n="share.routeTitle">Share this itinerary</h4>
-        <div style="display:flex; gap:0.6rem; justify-content:center; align-items:center;">
-          <button onclick="AITravelEngine.shareRoute('line')" style="background:#06C755; color:white; border:none; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #047857; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="LINE">L</button>
-          <button onclick="AITravelEngine.shareRoute('x')" style="background:#000; color:white; border:none; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #333; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="X">X</button>
-          <button onclick="AITravelEngine.shareRoute('wa')" style="background:#25D366; color:white; border:none; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #166534; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="WhatsApp">W</button>
-          <button onclick="AITravelEngine.shareRoute('copy')" style="background:#FFF; color:#92400E; border:2px solid #B45309; border-radius:10px; width:44px; height:44px; cursor:pointer; font-weight:bold; font-size:18px; box-shadow:2px 2px 0px #B45309; transition:transform 0.1s;" onactive="this.style.transform='scale(0.95)'" title="Copy Link">🔗</button>
+      <div style="margin-top:2.5rem; padding:1.75rem 1.25rem; background:#FFFDF9; border:2px solid var(--border-ink); border-radius:20px; text-align:center; box-shadow:4px 4px 0px var(--border-ink);">
+        <h4 style="font-size:1.15rem; color:var(--text-primary); font-weight:800; margin-bottom:0.4rem;" class="font-serif" data-i18n="share.routeTitle">Share this itinerary</h4>
+        <p style="font-size:0.85rem; color:#6B7280; margin-bottom:1.1rem;">Send this custom route directly to your travel partners</p>
+        
+        <div style="display:flex; gap:0.6rem; justify-content:center; align-items:center; flex-wrap:wrap;">
+          <!-- WhatsApp -->
+          <button class="share-icon-btn" onclick="AITravelEngine.shareRoute('wa')" style="width:42px; height:42px; background:#25D366; color:#FFF;" title="WhatsApp">
+            <svg viewBox="0 0 24 24"><path d="M12.031 2c-5.456 0-9.88 4.424-9.88 9.88 0 1.74.452 3.435 1.311 4.935l-1.393 5.088 5.215-1.368c1.448.79 3.085 1.225 4.747 1.225 5.457 0 9.88-4.424 9.88-9.88s-4.423-9.88-9.88-9.88zm5.836 14.168c-.244.688-1.427 1.316-1.97 1.368-.501.047-1.144.072-3.32-.828-2.617-1.082-4.29-3.754-4.42-3.928-.13-.174-1.06-1.41-1.06-2.69 0-1.28.67-1.908.91-2.164.24-.256.526-.32.702-.32.176 0 .352.004.502.01.162.008.38-.061.594.453.22.527.75 1.83.816 1.96.066.13.11.283.022.455-.088.172-.132.28-.262.433-.13.153-.274.341-.392.458-.13.13-.266.27-.115.53.15.26.666 1.1 1.43 1.78.983.876 1.813 1.148 2.074 1.278.26.13.413.108.566-.065.153-.173.655-.764.83-1.025.174-.26.35-.217.587-.13.238.087 1.51.712 1.77.842.26.13.434.195.498.304.065.109.065.631-.179 1.319z"/></svg>
+          </button>
+          <!-- Facebook -->
+          <button class="share-icon-btn" onclick="AITravelEngine.shareRoute('fb')" style="width:42px; height:42px; background:#1877F2; color:#FFF;" title="Facebook">
+            <svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          </button>
+          <!-- X (Twitter) -->
+          <button class="share-icon-btn" onclick="AITravelEngine.shareRoute('x')" style="width:42px; height:42px; background:#000; color:#FFF;" title="X (Twitter)">
+            <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          </button>
+          <!-- LinkedIn -->
+          <button class="share-icon-btn" onclick="AITravelEngine.shareRoute('li')" style="width:42px; height:42px; background:#0A66C2; color:#FFF;" title="LinkedIn">
+            <svg viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
+          </button>
+          <!-- LINE -->
+          <button class="share-icon-btn" onclick="AITravelEngine.shareRoute('line')" style="width:42px; height:42px; background:#06C755; color:#FFF;" title="LINE">
+            <svg viewBox="0 0 24 24"><path d="M19.34 10.04c0-3.83-3.92-6.95-8.74-6.95-4.82 0-8.74 3.12-8.74 6.95 0 3.43 3.1 6.3 7.3 6.84.28.06.67.19.77.43.09.22.06.56.03.78l-.13.79c-.04.24-.19.94.82.51 1.01-.43 5.46-3.22 7.45-5.51 1.05-1.17 1.24-2.34 1.24-3.84z"/></svg>
+          </button>
+          <!-- Native Mobile Share Pill -->
+          <button class="share-pill-btn" onclick="AITravelEngine.shareRoute('native')">
+            <span>📱</span> <span data-i18n="share.nativeShare">More Apps...</span>
+          </button>
+          <!-- Copy Link -->
+          <button class="share-icon-btn" onclick="AITravelEngine.shareRoute('copy')" style="width:42px; height:42px; background:#FDE68A; color:#92400E;" title="Copy Link">
+            <svg viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.47a3.001 3.001 0 0 0 0-4.24 3.001 3.001 0 0 0-4.24 0l-3.53 3.53a3.001 3.001 0 0 0 0 4.24zm2.82-2.82c-.41-.39-.41-1.03 0-1.42.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.42l-.47.47a3.001 3.001 0 0 0 0 4.24 3.001 3.001 0 0 0 4.24 0l3.53-3.53a3.001 3.001 0 0 0 0-4.24z"/></svg>
+          </button>
         </div>
       </div>
+
     `;
 
     resultContainer.innerHTML = html;

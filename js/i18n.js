@@ -7,6 +7,9 @@ const I18nEngine = {
   
   translations: {
     "en": {
+      "share.toastCopied": "Link copied to clipboard! ✨",
+      "share.nativeShare": "More Apps...",
+
       "share.generalTitle": "Share this site",
       "share.generalText": "A free app that automatically plans optimal Europe travel routes. Very helpful! ✈️ #0MarginTravel",
       "share.routeTitle": "Share this itinerary",
@@ -102,6 +105,9 @@ const I18nEngine = {
       "step3.title": "Step 3: Launch in Maps — Choose Route A (Selected Only) or Route B (Curated Full-Day Loop)"
     },
     "ja": {
+      "share.toastCopied": "URLをコピーしました！ ✨",
+      "share.nativeShare": "他のアプリで共有",
+
       "share.generalTitle": "このサイトをシェアする",
       "share.generalText": "ヨーロッパ旅行のルートを自動生成できる無料ツール。便利です！ ✈️ #0MarginTravel",
       "share.routeTitle": "この旅程をシェアする",
@@ -197,6 +203,9 @@ const I18nEngine = {
       "step3.title": "ステップ3: ナビ起動 — ルートA（選択のみ）またはルートB（1日フルおすすめコース）を選択"
     },
     "nl": {
+      "share.toastCopied": "Link gekopieerd naar klembord! ✨",
+      "share.nativeShare": "Meer apps...",
+
       "share.generalTitle": "Deel deze site",
       "share.generalText": "Een gratis app die automatisch optimale reisroutes in Europa plant. Erg handig! ✈️ #0MarginTravel",
       "share.routeTitle": "Deel dit reisplan",
@@ -292,6 +301,9 @@ const I18nEngine = {
       "step3.title": "Stap 3: Start Navigatie — Kies Route A of Route B"
     },
     "fr": {
+      "share.toastCopied": "Lien copié dans le presse-papiers ! ✨",
+      "share.nativeShare": "Plus d'applis...",
+
       "share.generalTitle": "Partager ce site",
       "share.generalText": "Une appli gratuite qui crée automatiquement des itinéraires de voyage en Europe. Très pratique ! ✈️ #0MarginTravel",
       "share.routeTitle": "Partager cet itinéraire",
@@ -387,6 +399,9 @@ const I18nEngine = {
       "step3.title": "Étape 3: Lancez Maps — Choisissez la Route A ou la Route B"
     },
     "de": {
+      "share.toastCopied": "Link in die Zwischenablage kopiert! ✨",
+      "share.nativeShare": "Mehr Apps...",
+
       "share.generalTitle": "Diese Seite teilen",
       "share.generalText": "Eine kostenlose App, die automatisch optimale Reiserouten für Europa plant. Sehr praktisch! ✈️ #0MarginTravel",
       "share.routeTitle": "Diese Reiseroute teilen",
@@ -482,6 +497,9 @@ const I18nEngine = {
       "step3.title": "Schritt 3: Navigation Starten — Route A oder Route B Wählen"
     },
     "es": {
+      "share.toastCopied": "¡Enlace copiado al portapapeles! ✨",
+      "share.nativeShare": "Más aplicaciones...",
+
       "share.generalTitle": "Compartir este sitio",
       "share.generalText": "Una aplicación gratuita que planifica rutas de viaje por Europa. ¡Muy útil! ✈️ #0MarginTravel",
       "share.routeTitle": "Compartir este itinerario",
@@ -577,6 +595,9 @@ const I18nEngine = {
       "step3.title": "Paso 3: Inicie Navegación — Elija Ruta A o Ruta B"
     },
     "zh": {
+      "share.toastCopied": "链接已复制到剪贴板！ ✨",
+      "share.nativeShare": "更多应用...",
+
       "share.generalTitle": "分享这个网站",
       "share.generalText": "一个免费的欧洲旅行路线自动生成工具。非常方便！ ✈️ #0MarginTravel",
       "share.routeTitle": "分享此行程",
