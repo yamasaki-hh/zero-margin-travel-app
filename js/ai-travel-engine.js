@@ -889,10 +889,10 @@ const AITravelEngine = {
         </div>
       `;
 const viewModeBarHtml = categoryFilterBarHtml + `
-        <div class="view-mode-bar" style="grid-column:1 / -1; width:100%; margin-bottom:0.5rem;">
+        <div class="view-mode-bar" style="grid-column:1 / -1; width:100%; margin-bottom:0.5rem; background:rgba(15,23,42,0.95); padding:0.75rem 1rem; border-radius:14px; border:2px solid rgba(255,255,255,0.2);">
           <div style="display:flex; align-items:center; gap:0.4rem;">
-            <span style="font-size:0.88rem; font-weight:800; color:var(--text-primary);">${t('view.label')}</span>
-            <span style="font-size:0.8rem; color:var(--text-secondary);">(${filteredSpots.length} ${t('view.matching')})</span>
+            <span style="font-size:0.88rem; font-weight:800; color:#FFFFFF;">${t('view.label')}</span>
+            <span style="font-size:0.8rem; color:#FCD34D;">(${filteredSpots.length} ${t('view.matching')})</span>
           </div>
           <div style="display:flex; gap:0.4rem; flex-wrap:wrap;">
             <button type="button" class="view-mode-btn ${this.viewMode === 'compact' ? 'active' : ''}" onclick="AITravelEngine.setViewMode('compact')">
@@ -1057,6 +1057,42 @@ const viewModeBarHtml = categoryFilterBarHtml + `
       this.selectedMustVisitIds.add(spotId);
     }
     this.renderCandidateSpots();
+    this.updateFloatingCtaBar();
+  },
+
+  updateFloatingCtaBar() {
+    const bar = document.getElementById('floatingCtaBar');
+    const text = document.getElementById('floatingCtaText');
+    const fixedText = document.getElementById('fixedCtaText');
+    const fixedContainer = document.getElementById('step3FixedContainer');
+
+    if (!this.ctaObserverSetup && fixedContainer) {
+      this.ctaObserverSetup = true;
+      const observer = new IntersectionObserver((entries) => {
+        this.isFixedCtaVisible = entries[0].isIntersecting;
+        this.updateFloatingCtaBar();
+      }, { threshold: 0.1 });
+      observer.observe(fixedContainer);
+    }
+
+    if (!bar || !text) return;
+    const count = this.selectedMustVisitIds.size;
+    if (count > 0) {
+      const lang = window.I18nEngine ? window.I18nEngine.currentLang : 'en';
+      const ctaMsg = (lang === 'ja') ? `そのまま使えるGoogle MapsルートA＆Bを自動生成 (${count}/8件) ↗` : `Generate Ready-to-Use Dual Maps Routes (${count}/8 Selected) ↗`;
+      text.innerText = ctaMsg;
+      if (fixedText) {
+        fixedText.innerText = ctaMsg;
+      }
+      
+      if (this.isFixedCtaVisible) {
+        bar.classList.remove('active');
+      } else {
+        bar.classList.add('active');
+      }
+    } else {
+      bar.classList.remove('active');
+    }
   },
 
   // Calculate Haversine distance in km between two lat/lng coordinates
@@ -1340,10 +1376,10 @@ const viewModeBarHtml = categoryFilterBarHtml + `
                 </span>
               </div>
 
-              <h4 style="font-size:1.15rem; color:var(--text-primary); margin-bottom:0.35rem;" class="font-serif">
+              <h4 style="font-size:1.15rem; color:#FFFFFF; margin-bottom:0.35rem;" class="font-serif">
                 ${t('routeA.title')}
               </h4>
-              <p style="font-size:0.82rem; color:var(--text-secondary); margin-bottom:1rem;">
+              <p class="route-card-desc" style="margin-bottom:1rem; color:#FFFFFF !important; font-weight:700;">
                 ${t('routeA.sub')}
               </p>
 
@@ -1369,10 +1405,10 @@ const viewModeBarHtml = categoryFilterBarHtml + `
                 </span>
               </div>
 
-              <h4 style="font-size:1.15rem; color:var(--text-primary); margin-bottom:0.35rem;" class="font-serif">
+              <h4 style="font-size:1.15rem; color:#FFFFFF; margin-bottom:0.35rem;" class="font-serif">
                 ${t('routeB.title')}
               </h4>
-              <p style="font-size:0.82rem; color:var(--text-secondary); margin-bottom:1rem;">
+              <p class="route-card-desc" style="margin-bottom:1rem; color:#FFFFFF !important; font-weight:700;">
                 ${t('routeB.sub')}
               </p>
 
@@ -1420,7 +1456,7 @@ const viewModeBarHtml = categoryFilterBarHtml + `
             <svg viewBox="0 0 24 24"><path d="M19.34 10.04c0-3.83-3.92-6.95-8.74-6.95-4.82 0-8.74 3.12-8.74 6.95 0 3.43 3.1 6.3 7.3 6.84.28.06.67.19.77.43.09.22.06.56.03.78l-.13.79c-.04.24-.19.94.82.51 1.01-.43 5.46-3.22 7.45-5.51 1.05-1.17 1.24-2.34 1.24-3.84z"/></svg>
           </button>
           <!-- Native Mobile Share Pill -->
-          <button class="share-pill-btn" onclick="AITravelEngine.shareRoute('native')">
+          <button class="share-pill-btn" style="background:rgba(30,41,59,0.95) !important; color:#FFFFFF !important; border:1.5px solid #F59E0B !important;" onclick="AITravelEngine.shareRoute('native')">
             <span>📱</span> <span data-i18n="share.nativeShare">More Apps...</span>
           </button>
           <!-- Copy Link -->
