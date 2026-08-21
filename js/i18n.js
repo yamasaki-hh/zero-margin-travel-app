@@ -99,9 +99,9 @@ const I18nEngine = {
       "nav.title": "0 Margin Travel",
       "planner.subtitle": "Select favorites from verified ★4.5+ places and launch Google Maps multi-stop navigation in 1 click!",
       "planner.title": "Create Your Ideal Day in 3 Simple Steps",
-      "step1.title": "Step 1: Choose Destination — Select Country & City",
+      "step1.title": "Step 1️⃣: Choose Destination — Select Country & City",
       "step2.subtitle": "Check the boxes for spots you definitely want to visit. The AI engine will generate both Route A (Selected Spots Only) and Route B (Full 1-Day AI Course) for Google Maps navigation!",
-      "step2.title": "Step 2: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places",
+      "step2.title": "Step 2️⃣: Pick Your Spots — Handpick your favorites from Verified ★4.5+ places",
       "step3.title": "Step 3: Launch in Maps — Choose Route A (Selected Only) or Route B (Curated Full-Day Loop)"
     },
     "ja": {
@@ -197,9 +197,9 @@ const I18nEngine = {
       "nav.title": "0 Margin Travel",
       "planner.subtitle": "検証済み★4.5+の名所からお気に入りを選び、1クリックでGoogle Mapsマルチストップナビを起動！",
       "planner.title": "簡単3ステップで理想の1日を作成",
-      "step1.title": "ステップ1: 目的地を選択 — 国と都市を選んでください",
+      "step1.title": "Step 1️⃣: 目的地を選択 — 国と都市を選んでください",
       "step2.subtitle": "チェックボックスを入れて行きたいスポットを選んでください。AIエンジンがルートA（選択スポットのみ）とルートB（1日フルおすすめコース）の2つのGoogle Mapsナビを自動生成します！",
-      "step2.title": "ステップ2: 訪問スポットを選択 — 検証済み★4.5+からお気に入りを選択",
+      "step2.title": "Step 2️⃣: 訪問スポットを選択 — 検証済み★4.5+からお気に入りを選択",
       "step3.title": "ステップ3: ナビ起動 — ルートA（選択のみ）またはルートB（1日フルおすすめコース）を選択"
     },
     "nl": {
@@ -295,9 +295,9 @@ const I18nEngine = {
       "nav.title": "0 Margin Travel",
       "planner.subtitle": "Kies favorieten uit ★4.5+ plekken en start Google Maps navigatie in 1 klik!",
       "planner.title": "Creëer je Ideale Dag in 3 Eenvoudige Stappen",
-      "step1.title": "Stap 1: Kies Bestemming — Selecteer Land & Stad",
+      "step1.title": "Step 1️⃣: Kies Bestemming — Selecteer Land & Stad",
       "step2.subtitle": "Vink de plekken aan die je wilt bezoeken. De AI genereert zowel Route A als Route B voor Google Maps!",
-      "step2.title": "Stap 2: Kies Je Plekken — Selecteer uit ★4.5+ locaties",
+      "step2.title": "Step 2️⃣: Kies Je Plekken — Selecteer uit ★4.5+ locaties",
       "step3.title": "Stap 3: Start Navigatie — Kies Route A of Route B"
     },
     "fr": {
@@ -393,9 +393,9 @@ const I18nEngine = {
       "nav.title": "0 Margin Travel",
       "planner.subtitle": "Sélectionnez vos coups de cœur et lancez la navigation Google Maps en 1 clic!",
       "planner.title": "Créez votre Journée Idéale en 3 Étapes Simples",
-      "step1.title": "Étape 1: Choisissez la Destination — Sélectionnez Pays et Ville",
+      "step1.title": "Step 1️⃣: Choisissez la Destination — Sélectionnez Pays et Ville",
       "step2.subtitle": "Cochez les lieux à visiter. L'IA générera la Route A et la Route B pour Google Maps!",
-      "step2.title": "Étape 2: Choisissez vos Lieux — Sélectionnez parmi les lieux ★4.5+",
+      "step2.title": "Step 2️⃣: Choisissez vos Lieux — Sélectionnez parmi les lieux ★4.5+",
       "step3.title": "Étape 3: Lancez Maps — Choisissez la Route A ou la Route B"
     },
     "de": {
@@ -491,9 +491,9 @@ const I18nEngine = {
       "nav.title": "0 Margin Travel",
       "planner.subtitle": "Wählen Sie Favoriten aus ★4.5+ Orten und starten Sie die Google Maps Navigation mit 1 Klick!",
       "planner.title": "Erstellen Sie Ihren Idealen Tag in 3 Einfachen Schritten",
-      "step1.title": "Schritt 1: Ziel Auswählen — Land & Stadt Wählen",
+      "step1.title": "Step 1️⃣: Ziel Auswählen — Land & Stadt Wählen",
       "step2.subtitle": "Wählen Sie Ihre Wunschorte. Die KI generiert Route A und Route B!",
-      "step2.title": "Schritt 2: Orte Auswählen — Wählen Sie aus ★4.5+ Orten",
+      "step2.title": "Step 2️⃣: Orte Auswählen — Wählen Sie aus ★4.5+ Orten",
       "step3.title": "Schritt 3: Navigation Starten — Route A oder Route B Wählen"
     },
     "es": {
@@ -589,9 +589,9 @@ const I18nEngine = {
       "nav.title": "0 Margin Travel",
       "planner.subtitle": "¡Seleccione favoritos entre lugares ★4.5+ e inicie la navegación de Google Maps con 1 clic!",
       "planner.title": "Cree su Día Ideal en 3 Sencillos Pasos",
-      "step1.title": "Paso 1: Elija Destino — Seleccione País y Ciudad",
+      "step1.title": "Step 1️⃣: Elija Destino — Seleccione País y Ciudad",
       "step2.subtitle": "Marque los lugares que desea visitar. ¡La IA generará la Ruta A y Ruta B!",
-      "step2.title": "Paso 2: Elija sus Lugares — Seleccione entre lugares ★4.5+",
+      "step2.title": "Step 2️⃣: Elija sus Lugares — Seleccione entre lugares ★4.5+",
       "step3.title": "Paso 3: Inicie Navegación — Elija Ruta A o Ruta B"
     },
     "zh": {
@@ -687,9 +687,9 @@ const I18nEngine = {
       "nav.title": "0 Margin Travel",
       "planner.subtitle": "从严选★4.5+景点中挑选心仪之地，一键开启Google Maps多途经点导航！",
       "planner.title": "简单3步即可规划理想的一天行程",
-      "step1.title": "步骤 1: 选择目的地 — 挑选国家与城市",
+      "step1.title": "Step 1️⃣: 选择目的地 — 挑选国家与城市",
       "step2.subtitle": "勾选您想去的地方。AI引擎将自动生成路线A和路线B导航！",
-      "step2.title": "步骤 2: 挑选景点 — 从严选★4.5+高分景点中勾选",
+      "step2.title": "Step 2️⃣: 挑选景点 — 从严选★4.5+高分景点中勾选",
       "step3.title": "步骤 3: 开启导航 — 选择路线A或路线B"
     }
   },
