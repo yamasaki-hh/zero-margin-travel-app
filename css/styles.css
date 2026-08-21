@@ -4,10 +4,10 @@
    ========================================================================== */
 
 :root {
-  --bg-main: #070A12;
-  --bg-card: rgba(15, 23, 42, 0.85);
-  --bg-card-warm: rgba(30, 41, 59, 0.75);
-  --bg-dark: #030712;
+  --bg-main: #0B0F19;
+  --bg-card: rgba(15, 23, 42, 0.92);
+  --bg-card-warm: rgba(30, 41, 59, 0.85);
+  --bg-dark: #070A12;
   
   --text-primary: #F9FAFB;
   --text-secondary: #CBD5E1;
@@ -825,17 +825,18 @@ footer {
   }
 }
 
-/* Category Filter Bar & Chips */
+/* Category Filter Bar & Chips (Dark Theme Overrides) */
 .category-filter-bar, .category-filter-box {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
   padding: 0.85rem 1rem;
   margin-bottom: 1rem;
-  background: #FAF7F2;
-  border: 2px solid var(--border-ink);
+  background: rgba(15, 23, 42, 0.92) !important;
+  border: 1px solid rgba(255, 255, 255, 0.18) !important;
   border-radius: 16px;
-  box-shadow: var(--shadow-sketch, 3px 3px 0px var(--border-ink));
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  color: #F9FAFB !important;
 }
 
 .filter-row {
@@ -848,7 +849,7 @@ footer {
 .filter-group-label {
   font-size: 0.8rem;
   font-weight: 800;
-  color: var(--primary-forest, #047857);
+  color: #FCD34D !important;
   min-width: 130px;
   font-family: var(--font-sans);
 }
@@ -861,11 +862,12 @@ footer {
   gap: 0.4rem;
   cursor: pointer;
   user-select: none;
-  background: #FFF;
-  border: 1.5px solid var(--border-ink, #292524);
+  background: rgba(30, 41, 59, 0.9) !important;
+  color: #E2E8F0 !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
   border-radius: 999px;
   padding: 0.25rem 0.75rem 0.25rem 0.35rem;
-  box-shadow: 2px 2px 0px var(--border-ink, #292524);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
   transition: all 0.2s ease;
   font-size: 0.82rem;
   font-weight: 700;
@@ -873,12 +875,15 @@ footer {
 
 .switch-toggle:hover {
   transform: translateY(-1px);
-  background: #FEF3C7;
+  background: rgba(245, 158, 11, 0.2) !important;
+  border-color: #FCD34D !important;
+  color: #FFF !important;
 }
 
 .switch-toggle.active {
-  background: #ECFDF5;
-  border-color: #047857;
+  background: rgba(16, 185, 129, 0.2) !important;
+  border-color: #10B981 !important;
+  color: #34D399 !important;
 }
 
 .switch-toggle input {
@@ -892,10 +897,10 @@ footer {
   position: relative;
   width: 36px;
   height: 20px;
-  background-color: #CBD5E1;
+  background-color: #475569;
   border-radius: 20px;
   transition: background-color 0.25s ease;
-  border: 1px solid var(--border-ink, #292524);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   flex-shrink: 0;
 }
 
@@ -908,11 +913,11 @@ footer {
   background-color: #FFF;
   border-radius: 50%;
   transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.3);
 }
 
 .switch-toggle input:checked + .switch-track {
-  background-color: #047857;
+  background-color: #059669;
 }
 
 .switch-toggle input:checked + .switch-track .switch-thumb {
@@ -920,9 +925,9 @@ footer {
 }
 
 .filter-chip {
-  background: #FFF;
-  color: var(--text-primary);
-  border: 1.5px solid var(--border-ink);
+  background: rgba(30, 41, 59, 0.9) !important;
+  color: #E2E8F0 !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
   border-radius: 999px;
   padding: 0.35rem 0.85rem;
   font-size: 0.82rem;
@@ -930,7 +935,7 @@ footer {
   cursor: pointer;
   white-space: nowrap;
   transition: all 0.2s ease;
-  box-shadow: 2px 2px 0px var(--border-ink);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
@@ -938,21 +943,23 @@ footer {
 }
 
 .filter-chip:hover {
-  background: #FEF3C7;
+  background: rgba(245, 158, 11, 0.25) !important;
+  border-color: #FCD34D !important;
+  color: #FFF !important;
   transform: translateY(-1px);
 }
 
 .filter-chip.active {
-  background: #047857;
-  color: #FFF;
-  border-color: #047857;
-  box-shadow: 2px 2px 0px #064E3B;
+  background: linear-gradient(135deg, #059669, #047857) !important;
+  color: #FFFFFF !important;
+  border-color: #10B981 !important;
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.5) !important;
 }
 
 .view-mode-btn {
-  background: #FFF;
-  color: var(--text-primary);
-  border: 1.5px solid var(--border-ink);
+  background: rgba(30, 41, 59, 0.9) !important;
+  color: #E2E8F0 !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
   border-radius: 8px;
   padding: 0.3rem 0.65rem;
   font-size: 0.78rem;
@@ -962,9 +969,10 @@ footer {
 }
 
 .view-mode-btn.active {
-  background: #0369A1;
-  color: #FFF;
-  border-color: #0369A1;
+  background: #0284C7 !important;
+  color: #FFFFFF !important;
+  border-color: #38BDF8 !important;
+  box-shadow: 0 0 12px rgba(56, 189, 248, 0.5) !important;
 }
 
 .planner-outer-box {
@@ -1195,7 +1203,7 @@ footer {
 .hero-image-wrapper {
   position: relative;
   width: 100%;
-  max-width: 900px;
+  max-width: 1100px;
   margin: 1.5rem auto 2.5rem;
   display: flex;
   justify-content: center;
@@ -1207,9 +1215,10 @@ footer {
   height: auto;
   display: block;
   object-fit: cover;
-  border-radius: 24px;
-  mask-image: radial-gradient(circle at center, rgba(0,0,0,1) 58%, rgba(0,0,0,0) 96%);
-  -webkit-mask-image: radial-gradient(circle at center, rgba(0,0,0,1) 58%, rgba(0,0,0,0) 96%);
+  border-radius: 20px;
+  /* Feather only the extreme outer 8% edge so all text is 100% visible */
+  mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 90%, rgba(0,0,0,0) 100%);
+  -webkit-mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 90%, rgba(0,0,0,0) 100%);
   filter: drop-shadow(0 0 35px rgba(56, 189, 248, 0.25));
 }
 
