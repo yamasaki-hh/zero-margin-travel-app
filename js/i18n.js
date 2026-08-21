@@ -645,7 +645,7 @@ const I18nEngine = {
       }
     }
 
-    const select = document.getElementById('languageSelect');
+    const select = document.getElementById('globalLanguageSelect');
     if (select) {
       select.value = this.currentLang;
     }
@@ -658,7 +658,7 @@ const I18nEngine = {
     this.currentLang = lang;
     localStorage.setItem('0mt_lang', lang);
     
-    const select = document.getElementById('languageSelect');
+    const select = document.getElementById('globalLanguageSelect');
     if (select && select.value !== lang) {
       select.value = lang;
     }

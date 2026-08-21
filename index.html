@@ -228,11 +228,12 @@
   <script src="js/ai-travel-engine.js?v=20260820_2200"></script>
   <script src="js/travel-app.js?v=20260820_2200"></script>
   <script>
-    window.addEventListener('DOMContentLoaded', function() {
+    window.addEventListener('DOMContentLoaded', async function() {
       if (window.I18nEngine) {
         window.I18nEngine.init();
       }
       if (window.AITravelEngine) {
+        await window.AITravelEngine.init();
         window.AITravelEngine.renderCandidateSpots();
       }
     });
