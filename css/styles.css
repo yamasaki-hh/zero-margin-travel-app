@@ -177,15 +177,15 @@ h1, h2, h3, h4 {
 /* Paper Tape & Badges */
 .paper-tape {
   display: inline-block;
-  background: #FEF3C7;
-  color: var(--primary-wood);
-  border: 1.5px solid var(--border-ink);
+  background: rgba(30, 41, 59, 0.95);
+  color: #FCD34D;
+  border: 1.5px solid #F59E0B;
   padding: 0.35rem 0.85rem;
   font-family: var(--font-hand);
-  font-weight: bold;
+  font-weight: 800;
   font-size: 1.25rem;
   transform: rotate(-1.5deg);
-  box-shadow: 2px 2px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px rgba(245,158,11,0.3);
   max-width: 100%;
 }
 
@@ -451,7 +451,7 @@ h1, h2, h3, h4 {
   flex-wrap: wrap;
   gap: 0.75rem;
   margin-bottom: 1.25rem;
-  background: #FFFDF9;
+  background: rgba(15, 23, 42, 0.95);
   padding: 0.75rem 1rem;
   border-radius: 14px;
   border: 2px solid var(--border-ink);
@@ -761,6 +761,7 @@ footer {
 @media (max-width: 768px) {
   .navbar {
     padding: 0.75rem 0.85rem;
+    flex-wrap: wrap;
   }
   
   .brand-title {
@@ -1064,20 +1065,20 @@ footer {
   gap: 0.4rem;
   padding: 0.5rem 1rem;
   border-radius: 9999px;
-  border: 2px solid var(--border-ink);
+  border: 1.5px solid #F59E0B;
   font-weight: 700;
   font-size: 0.85rem;
   cursor: pointer;
   transition: all 0.2s ease;
   box-shadow: 2px 2px 0px var(--border-ink);
-  background: #FFF;
-  color: var(--text-primary);
+  background: rgba(30, 41, 59, 0.95);
+  color: #FFFFFF;
 }
 
 .share-pill-btn:hover {
   transform: translateY(-2px);
   box-shadow: 3px 4px 0px var(--border-ink);
-  background: #FEF3C7;
+  background: rgba(245, 158, 11, 0.25);
 }
 
 /* Floating Toast Notification */
@@ -1193,6 +1194,12 @@ footer {
   box-shadow: 0 0 12px rgba(56, 189, 248, 0.5) !important;
 }
 
+.route-card-desc {
+  color: #F9FAFB !important;
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+
 /* Category & Zone Badges inside Spot Cards */
 .spot-card .badge, .spot-card span[style*="background"] {
   border-radius: 6px;
@@ -1239,7 +1246,10 @@ select.form-control option, option {
 /* Mobile Header Navbar Layout & Prominent Language Selector */
 @media (max-width: 768px) {
   #topShareContainer {
-    display: none !important; /* Hide header social icons on mobile so Language Selector gets maximum room */
+    display: flex !important;
+    justify-content: center;
+    width: 100%;
+    margin-top: 0.4rem;
   }
   #globalLanguageSelect {
     min-width: 140px !important;
@@ -1252,6 +1262,49 @@ select.form-control option, option {
     box-shadow: 0 0 12px rgba(245, 158, 11, 0.4) !important;
     font-weight: 800 !important;
   }
+}
+
+.floating-cta-bar {
+  position: fixed;
+  bottom: -100px;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  background: rgba(15, 23, 42, 0.95);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-top: 1.5px solid #F59E0B;
+  padding: 0.8rem 1rem;
+  box-shadow: 0 -5px 25px rgba(0,0,0,0.6);
+  transition: bottom 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.floating-cta-bar.active {
+  bottom: 0;
+}
+.floating-cta-bar button {
+  background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%);
+  color: #FFFFFF;
+  font-weight: 800;
+  border: none;
+  padding: 0.75rem 2rem;
+  border-radius: 999px;
+  font-size: 1.05rem;
+  box-shadow: 0 4px 15px rgba(245,158,11,0.4);
+  cursor: pointer;
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.floating-cta-bar button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(245,158,11,0.6);
 }
 
 
