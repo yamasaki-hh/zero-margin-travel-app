@@ -665,14 +665,14 @@ const AITravelEngine = {
           `}
 
           <div style="display:flex; align-items:center; gap:0.35rem; flex-wrap:wrap; margin-bottom:0.5rem;">
-            <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${activeCat}</span>
-            <span style="font-size:0.72rem; font-weight:700; background:${spot.locationZone === 'suburban' ? '#FEF3C7' : '#F1F5F9'}; color:${spot.locationZone === 'suburban' ? '#B45309' : '#475569'}; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid ${spot.locationZone === 'suburban' ? '#FDE68A' : '#CBD5E1'};">
+            <span style="font-size:0.75rem; font-weight:700; background:rgba(56,189,248,0.2); color:#38BDF8; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid rgba(56,189,248,0.4);">${activeCat}</span>
+            <span style="font-size:0.72rem; font-weight:700; background:rgba(245,158,11,0.2); color:#FCD34D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(245,158,11,0.4);">
               ${activeZone}
             </span>
-            ${spot.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
-            ${spot.rain ? `<span style="font-size:0.72rem; font-weight:800; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #BAE6FD;">☔ Rain</span>` : ''}
-            ${spot.shopping ? `<span style="font-size:0.72rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FDE68A;">🛍️ Shop</span>` : ''}
-            ${spot.free ? `<span style="font-size:0.72rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #A7F3D0;">🆓 Free</span>` : ''}
+            ${spot.kids ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(244,114,182,0.2); color:#F472B6; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(244,114,182,0.4);">🧸 Kids</span>` : ''}
+            ${spot.rain ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(56,189,248,0.2); color:#38BDF8; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(56,189,248,0.4);">☔ Rain</span>` : ''}
+            ${spot.shopping ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(251,191,36,0.2); color:#FBBF24; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(251,191,36,0.4);">🛍️ Shop</span>` : ''}
+            ${spot.free ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(16,185,129,0.2); color:#34D399; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(16,185,129,0.4);">🆓 Free</span>` : ''}
           </div>
 
           <h3 style="font-size:1.2rem; margin-bottom:0.4rem; font-family:var(--font-sans); color:var(--text-primary); word-break:break-word;">
@@ -923,18 +923,18 @@ const viewModeBarHtml = categoryFilterBarHtml + `
           const cleanPrice = this.formatCompactPrice(cardPrice);
 
           return `
-            <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; padding:0.45rem 0.55rem; display:flex; align-items:center; justify-content:space-between; gap:0.4rem; border-radius:10px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 0 2px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
+            <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#F59E0B' : 'rgba(255, 255, 255, 0.18)'}; background:${isChecked ? 'rgba(30, 41, 59, 0.95)' : 'rgba(15, 23, 42, 0.88)'}; cursor:pointer; padding:0.45rem 0.55rem; display:flex; align-items:center; justify-content:space-between; gap:0.4rem; border-radius:10px; transition:all 0.15s ease; box-shadow:${isChecked ? '0 0 20px rgba(245, 158, 11, 0.4)' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
               <div style="display:flex; align-items:flex-start; gap:0.45rem; flex:1; min-width:0;">
-                <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:20px; height:20px; cursor:pointer; accent-color:#047857; flex-shrink:0; margin-top:2px;">
+                <input type="checkbox" id="chk_${s.id}" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation(); AITravelEngine.toggleSpotSelection('${s.id}', 8)" style="width:20px; height:20px; cursor:pointer; accent-color:#F59E0B; flex-shrink:0; margin-top:2px;">
                 
                 <div style="display:flex; flex-direction:column; justify-content:center; min-width:0; flex:1;">
                   <!-- Line 1: Spot Name (Up to 2 lines wrap) -->
-                  <div style="font-weight:800; font-size:0.92rem; color:var(--text-primary); line-height:1.25; word-break:break-word;">
+                  <div style="font-weight:800; font-size:0.92rem; color:#FFFFFF; line-height:1.25; word-break:break-word;">
                     ${escapeHtml(cardName)}
                   </div>
 
                   <!-- Line 2: Description (Up to 3 lines clamped) -->
-                  <p style="font-size:0.77rem; color:var(--text-secondary); line-height:1.35; margin-top:2px; margin-bottom:0; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; text-overflow:ellipsis;">
+                  <p style="font-size:0.77rem; color:#CBD5E1; line-height:1.35; margin-top:2px; margin-bottom:0; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; text-overflow:ellipsis;">
                     ${escapeHtml(cardDesc)}
                   </p>
                 </div>
@@ -980,43 +980,43 @@ const viewModeBarHtml = categoryFilterBarHtml + `
           const cardZone = this.getLocalizedZone(s.locationZone);
 
           return `
-            <div class="card spot-candidate-card" style="border:2.5px solid ${isChecked ? '#B45309' : 'var(--border-ink)'}; background:${isChecked ? '#FEF3C7' : '#FFF'}; cursor:pointer; transition:all 0.2s ease; display:flex; flex-direction:column; justify-content:space-between; position:relative; box-shadow:${isChecked ? '0 0 0 3px #FDE68A' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
+            <div class="card spot-candidate-card" style="border:1.5px solid ${isChecked ? '#F59E0B' : 'rgba(255, 255, 255, 0.18)'}; background:${isChecked ? 'rgba(30, 41, 59, 0.95)' : 'rgba(15, 23, 42, 0.88)'}; cursor:pointer; transition:all 0.2s ease; display:flex; flex-direction:column; justify-content:space-between; position:relative; box-shadow:${isChecked ? '0 0 20px rgba(245, 158, 11, 0.45)' : 'none'}; width:100%; box-sizing:border-box;" onclick="AITravelEngine.toggleSpotSelection('${s.id}', 8)">
               ${isChecked ? `
-                <div style="position:absolute; top:-10px; left:-10px; background:#047857; color:#FFF; font-weight:800; font-size:0.75rem; padding:0.25rem 0.65rem; border-radius:999px; border:2px solid #FFF; box-shadow:0 2px 5px rgba(0,0,0,0.2); z-index:10;">
+                <div style="position:absolute; top:-10px; left:-10px; background:#F59E0B; color:#0F172A; font-weight:800; font-size:0.75rem; padding:0.25rem 0.65rem; border-radius:999px; border:2px solid #FFF; box-shadow:0 0 10px rgba(245,158,11,0.5); z-index:10;">
                   ✓ ${t('badge.mustVisit')}
                 </div>
               ` : ''}
 
               <div>
                 ${hasPhoto ? `
-                  <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#FAF7F2; position:relative;">
+                  <div style="width:100%; height:140px; overflow:hidden; border-radius:12px; margin-bottom:0.75rem; background:#0F172A; position:relative;">
                     <img src="${s.image}" alt="${escapeHtml(cardName)}" loading="lazy" decoding="async" onerror="this.onerror=null; AITravelEngine.handleImageError(this, '${escapeHtml(s.category)}', '${escapeHtml(s.rating)}', '${escapeHtml(cardCat)}');" style="width:100%; height:100%; object-fit:cover; display:block;">
-                    <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(255,255,255,0.92); color:#0369A1; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid #0284C7; box-shadow:0 2px 4px rgba(0,0,0,0.1);">🌐 Wikipedia</span>
-                    <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(255,255,255,0.92); color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857; box-shadow:0 2px 4px rgba(0,0,0,0.1);">${s.rating}</span>
+                    <span style="position:absolute; top:8px; left:8px; font-size:0.68rem; font-weight:800; background:rgba(15,23,42,0.85); color:#38BDF8; padding:0.15rem 0.45rem; border-radius:4px; border:1px solid rgba(56,189,248,0.4); box-shadow:0 2px 4px rgba(0,0,0,0.3);">🌐 Wikipedia</span>
+                    <span style="position:absolute; top:8px; right:8px; font-size:0.75rem; font-weight:800; background:rgba(15,23,42,0.85); color:#34D399; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid rgba(16,185,129,0.4); box-shadow:0 2px 4px rgba(0,0,0,0.3);">${s.rating}</span>
                   </div>
                 ` : `
-                  <div style="width:100%; height:76px; border-radius:12px; margin-bottom:0.75rem; background:linear-gradient(135deg, #FEF3C7, #E0E7FF); border:1.5px solid var(--border-ink); display:flex; align-items:center; justify-content:space-between; padding:0.75rem 1rem; position:relative;">
+                  <div style="width:100%; height:76px; border-radius:12px; margin-bottom:0.75rem; background:linear-gradient(135deg, rgba(245,158,11,0.2), rgba(99,102,241,0.2)); border:1px solid rgba(255,255,255,0.18); display:flex; align-items:center; justify-content:space-between; padding:0.75rem 1rem; position:relative;">
                     <div style="display:flex; align-items:center; gap:0.5rem;">
                       <span style="font-size:1.5rem;">${getCategoryIcon(s.category)}</span>
                       <div>
-                        <div style="font-weight:800; font-size:0.85rem; color:var(--primary-wood);">${escapeHtml(cardCat)}</div>
-                        <div style="font-size:0.72rem; color:var(--text-secondary);">Verified Google Maps Venue</div>
+                        <div style="font-weight:800; font-size:0.85rem; color:#FCD34D;">${escapeHtml(cardCat)}</div>
+                        <div style="font-size:0.72rem; color:#94A3B8;">Verified Google Maps Venue</div>
                       </div>
                     </div>
-                    <span style="font-size:0.75rem; font-weight:800; background:#FFF; color:#047857; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid #047857;">${s.rating}</span>
+                    <span style="font-size:0.75rem; font-weight:800; background:rgba(15,23,42,0.85); color:#34D399; padding:0.2rem 0.55rem; border-radius:6px; border:1px solid rgba(16,185,129,0.4);">${s.rating}</span>
                   </div>
                 `}
 
                 <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.4rem; flex-wrap:wrap; gap:0.3rem;">
                   <div style="display:flex; align-items:center; gap:0.3rem; flex-wrap:wrap;">
-                    <span style="font-size:0.75rem; font-weight:700; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid #0284C7;">${cardCat}</span>
-                    <span style="font-size:0.72rem; font-weight:700; background:${s.locationZone === 'suburban' ? '#FEF3C7' : '#F1F5F9'}; color:${s.locationZone === 'suburban' ? '#B45309' : '#475569'}; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid ${s.locationZone === 'suburban' ? '#FDE68A' : '#CBD5E1'};">
+                    <span style="font-size:0.75rem; font-weight:700; background:rgba(56,189,248,0.2); color:#38BDF8; padding:0.15rem 0.55rem; border-radius:6px; border:1px solid rgba(56,189,248,0.4);">${cardCat}</span>
+                    <span style="font-size:0.72rem; font-weight:700; background:rgba(245,158,11,0.2); color:#FCD34D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(245,158,11,0.4);">
                       ${cardZone}
                     </span>
-                    ${s.kids ? `<span style="font-size:0.72rem; font-weight:800; background:#FCE7F3; color:#BE185D; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FBCFE8;">🧸 Kids</span>` : ''}
-                    ${s.rain ? `<span style="font-size:0.72rem; font-weight:800; background:#E0F2FE; color:#0369A1; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #BAE6FD;">☔ Rain</span>` : ''}
-                    ${s.shopping ? `<span style="font-size:0.72rem; font-weight:800; background:#FEF3C7; color:#B45309; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #FDE68A;">🛍️ Shop</span>` : ''}
-                    ${s.free ? `<span style="font-size:0.72rem; font-weight:800; background:#D1FAE5; color:#047857; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid #A7F3D0;">🆓 Free</span>` : ''}
+                    ${s.kids ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(244,114,182,0.2); color:#F472B6; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(244,114,182,0.4);">🧸 Kids</span>` : ''}
+                    ${s.rain ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(56,189,248,0.2); color:#38BDF8; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(56,189,248,0.4);">☔ Rain</span>` : ''}
+                    ${s.shopping ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(251,191,36,0.2); color:#FBBF24; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(251,191,36,0.4);">🛍️ Shop</span>` : ''}
+                    ${s.free ? `<span style="font-size:0.72rem; font-weight:800; background:rgba(16,185,129,0.2); color:#34D399; padding:0.15rem 0.45rem; border-radius:6px; border:1px solid rgba(16,185,129,0.4);">🆓 Free</span>` : ''}
                   </div>
                 </div>
 

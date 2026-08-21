@@ -1191,4 +1191,40 @@ footer {
   font-weight: 700;
 }
 
+/* Seamless Fuzzy Hero Image Blending */
+.hero-image-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  margin: 1.5rem auto 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-main-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  border-radius: 24px;
+  mask-image: radial-gradient(circle at center, rgba(0,0,0,1) 58%, rgba(0,0,0,0) 96%);
+  -webkit-mask-image: radial-gradient(circle at center, rgba(0,0,0,1) 58%, rgba(0,0,0,0) 96%);
+  filter: drop-shadow(0 0 35px rgba(56, 189, 248, 0.25));
+}
+
+.hero-image-glow {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 95%;
+  height: 95%;
+  background: radial-gradient(circle, rgba(56, 189, 248, 0.28) 0%, rgba(245, 158, 11, 0.18) 45%, transparent 75%);
+  filter: blur(45px);
+  z-index: -1;
+  pointer-events: none;
+}
+
+
 
