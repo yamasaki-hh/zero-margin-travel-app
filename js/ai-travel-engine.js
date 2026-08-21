@@ -1114,7 +1114,9 @@ const viewModeBarHtml = categoryFilterBarHtml + `
     if (!this.ctaObserverSetup && fixedContainer) {
       this.ctaObserverSetup = true;
       const observer = new IntersectionObserver((entries) => {
-        this.isFixedCtaVisible = entries[0].isIntersecting;
+        const entry = entries[0];
+        // Hide if the fixed CTA is in view OR if we have scrolled past it (top < 0)
+        this.isFixedCtaVisible = entry.isIntersecting || entry.boundingClientRect.top < 0;
         this.updateFloatingCtaBar();
       }, { threshold: 0.1 });
       observer.observe(fixedContainer);
