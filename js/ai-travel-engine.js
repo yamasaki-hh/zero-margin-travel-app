@@ -40,7 +40,7 @@ const AITravelEngine = {
             isMuseum: c.includes('museum') || c.includes('art') || c.includes('ギャラリー') || c.includes('美術館') || c.includes('博物館'),
             isCafe: c.includes('café') || c.includes('cafe') || c.includes('bistro') || c.includes('restaurant') || c.includes('dining') || c.includes('bakery') || c.includes('カフェ') || c.includes('レストラン'),
             isScenery: c.includes('scenery') || c.includes('walk') || c.includes('park') || c.includes('プロムナード') || c.includes('散策'),
-            isKids: spot.kids === true || spot.family === true || c.includes('kids') || c.includes('family'),
+            isKids: spot.kids === true || c.includes('kids'),
             isShopping: spot.shopping === true || c.includes('shopping') || c.includes('market')
           };
           // Sync boolean flags for consistent UI rendering elsewhere
